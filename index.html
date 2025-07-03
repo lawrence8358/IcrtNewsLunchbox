@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ICRT For Kids 聽力練習</title>
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="assets/css/style.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <div class="header">
+        <h1><i class="fas fa-headphones me-2"></i>ICRT For Kids 聽力練習</h1>
+        <small>專為台灣國中小學童設計的英語聽力練習</small>
+    </div>
+
+    <!-- Filter Section -->
+    <div class="filter-section">
+        <div class="row g-3">
+            <div class="col-md-3">
+                <label for="monthSelect" class="form-label">
+                    <i class="fas fa-calendar-alt me-1"></i>選擇月份
+                </label>
+                <select class="form-select" id="monthSelect">
+                    <option value="">請選擇月份</option>
+                </select>
+            </div>
+            <div class="col-md-2">
+                <label for="typeSelect" class="form-label">
+                    <i class="fas fa-layer-group me-1"></i>程度
+                </label>
+                <select class="form-select" id="typeSelect">
+                    <option value="">全部程度</option>
+                </select>
+            </div>
+            <div class="col-md-2">
+                <label for="tagSelect" class="form-label">
+                    <i class="fas fa-tags me-1"></i>標籤
+                </label>
+                <select class="form-select" id="tagSelect">
+                    <option value="">全部標籤</option>
+                </select>
+            </div>
+            <div class="col-md-3">
+                <label for="topicSearch" class="form-label">
+                    <i class="fas fa-search me-1"></i>搜尋內容
+                </label>
+                <input type="text" class="form-control" id="topicSearch" placeholder="搜尋主題、內容、單字...">
+            </div>
+            <div class="col-md-2 d-flex align-items-end">
+                <button class="btn btn-primary w-100" id="searchBtn">
+                    <i class="fas fa-search me-1"></i>搜尋
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Topics List -->
+    <div id="topicsList">
+        <div class="loading">
+            <i class="fas fa-spinner fa-spin fa-2x"></i>
+            <p class="mt-2">載入中...</p>
+        </div>
+    </div>
+
+    <!-- Topic Detail Modal -->
+    <div class="modal fade" id="topicModal" tabindex="-1">
+        <div class="modal-dialog modal-fullscreen">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="modalTitle">
+                        <i class="fas fa-book-open me-2"></i>主題詳細內容
+                    </h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <!-- Audio Controls -->
+                    <div class="audio-controls">
+                        <h6><i class="fas fa-volume-up me-2"></i>音效播放</h6>
+                        <audio id="topicAudio" controls class="w-100" preload="metadata">
+                            您的瀏覽器不支援音效播放。
+                        </audio>
+                    </div>
+                    
+                    <!-- Topic Info -->
+                    <div id="topicInfo"></div>
+                    
+                    <!-- Navigation Tabs -->
+                    <ul class="nav nav-tabs mt-3" role="tablist">
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link active" id="content-tab" data-bs-toggle="tab" data-bs-target="#content-pane" type="button" role="tab">
+                                <i class="fas fa-file-text me-1"></i>內容
+                            </button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="vocabulary-tab" data-bs-toggle="tab" data-bs-target="#vocabulary-pane" type="button" role="tab">
+                                <i class="fas fa-book me-1"></i>單字
+                            </button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="quiz-tab" data-bs-toggle="tab" data-bs-target="#quiz-pane" type="button" role="tab">
+                                <i class="fas fa-question-circle me-1"></i>測驗
+                            </button>
+                        </li>
+                    </ul>
+                    
+                    <!-- Tab Content -->
+                    <div class="tab-content mt-3">
+                        <!-- Content Tab -->
+                        <div class="tab-pane fade show active" id="content-pane" role="tabpanel">
+                            <div id="contentList"></div>
+                        </div>
+                        
+                        <!-- Vocabulary Tab -->
+                        <div class="tab-pane fade" id="vocabulary-pane" role="tabpanel">
+                            <div id="vocabularyContent"></div>
+                        </div>
+                        
+                        <!-- Quiz Tab -->
+                        <div class="tab-pane fade" id="quiz-pane" role="tabpanel">
+                            <div id="quizContent"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <div class="footer-content">
+                        <h6><i class="fas fa-info-circle me-2"></i>版權聲明</h6>
+                        <p class="mb-2">
+                            本網站內容來源自 <a href="https://www.icrt.com.tw/news_lunchbox.php?&mlevel1=7&mlevel2=96" target="_blank" class="footer-link">ICRT News Lunchbox</a>，
+                            版權歸原作者所有。
+                        </p>
+                        <p class="mb-2">
+                            本專案僅供教育用途，用於協助台灣國中小學童進行英語聽力練習。
+                            所有內容均為公開可取得之資料，並已重新整理為更適合學習的格式。
+                        </p>
+                        <p class="mb-2">
+                            如有版權疑慮，請聯繫我們，我們將立即處理。
+                        </p>
+                        <div class="footer-divider"></div>
+                        <small class="text-muted">
+                            <i class="fas fa-graduation-cap me-1"></i>
+                            專為台灣學童設計的英語聽力練習平台 © 2025
+                        </small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Custom JavaScript -->
+    <script src="assets/js/app.js"></script>
+</body>
+</html>
