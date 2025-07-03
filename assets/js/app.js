@@ -5,15 +5,11 @@ class ICRTApp {
         this.currentTopic = null;
         this.audio = null;
         this.monthsData = [];
-        
-        this.init();
     }
     
-    init() {
-        this.loadSettings();
+    async init() {
         this.bindEvents();
-        this.loadMonthOptions();
-        this.loadTagOptions();
+        await this.loadAllDataAndSettings();
         this.loadInitialData();
     }
     
@@ -28,20 +24,115 @@ class ICRTApp {
         return `${dateString}(${weekday})`;
     }
     
-    loadSettings() {
+    // 同時載入所有資料和設定
+    async loadAllDataAndSettings() {
+        // 先嘗試載入本地設定
         const savedSettings = localStorage.getItem('icrt_settings');
-        if (savedSettings) {
-            this.settings = JSON.parse(savedSettings);
-        } else {
-            this.settings = {
-                lastMonth: this.getCurrentMonth(),
-                lastSearch: '',
-                lastType: '',
-                lastTag: ''
-            };
+        
+        try {
+            // 並行載入 months.json 和 tag.json
+            const randomParam = `?v=${Date.now()}&r=${Math.random().toString(36).substring(7)}`;
+            const [monthsResponse, tagsResponse] = await Promise.all([
+                fetch(`assets/data/months.json${randomParam}`),
+                fetch(`assets/data/tag.json${randomParam}`)
+            ]);
+            
+            // 處理 months.json
+            if (monthsResponse.ok) {
+                this.monthsData = await monthsResponse.json();
+            } else {
+                console.error('載入 months.json 失敗');
+                this.monthsData = [];
+            }
+            
+            // 處理 tag.json
+            let tagsData = [];
+            if (tagsResponse.ok) {
+                tagsData = await tagsResponse.json();
+            } else {
+                console.error('載入 tag.json 失敗');
+            }
+            
+            // 設定 settings
+            if (savedSettings) {
+                this.settings = JSON.parse(savedSettings);
+            } else {
+                // 如果沒有設定檔，使用 months.json 的最新月份
+                let latestMonth = this.getCurrentMonth();
+                if (this.monthsData && this.monthsData.length > 0) {
+                    latestMonth = this.monthsData[this.monthsData.length - 1];
+                }
+                
+                this.settings = {
+                    lastMonth: latestMonth,
+                    lastSearch: '',
+                    lastType: '',
+                    lastTag: ''
+                };
+            }
+            
+            // 設定月份選項
+            this.populateMonthOptions();
+            
+            // 設定標籤選項
+            this.populateTagOptions(tagsData);
+            
+        } catch (error) {
+            console.error('載入資料時發生錯誤:', error);
+            
+            // 如果載入失敗，使用預設設定和備用選項
+            if (savedSettings) {
+                this.settings = JSON.parse(savedSettings);
+            } else {
+                this.settings = {
+                    lastMonth: this.getCurrentMonth(),
+                    lastSearch: '',
+                    lastType: '',
+                    lastTag: ''
+                };
+            }
+            
+            this.populateMonthOptionsFallback();
         }
     }
     
+    // 設定月份選項（使用已載入的資料）
+    populateMonthOptions() {
+        const select = $('#monthSelect');
+        select.empty();
+        select.append('<option value="">請選擇月份</option>');
+        
+        if (this.monthsData && this.monthsData.length > 0) {
+            this.monthsData.forEach(monthValue => {
+                const label = this.formatMonthLabel(monthValue);
+                select.append(`<option value="${monthValue}">${label}</option>`);
+            });
+        }
+        
+        // 恢復之前的選擇
+        if (this.settings.lastMonth) {
+            const lastMonthFormatted = this.settings.lastMonth.replace('-', '');
+            select.val(lastMonthFormatted);
+        }
+        
+        // 設定其他欄位的預設值
+        $('#topicSearch').val(this.settings.lastSearch);
+    }
+    
+    // 設定標籤選項（使用已載入的資料）
+    populateTagOptions(tagsData) {
+        const tagSelect = $('#tagSelect');
+        tagSelect.empty().append('<option value="">全部標籤</option>');
+        
+        if (tagsData && tagsData.length > 0) {
+            tagsData.forEach(tag => {
+                tagSelect.append(`<option value="${tag}">${tag}</option>`);
+            });
+        }
+        
+        // 設定預設值
+        tagSelect.val(this.settings.lastTag);    }
+
     saveSettings() {
         localStorage.setItem('icrt_settings', JSON.stringify(this.settings));
     }
@@ -60,39 +151,6 @@ class ICRTApp {
         const year = monthValue.substring(0, 4);
         const month = monthValue.substring(4, 6);
         return `${year}年${month}月`;
-    }
-    
-    // 載入月份選項從 JSON 檔案
-    async loadMonthOptions() {
-        try {
-            // 加上隨機查詢字串防止快取
-            const randomParam = `?v=${Date.now()}&r=${Math.random().toString(36).substring(7)}`;
-            const response = await fetch(`assets/data/months.json${randomParam}`);
-            this.monthsData = await response.json();
-            
-            const select = $('#monthSelect');
-            select.empty();
-            select.append('<option value="">請選擇月份</option>');
-            
-            this.monthsData.forEach(monthValue => {
-                const label = this.formatMonthLabel(monthValue);
-                select.append(`<option value="${monthValue}">${label}</option>`);
-            });
-            
-            // 恢復之前的選擇
-            if (this.settings.lastMonth) {
-                // 將 yyyy-MM 格式轉換為 yyyyMM 格式來匹配
-                const lastMonthFormatted = this.settings.lastMonth.replace('-', '');
-                select.val(lastMonthFormatted);
-            }
-            
-            // 設定其他欄位的預設值
-            $('#topicSearch').val(this.settings.lastSearch);
-        } catch (error) {
-            console.error('載入月份選項失敗:', error);
-            // 如果載入失敗，回到原來的邏輯
-            this.populateMonthOptionsFallback();
-        }
     }
     
     // 備用的月份生成邏輯
@@ -117,31 +175,6 @@ class ICRTApp {
             select.val(lastMonthFormatted);
         }
         $('#topicSearch').val(this.settings.lastSearch);
-    }
-    
-    async loadTagOptions() {
-        try {
-            // 加上隨機查詢字串防止快取
-            const randomParam = `?v=${Date.now()}&r=${Math.random().toString(36).substring(7)}`;
-            const response = await fetch(`assets/data/tag.json${randomParam}`);
-            if (!response.ok) {
-                throw new Error('標籤資料載入失敗');
-            }
-            
-            const tags = await response.json();
-            const tagSelect = $('#tagSelect');
-            tagSelect.empty().append('<option value="">全部標籤</option>');
-            
-            // 標籤已經在JSON中按英文排序
-            tags.forEach(tag => {
-                tagSelect.append(`<option value="${tag}">${tag}</option>`);
-            });
-            
-            // 設定預設值
-            tagSelect.val(this.settings.lastTag);
-        } catch (error) {
-            console.error('載入標籤時發生錯誤:', error);
-        }
     }
     
     populateFilterOptions() {
@@ -688,6 +721,7 @@ class ICRTApp {
 }
 
 // 初始化應用程式
-$(document).ready(() => {
-    new ICRTApp();
+$(document).ready(async () => {
+    const app = new ICRTApp();
+    await app.init();
 });
