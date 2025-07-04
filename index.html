@@ -19,66 +19,139 @@
         <small>專為台灣國中小學童設計的英語聽力練習</small>
     </div>
 
-    <!-- Filter Section -->
-    <div class="filter-section">
-        <div class="row g-3">
-            <div class="col-md-3">
-                <label for="monthSelect" class="form-label">
-                    <i class="fas fa-calendar-alt me-1"></i>選擇月份
-                </label>
-                <select class="form-select" id="monthSelect">
-                    <option value="">請選擇月份</option>
-                </select>
-            </div>
-            <div class="col-md-2">
-                <label for="typeSelect" class="form-label">
-                    <i class="fas fa-layer-group me-1"></i>程度
-                </label>
-                <select class="form-select" id="typeSelect">
-                    <option value="">全部程度</option>
-                </select>
-            </div>
-            <div class="col-md-2">
-                <label for="tagSelect" class="form-label">
-                    <i class="fas fa-tags me-1"></i>標籤
-                </label>
-                <select class="form-select" id="tagSelect">
-                    <option value="">全部標籤</option>
-                </select>
-            </div>
-            <div class="col-md-3">
-                <label for="topicSearch" class="form-label">
-                    <i class="fas fa-search me-1"></i>搜尋內容
-                </label>
-                <input type="text" class="form-control" id="topicSearch" placeholder="搜尋主題、內容、單字...">
-            </div>
-            <div class="col-md-2 d-flex align-items-end">
-                <button class="btn btn-primary w-100" id="searchBtn">
-                    <i class="fas fa-search me-1"></i>搜尋
-                </button>
-            </div>
+    <!-- Navigation -->
+    <div class="bg-white border-bottom py-2">
+        <div class="container-fluid px-0">
+            <ul class="nav nav-underline justify-content-center gap-3 main-nav-tabs">
+                <li class="nav-item">
+                    <a class="nav-link active" href="#" id="homeTab">
+                        <i class="fas fa-home me-1"></i>主頁
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" id="vocabularyBookTab">
+                        <i class="fas fa-bookmark me-1"></i>我的生字簿
+                    </a>
+                </li>
+            </ul>
         </div>
     </div>
 
-    <!-- Topics List -->
-    <div id="topicsList">
-        <div class="loading">
-            <i class="fas fa-spinner fa-spin fa-2x"></i>
-            <p class="mt-2">載入中...</p>
+    <!-- Main Content Container -->
+    <div id="mainContent">
+        <!-- Home Page -->
+        <div id="homePage" class="page-content">
+            <!-- Filter Section -->
+            <div class="filter-section">
+                <div class="row g-3">
+                    <div class="col-md-3">
+                        <label for="monthSelect" class="form-label">
+                            <i class="fas fa-calendar-alt me-1"></i>選擇月份
+                        </label>
+                        <select class="form-select" id="monthSelect">
+                            <option value="">請選擇月份</option>
+                        </select>
+                    </div>
+                    <div class="col-md-2">
+                        <label for="typeSelect" class="form-label">
+                            <i class="fas fa-layer-group me-1"></i>程度
+                        </label>
+                        <select class="form-select" id="typeSelect">
+                            <option value="">全部程度</option>
+                        </select>
+                    </div>
+                    <div class="col-md-2">
+                        <label for="tagSelect" class="form-label">
+                            <i class="fas fa-tags me-1"></i>標籤
+                        </label>
+                        <select class="form-select" id="tagSelect">
+                            <option value="">全部標籤</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <label for="topicSearch" class="form-label">
+                            <i class="fas fa-search me-1"></i>搜尋內容
+                        </label>
+                        <input type="text" class="form-control" id="topicSearch" placeholder="搜尋主題、內容、單字...">
+                    </div>
+                    <div class="col-md-2 d-flex align-items-end">
+                        <button class="btn btn-primary w-100" id="searchBtn">
+                            <i class="fas fa-search me-1"></i>搜尋
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Topics List -->
+            <div id="topicsList">
+                <div class="loading">
+                    <i class="fas fa-spinner fa-spin fa-2x"></i>
+                    <p class="mt-2">載入中...</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Vocabulary Book Page -->
+        <div id="vocabularyBookPage" class="page-content" style="display: none;">
+            <div class="vocabulary-book-page"> 
+
+                <div class="vocabulary-controls">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <label for="vocabularyLevelFilter" class="form-label">
+                                <i class="fas fa-filter me-1"></i>熟悉度篩選
+                            </label>
+                            <select class="form-select" id="vocabularyLevelFilter">
+                                <option value="">全部等級</option>
+                                <option value="unknown">不熟</option>
+                                <option value="fair">尚可</option>
+                                <option value="known">記住了</option>
+                            </select>
+                        </div>
+                        <div class="col-md-4">
+                            <label for="vocabularySearch" class="form-label">
+                                <i class="fas fa-search me-1"></i>搜尋單字
+                            </label>
+                            <input type="text" class="form-control" id="vocabularySearch" placeholder="搜尋單字或翻譯...">
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label">
+                                <i class="fas fa-cog me-1"></i>設定與功能
+                            </label>
+                            <div class="d-flex gap-2">
+                                <button class="btn btn-outline-primary btn-sm" id="storageSettingsBtn" title="儲存設定" style="display: none;">
+                                    <i class="fas fa-database"></i>
+                                </button>
+                                <button class="btn btn-outline-success btn-sm" id="exportVocabularyBtn" title="匯出生字簿">
+                                    <i class="fas fa-download"></i>
+                                </button>
+                                <label for="importVocabularyFile" class="btn btn-outline-info btn-sm mb-0" title="匯入生字簿">
+                                    <i class="fas fa-upload"></i>
+                                    <input type="file" id="importVocabularyFile" accept=".json" style="display: none;">
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div> 
+
+                <div id="vocabularyList">
+                    <!-- 生字列表將在這邊動態產生 -->
+                </div>
+            </div>
         </div>
     </div>
 
     <!-- Topic Detail Modal -->
     <div class="modal fade" id="topicModal" tabindex="-1">
         <div class="modal-dialog modal-fullscreen">
-            <div class="modal-content">
-                <div class="modal-header">
+            <div class="modal-content border-0 shadow rounded-0">
+                <div class="modal-header bg-primary text-white">
                     <h5 class="modal-title" id="modalTitle">
                         <i class="fas fa-book-open me-2"></i>主題詳細內容
                     </h5>
                     <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
                 </div>
-                <div class="modal-body">
+                <div class="modal-body p-4">
                     <!-- Audio Controls -->
                     <div class="audio-controls">
                         <h6><i class="fas fa-volume-up me-2"></i>音效播放</h6>
@@ -91,19 +164,19 @@
                     <div id="topicInfo"></div>
                     
                     <!-- Navigation Tabs -->
-                    <ul class="nav nav-tabs mt-3" role="tablist">
-                        <li class="nav-item" role="presentation">
-                            <button class="nav-link active" id="content-tab" data-bs-toggle="tab" data-bs-target="#content-pane" type="button" role="tab">
+                    <ul class="nav nav-tabs mt-3" aria-label="主題內容分頁">
+                        <li class="nav-item">
+                            <button class="nav-link active" id="content-tab" data-bs-toggle="tab" data-bs-target="#content-pane" type="button">
                                 <i class="fas fa-file-text me-1"></i>內容
                             </button>
                         </li>
-                        <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="vocabulary-tab" data-bs-toggle="tab" data-bs-target="#vocabulary-pane" type="button" role="tab">
+                        <li class="nav-item">
+                            <button class="nav-link" id="vocabulary-tab" data-bs-toggle="tab" data-bs-target="#vocabulary-pane" type="button">
                                 <i class="fas fa-book me-1"></i>單字
                             </button>
                         </li>
-                        <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="quiz-tab" data-bs-toggle="tab" data-bs-target="#quiz-pane" type="button" role="tab">
+                        <li class="nav-item">
+                            <button class="nav-link" id="quiz-tab" data-bs-toggle="tab" data-bs-target="#quiz-pane" type="button">
                                 <i class="fas fa-question-circle me-1"></i>測驗
                             </button>
                         </li>
@@ -126,6 +199,118 @@
                             <div id="quizContent"></div>
                         </div>
                     </div>
+                </div>
+                <!-- <div class="modal-footer d-flex justify-content-end">
+                    <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">
+                        <i class="fas fa-times me-1"></i>關閉
+                    </button>
+                </div> -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Word Selection Context Menu -->
+    <div id="wordContextMenu" class="word-selection-context-menu" style="display: none;">
+        <div class="menu-item" id="addToVocabulary">
+            <i class="fas fa-plus"></i>加入生字簿
+        </div>
+    </div>
+    
+    <!-- Add Word Modal -->
+    <div class="modal fade" id="addWordModal" tabindex="-1">
+        <div class="modal-dialog modal-dialog-centered modal-fullscreen-sm-down">
+            <div class="modal-content border-0 shadow rounded-0">
+                <div class="modal-header bg-primary text-white">
+                    <h5 class="modal-title">
+                        <i class="fas fa-plus me-2"></i>加入/編輯生字
+                    </h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body p-4">
+                    <form id="addWordForm">
+                        <div class="mb-3">
+                            <label class="form-label mb-1">選擇的單字 <span class="text-danger">*</span></label>
+                            <input type="text" class="form-control" id="selectedWord" readonly required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="wordPhonetic" class="form-label mb-1">英標</label>
+                            <input type="text" class="form-control" id="wordPhonetic" placeholder="例：[ˈæpl]">
+                        </div>
+                        <div class="mb-3">
+                            <label for="wordTranslation" class="form-label mb-1">中文翻譯</label>
+                            <textarea class="form-control" id="wordTranslation" rows="2" placeholder="請輸入中文翻譯"></textarea>
+                        </div>
+                        <div class="mb-3">
+                            <label for="wordLevel" class="form-label mb-1">熟悉度 <span class="text-danger">*</span></label>
+                            <select class="form-select" id="wordLevel" required>
+                                <option value="">請選擇</option>
+                                <option value="unknown">不熟</option>
+                                <option value="fair">尚可</option>
+                                <option value="known">記住了</option>
+                            </select>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer d-flex justify-content-between">
+                    <button type="button" class="btn btn-outline-danger" id="deleteWordBtn" style="display:none;">
+                        <i class="fas fa-trash me-1"></i>刪除
+                    </button>
+                    <div class="d-flex gap-2">
+                        <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">取消</button>
+                        <button type="button" class="btn btn-primary" id="saveWordBtn">
+                            <i class="fas fa-save me-1"></i>儲存
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Storage Settings Modal -->
+    <div class="modal fade" id="storageSettingsModal" tabindex="-1">
+        <div class="modal-dialog modal-dialog-centered modal-fullscreen-sm-down">
+            <div class="modal-content border-0 shadow rounded-0">
+                <div class="modal-header bg-primary text-white">
+                    <h5 class="modal-title">
+                        <i class="fas fa-database me-2"></i>儲存設定
+                    </h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body p-4">
+                    <div class="mb-3">
+                        <label class="form-label">當前儲存引擎</label>
+                        <div class="alert alert-info mb-3" id="currentStorageInfo">
+                            <i class="fas fa-info-circle me-2"></i>
+                            <span id="currentStorageText">載入中...</span>
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">選擇儲存引擎</label>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="storageEngine" id="useLocalStorage" value="localStorage">
+                            <label class="form-check-label" for="useLocalStorage">
+                                <i class="fas fa-laptop me-1"></i>LocalStorage
+                                <small class="text-muted d-block">適合小量資料，簡單快速</small>
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="storageEngine" id="useIndexedDB" value="indexedDB">
+                            <label class="form-check-label" for="useIndexedDB">
+                                <i class="fas fa-database me-1"></i>IndexedDB
+                                <small class="text-muted d-block">適合大量資料，功能完整</small>
+                            </label>
+                        </div>
+                    </div>
+                    <div class="alert alert-warning">
+                        <i class="fas fa-exclamation-triangle me-2"></i>
+                        <strong>注意：</strong>切換儲存引擎會將現有資料遷移到新的儲存位置
+                    </div>
+                </div>
+                <div class="modal-footer d-flex justify-content-end">
+                    <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">取消</button>
+                    <button type="button" class="btn btn-primary" id="applyStorageSettings">
+                        <i class="fas fa-save me-1"></i>套用設定
+                    </button>
                 </div>
             </div>
         </div>
@@ -166,5 +351,6 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <!-- Custom JavaScript -->
     <script src="assets/js/app.js"></script>
+    <script src="assets/js/vocabulary-book.js"></script>
 </body>
 </html>

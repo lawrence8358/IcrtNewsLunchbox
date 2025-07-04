@@ -379,8 +379,8 @@ class ICRTApp {
                 let contentMatch = false;
                 if (topic.content && Array.isArray(topic.content)) {
                     contentMatch = topic.content.some(item => {
-                        const enMatch = item.en && item.en.toLowerCase().includes(searchLower);
-                        const twMatch = item.tw && item.tw.toLowerCase().includes(searchLower);
+                        const enMatch = item.en?.toLowerCase().includes(searchLower);
+                        const twMatch = item.tw?.toLowerCase().includes(searchLower);
                         return enMatch || twMatch;
                     });
                 }
@@ -389,8 +389,8 @@ class ICRTApp {
                 let vocabularyMatch = false;
                 if (topic.vocabulary && Array.isArray(topic.vocabulary)) {
                     vocabularyMatch = topic.vocabulary.some(item => {
-                        const enMatch = item.en && item.en.toLowerCase().includes(searchLower);
-                        const twMatch = item.tw && item.tw.toLowerCase().includes(searchLower);
+                        const enMatch = item.en?.toLowerCase().includes(searchLower);
+                        const twMatch = item.tw?.toLowerCase().includes(searchLower);
                         return enMatch || twMatch;
                     });
                 }
@@ -490,7 +490,11 @@ class ICRTApp {
     showTopicDetail(topicId) {
         this.currentTopic = this.filteredData.find(topic => topic.id === topicId);
         if (!this.currentTopic) return;
-        
+
+        // 將當前主題設為全域可存取（供生字簿使用）
+        window.icrtApp = window.icrtApp || {};
+        window.icrtApp.currentTopic = this.currentTopic;
+
         // 設定標題
         $('#modalTitle').html(`
             <div class="modal-title-content">
@@ -709,6 +713,31 @@ class ICRTApp {
         return null;
     }
     
+    // 從生字簿開啟特定文章
+    openTopicById(topicId) {
+        // 在當前資料中尋找文章
+        const topic = this.currentData.find(t => t.id === topicId);
+        if (topic) {
+            this.showTopicDetail(topicId);
+        } else {
+            // 如果當前資料中沒有，嘗試從文章ID推斷月份並載入
+            const monthMatch = topicId.match(/^(\d{6})/);
+            if (monthMatch) {
+                const month = monthMatch[1];
+                this.loadMonthData(month).then(() => {
+                    const foundTopic = this.currentData.find(t => t.id === topicId);
+                    if (foundTopic) {
+                        this.showTopicDetail(topicId);
+                    } else {
+                        alert('找不到指定的文章');
+                    }
+                });
+            } else {
+                alert('找不到指定的文章');
+            }
+        }
+    }
+
     showError(message) {
         $('#topicsList').html(`
             <div class="empty-state">
@@ -724,4 +753,7 @@ class ICRTApp {
 $(document).ready(async () => {
     const app = new ICRTApp();
     await app.init();
+    
+    // 將應用程式實例設為全域可存取（供生字簿使用）
+    window.icrtApp = app;
 });
