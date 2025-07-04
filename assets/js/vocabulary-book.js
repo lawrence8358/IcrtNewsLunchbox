@@ -222,22 +222,22 @@ class VocabularyBook {
         this.selectedText = '';
         this.currentTopic = null;
         this.debug = false; // Debug 模式
-        
+
         // 初始化儲存管理器
         const savedStorageType = localStorage.getItem('vocabulary_storage_type');
         // 預設使用 IndexedDB，除非明確設定為 localStorage 或瀏覽器不支援 IndexedDB
         const supportsIndexedDB = typeof indexedDB !== 'undefined';
         let useIndexedDB = supportsIndexedDB; // 預設使用 IndexedDB
-        
+
         // 如果有明確設定，則使用設定值
         if (savedStorageType === 'localstorage') {
             useIndexedDB = false;
         } else if (savedStorageType === 'indexeddb') {
             useIndexedDB = supportsIndexedDB; // 即使設定要用 IndexedDB，也要確保瀏覽器支援
         }
-        
+
         this.storageManager = new StorageManager(useIndexedDB);
-        
+
         // 如果是第一次使用（沒有儲存設定），則儲存當前選擇
         if (!savedStorageType) {
             localStorage.setItem('vocabulary_storage_type', useIndexedDB ? 'indexeddb' : 'localstorage');
@@ -261,7 +261,7 @@ class VocabularyBook {
         if (this.storageManager.useIndexedDB) {
             await this.storageManager.initIndexedDB();
         }
-        
+
         // 載入生字簿資料
         this.vocabularyData = await this.storageManager.loadData();
         this.log('Loaded vocabulary data:', this.vocabularyData);
@@ -303,7 +303,7 @@ class VocabularyBook {
         if (this.debug) {
             // 顯示儲存設定按鈕
             $('#storageSettingsBtn').show();
-            
+
             setTimeout(() => {
                 this.testContextMenu();
             }, 1000);
@@ -335,18 +335,18 @@ class VocabularyBook {
     async switchStorageEngine(useIndexedDB) {
         try {
             await this.storageManager.switchStorage(useIndexedDB);
-            
+
             // 在 debug 模式下重新檢查資料
             if (this.debug) {
                 setTimeout(() => {
                     this.checkBothStorageEngines();
                 }, 500);
             }
-            
+
             this.showSuccessMessage(
-                useIndexedDB ? 
-                '已切換至 IndexedDB 儲存，LocalStorage 資料已清空' : 
-                '已切換至 LocalStorage 儲存，IndexedDB 資料已清空'
+                useIndexedDB ?
+                    '已切換至 IndexedDB 儲存，LocalStorage 資料已清空' :
+                    '已切換至 LocalStorage 儲存，IndexedDB 資料已清空'
             );
             return true;
         } catch (error) {
@@ -362,7 +362,7 @@ class VocabularyBook {
             // 檢查 LocalStorage
             const localStorageData = localStorage.getItem('vocabulary_book');
             const localCount = localStorageData ? JSON.parse(localStorageData).length : 0;
-            
+
             // 檢查 IndexedDB
             let indexedDBCount = 0;
             if (typeof indexedDB !== 'undefined') {
@@ -927,7 +927,7 @@ class VocabularyBook {
     showSuccessMessage(message, type = 'success') {
         const alertClass = type === 'error' ? 'alert-danger' : 'alert-success';
         const iconClass = type === 'error' ? 'fas fa-exclamation-triangle' : 'fas fa-check-circle';
-        
+
         // 創建臨時提示元素
         const alert = $(`
             <div class="alert ${alertClass} alert-dismissible fade show position-fixed" 
@@ -995,7 +995,7 @@ class VocabularyBook {
         let html = '';
         filteredData.forEach(wordData => {
             const levelClass = `level-${wordData.level}`;
-
+ 
             html += `
                 <div class="vocabulary-word-card ${levelClass}">
                     <div class="vocabulary-word-header">
@@ -1010,8 +1010,8 @@ class VocabularyBook {
                             <span class="badge bg-light text-dark ms-0">${this.getLevelText(wordData.level)}</span>
                         </div>
                     </div>
-                    <div class="vocabulary-phonetic">${wordData.phonetic ? wordData.phonetic : ''}</div>
-                    <div class="vocabulary-translation">${wordData.translation}</div>
+                    <div class="vocabulary-phonetic">${wordData.phonetic ? '[' + wordData.phonetic + ']' : ''}</div>
+                    <div class="vocabulary-translation">${wordData.translation.replace(/\n/g, '<br>')}</div>
                     ${wordData.sources && wordData.sources.length > 0 ? `
                         <div class="vocabulary-sources">
                             <small class="text-muted">來源文章：</small><br>
@@ -1101,16 +1101,16 @@ class VocabularyBook {
         // 等待語音引擎載入完成
         const speak = () => {
             const utterance = new SpeechSynthesisUtterance(word);
-            
+
             // 設定語音參數
             utterance.lang = 'en-US';
             utterance.rate = 0.8;
             utterance.pitch = 1.0;
             utterance.volume = 1.0;
-            
+
             // 嘗試選擇英文語音
             const voices = speechSynthesis.getVoices();
-            const englishVoice = voices.find(voice => 
+            const englishVoice = voices.find(voice =>
                 voice.lang.startsWith('en') && (voice.name.includes('English') || voice.name.includes('US'))
             );
             if (englishVoice) {
@@ -1207,7 +1207,7 @@ class VocabularyBook {
             try {
                 const importedData = JSON.parse(e.target.result);
                 this.log('匯入資料:', importedData);
-                
+
                 // 支援舊格式（直接為陣列）
                 if (Array.isArray(importedData)) {
                     this.vocabularyData = importedData;
@@ -1317,12 +1317,12 @@ class VocabularyBook {
     // 顯示儲存設定
     showStorageSettings() {
         const status = this.getStorageEngineStatus();
-        
+
         // 在 debug 模式下檢查兩個儲存引擎的資料
         if (this.debug) {
             this.checkBothStorageEngines();
         }
-        
+
         // 更新當前狀態顯示
         $('#currentStorageText').text(
             `目前使用：${status.current} | 支援狀態：LocalStorage(${status.supported.localStorage ? '✓' : '✗'}) IndexedDB(${status.supported.indexedDB ? '✓' : '✗'})`
@@ -1330,7 +1330,7 @@ class VocabularyBook {
 
         // 設定選項
         $(`input[name="storageEngine"][value="${status.useIndexedDB ? 'indexedDB' : 'localStorage'}"]`).prop('checked', true);
-        
+
         // 禁用不支援的選項
         $('#useLocalStorage').prop('disabled', !status.supported.localStorage);
         $('#useIndexedDB').prop('disabled', !status.supported.indexedDB);
@@ -1343,7 +1343,7 @@ class VocabularyBook {
     async applyStorageSettings() {
         const selectedEngine = $('input[name="storageEngine"]:checked').val();
         const useIndexedDB = selectedEngine === 'indexedDB';
-        
+
         // 如果沒有變更，直接關閉
         if (useIndexedDB === this.storageManager.useIndexedDB) {
             bootstrap.Modal.getInstance('#storageSettingsModal').hide();

@@ -694,6 +694,7 @@ body {
 .vocabulary-translation {
     color: #333;
     margin-bottom: 0.5rem;
+    padding-top: 0.5rem;
 }
 
 .vocabulary-part-of-speech {
