@@ -455,12 +455,8 @@ body {
         font-size: 1rem !important;
     }
     
-    .filter-section, .topic-card {
+    .filter-section, .topic-card, .vocabulary-word-card {
         margin: 0.5rem;
-    }
-    
-    .filter-section .row {
-        gap: 0.5rem;
     }
     
     .topic-tag {
@@ -532,12 +528,6 @@ body {
     }
 }
 
-@media (max-width: 768px) {
-    .filter-section .col-md-3,
-    .filter-section .col-md-2 {
-        margin-bottom: 0.5rem;
-    }
-}
 
 /* 極小螢幕優化 */
 @media (max-width: 400px) {
@@ -637,29 +627,13 @@ body {
     }
 }
 
-/* 生字簿相关样式 */
-.vocabulary-book-page {
-    padding: 1rem;
-}
-
- 
-.vocabulary-controls {
-    background: white;
-    padding: 1rem;
-    border-radius: 10px;
-    margin-bottom: 1rem;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
-
-.vocabulary-controls .row {
-    align-items: center;
-}
+/* 生字簿相關樣式 - 統一使用 .filter-section，移除重複的 .vocabulary-controls */
 
 .vocabulary-word-card {
     background: white;
     border-radius: 10px;
     padding: 1rem;
-    margin-bottom: 1rem;
+    margin: 1rem;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     border-left: 4px solid var(--primary-color);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
