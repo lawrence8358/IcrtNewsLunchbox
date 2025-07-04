@@ -117,17 +117,20 @@
                         <label class="form-label">
                             <i class="fas fa-cog me-1"></i>設定與功能
                         </label>
-                        <div class="d-flex gap-2">
+                        <div class="d-flex gap-2 flex-wrap">
                             <button class="btn btn-outline-primary btn-sm" id="storageSettingsBtn" title="儲存設定" style="display: none;">
                                 <i class="fas fa-database"></i>
                             </button>
                             <button class="btn btn-outline-success btn-sm" id="exportVocabularyBtn" title="匯出生字簿">
                                 <i class="fas fa-download"></i>
                             </button>
-                            <label for="importVocabularyFile" class="btn btn-outline-info btn-sm mb-0" title="匯入生字簿">
+                            <label for="importVocabularyFile" class="btn btn-outline-info btn-sm mb-0" title="匯入檔案">
                                 <i class="fas fa-upload"></i>
                                 <input type="file" id="importVocabularyFile" accept=".json" style="display: none;">
                             </label>
+                            <button class="btn btn-outline-warning btn-sm" id="pasteJsonBtn" title="貼上 JSON">
+                                <i class="fas fa-paste"></i>
+                            </button>
                         </div>
                     </div>
                 </div>
@@ -309,6 +312,47 @@
                     <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">取消</button>
                     <button type="button" class="btn btn-primary" id="applyStorageSettings">
                         <i class="fas fa-save me-1"></i>套用設定
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Paste JSON Modal -->
+    <div class="modal fade" id="pasteJsonModal" tabindex="-1">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <i class="fas fa-paste me-2"></i>貼上 JSON 匯入生字簿
+                    </h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="alert alert-info">
+                        <i class="fas fa-info-circle me-2"></i>
+                        <strong>使用說明：</strong>
+                        <br>請將從其他地方複製的 JSON 資料貼上到下方文字框中，然後點擊「匯入資料」按鈕。
+                    </div>
+                    <div class="mb-3">
+                        <label for="jsonTextarea" class="form-label">
+                            <i class="fas fa-code me-1"></i>JSON 資料
+                        </label>
+                        <textarea class="form-control" id="jsonTextarea" rows="10" 
+                                  placeholder="請在這裡貼上 JSON 資料...&#10;&#10;支援格式：&#10;1. 新格式：{&quot;version&quot;: &quot;1.0&quot;, &quot;vocabulary&quot;: [...]}&#10;2. 舊格式：[{&quot;word&quot;: &quot;example&quot;, ...}, ...]"></textarea>
+                    </div>
+                    <div class="small text-muted">
+                        <strong>支援格式：</strong>
+                        <ul class="mb-0 mt-2">
+                            <li>新格式：包含 version 和 vocabulary 欄位的完整匯出格式</li>
+                            <li>舊格式：直接的生字陣列格式</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="modal-footer d-flex justify-content-end">
+                    <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">取消</button>
+                    <button type="button" class="btn btn-primary" id="importJsonBtn">
+                        <i class="fas fa-upload me-1"></i>匯入資料
                     </button>
                 </div>
             </div>

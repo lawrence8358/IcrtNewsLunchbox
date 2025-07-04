@@ -468,6 +468,15 @@ class VocabularyBook {
             }
         });
 
+        // 貼上 JSON 功能
+        $('#pasteJsonBtn').on('click', () => {
+            this.showPasteJsonModal();
+        });
+
+        $('#importJsonBtn').on('click', () => {
+            this.importJsonFromTextarea();
+        });
+
         // 點擊其他地方隱藏右鍵選單
         $(document).on('click', (e) => {
             if (!$(e.target).closest('#wordContextMenu').length) {
@@ -1197,6 +1206,86 @@ class VocabularyBook {
         } catch (error) {
             console.error('匯出失敗:', error);
             this.showSuccessMessage('匯出失敗', 'error');
+        }
+    }
+
+    // 顯示貼上 JSON 模態框
+    showPasteJsonModal() {
+        // 清空文字框
+        $('#jsonTextarea').val('');
+        
+        // 顯示模態框
+        const modal = new bootstrap.Modal('#pasteJsonModal');
+        modal.show();
+    }
+
+    // 從文字框匯入 JSON
+    async importJsonFromTextarea() {
+        try {
+            const jsonText = $('#jsonTextarea').val().trim();
+            
+            if (!jsonText) {
+                this.showSuccessMessage('請貼上 JSON 資料', 'error');
+                return;
+            }
+
+            // 解析 JSON
+            let importedData;
+            try {
+                importedData = JSON.parse(jsonText);
+            } catch (parseError) {
+                this.showSuccessMessage('JSON 格式錯誤，請檢查資料格式', 'error');
+                return;
+            }
+
+            this.log('貼上的 JSON 資料:', importedData);
+
+            // 支援舊格式（直接為陣列）
+            if (Array.isArray(importedData)) {
+                this.vocabularyData = importedData;
+                await this.saveVocabularyData();
+                this.renderVocabularyList();
+                bootstrap.Modal.getInstance('#pasteJsonModal').hide();
+                this.showSuccessMessage(`生字簿已匯入 (${importedData.length} 個單字，舊格式)`);
+                return;
+            }
+
+            // 檢查新格式是否有效
+            if (!importedData?.vocabulary || !Array.isArray(importedData.vocabulary)) {
+                this.showSuccessMessage('無效的 JSON 格式：缺少 vocabulary 陣列', 'error');
+                return;
+            }
+
+            // 新格式匯入 - 先確保儲存管理器已初始化
+            if (this.storageManager.useIndexedDB) {
+                this.log('使用 IndexedDB，檢查初始化狀態...');
+                if (!this.storageManager.db) {
+                    this.log('IndexedDB 未初始化，正在初始化...');
+                    const initSuccess = await this.storageManager.initIndexedDB();
+                    if (!initSuccess) {
+                        throw new Error('IndexedDB 初始化失敗');
+                    }
+                    this.log('IndexedDB 初始化成功');
+                }
+            } else {
+                this.log('使用 LocalStorage');
+            }
+
+            // 執行匯入
+            this.log('開始匯入貼上的 JSON 資料...');
+            const success = await this.storageManager.importData(importedData);
+            if (success) {
+                this.log('匯入成功，重新載入資料...');
+                await this.loadVocabularyData();
+                this.renderVocabularyList();
+                bootstrap.Modal.getInstance('#pasteJsonModal').hide();
+                this.showSuccessMessage(`生字簿已匯入 (${importedData.vocabulary.length} 個單字)`);
+            } else {
+                throw new Error('匯入處理失敗');
+            }
+        } catch (error) {
+            console.error('貼上 JSON 匯入失敗:', error);
+            this.showSuccessMessage(`匯入失敗：${error.message}`, 'error');
         }
     }
 
