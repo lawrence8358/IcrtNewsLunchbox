@@ -1,0 +1,58 @@
+<div class="vocabulary-book-container">
+  <!-- Filter Section -->
+  <div class="filter-section mb-3">
+    <div class="row g-2">
+      <div class="col-md-4">
+        <label for="vocabularyLevelFilter" class="form-label">
+          <i class="fas fa-filter me-1"></i>熟悉度篩選
+        </label>
+        <select class="form-select" id="vocabularyLevelFilter" [(ngModel)]="selectedLevel" (change)="onLevelChange()">
+          <option [ngValue]="null">全部等級</option>
+          <option [ngValue]="1">不熟</option>
+          <option [ngValue]="2">尚可</option>
+          <option [ngValue]="3">記住了</option>
+        </select>
+      </div>
+      <div class="col-md-4">
+        <label for="vocabularySearch" class="form-label">
+          <i class="fas fa-search me-1"></i>搜尋單字
+        </label>
+        <input type="text" class="form-control" id="vocabularySearch" placeholder="搜尋單字或翻譯..." [(ngModel)]="searchText"
+          (input)="onSearchChange()">
+      </div>
+
+      <div class="col-md-4">
+        <label class="form-label">
+          <i class="fas fa-cog me-1"></i>設定與功能
+        </label>
+        <div class="d-flex gap-2 flex-wrap">
+          <button *ngIf="isDebug" class="btn btn-outline-primary" (click)="showStorageSettings()" title="儲存設定">
+            <i class="fas fa-database"></i>
+          </button>
+          <button class="btn btn-outline-success" (click)="exportVocabulary()" title="匯出生字簿">
+            <i class="fas fa-download"></i>
+          </button>
+          <label for="importVocabularyFile" class="btn btn-outline-info mb-0" title="匯入檔案">
+            <i class="fas fa-upload"></i>
+            <input type="file" id="importVocabularyFile" accept=".json" #fileInput (change)="onFileSelected($event)"
+              style="display: none;">
+          </label>
+          <button class="btn btn-outline-warning" (click)="pasteJsonData()" title="貼上 JSON">
+            <i class="fas fa-paste"></i>
+          </button>
+          <button class="btn btn-outline-info" (click)="addNewWord()" title="新增單字">
+            <i class="fas fa-plus"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 使用共用的生字列表元件 -->
+  <app-vocabulary-list
+    [showActions]="true"
+    [openTopic]="handleOpenTopic"
+    [externalVocabularyData]="vocabularyData"
+    [externalFilteredVocabulary]="filteredVocabulary">
+  </app-vocabulary-list>
+</div>

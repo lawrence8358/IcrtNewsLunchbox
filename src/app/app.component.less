@@ -1,0 +1,132 @@
+// 引入全域樣式變數
+@import '../styles.less';
+
+// 應用容器
+.app-container {
+  min-height: 100vh;
+  background-color: @background-color;
+  display: flex;
+  flex-direction: column;
+}
+
+// Header 樣式
+.header {
+  background: linear-gradient(135deg, @primary-color, @secondary-color);
+  color: white;
+  padding: 1rem 0;
+  text-align: center;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+
+  h1 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 0;
+    white-space: nowrap !important;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    max-width: 100%;
+    flex-wrap: nowrap !important;
+    flex-direction: row !important;
+
+    i {
+      flex-shrink: 0 !important;
+      display: inline-block !important;
+    }
+  }
+
+  small {
+    display: block;
+    margin-top: 0.25rem;
+    opacity: 0.9;
+  }
+}
+
+// 導覽樣式
+.main-nav-tabs .nav-link {
+  color: #333;
+  font-weight: 500;
+  border: none;
+  background: none;
+  border-radius: 0;
+  padding: 0.5rem 1.5rem;
+  transition: color 0.2s;
+
+  &.active {
+    color: #0d6efd;
+    font-weight: 700;
+    border-bottom: 2.5px solid #0d6efd;
+    background: none;
+  }
+
+  &:hover:not(.active) {
+    color: #0d6efd;
+    background: none;
+  }
+}
+
+// 主要內容區域
+.main-content {
+  flex: 1;
+  min-height: calc(100vh - 120px);
+  background-color: @background-color;
+}
+
+// 響應式設計
+@media (max-width: 768px) {
+  .navbar-brand {
+    font-size: 1.25rem;
+  }
+}
+
+// 全域樣式覆寫
+:global {
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .btn {
+    font-weight: 500;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+
+    &:focus {
+      box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+    }
+  }
+
+  .form-control, .form-select {
+    border-radius: 6px;
+    border: 1px solid #ced4da;
+    transition: all 0.2s ease;
+
+    &:focus {
+      border-color: #80bdff;
+      box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+    }
+  }
+
+  .card {
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .modal-content {
+    border-radius: 12px;
+    border: none;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  }
+
+  .modal-header {
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+  }
+
+  .modal-footer {
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+  }
+}

@@ -1,0 +1,146 @@
+// 匯入全域變數
+@import '../../../styles.less';
+
+// 生字列表
+#vocabularyList {
+  display: block;
+}
+
+// 生字卡片
+.vocabulary-word-card {
+  background: white;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 1rem 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-left: 4px solid @primary-color;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+  }
+
+  // 難度等級顏色
+  &.level-unknown {
+    border-left-color: #dc3545;
+  }
+
+  &.level-fair {
+    border-left-color: #ffc107;
+  }
+
+  &.level-known {
+    border-left-color: #28a745;
+  }
+}
+
+.vocabulary-word-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.vocabulary-word-main {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.vocabulary-word-text {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: @primary-color;
+}
+
+.vocabulary-word-actions {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.vocabulary-phonetic {
+  color: #666;
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+.vocabulary-translation {
+  color: #333;
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  background: #f8f9fa;
+  border-radius: 5px;
+  border-left: 3px solid @secondary-color;
+}
+
+.vocabulary-sources {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid #eee;
+}
+
+.vocabulary-source-tag {
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+  margin: 0.2rem 0.2rem 0 0;
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  font-size: 0.8rem;
+  color: @primary-color;
+  text-decoration: none;
+  transition: background 0.2s ease;
+
+  &:hover {
+    background: @primary-color;
+    color: white;
+    text-decoration: none;
+  }
+}
+
+// 空狀態
+.empty-vocabulary-state {
+  text-align: center;
+  padding: 60px 20px;
+  color: @text-muted;
+
+  i {
+    font-size: 4rem;
+    margin-bottom: 20px;
+    color: @border-color;
+  }
+
+  h5 {
+    margin-bottom: 10px;
+    color: @text-secondary;
+  }
+}
+
+// 載入狀態
+.loading-state {
+  text-align: center;
+  padding: 40px 20px;
+  color: @text-muted;
+
+  i {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+}
+
+// 響應式設計
+@media (max-width: 576px) {
+  .vocabulary-word-card {
+    margin: 0.5rem 0;
+    padding: 0.8rem;
+  }
+
+  .vocabulary-word-main {
+    gap: 0.5rem;
+  }
+
+  .vocabulary-word-text {
+    font-size: 1rem;
+  }
+}

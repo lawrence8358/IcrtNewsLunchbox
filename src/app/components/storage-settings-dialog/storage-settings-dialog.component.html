@@ -1,0 +1,93 @@
+<div class="modal-header bg-primary text-white">
+  <h4 class="modal-title">
+    <i class="fas fa-cog me-2"></i>
+    儲存設定
+  </h4>
+  <button type="button" class="btn-close btn-close-white" aria-label="關閉" (click)="cancel()"></button>
+</div>
+
+<div class="modal-body">
+  <!-- 儲存方式選擇 -->
+  <div class="mb-4">
+    <h6 class="mb-3">選擇儲存方式</h6>
+
+    <!-- LocalStorage 選項 -->
+    <div class="card mb-3">
+      <div class="card-body">
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="storageType" id="localStorage"
+                 value="localStorage" [(ngModel)]="currentStorageType" (change)="onStorageTypeChange()">
+          <label class="form-check-label w-100" for="localStorage">
+            <div class="d-flex align-items-center">
+              <div>
+                <strong class="text-primary">LocalStorage</strong>
+                <br>
+                <small class="text-muted">使用瀏覽器本地儲存，資料較小，存取速度快</small>
+              </div>
+              <div class="ms-auto">
+                <i class="fas fa-hdd text-secondary fs-4"></i>
+              </div>
+            </div>
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <!-- IndexedDB 選項 -->
+    <div class="card mb-3" [class.opacity-50]="!isIndexedDBSupported">
+      <div class="card-body">
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="storageType" id="indexedDB"
+                 value="indexedDB" [(ngModel)]="currentStorageType" (change)="onStorageTypeChange()"
+                 [disabled]="!isIndexedDBSupported">
+          <label class="form-check-label w-100" for="indexedDB">
+            <div class="d-flex align-items-center">
+              <div>
+                <strong class="text-primary">IndexedDB</strong>
+                <br>
+                <small class="text-muted">使用瀏覽器資料庫，可存放大量資料，適合擴展功能</small>
+              </div>
+              <div class="ms-auto">
+                <i class="fas fa-database text-secondary fs-4"></i>
+              </div>
+            </div>
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <!-- 不支援提示 -->
+    <div class="alert alert-warning d-flex align-items-center" *ngIf="!isIndexedDBSupported">
+      <i class="fas fa-exclamation-triangle me-2"></i>
+      <span>此瀏覽器不支援 IndexedDB，僅能使用 LocalStorage</span>
+    </div>
+  </div>
+
+  <!-- 目前設定顯示 -->
+  <div class="border rounded p-3 bg-light">
+    <h6 class="mb-2">
+      <i class="fas fa-info-circle me-2 text-info"></i>
+      目前設定
+    </h6>
+    <div class="d-flex align-items-center">
+      <strong class="me-2">儲存方式：</strong>
+      <span class="badge fs-6"
+            [class]="currentStorageType === 'indexedDB' ? 'bg-primary' : 'bg-secondary'">
+        <i [class]="currentStorageType === 'indexedDB' ? 'fas fa-database' : 'fas fa-hdd'" class="me-1"></i>
+        {{ currentStorageType === 'indexedDB' ? 'IndexedDB' : 'LocalStorage' }}
+      </span>
+    </div>
+  </div>
+</div>
+
+<div class="modal-footer bg-light">
+  <button type="button" class="btn btn-outline-secondary" (click)="cancel()" [disabled]="isSaving">
+    <i class="fas fa-times me-1"></i>
+    取消
+  </button>
+  <button type="button" class="btn btn-primary" (click)="saveSettings()" [disabled]="isSaving">
+    <span *ngIf="isSaving" class="spinner-border spinner-border-sm me-2" aria-hidden="true"></span>
+    <i *ngIf="!isSaving" class="fas fa-save me-1"></i>
+    {{ isSaving ? '處理中...' : '儲存' }}
+  </button>
+</div>

@@ -1,0 +1,113 @@
+<div class="home-container">
+  <!-- 搜尋控制項 -->
+  <div class="filter-section">
+    <div class="row g-2">
+      <div class="col-md-3">
+        <label for="monthSelect" class="form-label">
+          <i class="fas fa-calendar-alt me-1"></i>選擇月份
+        </label>
+        <select class="form-select" id="monthSelect" [(ngModel)]="selectedMonth">
+          <option value="">請選擇月份</option>
+          <option *ngFor="let month of monthsData" [value]="month">
+            {{ formatMonthLabel(month) }}
+          </option>
+        </select>
+      </div>
+
+      <div class="col-md-2">
+        <label for="typeSelect" class="form-label">
+          <i class="fas fa-layer-group me-1"></i>程度
+        </label>
+        <select class="form-select" id="typeSelect" [(ngModel)]="selectedType">
+          <option value="">全部程度</option>
+          <option *ngFor="let type of getUniqueTypes()" [value]="type">
+            {{ type }}
+          </option>
+        </select>
+      </div>
+
+      <div class="col-md-2">
+        <label for="tagSelect" class="form-label">
+          <i class="fas fa-tags me-1"></i>標籤
+        </label>
+        <select class="form-select" id="tagSelect" [(ngModel)]="selectedTag">
+          <option value="">全部標籤</option>
+          <option *ngFor="let tag of tagsData" [value]="tag">
+            {{ tag }}
+          </option>
+        </select>
+      </div>
+
+      <div class="col-md-3">
+        <label for="topicSearch" class="form-label">
+          <i class="fas fa-search me-1"></i>搜尋
+        </label>
+        <input type="text"
+               class="form-control"
+               id="topicSearch"
+               [(ngModel)]="searchText"
+               placeholder="搜尋主題、內容..."
+               (keyup.enter)="performSearch()">
+      </div>
+
+      <div class="col-md-2">
+        <label class="form-label">&nbsp;</label>
+        <button type="button"
+                class="btn btn-primary d-block w-100"
+                (click)="performSearch()"
+                [disabled]="isSearching">
+          <i class="fas fa-search me-1"></i>
+          {{ isSearching ? '搜尋中...' : '搜尋' }}
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 主題列表 -->
+  <div class="topics-container" *ngIf="!isLoading">
+    <!-- 載入中 -->
+    <div class="loading" *ngIf="isSearching">
+      <i class="fas fa-spinner fa-spin fa-2x"></i>
+      <p class="mt-2">載入中...</p>
+    </div>
+
+    <!-- 空狀態 -->
+    <div class="empty-state" *ngIf="!isSearching && filteredData.length === 0 && currentData.length === 0">
+      <i class="fas fa-search"></i>
+      <h5>請選擇月份開始</h5>
+      <p>選擇一個月份來瀏覽該月的英語聽力內容</p>
+    </div>
+
+    <!-- 無搜尋結果 -->
+    <div class="empty-state" *ngIf="!isSearching && filteredData.length === 0 && currentData.length > 0">
+      <i class="fas fa-search"></i>
+      <h5>找不到相關主題</h5>
+      <p>請嘗試調整搜尋條件或選擇其他月份</p>
+    </div>
+
+    <!-- 主題卡片列表 -->
+    <div class="topics-list" *ngIf="!isSearching && filteredData.length > 0">
+      <div class="topic-card"
+           *ngFor="let topic of filteredData"
+           (click)="showTopicDetail(topic)">
+        <div class="topic-meta">
+          <span class="topic-type">{{ topic.type }}</span>
+          <span class="topic-date">{{ formatDate(topic.id) }}</span>
+        </div>
+        <div class="topic-tags" *ngIf="topic.tag && topic.tag.length > 0">
+          <span class="topic-tag" *ngFor="let tag of topic.tag">{{ tag }}</span>
+        </div>
+        <div class="topic-title">{{ topic.title }}</div>
+        <div class="topic-preview" *ngIf="topic.content && topic.content.length > 0">
+          {{ topic.content[0].en.substring(0, 100) }}{{ topic.content[0].en.length > 100 ? '...' : '' }}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 全域載入狀態 -->
+  <div class="loading" *ngIf="isLoading">
+    <i class="fas fa-spinner fa-spin fa-2x"></i>
+    <p class="mt-2">載入中...</p>
+  </div>
+</div>

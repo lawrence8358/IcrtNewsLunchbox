@@ -1,0 +1,62 @@
+<div class="vocabulary-list-container" [ngClass]="containerClass">
+  <!-- Vocabulary List -->
+  <div id="vocabularyList" *ngIf="filteredVocabulary.length > 0">
+    <div class="vocabulary-word-card" *ngFor="let word of filteredVocabulary"
+      [ngClass]="'level-' + getLevelClass(word.level)">
+
+      <div class="vocabulary-word-header">
+        <div class="vocabulary-word-main">
+          <div class="vocabulary-word-text">{{ word.word }}</div>
+          <button class="btn-vocabulary-action btn-pronounce" (click)="pronounceWord(word.word)" title="發音">
+            <i class="fas fa-volume-up"></i>
+          </button>
+        </div>
+        <div class="vocabulary-word-actions d-flex align-items-center">
+          <button class="btn-vocabulary-action btn-translation"
+                  (click)="toggleWordTranslation(word.word)"
+                  [class.active]="showWordTranslation[word.word]"
+                  title="顯示/隱藏翻譯">
+            <i class="fas" [class.fa-eye]="!showWordTranslation[word.word]"
+              [class.fa-eye-slash]="showWordTranslation[word.word]"></i>
+          </button>
+          <button class="btn-vocabulary-action btn-edit" title="編輯" (click)="editWord(word)">
+            <i class="fas fa-pen-to-square"></i>
+          </button>
+          <span class="badge bg-light text-dark ms-2">{{ getLevelText(word.level) }}</span>
+        </div>
+      </div>
+
+      <div class="vocabulary-phonetic" *ngIf="word.phonetic">
+        [{{ word.phonetic }}]
+      </div>
+
+      <div class="vocabulary-translation" *ngIf="showWordTranslation[word.word]"
+        [innerHTML]="formatTranslation(word.translation)">
+      </div>
+
+      <div class="vocabulary-sources" *ngIf="word.sources && word.sources.length > 0">
+        <small class="text-muted">來源文章：</small><br>
+        <span class="vocabulary-source-tag" *ngFor="let source of word.sources"
+          (click)="openTopic && openTopic(source.topicId)" [style.cursor]="openTopic ? 'pointer' : 'default'"
+          [title]="source.title + ' - ' + source.section">
+          {{ source.title }}
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <!-- 空狀態 -->
+  <div class="empty-vocabulary-state" *ngIf="filteredVocabulary.length === 0 && !isLoading">
+    <i class="fas fa-bookmark"></i>
+    <h5 *ngIf="!topicId">{{ vocabularyData.length === 0 ? '生字簿是空的' : '沒有符合條件的單字' }}</h5>
+    <h5 *ngIf="topicId">{{ vocabularyData.length === 0 ? '還沒有從這篇文章加入任何生字' : '沒有符合條件的單字' }}</h5>
+    <p *ngIf="!topicId">{{ vocabularyData.length === 0 ? '開始選擇文章中的單字來建立你的生字簿吧！' : '請調整搜尋條件或難度篩選。' }}</p>
+    <p *ngIf="topicId">{{ vocabularyData.length === 0 ? '在文章內容中雙擊、右鍵或長按選取文字，即可加入生字簿！' : '請調整搜尋條件或難度篩選。' }}</p>
+  </div>
+
+  <!-- 載入狀態 -->
+  <div class="loading-state" *ngIf="isLoading">
+    <i class="fas fa-spinner fa-spin"></i>
+    <p>載入中...</p>
+  </div>
+</div>

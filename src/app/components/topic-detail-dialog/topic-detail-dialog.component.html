@@ -1,0 +1,298 @@
+<div class="modal-header">
+  <h4 class="modal-title">
+    <div class="modal-title-content">
+      <i class="fas fa-book-open me-2"></i>
+      <span [title]="topic.title" data-source="content" data-content-index="-1">{{ topic.title }}</span>
+    </div>
+  </h4>
+  <button type="button" class="btn-close btn-close-white" aria-label="關閉" (click)="close()"></button>
+</div>
+
+<div class="modal-body p-4">
+  <!-- 使用說明區塊 -->
+  <div class="usage-tips mb-3">
+    <div class="alert alert-info d-flex align-items-center justify-content-between" role="alert">
+      <div class="d-flex align-items-center">
+        <i class="fas fa-info-circle me-2"></i>
+        <small>
+          <strong>小提示：</strong>
+          在文字上<strong>雙擊</strong>、<strong>右鍵</strong>或<strong>長按</strong>可快速加入生字簿
+        </small>
+      </div>
+      <button type="button" class="btn btn-sm btn-outline-primary" (click)="toggleUsageTips()" title="顯示詳細說明">
+        <i class="fas" [class.fa-chevron-down]="!showDetailedTips" [class.fa-chevron-up]="showDetailedTips"></i>
+      </button>
+    </div>
+
+    <!-- 詳細說明（可收合） -->
+    <div class="detailed-tips" *ngIf="showDetailedTips" [@slideInOut]>
+      <div class="card card-body bg-light">
+        <h6 class="mb-2"><i class="fas fa-graduation-cap me-1"></i>如何新增生字到生字簿：</h6>
+        <ul class="mb-2 small">
+          <li><i class="fas fa-mouse-pointer text-primary me-1"></i><strong>雙擊</strong>：快速選取單字並加入生字簿</li>
+          <li><i class="fas fa-hand-pointer text-success me-1"></i><strong>右鍵</strong>：選取文字後右鍵點擊顯示選單</li>
+          <li><i class="fas fa-hand-paper text-warning me-1"></i><strong>長按</strong>：在觸控裝置上長按文字（1秒）</li>
+        </ul>
+        <div class="text-muted small">
+          <i class="fas fa-lightbulb me-1"></i>
+          支援選取範圍：<strong>內容</strong>、<strong>單字</strong>、<strong>測驗</strong>等所有文字區域
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 音訊控制區 -->
+  <div class="audio-controls mb-3" *ngIf="topic.audio">
+    <h6><i class="fas fa-volume-up me-2"></i>音效播放</h6>
+    <audio #audioPlayer controls class="w-100" preload="metadata">
+      您的瀏覽器不支援音效播放。
+    </audio>
+  </div>
+
+  <!-- 主題資訊 -->
+  <div class="topic-info-section mb-3">
+    <div class="topic-meta mb-2">
+      <span class="topic-type" *ngIf="topic.type">{{ topic.type }}</span>
+      <span class="topic-date" *ngIf="formatDate(topic.id)">{{ formatDate(topic.id) }}</span>
+    </div>
+    <div class="topic-tags mb-2" *ngIf="topic.tag && topic.tag.length > 0">
+      <span class="topic-tag" *ngFor="let tag of topic.tag">{{ tag }}</span>
+    </div>
+    <h5 class="text-primary">{{ topic.title }}</h5>
+  </div>
+
+  <!-- Tab 導航 -->
+  <ul class="nav nav-tabs mt-3" aria-label="主題內容分頁">
+    <li class="nav-item">
+      <button class="nav-link"
+              [class.active]="activeTab === 'content'"
+              (click)="setActiveTab('content')"
+              type="button"
+              role="tab">
+        <i class="fas fa-file-text me-1"></i>內容
+      </button>
+    </li>
+    <li class="nav-item">
+      <button class="nav-link"
+              [class.active]="activeTab === 'vocabulary'"
+              (click)="setActiveTab('vocabulary')"
+              type="button"
+              role="tab">
+        <i class="fas fa-book me-1"></i>單字
+      </button>
+    </li>
+    <li class="nav-item">
+      <button class="nav-link"
+              [class.active]="activeTab === 'quiz'"
+              (click)="setActiveTab('quiz')"
+              type="button"
+              role="tab">
+        <i class="fas fa-question-circle me-1"></i>測驗
+      </button>
+    </li>
+    <li class="nav-item">
+      <button class="nav-link"
+              [class.active]="activeTab === 'my-vocabulary'"
+              (click)="setActiveTab('my-vocabulary')"
+              type="button"
+              role="tab">
+        <i class="fas fa-bookmark me-1"></i>生字簿
+      </button>
+    </li>
+  </ul>
+
+  <!-- Tab 內容 -->
+  <div class="tab-content mt-3">
+    <!-- 內容區域 -->
+    <div class="tab-pane fade"
+         [class.show]="activeTab === 'content'"
+         [class.active]="activeTab === 'content'"
+         role="tabpanel">
+      <div class="content-list">
+        <div class="content-item" *ngFor="let item of topic.content; let i = index">
+          <div class="content-controls">
+            <button class="btn-jump-time"
+                    *ngIf="hasTime(item)"
+                    (click)="jumpToTime(item.time)"
+                    [title]="'跳到此時間點 (' + item.time + ')'">
+              <i class="fas fa-play"></i>
+            </button>
+            <button class="btn-pause-time"
+                    *ngIf="hasTime(item) && isAudioPlaying()"
+                    (click)="pauseAudio()"
+                    title="暫停播放">
+              <i class="fas fa-pause"></i>
+            </button>
+            <button class="btn-toggle-translation"
+                    *ngIf="hasTranslation(item)"
+                    [class.active]="showTranslations[i]"
+                    (click)="toggleTranslation(i)"
+                    title="顯示/隱藏中文翻譯">
+              <i class="fas" [class.fa-language]="!showTranslations[i]" [class.fa-eye-slash]="showTranslations[i]"></i>
+            </button>
+          </div>
+          <div class="english-text"
+               data-source="content"
+               [attr.data-content-index]="i">{{ item.en }}</div>
+          <div class="chinese-text"
+               *ngIf="hasTranslation(item)"
+               [class.show]="showTranslations[i]"
+               data-source="content"
+               [attr.data-content-index]="i">
+            {{ item.tw }}
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 生字區域 -->
+    <div class="tab-pane fade"
+         [class.show]="activeTab === 'vocabulary'"
+         [class.active]="activeTab === 'vocabulary'"
+         role="tabpanel">
+      <div *ngIf="topic.vocabulary; else noVocabulary">
+        <!-- 前言 -->
+        <div class="vocabulary-preface mb-3"
+             *ngIf="topic.vocabulary.preface"
+             data-source="vocabulary"
+             data-vocab-index="-1">
+          {{ topic.vocabulary.preface }}
+        </div>
+
+        <!-- 單字內容 -->
+        <div class="vocabulary-list" *ngIf="topic.vocabulary.content && topic.vocabulary.content.length > 0">
+          <div class="vocabulary-item" *ngFor="let vocab of topic.vocabulary.content; let i = index">
+            <div class="content-controls">
+              <button class="btn-jump-time"
+                      *ngIf="hasTime(vocab)"
+                      (click)="jumpToTime(vocab.time!)"
+                      [title]="'跳到此時間點 (' + vocab.time + ')'">
+                <i class="fas fa-play"></i>
+              </button>
+              <button class="btn-pause-time"
+                      *ngIf="hasTime(vocab) && isAudioPlaying()"
+                      (click)="pauseAudio()"
+                      title="暫停播放">
+                <i class="fas fa-pause"></i>
+              </button>
+            </div>
+            <div class="vocabulary-text"
+                 [innerHTML]="formatVocabularyText(vocab.text)"
+                 data-source="vocabulary"
+                 [attr.data-vocab-index]="i"></div>
+          </div>
+        </div>
+
+        <!-- 後記 -->
+        <div class="vocabulary-postscript mt-3"
+             *ngIf="topic.vocabulary.postscript"
+             data-source="vocabulary"
+             data-vocab-index="-2">
+          {{ topic.vocabulary.postscript }}
+        </div>
+      </div>
+
+      <ng-template #noVocabulary>
+        <p class="text-muted">此主題沒有單字內容</p>
+      </ng-template>
+    </div>
+
+    <!-- 測驗區域 -->
+    <div class="tab-pane fade"
+         [class.show]="activeTab === 'quiz'"
+         [class.active]="activeTab === 'quiz'"
+         role="tabpanel">
+      <div *ngIf="topic.quiz && topic.quiz.length > 0; else noQuiz">
+        <div class="quiz-list">
+          <div class="quiz-item" *ngFor="let quiz of topic.quiz; let i = index">
+            <div class="quiz-header">
+              <div class="quiz-question"
+                   data-source="quiz"
+                   [attr.data-quiz-index]="i">{{ quiz.question }}</div>
+              <div class="quiz-time-controls">
+                <button class="btn-jump-time"
+                        *ngIf="hasTime(quiz)"
+                        (click)="jumpToTime(quiz.time!)"
+                        [title]="'跳到此時間點 (' + quiz.time + ')'">
+                  <i class="fas fa-play"></i>
+                </button>
+                <button class="btn-pause-time"
+                        *ngIf="hasTime(quiz) && isAudioPlaying()"
+                        (click)="pauseAudio()"
+                        title="暫停播放">
+                  <i class="fas fa-pause"></i>
+                </button>
+              </div>
+            </div>
+            <div class="quiz-options" *ngIf="quiz.options && quiz.options.length > 0">
+              <div class="quiz-option"
+                   *ngFor="let option of quiz.options"
+                   [attr.data-value]="option.substring(0, 1)"
+                   data-source="quiz"
+                   [attr.data-quiz-index]="i">
+                {{ option }}
+              </div>
+            </div>
+            <div class="quiz-controls">
+              <button class="btn-show-answer"
+                      (click)="toggleQuizAnswer(i)"
+                      [attr.data-answer]="quiz.answer">
+                <i class="fas fa-eye me-1"></i>
+                {{ showQuizAnswers[i] ? '隱藏答案' : '顯示答案' }}
+              </button>
+            </div>
+            <div class="quiz-answer"
+                 *ngIf="showQuizAnswers[i] && quiz.answer"
+                 data-source="quiz"
+                 [attr.data-quiz-index]="i">
+              <strong>答案：</strong>{{ quiz.answer }}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <ng-template #noQuiz>
+        <p class="text-muted">此主題沒有測驗內容</p>
+      </ng-template>
+    </div>
+
+    <!-- 生字簿區域 -->
+    <div class="tab-pane fade"
+         [class.show]="activeTab === 'my-vocabulary'"
+         [class.active]="activeTab === 'my-vocabulary'"
+         role="tabpanel">
+
+      <!-- 使用共用的生字列表元件 -->
+      <app-vocabulary-list
+        [topicId]="topic.id"
+        [showActions]="false">
+      </app-vocabulary-list>
+    </div>
+  </div>
+</div>
+
+<!-- 右鍵選單 -->
+<div class="word-selection-context-menu"
+     *ngIf="showContextMenu"
+     [style.left.px]="contextMenuX"
+     [style.top.px]="contextMenuY"
+     (click)="$event.stopPropagation()"
+     (mousedown)="$event.stopPropagation()">
+  <div class="menu-item"
+       (click)="confirmAddToVocabulary(); $event.stopPropagation()"
+       (mousedown)="$event.stopPropagation()">
+    <i class="fas fa-plus me-1"></i>加入生字簿
+  </div>
+</div>
+
+<!-- 點擊背景隱藏選單 -->
+<div class="context-menu-overlay"
+     *ngIf="showContextMenu"
+     (click)="hideContextMenuAndClearSelection()"
+     (mousedown)="$event.stopPropagation()"></div>
+
+<!-- <div class="modal-footer">
+  <button type="button" class="btn btn-secondary" (click)="close()">
+    <i class="fas fa-times me-1"></i>關閉
+  </button>
+</div> -->

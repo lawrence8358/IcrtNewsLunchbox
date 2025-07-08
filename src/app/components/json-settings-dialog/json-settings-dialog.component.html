@@ -1,0 +1,88 @@
+<div class="modal-header bg-primary text-white">
+  <h4 class="modal-title">
+    <i class="fas fa-file-code me-2"></i>
+    JSON 資料編輯
+  </h4>
+  <button type="button" class="btn-close btn-close-white" aria-label="關閉" (click)="cancel()"></button>
+</div>
+
+<div class="modal-body" style="height: 500px; display: flex; flex-direction: column; overflow: hidden;">
+  <!-- 載入狀態 -->
+  <div *ngIf="isLoading" class="d-flex justify-content-center align-items-center h-100">
+    <div class="text-center">
+      <div class="spinner-border text-warning mb-2">
+        <span class="visually-hidden">載入中...</span>
+      </div>
+      <div>載入中...</div>
+    </div>
+  </div>
+
+  <!-- 主要內容 -->
+  <div *ngIf="!isLoading" class="d-flex flex-column h-100" style="overflow: hidden;">
+    <!-- 工具列 -->
+    <div class="border-bottom pb-2 mb-3 flex-shrink-0">
+      <div class="d-flex gap-2 align-items-center flex-wrap">
+        <button class="btn btn-sm btn-outline-primary" (click)="formatJson()" title="格式化 JSON">
+          <i class="fas fa-indent me-1"></i>格式化
+        </button>
+        <button class="btn btn-sm btn-outline-secondary" (click)="compressJson()" title="壓縮 JSON">
+          <i class="fas fa-compress me-1"></i>壓縮
+        </button>
+        <button class="btn btn-sm btn-outline-danger" (click)="clearJson()" title="清空內容">
+          <i class="fas fa-trash me-1"></i>清空
+        </button>
+        <div class="ms-auto text-muted small">
+          <i class="fas fa-info-circle me-1"></i>
+          {{ getJsonLineCount() }} 行，{{ getJsonCharCount() }} 字符
+        </div>
+      </div>
+    </div>
+
+    <!-- JSON 編輯器 -->
+    <div class="flex-grow-1 position-relative" style="min-height: 0;">
+      <textarea class="form-control h-100 font-monospace small" [(ngModel)]="jsonContent" (input)="onJsonChange()"
+        placeholder="請輸入 JSON 格式的生字簿資料..." style="resize: none; line-height: 1.4; overflow-y: auto;"
+        spellcheck="false">
+      </textarea>
+
+      <!-- JSON 驗證狀態 -->
+      <div class="position-absolute top-0 end-0 mt-2 me-2" style="z-index: 10;">
+        <span *ngIf="isValidJson" class="badge bg-success">
+          <i class="fas fa-check me-1"></i>有效
+        </span>
+        <span *ngIf="!isValidJson" class="badge bg-danger">
+          <i class="fas fa-times me-1"></i>無效
+        </span>
+      </div>
+    </div>
+
+    <!-- 錯誤訊息與說明 - 固定在底部 -->
+    <div class="flex-shrink-0 mt-2">
+      <!-- 錯誤訊息 -->
+      <div *ngIf="!isValidJson && jsonError" class="alert alert-danger mb-2">
+        <i class="fas fa-exclamation-triangle me-2"></i>
+        <strong>JSON 格式錯誤：</strong>{{ jsonError }}
+      </div>
+
+      <!-- 說明 -->
+      <div class="border-top pt-2">
+        <small class="text-muted">
+          <i class="fas fa-lightbulb me-1"></i>
+          <strong>說明：</strong>JSON 必須是包含生字資料的陣列格式。每個單字物件需包含 id、word、level 等必要欄位，其中 level 必須是 1（不熟）、2（尚可）或 3（記住了）。
+        </small>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal-footer bg-light">
+  <button type="button" class="btn btn-outline-secondary" (click)="cancel()" [disabled]="isSaving">
+    <i class="fas fa-times me-1"></i>
+    取消
+  </button>
+  <button type="button" class="btn btn-warning" (click)="saveJson()" [disabled]="isSaving || !isValidJson || isLoading">
+    <span *ngIf="isSaving" class="spinner-border spinner-border-sm me-2" aria-hidden="true"></span>
+    <i *ngIf="!isSaving" class="fas fa-save me-1"></i>
+    {{ isSaving ? '儲存中...' : '儲存並套用' }}
+  </button>
+</div>

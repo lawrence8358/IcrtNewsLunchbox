@@ -1,0 +1,74 @@
+<div class="modal-header bg-primary text-white">
+  <h4 class="modal-title">
+    <i class="fas fa-plus me-2"></i>
+    {{ isEditMode ? '編輯生字' : '加入生字' }}
+  </h4>
+  <button type="button" class="btn-close btn-close-white" aria-label="Close" (click)="cancel()"></button>
+</div>
+
+<div class="modal-body">
+  <form #wordForm="ngForm" (ngSubmit)="saveWord()">
+    <div class="mb-3">
+      <label for="word" class="form-label mb-1">選擇的單字 <span class="text-danger">*</span></label>
+      <input type="text" class="form-control" id="word" name="word" [(ngModel)]="word" required placeholder="請輸入英文單字"
+        [class.is-invalid]="wordError">
+      <div class="invalid-feedback" *ngIf="wordError">
+        請輸入單字
+      </div>
+    </div>
+
+    <div class="mb-3">
+      <label for="phonetic" class="form-label mb-1">英標</label>
+      <input type="text" class="form-control" id="phonetic" name="phonetic" [(ngModel)]="phonetic"
+        placeholder="例：[ˈæpl]">
+    </div>
+
+    <div class="mb-3">
+      <label for="translation" class="form-label mb-1">中文翻譯</label>
+      <textarea class="form-control" id="translation" name="translation" [(ngModel)]="translation" rows="2"
+        placeholder="請輸入中文翻譯"></textarea>
+    </div>
+
+    <div class="mb-3">
+      <label for="level" class="form-label mb-1">熟悉度 <span class="text-danger">*</span></label>
+      <select class="form-select" id="level" name="level" [(ngModel)]="level" required [class.is-invalid]="levelError">
+        <option value="">請選擇</option>
+        <option *ngFor="let levelOption of getLevelOptions()" [value]="levelOption.key">
+          {{ levelOption.label }}
+        </option>
+      </select>
+      <div class="invalid-feedback" *ngIf="levelError">
+        請選擇熟悉度
+      </div>
+    </div>
+
+    <!-- 來源文章顯示區 -->
+    <div class="mb-3" *ngIf="sources.length > 0">
+      <label class="form-label mb-1">來源文章</label>
+      <div class="sources-display">
+        <div class="mt-1">
+          <span class="badge bg-secondary me-2 mb-1 source-badge" *ngFor="let source of sources; let i = index">
+            {{ source.title }}
+            <i class="fas fa-times ms-1 source-remove" (click)="removeSource(i)" title="移除來源"
+              style="cursor: pointer;"></i>
+          </span>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+
+<div class="modal-footer d-flex justify-content-between">
+  <button type="button" class="btn btn-outline-danger" *ngIf="isEditMode" (click)="deleteWord()">
+    <i class="fas fa-trash me-1"></i>刪除
+  </button>
+  <div class="d-flex gap-2 ms-auto">
+    <button type="button" class="btn btn-outline-secondary" (click)="cancel()">
+      取消
+    </button>
+    <button type="button" class="btn btn-primary" (click)="saveWord()">
+      <i class="fas fa-save me-1"></i>
+      儲存
+    </button>
+  </div>
+</div>
