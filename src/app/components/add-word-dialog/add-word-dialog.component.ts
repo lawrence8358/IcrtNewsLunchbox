@@ -327,4 +327,11 @@ export class AddWordDialogComponent implements OnInit {
   getLevelOptions() {
     return VocabularyLevelUtils.getAllLevels();
   }
+
+  /**
+   * 單字輸入框變更事件處理
+   */
+  async onWordChange(): Promise<void> {
+    await this.loadNewWordData();
+  }
 }

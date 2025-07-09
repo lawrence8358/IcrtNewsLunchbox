@@ -11,7 +11,7 @@
     <div class="mb-3">
       <label for="word" class="form-label mb-1">選擇的單字 <span class="text-danger">*</span></label>
       <input type="text" class="form-control" id="word" name="word" [(ngModel)]="word" required placeholder="請輸入英文單字"
-        [class.is-invalid]="wordError">
+        [class.is-invalid]="wordError" (change)="onWordChange()">
       <div class="invalid-feedback" *ngIf="wordError">
         請輸入單字
       </div>
