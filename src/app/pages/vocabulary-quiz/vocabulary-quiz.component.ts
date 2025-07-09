@@ -66,9 +66,9 @@ export class VocabularyQuizComponent implements OnInit, OnDestroy {
   }
 
   constructor(
-    private quizService: VocabularyQuizService,
-    private vocabularyService: VocabularyService,
-    private notificationService: NotificationService
+    private readonly quizService: VocabularyQuizService,
+    private readonly vocabularyService: VocabularyService,
+    private readonly notificationService: NotificationService
   ) { }
 
   ngOnInit(): void {
@@ -237,7 +237,23 @@ export class VocabularyQuizComponent implements OnInit, OnDestroy {
    * 完成測驗
    */
   finishQuiz(): void {
+    // 確保每個問題都有 newLevel 屬性
+    this.questions.forEach(question => {
+      if (!question.newLevel) {
+        question.newLevel = question.originalLevel;
+      }
+    });
+
     this.quizService.completeQuiz();
+  }
+
+  /**
+   * 離開測驗
+   */
+  exitQuiz(): void {
+    if (confirm('確定要離開測驗嗎？目前的答題進度將會遺失。')) {
+      this.resetQuiz();
+    }
   }
 
   /**
@@ -326,20 +342,54 @@ export class VocabularyQuizComponent implements OnInit, OnDestroy {
   /**
    * 套用所有熟悉度變更
    */
-  applyAllFamiliarityChanges(): void {
-    this.questions.forEach(question => {
-      // 更新生字的熟悉度
-      const updatedWord = {
-        ...question.word,
-        level: question.newLevel || question.originalLevel,
-        updatedAt: new Date()
-      };
+  async applyAllFamiliarityChanges(): Promise<void> {
+    if (!this.questions || this.questions.length === 0) {
+      this.notificationService.showError('沒有可更新的生字資料');
+      return;
+    }
 
-      // 透過 VocabularyService 更新生字
-      this.vocabularyService.addWord(updatedWord);
-    });
+    this.isSubmitting = true;
+    let updatedCount = 0;
 
-    this.notificationService.showSuccess('所有熟悉度變更已儲存');
+    try {
+      for (const question of this.questions) {
+        const newLevel = +(question.newLevel || question.originalLevel);
+
+        // 只更新真正有變更的生字
+        if (newLevel !== question.originalLevel) {
+          const updatedWord = {
+            ...question.word,
+            level: newLevel,
+            updatedAt: new Date()
+          };
+
+          try {
+            // 使用 await 確保更新完成
+            await this.vocabularyService.addWord(updatedWord);
+
+            updatedCount++;
+
+            // 更新本地狀態
+            question.originalLevel = newLevel;
+            question.word.level = newLevel;
+          } catch (error) {
+            console.error(`更新生字 "${question.word.word}" 失敗:`, error);
+            throw error;
+          }
+        }
+      }
+
+      if (updatedCount > 0) {
+        this.notificationService.showSuccess(`已成功更新 ${updatedCount} 個生字的熟悉度`);
+      } else {
+        this.notificationService.showInfo('沒有熟悉度變更需要儲存');
+      }
+    } catch (error) {
+      console.error('更新熟悉度失敗:', error);
+      this.notificationService.showError('更新熟悉度時發生錯誤');
+    } finally {
+      this.isSubmitting = false;
+    }
   }
 
   /**

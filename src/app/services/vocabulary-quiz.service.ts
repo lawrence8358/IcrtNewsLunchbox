@@ -8,7 +8,7 @@ import { VocabularyService } from './vocabulary.service';
 })
 export class VocabularyQuizService {
   private readonly QUIZ_SETTINGS_KEY = 'vocabulary_quiz_settings';
-  
+
   private currentQuizState$ = new BehaviorSubject<QuizState>(QuizState.SETUP);
   private currentQuestions$ = new BehaviorSubject<QuizQuestion[]>([]);
   private currentQuestionIndex$ = new BehaviorSubject<number>(0);
@@ -83,7 +83,7 @@ export class VocabularyQuizService {
     try {
       // 記錄開始時間
       this.quizStartTime = new Date();
-      
+
       // 儲存設定
       this.saveQuizSettings(settings);
 
@@ -94,7 +94,7 @@ export class VocabularyQuizService {
       });
 
       // 篩選符合熟悉程度的生字
-      const filteredWords = vocabularyData.filter(word => 
+      const filteredWords = vocabularyData.filter(word =>
         settings.selectedLevels.includes(word.level)
       );
 
@@ -113,7 +113,8 @@ export class VocabularyQuizService {
         word,
         userAnswer: '',
         isCorrect: false,
-        originalLevel: word.level
+        originalLevel: word.level,
+        newLevel: word.level // 初始化為原始等級
       }));
 
       // 設定測驗狀態
@@ -137,9 +138,9 @@ export class VocabularyQuizService {
     if (questionIndex >= 0 && questionIndex < questions.length) {
       const updatedQuestions = [...questions];
       updatedQuestions[questionIndex].userAnswer = answer.trim();
-      updatedQuestions[questionIndex].isCorrect = 
+      updatedQuestions[questionIndex].isCorrect =
         answer.trim().toLowerCase() === updatedQuestions[questionIndex].word.word.toLowerCase();
-      
+
       this.currentQuestions$.next(updatedQuestions);
     }
   }
@@ -150,7 +151,7 @@ export class VocabularyQuizService {
   nextQuestion(): boolean {
     const currentIndex = this.currentQuestionIndex$.value;
     const questions = this.currentQuestions$.value;
-    
+
     if (currentIndex < questions.length - 1) {
       this.currentQuestionIndex$.next(currentIndex + 1);
       return true;
@@ -163,7 +164,7 @@ export class VocabularyQuizService {
    */
   previousQuestion(): boolean {
     const currentIndex = this.currentQuestionIndex$.value;
-    
+
     if (currentIndex > 0) {
       this.currentQuestionIndex$.next(currentIndex - 1);
       return true;
@@ -176,7 +177,7 @@ export class VocabularyQuizService {
    */
   goToQuestion(index: number): boolean {
     const questions = this.currentQuestions$.value;
-    
+
     if (index >= 0 && index < questions.length) {
       this.currentQuestionIndex$.next(index);
       return true;
@@ -206,7 +207,7 @@ export class VocabularyQuizService {
 
     this.quizResult$.next(result);
     this.currentQuizState$.next(QuizState.COMPLETED);
-    
+
     return result;
   }
 
@@ -215,7 +216,7 @@ export class VocabularyQuizService {
    */
   updateQuestionLevel(questionId: string, newLevel: number): void {
     const questions = this.currentQuestions$.value;
-    const updatedQuestions = questions.map(q => 
+    const updatedQuestions = questions.map(q =>
       q.id === questionId ? { ...q, newLevel } : q
     );
     this.currentQuestions$.next(updatedQuestions);
@@ -226,7 +227,7 @@ export class VocabularyQuizService {
    */
   async applyLevelChanges(): Promise<void> {
     const questions = this.currentQuestions$.value;
-    const changedQuestions = questions.filter(q => 
+    const changedQuestions = questions.filter(q =>
       q.newLevel !== undefined && q.newLevel !== q.originalLevel
     );
 
@@ -274,7 +275,7 @@ export class VocabularyQuizService {
       allWords.subscribe(data => resolve(data));
     });
 
-    return vocabularyData.filter(word => 
+    return vocabularyData.filter(word =>
       selectedLevels.includes(word.level)
     ).length;
   }

@@ -154,6 +154,10 @@
         *ngIf="currentQuestionIndex === quizQuestions.length - 1">
         <i class="fas fa-flag-checkered me-1"></i>完成測驗
       </button>
+
+      <button type="button" class="btn btn-outline-danger" (click)="exitQuiz()">
+        <i class="fas fa-times me-1"></i>離開測驗
+      </button>
     </div>
 
     <!-- 題目列表 -->
