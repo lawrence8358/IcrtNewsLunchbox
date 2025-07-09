@@ -1,7 +1,7 @@
 <div class="modal-header bg-primary text-white">
   <h4 class="modal-title">
     <i class="fas fa-file-code me-2"></i>
-    JSON 資料編輯
+    生字庫資料編輯(JSON 格式)
   </h4>
   <button type="button" class="btn-close btn-close-white" aria-label="關閉" (click)="cancel()"></button>
 </div>
@@ -40,8 +40,8 @@
 
     <!-- JSON 編輯器 -->
     <div class="flex-grow-1 position-relative" style="min-height: 0;">
-      <textarea class="form-control h-100 font-monospace small" [(ngModel)]="jsonContent" (input)="onJsonChange()"
-        placeholder="請輸入 JSON 格式的生字簿資料..." style="resize: none; line-height: 1.4; overflow-y: auto;" spellcheck="false">
+      <textarea class="form-control h-100 small" [(ngModel)]="jsonContent" (input)="onJsonChange()"
+        placeholder="請輸入 JSON 格式的生字簿資料..." spellcheck="false">
       </textarea>
 
       <!-- JSON 驗證狀態 -->
