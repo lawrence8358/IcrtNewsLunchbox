@@ -11,6 +11,7 @@ import { UtilsService } from '../../services/utils.service';
 import { Topic, AppSettings } from '../../models/topic.model';
 import { AddWordDialogComponent } from '../../components/add-word-dialog/add-word-dialog.component';
 import { TopicDetailDialogComponent } from '../../components/topic-detail-dialog/topic-detail-dialog.component';
+import { SettingConfig } from '../../config/setting.config';
 
 @Component({
   selector: 'app-home',
@@ -80,14 +81,9 @@ export class HomeComponent implements OnInit, OnDestroy {
       // 載入設定
       this.loadSettings();
 
-      // 並行載入月份和標籤資料
-      const [months, tags] = await Promise.all([
-        firstValueFrom(this.dataService.loadMonthsList()),
-        firstValueFrom(this.dataService.loadTagsList())
-      ]);
-
-      this.monthsData = months || [];
-      this.tagsData = tags || [];
+      // 從 SettingConfig 取得資料
+      this.monthsData = SettingConfig.months;
+      this.tagsData = SettingConfig.tags;
 
       // 設定預設值
       if (this.settings.lastMonth && this.monthsData.includes(this.settings.lastMonth)) {
@@ -199,10 +195,9 @@ export class HomeComponent implements OnInit, OnDestroy {
 
     // 開啟主題詳情對話框
     const modalRef = this.modalService.open(TopicDetailDialogComponent, {
-      size: 'xl',
       backdrop: 'static',
       scrollable: true,
-      windowClass: 'full-modal-dialog'
+      fullscreen: true
     });
 
     // 傳遞主題資料到對話框
@@ -210,12 +205,8 @@ export class HomeComponent implements OnInit, OnDestroy {
 
     // 處理對話框結果
     modalRef.result.then(
-      (result) => {
-        // 對話框正常關閉
-      },
-      (dismissed) => {
-        // 對話框被取消或關閉
-      }
+      (result) => { },
+      (dismissed) => { }
     );
   }
 
@@ -229,35 +220,6 @@ export class HomeComponent implements OnInit, OnDestroy {
     } else {
       this.notificationService.showError('找不到指定的主題');
     }
-  }
-
-  /**
-   * 從主題新增單字到生字簿
-   */
-  addWordFromTopic(word: string, topic: Topic): void {
-    const modalRef = this.modalService.open(AddWordDialogComponent, {
-      size: 'lg',
-      backdrop: 'static'
-    });
-
-    // 預設填入選取的單字和來源
-    modalRef.componentInstance.word = word;
-    modalRef.componentInstance.sources = [{
-      title: topic.title,
-      topicId: topic.id
-    }];
-
-    // 處理對話框結果
-    modalRef.result.then(
-      (result) => {
-        if (result) {
-          this.notificationService.showSuccess('單字已新增到生字簿');
-        }
-      },
-      (dismissed) => {
-        // 使用者取消操作
-      }
-    );
   }
 
   /**

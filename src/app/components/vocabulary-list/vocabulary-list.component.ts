@@ -159,10 +159,9 @@ export class VocabularyListComponent implements OnInit, OnDestroy, OnChanges {
    */
   editWord(word: VocabularyWord): void {
     const modalRef = this.modalService.open(AddWordDialogComponent, {
-      size: 'xl',
       backdrop: 'static',
       scrollable: true,
-      windowClass: 'full-modal-dialog'
+      fullscreen: true
     });
 
     // 設定編輯資料

@@ -13,6 +13,7 @@ import { JsonSettingsDialogComponent } from '../../components/json-settings-dial
 import { TopicDetailDialogComponent } from '../../components/topic-detail-dialog/topic-detail-dialog.component';
 import { VocabularyListComponent } from '../../components/vocabulary-list/vocabulary-list.component';
 import { DataService } from '../../services/data.service';
+import { SettingConfig } from '../../config/setting.config';
 
 @Component({
   selector: 'app-vocabulary-book',
@@ -39,7 +40,7 @@ export class VocabularyBookComponent implements OnInit, OnDestroy {
     private readonly modalService: NgbModal,
     private readonly router: Router,
     private readonly dataService: DataService
-  ) {}
+  ) { }
 
   ngOnInit(): void {
     // 載入生字簿資料
@@ -126,7 +127,7 @@ export class VocabularyBookComponent implements OnInit, OnDestroy {
     try {
       // 根據 topicId 找到對應的主題資料
       // 先載入所有月份的資料來尋找主題
-      const monthsList = await firstValueFrom(this.dataService.loadMonthsList());
+      const monthsList = SettingConfig.months;
       let targetTopic = null;
 
       // 在所有月份中搜尋主題
@@ -142,10 +143,11 @@ export class VocabularyBookComponent implements OnInit, OnDestroy {
       if (targetTopic) {
         // 開啟主題詳情對話框
         const modalRef = this.modalService.open(TopicDetailDialogComponent, {
-          size: 'xl',
+          // size: 'xl',
           backdrop: 'static',
           scrollable: true,
-          windowClass: 'full-modal-dialog'
+          fullscreen: true
+          // windowClass: 'full-modal-dialog'
         });
 
         // 設定主題資料
@@ -153,12 +155,8 @@ export class VocabularyBookComponent implements OnInit, OnDestroy {
 
         // 處理對話框結果
         modalRef.result.then(
-          (result) => {
-            // 對話框關閉後的處理
-          },
-          (dismissed) => {
-            // 使用者取消操作
-          }
+          (result) => { },
+          (dismissed) => { }
         );
       } else {
         this.notificationService.showError('找不到指定的主題');
@@ -203,22 +201,16 @@ export class VocabularyBookComponent implements OnInit, OnDestroy {
    */
   addNewWord(): void {
     const modalRef = this.modalService.open(AddWordDialogComponent, {
-      size: 'xl',
       backdrop: 'static',
       scrollable: true,
-      windowClass: 'full-modal-dialog'
+      fullscreen: true
     });
 
     // 處理對話框結果
     modalRef.result.then(
       (result) => {
-        if (result) {
-          // 不需要顯示通知，因為 add-word-dialog 已經處理了
-        }
       },
-      (dismissed) => {
-        // 使用者取消操作
-      }
+      (dismissed) => { }
     );
   }
 
@@ -227,10 +219,9 @@ export class VocabularyBookComponent implements OnInit, OnDestroy {
    */
   async pasteJsonData(): Promise<void> {
     const modalRef = this.modalService.open(JsonSettingsDialogComponent, {
-      size: 'xl',
       backdrop: 'static',
       scrollable: true,
-      windowClass: 'full-modal-dialog'
+      fullscreen: true
     });
 
     // 處理對話框結果

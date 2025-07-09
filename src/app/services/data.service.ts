@@ -1,8 +1,9 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Observable, combineLatest, of } from 'rxjs';
+import { Observable, of } from 'rxjs';
 import { catchError, map } from 'rxjs/operators';
 import { Topic, AppSettings } from '../models/topic.model';
+import { SettingConfig } from '../config/setting.config';
 
 @Injectable({
   providedIn: 'root'
@@ -11,35 +12,7 @@ export class DataService {
   private readonly ASSETS_PATH = 'assets/data';
   private readonly SETTINGS_KEY = 'icrt_settings';
 
-  constructor(private http: HttpClient) { }
-
-  /**
-   * 載入月份清單
-   */
-  loadMonthsList(): Observable<string[]> {
-    const randomParam = this.getRandomParam();
-    return this.http.get<string[]>(`${this.ASSETS_PATH}/months.json${randomParam}`)
-      .pipe(
-        catchError(error => {
-          console.error('載入 months.json 失敗:', error);
-          return of([]);
-        })
-      );
-  }
-
-  /**
-   * 載入標籤清單
-   */
-  loadTagsList(): Observable<string[]> {
-    const randomParam = this.getRandomParam();
-    return this.http.get<string[]>(`${this.ASSETS_PATH}/tag.json${randomParam}`)
-      .pipe(
-        catchError(error => {
-          console.error('載入 tag.json 失敗:', error);
-          return of([]);
-        })
-      );
-  }
+  constructor(private readonly http: HttpClient) { }
 
   /**
    * 載入指定月份的主題資料
@@ -61,15 +34,13 @@ export class DataService {
   }
 
   /**
-   * 同時載入所有基礎資料
+   * 取得所有基礎資料（從 SettingConfig 取得）
    */
-  loadAllBaseData(): Observable<{ months: string[], tags: string[] }> {
-    return combineLatest([
-      this.loadMonthsList(),
-      this.loadTagsList()
-    ]).pipe(
-      map(([months, tags]) => ({ months, tags }))
-    );
+  getAllBaseData(): { months: string[], tags: string[] } {
+    return {
+      months: SettingConfig.months,
+      tags: SettingConfig.tags
+    };
   }
 
   /**

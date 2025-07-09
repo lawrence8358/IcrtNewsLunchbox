@@ -6,7 +6,6 @@ import { Subject } from 'rxjs';
 import { Topic } from '../../models/topic.model';
 import { NotificationService } from '../../services/notification.service';
 import { UtilsService } from '../../services/utils.service';
-import { VocabularyService } from '../../services/vocabulary.service';
 import { AddWordDialogComponent } from '../add-word-dialog/add-word-dialog.component';
 import { VocabularyListComponent } from '../vocabulary-list/vocabulary-list.component';
 
@@ -46,19 +45,18 @@ export class TopicDetailDialogComponent implements OnInit, OnDestroy {
   private isLongPress = false;
 
   // 綁定的事件處理器引用
-  private boundGlobalTouchEnd = this.handleGlobalTouchEnd.bind(this);
-  private boundGlobalContextMenu = this.handleGlobalContextMenu.bind(this);
-  private boundGlobalTouchStart = this.handleGlobalTouchStart.bind(this);
-  private boundGlobalTouchCancel = this.handleGlobalTouchEnd.bind(this);
-  private boundGlobalTouchMove = this.handleGlobalTouchEnd.bind(this);
-  private boundGlobalDoubleClick = this.handleGlobalDoubleClick.bind(this);
+  private readonly boundGlobalTouchEnd = this.handleGlobalTouchEnd.bind(this);
+  private readonly boundGlobalContextMenu = this.handleGlobalContextMenu.bind(this);
+  private readonly boundGlobalTouchStart = this.handleGlobalTouchStart.bind(this);
+  private readonly boundGlobalTouchCancel = this.handleGlobalTouchEnd.bind(this);
+  private readonly boundGlobalTouchMove = this.handleGlobalTouchEnd.bind(this);
+  private readonly boundGlobalDoubleClick = this.handleGlobalDoubleClick.bind(this);
 
   constructor(
     public readonly activeModal: NgbActiveModal,
     private readonly notificationService: NotificationService,
     private readonly utilsService: UtilsService,
-    private readonly modalService: NgbModal,
-    private readonly vocabularyService: VocabularyService
+    private readonly modalService: NgbModal
   ) { }
 
   ngOnInit(): void {
@@ -701,10 +699,9 @@ export class TopicDetailDialogComponent implements OnInit, OnDestroy {
     // window.getSelection()?.removeAllRanges();
 
     const modalRef = this.modalService.open(AddWordDialogComponent, {
-      size: 'xl',
       backdrop: 'static',
       scrollable: true,
-      windowClass: 'full-modal-dialog'
+      fullscreen: true
     });
 
     // 設定對話框的資料

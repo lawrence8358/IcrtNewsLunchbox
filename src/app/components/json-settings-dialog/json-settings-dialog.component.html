@@ -6,7 +6,7 @@
   <button type="button" class="btn-close btn-close-white" aria-label="關閉" (click)="cancel()"></button>
 </div>
 
-<div class="modal-body" style="height: 500px; display: flex; flex-direction: column; overflow: hidden;">
+<div class="modal-body">
   <!-- 載入狀態 -->
   <div *ngIf="isLoading" class="d-flex justify-content-center align-items-center h-100">
     <div class="text-center">
@@ -41,8 +41,7 @@
     <!-- JSON 編輯器 -->
     <div class="flex-grow-1 position-relative" style="min-height: 0;">
       <textarea class="form-control h-100 font-monospace small" [(ngModel)]="jsonContent" (input)="onJsonChange()"
-        placeholder="請輸入 JSON 格式的生字簿資料..." style="resize: none; line-height: 1.4; overflow-y: auto;"
-        spellcheck="false">
+        placeholder="請輸入 JSON 格式的生字簿資料..." style="resize: none; line-height: 1.4; overflow-y: auto;" spellcheck="false">
       </textarea>
 
       <!-- JSON 驗證狀態 -->

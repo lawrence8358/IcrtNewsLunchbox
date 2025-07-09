@@ -8,7 +8,8 @@
     "build": "ng build --base-href=/IcrtNewsLunchbox/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "gh-pages -d dist/browser"
+    "deploy": "gh-pages -d dist/browser",
+    "cicd": "npm run build && npm run deploy"
   },
   "private": true,
   "dependencies": {

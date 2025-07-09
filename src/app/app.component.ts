@@ -1,8 +1,9 @@
-import { Component, OnInit, OnDestroy } from '@angular/core';
+import { Component, OnInit, OnDestroy, AfterViewInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterOutlet, RouterModule } from '@angular/router';
 import { Subject, takeUntil } from 'rxjs';
 import { NotificationService, NotificationMessage } from './services/notification.service';
+import { SettingConfig } from './config/setting.config';
 
 @Component({
   selector: 'app-root',
@@ -10,7 +11,7 @@ import { NotificationService, NotificationMessage } from './services/notificatio
   templateUrl: './app.component.html',
   styleUrl: './app.component.less'
 })
-export class AppComponent implements OnInit, OnDestroy {
+export class AppComponent implements OnInit, OnDestroy, AfterViewInit {
   notifications: NotificationMessage[] = [];
   private readonly destroy$ = new Subject<void>();
 
@@ -25,9 +26,45 @@ export class AppComponent implements OnInit, OnDestroy {
       });
   }
 
+  ngAfterViewInit(): void {
+    // 檢查初始化狀態並移除 loading 畫面
+    this.checkInitializationAndRemoveLoading();
+  }
+
   ngOnDestroy(): void {
     this.destroy$.next();
     this.destroy$.complete();
+  }
+
+  /**
+   * 檢查初始化狀態並移除 loading 畫面
+   */
+  private checkInitializationAndRemoveLoading(): void {
+    // 確保 DOM 已完全載入
+    setTimeout(() => {
+      if (SettingConfig.isInitialized) {
+        this.removeLoadingScreen();
+      } else {
+        // 如果還沒初始化，稍後再檢查
+        setTimeout(() => this.checkInitializationAndRemoveLoading(), 100);
+      }
+    }, 100);
+  }
+
+  /**
+   * 移除 loading 畫面
+   */
+  private removeLoadingScreen(): void {
+    const loadingElement = document.getElementById('app-loading');
+    if (loadingElement) {
+      // 添加淡出動畫
+      loadingElement.classList.add('fade-out');
+
+      // 動畫完成後移除元素
+      setTimeout(() => {
+        loadingElement.remove();
+      }, 500);
+    }
   }
 
   /**

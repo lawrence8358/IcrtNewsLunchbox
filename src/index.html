@@ -9,9 +9,109 @@
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <!-- Font Awesome -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+
+  <!-- 初始化 loading 樣式 -->
+  <style>
+    .app-loading {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+      font-family: 'Arial', sans-serif;
+    }
+
+    .app-loading-content {
+      text-align: center;
+      color: white;
+    }
+
+    .app-loading-logo {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    .app-loading-title {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+      opacity: 0.9;
+    }
+
+    .app-loading-subtitle {
+      font-size: 1rem;
+      opacity: 0.7;
+      margin-bottom: 2rem;
+    }
+
+    .app-loading-spinner {
+      width: 50px;
+      height: 50px;
+      border: 4px solid rgba(255, 255, 255, 0.3);
+      border-top: 4px solid white;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto;
+    }
+
+    .app-loading-text {
+      margin-top: 1rem;
+      font-size: 0.9rem;
+      opacity: 0.8;
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.1); }
+    }
+
+    /* 隱藏 loading 的動畫 */
+    .app-loading.fade-out {
+      opacity: 0;
+      transition: opacity 0.5s ease-out;
+    }
+
+    /* 響應式設計 */
+    @media (max-width: 768px) {
+      .app-loading-logo {
+        font-size: 2rem;
+      }
+      .app-loading-title {
+        font-size: 1.2rem;
+      }
+      .app-loading-subtitle {
+        font-size: 0.9rem;
+      }
+    }
+  </style>
 </head>
 
 <body>
+  <!-- 初始化 loading 畫面 -->
+  <div id="app-loading" class="app-loading">
+    <div class="app-loading-content">
+      <div class="app-loading-logo">
+        <i class="fas fa-headphones"></i>
+      </div>
+      <div class="app-loading-title">ICRT For Kids</div>
+      <div class="app-loading-subtitle">聽力練習</div>
+      <div class="app-loading-spinner"></div>
+      <div class="app-loading-text">正在初始化應用程式...</div>
+    </div>
+  </div>
+
   <app-root></app-root>
 </body>
 
