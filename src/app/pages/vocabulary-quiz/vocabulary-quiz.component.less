@@ -1,0 +1,542 @@
+@import '../../../styles/variables.less';
+
+.vocabulary-quiz-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: @spacing-lg;
+}
+
+// 設定階段樣式
+.quiz-setup {
+  .card {
+    border: none;
+    box-shadow: @shadow-card;
+    border-radius: @border-radius-lg;
+  }
+
+  .card-header {
+    background: linear-gradient(135deg, @primary-color, @primary-color-dark);
+    color: white;
+    border-radius: @border-radius-lg @border-radius-lg 0 0;
+    padding: @spacing-md @spacing-lg;
+
+    h4 {
+      margin: 0;
+      font-weight: 600;
+    }
+  }
+
+  .familiarity-options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: @spacing-sm;
+    margin-top: @spacing-sm;
+
+    .form-check {
+      margin: 0;
+
+      .form-check-label {
+        cursor: pointer;
+        margin-left: @spacing-sm;
+      }
+    }
+  }
+
+  .familiarity-badge {
+    padding: @spacing-xs @spacing-sm;
+    border-radius: @border-radius-sm;
+    font-size: @font-size-sm;
+    font-weight: 500;
+
+    &.familiarity-1 {
+      background-color: @familiarity-1-bg;
+      color: @familiarity-1-color;
+    }
+
+    &.familiarity-2 {
+      background-color: @familiarity-2-bg;
+      color: @familiarity-2-color;
+    }
+
+    &.familiarity-3 {
+      background-color: @familiarity-3-bg;
+      color: @familiarity-3-color;
+    }
+
+    &.familiarity-4 {
+      background-color: @familiarity-4-bg;
+      color: @familiarity-4-color;
+    }
+
+    &.familiarity-5 {
+      background-color: @familiarity-5-bg;
+      color: @familiarity-5-color;
+    }
+  }
+
+  .question-count-input {
+    width: 120px;
+  }
+
+  .quiz-stats {
+    background: @gray-100;
+    border-radius: @border-radius-md;
+    padding: @spacing-md;
+
+    .stat-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: @spacing-xs;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+
+      i {
+        color: @primary-color;
+      }
+    }
+  }
+}
+
+// 測驗進行階段樣式
+.quiz-content {
+  .quiz-progress {
+    .progress-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: @spacing-sm;
+
+      .progress-text {
+        font-weight: 600;
+        color: @text-primary;
+      }
+
+      .progress-percentage {
+        font-size: @font-size-sm;
+        color: @text-secondary;
+      }
+    }
+
+    .progress {
+      height: 8px;
+      background-color: @gray-200;
+      border-radius: 4px;
+      overflow: hidden;
+
+      .progress-bar {
+        background: linear-gradient(90deg, @primary-color, @primary-color-light);
+        transition: width 0.3s ease;
+      }
+    }
+  }
+
+  .question-card {
+    border: none;
+    box-shadow: @shadow-card;
+    border-radius: @border-radius-lg;
+
+    .card-body {
+      padding: @spacing-xl;
+    }
+  }
+
+  .question-content {
+    .question-info {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      .question-number {
+        color: @primary-color;
+        font-weight: 600;
+      }
+    }
+
+    .question-text {
+      text-align: center;
+      margin: @spacing-xl 0;
+
+      h3 {
+        font-size: @font-size-xl;
+        color: @text-primary;
+        margin-bottom: @spacing-sm;
+      }
+
+      p {
+        font-size: @font-size-base;
+        color: @text-secondary;
+      }
+    }
+
+    .answer-input-group {
+      display: flex;
+      gap: @spacing-md;
+      max-width: 400px;
+      margin: 0 auto;
+
+      .answer-input {
+        font-size: @font-size-lg;
+        padding: @spacing-md;
+        border: 2px solid @gray-300;
+        border-radius: @border-radius-md;
+
+        &:focus {
+          border-color: @primary-color;
+          box-shadow: 0 0 0 0.2rem fade(@primary-color, 25%);
+        }
+      }
+
+      .btn {
+        padding: @spacing-md @spacing-lg;
+        white-space: nowrap;
+      }
+    }
+
+    .answer-result {
+      text-align: center;
+
+      .result-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: @spacing-sm;
+        padding: @spacing-sm @spacing-md;
+        border-radius: @border-radius-md;
+        font-weight: 600;
+
+        &.correct {
+          background-color: @success-bg;
+          color: @success-color;
+        }
+
+        &.incorrect {
+          background-color: @error-bg;
+          color: @error-color;
+        }
+      }
+
+      .correct-answer,
+      .user-answer {
+        font-size: @font-size-base;
+        color: @text-secondary;
+      }
+    }
+  }
+
+  .quiz-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .btn {
+      min-width: 120px;
+    }
+  }
+
+  .question-list {
+    background: @gray-50;
+    border-radius: @border-radius-md;
+    padding: @spacing-md;
+
+    h6 {
+      margin-bottom: @spacing-md;
+      color: @text-primary;
+    }
+
+    .question-indicators {
+      display: flex;
+      flex-wrap: wrap;
+      gap: @spacing-sm;
+
+      .question-indicator {
+        width: 40px;
+        height: 40px;
+        border-radius: @border-radius-sm;
+        border: 2px solid @gray-300;
+        background: white;
+        color: @text-secondary;
+        font-weight: 600;
+        transition: all 0.2s ease;
+
+        &:hover {
+          border-color: @primary-color;
+          color: @primary-color;
+        }
+
+        &.current {
+          border-color: @primary-color;
+          background: @primary-color;
+          color: white;
+        }
+
+        &.answered {
+          border-color: @success-color;
+          background: @success-color;
+          color: white;
+        }
+
+        &.correct {
+          border-color: @success-color;
+          background: @success-color;
+          color: white;
+        }
+
+        &.incorrect {
+          border-color: @error-color;
+          background: @error-color;
+          color: white;
+        }
+      }
+    }
+  }
+}
+
+// 結果階段樣式
+.quiz-result {
+  .card {
+    border: none;
+    box-shadow: @shadow-card;
+    border-radius: @border-radius-lg;
+  }
+
+  .card-header {
+    background: linear-gradient(135deg, @success-color, darken(@success-color, 10%));
+    color: white;
+    border-radius: @border-radius-lg @border-radius-lg 0 0;
+    padding: @spacing-md @spacing-lg;
+
+    h4 {
+      margin: 0;
+      font-weight: 600;
+    }
+  }
+
+  .result-summary {
+    display: flex;
+    align-items: center;
+    gap: @spacing-xl;
+    margin-bottom: @spacing-xl;
+
+    .score-display {
+      .score-circle {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        border: 4px solid;
+
+        .score-number {
+          font-size: @font-size-xxl;
+          font-weight: 700;
+        }
+
+        .score-total {
+          font-size: @font-size-sm;
+          opacity: 0.8;
+        }
+
+        &.excellent {
+          background-color: @success-bg;
+          color: @success-color;
+          border-color: @success-color;
+        }
+
+        &.good {
+          background-color: @info-bg;
+          color: @info-color;
+          border-color: @info-color;
+        }
+
+        &.average {
+          background-color: @warning-bg;
+          color: @warning-color;
+          border-color: @warning-color;
+        }
+
+        &.poor {
+          background-color: @error-bg;
+          color: @error-color;
+          border-color: @error-color;
+        }
+      }
+    }
+
+    .result-stats {
+      flex: 1;
+
+      .stat-item {
+        display: flex;
+        align-items: center;
+        margin-bottom: @spacing-md;
+        font-size: @font-size-lg;
+
+        &:last-child {
+          margin-bottom: 0;
+        }
+
+        i {
+          color: @primary-color;
+        }
+      }
+    }
+  }
+
+  .result-details {
+    .result-list {
+      max-height: 400px;
+      overflow-y: auto;
+      border: 1px solid @gray-200;
+      border-radius: @border-radius-md;
+
+      .result-item {
+        padding: @spacing-md;
+        border-bottom: 1px solid @gray-200;
+
+        &:last-child {
+          border-bottom: none;
+        }
+
+        &.correct {
+          background-color: fade(@success-color, 5%);
+          border-left: 4px solid @success-color;
+        }
+
+        &.incorrect {
+          background-color: fade(@error-color, 5%);
+          border-left: 4px solid @error-color;
+        }
+
+        .result-header {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          margin-bottom: @spacing-sm;
+
+          .question-number {
+            font-weight: 600;
+            color: @text-primary;
+          }
+
+          .result-badge {
+            display: flex;
+            align-items: center;
+            gap: @spacing-xs;
+            padding: @spacing-xs @spacing-sm;
+            border-radius: @border-radius-sm;
+            font-size: @font-size-sm;
+            font-weight: 500;
+
+            &:has(i.fa-check) {
+              background-color: @success-bg;
+              color: @success-color;
+            }
+
+            &:has(i.fa-times) {
+              background-color: @error-bg;
+              color: @error-color;
+            }
+          }
+        }
+
+        .result-content {
+          .vocabulary-info {
+            display: flex;
+            align-items: center;
+            margin-bottom: @spacing-sm;
+
+            strong {
+              color: @text-primary;
+            }
+          }
+
+          .answer-info {
+            margin-bottom: @spacing-sm;
+
+            .correct-answer,
+            .user-answer {
+              font-size: @font-size-sm;
+              color: @text-secondary;
+              margin-bottom: @spacing-xs;
+            }
+          }
+
+          .familiarity-adjustment {
+            .form-label {
+              font-size: @font-size-sm;
+              color: @text-secondary;
+              margin-bottom: @spacing-xs;
+            }
+
+            .form-select {
+              width: 150px;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .result-actions {
+    display: flex;
+    gap: @spacing-md;
+    justify-content: center;
+
+    .btn {
+      min-width: 140px;
+    }
+  }
+}
+
+// 響應式設計
+@media (max-width: 768px) {
+  .vocabulary-quiz-container {
+    padding: @spacing-md;
+  }
+
+  .quiz-content {
+    .question-content {
+      .question-text {
+        h3 {
+          font-size: @font-size-lg;
+        }
+      }
+
+      .answer-input-group {
+        flex-direction: column;
+
+        .answer-input {
+          font-size: @font-size-base;
+        }
+      }
+    }
+
+    .quiz-actions {
+      flex-direction: column;
+      gap: @spacing-md;
+
+      .btn {
+        width: 100%;
+      }
+    }
+  }
+
+  .quiz-result {
+    .result-summary {
+      flex-direction: column;
+      text-align: center;
+      gap: @spacing-md;
+    }
+
+    .result-actions {
+      flex-direction: column;
+
+      .btn {
+        width: 100%;
+      }
+    }
+  }
+}

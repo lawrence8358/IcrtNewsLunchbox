@@ -1,0 +1,259 @@
+<div class="vocabulary-quiz-container">
+  <!-- 設定階段 -->
+  <div *ngIf="currentState === 'setup'" class="quiz-setup">
+    <div class="card">
+      <div class="card-header">
+        <h4><i class="fa-brands fa-readme me-2"></i>生字測驗設定</h4>
+      </div>
+      <div class="card-body">
+        <!-- 熟悉度選擇 -->
+        <div class="form-group mb-4">
+          <label class="form-label">選擇熟悉度範圍</label>
+          <div>
+            <small class="form-text">只有選中的熟悉度範圍內的生字會出現在測驗中</small>
+          </div>
+          <div class="familiarity-options">
+            <div class="form-check" *ngFor="let level of familiarityLevels">
+              <input class="form-check-input" type="checkbox" [id]="'familiarity-' + level.value"
+                [(ngModel)]="level.checked" (change)="onFamiliarityChange()">
+              <label class="form-check-label" [for]="'familiarity-' + level.value">
+                <span class="familiarity-badge" [class]="'familiarity-' + level.value">{{ level.label }}</span>
+              </label>
+            </div>
+          </div>
+        </div>
+
+        <!-- 題數設定 -->
+        <div class="form-group mb-4">
+          <label class="form-label" for="questionCount">題目數量</label>
+          <div class="d-flex align-items-center gap-3">
+            <input type="number" id="questionCount" class="form-control question-count-input"
+              [(ngModel)]="quizSettings.questionCount" min="1" max="100">
+            <span class="text-muted">
+              (最多 {{ availableWordsCount }} 題)
+            </span>
+          </div>
+        </div>
+
+        <!-- 統計資訊 -->
+        <div class="quiz-stats mb-4">
+          <div class="stat-item">
+            <i class="fas fa-list me-2"></i>
+            <span>符合條件的生字：{{ availableWordsCount }} 個</span>
+          </div>
+          <div class="stat-item">
+            <i class="fas fa-question-circle me-2"></i>
+            <span>實際出題：{{ getActualQuestionCount() }} 題</span>
+          </div>
+        </div>
+
+        <!-- 操作按鈕 -->
+        <div class="d-flex gap-2">
+          <button type="button" class="btn btn-primary" (click)="startQuiz()" [disabled]="availableWordsCount === 0">
+            <i class="fas fa-play me-1"></i>開始測驗
+          </button>
+          <button type="button" class="btn btn-secondary" (click)="resetSettings()">
+            <i class="fas fa-undo me-1"></i>重置設定
+          </button>
+        </div>
+
+        <!-- 無生字提示 -->
+        <div *ngIf="availableWordsCount === 0" class="alert alert-warning mt-3">
+          <i class="fas fa-exclamation-triangle me-2"></i>
+          目前沒有符合條件的生字，請調整熟悉度範圍或先到生字簿新增生字。
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 測驗進行階段 -->
+  <div *ngIf="currentState === QuizState.IN_PROGRESS" class="quiz-content">
+    <!-- 進度條 -->
+    <div class="quiz-progress mb-4">
+      <div class="progress-header">
+        <span class="progress-text">
+          第 {{ currentQuestionIndex + 1 }} 題 / 共 {{ quizQuestions.length }} 題
+        </span>
+        <span class="progress-percentage">
+          {{ getCurrentProgressPercentage() }}%
+        </span>
+      </div>
+      <div class="progress">
+        <div class="progress-bar" [style.width.%]="(currentQuestionIndex + 1) / quizQuestions.length * 100">
+        </div>
+      </div>
+    </div>
+
+    <!-- 題目卡片 -->
+    <div class="card question-card">
+      <div class="card-body">
+        <div class="question-content" *ngIf="currentQuestion">
+          <!-- 題目資訊 -->
+          <div class="question-info mb-3">
+            <div class="question-number">
+              <i class="fas fa-question-circle me-2"></i>
+              第 {{ currentQuestionIndex + 1 }} 題
+            </div>
+            <div class="question-familiarity">
+              <span class="familiarity-badge" [class]="'familiarity-' + currentQuestion.word.level">
+                {{ getFamiliarityLabel(currentQuestion.word.level) }}
+              </span>
+            </div>
+          </div>
+
+          <!-- 中文翻譯 -->
+          <div class="question-text">
+            <h3>
+              <span [innerHTML]="replaceNewlines(currentQuestion.word.translation)"></span>
+              <span class="visually-hidden">{{ currentQuestion.word.translation }}</span>
+            </h3>
+          </div>
+
+          <!-- 答案輸入 -->
+          <div class="answer-input-group">
+            <input type="text" class="form-control answer-input" [(ngModel)]="currentAnswer"
+              (keyup.enter)="checkAnswer()" placeholder="請輸入對應的英文單字..." [disabled]="currentQuestion.userAnswer !== ''"
+              #answerInput>
+            <button class="btn btn-primary" (click)="checkAnswer()"
+              [disabled]="!currentAnswer.trim() || currentQuestion.userAnswer !== ''">
+              <i class="fas fa-check me-1"></i>確認
+            </button>
+          </div>
+
+          <!-- 答案結果 -->
+          <div *ngIf="currentQuestion.userAnswer !== ''" class="answer-result mt-3">
+            <div class="result-badge" [class]="currentQuestion.isCorrect ? 'correct' : 'incorrect'">
+              <i class="fas" [class]="currentQuestion.isCorrect ? 'fa-check-circle' : 'fa-times-circle'"></i>
+              {{ currentQuestion.isCorrect ? '答對了！' : '答錯了' }}
+            </div>
+            <div class="correct-answer mt-2">
+              <strong>正確答案：</strong>{{ currentQuestion.word.word }}
+            </div>
+            <div *ngIf="currentQuestion.userAnswer !== currentQuestion.word.word" class="user-answer">
+              <strong>你的答案：</strong>{{ currentQuestion.userAnswer }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 操作按鈕 -->
+    <div class="quiz-actions mt-4">
+      <button type="button" class="btn btn-secondary" (click)="previousQuestion()"
+        [disabled]="currentQuestionIndex === 0">
+        <i class="fas fa-arrow-left me-1"></i>上一題
+      </button>
+
+      <button type="button" class="btn btn-primary" (click)="nextQuestion()"
+        [disabled]="currentQuestionIndex >= quizQuestions.length - 1"
+        *ngIf="currentQuestionIndex < quizQuestions.length - 1">
+        <i class="fas fa-arrow-right me-1"></i>下一題
+      </button>
+
+      <button type="button" class="btn btn-success" (click)="finishQuiz()" [disabled]="!allQuestionsAnswered()"
+        *ngIf="currentQuestionIndex === quizQuestions.length - 1">
+        <i class="fas fa-flag-checkered me-1"></i>完成測驗
+      </button>
+    </div>
+
+    <!-- 題目列表 -->
+    <div class="question-list mt-4">
+      <h6><i class="fas fa-list me-2"></i>題目列表</h6>
+      <div class="question-indicators">
+        <button type="button" class="btn question-indicator" *ngFor="let q of quizQuestions; let i = index"
+          [class]="getQuestionIndicatorClass(i)" (click)="goToQuestion(i)">
+          {{ i + 1 }}
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 結果階段 -->
+  <div *ngIf="currentState === QuizState.COMPLETED" class="quiz-result">
+    <div class="card">
+      <div class="card-header">
+        <h4><i class="fas fa-trophy me-2"></i>測驗結果</h4>
+      </div>
+      <div class="card-body">
+        <!-- 成績統計 -->
+        <div class="result-summary">
+          <div class="score-display">
+            <div class="score-circle" [class]="getScoreClass(quizResult?.score || 0)">
+              <span class="score-number">{{ quizResult?.score || 0 }}</span>
+              <span class="score-total">/ {{ quizResult?.totalQuestions || 0 }}</span>
+            </div>
+          </div>
+          <div class="result-stats">
+            <div class="stat-item">
+              <i class="fas fa-percentage me-2"></i>
+              <span>正確率：{{ getCorrectPercentage() }}%</span>
+            </div>
+            <div class="stat-item">
+              <i class="fas fa-clock me-2"></i>
+              <span>測驗時間：{{ formatDuration(quizResult?.duration || 0) }}</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- 詳細結果 -->
+        <div class="result-details mt-4">
+          <h6><i class="fas fa-list-alt me-2"></i>詳細結果</h6>
+          <div class="result-list">
+            <div class="result-item" *ngFor="let question of quizQuestions; let i = index"
+              [class]="question.isCorrect ? 'correct' : 'incorrect'">
+              <div class="result-header">
+                <span class="question-number">第 {{ i + 1 }} 題</span>
+                <span class="result-badge">
+                  <i class="fas" [class]="question.isCorrect ? 'fa-check' : 'fa-times'"></i>
+                  {{ question.isCorrect ? '正確' : '錯誤' }}
+                </span>
+              </div>
+              <div class="result-content">
+                <div class="vocabulary-info">
+                  <strong [innerHTML]="replaceNewlines(question.word.translation)"></strong>
+                  <span class="familiarity-badge ms-2" [class]="'familiarity-' + question.word.level">
+                    {{ getFamiliarityLabel(question.word.level) }}
+                  </span>
+                </div>
+                <div class="answer-info">
+                  <div class="correct-answer">
+                    <strong>正確答案：</strong>{{ question.word.word }}
+                  </div>
+                  <div *ngIf="question.userAnswer !== question.word.word" class="user-answer">
+                    <strong>你的答案：</strong>{{ question.userAnswer }}
+                  </div>
+                </div>
+                <!-- 熟悉度調整 -->
+                <div class="familiarity-adjustment">
+                  <label class="form-label">調整熟悉度：</label>
+                  <select class="form-select form-select-sm" [(ngModel)]="question.newLevel"
+                    (change)="onFamiliarityUpdate(question)">
+                    <option [value]="1">不熟</option>
+                    <option [value]="2">尚可</option>
+                    <option [value]="3">記住了</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 操作按鈕 -->
+        <div class="result-actions mt-4">
+          <button type="button" class="btn btn-primary" (click)="resetQuiz()">
+            <i class="fas fa-redo me-1"></i>重新測驗
+          </button>
+          <!-- <button
+            type="button"
+            class="btn btn-secondary"
+            (click)="backToSettings()">
+            <i class="fas fa-cog me-1"></i>調整設定
+          </button> -->
+          <button type="button" class="btn btn-success" (click)="applyAllFamiliarityChanges()">
+            <i class="fas fa-save me-1"></i>儲存所有熟悉度變更
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

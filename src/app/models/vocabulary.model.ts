@@ -47,3 +47,35 @@ export interface ContextMenuPosition {
   x: number;
   y: number;
 }
+
+// 測驗相關模型
+export interface QuizSettings {
+  selectedLevels: number[]; // 選中的熟悉程度
+  questionCount: number; // 題目數量
+}
+
+export interface QuizQuestion {
+  id: string;
+  word: VocabularyWord;
+  userAnswer: string;
+  isCorrect: boolean;
+  originalLevel: number;
+  newLevel?: number; // 用戶可能修改的新熟悉程度
+}
+
+export interface QuizResult {
+  totalQuestions: number;
+  correctAnswers: number;
+  score: number; // 百分比
+  questions: QuizQuestion[];
+  completedAt: Date;
+  duration: number; // 測驗時間（毫秒）
+  settings: QuizSettings;
+}
+
+// 測驗狀態
+export enum QuizState {
+  SETUP = 'setup',
+  IN_PROGRESS = 'in-progress',
+  COMPLETED = 'completed'
+}
