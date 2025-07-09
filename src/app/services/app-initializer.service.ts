@@ -30,10 +30,6 @@ export class AppInitializerService {
           SettingConfig._setMonths(months);
           SettingConfig._setTags(tags);
           SettingConfig._setInitialized(true);
-
-          console.log('應用程式初始化完成');
-          console.log('載入的月份:', months);
-          console.log('載入的標籤:', tags);
         }),
         catchError(error => {
           console.error('應用程式初始化失敗:', error);
@@ -83,10 +79,7 @@ export class AppInitializerService {
       );
   }
 
-  /**
-   * 產生隨機參數避免快取
-   */
   private getRandomParam(): string {
-    return `?v=${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
+    return SettingConfig.randomParam;
   }
 }

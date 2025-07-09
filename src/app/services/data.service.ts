@@ -19,7 +19,7 @@ export class DataService {
    */
   loadMonthData(month: string): Observable<Topic[]> {
     const fileName = month.replace('-', '');
-    const randomParam = this.getRandomParam();
+    const randomParam = SettingConfig.randomParam
     return this.http.get<Topic[]>(`${this.ASSETS_PATH}/${fileName}.json${randomParam}`)
       .pipe(
         map(data => {
@@ -76,12 +76,5 @@ export class DataService {
     const year = now.getFullYear();
     const month = String(now.getMonth() + 1).padStart(2, '0');
     return `${year}${month}`;
-  }
-
-  /**
-   * 生成隨機參數防止緩存
-   */
-  private getRandomParam(): string {
-    return `?v=${Date.now()}&r=${Math.random().toString(36).substring(7)}`;
   }
 }

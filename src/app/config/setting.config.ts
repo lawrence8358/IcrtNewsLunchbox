@@ -6,6 +6,7 @@ export class SettingConfig {
   private static _months: string[] = [];
   private static _tags: string[] = [];
   private static _isInitialized = false;
+  private static readonly _randomParam: string = this.getRandomParam();
 
   /**
    * 取得月份清單
@@ -26,6 +27,13 @@ export class SettingConfig {
    */
   static get isInitialized(): boolean {
     return this._isInitialized;
+  }
+
+  /**
+   * 取得隨機參數以避免快取
+   */
+  static get randomParam(): string {
+    return this._randomParam;
   }
 
   /**
@@ -56,5 +64,13 @@ export class SettingConfig {
     this._months = [];
     this._tags = [];
     this._isInitialized = false;
+  }
+
+
+  /**
+   * 生成隨機參數防止緩存
+   */
+  private static getRandomParam(): string {
+    return `?v=${Date.now()}&r=${Math.random().toString(36).substring(7)}`;
   }
 }
