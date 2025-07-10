@@ -1,94 +1,95 @@
 {
-  "id": "20250528-01",
+  "id": "20250529-01",
   "type": "國小",
   "tag": [
-    "Technology Education"
+    "Sustainable Cities and Communities",
+    "Energy Education"
   ],
-  "title": "A Company's 100th Year of Flying Blimps",
-  "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250527NK.mp3",
+  "title": "People Pedal for Power",
+  "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250528NK.mp3",
   "content": [
     {
-      "en": "Blimps are airships. They look like whales in the sky! They're full of a gas. This gas is lighter than air. The gas makes blimps go up.",
-      "tw": "飛船就是飛行的船，長得很像鯨魚，裡面充滿比空氣輕的氣體，所以可以升到空中。",
-      "time": "0:20"
+      "en": "Being out in the sun with friends feels good! Doing this when we're exercising, having fun, and helping others feels GREAT!",
+      "tw": "在太陽下跟朋友玩很享受，如果可以同時運動跟幫助人，感覺更棒!",
+      "time": "0:23"
     },
     {
-      "en": "Blimps fly slower and lower than airplanes. People can see them easily. Some blimps can show big pictures and words. These slow and low blimps can show them to many people!",
-      "tw": "飛船飛得低，速度也慢，所以地上的人能清楚看到飛船上的字跟圖片。",
-      "time": "0:44"
+      "en": "About three hundred people met one day. Some were adults and many were kids. Schools sent lots of students! The people were meeting to exercise. There were hundreds of exercise bikes!",
+      "tw": "有一天，300 個大人小孩聚在一起運動，還有學校派學生參加，現場有好幾百台腳踏車。",
+      "time": "0:43"
     },
     {
-      "en": "A big tire company makes and uses blimps. Their blimps show pictures and words about tires and other things people can buy. These blimps have been doing this for 100 years!",
-      "tw": "一家輪胎公司會製造飛船，上面寫著公司名稱打廣告，飛船當廣告工具已經一百年!",
-      "time": "1:13"
+      "en": "But these bikes are not like the bikes in gyms or sports centers. And they are not like the bike in your living room … you know, the one your dad or mom doesn't use anymore! These exercise bikes make electricity!",
+      "tw": "但這些腳踏車不是一般健身房那種，它們可以發電!",
+      "time": "1:17"
     },
     {
-      "en": "Blimps can also stay in one place in the air. The company's blimps have cameras. When people watch TV, sometimes they see videos of big sports events taken by the blimps! This year, the blimps are going to many events!",
-      "tw": "飛船也可以停在空中拍照或錄影，電視裡的大型運動比賽轉播，有時候就是飛船拍的!",
-      "time": "1:42"
+      "en": "The people got on the bikes. They started pedaling! As they pedaled, the bikes made electricity. The more the people pedaled, the more electricity they made!",
+      "tw": "這些人坐上腳踏車猛踩踏板，這些踏板會發電，所以越多人踩踏板，就能製造越多電力!",
+      "time": "1:46"
     },
     {
-      "en": "For this 100th birthday, four blimps are flying above 100 cities in North America and Europe. And a few lucky people will win a ride on one of them!",
-      "tw": "今年是飛船推出 100 年，四艘飛船會飛過 100 個歐洲和北美城市，幸運的人能乘坐它們!",
-      "time": "2:14"
+      "en": "Together the people made more than 10,000 watts of energy. That can give electricity to two homes for 24 hours! They gave the electricity they made to people who need it.",
+      "tw": "他們製造超過 1 萬瓦電力，可以供兩個家庭使用 24 小時，最後電力送給需要的人。",
+      "time": "2:17"
     },
     {
-      "en": "Blimps are fun to watch! If you see a whale in the sky, wave hello! It might be a blimp!",
-      "tw": "飛船很有趣，如果你看到空中有鯨魚，記得揮手打招呼，可能是飛船哦!",
-      "time": "2:41"
+      "en": "Everyone had a great day! Together with their friends, they exercised, had fun, and helped others!",
+      "tw": "大家都度過了美好的一天! 他們跟朋友一起運動、玩樂，還幫助了別人!",
+      "time": "2:46"
     }
   ],
   "vocabulary": {
-    "preface": "廣告飛船是很有歷史的打廣告方式，今年滿一百年。",
+    "preface": "騎腳踏車可以發電，電力還可以供應住家呢!",
     "content": [
       {
-        "text": "1. in the air 在空中。\nThat airplane is so high! 那架飛機飛得好高!\nIt seems to be floating in the air.好像飄浮在空中。",
-        "time": "2:57"
+        "text": "1. exercise 運動。\nThat was lots of fun! 真是有趣!\nYeah, I forgot how much I enjoy biking. 對啊，我都忘了我有多喜歡騎車。It's great exercise too! 它也是很棒的運動。\nI hope I burned at least 500 calories. 我希望至少燒掉了五百卡路里。",
+        "time": "3:03"
       },
       {
-        "text": "2. above 在上面。\nI once took a ride in a hot-air balloon. 我有一回搭熱氣球。\nOh, I've never done that.我從來沒有搭過。\nIt's amazing! 很精彩呢!\nAbove rice fields and trees,你在稻田跟樹林上面，\nyou feel as if you're flying.感覺真的在飛。",
-        "time": "3:09"
+        "text": "2. gym 健身房。\nAnd it's way better than the gym. 比健身房好多了。\nTotally. Fresh air and sunshine win every time! 當然輸給新鮮空氣跟陽光。",
+        "time": "3:29"
       },
       {
-        "text": "3. slow 緩慢的。\nDid you go up fast? 你們上升得很快嗎?\nNo, it was slow. 沒有，很慢。",
-        "time": "3:33"
-      },
-      {
-        "text": "4. full of 裝滿。\nI hope to travel like that someday. 我希望有一天那樣旅行。\nMy basket will be full of food and blankets.我的籃子裡會裝滿吃的，還有毛毯。",
+        "text": "3. together 一起。\nWe should do this every week. 我們應該每星期都來。\nGood idea. Let's do it together with the kids. 好主意，來跟小孩一起騎。",
         "time": "3:43"
+      },
+      {
+        "text": "4. pedal 踩踏板。\nMy 3-year-old has yet to learn how to pedal. 我的三歲小孩還沒有學會踩踏板。\nNo worries. He'll learn fast. 別擔心，他會學很快的。",
+        "time": "3:55"
       }
     ],
-    "postscript": "你有搭過飛機嗎?\nin the air在空中 above在上面 slow緩慢的 full of裝滿"
+    "postscript": "來一起讀單字。\nexercise運動 gym健身房 together一起 pedal踩踏板"
   },
   "quiz": [
     {
-      "question": "1. What makes blimps go up?",
+      "question": "1. What did schools send to the meeting?",
       "options": [
-        "a. A plane",
-        "b. A gas",
-        "c. Tires"
+        "a. Lots of exercise bikes",
+        "b. Lots of students",
+        "c. Lots of adults"
       ],
-      "time": "4:16",
+      "time": "4:27",
       "answer": "b"
     },
     {
-      "question": "2. How many years has one company used blimps for messages?",
+      "question": "2. How much electricity did the big group make?",
       "options": [
-        "a. 25 years",
-        "b. 50 years",
-        "c. 100 years"
+        "a. One watt",
+        "b. Three hundred watts",
+        "c. Ten thousand watts"
       ],
-      "time": "4:28",
+      "time": "4:42",
       "answer": "c"
     },
     {
-      "question": "3. Where do the company's blimps fly?",
+      "question": "3. Where was the electricity sent?",
       "options": [
-        "a. North America and Europe",
-        "b. South America and Africa",
-        "c. Central America and Asia"
+        "a. To people who needed it",
+        "b. To a bike in a living room",
+        "c. Outside"
       ],
-      "time": "4:44",
+      "time": "4:56",
       "answer": "a"
     }
   ]
