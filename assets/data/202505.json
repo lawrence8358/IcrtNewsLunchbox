@@ -1,90 +1,100 @@
 {
-  "id": "20250521-01",
+  "id": "20250523-01",
   "type": "國小",
   "tag": [
-    "Peace, Justice and Strong Institutions",
-    "Law-related Education"
+    "Environmental Education",
+    "Natural Sciences"
   ],
-  "title": "Superheroes Keep Carnival Safe",
-  "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250520NK.mp3",
+  "title": "Plants Can Talk",
+  "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250522NK.mp3",
   "content": [
     {
-      "en": "Brazil is a country in South America. It's famous for many things. Carnival is Brazil's most famous celebration. Many cities there have big, big parties! There's lots of music and dancing. Many people wear colorful costumes!",
-      "tw": "南美洲巴西最會辦派對! 他們的嘉年華有很多音樂表演、舞蹈，還有五彩繽紛的變裝!",
-      "time": "0:21"
+      "en": "Some of us talk to our plants. Did you know that plants talk, too? But they don't talk like we do. And we cannot hear them talk. So how do we know plants talk?",
+      "tw": "你知道植物會說話嗎? 只是跟人類方式不同，我們也聽不到，那怎麼知道的呢?",
+      "time": "0:20"
     },
     {
-      "en": "Millions of people go to Carnival every year. But thieves go too. Thieves want to take money, phones, and other things from people. Brazil's police try to keep people safe from thieves. It's not easy. When thieves see the police, they run!",
-      "tw": "每年有好幾百萬人去巴西朝聖，但小偷們也來了，錢跟手機他們都不放過，一看到警察就開溜!",
-      "time": "0:54"
+      "en": "Scientists studied two groups of plants: healthy plants and stressed plants. Some stressed plants needed water. Some were cut!",
+      "tw": "科學家研究兩群植物，一群很健康，另一群是被修剪或需要澆水的植物，它們壓力很大。",
+      "time": "0:44"
     },
     {
-      "en": "Last year, police in one city did something new. They wore costumes to Carnival too! No one knew they were police. It was easy for them to catch thieves. So this year, they wore costumes again. They wore superhero costumes, and other fun costumes!",
-      "tw": "從去年開始，警察們想到新花樣，他們跟著大家穿著華麗的衣服，就不會被小偷認出來!",
-      "time": "1:30"
+      "en": "The scientists put microphones next to the plants. These microphones found sounds we cannot hear. The scientists made the sounds loud with a computer. They heard clicks and pops! They studied the sounds.",
+      "tw": "科學家在植物旁邊裝置一種麥克風，可以把細微的聲音放大。他們聽到霹哩啪啦的聲音! 於是把聲音放進電腦研究。",
+      "time": "1:08"
     },
     {
-      "en": "Thieves like to take people's phones. Police wearing superhero costumes caught one thief who had seven phones! In a few days, they caught six thieves and found 23 phones! People cheered!",
-      "tw": "穿著超級英雄服裝的警察，好幾天內，一口氣抓 6 個小偷，找回 23 支手機，真過癮!",
-      "time": "2:05"
+      "en": "What did they find? Healthy plants make almost no sounds. But stressed plants can make forty sounds in one hour!",
+      "tw": "他們發現什麼? 健康的植物很沉默，但壓力大的植物一小時會發出四十多次聲音!",
+      "time": "1:41"
     },
     {
-      "en": "At this celebration, people see superheroes keeping them safe! How exciting!",
-      "tw": "在這個慶典上，人們看到超級英雄保護他們的安全，真令人興奮!",
-      "time": "2:35"
+      "en": "The scientists say maybe the clicks and pops tell other plants there's danger. They say maybe animals and insects can hear plants. So maybe the animals and insects won't eat stressed plants. Maybe insects won't put their eggs on stressed plants.",
+      "tw": "也許那些聲音會警告其他植物有危險，也許動物或是昆蟲聽得到，就不吃那些植物，或選擇不在上面產卵。",
+      "time": "2:01"
+    },
+    {
+      "en": "The scientists think farmers can use microphones someday. Then the farmers will know which plants need help.",
+      "tw": "科學家認為農夫未來可以使用這些麥克風，就知道哪一些農作物有麻煩了。",
+      "time": "2:39"
+    },
+    {
+      "en": "Look at the plants around you. Do they need water? They're trying to tell you!",
+      "tw": "看看你周圍的植物，它們需要水嗎? 它們正在試著告訴你!",
+      "time": "2:57"
     }
   ],
   "vocabulary": {
-    "preface": "里約嘉年華的大遊行裡面，假扮成超級英雄的警察，抓到好幾名扒手。",
+    "preface": "科學家說植物會發出聲音，傳遞訊號。",
     "content": [
       {
-        "text": "1. thief 小偷。\nOh my Gosh! Where's my wallet? 天哪，我的皮夾呢?\nYou lost it? 搞丟了嗎?\nIt was right here in my bag! 之前就在我包包裡。\nNow it's gone! 現在不見了。\nI can't believe we have thieves on the MRT. 我不敢相信捷運上有小偷。",
-        "time": "2:51"
+        "text": "1. talk 談話。\nHi, don't you look beautiful today? 你今天真美呢…\nAre you talking to the flowers? 你在跟花講話嗎?\nYeah, I am. 對，我是。\nOh, so you believe plants can hear. 所以你相信植物聽得到。",
+        "time": "3:09"
       },
       {
-        "text": "2. police 警察。\nWe're about to arrive at the station. 我們就要到站了。\nWe can report it to the police there. 可以在那裏向警察報案。",
-        "time": "3:12"
+        "text": "2. think 想或是認為。\nNot with ears.不是用耳朵。\nBut I think they can feel it. 但是我想它們能感覺。\nThey can feel your goodwill. 能感覺到你的善意。",
+        "time": "3:29"
       },
       {
-        "text": "3. costume 戲服。\nDo you think it's the girl in the blue costume? 會不會是那個穿藍色戲服的女孩?\nThe one that stood close to you? 之前站得離你很近的那個人嗎?",
-        "time": "3:24"
+        "text": "3. stressed 有壓力。\nI also read that they can get stressed if you cut them.\n我還有讀到說，要是你修剪植物，它會感覺到壓力。",
+        "time": "3:44"
       },
       {
-        "text": "4. find 找到。\nMaybe. But I'm sure the police can find the right person.\n也許。不過警察肯定會找到正確的人。",
-        "time": "3:39"
+        "text": "4. loud 大聲的。\nJust keep them in a nice place. 就把它們擺在一個好地方。\nAnd try not to be too loud. 然後不要太大聲。\nI already feel stressed. 我已經感覺到壓力了。",
+        "time": "3:55"
       }
     ],
-    "postscript": "你今天學到哪些單字?\nthief小偷 police警察 costume戲服 find找到"
+    "postscript": "請跟我讀單字。\ntalk談話 think想或是認為 stressed有壓力 loud大聲的"
   },
   "quiz": [
     {
-      "question": "1. What is Brazil's Carnival?",
+      "question": "1. Which plants make more sounds?",
       "options": [
-        "a. A costume",
-        "b. A celebration",
-        "c. A superhero"
+        "a. Stressed plants",
+        "b. Healthy plants",
+        "c. Happy plants"
       ],
-      "time": "4:05",
-      "answer": "b"
-    },
-    {
-      "question": "2. When did police in one city do something new?",
-      "options": [
-        "a. Last year",
-        "b. Last week",
-        "c. Last night"
-      ],
-      "time": "4:18",
+      "time": "4:29",
       "answer": "a"
     },
     {
-      "question": "3. How many phones did the police find?",
+      "question": "2. How many sounds can these plants make in one hour?",
       "options": [
-        "a. 7",
-        "b. 23",
-        "c. Millions"
+        "a. 14",
+        "b. 40",
+        "c. 400"
       ],
-      "time": "4:30",
+      "time": "4:43",
+      "answer": "b"
+    },
+    {
+      "question": "3. Who may hear sounds plants make?",
+      "options": [
+        "a. People",
+        "b. Animals",
+        "c. Clicks"
+      ],
+      "time": "4:55",
       "answer": "b"
     }
   ]
