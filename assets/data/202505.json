@@ -1,100 +1,104 @@
 {
-  "id": "20250512-01",
+  "id": "20250514-01",
   "type": "國小",
   "tag": [
-    "Environmental Education",
-    "Natural Sciences"
+    "Arts"
   ],
-  "title": "Small Stuff Makes Big Bear Itch",
-  "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250509NK.mp3",
+  "title": "Making Music With Vegetables",
+  "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250513NK.mp3",
   "content": [
     {
-      "en": "A big white bear lives in a zoo. People love seeing him. He's fun to watch.",
-      "tw": "動物園住著一頭大白熊，許多人很喜歡去拜訪牠。",
-      "time": "0:23"
+      "en": "We need to buy vegetables! But it isn't time to eat. It's time to make music! Yes, vegetables can make music!",
+      "tw": "買蔬菜的時間到囉! 這些蔬菜不是用來吃的，而是當作樂器演奏!",
+      "time": "0:20"
     },
     {
-      "en": "But the bear was scratching his body a lot. His white fur was falling out!",
-      "tw": "但是白熊最近一直抓身體，漂亮的毛開始掉落！這是怎麼回事呢？",
-      "time": "0:37"
+      "en": "In Austria, an orchestra plays music with vegetables. It's the Vegetable Orchestra! It wants to show we can make music from anything!",
+      "tw": "奧地利有個蔬菜管弦樂團，他們想告訴大家音樂隨手可得，用蔬菜瓜果都可以。",
+      "time": "0:39"
     },
     {
-      "en": "Everyone was worried. What was wrong? No one knew. So the zoo's doctor came to help. She gave the bear a test. And, the bear has allergies! His body doesn't like some things. The things aren't bad, but they make him itch.",
-      "tw": "大家很擔心，找醫生來檢查，原來白熊是過敏兒！有一些東西會讓他皮膚超級癢。",
-      "time": "0:51"
+      "en": "This orchestra has been making music for 27 years. It has played 344 shows! That's a world record for the most shows by a vegetable orchestra!",
+      "tw": "他們已經有二十七年歷史，總共表演了344次。這是世界上蔬菜管弦樂團表演次數最多的團體。",
+      "time": "1:02"
     },
     {
-      "en": "The bear has some allergies that many people have. He has an allergy to a very small bug's poop! He has an allergy to flower pollen! Pollen makes people sneeze in the spring. And he has an allergy to very small pieces of people's skin!",
-      "tw": "大白熊跟很多人類一樣，對小蟲大便、花粉，還有人類皮膚的小小粉屑過敏！",
-      "time": "1:24"
+      "en": "What do the musicians play? They play carrot recorders, cucumber saxophones, radish bass flutes, leek violins, and more.",
+      "tw": "他們用些什麼東西當樂器呢?\n胡蘿蔔，小黃瓜，白蘿蔔，韭菜都可以做成笛子，薩克斯風，或是小提琴等等。",
+      "time": "1:30"
     },
     {
-      "en": "Why do zoo animals get allergies? Well, they live in clean places. There aren't many bugs. And these animals don't get dirty! So their bodies don't learn what's safe and what's not safe for them. Their bodies think safe things are bad.",
-      "tw": "動物竟然會過敏！那是因為動物園內太乾淨、一塵不染，所以身體誤以為那些小東西有危險，才會開始發癢。",
-      "time": "1:56"
+      "en": "The musicians make new instruments for each show. That means every show sounds different.",
+      "tw": "這些音樂家為每一場表演從頭製作樂器，這也讓每一場表演都不一樣。",
+      "time": "1:55"
     },
     {
-      "en": "The doctor gave the bear some medicine with honey. Now he doesn't itch!",
-      "tw": "醫生開給大白熊的皮膚藥，混合著蜂蜜！大白熊喜愛蜂蜜，順便把藥吃下去，就不癢了！",
-      "time": "2:31"
+      "en": "Sometimes the instruments break. But the show goes on!",
+      "tw": "有時候蔬菜樂器甚至突然斷裂，但是表演還是得繼續下去!",
+      "time": "2:12"
     },
     {
-      "en": "Do you have any allergies?",
-      "tw": "你有過敏嗎？",
-      "time": "2:47"
+      "en": "For some people, the best part of the show is at the end. That's when everyone can have vegetable soup! Making the instruments makes lots of small vegetable pieces too. They go in the soup!",
+      "tw": "很多觀眾最喜歡表演的最後階段，因為那時候大家都可以得到一碗熱騰騰的蔬菜湯。製作樂器會產生許多小塊蔬菜，這些都會加到湯裡！",
+      "time": "2:26"
+    },
+    {
+      "en": "A vegetable show with vegetable soup sounds great!",
+      "tw": "蔬菜管弦樂團的表演，還有蔬菜湯可以喝，聽起來很棒!",
+      "time": "2:53"
     }
   ],
   "vocabulary": {
-    "preface": "動物園裡的熊，有時候會過敏，身上發癢。",
+    "preface": "蔬菜管弦樂團的表演非常特別。",
     "content": [
       {
-        "text": "1. wrong 有毛病。\nI can't seem to stop scratching. 我好像沒辦法停止搔癢。\nWhat's wrong with me? 我這是怎麼了?\nMaybe it's an allergy. 也許是過敏。\nYou've got a rash on your face.你臉上也有紅疹。",
-        "time": "2:58"
+        "text": "1. violin 小提琴。\nWhat's that noise? 那是什麼噪音?\nIt's my daughter learning to play violin. 是我女兒在學小提琴。\nI'm sorry, but it's awful! 真抱歉，但是好難聽。\nI agree. 我同意。",
+        "time": "3:02"
       },
       {
-        "text": "2. itch 癢。\nThat's just great.這下可好了。\nFirst it's itching, now my face.先是發癢，然後是臉。\nIt could be your room. 可能是你的房間。",
-        "time": "3:17"
+        "text": "2. musician 音樂家。\nBut, hey, every great musician started off like that.\n但是每個偉大的音樂家都是那樣開始的。\nSo that's what you want her to be? 所以你想要她成為那樣?",
+        "time": "3:23"
       },
       {
-        "text": "3. clean 乾淨的。\nWhat about my room? 我的房間如何?\nIt's not clean. 不乾淨。\nMy room is perfectly clean! 我的房間完全乾淨!",
-        "time": "3:32"
+        "text": "3. anything 任何事。\nNo, she can do anything she wants. 不是，她可以做任何她想做的事。\nYeah, if she happens to love music, that would be nice.\n對啊，假如她恰好喜歡音樂也很好。",
+        "time": "3:37"
       },
       {
-        "text": "4. skin 皮膚。\nNo, I mean your bed. 不，我是說你的床。\nIt has many small pieces of your skin.床上有很多你的皮膚碎屑。\nAnd it could trigger allergies. 那有可能引發過敏。",
-        "time": "3:45"
+        "text": "4. end 結尾或是最終。\nWell, in the end, at least it's not drums. 至少到頭來她不是學打鼓。\nIndeed! 確實是。",
+        "time": "3:55"
       }
     ],
-    "postscript": "今天的單字很常用到。\nwrong有毛病 itch癢 clean乾淨的 skin皮膚"
+    "postscript": "來跟我一起讀單字。\nviolin小提琴 musician音樂家 anything任何事 end結尾或是最終"
   },
   "quiz": [
     {
-      "question": "1. What was happening to the bear's white fur?",
+      "question": "1. What country is the orchestra in?",
       "options": [
-        "a. It was getting dirty.",
-        "b. It was learning what's safe.",
-        "c. It was falling out."
+        "a. Argentina",
+        "b. Australia",
+        "c. Austria"
       ],
-      "time": null,
-      "answer": "4:19"
+      "time": "4:26",
+      "answer": "c"
     },
     {
-      "question": "2. What does the bear have an allergy to?",
+      "question": "2. Which world record does the orchestra have?",
       "options": [
-        "a. Pollen",
-        "b. Fish",
-        "c. Tests"
+        "a. The most shows by a vegetable orchestra",
+        "b. The oldest vegetable orchestra",
+        "c. The best vegetable instruments"
       ],
-      "time": "4:33",
+      "time": "4:39",
       "answer": "a"
     },
     {
-      "question": "3. Why do zoo animals sometimes get allergies?",
+      "question": "3. What can people do at the end of a show?",
       "options": [
-        "a. They eat too many bugs.",
-        "b. They play and get dirty.",
-        "c. They live in very clean places."
+        "a. Eat instruments",
+        "b. Make music",
+        "c. Have soup"
       ],
-      "time": "4:45",
+      "time": "4:56",
       "answer": "c"
     }
   ]
