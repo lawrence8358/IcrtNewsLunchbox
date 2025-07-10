@@ -1,105 +1,100 @@
 {
-  "id": "20250514-01",
+  "id": "20250516-01",
   "type": "國小",
   "tag": [
-    "Arts"
+    "Good Health and Well-Being"
   ],
-  "title": "Making Music With Vegetables",
-  "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250513NK.mp3",
+  "title": "Laugh in This Museum",
+  "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250515NK.mp3",
   "content": [
     {
-      "en": "We need to buy vegetables! But it isn't time to eat. It's time to make music! Yes, vegetables can make music!",
-      "tw": "買蔬菜的時間到囉! 這些蔬菜不是用來吃的，而是當作樂器演奏!",
-      "time": "0:20"
+      "en": "Sunday is International Museum Day. Museums show us many things. In Croatia, one museum is about laughter!",
+      "tw": "星期天是國際博物館日!博物館帶給我們很多新知識，克羅埃西亞有個歡笑博物館!",
+      "time": "0:19"
     },
     {
-      "en": "In Austria, an orchestra plays music with vegetables. It's the Vegetable Orchestra! It wants to show we can make music from anything!",
-      "tw": "奧地利有個蔬菜管弦樂團，他們想告訴大家音樂隨手可得，用蔬菜瓜果都可以。",
-      "time": "0:39"
+      "en": "Some people say, \"Laughter is the best medicine.\" It can make you feel good!",
+      "tw": "歡笑是最好的良藥，可以治癒不順利，帶來好心情，對我們很重要!",
+      "time": "0:41"
     },
     {
-      "en": "This orchestra has been making music for 27 years. It has played 344 shows! That's a world record for the most shows by a vegetable orchestra!",
-      "tw": "他們已經有二十七年歷史，總共表演了344次。這是世界上蔬菜管弦樂團表演次數最多的團體。",
-      "time": "1:02"
+      "en": "The museum wants to show this. Kids laugh here. Grown-ups laugh too!",
+      "tw": "這個博物館想告訴我們歡笑的重要，在博物館裡，大人小孩會一同歡笑。",
+      "time": "0:55"
     },
     {
-      "en": "What do the musicians play? They play carrot recorders, cucumber saxophones, radish bass flutes, leek violins, and more.",
-      "tw": "他們用些什麼東西當樂器呢?\n胡蘿蔔，小黃瓜，白蘿蔔，韭菜都可以做成笛子，薩克斯風，或是小提琴等等。",
-      "time": "1:30"
+      "en": "When you go inside, air blows on you and your worries go away! You go into a big washing machine. You go around and around, and then you slide down! White balls are all around you! You can jump and play with them!",
+      "tw": "一走進館裡，一陣風會把你的煩惱吹到遠遠地，再來你會走進一個大洗衣機，順著圈圈溜~~下球池玩耍!",
+      "time": "1:10"
     },
     {
-      "en": "The musicians make new instruments for each show. That means every show sounds different.",
-      "tw": "這些音樂家為每一場表演從頭製作樂器，這也讓每一場表演都不一樣。",
-      "time": "1:55"
+      "en": "You can laugh at rubber chickens singing songs! You can learn about what makes people laugh!",
+      "tw": "博物館裡的橡膠雞唱歌也很好笑！你可以了解什麼東西會讓人笑！",
+      "time": "1:45"
     },
     {
-      "en": "Sometimes the instruments break. But the show goes on!",
-      "tw": "有時候蔬菜樂器甚至突然斷裂，但是表演還是得繼續下去!",
-      "time": "2:12"
+      "en": "Telling jokes makes people laugh. Slapstick makes people laugh too. With slapstick, people do silly things. Maybe you have seen a clown slipping on a banana. That's slapstick! At the museum, you can do slapstick with sumo wrestling!",
+      "tw": "Slapstick 是滑稽喜劇，演員表演無厘頭的事情來搞笑，像是踩到香蕉皮跌倒，在博物館裡，你可以穿上相撲裝跟朋友撞來撞去!",
+      "time": "2:01"
     },
     {
-      "en": "For some people, the best part of the show is at the end. That's when everyone can have vegetable soup! Making the instruments makes lots of small vegetable pieces too. They go in the soup!",
-      "tw": "很多觀眾最喜歡表演的最後階段，因為那時候大家都可以得到一碗熱騰騰的蔬菜湯。製作樂器會產生許多小塊蔬菜，這些都會加到湯裡！",
-      "time": "2:26"
-    },
-    {
-      "en": "A vegetable show with vegetable soup sounds great!",
-      "tw": "蔬菜管弦樂團的表演，還有蔬菜湯可以喝，聽起來很棒!",
-      "time": "2:53"
+      "en": "What makes you laugh? Whatever it is, laughter is good for you. Maybe it is the best medicine!",
+      "tw": "你覺得什麼東西最好笑?不管是什麼，歡笑對我們都很好，或許它真的是最好的良藥!",
+      "time": "2:39"
     }
   ],
   "vocabulary": {
-    "preface": "蔬菜管弦樂團的表演非常特別。",
+    "preface": "讓人發笑的博物館，你會不會也想去參觀?",
     "content": [
       {
-        "text": "1. violin 小提琴。\nWhat's that noise? 那是什麼噪音?\nIt's my daughter learning to play violin. 是我女兒在學小提琴。\nI'm sorry, but it's awful! 真抱歉，但是好難聽。\nI agree. 我同意。",
-        "time": "3:02"
+        "text": "1. go away 走開。\nI've found a new way to make my worries go away. 我找到新辦法趕走我的憂慮。\nDon't tell me it's singing. 別告訴我是唱歌。\nNo, but singing does help. 不是，不過唱歌是有幫助。",
+        "time": "2:55"
       },
       {
-        "text": "2. musician 音樂家。\nBut, hey, every great musician started off like that.\n但是每個偉大的音樂家都是那樣開始的。\nSo that's what you want her to be? 所以你想要她成為那樣?",
-        "time": "3:23"
+        "text": "2. joke 笑話。\nThen what is it? 那是什麼?\nTelling myself a joke every morning. 每天早上跟我自己講個笑話。\nThat actually sounds funny.聽起來是很好笑。",
+        "time": "3:13"
       },
       {
-        "text": "3. anything 任何事。\nNo, she can do anything she wants. 不是，她可以做任何她想做的事。\nYeah, if she happens to love music, that would be nice.\n對啊，假如她恰好喜歡音樂也很好。",
-        "time": "3:37"
+        "text": "3. laughter 歡笑。\nRight? A little laughter can change your day. 是吧?\n一點歡笑就可以改變一整天。",
+        "time": "3:29"
       },
       {
-        "text": "4. end 結尾或是最終。\nWell, in the end, at least it's not drums. 至少到頭來她不是學打鼓。\nIndeed! 確實是。",
-        "time": "3:55"
+        "text": "4. laugh 笑。\nI find it hard to laugh at my own jokes.我覺得笑自己講的笑話有點難。\nThat's not a problem.那不是問題。",
+        "time": "3:38"
       }
     ],
-    "postscript": "來跟我一起讀單字。\nviolin小提琴 musician音樂家 anything任何事 end結尾或是最終"
+    "postscript": "今天的單字很有趣。\ngo away走開 joke笑話 laughter歡笑 laugh笑"
   },
   "quiz": [
     {
-      "question": "1. What country is the orchestra in?",
+      "question": "1. Why do some people say laughter is medicine?",
       "options": [
-        "a. Argentina",
-        "b. Australia",
-        "c. Austria"
+        "a. It makes people feel sick.",
+        "b. It makes people feel good.",
+        "c. It makes people feel strong."
       ],
-      "time": "4:26",
+      "time": "4:08",
+      "answer": "b"
+    },
+    {
+      "question": "2. Who likes going to the museum about laughter?",
+      "options": [
+        "a. Only kids",
+        "b. Only grown-ups",
+        "c. Both kids and grown-ups"
+      ],
+      "time": "4:23",
       "answer": "c"
     },
     {
-      "question": "2. Which world record does the orchestra have?",
+      "question": "3. What happens with slapstick?",
       "options": [
-        "a. The most shows by a vegetable orchestra",
-        "b. The oldest vegetable orchestra",
-        "c. The best vegetable instruments"
+        "a. People tell jokes.",
+        "b. People do silly things.",
+        "c. People get angry."
       ],
-      "time": "4:39",
-      "answer": "a"
-    },
-    {
-      "question": "3. What can people do at the end of a show?",
-      "options": [
-        "a. Eat instruments",
-        "b. Make music",
-        "c. Have soup"
-      ],
-      "time": "4:56",
-      "answer": "c"
+      "time": "4:37",
+      "answer": "b"
     }
   ]
 }
