@@ -1,101 +1,95 @@
 {
-  "id": "20250523-01",
+  "id": "20250528-01",
   "type": "國小",
   "tag": [
-    "Environmental Education",
-    "Natural Sciences"
+    "Technology Education"
   ],
-  "title": "Plants Can Talk",
-  "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250522NK.mp3",
+  "title": "A Company's 100th Year of Flying Blimps",
+  "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250527NK.mp3",
   "content": [
     {
-      "en": "Some of us talk to our plants. Did you know that plants talk, too? But they don't talk like we do. And we cannot hear them talk. So how do we know plants talk?",
-      "tw": "你知道植物會說話嗎? 只是跟人類方式不同，我們也聽不到，那怎麼知道的呢?",
+      "en": "Blimps are airships. They look like whales in the sky! They're full of a gas. This gas is lighter than air. The gas makes blimps go up.",
+      "tw": "飛船就是飛行的船，長得很像鯨魚，裡面充滿比空氣輕的氣體，所以可以升到空中。",
       "time": "0:20"
     },
     {
-      "en": "Scientists studied two groups of plants: healthy plants and stressed plants. Some stressed plants needed water. Some were cut!",
-      "tw": "科學家研究兩群植物，一群很健康，另一群是被修剪或需要澆水的植物，它們壓力很大。",
+      "en": "Blimps fly slower and lower than airplanes. People can see them easily. Some blimps can show big pictures and words. These slow and low blimps can show them to many people!",
+      "tw": "飛船飛得低，速度也慢，所以地上的人能清楚看到飛船上的字跟圖片。",
       "time": "0:44"
     },
     {
-      "en": "The scientists put microphones next to the plants. These microphones found sounds we cannot hear. The scientists made the sounds loud with a computer. They heard clicks and pops! They studied the sounds.",
-      "tw": "科學家在植物旁邊裝置一種麥克風，可以把細微的聲音放大。他們聽到霹哩啪啦的聲音! 於是把聲音放進電腦研究。",
-      "time": "1:08"
+      "en": "A big tire company makes and uses blimps. Their blimps show pictures and words about tires and other things people can buy. These blimps have been doing this for 100 years!",
+      "tw": "一家輪胎公司會製造飛船，上面寫著公司名稱打廣告，飛船當廣告工具已經一百年!",
+      "time": "1:13"
     },
     {
-      "en": "What did they find? Healthy plants make almost no sounds. But stressed plants can make forty sounds in one hour!",
-      "tw": "他們發現什麼? 健康的植物很沉默，但壓力大的植物一小時會發出四十多次聲音!",
-      "time": "1:41"
+      "en": "Blimps can also stay in one place in the air. The company's blimps have cameras. When people watch TV, sometimes they see videos of big sports events taken by the blimps! This year, the blimps are going to many events!",
+      "tw": "飛船也可以停在空中拍照或錄影，電視裡的大型運動比賽轉播，有時候就是飛船拍的!",
+      "time": "1:42"
     },
     {
-      "en": "The scientists say maybe the clicks and pops tell other plants there's danger. They say maybe animals and insects can hear plants. So maybe the animals and insects won't eat stressed plants. Maybe insects won't put their eggs on stressed plants.",
-      "tw": "也許那些聲音會警告其他植物有危險，也許動物或是昆蟲聽得到，就不吃那些植物，或選擇不在上面產卵。",
-      "time": "2:01"
+      "en": "For this 100th birthday, four blimps are flying above 100 cities in North America and Europe. And a few lucky people will win a ride on one of them!",
+      "tw": "今年是飛船推出 100 年，四艘飛船會飛過 100 個歐洲和北美城市，幸運的人能乘坐它們!",
+      "time": "2:14"
     },
     {
-      "en": "The scientists think farmers can use microphones someday. Then the farmers will know which plants need help.",
-      "tw": "科學家認為農夫未來可以使用這些麥克風，就知道哪一些農作物有麻煩了。",
-      "time": "2:39"
-    },
-    {
-      "en": "Look at the plants around you. Do they need water? They're trying to tell you!",
-      "tw": "看看你周圍的植物，它們需要水嗎? 它們正在試著告訴你!",
-      "time": "2:57"
+      "en": "Blimps are fun to watch! If you see a whale in the sky, wave hello! It might be a blimp!",
+      "tw": "飛船很有趣，如果你看到空中有鯨魚，記得揮手打招呼，可能是飛船哦!",
+      "time": "2:41"
     }
   ],
   "vocabulary": {
-    "preface": "科學家說植物會發出聲音，傳遞訊號。",
+    "preface": "廣告飛船是很有歷史的打廣告方式，今年滿一百年。",
     "content": [
       {
-        "text": "1. talk 談話。\nHi, don't you look beautiful today? 你今天真美呢…\nAre you talking to the flowers? 你在跟花講話嗎?\nYeah, I am. 對，我是。\nOh, so you believe plants can hear. 所以你相信植物聽得到。",
+        "text": "1. in the air 在空中。\nThat airplane is so high! 那架飛機飛得好高!\nIt seems to be floating in the air.好像飄浮在空中。",
+        "time": "2:57"
+      },
+      {
+        "text": "2. above 在上面。\nI once took a ride in a hot-air balloon. 我有一回搭熱氣球。\nOh, I've never done that.我從來沒有搭過。\nIt's amazing! 很精彩呢!\nAbove rice fields and trees,你在稻田跟樹林上面，\nyou feel as if you're flying.感覺真的在飛。",
         "time": "3:09"
       },
       {
-        "text": "2. think 想或是認為。\nNot with ears.不是用耳朵。\nBut I think they can feel it. 但是我想它們能感覺。\nThey can feel your goodwill. 能感覺到你的善意。",
-        "time": "3:29"
+        "text": "3. slow 緩慢的。\nDid you go up fast? 你們上升得很快嗎?\nNo, it was slow. 沒有，很慢。",
+        "time": "3:33"
       },
       {
-        "text": "3. stressed 有壓力。\nI also read that they can get stressed if you cut them.\n我還有讀到說，要是你修剪植物，它會感覺到壓力。",
-        "time": "3:44"
-      },
-      {
-        "text": "4. loud 大聲的。\nJust keep them in a nice place. 就把它們擺在一個好地方。\nAnd try not to be too loud. 然後不要太大聲。\nI already feel stressed. 我已經感覺到壓力了。",
-        "time": "3:55"
+        "text": "4. full of 裝滿。\nI hope to travel like that someday. 我希望有一天那樣旅行。\nMy basket will be full of food and blankets.我的籃子裡會裝滿吃的，還有毛毯。",
+        "time": "3:43"
       }
     ],
-    "postscript": "請跟我讀單字。\ntalk談話 think想或是認為 stressed有壓力 loud大聲的"
+    "postscript": "你有搭過飛機嗎?\nin the air在空中 above在上面 slow緩慢的 full of裝滿"
   },
   "quiz": [
     {
-      "question": "1. Which plants make more sounds?",
+      "question": "1. What makes blimps go up?",
       "options": [
-        "a. Stressed plants",
-        "b. Healthy plants",
-        "c. Happy plants"
+        "a. A plane",
+        "b. A gas",
+        "c. Tires"
       ],
-      "time": "4:29",
+      "time": "4:16",
+      "answer": "b"
+    },
+    {
+      "question": "2. How many years has one company used blimps for messages?",
+      "options": [
+        "a. 25 years",
+        "b. 50 years",
+        "c. 100 years"
+      ],
+      "time": "4:28",
+      "answer": "c"
+    },
+    {
+      "question": "3. Where do the company's blimps fly?",
+      "options": [
+        "a. North America and Europe",
+        "b. South America and Africa",
+        "c. Central America and Asia"
+      ],
+      "time": "4:44",
       "answer": "a"
-    },
-    {
-      "question": "2. How many sounds can these plants make in one hour?",
-      "options": [
-        "a. 14",
-        "b. 40",
-        "c. 400"
-      ],
-      "time": "4:43",
-      "answer": "b"
-    },
-    {
-      "question": "3. Who may hear sounds plants make?",
-      "options": [
-        "a. People",
-        "b. Animals",
-        "c. Clicks"
-      ],
-      "time": "4:55",
-      "answer": "b"
     }
   ]
 }
