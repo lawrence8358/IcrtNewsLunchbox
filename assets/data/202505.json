@@ -1,99 +1,95 @@
 {
-  "id": "20250516-01",
+  "id": "20250515-01",
   "type": "國小",
   "tag": [
-    "Good Health and Well-Being"
+    "Responsible Consumption and Production",
+    "Natural Sciences"
   ],
-  "title": "Laugh in This Museum",
-  "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250515NK.mp3",
+  "title": "A Farm of Fish and Fruit",
+  "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250514NK.mp3",
   "content": [
     {
-      "en": "Sunday is International Museum Day. Museums show us many things. In Croatia, one museum is about laughter!",
-      "tw": "星期天是國際博物館日!博物館帶給我們很多新知識，克羅埃西亞有個歡笑博物館!",
-      "time": "0:19"
+      "en": "Do you love fresh strawberries?! They're in strawberry tarts, strawberry milk, strawberry tánghúlu! Yum yum yum!",
+      "tw": "草莓香甜可口，草莓塔、草莓牛奶、草莓糖葫蘆都好吃!",
+      "time": "0:20"
     },
     {
-      "en": "Some people say, \"Laughter is the best medicine.\" It can make you feel good!",
-      "tw": "歡笑是最好的良藥，可以治癒不順利，帶來好心情，對我們很重要!",
-      "time": "0:41"
+      "en": "Farmers in Yunlin have a new way to grow strawberries. They say their strawberries taste much better than other strawberries! What makes the fruit taste so good? Vegetable waste from the farms, and fish do! Huh? What?!",
+      "tw": "雲林的農夫嘗試種植草莓的新辦法，種出來的草莓不但美味，還減少了蔬菜垃圾量，讓養殖魚類長得更好。這是怎麼回事?",
+      "time": "0:39"
     },
     {
-      "en": "The museum wants to show this. Kids laugh here. Grown-ups laugh too!",
-      "tw": "這個博物館想告訴我們歡笑的重要，在博物館裡，大人小孩會一同歡笑。",
-      "time": "0:55"
+      "en": "Nutrients make vegetables good for us. They make vegetable waste good for fish too! The fish eat the nutrients. Over time, the fish fill the water with these nutrients.",
+      "tw": "農夫跟養殖漁業合作，把要丟棄的蔬菜葉子拿去餵魚，蔬菜是很營養的東西，魚吃下肚之後的排泄物，也讓魚塭水富含養分。",
+      "time": "1:11"
     },
     {
-      "en": "When you go inside, air blows on you and your worries go away! You go into a big washing machine. You go around and around, and then you slide down! White balls are all around you! You can jump and play with them!",
-      "tw": "一走進館裡，一陣風會把你的煩惱吹到遠遠地，再來你會走進一個大洗衣機，順著圈圈溜~~下球池玩耍!",
-      "time": "1:10"
+      "en": "The farmers use the fish water for their strawberry plants. The strawberries grow better! And the plants grow strawberries a month longer. Now we can eat them from December to May!",
+      "tw": "用魚塭水澆灌草莓，讓草莓又大又紅，還能多生長一個月，從十二月到五月都吃的到。",
+      "time": "1:41"
     },
     {
-      "en": "You can laugh at rubber chickens singing songs! You can learn about what makes people laugh!",
-      "tw": "博物館裡的橡膠雞唱歌也很好笑！你可以了解什麼東西會讓人笑！",
-      "time": "1:45"
+      "en": "The farmers pick the strawberries. They give the waste water to the fish. It's a big circle: vegetable waste, fish, water, strawberries, vegetable waste, fish... Nothing is thrown away! And farmers don't need to buy fish and plant food.",
+      "tw": "剩餘的草莓葉子，還可以拿去餵魚。所以這是個很健康的循環，廢棄蔬菜，魚，水，草莓都不浪費，農夫也不用買肥料給草莓施肥。",
+      "time": "2:07"
     },
     {
-      "en": "Telling jokes makes people laugh. Slapstick makes people laugh too. With slapstick, people do silly things. Maybe you have seen a clown slipping on a banana. That's slapstick! At the museum, you can do slapstick with sumo wrestling!",
-      "tw": "Slapstick 是滑稽喜劇，演員表演無厘頭的事情來搞笑，像是踩到香蕉皮跌倒，在博物館裡，你可以穿上相撲裝跟朋友撞來撞去!",
-      "time": "2:01"
-    },
-    {
-      "en": "What makes you laugh? Whatever it is, laughter is good for you. Maybe it is the best medicine!",
-      "tw": "你覺得什麼東西最好笑?不管是什麼，歡笑對我們都很好，或許它真的是最好的良藥!",
-      "time": "2:39"
+      "en": "This new way of farming is good for farmers, the Earth, and us! Vegetable waste and fish make delicious strawberries! Mmmm-mm!",
+      "tw": "這種新型態的農業對農夫、地球和我們都很好，蔬菜廢料和魚類讓草莓更美味!嗯嗯嗯!",
+      "time": "2:42"
     }
   ],
   "vocabulary": {
-    "preface": "讓人發笑的博物館，你會不會也想去參觀?",
+    "preface": "草莓和魚類沒什麼關係，但是雲林這家農場成功推動讓草莓和魚類共生。",
     "content": [
       {
-        "text": "1. go away 走開。\nI've found a new way to make my worries go away. 我找到新辦法趕走我的憂慮。\nDon't tell me it's singing. 別告訴我是唱歌。\nNo, but singing does help. 不是，不過唱歌是有幫助。",
-        "time": "2:55"
+        "text": "1. vegetable 蔬菜。\nIs tomato fruit or vegetable? 番茄是水果還是蔬菜?\nVegetable, if it's the big one. 假如是大番茄，那是蔬菜。\nIt can be used in soup, in salad and various dishes.可以用來煮湯，做沙拉，或是各種菜。",
+        "time": "3:05"
       },
       {
-        "text": "2. joke 笑話。\nThen what is it? 那是什麼?\nTelling myself a joke every morning. 每天早上跟我自己講個笑話。\nThat actually sounds funny.聽起來是很好笑。",
-        "time": "3:13"
+        "text": "2. fruit 水果。\nI prefer small tomatoes.我喜歡小番茄。\nYou can find the fruit all year round. 一年到頭都吃得到的水果。",
+        "time": "3:26"
       },
       {
-        "text": "3. laughter 歡笑。\nRight? A little laughter can change your day. 是吧?\n一點歡笑就可以改變一整天。",
-        "time": "3:29"
-      },
-      {
-        "text": "4. laugh 笑。\nI find it hard to laugh at my own jokes.我覺得笑自己講的笑話有點難。\nThat's not a problem.那不是問題。",
+        "text": "3. fresh 新鮮的。\nBut my favorite fruit is still watermelon.不過我最喜歡的水果還是西瓜。\nNothing comes close to fresh, icy cold watermelon on a hot summer day.\n什麼都比不上炎熱的夏天來一片新鮮冰西瓜。",
         "time": "3:38"
+      },
+      {
+        "text": "4. milk 牛奶。\nHave you ever tried watermelon milk?你有沒有喝過西瓜牛奶?\nNo, is it good? 沒，好喝嗎?\nIt's great, believe me.很棒，相信我。",
+        "time": "3:57"
       }
     ],
-    "postscript": "今天的單字很有趣。\ngo away走開 joke笑話 laughter歡笑 laugh笑"
+    "postscript": "來一起讀單字。\nvegetable蔬菜 fruit水果 fresh新鮮的 milk牛奶"
   },
   "quiz": [
     {
-      "question": "1. Why do some people say laughter is medicine?",
+      "question": "1. Where do farmers have a new way to grow strawberries?",
       "options": [
-        "a. It makes people feel sick.",
-        "b. It makes people feel good.",
-        "c. It makes people feel strong."
+        "a. Yilan",
+        "b. Yingge",
+        "c. Yunlin"
       ],
-      "time": "4:08",
-      "answer": "b"
-    },
-    {
-      "question": "2. Who likes going to the museum about laughter?",
-      "options": [
-        "a. Only kids",
-        "b. Only grown-ups",
-        "c. Both kids and grown-ups"
-      ],
-      "time": "4:23",
+      "time": "4:27",
       "answer": "c"
     },
     {
-      "question": "3. What happens with slapstick?",
+      "question": "2. When can we eat fresh strawberries now?",
       "options": [
-        "a. People tell jokes.",
-        "b. People do silly things.",
-        "c. People get angry."
+        "a. April to December",
+        "b. December to May",
+        "c. All year"
       ],
-      "time": "4:37",
+      "time": "4:40",
+      "answer": "b"
+    },
+    {
+      "question": "3. What is this new way of farming good for?",
+      "options": [
+        "a. Tánghúlu",
+        "b. The Earth",
+        "c. Milk"
+      ],
+      "time": "4;52",
       "answer": "b"
     }
   ]
