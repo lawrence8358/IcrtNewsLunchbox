@@ -1,95 +1,90 @@
 {
-  "id": "20250515-01",
+  "id": "20250521-01",
   "type": "國小",
   "tag": [
-    "Responsible Consumption and Production",
-    "Natural Sciences"
+    "Peace, Justice and Strong Institutions",
+    "Law-related Education"
   ],
-  "title": "A Farm of Fish and Fruit",
-  "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250514NK.mp3",
+  "title": "Superheroes Keep Carnival Safe",
+  "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250520NK.mp3",
   "content": [
     {
-      "en": "Do you love fresh strawberries?! They're in strawberry tarts, strawberry milk, strawberry tánghúlu! Yum yum yum!",
-      "tw": "草莓香甜可口，草莓塔、草莓牛奶、草莓糖葫蘆都好吃!",
-      "time": "0:20"
+      "en": "Brazil is a country in South America. It's famous for many things. Carnival is Brazil's most famous celebration. Many cities there have big, big parties! There's lots of music and dancing. Many people wear colorful costumes!",
+      "tw": "南美洲巴西最會辦派對! 他們的嘉年華有很多音樂表演、舞蹈，還有五彩繽紛的變裝!",
+      "time": "0:21"
     },
     {
-      "en": "Farmers in Yunlin have a new way to grow strawberries. They say their strawberries taste much better than other strawberries! What makes the fruit taste so good? Vegetable waste from the farms, and fish do! Huh? What?!",
-      "tw": "雲林的農夫嘗試種植草莓的新辦法，種出來的草莓不但美味，還減少了蔬菜垃圾量，讓養殖魚類長得更好。這是怎麼回事?",
-      "time": "0:39"
+      "en": "Millions of people go to Carnival every year. But thieves go too. Thieves want to take money, phones, and other things from people. Brazil's police try to keep people safe from thieves. It's not easy. When thieves see the police, they run!",
+      "tw": "每年有好幾百萬人去巴西朝聖，但小偷們也來了，錢跟手機他們都不放過，一看到警察就開溜!",
+      "time": "0:54"
     },
     {
-      "en": "Nutrients make vegetables good for us. They make vegetable waste good for fish too! The fish eat the nutrients. Over time, the fish fill the water with these nutrients.",
-      "tw": "農夫跟養殖漁業合作，把要丟棄的蔬菜葉子拿去餵魚，蔬菜是很營養的東西，魚吃下肚之後的排泄物，也讓魚塭水富含養分。",
-      "time": "1:11"
+      "en": "Last year, police in one city did something new. They wore costumes to Carnival too! No one knew they were police. It was easy for them to catch thieves. So this year, they wore costumes again. They wore superhero costumes, and other fun costumes!",
+      "tw": "從去年開始，警察們想到新花樣，他們跟著大家穿著華麗的衣服，就不會被小偷認出來!",
+      "time": "1:30"
     },
     {
-      "en": "The farmers use the fish water for their strawberry plants. The strawberries grow better! And the plants grow strawberries a month longer. Now we can eat them from December to May!",
-      "tw": "用魚塭水澆灌草莓，讓草莓又大又紅，還能多生長一個月，從十二月到五月都吃的到。",
-      "time": "1:41"
+      "en": "Thieves like to take people's phones. Police wearing superhero costumes caught one thief who had seven phones! In a few days, they caught six thieves and found 23 phones! People cheered!",
+      "tw": "穿著超級英雄服裝的警察，好幾天內，一口氣抓 6 個小偷，找回 23 支手機，真過癮!",
+      "time": "2:05"
     },
     {
-      "en": "The farmers pick the strawberries. They give the waste water to the fish. It's a big circle: vegetable waste, fish, water, strawberries, vegetable waste, fish... Nothing is thrown away! And farmers don't need to buy fish and plant food.",
-      "tw": "剩餘的草莓葉子，還可以拿去餵魚。所以這是個很健康的循環，廢棄蔬菜，魚，水，草莓都不浪費，農夫也不用買肥料給草莓施肥。",
-      "time": "2:07"
-    },
-    {
-      "en": "This new way of farming is good for farmers, the Earth, and us! Vegetable waste and fish make delicious strawberries! Mmmm-mm!",
-      "tw": "這種新型態的農業對農夫、地球和我們都很好，蔬菜廢料和魚類讓草莓更美味!嗯嗯嗯!",
-      "time": "2:42"
+      "en": "At this celebration, people see superheroes keeping them safe! How exciting!",
+      "tw": "在這個慶典上，人們看到超級英雄保護他們的安全，真令人興奮!",
+      "time": "2:35"
     }
   ],
   "vocabulary": {
-    "preface": "草莓和魚類沒什麼關係，但是雲林這家農場成功推動讓草莓和魚類共生。",
+    "preface": "里約嘉年華的大遊行裡面，假扮成超級英雄的警察，抓到好幾名扒手。",
     "content": [
       {
-        "text": "1. vegetable 蔬菜。\nIs tomato fruit or vegetable? 番茄是水果還是蔬菜?\nVegetable, if it's the big one. 假如是大番茄，那是蔬菜。\nIt can be used in soup, in salad and various dishes.可以用來煮湯，做沙拉，或是各種菜。",
-        "time": "3:05"
+        "text": "1. thief 小偷。\nOh my Gosh! Where's my wallet? 天哪，我的皮夾呢?\nYou lost it? 搞丟了嗎?\nIt was right here in my bag! 之前就在我包包裡。\nNow it's gone! 現在不見了。\nI can't believe we have thieves on the MRT. 我不敢相信捷運上有小偷。",
+        "time": "2:51"
       },
       {
-        "text": "2. fruit 水果。\nI prefer small tomatoes.我喜歡小番茄。\nYou can find the fruit all year round. 一年到頭都吃得到的水果。",
-        "time": "3:26"
+        "text": "2. police 警察。\nWe're about to arrive at the station. 我們就要到站了。\nWe can report it to the police there. 可以在那裏向警察報案。",
+        "time": "3:12"
       },
       {
-        "text": "3. fresh 新鮮的。\nBut my favorite fruit is still watermelon.不過我最喜歡的水果還是西瓜。\nNothing comes close to fresh, icy cold watermelon on a hot summer day.\n什麼都比不上炎熱的夏天來一片新鮮冰西瓜。",
-        "time": "3:38"
+        "text": "3. costume 戲服。\nDo you think it's the girl in the blue costume? 會不會是那個穿藍色戲服的女孩?\nThe one that stood close to you? 之前站得離你很近的那個人嗎?",
+        "time": "3:24"
       },
       {
-        "text": "4. milk 牛奶。\nHave you ever tried watermelon milk?你有沒有喝過西瓜牛奶?\nNo, is it good? 沒，好喝嗎?\nIt's great, believe me.很棒，相信我。",
-        "time": "3:57"
+        "text": "4. find 找到。\nMaybe. But I'm sure the police can find the right person.\n也許。不過警察肯定會找到正確的人。",
+        "time": "3:39"
       }
     ],
-    "postscript": "來一起讀單字。\nvegetable蔬菜 fruit水果 fresh新鮮的 milk牛奶"
+    "postscript": "你今天學到哪些單字?\nthief小偷 police警察 costume戲服 find找到"
   },
   "quiz": [
     {
-      "question": "1. Where do farmers have a new way to grow strawberries?",
+      "question": "1. What is Brazil's Carnival?",
       "options": [
-        "a. Yilan",
-        "b. Yingge",
-        "c. Yunlin"
+        "a. A costume",
+        "b. A celebration",
+        "c. A superhero"
       ],
-      "time": "4:27",
-      "answer": "c"
-    },
-    {
-      "question": "2. When can we eat fresh strawberries now?",
-      "options": [
-        "a. April to December",
-        "b. December to May",
-        "c. All year"
-      ],
-      "time": "4:40",
+      "time": "4:05",
       "answer": "b"
     },
     {
-      "question": "3. What is this new way of farming good for?",
+      "question": "2. When did police in one city do something new?",
       "options": [
-        "a. Tánghúlu",
-        "b. The Earth",
-        "c. Milk"
+        "a. Last year",
+        "b. Last week",
+        "c. Last night"
       ],
-      "time": "4;52",
+      "time": "4:18",
+      "answer": "a"
+    },
+    {
+      "question": "3. How many phones did the police find?",
+      "options": [
+        "a. 7",
+        "b. 23",
+        "c. Millions"
+      ],
+      "time": "4:30",
       "answer": "b"
     }
   ]
