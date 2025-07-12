@@ -1196,5 +1196,101 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20250320-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Reading Literacy Education"
+    ],
+    "title": "Teaching Taiwanese with Stories",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250319NK.mp3",
+    "content": [
+      {
+        "en": "Today is World Storytelling Day!",
+        "tw": "今天是個特別的日子... 世界說故事日!",
+        "time": null
+      },
+      {
+        "en": "How do you enjoy a good story? Maybe you watch a series on the Internet, watch a movie, or read a book…",
+        "tw": "你平常都如何欣賞一個好故事呢? 是看網路上的影集、看電影、或是看書呢?",
+        "time": null
+      },
+      {
+        "en": "Long, long ago, people didn't have the Internet, movies, or books! People told stories. They used their voices to speak, their eyes to look at their listeners, and their hands to make their stories exciting! Some people do this now too.",
+        "tw": "很久以前，世界沒有網路、電影，甚至沒有書!當時有人會唸故事給大家聽，用聲音、眼神和手勢讓故事精彩。現在也有人這麼唸故事!",
+        "time": null
+      },
+      {
+        "en": "Telling stories is fun! And it can be used to teach. Storytellers can teach about long ago times. They can teach what their group or their country does. They can teach what's right and what's wrong. They can teach language too!",
+        "tw": "聽故事能讓學習更有趣，故事教我們歷史、國家、對與錯的觀念，還有語言!",
+        "time": null
+      },
+      {
+        "en": "In Taiwan, one storyteller teaches Taiwanese with stories. She goes to many elementary schools. She wants to go to more than one hundred schools! Maybe you've met her!",
+        "tw": "在台灣，有一位女士到各地的小學，用台語唸故事，她希望透過故事，能讓更多小朋友學會使用台語!",
+        "time": null
+      },
+      {
+        "en": "This storyteller tells very funny stories. She wants kids to love learning Taiwanese! Her stories teach them how to use Taiwanese in everyday life. The kids have a great time! They learn some Taiwanese, too!",
+        "tw": "這位女士走遍各地，用生動活潑的台語，講故事給小學生聽。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": null,
+      "content": [
+        {
+          "text": "1. storyteller 說故事的人。\nMy mom was a very good storyteller. 我媽媽很會說故事。\nI learned so much from her. 我從她那裏知道好多。",
+          "time": null
+        },
+        {
+          "text": "2. tell 告訴。\nWhat stories did she tell you? 她跟你說什麼故事呢?\nAbout her family and memories of war. 有關她的家人還有戰爭的回憶。",
+          "time": null
+        },
+        {
+          "text": "3. read 閱讀。\nMy parents didn't tell me much.我爸媽很少跟我講什麼。\nI learned about the world from reading books.我都是從看書認識世界。",
+          "time": null
+        },
+        {
+          "text": "4. Internet 網路。\nChildren today don't read anymore.這年頭小孩不看書了。\nI know. They prefer to watch things on the\nInternet.我知道。他們比較喜歡在網路上看東西。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡自己看書還是看YouTube呢? 來讀今天的單字。\nstoryteller說故事的人 tell告訴 read閱讀 Internet網路"
+    },
+    "quiz": [
+      {
+        "question": "1. What day is today?",
+        "options": [
+          "a. World Storytelling Day",
+          "b. World Story Day",
+          "c. World Book Day"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What is storytelling good for?",
+        "options": [
+          "a. Reading",
+          "b. Teaching",
+          "c. Writing"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many elementary schools does the storyteller want to visit?",
+        "options": [
+          "a. Ten",
+          "b. One hundred",
+          "c. One thousand"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
