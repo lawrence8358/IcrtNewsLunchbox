@@ -189,5 +189,113 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20250219-01",
+    "type": "國小",
+    "tag": [
+      "Climate Action",
+      "Indigenous Education",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Parks and Indigenous People Help Taiwan's Salmon",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250218NK.mp3",
+    "content": [
+      {
+        "en": "Taiwan has its own salmon! You can see them on the $2,000 Taiwan dollar bill.",
+        "tw": "台灣有種特別的鮭魚，叫做櫻花鉤吻鮭，你可以在兩千元鈔票上找到牠們。",
+        "time": null
+      },
+      {
+        "en": "The Formosan landlocked salmon are from the Ice Age! They live in mountain rivers. They cannot go to the ocean. That means they're landlocked.?",
+        "tw": "櫻花鉤吻鮭從冰河時期就存在！因為牠們只生存在陸地的高山河川裡，不能游到大海，所以牠們被稱為陸封鮭魚。",
+        "time": null
+      },
+      {
+        "en": "They're endangered too. Thirty years ago, there were 200 of these salmon! Their rivers were dirty. The dirty water was killing them!",
+        "tw": "這些鮭魚瀕臨絕種，三十年前只有兩百隻，當時的河水非常髒，所以鮭魚很難生存。",
+        "time": null
+      },
+      {
+        "en": "But... in 2023, there were 18,630 salmon! What happened?",
+        "tw": "不過在2023年，櫻花鉤吻鮭竟然增加到一萬八千六百三十隻，這中間發生了什麼事呢?",
+        "time": null
+      },
+      {
+        "en": "Shei-Pa National Park helps the fish. It cleaned the water in the rivers. It took things out of them too. Salmon can swim far now.",
+        "tw": "雪霸國家公園一直在幫忙這些魚繁殖，清除掉水中的垃圾跟障礙物，現在魚群可以在乾淨的水裡游很遠!",
+        "time": null
+      },
+      {
+        "en": "People help too. Many are Indigenous. They look for changes in the rivers. They keep these fish safe. They move baby salmon to higher, cooler rivers. Why? Climate change is making rivers too warm for salmon.",
+        "tw": "當地的原住民也有幫忙，他們觀察河水的變化、保護魚群安全，還把鮭魚寶寶移到水溫更低的河流，避免太溫暖的水傷害鮭魚。",
+        "time": null
+      },
+      {
+        "en": "Taroko National Park also helps. Now salmon swim in two rivers there!",
+        "tw": "太魯閣國家公園也加入這項工作，現在櫻花鉤吻鮭可以在兩座國家公園生活。",
+        "time": null
+      },
+      {
+        "en": "National parks and Indigenous people are working hard. They're saving Taiwan's endangered salmon!",
+        "tw": "國家公園和原住民們正努力工作。他們正在拯救台灣瀕臨滅絕的鮭魚！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "櫻花鉤吻鮭是國寶魚，在高山溪流中可以見到。",
+      "content": [
+        {
+          "text": "1. river 河流。\nThere's fish in the river! 河裡面有魚!\nYeah, they are salmon. 沒錯，是鮭魚。\nWow, salmon in Taiwan? 哇，台灣有鮭魚?\nYeah, isn't it wonderful? 是啊，很棒吧?",
+          "time": null
+        },
+        {
+          "text": "2. swim 游泳。\nDo you know what I'm thinking? 你知道我在想什麼嗎?\nYou want to eat the fish. 你想要吃魚。\nSpot on! 答對了!\nYou can't. They swim fast. 你吃不到，牠們游很快。",
+          "time": null
+        },
+        {
+          "text": "3. Ice Age 冰河時期。\nThey're from the Ice Age, you know. 你要知道牠們來自冰河時期。\nWell, I prefer to eat hot, cooked fish. 我喜歡吃煮熟的，熱的魚。",
+          "time": null
+        },
+        {
+          "text": "4. go to 去。\nLet's go to the eatery over there. 我們去那裡的小吃店吧。\nThey should have hot, cooked noodles.他們應該有煮熟的熱麵條。\nHave you ever seen Formosan salmon?",
+          "time": null
+        }
+      ],
+      "postscript": "river河流 swim游泳 Ice Age冰河時期 go to去"
+    },
+    "quiz": [
+      {
+        "question": "1. Why are these salmon landlocked?",
+        "options": [
+          "a. They cannot go to the ocean.",
+          "b. They live on land.",
+          "c. They live in the ocean."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How many salmon were there thirty years ago?",
+        "options": [
+          "a. 100",
+          "b. 200",
+          "c. 500"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What is one way Indigenous people help these salmon?",
+        "options": [
+          "a. Eat fewer salmon",
+          "b. Put things in rivers",
+          "c. Move baby salmon"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
