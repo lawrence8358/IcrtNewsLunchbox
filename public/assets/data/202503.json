@@ -297,5 +297,110 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20250306-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education"
+    ],
+    "title": "Luke Littler is Big in Darts",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250305NK.mp3",
+    "content": [
+      {
+        "en": "Darts are small, sharp arrows. Darts players throw them at a dartboard. They take turns throwing three darts.",
+        "tw": "飛鏢是一種小小、尖尖的箭頭，玩家把飛鏢扔向標靶，每個人輪流扔三次。",
+        "time": null
+      },
+      {
+        "en": "A dartboard has many areas. Some have a high score. Some have a low score. The players stand far from the dartboard. They try to hit the high-score areas. The areas are small! Winning is hard!",
+        "tw": "板子上有許多區塊，每一區有不同的分數，比賽時飛鏢選手站得遠遠的丟飛鏢，他們努力瞄準高分區，但那些區塊很小，很難射中！",
+        "time": null
+      },
+      {
+        "en": "Luke Littler is a teenager from England. He's a world champion! Luke is a darts player.",
+        "tw": "Luke Littler 是來自英國的青少年，他 是個飛鏢選手，才十七歲就成了世界冠軍！",
+        "time": null
+      },
+      {
+        "en": "But Luke has played darts since he was 18 months old. His dad gave him a dartboard for kids. Luke was wearing a diaper when he threw his first dart!",
+        "tw": "他十八個月大的時候，爸爸送給他一套飛鏢玩具，他第一次玩，還包著尿布！",
+        "time": null
+      },
+      {
+        "en": "Last year, Luke played in the world darts championship. He went to the final game! He was 16 years old! Luke didn't win. But he became famous!",
+        "tw": "去年，Luke 進入世界冠軍決賽，他當時十六歲！最後他雖然沒有贏，但一舉成名。",
+        "time": null
+      },
+      {
+        "en": "This year, Luke won the world championship! He's the youngest world darts champion on record!",
+        "tw": "今年他得到了第一名，是有史以來最年輕的世界冠軍！",
+        "time": null
+      },
+      {
+        "en": "Luke made playing darts cool. Kids everywhere are playing darts now. There are many more darts schools too!",
+        "tw": "讓飛鏢變成很酷的運動，現在很多小孩都在玩飛鏢，專門教飛鏢的學校也開始流行！",
+        "time": null
+      },
+      {
+        "en": "Which kid will become the next world darts champion?",
+        "tw": "哪個孩子會成為下一位世界飛鏢冠軍？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "擲飛鏢是一種遊戲，這名年輕人玩著玩著，成了世界冠軍。",
+      "content": [
+        {
+          "text": "1. throw 扔。\nAlright, Paz, watch and learn. 好，你看喔，學著點。\nI'm going to throw this dart like a true champion!\n我像個真正的冠軍要扔飛鏢了!\nYou missed it by a mile! 差了十萬八千里!",
+          "time": null
+        },
+        {
+          "text": "2. champion 冠軍。\nNow let me show you how a champion should do. 現在讓你看看冠軍該怎麼做。\nWow, that's really something! 哇，真不錯呢!",
+          "time": null
+        },
+        {
+          "text": "3. record 紀錄。\nYou missed again ! 你又射偏了!\nI know. I'm trying to break my record of losing here.\n我知道。我是想打破失敗的紀錄。",
+          "time": null
+        },
+        {
+          "text": "4. win 贏得。\nOkay, my turn now. 好，該我了。\nYeah, I win, I win! 我贏了，我贏了。\nWait, you didn't win. 等等，你沒有贏。\nWe have three more rounds to go.我們還要再比三回合。",
+          "time": null
+        }
+      ],
+      "postscript": "你有扔過飛鏢嗎?\nthrow扔 champion冠軍 record紀錄 win贏得"
+    },
+    "quiz": [
+      {
+        "question": "1. What do darts players throw darts at?",
+        "options": [
+          "a. An arrow",
+          "b. A dartboard",
+          "c. A diaper"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How old was Luke when he threw his first dart?",
+        "options": [
+          "a. 16 years old",
+          "b. 17 years old",
+          "c. 18 months old"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What was Luke wearing when he threw his first dart?",
+        "options": [
+          "a. A diaper",
+          "b. A scarf",
+          "c. A hat"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
