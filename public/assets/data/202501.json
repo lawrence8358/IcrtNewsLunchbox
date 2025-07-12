@@ -790,5 +790,106 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20250117-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Environmental Education"
+    ],
+    "title": "New Worlds in the Earth",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250116NK.mp3",
+    "content": [
+      {
+        "en": "Did you know there are worlds underground? They are in caves. Caves are spaces in the Earth. Some are very big. Some are small. And some people love to go into them.",
+        "tw": "你知道地底下有另外一種世界嗎？地底下有很多大大小小的洞穴，很多人喜歡去探險。",
+        "time": null
+      },
+      {
+        "en": "Caves have surprises. Some have rivers! Others have strange animals. They don't live anywhere else. Some very big caves have their own weather!",
+        "tw": "洞穴裡有很多驚喜哦！有河流，有只住在地底的奇怪動物，還有洞穴特有的天氣現象。",
+        "time": null
+      },
+      {
+        "en": "Going into caves is like going to the moon. Each step goes to a new place. No one has seen these places before!",
+        "tw": "走進洞穴裡，每一步就像在月球探險一樣，會發現從來沒有看過的新世界！",
+        "time": null
+      },
+      {
+        "en": "Caves tell us about the Earth's past. They can also tell us about climate change. And caves can show how things keep living when it's hard to live.",
+        "tw": "我們也能從洞穴知道地球的歷史，還有氣候的變化，還能觀察動植物怎麼在困難的環境下生活。",
+        "time": null
+      },
+      {
+        "en": "Caves can also help us understand life on other planets. Some caves have plants that can grow with almost no light!",
+        "tw": "洞穴有很多珍貴的知識，有一些植物甚至能在黑暗中生長！",
+        "time": null
+      },
+      {
+        "en": "Going deep into caves isn't easy. People walk on their hands and knees in some places. They go in very small spaces. They dive. There are dangers like earthquakes. But finding something new is very exciting!",
+        "tw": "洞穴探險很不容易，要跪在地上爬行、鑽進狹小的地方或是潛水，還可能遇到地震，不過發現新事物還是很讓人興奮！",
+        "time": null
+      },
+      {
+        "en": "There are caves in Taiwan. Maybe one day you'll see how exciting they are!",
+        "tw": "在台灣也有洞穴。或許有一天你會發現它們有多麼令人興奮！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "洞穴是非常特殊的地形，讓很多人想去探險。",
+      "content": [
+        {
+          "text": "1. deep 很深的。\nThis is the most amazing cave I've ever seen! 這是我見過最驚人的洞穴! How deep underground do you think we are? 你覺得我們在地下多深?\nI have no idea. 我不知道。",
+          "time": null
+        },
+        {
+          "text": "2. world 世界。\nAt least 100 meters, I guess. 我猜至少一百公尺。\nThis is one of the deepest caves in the world, you know.\n這裡是世界上最深的洞穴之一。",
+          "time": null
+        },
+        {
+          "text": "3. place 地方。\nLook at that! That's a little plant! 你看那兒! 那是一棵小植物!\nCan you imagine living in a place like this? 你能想像在這種地方生活嗎?",
+          "time": null
+        },
+        {
+          "text": "4. light 光線。\nNo sun, no moon and no light. 沒有太陽，月亮和光線。\nWell, at least there's air and water. 至少有空氣和水。",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字?\ndeep很深的 world世界 place地方 light光線"
+    },
+    "quiz": [
+      {
+        "question": "1. Why is going into a cave like going to the moon?",
+        "options": [
+          "a. It's dark.",
+          "b. It has new places.",
+          "c. It has strange animals."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do some caves show about plants?",
+        "options": [
+          "a. They can grow with almost no light.",
+          "b. They need a lot of sunlight.",
+          "c. They can't grow underground."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What do some very big caves have?",
+        "options": [
+          "a. Climate change",
+          "b. Their own weather",
+          "c. Big trees"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
