@@ -701,5 +701,110 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20250225-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences"
+    ],
+    "title": "Diving for Treasure",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250224NK.mp3",
+    "content": [
+      {
+        "en": "What are some treasures? Gold, diamonds, and lots of money are! Looking for treasure is fun and exciting.",
+        "tw": "黃金跟鑽石都是很珍貴的寶藏，尋寶非常好玩刺激哦！",
+        "time": null
+      },
+      {
+        "en": "A ten-year-old boy found a treasure. It was a fish jawbone with teeth. Huh? Why is that a treasure? Oh, well, the fish lived 200 million years ago!",
+        "tw": "一個十歲的小男孩找到寶藏，是帶著牙齒的魚下頜骨！咦？這算寶藏嗎？當然囉！因為這條魚來自兩億年前哦！",
+        "time": null
+      },
+      {
+        "en": "The boy kept looking for treasure. But he grew up. He got a job. He stopped looking.",
+        "tw": "這個男孩繼續尋找寶藏，但在他長大有工作後，他就停止尋寶。",
+        "time": null
+      },
+      {
+        "en": "Then the man learned how to scuba dive. And he looked for treasure again! He looked around old ships at the bottom of the sea.",
+        "tw": "直到有一天，這個男子學會潛水，他又開始尋寶！他在深海沈船附近到處找，看看有沒有珍貴的東西。",
+        "time": null
+      },
+      {
+        "en": "The man used a metal detector. It finds gold, silver, and other metals. One day, his metal detector beeped! He put his hand in the sand. And he found a big piece of gold!",
+        "tw": "他用金屬探測儀，這台機器可以找到金、銀和其他的金屬，有一天，機器發出聲音，偵測到沙子裡的一大片黃金！",
+        "time": null
+      },
+      {
+        "en": "The man has looked for treasure for many years now. He has found gold money, a very old sword, and more.",
+        "tw": "這個男人尋寶好幾年，他找到了黃金、非常古老的劍，還有許多其他的寶藏。",
+        "time": null
+      },
+      {
+        "en": "The man gave everything he found to a museum. Now the world can see his treasures!",
+        "tw": "他把找到的東西都給了一間博物館，現在全世界都能看到他找到的寶藏！",
+        "time": null
+      },
+      {
+        "en": "You can look for treasure too! Look around you. Maybe you'll find something exciting!",
+        "tw": "你也可以尋寶哦！環顧四周，說不定你會找到令人興奮的東西！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "找到古老魚骨頭的小男孩，長大之後開始尋找海底寶藏。",
+      "content": [
+        {
+          "text": "1. treasure 寶藏。 Jane, let's go on a treasure hunt. 我們去尋寶吧。 A treasure hunt! That sounds exciting! 尋寶，聽起來很精彩! What are we looking for? 要找什麼呢?",
+          "time": null
+        },
+        {
+          "text": "2. gold 黃金。 Gold and silver coins, maybe even diamond rings. 金幣銀幣，也許還有鑽戒。 Where can we find such things? 哪裡可以找到那些東西? At the bottom of the sea, of course. 當然是在海裡囉。",
+          "time": null
+        },
+        {
+          "text": "3. dive 潛水。 You're joking, right? 你在開玩笑吧? I can't even swim. 我甚至不會游泳。 You can learn to dive. 你可以學潛水。",
+          "time": null
+        },
+        {
+          "text": "4. look for 尋找。 Think of all the money you could make. 想想看你會賺到的錢。 You know what, Paz? I'll just look for seashells. 你知道嗎，我只想找貝殼。",
+          "time": null
+        }
+      ],
+      "postscript": "你有做過尋寶的美夢嗎? 來一起讀單字。 treasure寶藏 gold黃金 dive潛水 look for尋找?"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the man use to look for treasure?",
+        "options": [
+          "a. A jawbone",
+          "b. A metal detector",
+          "c. A sword"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where did the man look for treasure?",
+        "options": [
+          "a. At the bottom of the sea",
+          "b. His job",
+          "c. Everywhere in the world"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did the man give his treasures to?",
+        "options": [
+          "a. An old ship",
+          "b. A store",
+          "c. A museum"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
