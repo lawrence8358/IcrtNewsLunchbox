@@ -392,6 +392,102 @@
     ]
   },
   {
+    "id": "20250108-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies",
+      "Technology Education"
+    ],
+    "title": "Student Finds Old City",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250107NK.mp3",
+    "content": [
+      {
+        "en": "Wow! There are so many trees here! Look to your left! Trees! Look to your right! There are more trees! We are in a forest, right?",
+        "tw": "哇！這裡有好多樹木！左看右看都是高大的樹，我們走在森林裡，對吧?",
+        "time": null
+      },
+      {
+        "en": "Well, yes. But we are also in a very old city. Many people lived in this city a thousand years ago.",
+        "tw": "其實這裡曾經是一座非常古老的城市，大約一千年前，還住了很多人。",
+        "time": null
+      },
+      {
+        "en": "Scientists say the city needed more water. So people went to live in other places. Then one day, there were no more people here. More and more trees grew. Leaves fell from the trees. Many years later, the city was under a forest! Nobody could see it. Everybody forgot this city.",
+        "tw": "科學家說這個城市很缺水，所以越來越多人搬家，直到有一天，全部的人都離開了，城市長滿了樹，變成森林，再也沒有人記得這裡的歷史。",
+        "time": null
+      },
+      {
+        "en": "Then a student found the city! No, he wasn't walking around. He was sitting at his desk. He saw some pictures of the forest. He studied them. He found the city in the pictures!",
+        "tw": "直到最近，一個學生找到了這座老城市！他完全沒有出門，只是研究那座森林的照片，就發現裡面有一座城市！",
+        "time": null
+      },
+      {
+        "en": "This city is in Mexico. It's about half the size of Taipei. It has almost seven thousand buildings. There's a pool, a big place to play games with balls, and more!",
+        "tw": "這座城市在墨西哥，大概是台北的一半大，裡面保存了 7000 棟老建築，還有游泳池、古老球場等等，非常珍貴。",
+        "time": null
+      },
+      {
+        "en": "There are many things in the world to find! Maybe one day you will find something!",
+        "tw": "世界上有很多東西等著被發現！也許有一天你也會有所發現！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這名考古學學生利用科技，穿透熱帶樹林，找到墨西哥的古老城市。",
+      "content": [
+        {
+          "text": "1. fall 落下。\nLook at all the leaves falling! 你看那些葉子掉下來。Isn't it pretty?\n不是很美嗎?\nYeah, so colorful.是啊，好多種顏色。",
+          "time": null
+        },
+        {
+          "text": "2. everybody 每個人。\nI think everybody should visit the mountains. 我認為每個人都應該拜訪山林。\nThey would feel happy by enjoying nature. 欣賞大自然就會很快樂。",
+          "time": null
+        },
+        {
+          "text": "3. right 右邊。\nOh, look to the right! 你看右邊! That tree looks very old. 那棵樹看起來好老。\nAnd very big, too. It must be a ginkgo tree. 並且也好大，一定是銀杏。",
+          "time": null
+        },
+        {
+          "text": "4. grow 種植。\nI have to find a way to grow a ginkgo tree. 我得找到辦法來種銀杏。\nIn your garden? 種在你的花園裡嗎? 我希望你找到。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like walking in a forest? 來一起讀單字。\n\nfall落下 everybody每個人 right右邊 grow種植"
+    },
+    "quiz": [
+      {
+        "question": "1. How did the student find the city?",
+        "options": [
+          "a. He walked around.",
+          "b. He looked at pictures.",
+          "c. He asked people."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where is the city?",
+        "options": [
+          "a. Mexico",
+          "b. Malaysia",
+          "c. Myanmar"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. About how many buildings were found?",
+        "options": [
+          "a. Seventy",
+          "b. Seven hundred",
+          "c. Seven thousand"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20250109-01",
     "type": "國小",
     "tag": [
