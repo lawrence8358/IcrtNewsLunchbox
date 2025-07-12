@@ -1098,6 +1098,108 @@
     ]
   },
   {
+    "id": "20250318-01",
+    "type": "國小",
+    "tag": [
+      "Reduced Inequalities",
+      "Character Education",
+      "Integrative Activities"
+    ],
+    "title": "A Sense for Music",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250317NK.mp3",
+    "content": [
+      {
+        "en": "Our world is full of cool things! To find new things, we use our senses …",
+        "tw": "我們會用感官到處探索世界，發現許多很酷的事物!",
+        "time": null
+      },
+      {
+        "en": "We have five basic senses. We use our eyes to see, our ears to hear, and our noses to smell!We touch with our skin. And we taste with our tongues.",
+        "tw": "我們有基本的五感。我們用眼睛看東西，耳朵聽聲音，鼻子聞味道，用皮膚碰觸物品，並透過舌頭品嚐味道。",
+        "time": null
+      },
+      {
+        "en": "We use our senses all the time. They help us to live. Living without them can be very hard …",
+        "tw": "我們隨時都在使用五感，沒有它們，生活會非常困難。",
+        "time": null
+      },
+      {
+        "en": "Lín Hàoēn is an Amis pianist from Hualien. Lín is a very good piano player. He has won many competitions and awards. Most pianists need to see. But Lín cannot see.",
+        "tw": "林昊恩是來自花蓮的阿美族鋼琴家，他非常優秀，贏得各大比賽獎項，令人驚訝的是，他的眼睛看不到。",
+        "time": null
+      },
+      {
+        "en": "Lín can’t read music. He must remember many long, hard piano pieces. He starts slowly. He practices getting faster and faster. Music fills his head!",
+        "tw": "因為沒辦法讀樂譜，林昊恩要把長長的樂譜背在腦中，一開始練習彈得很慢，之後他就能加快速度、完全投入音樂!",
+        "time": null
+      },
+      {
+        "en": "Lín cannot see where the piano keys are. He cannot see where the piano is! Lín uses touch. When he feels a piano, he remembers where his fingers go.",
+        "tw": "林昊恩也看不到鋼琴琴鍵，所以他用手指感受琴鍵的位置，很令人佩服吧!",
+        "time": null
+      },
+      {
+        "en": "Living without our senses can be hard. But people like Lín show us that with practice, we can do anything!",
+        "tw": "生活沒有感官可能會很困難。但是像林昊恩這樣的人告訴我們，只要透過練習，我們就能做到任何事！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一名眼盲的音樂家，用他的觸覺和聽覺學會彈鋼琴。",
+      "content": [
+        {
+          "text": "1. feel 感覺。\nAh, life is full of beauty! 生命多麼美妙!\nJust see the trees, hear the birds, and feel the sun on your face.",
+          "time": null
+        },
+        {
+          "text": "1. smell 聞到。\nYou’re right. 你說得對。\nBut I also smell barbecued chicken, and I’m hungry.但是我也聞到烤雞的香味，我餓了。",
+          "time": null
+        },
+        {
+          "text": "1. nose 鼻子。\nI don’t smell a thing. 我什麼都沒聞到。\nCan your nose tell us where it is? 你的鼻子能不能告訴我們在哪裡?\nI believe it’s coming from that family. 我想是從那一家人來的。",
+          "time": null
+        },
+        {
+          "text": "1. taste 品嘗。\nDon’t go and ask them to share the food. 你別去求他們分享食物。\nCan I just ask to taste the chicken? 我能不能只去嘗一下烤雞?\nNo! 不行。",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我一起讀單字。 feel感覺 smell聞到 nose鼻子 taste品嘗"
+    },
+    "quiz": [
+      {
+        "question": "1. How many basic senses do most of us have?",
+        "options": [
+          "a. Three",
+          "b. Four",
+          "c. Five"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where is Lín from?",
+        "options": [
+          "a. Hong Kong",
+          "b. Hollywood",
+          "c. Hualien"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What can’t Lin do?",
+        "options": [
+          "a. See",
+          "b. Smell",
+          "c. Touch"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  },
+  {
     "id": "20250319-01",
     "type": "國小",
     "tag": [
