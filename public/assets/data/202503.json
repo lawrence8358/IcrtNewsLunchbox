@@ -1596,5 +1596,96 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20250326-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Health and Physical Education"
+    ],
+    "title": "A Record-Breaking Record Breaker",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250325NK.mp3",
+    "content": [
+      {
+        "en": "The record for running 100 meters is 9.58 seconds. Why is it a record? It's the fastest time anyone has run 100 meters. If someone runs it faster, that runner breaks the old record. There will be a new record!",
+        "tw": "世界上一百公尺短跑最快的紀錄是 9.58 秒，如果跑得更快，就會成為新的紀錄!",
+        "time": null
+      },
+      {
+        "en": "Someone who breaks a record is a \"record breaker.\" That person is the best at something! Breaking a record is not easy. Most record breakers break one or two records in their lives.",
+        "tw": "打破世界紀錄的人非常厲害，那很有挑戰性，很少有人能打破超過兩個紀錄。",
+        "time": null
+      },
+      {
+        "en": "But one man has broken more records than anyone else. He broke 52 records in 52 weeks. He's a record-breaking record breaker!",
+        "tw": "但有一個人打破世界紀錄 52 次!他在打破紀錄的數量上，也打破其他人的紀錄!",
+        "time": null
+      },
+      {
+        "en": "He works hard to become the best at many things. And he's the best at some strange things! He's the fastest at folding and throwing a paper plane. He did that in 5.12 seconds. He's the best at popping balloons with boxing gloves in one minute. He popped 600 balloons!",
+        "tw": "他為了成為奇怪事情的專家，非常辛苦練習。他只花 5.12 秒摺紙飛機並丟出去，他也是帶著拳擊手套將最多氣球打破的冠軍，總共打破了 600 個!",
+        "time": null
+      },
+      {
+        "en": "This record-breaking record breaker shows that with hard work, we can do many things!",
+        "tw": "這位打破紀錄的紀錄保持者展現了，只要努力，我們就能做很多事情！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這位喜歡破世界紀錄的人，花很多時間練習各種活動。",
+      "content": [
+        {
+          "text": "1. faster 比較快的。\nWow, look at that runner! 你看那個跑步的人!\nShe's so fast! 她跑得好快!\nYeah, but the girl behind her is even faster! 對，可是她後面的女孩跑得更快!\nThat's really amazing! 真驚人!",
+          "time": null
+        },
+        {
+          "text": "2. strange 奇怪的。\nWhat, a person that runs so fast? 什麼，跑這麼快的人嗎? That's not strange at all. 一點也不奇怪啊。\nShe's much taller. 她高得多了。",
+          "time": null
+        },
+        {
+          "text": "3. hard 辛苦的。\nI wish I could run like that, 我希望也能那樣跑，but running is hard.\n但是跑步很辛苦。",
+          "time": null
+        },
+        {
+          "text": "4. best 最好的。\nJane, you need to work hard if you want to be the best.\n你假如想成為最厲害的，就要努力。\nI'm best at eating chips.\n我吃洋芋片很厲害。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你可記住了? Faster 比較快的 strange奇怪的 hard辛苦的 best最好的"
+    },
+    "quiz": [
+      {
+        "question": "1. What is the record for running 100 meters?",
+        "options": [
+          "a. 5.12 seconds",
+          "b. 9.58 seconds",
+          "c. 52 seconds"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What is someone who breaks a record called?",
+        "options": [
+          "a. A runner",
+          "b. A record breaker",
+          "c. A broken record"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did the man pop the balloons with?",
+        "options": [
+          "a. Running shoes",
+          "b. Paper planes",
+          "c. Boxing gloves"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
