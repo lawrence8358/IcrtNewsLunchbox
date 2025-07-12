@@ -1,0 +1,97 @@
+ [
+  {
+    "id": "20250101-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education"
+    ],
+    "title": "New Year's Special (Part I): Calendars!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241231NK.mp3",
+    "content": [
+      {
+        "en": "There are many days for the new year all over the world. Why? Well, different cultures use different calendars.",
+        "tw": "你知道世界新年的日子很不一樣嗎? 因為每一個文化有自己特別的月曆。",
+        "time": null
+      },
+      {
+        "en": "Today is New Year's Day on the calendar most countries use. It's solar. It uses the sun.",
+        "tw": "大部分的國家都是今天過新年，因為他們用陽曆來算時間。",
+        "time": null
+      },
+      {
+        "en": "Now it's month seven on a different calendar. Muslims use this calendar. It's lunar. It uses the moon. The new year is in June on the calendar that most countries use. It begins when a new moon comes.",
+        "tw": "但是對於伊斯蘭教徒而言，現在是陰曆的七月，他們用月亮計算時間，新年是在我們陽曆的六月。",
+        "time": null
+      },
+      {
+        "en": "In Taiwan, we say our calendar is lunar. But it's not! It uses the moon AND the sun! The new year begins when the new moon closest to the first day of spring comes. It's between January 21st and February 21st on the calendar most countries use.",
+        "tw": "那台灣也使用陰曆嗎? 其實我們的農曆，是同時用太陽跟月亮算時間! 新年會在春天第一個新月慶祝，通常在陽曆的1月21日到2月21日之間。",
+        "time": null
+      },
+      {
+        "en": "Now it's the Year of the Dragon. Soon it'll be the Year of the Snake!",
+        "tw": "現在是龍年，但我們很快就要迎接蛇年!",
+        "time": null
+      },
+      {
+        "en": "Tomorrow, we're talking about celebrations! How are you celebrating the New Year?",
+        "tw": "明天，我們要聊聊慶祝活動！你打算怎麼慶祝新年呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "不同的文化，造成有的國家用陽曆，有的用陰曆。",
+      "content": [
+        {
+          "text": "1. snake 蛇。Did you know this year is the Year of the Snake? 你可知道今年是蛇年?I thought it's the Year of the Dragon. 我以為是龍年。",
+          "time": null
+        },
+        {
+          "text": "2. January 一月。Guess I'm still stuck in last year's calendar. 我還卡在去年的月曆呢。You are always one month behind.你老是落後一個月。What's next? 之後會怎樣?Celebrating January in February? 二月時慶祝一月?",
+          "time": null
+        },
+        {
+          "text": "3. lunar 月球的。Well, at least I'm not tracking time with a lunar calendar.至少我不用陰曆計時。I like the lunar calendar! 我喜歡陰曆!",
+          "time": null
+        },
+        {
+          "text": "4. New Year 新年。It reminds me of when to eat zongzi or moon cake.它提醒我哪時候吃粽子或是月餅。My favorite one is still Lunar New Year's Eve dinner. 我最喜歡的還是年夜飯。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起複習單字。snake蛇 January一月 lunar月球的 New Year新年"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of calendar do most countries use?",
+        "options": [
+          "a. Solar",
+          "b. Lunar",
+          "c. Lunar and solar"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Who uses the calendar that's on month seven now??",
+        "options": [
+          "a. Taiwanese",
+          "b. Muslims",
+          "c. Dragons"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What does a lunar calendar use?",
+        "options": [
+          "a. The moon",
+          "b. The sun",
+          "c. The moon and the sun"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  }
+]
