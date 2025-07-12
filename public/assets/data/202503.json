@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20250303-01",
     "type": "國小",
@@ -98,6 +98,103 @@
         ],
         "time": null,
         "answer": "a"
+      }
+    ]
+  },
+  {
+    "id": "20250304-01",
+    "type": "國小",
+    "tag": [
+      "Character Education",
+      "Life Education",
+      "Integrative Activities"
+    ],
+    "title": "One-Hundred-Year-Old Man Helps Kids Every Day",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250303NK.mp3",
+    "content": [
+      {
+        "en": "At 7 a.m., kids are walking to school. Many cars and scooters are on the streets. They are going fast!",
+        "tw": "每天早上七點，很多小學生走路去上學，他們要穿越馬路，但馬路上的汽機車都趕著去上班，所以開得非常快!",
+        "time": null
+      },
+      {
+        "en": "Kids, you have to be very careful at crosswalks. Look both ways before you cross the street. Are cars coming on your right side? Are cars coming on your left side?",
+        "tw": "大家過斑馬線的時候都要非常小心哦! 要確定左右兩邊都沒有車子開過來，才可以穿越。",
+        "time": null
+      },
+      {
+        "en": "In Hsinchu, Grandpa Lo stands at a crosswalk. He's there every school day. He helps elementary school kids cross the street. He wears a yellow vest. Everyone can see him! He holds a yellow \"stop\" flag. He gives high fives to kids!",
+        "tw": "在新竹，有一位羅爺爺每天在小學旁邊的馬路，帶領小朋友過馬路，他穿著黃色背心還舉著黃色旗子，非常醒目。",
+        "time": null
+      },
+      {
+        "en": "Guess what? Grandpa Lo is 100 years old! What's his secret to living for so long? Well, it's the smiles on kids' faces. Their smiles make him happy. That's why he helps kids cross the road. He's been helping them for 20 years!",
+        "tw": "羅爺爺已經高齡一百歲了，當交通導護也有二十年了。他說長壽的祕密，就是小朋友們開心的笑容。",
+        "time": null
+      },
+      {
+        "en": "When there's heavy rain, Grandpa Lo is there. When it's very hot, Grandpa Lo is there. The weather can't stop him!",
+        "tw": "不管是下大雨，或是出大太陽，羅爺爺都會在馬路守護小朋友，他是個英雄!",
+        "time": null
+      },
+      {
+        "en": "Do you want to be strong like Grandpa Lo? He's helping kids at 100 years old!",
+        "tw": "你想像羅爺爺一樣強壯嗎？他一百歲了還在幫助孩子們！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "百歲老公公每天當志工，讓小學生安全過馬路。",
+      "content": [
+        {
+          "text": "1. cross 越過。\nEvery day, I see people cross the street here like they have nine lives.\n我每天都看到人們在這裡過馬路，好像有九條命似的。\nThey don't wait, just go. 他們都不等，只管走。",
+          "time": null
+        },
+        {
+          "text": "2. careful 小心的。\nI think it's okay.我想還好吧。\nThere are so few cars here.這裡車子很少。\nStill, you need to be careful. 還是要小心。",
+          "time": null
+        },
+        {
+          "text": "3. right 右邊，left 左邊。\nI'm always careful. 我總是很小心。\nYou are? 是嗎?\nYeah, I look to the right and left before I move. 是啊，我走之前會左看右看。",
+          "time": null
+        },
+        {
+          "text": "4. crosswalk 行人穿越道。\nThen why didn't you cross at the crosswalk? 那妳為什麼沒走行人穿越道?\nOh well… I was in a hurry. 這個嘛，我在趕時間。",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字?\ncross越過 careful小心的 right, left右邊左邊 crosswalk人行道"
+    },
+    "quiz": [
+      {
+        "question": "1. What does Grandpa Lo hold?",
+        "options": [
+          "a. A flag",
+          "b. A vest",
+          "c. A light"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What makes Grandpa Lo happy?",
+        "options": [
+          "a. Heavy rain",
+          "b. Kids' smiles",
+          "c. Fast drivers"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How long has Grandpa Lo been helping kids cross the street?",
+        "options": [
+          "a. Twelve years",
+          "b. Twenty years",
+          "c. One hundred years"
+        ],
+        "time": null,
+        "answer": "b"
       }
     ]
   }
