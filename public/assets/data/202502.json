@@ -489,5 +489,111 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20250220-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Health and Physical Education"
+    ],
+    "title": "Where You Buy Bread Isn't Important",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250219NK.mp3",
+    "content": [
+      {
+        "en": "Mmm... Taiwan has delicious bread. There are many kinds! And bread is everywhere. You can find bread at bakeries. You can find bread at convenience stores.",
+        "tw": "台灣的麵包好好吃哦！在麵包店和便利商店都買得到各式各樣的麵包。",
+        "time": null
+      },
+      {
+        "en": "Is bakery bread better for you than convenience store bread? People are talking about this. They are talking on social media. They say bread from convenience stores is bad for you. Have you heard this? Well, this is not true!",
+        "tw": "人們在社群網站上爭論：麵包店的麵包有沒有比便利商店的健康呢？許多人說便利商店的麵包對身體不好，不過，這其實是迷思！",
+        "time": null
+      },
+      {
+        "en": "Doctors want you to know the truth. Where you buy bread is not important.",
+        "tw": "醫生們希望大家知道，在哪裡買麵包不重要。",
+        "time": null
+      },
+      {
+        "en": "Some things in bread make it last longer. People are talking about them. But very, very little is in bread. These things are okay for you.",
+        "tw": "人們擔心麵包裡會加一些化學物質讓麵包保持新鮮，但其實麵包裡很少防腐劑，不會對身體造成傷害。",
+        "time": null
+      },
+      {
+        "en": "People say some bread lasts for two weeks. They say this is not good. But bread lasts because... bread factories are very, very clean!",
+        "tw": "那為什麼有一些麵包可以放兩個禮拜這麼久呢？其實是因為麵包工廠非常乾淨！",
+        "time": null
+      },
+      {
+        "en": "And bread factories are very careful. They watch everything that goes into their bread.",
+        "tw": "他們非常小心，會確保沒有任何不好的東西跑進麵包裡。",
+        "time": null
+      },
+      {
+        "en": "So don't worry! Eat some delicious bread! Eat it with fruit, vegetables, or meat. That's good for you!",
+        "tw": "所以不用擔心哦！吃點好吃的麵包吧！你可以搭配水果、蔬菜，或者肉類一起吃，這樣比較好。",
+        "time": null
+      },
+      {
+        "en": "Buy bread at the places you like. But... don't wait two weeks to eat it!",
+        "tw": "在你喜歡的地方買麵包。但是...不要等兩個禮拜才吃！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "很多人熱愛麵包，專家說趁新鮮吃比在哪裡買重要。",
+      "content": [
+        {
+          "text": "1. bakery 麵包店。\nWould you give me a minute? 你可以等我一下嗎?\nI'd like to get some bread here. 我想在這兒買點麵包。\nHere? 在這裡買?\nYeah. 對。\nYou should buy it at a bakery.你應該在麵包店買。",
+          "time": null
+        },
+        {
+          "text": "2. true 真的。\nWhy? 為什麼?\nThe bread there usually tastes better.那裏的麵包通常比較好吃。\nThat may be true, but I'm hungry now.也許是真的，不過我現在就餓了。",
+          "time": null
+        },
+        {
+          "text": "3. kind 種類。\nThe bakery I go to has many kinds of bread. 我去的那家麵包店有好多種類。\nToast, bagel, croissant…吐司,貝果,牛角麵包...",
+          "time": null
+        },
+        {
+          "text": "4. everything 一切。\nThey have everything here, too. 這裡也都有。\nEnough talking. 我說夠了。\nI just want to get my bread and eat it. 我只想去買麵包，然後吃掉。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡吃麵包還是吃飯? 來一起讀單字。\nbakery麵包店 true真的 kind種類 everything一切"
+    },
+    "quiz": [
+      {
+        "question": "1. What do doctors want you to know?",
+        "options": [
+          "a. Where you buy bread is not important.",
+          "b. Bakery bread is better.",
+          "c. Convenience store bread is better."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What are people talking about?",
+        "options": [
+          "a. Social media",
+          "b. Some things in bread",
+          "c. Delicious bread"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why does bread last?",
+        "options": [
+          "a. There's fruit in it.",
+          "b. People eat it after two weeks.",
+          "c. Bread factories are clean."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
