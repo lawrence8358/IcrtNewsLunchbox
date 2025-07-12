@@ -1496,102 +1496,6 @@
     ]
   },
   {
-    "id": "20250324-01",
-    "type": "國小",
-    "tag": [
-      "Good Health and Well-Being",
-      "Health and Physical Education"
-    ],
-    "title": "Watch Out for Sugary Drinks",
-    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250321NK.mp3",
-    "content": [
-      {
-        "en": "How much sugar is in your drinks? You might be surprised!",
-        "tw": "你知道裡面有多少糖嗎? 很驚人哦!",
-        "time": null
-      },
-      {
-        "en": "Having too many sugary drinks isn't good for you. In Taiwan, it's a top cause for kidney problems for young people. And more young people are having kidney problems than before!",
-        "tw": "喝太多含糖飲料對身體不好，糖分也是引發台灣年輕人腎臟病的頭號原因，而且越來越多年輕人有這個問題!",
-        "time": null
-      },
-      {
-        "en": "Sugary drinks are easy to find in Taiwan. Many, many shops sell them. Walk a few steps down a road. You'll see a shop that sells drinks!",
-        "tw": "這是因為台灣到處都買得到含糖飲料，每走幾步，就會看到一間手搖飲或是茶水店。",
-        "time": null
-      },
-      {
-        "en": "It's best to get drinks with no sugar. But if you like sugary drinks, doctors say the most you should have is three a week.",
-        "tw": "喝飲料時，最好點無糖的，但如果你真的想喝含糖飲料，醫生建議一星期最多喝三次。",
-        "time": null
-      },
-      {
-        "en": "Sugary drinks are worse than sugary food. Your body breaks down food. Sugar goes into your blood slowly. But your body doesn't need to break down drinks. So sugar goes into your blood fast! That's not good for you!",
-        "tw": "含糖飲料比甜點更糟糕，因為甜點被消化時，糖分會慢慢地滲透進血液，但飲料不需要被身體分解，所以糖分會快速跑進血液裡，這樣很不健康!",
-        "time": null
-      },
-      {
-        "en": "Forget sugary drinks! Water is the best drink!",
-        "tw": "忘記含糖飲料吧！水是最好的飲料！",
-        "time": null
-      }
-    ],
-    "vocabulary": {
-      "preface": "口渴的時候，喝水最好也最健康。",
-      "content": [
-        {
-          "text": "1) sugar 糖.\nWhat would you like to drink? Coffee? Tea? 你想喝什麼，咖啡還是茶?\nI'd like to have coke. 我想喝可樂。\nCoke has too much sugar.可樂含有太多糖了。",
-          "time": null
-        },
-        {
-          "text": "2) worse 比較壞的.\nMaybe a sports drink? 也許喝個運動飲料?\nIsn't that just as sugary? 那不是跟可樂一樣多糖?\nNo, coke is worse. 不會，可樂更糟糕。",
-          "time": null
-        },
-        {
-          "text": "3) how much 多少.\nHow much sugar is in coke, do you know? 可樂裡面有多少糖，你知道嗎?\nI don't. A lot, I think, because it's sweet.不知道，我想有很多，因為它很甜。",
-          "time": null
-        },
-        {
-          "text": "4) hot 熱的.\nAre you sure you don't want some nice hot tea? 你確定不想來一點好喝的熱茶?\nNo, thank you. 不了，謝謝。\nCan I have my coke now? 現在我可以喝可樂了嗎?\nOh alright. 好吧。",
-          "time": null
-        }
-      ],
-      "postscript": "你喜歡哪一種飲料呢?\nsugar糖 worse比較壞的 how much多少 hot熱的"
-    },
-    "quiz": [
-      {
-        "question": "1. What is one of the top causes of kidney problems for Taiwan's young people?",
-        "options": [
-          "a. Sugary drinks",
-          "b. Healthy vegetables",
-          "c. Fast walking"
-        ],
-        "time": null,
-        "answer": "a"
-      },
-      {
-        "question": "2. What kind of drinks are best to get?",
-        "options": [
-          "a. Drinks with sugar",
-          "b. Drinks with milk",
-          "c. Drinks with no sugar"
-        ],
-        "time": null,
-        "answer": "c"
-      },
-      {
-        "question": "3. What does our body break down?",
-        "options": [
-          "a. Sugary food",
-          "b. Sugary drinks",
-          "c. Water"
-        ],
-        "time": null,
-        "answer": "a"
-      }
-    ]
-  },
-  {
     "id": "20250325-01",
     "type": "國小",
     "tag": [
@@ -1778,6 +1682,108 @@
           "a. Running shoes",
           "b. Paper planes",
           "c. Boxing gloves"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
+    "id": "20250327-01",
+    "type": "國小",
+    "tag": [
+      "Life Below Water",
+      "Marine Education",
+      "Natural Sciences"
+    ],
+    "title": "Building to Learn About the Ocean",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250326NK.mp3",
+    "content": [
+      {
+        "en": "The ocean is very important for us. But we know little about it. Living in the ocean can help us learn more.",
+        "tw": "海洋對人類來說非常重要，要是我們住在海裡，就能對它更了解!",
+        "time": null
+      },
+      {
+        "en": "People have tried living in the ocean. But it's hard. Down in the ocean, the water pushes everything! It can break buildings!",
+        "tw": "人們試過住在海裡，不過很困難，海水的壓力很大，可能會破壞建築物!",
+        "time": null
+      },
+      {
+        "en": "Now, some people are making very strong buildings. Each building has a room for scientists, a kitchen, six bedrooms, and a bathroom. Many big, round windows let people see ocean life.",
+        "tw": "有一些人正在製造堅固的建築物，裡面有科學家工作室、廚房、六個房間、浴室，還有大大的圓形窗戶能欣賞海洋生物。",
+        "time": null
+      },
+      {
+        "en": "Each building can be connected to other buildings. Then many people can study the ocean together!",
+        "tw": "每棟建築物都連在一起，這樣很多人能夠一起研究海洋。",
+        "time": null
+      },
+      {
+        "en": "People will live in the ocean. But they will get ready in a lake first. They will try living and working deep in the lake.??",
+        "tw": "未來，人們將住在海洋裡！但在那之前，他們會先嘗試在湖底深處生活跟工作，為搬到海底做準備！",
+        "time": null
+      },
+      {
+        "en": "Scientists say people will start living in the ocean in two years. The buildings will be 200 meters down! That's too deep for diving. A small ship will take them down to the buildings. People will stay for 28 days or longer!",
+        "tw": "科學家估計兩年內，研究人員就能住在海底 200 公尺深的地方，那裡潛水到不了，需要乘坐小型的船，他們會在那裡待 28 天以上!",
+        "time": null
+      },
+      {
+        "en": "Do you want to live in the ocean and learn more about it? Maybe one day you will!",
+        "tw": "你想要住在海裡，多了解它嗎？ 也許有一天你會實現！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家希望住在海裡，可以好好研究海洋生物。",
+      "content": [
+        {
+          "text": "1. people 人們。Why do people want to live in the ocean? 為什麼有人想住在海裡? You mean underwater? 你是指在水下面? Yeah, in buildings on the seabed.對，在海床上的建築物裡面。",
+          "time": null
+        },
+        {
+          "text": "2. dive 潛水。Maybe they like to see sharks around them? 也許他們想看到鯊魚在四周? Or go diving anytime they want? 或是任何時候都可以去潛水?",
+          "time": null
+        },
+        {
+          "text": "3. study 研究。Yeah, that's what scientists hope to do! 對，科學家就希望做那些。They want to study fish.他們想研究魚類。",
+          "time": null
+        },
+        {
+          "text": "4. deep 深的。And I just want to eat fish.而我只想吃魚。You need to think deep, Jane. 你要深沉一點思考 By living in a deep place? 用住在很深的地方嗎?",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學到哪些單字? people人們 dive潛水 study研究 deep深的"
+    },
+    "quiz": [
+      {
+        "question": "1. What does water do in the ocean?",
+        "options": [
+          "a. Pushes everything",
+          "b. Pulls everything",
+          "c. Cleans everything"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What do the buildings have?",
+        "options": [
+          "a. Six bathrooms",
+          "b. Many big round windows",
+          "c. Lots of ocean life"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Where will people get ready to live in the ocean?",
+        "options": [
+          "a. A ship",
+          "b. The ocean",
+          "c. A lake"
         ],
         "time": null,
         "answer": "c"
