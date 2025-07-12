@@ -1096,5 +1096,105 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20250319-01",
+    "type": "國小",
+    "tag": [
+      "Technology",
+      "Energy Education",
+      "Technology Education",
+      "Environmental Education",
+      "Climate Action",
+      "Responsible Consumption and Production"
+    ],
+    "title": "Taiwan to Be Green Fuel Station for Planes",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250318NK.mp3",
+    "content": [
+      {
+        "en": "Planes need fuel to fly. Now planes use fuel that makes the air dirty. It's a fossil fuel. But did you know planes can use new, cleaner fuel? It makes less dirty air!",
+        "tw": "飛機需要燃料才能起飛，這些燃料產生很多空氣污染。但是你知道嗎?現在飛機也可以選擇更乾淨的環保燃料!",
+        "time": null
+      },
+      {
+        "en": "Taiwan wants to help! It's going to use cleaner fuel. This fuel is made from old cooking oil, wood, and plants. It's better for the Earth.",
+        "tw": "台灣想做出改變，使用乾淨的燃料。它來自回收的食用油、木材和植物，對空氣比較好。",
+        "time": null
+      },
+      {
+        "en": "This year, Taiwan is buying this fuel from other countries. The fuel is mixed with fossil fuel. Taiwan's airlines can use this fuel mix for their planes that fly in Taiwan. Next year, Taiwan will make its own cleaner fuel. It's trying ways to do this now.",
+        "tw": "今年，台灣從國外買回這種燃料，把它和舊的燃料混在一起使用。明年，台灣也將自己製造新的環保燃料。",
+        "time": null
+      },
+      {
+        "en": "Taiwan wants all planes to make less dirty air. By 2030, it wants Taiwan's airlines to use the fuel mix in planes flying to other countries. By 2050, it wants planes to make very little dirty air!",
+        "tw": "台灣希望飛機不再造成空氣污染。到2030年年底，台灣的所有飛機都會改用混和燃料，這樣2050年的天空會很乾淨!",
+        "time": null
+      },
+      {
+        "en": "What about planes from other countries? Well, Taiwan wants them to refuel here. It wants to become a green fuel station for planes!",
+        "tw": "那來自其他國家的飛機呢?它們降落在這裡之後可以換上新的燃料，讓台灣成為各地飛機的環保加油站!",
+        "time": null
+      },
+      {
+        "en": "A cleaner sky is coming. And Taiwan is ready to help!",
+        "tw": "更乾淨的天空即將到來。台灣也準備好提供協助！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "把飛機的燃料油，改成符合環保的燃料，對自然環境大有幫助。",
+      "content": [
+        {
+          "text": "1. country 國家.\nLook at that plane! 你看那架飛機!\nI wish I could fly to another country right now. 我希望現在就飛到另一個國家.\nMe too! To a place that's nice and quiet. 我也是，去一個安靜的好地方.",
+          "time": null
+        },
+        {
+          "text": "2. sky 天空.\nI thought you hate flying. 我以為你討厭飛行.\nNo, not really. 其實不會.\nI like it when the sky is blue.我喜歡有藍天的時候飛.",
+          "time": null
+        },
+        {
+          "text": "3. next year 明年.\nWhere would you like to go? 你想去哪裡?\nMaybe Bali.也許峇里島.\nI like Bali! 我喜歡峇里島!\nLet's go there next year. 我們明年去吧.",
+          "time": null
+        },
+        {
+          "text": "4. ready 準備好的.\nDon't you want to go now? 你不是想現在就走?\nYou're right. I'm ready. 你說得對，我準備好了.\nGive me a minute to buy tickets. 給我一分鐘來買機票.",
+          "time": null
+        }
+      ],
+      "postscript": "在台灣，想去國外旅行就需要搭飛機。\ncountry國家 sky天空 next year明年 ready準備好的"
+    },
+    "quiz": [
+      {
+        "question": "1. Why is the new fuel better for the Earth?",
+        "options": [
+          "a. It is cheap.",
+          "b. It smells nice.",
+          "c. It makes less dirty air."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where is Taiwan buying the new fuel from this year?",
+        "options": [
+          "a. Taiwan",
+          "b. Other countries",
+          "c. Green fuel stations"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What does Taiwan want planes from other countries to do?",
+        "options": [
+          "a. Refuel in Taiwan",
+          "b. Use a fossil fuel",
+          "c. Buy cooking oil"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
