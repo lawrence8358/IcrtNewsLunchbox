@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20250211-01",
     "type": "國小",
@@ -89,6 +89,101 @@
           "a. She's a doctor too.",
           "b. She was sick before.",
           "c. She lives in a hospital."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
+    "id": "20250212-01",
+    "type": "國小",
+    "tag": [
+      "Life Education"
+    ],
+    "title": "Saving Ring with Diamonds Given by Grandmothers",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250211NK.mp3",
+    "content": [
+      {
+        "en": "A man asked a woman to marry him. She said \"yes!\" He gave her a diamond ring. They were a very happy couple. The couple went to a beautiful garden. They wanted to take pictures. They were ready! They smiled.",
+        "tw": "一位男士拿出鑽石戒指，向女朋友求婚，他們非常快樂地到花園裡拍照，紀念珍貴的一刻。",
+        "time": null
+      },
+      {
+        "en": "Oh! But there was something on the man's pants. The woman quickly brushed it off. But her ring came off too!",
+        "tw": "突然，女朋友注意到未婚夫褲子黏到東西，並且幫他拍掉，糟糕!她的戒指不小心掉下去了!",
+        "time": null
+      },
+      {
+        "en": "Where was the ring? It went down a drain. This drain takes away rainwater. Would it take away the woman's ring too? The couple was sad. The ring has diamonds from their grandmothers' rings. No other ring is the same.",
+        "tw": "戒指竟然掉到排水溝裡，這對情侶非常難過，因為那枚戒指的鑽石是用阿嬤的戒指的鑽石，全世界獨一無二。",
+        "time": null
+      },
+      {
+        "en": "They called for help. Firefighters came quickly! The firefighters looked down into the drain. They saw the ring! They carefully pulled it up. The woman didn't watch. What if the ring went down the drain again?",
+        "tw": "情侶趕快向消防隊求救，消防隊員看到水溝裡亮晶晶的戒指，準備撿起來，女孩太緊張根本不敢看。消防隊究竟會不會成功呢?",
+        "time": null
+      },
+      {
+        "en": "Five minutes later, the ring was safe! And the couple was surprised. The ring was shinier! Maybe some rainwater in the drain washed it…",
+        "tw": "五分鐘之後，戒指終於被撿起來了! 這對情侶非常驚喜，戒指竟然變得更加閃亮!也許是水溝的水讓它更乾淨。",
+        "time": null
+      },
+      {
+        "en": "The couple won't forget that day! And now they can live happily ever after.",
+        "tw": "這對情侶永遠不會忘記那天！現在他們可以永遠幸福快樂地生活下去。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "訂婚戒指失而復得，讓這對情侶喜出望外!",
+      "content": [
+        {
+          "text": "1. marry 結婚。Did you hear? 你聽說了嗎? Kevin gave Sarah a diamond ring last night! 凱文昨晚送給莎拉一只鑽戒! And asked her to marry him? 向她求婚嗎? That's great news! 真是好消息!",
+          "time": null
+        },
+        {
+          "text": "2. couple 一對。Yeah, they'll make a wonderful couple. 對啊，他們會是一對佳偶。They've been together for a long time. 他們在一起好久了。",
+          "time": null
+        },
+        {
+          "text": "3. ring 戒指。So he just gave her the ring, and she said \"yes\"? 所以他就送給她戒指，然後女方答應了? I don't know. I wasn't there. 我不知道，我不在場。",
+          "time": null
+        },
+        {
+          "text": "4. beautiful 美麗的。But I heard it's a beautiful ring. 但是聽說是很漂亮的戒指。Oh, Sarah will like it very much. 莎拉一定會很喜歡的。She said she was very surprised. 她說她很驚訝",
+          "time": null
+        }
+      ],
+      "postscript": "請來一起讀單字。marry結婚 couple一對 ring戒指 beautiful美麗的"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the ring go into?",
+        "options": [
+          "a. A river",
+          "b. A drain",
+          "c. A fire"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Who found the ring?",
+        "options": [
+          "a. Police officers",
+          "b. Their grandmothers",
+          "c. Firefighters"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Why was the couple surprised?",
+        "options": [
+          "a. The ring was broken.",
+          "b. The ring was shinier.",
+          "c. The ring was bigger."
         ],
         "time": null,
         "answer": "b"
