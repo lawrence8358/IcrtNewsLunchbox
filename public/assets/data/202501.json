@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20250101-01",
     "type": "國小",
@@ -88,6 +88,109 @@
           "a. The moon",
           "b. The sun",
           "c. The moon and the sun"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  },
+  {
+    "id": "20250106-01",
+    "type": "國小",
+    "tag": [
+      "Life Below Water",
+      "Marine Education",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Sailing the Humpback Highway to Help Save Humpbacks",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250103NK.mp3",
+    "content": [
+      {
+        "en": "The Maori are New Zealand's Indigenous people. Whales are important to them. These very big ocean animals gave the Maori meat, milk, oil, and more.",
+        "tw": "毛利人是紐西蘭原住民，座頭鯨對他們很重要，它提供了鯨魚肉、奶、魚油等資源。",
+        "time": null
+      },
+      {
+        "en": "The Maori went from Polynesia to New Zealand long ago. They say whales kept them safe on the sea. So the Maori are called \"whale riders.\"",
+        "tw": "毛利人被稱為鯨魚騎士，他們認為很久以前是因為座頭鯨的保護，才能從波利尼西亞來到紐西蘭。",
+        "time": null
+      },
+      {
+        "en": "Every year, these whales swim from New Zealand to Polynesia. They swim one thousand six hundred kilometers! The way they go is called the \"humpback highway.\"",
+        "tw": "每一年，座頭鯨從紐西蘭游到波利尼西亞，總共要游一千六百公里! 這條路線被稱為「座頭鯨公路」！",
+        "time": null
+      },
+      {
+        "en": "One hundred years ago, there were twenty thousand humpback whales. There are about ten thousand now. They need to be kept safe. The Maori want the world to know this.",
+        "tw": "一百年前，有兩萬頭座頭鯨，現在只剩下大約一萬頭。毛利人希望全世界知道，這些鯨魚需要被保護。",
+        "time": null
+      },
+      {
+        "en": "They sent ten Indigenous women sailors to the humpback highway. The sailors sailed a small Polynesian ship. This kind of ship has been used for thousands of years.",
+        "tw": "毛利人派出十個女水手，搭一種有千年歷史的小船，到「座頭鯨公路」。",
+        "time": null
+      },
+      {
+        "en": "The women took DNA from the humpback highway. Now New Zealand scientists can find out which whales are swimming there.",
+        "tw": "他們收集鯨魚DNA，讓紐西蘭的科學家研究游過那裡的鯨魚。",
+        "time": null
+      },
+      {
+        "en": "The sailors were heroes helping humpbacks!",
+        "tw": "這些水手是幫助座頭鯨的英雄！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "座頭鯨是跟紐西蘭原住民毛利人關係密切，被當作保護神。",
+      "content": [
+        {
+          "text": "1. big 大的。I wonder how big a humpback whale is. 我想知道座頭鯨有多大。It's very big, about 15 meters long. 很大，有十五公尺長。Oh my, that's as long as three cars put together! 天哪，那跟三部車放在一起那麼長!",
+          "time": null
+        },
+        {
+          "text": "2. ocean 海洋。Imagine seeing that ocean giant rising by your boat. 想想看就在你的船旁邊冒出這個海洋巨獸。That would be like in a movie! 那會像在電影裡一樣。",
+          "time": null
+        },
+        {
+          "text": "3. animal 動物。You're a good swimmer. 你很會游泳。You could then swim with the animal. 就可以跟那個動物一起游泳。",
+          "time": null
+        },
+        {
+          "text": "4. people 人群。Swimming with a humpback whale? 跟座頭鯨一起游泳? No, I'd prefer to swim with people. 不了，我比較喜歡跟人游泳。",
+          "time": null
+        }
+      ],
+      "postscript": "你有親眼見過鯨魚嗎?\nbig大的 ocean海洋 animal動物 people人群"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of whale are New Zealand scientists studying?",
+        "options": [
+          "a. Humpback",
+          "b. Blue",
+          "c. Whaleshark"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What did researchers take from the sea during their trip?",
+        "options": [
+          "a. DNA",
+          "b. Trash",
+          "c. Starfish"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How far do the whales swim to Polynesia?",
+        "options": [
+          "a. One thousand six hundred kilometers",
+          "b. Ten thousand kilometers",
+          "c. Twenty thousand kilometers"
         ],
         "time": null,
         "answer": "a"
