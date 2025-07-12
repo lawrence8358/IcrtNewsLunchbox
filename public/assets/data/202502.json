@@ -806,5 +806,101 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20250227-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure"
+    ],
+    "title": "A New Bridge for New Taipei",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250226NK.mp3",
+    "content": [
+      {
+        "en": "In New Taipei, workers are building a bridge. The Tamkang Bridge is over the Tamsui River. The bridge is where the river meets the sea!",
+        "tw": "新北市建築工人正在蓋新橋，叫做淡江大橋，它橫跨淡水河，而且就蓋在河流跟大海交會的河口！",
+        "time": null
+      },
+      {
+        "en": "The city wants a beautiful bridge for this beautiful place. It wants many people to visit it. So the city asked a famous architect to plan the bridge.",
+        "tw": "新北市希望能建一座美麗的橋，吸引大家去拜訪，所以請了有名的建築師來設計。",
+        "time": null
+      },
+      {
+        "en": "The bridge will be 450 meters long. It will have a tall tower. The tower will be 200 meters high! The bridge will also be very strong. It can last 120 years!",
+        "tw": "這座橋長 450 公尺，橋塔高達 200 公尺，橋的本身也非常堅固，預計可以使用 120 年！",
+        "time": null
+      },
+      {
+        "en": "Next year, cars, trains, bicycles, and people can use the bridge! People who walk or ride bicycles can stop on the bridge. They can watch the sun go down!",
+        "tw": "預計在明年，汽車、輕軌列車、腳踏車跟行人都能夠上橋，自行車族跟行人還能在橋上停下來欣賞日落！",
+        "time": null
+      },
+      {
+        "en": "Tamkang Bridge will be a famous place to visit. How exciting! People will come from all over Taiwan and the world! They will be able to buy souvenirs at the bridge's visitor center. There may be New Years' Eve fireworks too!",
+        "tw": "淡江大橋將成為新地標，也許世界各地的人都會來欣賞，橋的遊客中心會販賣紀念品。未來，這裡還可能成為放跨年煙火的地方！",
+        "time": null
+      },
+      {
+        "en": "Many people will visit Tamkang Bridge. It will be Taiwan's new place to go! Will you go too?",
+        "tw": "許多人會參觀淡江大橋。它將成為台灣的新去處！你會去嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "淡江大橋預定明年通車，成為新北市的地標。",
+      "content": [
+        {
+          "text": "1. world 世界。Tamkang Bridge will be the most beautiful bridge in the world!淡江大橋會是世界上最美的橋。Really? 真的嗎?That's what the newspapers said? 報紙這麼說嗎?Yeah.沒錯。",
+          "time": null
+        },
+        {
+          "text": "2. ride 騎車。Then we must go and see it. 那我們一定要去看看。Sure. 當然。We can take the MRT first, 我們可以先搭捷運，and then ride our bikes there. 然後騎腳踏車過去。",
+          "time": null
+        },
+        {
+          "text": "3. visitor center 遊客中心。There's also a visitor center. 那裏還有個遊客中心。Oh, I love visitor centers. 我最愛遊客中心。I want to buy souvenirs! 我要買紀念品!",
+          "time": null
+        },
+        {
+          "text": "4. sun 太陽。We can also stay late to see the sun go down. 也可以待晚一點看夕陽。That sounds wonderful! 聽起來太讚了!",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字經常用到。world世界 ride騎車 visitor center遊客中心 sun太陽"
+    },
+    "quiz": [
+      {
+        "question": "1. What is the name of the bridge?",
+        "options": [
+          "a. Tamkang Bridge",
+          "b. New Taipei Bridge",
+          "c. Tamsui Bridge"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How tall will the bridge's tower be?",
+        "options": [
+          "a. 120 meters",
+          "b. 200 meters",
+          "c. 450 meters"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. When can people use the bridge?",
+        "options": [
+          "a. This year",
+          "b. Next year",
+          "c. Ten years from now"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
