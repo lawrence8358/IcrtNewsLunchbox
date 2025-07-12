@@ -792,6 +792,101 @@
     ]
   },
   {
+    "id": "20250116-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies"
+    ],
+    "title": "Stand on Both Sides of Escalator Steps",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250115NK.mp3",
+    "content": [
+      {
+        "en": "Escalators are moving steps. They help people go up or down easily. They are in busy places. On most escalators, two people can stand or walk on one step.",
+        "tw": "手扶梯是一種移動式的樓梯，讓人們很容易地上下樓，手扶梯會在繁忙的地方，一般來說，可以讓兩個人同時站在左右兩側。",
+        "time": null
+      },
+      {
+        "en": "But in Taiwan, most people stand on the right side. People who are in a hurry walk up the left side.",
+        "tw": "但是台灣人習慣站在右側，左側會留給趕時間的人走。",
+        "time": null
+      },
+      {
+        "en": "The MRT in Taipei wants two people to stand on each step. More people can use the escalator this way. Everyone will move faster! When everyone stands on the right, everyone moves more slowly.",
+        "tw": "台北捷運希望大家能站在左右兩邊，這樣更多人能同時用手扶梯，也會更快抵達！",
+        "time": null
+      },
+      {
+        "en": "But most people in Taipei keep standing on the right side. People say it's hard to change. Some people want to walk up the escalators.",
+        "tw": "不過改變很困難，大部分台灣人還是站在右邊，讓左邊的人快速通過。",
+        "time": null
+      },
+      {
+        "en": "Many people use big MRT stations. The escalators have signs about standing safely. But there are no signs about standing on both sides. When there's a big event, MRT workers hold up signs about this. There may be signs by escalators soon.",
+        "tw": "在比較多人使用的捷運站，以後會有告示牌，建議大家站在左右兩側。",
+        "time": null
+      },
+      {
+        "en": "Standing on both sides helps people move faster. There are no long lines at busy times. What do you think? Will you stand on the left side next time?",
+        "tw": "大家站在兩側，就不需要大排長龍等手扶梯，你下次會想試試站在左側嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "捷運站的電動扶梯，兩邊都可以站立。",
+      "content": [
+        {
+          "text": "1. stand 站立。\nNancy, why are you just standing there? 南西，你怎麼站在那裏? We need to go up the escalator. 我們得上手扶梯。 I don't trust escalators. 我不信任手扶梯。",
+          "time": null
+        },
+        {
+          "text": "2. walk 走路。\nCan't we just walk up the stairs? 我們不能走樓梯嗎? They don't move and it feels safer. 樓梯不會動，感覺比較安全。 The escalator is safe! 手扶梯很安全啊!",
+          "time": null
+        },
+        {
+          "text": "3. move 移動。\nWhat if it moves too fast? 要是它動得太快呢? It moves up or down, not \"too fast\". 它會往上或是往下，就是不會太快。",
+          "time": null
+        },
+        {
+          "text": "4. next time 下一次。\nNow come on, we have a train to catch. 來吧，我們要趕火車呢。 Okay, but next time let's take the stairs. 好啦，不過下次要走樓梯。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字每天都用得到。 stand站立 walk走路 move移動 next time下一次"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does the MRT want people to stand on escalators?",
+        "options": [
+          "a. The right side",
+          "b. Both sides",
+          "c. The middle"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What happens when people stand the way the MRT wants?",
+        "options": [
+          "a. They're safer.",
+          "b. They're faster.",
+          "c. They're slower."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What may the MRT do to help people change?",
+        "options": [
+          "a. Make escalators faster",
+          "b. Have more escalators",
+          "c. Put signs by escalators"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20250117-01",
     "type": "國小",
     "tag": [
