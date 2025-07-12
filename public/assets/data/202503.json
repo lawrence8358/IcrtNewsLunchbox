@@ -1003,5 +1003,98 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20250317-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education"
+    ],
+    "title": "Stinky Tofu for 100%",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250314NK.mp3",
+    "content": [
+      {
+        "en": "When you study hard, good things can happen!",
+        "tw": "認真讀書可能會有好事降臨哦!"
+      },
+      {
+        "en": "In Miaoli, a shop is making something good happen. Did you get 100% on your mid-term test? Yes? Great! The shop will give you stinky tofu... for free! The stinky tofu comes with homemade pickles! Mmmmm!",
+        "tw": "在苗栗，一家小吃店獎勵考一百分的學生，用甚麼獎勵呢? 免費的臭豆腐和手工泡菜! 哇!"
+      },
+      {
+        "en": "Why is the shop doing this? The owner's grandma loved learning. But she couldn't go to school. So the owner is helping kids love learning too.",
+        "tw": "這家店為什麼這麼做? 原來老闆的阿嬤喜歡上學，但她小時候沒辦法去，所以老闆決定幫助喜歡上學的小孩。"
+      },
+      {
+        "en": "How do kids get their free stinky tofu? They bring their mid-term test. They show their 100% score to the shop workers. That's easy!",
+        "tw": "孩子們只要拿著期中考卷，給老闆看自己得到了一百分，就可以免費吃臭豆腐!"
+      },
+      {
+        "en": "Families from all over Taiwan visit the shop. Kids share their stinky tofu with their families. They see pictures of other kids with their tests. Maybe their picture goes on the wall too!",
+        "tw": "很多來自台灣各地的家長帶著小孩來，一起享用臭豆腐。他們看到店裡有許多學生跟考滿分考卷的合照的相片，也許有一天，他們的相片也會貼在牆上!"
+      },
+      {
+        "en": "Parents are happy after their visit. Visiting makes their kids love studying. The kids want to do well on tests. Maybe they'll get to go to the shop again... for more free stinky tofu!",
+        "tw": "家長們回去後都很開心，他們的小孩變得更認真讀書，為了有一天能吃到免費的臭豆腐!"
+      },
+      {
+        "en": "Do you love learning? Maybe you'll get some free stinky tofu too!",
+        "tw": "你喜歡學習嗎？也許你也能獲得一些免費的臭豆腐！"
+      }
+    ],
+    "vocabulary": {
+      "preface": "假如你考試拿一百分，這家小店就請你吃臭豆腐。",
+      "content": [
+        {
+          "text": "1. homemade 自己做的. I just found a little homemade dessert shop. 我剛剛找到一家自己做的甜點小鋪. The owner makes everything nice and fresh.老闆做的東西又好又新鮮.",
+          "time": null
+        },
+        {
+          "text": "2. free 免費的. Sounds great.聽起來真棒. Do they give out free samples? 他們給人免費試吃嗎? Of course not! Desserts are expensive. 當然沒有，甜點很貴的.",
+          "time": null
+        },
+        {
+          "text": "3. shop 商店. But it's definitely worth trying. 不過非常值得去試試看. Okay, where's this wonderful shop? 好吧，這家美妙的店在哪裡?",
+          "time": null
+        },
+        {
+          "text": "4. visit 拜訪. It's close to the MRT station.它很靠近捷運站. We can visit there tomorrow. 我們可以明天去拜訪. I'll buy you a cake. 我會買蛋糕請你. Oh, can we go tonight? 我們可以今晚就去嗎?",
+          "time": null
+        }
+      ],
+      "postscript": "請來一起讀今天的單字. homemade自己做的 free免費的 shop商店 visit拜訪"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the shop?",
+        "options": [
+          "a. Miaoli",
+          "b. Chiayi",
+          "c. Puzi"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. When kids get 100% on their mid-term tests, what can they get for free at the shop?",
+        "options": [
+          "a. A stinky toy",
+          "b. A grandma",
+          "c. Stinky tofu"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Why is the shop owner giving something for free?",
+        "options": [
+          "a. To make lots of money",
+          "b. To help kids love learning",
+          "c. To take pictures"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
