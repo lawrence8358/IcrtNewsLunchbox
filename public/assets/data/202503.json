@@ -898,5 +898,110 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20250314-01",
+    "type": "國小",
+    "tag": [
+      "Law-related Education"
+    ],
+    "title": "Police Look for Who Took Peanuts",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250313NK.mp3",
+    "content": [
+      {
+        "en": "\"Hello? Hmm... no one's at home. I'll leave these peanuts at the door.\"",
+        "tw": "哈囉!有人在嗎? 沒人在家的話我就把花生留在門口吧。",
+        "time": null
+      },
+      {
+        "en": "In Changhua, a man wanted to give his friend a bag of peanuts. But his friend wasn't at home. So the man put the bag at the door of his friend's home.",
+        "tw": "在彰化，有一名男士想送朋友一袋花生，但對方不在家，所以他把花生放在門口。",
+        "time": null
+      },
+      {
+        "en": "But five minutes later, the bag was gone! Who took the peanuts? The man asked the police for help.",
+        "tw": "五分鐘後，那袋花生竟然消失了! 這名男子只好報警。",
+        "time": null
+      },
+      {
+        "en": "The police were worried. This time, someone took a bag of peanuts. But next time, the person might take money! So the police looked at hours and hours of security camera videos.",
+        "tw": "警察想到小偷這次偷花生，下次可能會偷錢! 所以他們花好幾個鐘頭看監視器錄到的影像。",
+        "time": null
+      },
+      {
+        "en": "Well, they found who took the peanuts. But it wasn't a person! It had a long tail! It meowed! It was a cat!",
+        "tw": "他們終於找到小偷，牠有長長的尾巴，還會喵喵叫... 沒錯!是隻貓咪!",
+        "time": null
+      },
+      {
+        "en": "The video showed the cat taking the bag of peanuts! The cat looked into the bag. Then it took the bag under a car. And there, it ate the peanuts!",
+        "tw": "監視器拍到貓咪偷看袋子的東西，之後把袋子拖到一台車底下，把花生吃光光!",
+        "time": null
+      },
+      {
+        "en": "The cat did something bad. But it was very cute! Awwww! So the police did not try to find it…",
+        "tw": "這隻貓咪做了壞事，但牠太可愛了! 警察當然沒有去抓牠。",
+        "time": null
+      },
+      {
+        "en": "Be careful about the things you put outside. Animals may take them!",
+        "tw": "小心你放在外面的東西。動物可能會拿走它們！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "警察找到的花生賊，是一隻貓咪。",
+      "content": [
+        {
+          "text": "1. gone 不見。Oh no, where's my purse? 糟了，我的錢包呢?I put it in my bag! 我放在背包裡的!It's not there? 不在那裏嗎?No, it's gone! 不在，它不見了!What should I do?",
+          "time": null
+        },
+        {
+          "text": "2. look at 仔細看。Call the police. 打電話給警察。How can they help? 他們能幫什麼忙?They can look at security videos. 他們可以看監視器錄影帶.",
+          "time": null
+        },
+        {
+          "text": "3. careful 小心的。And find the person who took it. 找到拿你錢包的那個人。Oh, I should be more careful!",
+          "time": null
+        },
+        {
+          "text": "4. take 拿。Wait, you took it out when you bought lunch. 等等，你買中飯時把它拿出來了。So? 所以呢?You left it at the store. 你把它留在店裡了。You're a genius!",
+          "time": null
+        }
+      ],
+      "postscript": "我們一起來讀單字。gone 不見 look at 仔細看 careful 小心的 take 拿"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did the man put the bag of peanuts?",
+        "options": [
+          "a. At the door of his friend's home",
+          "b. Under a security camera",
+          "c. In his home"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How did the police know who took the peanuts?",
+        "options": [
+          "a. They watched videos.",
+          "b. They asked friends.",
+          "c. They looked under cars."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Who took the bag of peanuts?",
+        "options": [
+          "a. The friend",
+          "b. A tail",
+          "c. A cat"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
