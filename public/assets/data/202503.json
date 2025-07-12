@@ -1885,5 +1885,130 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20250331-01",
+    "type": "國小",
+    "tag": [
+      "Life Below Water",
+      "Natural Sciences",
+      "Marine Education"
+    ],
+    "title": "Scientists Say Some Whales Can Live Long, Long Lives",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250328NK.mp3",
+    "content": [
+      {
+        "en": "Last week, we learned that bigmouth buffalo fish can live for more than one hundred years. Now scientists say that some kinds of whales can too!",
+        "tw": "之前我們學到胭脂魚可以長命百歲，科學家說有一些鯨魚也非常長壽。",
+        "time": null
+      },
+      {
+        "en": "In some kinds of whales, an earplug shows a whale's age. It's made of earwax... eeew! It can be 25 centimeters long! It gets a new layer of earwax every year. The layers show how old the whale was.",
+        "tw": "計算鯨魚年紀的方式，竟然是看牠們耳屎堆積形成的「耳塞」有多長，最長可能有 25 公分！耳屎每一年都會累積，所以科學家能從長度看出年紀。",
+        "time": null
+      },
+      {
+        "en": "About 50 years ago, scientists studied whale earplugs. They learned some whales can live more than 100 years. But... earplugs come from dead whales.",
+        "tw": "50 年前，科學家研究死掉的鯨魚的耳塞長度，判斷牠們能活超過 100 年。",
+        "time": null
+      },
+      {
+        "en": "In a new study, scientists looked at pictures of living whales. The pictures were taken over many years. When the scientists did not see a whale anymore, they guessed its age. Some whales lived more than 130 years!",
+        "tw": "在一項研究中，科學家追蹤拍攝活生生的鯨魚，當再也找不到某一隻鯨魚時，就會推測牠的年紀，有一些鯨魚活了 130 年!",
+        "time": null
+      },
+      {
+        "en": "The scientists think these whales can live for 150 years. But many whales die from being hit by ships, being hunted, or other problems caused by people.",
+        "tw": "科學家認為鯨魚可能能活 150 年，但牠們因為被船撞到、被獵捕或是因為人類而提早死掉。",
+        "time": null
+      },
+      {
+        "en": "Let's make the ocean safe for whales. Then they can live very, very long lives!",
+        "tw": "讓我們一起讓海洋對鯨魚來說是安全的，這樣牠們就能活得非常、非常久了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家發現，有些種類的鯨魚可以活兩百年。",
+      "content": [
+        {
+          "text": "1. hundred 百。\nLiving to one hundred years is a long time. 活一百年是很長一段時間。",
+          "time": null
+        },
+        {
+          "text": "For human beings, yes. 沒錯，對人類來說。",
+          "time": null
+        },
+        {
+          "text": "Most people live to 70 or 80.大部分人活到七八十歲。",
+          "time": null
+        },
+        {
+          "text": "2. year 年。\nBut whales can live to two hundred years. 但是鯨魚可以活到兩百歲。",
+          "time": null
+        },
+        {
+          "text": "Wow, they live for so long! 哇，活得真久！",
+          "time": null
+        },
+        {
+          "text": "And they don't even have to work. 還不用工作。",
+          "time": null
+        },
+        {
+          "text": "3. problem問題。\nThey do need to work. 牠們還是需要工作。",
+          "time": null
+        },
+        {
+          "text": "To look for food.去找食物。",
+          "time": null
+        },
+        {
+          "text": "That's not a problem for them.那對牠們不是問題。",
+          "time": null
+        },
+        {
+          "text": "4. safe 安全的。\nThere's a lot of food in the ocean. 海裡有很多食物啊。",
+          "time": null
+        },
+        {
+          "text": "The problem is whether they can stay safe. 問題在於牠們能不能保持安全。",
+          "time": null
+        }
+      ],
+      "postscript": "你有親眼看過鯨魚嗎?\nhundred百 year年 problem問題 safe安全的"
+    },
+    "quiz": [
+      {
+        "question": "1. What is a whale earplug made of?",
+        "options": [
+          "a. Earwax",
+          "b. Earphones",
+          "c. Earrings"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What shows a whale's age in its earplug?",
+        "options": [
+          "a. Years",
+          "b. Bones",
+          "c. Layers"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Which is the cause of problems for whales?",
+        "options": [
+          "a. Earplugs",
+          "b. Pictures",
+          "c. People"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
