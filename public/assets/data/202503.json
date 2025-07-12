@@ -1,0 +1,104 @@
+ [
+  {
+    "id": "20250303-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Outdoor Education",
+      "Natural Sciences"
+    ],
+    "title": "Too Many Green Iguanas in Taiwan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250228NK.mp3",
+    "content": [
+      {
+        "en": "There's a small dinosaur in that tree! Oh, wait. It's a green iguana! Some people keep them as pets.",
+        "tw": "天啊！樹上那個是一隻小恐龍嗎？啊，原來是綠鬣蜥，有一些人會飼養這種蜥蜴當寵物。",
+        "time": null
+      },
+      {
+        "en": "But iguanas are hard to care for. So some people don't want them anymore. They let their iguanas go free.",
+        "tw": "但是綠鬣蜥很難照顧，所以有一些人不想養，把牠們隨便棄養。",
+        "time": null
+      },
+      {
+        "en": "Then these iguanas have lots of babies. An iguana can have 20 to 70 babies in one year!",
+        "tw": "問題是這些綠鬣蜥繁殖很快，一隻綠鬣蜥一年可以生 20 到 70 個寶寶！",
+        "time": null
+      },
+      {
+        "en": "Now Taiwan has too many green iguanas. There are about 200,000! Many are in the south and center of Taiwan. They eat lots of plants on farms. That's very bad for farmers!",
+        "tw": "現在台灣有大約 20 萬隻綠鬣蜥，太多了！牠們大部分在台灣中部跟南部，會把農作物吃掉，讓農夫很頭痛！",
+        "time": null
+      },
+      {
+        "en": "Taiwan is helping these farmers. It is spending 20 million Taiwan dollars this year. It wants hunters to catch 120,000 iguanas this year!",
+        "tw": "政府今年花了 2 千萬幫助農夫，預計要抓 12 萬隻綠鬣蜥。",
+        "time": null
+      },
+      {
+        "en": "Taiwan is paying the hunters to catch iguanas. For one small iguana, hunters get 200 Taiwan dollars. For one large iguana, hunters get 500 Taiwan dollars. (SFX: jackpot)",
+        "tw": "他們的方式是獎勵抓綠鬣蜥的人。如果抓到一隻小綠鬣蜥，可以拿到兩百元，如果抓到大的就可以賺到五百元。",
+        "time": null
+      },
+      {
+        "en": "Green iguanas are hard to have as pets. They need lots of care. But if you have a green iguana, DON'T let it go free! That's bad for Taiwan!",
+        "tw": "綠鬣蜥很難當寵物養。牠們需要很多照顧。但是如果你有綠鬣蜥，不要隨意棄養牠們！這對台灣很不好！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "外來種的綠鬣蜥喜歡吃農作物，讓農夫很頭痛。",
+      "content": [
+        {
+          "text": "1. farm 農場. Wow, you have lots of pets on your farm! 哇，你的農場上有好多寵物! They are not pets. 牠們不是寵物. We raise the chickens for eggs. 我們養這些雞是為了雞蛋.",
+          "time": null
+        },
+        {
+          "text": "2. care for 照顧. And this is not my farm. 而且這也不是我的農場. It's my grandpa's. 是我阿公的. He cares for them every day. 他每天照顧牠們. It's hard work.很辛苦呢.",
+          "time": null
+        },
+        {
+          "text": "3. need 需要. Can I keep a baby chick? 我可以養一隻小雞嗎? As a pet? 當作寵物嗎? It needs a lot of care. 牠需要很多照顧. Are you ready for that? 你準備那樣做?",
+          "time": null
+        },
+        {
+          "text": "4. keep 飼養. I believe I am.我相信我可以. I've kept a duckling before.我以前養過小鴨子. It grew very well. 牠長得很好.",
+          "time": null
+        }
+      ],
+      "postscript": "你有看過真正的小雞小鴨嗎? farm農場 care for照顧 need需要 keep飼養"
+    },
+    "quiz": [
+      {
+        "question": "1. Where are there many green iguanas in Taiwan?",
+        "options": [
+          "a. The north",
+          "b. The south",
+          "c. The west"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many green iguanas does Taiwan want hunters to catch?",
+        "options": [
+          "a. 100,000",
+          "b. 120,000",
+          "c. 200,000"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many Taiwan dollars do hunters get for a small iguana?",
+        "options": [
+          "a. $200",
+          "b. $250",
+          "c. $500"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  }
+]
