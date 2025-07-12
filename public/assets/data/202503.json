@@ -495,5 +495,110 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20250310-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences"
+    ],
+    "title": "Round Eggs Wanted",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250307NK.mp3",
+    "content": [
+      {
+        "en": "Most chicken eggs are not round. One end is wide. The other end is not as wide.",
+        "tw": "大部分的雞蛋都不是圓形的，而是一邊會比另一邊更寬的橢圓形。",
+        "time": null
+      },
+      {
+        "en": "Why? A round egg rolls out of the nest. But chickens can lay round eggs. Yes, an egg can be round like a ball!",
+        "tw": "為什麼呢？要是雞蛋是圓形的，它們會從鳥巢滾出來。但其實母雞能下出跟球一樣圓的蛋！",
+        "time": null
+      },
+      {
+        "en": "Scientists say round eggs are very hard to find. They say one egg in one billion eggs is round.",
+        "tw": "科學家說圓形的蛋很稀有，大概十億顆只會有一顆蛋是圓形的！",
+        "time": null
+      },
+      {
+        "en": "But the world's chickens lay many, many billions of eggs a year! About 1,600 eggs a year may be round!",
+        "tw": "不過全世界的母雞每年都會生幾十億顆蛋，其中大概有 1600 顆是圓形的！",
+        "time": null
+      },
+      {
+        "en": "A woman went to a supermarket. She bought a box of eggs. She found a round egg in it! She was EGGS-cited!",
+        "tw": "有一名女士到超市買了一盒蛋，裡面居然有一顆圓形的蛋，太讓人興奮了！",
+        "time": null
+      },
+      {
+        "en": "She knew round eggs were hard to find. She didn't cook it. She didn't eat it. She sold it! The buyer paid more than 6,000 Taiwan dollars!",
+        "tw": "她知道圓形的蛋很稀有，所以沒有把蛋吃掉，而是賣掉，買家付了相當於六千多塊台幣來購買！",
+        "time": null
+      },
+      {
+        "en": "Then the buyer gave the egg to a group that helps young people. The group sold the egg too! It got more than 8,000 Taiwan dollars! That's EGGS-cellent!",
+        "tw": "買家把蛋送給一個幫助年輕人的組織，他們也把蛋賣出去，賺了相當於八千台幣！",
+        "time": null
+      },
+      {
+        "en": "The next time your family gets eggs, look at them. Maybe you can find a round egg too!",
+        "tw": "下次你的家人買雞蛋時，仔細看看它們。也許你也能找到一顆圓形的蛋喔！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "圓形的蛋可遇而不可求，很值錢呢!",
+      "content": [
+        {
+          "text": "1. cook 烹煮.\nHow would you like your eggs? 你想吃怎樣的蛋?\nFully cooked, of course. 當然是全熟的.\nThen I'll make boiled eggs.那我做水煮蛋.",
+          "time": null
+        },
+        {
+          "text": "2. supermarket 超市.\nWhere did you get these eggs? 這些蛋你在哪裡買的?\nAt the supermarket. Why? 超市。為什麼問?\nThey look fancy. 看起來很高檔.\nThey do cost more than the others.它們是比別的雞蛋貴.",
+          "time": null
+        },
+        {
+          "text": "3. chicken 雞.\nBut I think the taste is the same. 不過我想味道一樣.\nMy mom used to raise chickens. 我媽媽以前養過雞.\nInside the house? 在家裡養?\nNo, in the yard. 不，在院子裡.",
+          "time": null
+        },
+        {
+          "text": "4. sell 賣.\nWhat happened to them? 後來怎樣了?\nMy mom just sold them, one by one. 我媽媽把牠們一隻接著一隻賣掉了.",
+          "time": null
+        }
+      ],
+      "postscript": "你有沒有記住今天的單字?\ncook烹煮 supermarket超市 chicken雞 sell賣"
+    },
+    "quiz": [
+      {
+        "question": "1. How many eggs do the world's chickens lay a year?",
+        "options": [
+          "a. 1.6 million",
+          "b. 1.6 billion",
+          "c. 1.6 trillion"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did the woman do with her round egg?",
+        "options": [
+          "a. Cooked it",
+          "b. Ate it",
+          "c. Sold it"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How many Taiwan dollars did the group get for a round egg?",
+        "options": [
+          "a. 6,000",
+          "b. 8,000",
+          "c. 10,000"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
