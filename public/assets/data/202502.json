@@ -1,0 +1,98 @@
+ [
+  {
+    "id": "20250211-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Arts"
+    ],
+    "title": "Paintings Help People in the Hospital",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250210NK.mp3",
+    "content": [
+      {
+        "en": "Hospitals are not fun. They can make people sad. But a woman in the U.S. is making hospitals nicer. She helps people who are very sick.",
+        "tw": "醫院常常是讓人傷心的地方，但美國一個婦人用自己的方式幫助病人，讓醫院變得更好。",
+        "time": null
+      },
+      {
+        "en": "Is she a doctor? No, she's an artist. She paints big pictures on the hospital walls. The paintings look like open windows. They are not real windows. But they look real.",
+        "tw": "她並不是醫生，而是一位藝術家，她在醫院牆壁畫上逼真的窗戶，還有美麗的風景。",
+        "time": null
+      },
+      {
+        "en": "Pictures of nature are outside the windows. One picture shows a river. Other pictures show green grass, pretty flowers, and trees. The artist also paints roads outside every window.",
+        "tw": "畫中的窗戶外面有河流、草地、漂亮的花朵和大樹，或是長長的道路。",
+        "time": null
+      },
+      {
+        "en": "The paintings make people happy. They can't go outside. They are too sick. But they can look at the pictures. In their minds, they can take a trip outside. In their minds, they can go on the roads.",
+        "tw": "這些畫讓病人很開心，他們生病不能出門，但這些插畫讓他們想像自己在大自然旅行。",
+        "time": null
+      },
+      {
+        "en": "The artist also writes nice words on her paintings. The words help people think about happy things. Painting for people makes the artist happy too. She was very sick before. But now she's better. So she's helping people who are sick.",
+        "tw": "畫家也在畫作寫上鼓勵的話語，她也曾經生病住院，現在則用繪畫幫助其他病人。",
+        "time": null
+      },
+      {
+        "en": "Paintings can make hospitals a better place!",
+        "tw": "畫作能讓醫院成為一個更好的地方！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這位藝術家用她的圖畫，安慰被疾病困在醫院裡的人。",
+      "content": [
+        {
+          "text": "1. outside 在外面。\nHey, Nancy, what are you painting today? 南西，你今天畫什麼呢?\nNothing special. 沒什麼特別的。\nJust the view outside my window. 就是窗外的景色。",
+          "time": null
+        },
+        {
+          "text": "2. pretty 美麗的。\nWow, it's so pretty! 真好看!\nI love the green grass and the flowers 我喜歡那些綠草和花朵…\nexcept that there's no such thing out there. 但是外面沒有那些。",
+          "time": null
+        },
+        {
+          "text": "3. artist 藝術家。\nI'm an artist. 我是藝術家。\nI wanted my picture to look nice. 我想要我的畫很好看。\nOkay, then maybe you can add some trees. 好吧，那也許你可以加幾棵樹。",
+          "time": null
+        },
+        {
+          "text": "4. nicer 更好的。\nIt'll make your painting even nicer. 會讓你的畫更美。\nYou're right, thank you! 你說得對，謝謝!",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你可記住了? outside在外面 pretty美麗的 artist藝術家 nicer更好的"
+    },
+    "quiz": [
+      {
+        "question": "1. What does the artist paint?",
+        "options": [
+          "a. Nature",
+          "b. Sick people",
+          "c. Pets"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Why does the artist paint?",
+        "options": [
+          "a. To go on a trip",
+          "b. To make money",
+          "c. To make people happy"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What is true about the artist?",
+        "options": [
+          "a. She's a doctor too.",
+          "b. She was sick before.",
+          "c. She lives in a hospital."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  }
+]
