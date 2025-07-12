@@ -402,5 +402,98 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20250307-01",
+    "type": "國小",
+    "tag": [],
+    "title": "A Cemetery's Secret About Women",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250306NK.mp3",
+    "content": [
+      {
+        "en": "Scientists found a cemetery in England. It was two thousand years old! A group of people had used it for three hundred years. The scientists studied their DNA.",
+        "tw": "科學家在英國發現一座兩千年前的墓園，並且曾經有一群人使用這座墓園長達三百年！",
+        "time": null
+      },
+      {
+        "en": "The DNA showed many people were from one family. There were grandparents, parents, daughters, sons, aunts, uncles, cousins, and more!",
+        "tw": "科學家檢驗這些人的DNA，了解大部分的人都是來自同一個家族，有祖父母、父母、子女、表兄弟姐妹等等。",
+        "time": null
+      },
+      {
+        "en": "But there was a surprise! The people were not from their father's family. They were from their mother's family! It was the first time scientists found this kind of group.",
+        "tw": "更特別的是，這些親戚是來自媽媽那邊，這是科學家第一次發現這樣的族群。",
+        "time": null
+      },
+      {
+        "en": "The scientists think women were important to the group. Women made the group strong. They married men from other groups. But they did not go to the other groups. The husbands came to live with them.",
+        "tw": "科學家認為，女性在這個群體裡很重要，她們跟別的部落男子結婚，但是她們不會到別的部落去，反而是丈夫來到妻子家裡，跟她的家人一起生活。",
+        "time": null
+      },
+      {
+        "en": "The women in the group were farmers. The scientists think they gave their land and other things to their daughters. The women were good fighters too. Maybe they helped keep their group safe!",
+        "tw": "在這個族群裡，婦女還要負責種田，並且由女兒繼承財產。這些婦女也許還會保護家族安全！",
+        "time": null
+      },
+      {
+        "en": "Tomorrow, March 8th, is International Women's Day. Like those women long ago, many women today make their families strong and safe. Let's say \"thank you\" to women everywhere!",
+        "tw": "明天，3月8日，是國際婦女節。就像很久以前的那些女性一樣，許多今天的女性也讓她們的家庭強大而安全。讓我們向各地的女性說聲「謝謝」！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這座古老的墓園，證明兩千年前的英國曾經有母系社會。",
+      "content": [
+        {
+          "text": "1. parents 爸爸媽媽.\nWhat did your parents want you to be? 你爸媽想要你做什麼?\nOh, they wanted me to be a scientist. 他們想要我當科學家。\nBut they have long given up that idea.不過他們早就放棄了那個想法。",
+          "time": null
+        },
+        {
+          "text": "2. uncle 伯伯或是叔叔.\nBecause of your schoolwork? 是因為你的學校功課嗎?\nNo, because they saw my uncle's success. 不是，是因為他們看到我叔叔的成功。",
+          "time": null
+        },
+        {
+          "text": "3. family 家庭.\nHe's a video game designer. 他設計電玩。\nSo cool! 好酷!\nWhat about your family? 你家如何呢?",
+          "time": null
+        },
+        {
+          "text": "4. father 父親.\nMy father wants me to study something \"safe.\" 我爸要我讀「安全」的學科。\nSafe as in boring? 安全意思是無聊嗎?\nYeah, like banking.對啊，比如說銀行學。\nCounting money is not boring! 數錢不無聊啊!",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字都跟親人有關。 parents爸爸媽媽 uncle伯伯或是叔叔 family家庭 father父親"
+    },
+    "quiz": [
+      {
+        "question": "1. Whose DNA did the scientists study?",
+        "options": [
+          "a. A group of women",
+          "b. A group of men",
+          "c. A group of people"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What happened when a woman in the group married?",
+        "options": [
+          "a. She did not go to another group.",
+          "b. She went to another group.",
+          "c. She lived alone."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What day is International Women's Day?",
+        "options": [
+          "a. March seventh",
+          "b. March eighth",
+          "c. March ninth"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
