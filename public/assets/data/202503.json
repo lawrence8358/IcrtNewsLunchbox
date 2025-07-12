@@ -802,5 +802,101 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20250313-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure"
+    ],
+    "title": "A Train Turned Into a Bakery!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250312NK.mp3",
+    "content": [
+      {
+        "en": "In Kaohsiung, a baker sold bread online. Many people liked her bread. But she wanted to try something new. Now, she has a bakery and cafe on an old train!",
+        "tw": "在高雄，有一位麵包師傅在網路上賣麵包，很受歡迎，但她想試試新的東西，現在，她在老火車上開了自己的麵包店！",
+        "time": null
+      },
+      {
+        "en": "This train is in Hamasen Railway Cultural Park. The park has many cool old trains. Lots of people go there to see the trains. Now they can eat delicious bread in the bakery too!",
+        "tw": "這節火車在高雄的哈瑪星鐵道園區，那裡有很多很酷的火車，吸引很多遊客，現在遊客還能享用好吃的麵包！",
+        "time": null
+      },
+      {
+        "en": "The bakery is very long. One part is for selling bread. One part is for people who buy bread. It has tables and chairs. People can sit down and eat.",
+        "tw": "這是一間很長的麵包店，一部份是賣麵包的地方，另一部份則有桌椅，讓買麵包的客人坐著享用。",
+        "time": null
+      },
+      {
+        "en": "The train is from the Lingang Line. It carried supplies a long time ago. Now it is a place for snacks and relaxing! Everyone loves the new bakery. It's fun and different!",
+        "tw": "火車很久以前在臨港線行駛，用來載貨物，現在則成為享用麵包和放鬆的地方，大家都很喜歡！",
+        "time": null
+      },
+      {
+        "en": "Other trains have been changed too. They are all part of the railway park. People can see the outside and inside of the trains!",
+        "tw": "其他的火車也被改造成不同的樣子，在鐵道園區都可以參觀哦！",
+        "time": null
+      },
+      {
+        "en": "If you visit Kaohsiung, you can go to this bakery train. You can also enjoy the park and learn about trains. It's a fun place to visit!",
+        "tw": "如果你造訪高雄，可以去這個麵包火車。你也可以享受公園並了解火車。這是個好玩的地方！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "火車麵包店這個新點子，很受歡迎。",
+      "content": [
+        {
+          "text": "1. train 火車。\nIsn't it a great idea? 這可不是個好主意?\nTo enjoy some snacks on a train? 在火車上享用點心?\nIt's great, but I hope the train will go somewhere.\n是很好，但是我希望火車能去個什麼地方。",
+          "time": null
+        },
+        {
+          "text": "2. cafe 咖啡館。\nYou mean on a real train? 你是說真正的火車?\nYeah, I'd like to have breakfast in a cafe on a train.",
+          "time": null
+        },
+        {
+          "text": "3. relax 放鬆。\nAnd watch the mountains or deserts outside. 並且看窗外的高山或是沙漠。\nTrain trips are just fun and relaxing.",
+          "time": null
+        },
+        {
+          "text": "4. lots of 很多的。\nHey, there are lots of train trips in Asia if you Google!\n你谷歌就會看到好多亞洲的火車行程。\nLet's go to Thailand next time. 我們下次去泰國吧。",
+          "time": null
+        }
+      ],
+      "postscript": "你搭火車去過哪些地方?\ntrain火車 cafe咖啡館 relax放鬆 lots of很多的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did the baker sell bread first?",
+        "options": [
+          "a. At a cafe",
+          "b. At a bakery",
+          "c. Online"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where is the bakery?",
+        "options": [
+          "a. A train station",
+          "b. A train",
+          "c. Tables and chairs"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What was the train used for long ago?",
+        "options": [
+          "a. People",
+          "b. Visitors",
+          "c. Supplies"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
