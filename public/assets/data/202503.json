@@ -1394,5 +1394,105 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20250321-01",
+    "type": "國小",
+    "tag": [
+      "Safety Education"
+    ],
+    "title": "Fisherman Catches a Woman",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250320NK.mp3",
+    "content": [
+      {
+        "en": "Swimming in the ocean can be fun. But you have to be very careful. It's not like swimming in a swimming pool or a lake. It can be dangerous. The waves can be very strong. They can push you out far from the beach!",
+        "tw": "在海裡游泳聽起來很好玩，但比游泳池危險很多，一不小心，海浪可能把你推到離岸很遠的地方！",
+        "time": null
+      },
+      {
+        "en": "That's what happened to one woman. She went swimming in the ocean. Strong waves pushed her out too far! She couldn't swim back to the beach!",
+        "tw": "這發生在一位女士的身上，她在海裡游泳時，被海浪帶得太遠，怎麼樣都游不回去！",
+        "time": null
+      },
+      {
+        "en": "A fisherman was at the beach. He saw the woman. He got his fishing rod. He put a big hook on the fishing line.",
+        "tw": "一名漁夫在海灘上，遠遠地看到這個女人，他趕緊拿出釣竿，在釣魚線上掛上一個大鉤子。",
+        "time": null
+      },
+      {
+        "en": "The fisherman ran into the water. He tried to catch the woman many times with the hook. But he couldn't catch her!",
+        "tw": "漁夫拿著釣竿跑進海裡，他試著用釣竿把女士勾回來，但一直不成功。",
+        "time": null
+      },
+      {
+        "en": "Then the hook caught the woman's jeans! The fisherman pulled her back to the beach, like a fish!",
+        "tw": "終於！釣鉤勾到她的牛仔褲，成功地把她拉回岸上，像是釣魚一樣！",
+        "time": null
+      },
+      {
+        "en": "Wow! That fisherman is a hero. He saved the woman's life! She was lucky he was at the beach. And she was very lucky he was good at fishing!",
+        "tw": "漁夫成了這位女士的救命恩人！她非常幸運，釣魚功夫一級棒的漁夫，剛好在沙灘上。",
+        "time": null
+      },
+      {
+        "en": "Enjoy swimming in the ocean. But remember to be very careful!",
+        "tw": "享受在海裡游泳的樂趣，但請記得要非常小心！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這名漁夫急中生智，用吊鉤把女士救回岸上。",
+      "content": [
+        {
+          "text": "1) beach 海灘。\nWow, I love this beach! 哇，我喜歡這個海灘。\nThe sand is so clean, and the water so blue! 沙子好乾淨，海水又那麼藍!\nYeah, perfect for swimming.對啊，完美的游泳地點。",
+          "time": null
+        },
+        {
+          "text": "2) wave 海浪。\nI'm not going into the water. 我可不要下水。\nThe waves are too strong for me. 海浪對我來說太大了。\nOkay, I'm going in. 好，那我要下水囉。",
+          "time": null
+        },
+        {
+          "text": "3) far from 距離很遠。\nDon't get too far from the beach. 不要離海灘太遠。\nThere's no lifeguard here.這裡沒有救生員。",
+          "time": null
+        },
+        {
+          "text": "4) save 拯救。\nWill you save me? 你會不會救我?\nNo, I can't even save myself! 不會，我連自己都救不了!\nCome back if you're not sure! 你沒有把握的話就回來!",
+          "time": null
+        }
+      ],
+      "postscript": "beach海灘 wave海浪 far from距離很遠 save拯救"
+    },
+    "quiz": [
+      {
+        "question": "1. Where was the woman swimming?",
+        "options": [
+          "a. The ocean",
+          "b. A lake",
+          "c. A swimming pool"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What did the fisherman's hook catch?",
+        "options": [
+          "a. A woman's shoes",
+          "b. A woman's skirt",
+          "c. A woman's jeans"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What can we learn from the story?",
+        "options": [
+          "a. Swim with fishermen.",
+          "b. Be careful when swimming in the ocean.",
+          "c. Wear jeans when swimming."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
