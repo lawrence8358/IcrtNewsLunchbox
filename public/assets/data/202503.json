@@ -1789,5 +1789,101 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20250328-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Health and Physical Education"
+    ],
+    "title": "Taiwan's New Professional Sports League",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250327NK.mp3",
+    "content": [
+      {
+        "en": "Taiwan loves volleyball! We play it on the beach! We play it indoors! We play it outdoors in parks! And now there's something new and exciting for Taiwan's volleyball players and fans!",
+        "tw": "台灣人很喜歡排球，我們會在沙灘、室內、公園玩，現在有個大好消息，讓台灣的排球選手和粉絲很期待!",
+        "time": null
+      },
+      {
+        "en": "Taiwan has a professional volleyball league now! Can you guess what it's called? It's called the Taiwan Professional Volleyball League! It's TPVL for short.",
+        "tw": "台灣現在有個職業排球聯盟，英文簡稱TPVL!",
+        "time": null
+      },
+      {
+        "en": "In professional leagues, the players get paid! In the TPVL, their job is to win volleyball games. They win by getting better and better at volleyball.",
+        "tw": "TPVL球員的工作，就是贏得比賽，所以他們很努力練習。",
+        "time": null
+      },
+      {
+        "en": "The TPVL has four teams. The teams are from Taipei, Taoyuan, Taichung, and Kaohsiung. Each team will play 48 games. That's a lot of volleyball! Fans in Taiwan will enjoy watching the TPVL on TV!",
+        "tw": "TPVL有四個球隊，來自台北、桃園、台中和高雄，每一隊要打 48 場比賽這麼多! 排球迷可以用電視欣賞比賽。",
+        "time": null
+      },
+      {
+        "en": "The TPVL wants players from other countries too. That will help teams get better. It will also help teams get fans from other countries!",
+        "tw": "TPVL也聘僱外國球員，讓球隊更厲害，還能吸引國際粉絲來一起加油!",
+        "time": null
+      },
+      {
+        "en": "Cheer for your team in the TPVL, Taiwan's first professional volleyball league!",
+        "tw": "為你的TPVL隊伍歡呼吧，台灣第一個職業排球聯盟！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "排球現在有了職業聯盟，讓粉絲很開心!",
+      "content": [
+        {
+          "text": "1. play 打球或是玩球。 Hey, Jane, do you want to play volleyball this weekend? 你這周末想打排球嗎? Volleyball? That sounds fun! 排球? 聽起來很好玩!",
+          "time": null
+        },
+        {
+          "text": "2. indoors 室內。 Where are we playing? Indoors or at the beach? 我們在哪裡玩? 室內還是沙灘? There's a gym down the road. 這條路過去一點就有健身房。 We can play there.可以在那裏玩。",
+          "time": null
+        },
+        {
+          "text": "3. player 球員。 Then you need 12 players in all. 那你總共需要12名球員。 No, we don't need that many. 不，不需要那麼多人。",
+          "time": null
+        },
+        {
+          "text": "4. team隊伍。 You and I will be one team, and I'll find another two. 你跟我一隊，我另外再找兩個人。 Uh, you don't want to be on my team.你不會想跟我同一隊。 Why not? 為什麼不會? I've never played volleyball before. 我從來沒打過排球。",
+          "time": null
+        }
+      ],
+      "postscript": "你會打排球嗎? play打球或是玩球 indoors室內 player球員 team隊伍"
+    },
+    "quiz": [
+      {
+        "question": "1. What is TPVL short for?",
+        "options": [
+          "a. Taiwan's Play Volleyball League",
+          "b. Taiwan Professional Volleyball League",
+          "c. Taiwan Players Volleyball League"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What is the job of TPVL players?",
+        "options": [
+          "a. To win games",
+          "b. To cheer teams",
+          "c. To watch TV"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many TPVL teams are there?",
+        "options": [
+          "a. 448",
+          "b. 48",
+          "c. 4"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
