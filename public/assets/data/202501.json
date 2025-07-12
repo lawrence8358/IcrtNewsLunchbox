@@ -590,96 +590,101 @@
     ]
   },
   {
-    "id": "20250114-01",
+    "id": "20250113-01",
     "type": "國小",
     "tag": [
-      "Good Health and Well-Being",
-      "Health and Physical Education",
-      "Natural Sciences"
+      "Natural Sciences",
+      "Environmental Education",
+      "Industry, Innovation and Infrastructure"
     ],
-    "title": "Exercise is Good for the Brain",
-    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250113NK.mp3",
+    "title": "Making Clothes Colors Better for the Earth",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250110NK.mp3",
     "content": [
       {
-        "en": "Exercise is good for our bodies. It helps make us healthy. It helps us fight sickness. It makes our bodies stronger! And it makes our brains bigger too! What?",
-        "tw": "我們都知道運動對身體很好，讓我們更強壯健康，但是你知道運動也會讓腦袋長大嗎？",
+        "en": "Making Clothes Colors Better for the Earth Our clothes are many colors: blue pants, red dresses, yellow shirts. They look great! But giving clothes color is bad for the Earth.",
+        "tw": "我們的衣服五顏六色，但是把衣服染色其實對地球很不好。",
         "time": null
       },
       {
-        "en": "Scientists studied ten thousand people. The youngest was 18 years old. The oldest was 97. The scientists asked them about exercise. How many times a week did they exercise? How hard did they exercise?",
-        "tw": "科學家找了一萬個人做測試，他們的年紀介於十八歲到九十七歲，科學家問他們每個星期運動幾次？還有喜歡做什麼運動？",
+        "en": "Most clothes are made of cloth. Dye gives cloth a color. How? Dye goes into a lot of water. Then cloth goes into the colored water.",
+        "tw": "衣服是用布料做成的，我們將染劑放進水裡，再把布料浸泡到水裡染色。",
         "time": null
       },
       {
-        "en": "Then the scientists used a machine. It let them look at the people's brains. The scientists found that people who exercised had bigger brains.",
-        "tw": "然後科學家用機器測量他們的腦袋，發現常常運動的人腦袋比較大顆！",
+        "en": "But dye makes the water dirty. Every year, dye makes five trillion liters of water dirty. That's how much water all the people in Taiwan use in two years!",
+        "tw": "但是這些染料會讓水髒掉，每一年，染劑會污染五兆公升的水，大概是全部台灣人兩年會用到的水量！",
         "time": null
       },
       {
-        "en": "They also found a little exercise can make brains bigger. Exercising two or three times a week is good! People can walk fast or move more. They don't have to run or exercise hard.",
-        "tw": "而且不用很激烈的健身，只要一個星期運動兩三次，像是快走或是多動動，就能幫助腦袋長大。",
+        "en": "It's hard to clean dye from water. The dirty water goes into lakes, rivers, and the sea. Plants need sunlight to grow. Dye in the water stops sunlight from getting to plants.",
+        "tw": "把染劑從水裡清乾淨超困難，髒水會流到河流或大海，也會讓植物照不到它們需要的陽光。",
         "time": null
       },
       {
-        "en": "Many bigger brains are healthier. And bigger brains work better! This makes exercise very important.",
-        "tw": "比較大的腦袋，反應更快也更健康，所以運動真的很重要！",
+        "en": "Are there good ways to give cloth color? Well, one company made a machine. It gives color to cloth with very little water. How? Dye goes onto cloth. The machine is like a big printer!",
+        "tw": "有沒有辦法用環保的方式染衣服呢？有！有一間公司做了很像印表機的機器，只要很少的水，就可以將染料直接印在衣服上。",
         "time": null
       },
       {
-        "en": "So try to exercise, if you can. It's good for your body and brain. Tell your parents and grandparents to exercise more, if they can. Everybody wants a better brain, right?",
-        "tw": "所以，如果你可以的話，試著運動吧。它對你的身體和大腦都有好處。如果你父母和祖父母可以的話，告訴他們多運動。每個人都想要一個更好的大腦，對吧？",
+        "en": "Taiwan makes a lot of cloth. A Taiwanese company is using this machine in Taiwan now!",
+        "tw": "台灣製作很多布料，有一間公司正在用這樣的機器做衣服！",
+        "time": null
+      },
+      {
+        "en": "Maybe one day many companies will use this machine. Then a lot of water won't become dirty!",
+        "tw": "也許有一天，很多公司都會使用這台機器。這樣一來，就不會有大量的水被污染了！",
         "time": null
       }
     ],
     "vocabulary": {
-      "preface": "運動可以增加腦容量，增強記憶力。",
+      "preface": "染料是化學物質，會破壞自然環境。",
       "content": [
         {
-          "text": "1. brain 腦袋。\nShould we walk or take the MRT? 我們走路還是搭捷運?\nLet's walk.我們走路吧。It'll clear up my brain.可以讓我的腦袋清楚一點。",
+          "text": "1. water 水。\nDid you see the river today? 你今天有沒有看到那條河? The water looked so strange! 河水看起來好奇怪。\nOh no, what happened? 糟糕，發生了什麼事?",
           "time": null
         },
         {
-          "text": "2. body 身體。\nMy brain is foggy too.我的腦袋也霧霧的。\nLuckily my body works well. 我的身體倒是很好，運氣不錯。",
+          "text": "2. red 紅色，blue 藍色。\nI think someone put waste water into the river.\n我覺得有人把廢水倒進了河裡。\nIt was full of colors-red, blue and a bit of yellow.\n它有很多顏色，紅的藍的，還有一點兒黃色。",
           "time": null
         },
         {
-          "text": "3. how many times 幾次。\nHow many times do you work out every week? 你每個星期運動幾次?\nJust four times.只有四次。\nThat's still a lot. 還是很多呢。",
+          "text": "3. dirty 骯髒的。\nThat's terrible! 糟透了!\nThe river must be quite dirty now. 那條河現在一定很髒。",
           "time": null
         },
         {
-          "text": "4. oldest 最老的。\nThe oldest guy at my gym is 87, I think.\n我的健身房年紀最大的男生我想有八十七歲了。\nHe's there every day! 他每天都在那裏!\nWow, I hope I can be that strong at 87. 哇，我希望我八十七歲時也那麼壯!",
+          "text": "4. company 公司。\nThe company that did it should be punished. 應該處罰做這件事的公司。\nI agree.我同意。",
           "time": null
         }
       ],
-      "postscript": "Do you exercise every week? 請跟我讀單字。\nbrain腦袋 body身體 how many times幾次 oldest最老的"
+      "postscript": "今天的單字很容易記。\nwater水 red紅色，blue藍色 dirty骯髒的 company公司"
     },
     "quiz": [
       {
-        "question": "1. How many people did scientists study?",
+        "question": "1. Why is dye bad for plants?",
         "options": [
-          "a. 1,000",
-          "b. 10,000",
-          "c. 15,000"
+          "a. They can't make food.",
+          "b. They can't swim.",
+          "c. They can't be cleaned."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How many trillions of liters of water does dye make dirty every year?",
+        "options": [
+          "a. 3",
+          "b. 5",
+          "c. 8"
         ],
         "time": null,
         "answer": "b"
       },
       {
-        "question": "2. What makes brains bigger?",
+        "question": "3. How does the machine work?",
         "options": [
-          "a. Our bodies",
-          "b. Exercise",
-          "c. A machine"
-        ],
-        "time": null,
-        "answer": "b"
-      },
-      {
-        "question": "3. Why are bigger brains good?",
-        "options": [
-          "a. They are heavier.",
-          "b. They are younger.",
-          "c. They are healthier."
+          "a. Cloth goes into dye.",
+          "b. Dye goes into water.",
+          "c. Dye goes onto cloth."
         ],
         "time": null,
         "answer": "c"
