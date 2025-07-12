@@ -690,5 +690,105 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20250115-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences"
+    ],
+    "title": "Looking for Gold in New Taipei",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250114NK.mp3",
+    "content": [
+      {
+        "en": "Ugh! There's so much sand! My hands are tired. And I'm so cold. Maybe there isn't any … Wait! I see a shiny rock. It looks like gold! Woohoo!!",
+        "tw": "吼！好多沙子，挖得我手好酸，這裡怎麼可能會有...等等！這閃亮亮的石頭，該不會是黃金！",
+        "time": null
+      },
+      {
+        "en": "People are hurrying to a river in New Taipei. Many people think there's gold there. So they are trying to find it.",
+        "tw": "很多人都趕到新北市一條河流尋寶，因為他們相信那裡有黃金。",
+        "time": null
+      },
+      {
+        "en": "Why is there gold in the river? Well, people say it came down from the mountains.",
+        "tw": "為什麼河流會有黃金呢？因為河流從山上流下來，山上可能有黃金。",
+        "time": null
+      },
+      {
+        "en": "The price of gold is going up and up. People at the river think they can find gold. Then they want to sell it. But it's not easy to find. Many shiny rocks are not gold!",
+        "tw": "黃金價格越來越高，誰能找到就能賺一大筆錢。但是黃金可不好找！",
+        "time": null
+      },
+      {
+        "en": "Looking for gold is a lot of work. People dig up sand. They put the sand in a pan. They shake it. Maybe there's a little gold. Maybe there isn't!",
+        "tw": "人們會挖起沙子，放進平底鍋裡搖ㄧ搖，看看有沒有黃金小顆粒，但他們可能會失望。",
+        "time": null
+      },
+      {
+        "en": "Looking for gold is also dangerous. The river is fast and strong. The water is very cold. Lots of dirt and rocks can come down the mountains. And floods can happen very fast.",
+        "tw": "找黃金其實也很危險，因為河水又快又急，可能會有洪水，很多石頭也會隨著河水滾下來。",
+        "time": null
+      },
+      {
+        "en": "Do you want to find gold? Well, don't think about it! It's dangerous! Do something safe!",
+        "tw": "你想要找到黃金嗎？嗯，別考慮了！那很危險！做些安全的事吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "颱風過後，在大水沖刷之下，河流裡有可能浮現黃金。",
+      "content": [
+        {
+          "text": "1. river 河流。\nWow, people have found gold in a small river! 哇，有人在小河裡找到黃金。\nWhere? I want to see it.在哪裡?我想要看。",
+          "time": null
+        },
+        {
+          "text": "2. dig 挖掘。\nYou just want to see the gold,你只想看黃金，\nor you want to dig it up yourself? 還是想自己去挖?\nCan I do both? 我可以兩個都要嗎?",
+          "time": null
+        },
+        {
+          "text": "3. shake 搖晃。\nBut it takes a lot of work. 不過需要做很多事。\nYou have to do a lot of shaking to get the gold from the sand。你得用力搖，從泥沙裡淘金。",
+          "time": null
+        },
+        {
+          "text": "4. pan 盆子。\nWhat do I need? 我需要什麼呢?\nLet me get my pan.我去拿我的盆子。\nThat's so nice of you! 你人真好!\nNo problem. Just share the money with me. 沒問題，只要跟我分錢就好。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\nriver河流 dig挖掘 shake搖晃 pan盆子"
+    },
+    "quiz": [
+      {
+        "question": "1. Where are people digging for gold?",
+        "options": [
+          "a. A river",
+          "b. A beach",
+          "c. An ocean"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What is happening with the price of gold?",
+        "options": [
+          "a. It's going up.",
+          "b. It's staying the same.",
+          "c. It's going down."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Why is the river dangerous for looking for gold?",
+        "options": [
+          "a. It's warm.",
+          "b. It's fast.",
+          "c. It's safe."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
