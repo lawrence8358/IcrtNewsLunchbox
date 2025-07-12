@@ -191,6 +191,102 @@
     ]
   },
   {
+    "id": "20250218-01",
+    "type": "國小",
+    "tag": [
+      "Zero Hunger",
+      "Natural Sciences"
+    ],
+    "title": "Saving Giant Yams",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250217NK.mp3",
+    "content": [
+      {
+        "en": "Many plants have roots. Roots grow underground. Some roots are vegetables. Carrots and potatoes are root vegetables. Yams are big root vegetables!",
+        "tw": "你知道我們吃的一些蔬菜，像胡蘿蔔跟馬鈴薯，是其他植物的根嗎?它們在地底下生長，而好吃的地瓜就是一種大型根莖類蔬菜。",
+        "time": null
+      },
+      {
+        "en": "In India, Indigenous women are saving giant yams! A long time ago, their Indigenous group ate yams every day. Families cooked them in many ways. But now, the group eats yams less and less. The group eats rice and bread.",
+        "tw": "在印度，一些原住民婦女正在拯救大地瓜! 以前原住民族每天吃地瓜，但現在他們改吃米飯和麵包，地瓜變得不受重視。",
+        "time": null
+      },
+      {
+        "en": "The women want people to like yams and other root vegetables again. They find plants and grow them. They have found one hundred eighty kinds of root vegetables!",
+        "tw": "這些婦女希望大家重新愛上番薯跟其他根莖類蔬菜，所以她們總共找了 180 種根莖類蔬菜，並開始種植。",
+        "time": null
+      },
+      {
+        "en": "Growing root vegetables is hard work. The women dig all day. They use tools... and their hands. Some yams are taller than the women!",
+        "tw": "種根莖類植物很辛苦，要整天用工具跟雙手挖土。但她們很成功，有一些番薯甚至長得比她們還要高!",
+        "time": null
+      },
+      {
+        "en": "Sometimes monkeys and elephants eat the plants. Too much rain and heat are bad for the plants too. But the women don't give up.",
+        "tw": "有時候猴子跟大象會偷吃這些植物，印度的大雨跟高溫也對地瓜不好，但這些婦女從不放棄。",
+        "time": null
+      },
+      {
+        "en": "Every year, there's a big festival. It's about indigenous vegetables. The women show visitors their yams. These women are heroes! They are saving giant yams for everyone!",
+        "tw": "每年都會舉辦一個大型節慶，主題是關於原住民蔬菜。這些婦女會向遊客展示她們的地瓜。這些婦女是英雄！她們正在為大家拯救大地瓜！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這些原住民希望拯救大地瓜.",
+      "content": [
+        {
+          "text": "1. rain 雨。\nI spent 500 NT just on vegetables today! 我今天花了五百塊買蔬菜。\nYeah, they are getting more expensive. 對啊，蔬菜越來越貴。\nThere's too much rain. 雨下得太多了。",
+          "time": null
+        },
+        {
+          "text": "2. potato 馬鈴薯。\nI should just buy carrots and potatoes.我應該只買胡蘿蔔跟馬鈴薯的。\nTheir price doesn't go up or down.它們的價錢不會忽上忽下。",
+          "time": null
+        },
+        {
+          "text": "3. eat 吃。\nI remember the beef soup you made. 我記得你做的牛肉湯。\nWith carrots, potatoes and onions. 裡面有胡蘿蔔,馬鈴薯跟洋蔥。\nIt was so good! 很好吃呢。\nI know. You ate a lot.我知道，你吃了不少。",
+          "time": null
+        },
+        {
+          "text": "4. hard 辛苦的。\nMaybe I can grow some vegetables myself. 也許我可以自己種一些蔬菜。\nThat's hard work. 那很辛苦。\nNo, it's not. I've done it before. 不會，我以前種過。",
+          "time": null
+        }
+      ],
+      "postscript": "你記住了今天的單字嗎?\nrain雨 potato馬鈴薯 eat吃 hard辛苦的"
+    },
+    "quiz": [
+      {
+        "question": "1. What are yams?",
+        "options": [
+          "a. Fruit",
+          "b. Rice",
+          "c. Vegetable"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What animals eat the women's yam plants?",
+        "options": [
+          "a. Monkeys",
+          "b. Cows",
+          "c. Goats"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many kinds of roots have the women found?",
+        "options": [
+          "a. 80",
+          "b. 180",
+          "c. 280"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20250219-01",
     "type": "國小",
     "tag": [
