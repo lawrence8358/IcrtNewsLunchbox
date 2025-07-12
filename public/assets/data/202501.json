@@ -292,5 +292,103 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20250107-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Technology Education",
+      "Technology",
+      "Natural Sciences"
+    ],
+    "title": "Drones Kill Fire Ants in Taiwan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250106NK.mp3",
+    "content": [
+      {
+        "en": "Do you live near fire ants? Be careful! These ants are worse than other ants. They bite! Then they sting! Three to seven times! OUCH! That hurts a lot!",
+        "tw": "你住的地方附近有紅火蟻嗎? 這種可怕的螞蟻會叮咬人三到七次，非常痛!",
+        "time": null
+      },
+      {
+        "en": "Farmers don't like fire ants. These ants eat everything. They eat fruit and vegetables. They eat insects and small animals. And fire ants are hard to kill.",
+        "tw": "農夫很討厭紅火蟻，因為牠們會把蔬菜水果類的農作物都吃掉，還會吃其他的昆蟲跟小動物，而且很難消滅。",
+        "time": null
+      },
+      {
+        "en": "These ants came to Taiwan about twenty years ago. Maybe they were in the mud on the bottom of planes. Now there are many fire ants here.",
+        "tw": "可能是在二十多年前藏在飛機底部的泥土裡，被帶到台灣，現在台灣有好多!",
+        "time": null
+      },
+      {
+        "en": "But Taiwan is fighting fire ants. It uses ant food. It puts something that kills ants in the food. Many times, people or trucks put this ant food on the ground. But in some places, it's hard to do this.",
+        "tw": "政府努力對抗紅火蟻，把下了毒的螞蟻食物放在地上，但是只靠人來做這件事太困難了。",
+        "time": null
+      },
+      {
+        "en": "So Taiwan is using drones to kill fire ants. They put the same ant food on the ground!",
+        "tw": "所以現在政府改用無人機來消滅紅火蟻，無人機可以很快把下毒的食物鋪滿地上。",
+        "time": null
+      },
+      {
+        "en": "The drones work very well. There are fewer fire ants! Phew!",
+        "tw": "無人機運作得很好，紅火蟻的數量減少了！呼！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "紅火蟻是外來種，咬人又痛又癢，必須予以控制。",
+      "content": [
+        {
+          "text": "1. kill 殺死. Waaah! Kill that cockroach !! 打死那隻蟑螂! There. I got it. 好了，打到了。 Thank you so much! 真謝謝你! Why are you so afraid of them? 你為什麼那麼怕蟑螂?",
+          "time": null
+        },
+        {
+          "text": "2. worse 更糟的. They are ugly, and they fly. 牠們很醜，還會飛。 Mosquitoes fly. 蚊子也會飛。 Roaches are much worse than mosquitoes! 蟑螂比蚊子壞多了。",
+          "time": null
+        },
+        {
+          "text": "3. fruit 水果. They get onto food, such as the fruit I left in the kitchen.",
+          "time": null
+        },
+        {
+          "text": "4. many 很多的. Many insects love fruit. 很多昆蟲都喜歡水果。 Ants, flies and even butterflies love it. 螞蟻，蒼蠅，甚至蝴蝶都喜歡。 Maybe, but they don't come into my house.也許吧，但是牠們不會進到我家。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了嗎? kill殺死 worse更糟的 fruit水果 many很多的"
+    },
+    "quiz": [
+      {
+        "question": "1. How many times do fire ants sting?",
+        "options": [
+          "a. One time",
+          "b. 3 to 7 times",
+          "c. 20 times"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. When did fire ants first come to Taiwan?",
+        "options": [
+          "a. Last year",
+          "b. Ten years ago",
+          "c. Twenty years ago"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How do drones kill fire ants?",
+        "options": [
+          "a. They use bullets.",
+          "b. They drop bombs.",
+          "c. They drop ant food."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
