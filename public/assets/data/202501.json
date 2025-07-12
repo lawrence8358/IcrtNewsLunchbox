@@ -95,6 +95,102 @@
     ]
   },
   {
+    "id": "20250102-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies",
+      "Multicultural Education"
+    ],
+    "title": "New Year's Special (Part II): Party Time!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250101NK.mp3",
+    "content": [
+      {
+        "en": "Yesterday was about calendars. Today, we're talking about celebrations!",
+        "tw": "昨天大家認識了各國的月曆，今天來聊聊不同的慶祝方式!",
+        "time": null
+      },
+      {
+        "en": "This week, around the world, people partied! They said goodbye to 2024. They welcomed the New Year!",
+        "tw": "世界各地都在這個禮拜辦派對! 一起向 2024 年 說掰掰，迎接新年!",
+        "time": null
+      },
+      {
+        "en": "All over Taiwan, many, many people celebrated at big parties. They saw famous singers and dancers! They watched exciting fireworks!",
+        "tw": "跨年時，台灣很多地方都會有藝人表演，大家還喜歡擠在一起看煙火秀!",
+        "time": null
+      },
+      {
+        "en": "Asia also has New Year celebrations at other times. The Persian New Year is in March. People plan it for many weeks. It is for 13 days! Families and friends give gifts and share food.",
+        "tw": "亞洲有些地方在不同的時間過節，三月是波斯的新年，總共慶祝13天! 家人朋友會花很多時間準備禮物跟聚餐。",
+        "time": null
+      },
+      {
+        "en": "The Thai New Year is in April. It's famous all over the world! People celebrate it with a big water fight! They run on the streets and throw water at each other! It's lots of fun! They do it to get clean for the New Year!",
+        "tw": "泰國新年也超好玩! 每年4月，人們會用一場潑水大戰來慶祝！他們在路上跑來跑去、互相潑水，並用水沖走壞運氣!",
+        "time": null
+      },
+      {
+        "en": "Tomorrow we're talking about food! Does your family eat together for the New Year?",
+        "tw": "明天我們將討論食物！你的家人會一起慶祝新年嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "過新年有很多種不同的方式，重點是跟親友一起歡度。",
+      "content": [
+        {
+          "text": "1. celebrate 慶祝。 I really hope to go to Thailand to celebrate their New Year! 我好希望去泰國慶祝新年! For Songkran, right? 參加潑水節嗎? Right, you've been there?對，你去過?",
+          "time": null
+        },
+        {
+          "text": "2. throw 扔。 No, but I've heard so much about it ! 沒有，但是聽說過很多次。 Yeah, throwing water at people you don't know… 對啊，潑水到陌生人身上... And they won't get angry? 他們還不會生氣? That's crazy! 太狂了!",
+          "time": null
+        },
+        {
+          "text": "3. lots of 很多的。 Don't forget they'll throw water at you too. 別忘了他們也會對你潑水。 I'll bring a BIG water gun! 我會帶一支好大的水槍。 It must be lots of fun! 一定很好玩。",
+          "time": null
+        },
+        {
+          "text": "4. April 四月。 Is Songkran in March or April? 潑水節在三月還是四月? In April, I believe. 我想是四月。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。 celebrate慶祝 throw扔 lots of很多的 April四月"
+    },
+    "quiz": [
+      {
+        "question": "1. How long is the Persian New Year?",
+        "options": [
+          "a. 3 days",
+          "b. 13 days",
+          "c. Many weeks"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. When is the Persian New Year?",
+        "options": [
+          "a. February",
+          "b. March",
+          "c. April"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How do people celebrate the Thai New Year?",
+        "options": [
+          "a. They sing and dance.",
+          "b. They watch fireworks.",
+          "c. They have a big water fight."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20250106-01",
     "type": "國小",
     "tag": [
