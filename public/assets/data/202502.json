@@ -191,6 +191,102 @@
     ]
   },
   {
+    "id": "20250217-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education",
+      "Social Studies"
+    ],
+    "title": "A Spicy, Sour Soup Is a Country's Living Heritage",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250214NK.mp3",
+    "content": [
+      {
+        "en": "Tomyum Kung is a soup from Thailand. There's lime juice in it, so it's sour. There are hot chili peppers in it, so it's spicy! The \"Kung\" in \"Tomyum Kung\" means shrimp, so there's shrimp in it. There are other delicious things in it too.",
+        "tw": "冬蔭功是泰國有名的湯料理，因為有加萊姆汁和紅辣椒，所以它又酸又辣，裡面還有放蝦子和其他好吃的食材。",
+        "time": null
+      },
+      {
+        "en": "People say this soup is good for you. They say it gives you energy! Is it rainy and windy outside? They say Tomyum Kung is very good for you then!",
+        "tw": "冬蔭功對身體很不錯，很適合在颳風或下雨時喝上一碗，會帶給你滿滿的能量!",
+        "time": null
+      },
+      {
+        "en": "Thai people love Tomyum Kung. Some eat it with Thai rice. They eat it at home. They eat it in restaurants. They eat it outside!",
+        "tw": "泰國人超愛喝冬蔭功，他們會配上泰國米一起吃，在家裡、餐廳或是戶外吃!",
+        "time": null
+      },
+      {
+        "en": "Things that a country has or does for a very long time are its heritage. Thai people have made Tomyum Kung for many, many years. It's part of their heritage. Now the United Nations calls Tomyum Kung Thailand's living heritage!",
+        "tw": "一個國家長久以來流傳的事物，叫做文化遺產，泰國的冬蔭功有很長的歷史，因此聯合國將它列為泰國的活文化遺產!",
+        "time": null
+      },
+      {
+        "en": "Thailand is excited! It wants to share Tomyum Kung with the world. It wants everyone to come to Thailand and try it.",
+        "tw": "泰國很興奮，他們希望能將冬蔭功發揚光大，讓世界各地的人來泰國品嘗。",
+        "time": null
+      },
+      {
+        "en": "There is Thai food in Taiwan. Maybe you can try Tomyum Kung here! Maybe you'll love it too!",
+        "tw": "台灣也有泰式料理。你也許可以在這裡嘗試冬蔭功！你也許也會喜歡它！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "泰式酸辣湯名聞遐邇，在台灣也吃得到。",
+      "content": [
+        {
+          "text": "1. delicious 美味的。\nMmm, what is this? 這是什麼?\nIt's delicious! 真好吃!\nYou don't know? 你不知道嗎?\nIt's Tomyum Kung. ,這是冬蔭功，\nthe most famous Thai soup.",
+          "time": null
+        },
+        {
+          "text": "2. share 分享。\nIs it easy to make? 很容易做嗎?\nIt's super easy! 非常容易!\nLet me share the recipe with you.我來跟你分享食譜。",
+          "time": null
+        },
+        {
+          "text": "3. rice 白飯。\nIt's a bit too spicy, 有點太辣了，\nbut it goes very well with rice. 不過跟白飯很搭。\nIt does, doesn't it? 可不是嗎?",
+          "time": null
+        },
+        {
+          "text": "4. try 試一試或是品嘗。\nOkay, I'll make this soup tomorrow. 好，我明天就來做這一道湯。\nYou must come and try it. 你一定要來品嘗。\nI'd love to do that.",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡吃泰式料理嗎? 請來跟我一起讀單字。\ndelicious美味的 share分享 rice白飯 try試一試或是品嘗"
+    },
+    "quiz": [
+      {
+        "question": "1. What country does Tomyum Kung come from?",
+        "options": [
+          "a. Taiwan",
+          "b. Iceland",
+          "c. Thailand"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do people say Tomyum Kung gives you?",
+        "options": [
+          "a. Energy",
+          "b. Rain",
+          "c. Culture"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What do some people eat Tomyum Kung with?",
+        "options": [
+          "a. Lime juice",
+          "b. Thai rice",
+          "c. Chili peppers"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20250218-01",
     "type": "國小",
     "tag": [
