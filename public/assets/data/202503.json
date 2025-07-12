@@ -1494,5 +1494,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20250325-01",
+    "type": "國小",
+    "tag": [
+      "Life Below Water",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "These Very Old, Strong, Healthy Fish May Die Out",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250324NK.mp3",
+    "content": [
+      {
+        "en": "Did you know some kinds of fish can live for more than 100 years? One is the bigmouth buffalo. They're very big. Some are 120 centimeters long. Some weigh 36 kilograms!",
+        "tw": "你知道有一些魚可以活超過百歲嗎?小鯉牛胭脂魚很巨大，有的有 120 公分長，有的可以重達 36 公斤! 牠們非常長壽。",
+        "time": null
+      },
+      {
+        "en": "These fish live in lakes and rivers in North America. And as they get older, they get stronger and healthier?!",
+        "tw": "這種魚住在北美洲的湖泊跟河流裡，牠們的身體越老越強壯，甚至還會更健康!",
+        "time": null
+      },
+      {
+        "en": "The ear bone of many kinds of fish shows how old they are. It grows a ring every year. It's like a tree! One bigmouth buffalo was 127 years old!",
+        "tw": "很多魚的耳石能看出年紀，因為每老一歲，就會多長出一圈像年輪的紋路。而最老的胭脂魚有 127 歲!",
+        "time": null
+      },
+      {
+        "en": "Scientists looked at many bigmouth buffalo. But they didn't find the young ones. Most were 80 years old or older! Every year, old fish lay eggs. Baby fish come out. But they don't grow up. Other fish eat them!",
+        "tw": "科學家觀察胭脂魚，發現牠們幾乎都超過 80 歲!年輕的魚在哪裡呢? 雖然每年有很多小胭脂魚寶寶，但很多都被其他魚吃掉了。",
+        "time": null
+      },
+      {
+        "en": "Some people catch this fish as a sport. Then they throw the fish away.",
+        "tw": "也有一些人抓這種魚當作娛樂，抓到後再把牠們丟掉。",
+        "time": null
+      },
+      {
+        "en": "Scientists are worried. After the old fish die, maybe there won't be any bigmouth buffalo!",
+        "tw": "科學家們擔心這些老魚死掉之後，就再也沒有新的胭脂魚了!我們需要幫助牠們。",
+        "time": null
+      },
+      {
+        "en": "But bigmouth buffalo are important! We need to save them! Maybe they can show us how to grow old and stay strong and healthy!",
+        "tw": "但是小鯉牛胭脂魚很重要！我們需要拯救牠們！也許牠們能向我們展示如何變老並保持強壯和健康！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這種胭脂魚很長壽，但是牠們的小魚卻常常被吃光。",
+      "content": [
+        {
+          "text": "1. live 過生活。Do you sometimes envy fish? 你會不會有時候羨慕魚?Because they just swim, eat, and live a good life ?因為牠們只是游泳，吃東西，過很好的生活?Exactly! 正是!",
+          "time": null
+        },
+        {
+          "text": "2. catch 抓到。I want to catch this one…我要抓這一條。Got it! 抓到了!This fish was living his best life just five minutes ago.五分鐘之前這條魚還在享受最佳生活。",
+          "time": null
+        },
+        {
+          "text": "3. healthy 健康的。Yeah, he looks strong and healthy! 沒錯，牠看起來強壯又健康。I can't wait to eat it. 我等不及要吃牠了。",
+          "time": null
+        },
+        {
+          "text": "4. grow up 長大。Poor fish! He grew up to be this big, but now he'll become a dish.可憐的魚，長這麼大，現在要變成一道菜了。Hey, even if we don't eat it, other fish will.就算我們不吃牠，別的魚也會。",
+          "time": null
+        }
+      ],
+      "postscript": "來跟我一起讀單字。live過生活 catch抓到 healthy健康的 grow up長大"
+    },
+    "quiz": [
+      {
+        "question": "1. How long did one bigmouth buffalo live?",
+        "options": [
+          "a. 27 years",
+          "b. 100 years",
+          "c. 127 years"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where do bigmouth buffalo live?",
+        "options": [
+          "a. Oceans",
+          "b. Lakes and rivers",
+          "c. Trees"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What shows the age of a bigmouth buffalo?",
+        "options": [
+          "a. Its eyeball rings",
+          "b. Its mouth",
+          "c. Its ear bone rings"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
