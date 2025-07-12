@@ -703,106 +703,6 @@
     ]
   },
   {
-    "id": "20250224-01",
-    "type": "國小",
-    "tag": [
-      "Family Education"
-    ],
-    "title": "Mom Throws Away Comic Books",
-    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250221NK.mp3",
-    "content": [
-      {
-        "en": "Narrator: Hey there! Today - Mom: HoneyBun? Who are you talking to? Narrator: My friends! Mom: OK. Love you! Narrator: Mom …! Today … Mom: Don't forget to clean up! Narrator: Not now, Mom! This place is a mess! Maybe I'll clean up… tomorrow!",
-        "tw": "天啊！我媽媽讓我好尷尬，她不知道我在錄節目嗎？",
-        "time": null
-      },
-      {
-        "en": "A mom lives with her son. He likes comic books. He has lots of them. Many are old.",
-        "tw": "有一個媽媽和非常愛看漫畫書的兒子住在一起，她兒子收藏了很多老漫畫書。",
-        "time": null
-      },
-      {
-        "en": "The son's comic books are everywhere. There are too many! They make a mess! And Taiwan's weather is wet, so some of his old books are a little wet. They are smelly. Pee-yew! They are moldy! Ewwww!",
-        "tw": "兒子的漫畫書到處放，把家裡弄得一團亂，再加上台灣潮濕的天氣，讓漫畫書都發霉了，而且發出臭臭的味道。",
-        "time": null
-      },
-      {
-        "en": "The mom asked her son to clean up again and again. But he didn't listen to her. She got angry. So she threw away some of his moldy old comic books!",
-        "tw": "媽媽一直請兒子整理乾淨，媽媽一氣之下，把發霉的漫畫書都丟進了垃圾桶！",
-        "time": null
-      },
-      {
-        "en": "The son got very angry! Some of his favorite comic books were gone! They are hard to find in bookstores. Maybe he cannot buy these comic books again!",
-        "tw": "兒子非常非常生氣，他心愛的漫畫書有一些很稀有，可能再也沒辦法在書店裡找到！",
-        "time": null
-      },
-      {
-        "en": "The son called the police! What? Now the mom has to pay her son 5,000 Taiwan dollars!",
-        "tw": "所以兒子報了警，結果現在媽媽必須賠償他 5 千元！",
-        "time": null
-      },
-      {
-        "en": "Do you make a mess at home? Clean up, kids! Mom: HoneyBun?! Narrator: MOM!",
-        "tw": "你在家裡弄得一團亂嗎？孩子們，快打掃乾淨！媽媽：甜心？！旁白：媽！",
-        "time": null
-      }
-    ],
-    "vocabulary": {
-      "preface": "媽媽扔掉了髒兮兮的舊漫畫書，結果必須賠錢。",
-      "content": [
-        {
-          "text": "1. smelly 臭臭的。Ugh! This box is wet and smelly! 這個盒子是濕的，還有臭味。What's inside? 裡面是什麼? Just some old food, I guess. 我猜是一些舊的食物。",
-          "time": null
-        },
-        {
-          "text": "2. throw away 扔掉。Yuck! There's mold on the food! 好噁，上面長黴了!Sorry, I should throw it away. 對不起，我應該把它扔掉的。You should! 你應該。",
-          "time": null
-        },
-        {
-          "text": "3. maybe 也許。When did you buy it? 你什麼時候買的?I forgot. Maybe last week. 忘記了，也許是上星期。I believe it's older than a week. 我想比一個星期久。",
-          "time": null
-        },
-        {
-          "text": "4. again 再一次。I won't buy it again. 我不會再買了。No, you can still buy it. 不，你可以再買。But eat it soon. 但是要趕快吃掉。",
-          "time": null
-        }
-      ],
-      "postscript": "來一起讀單字。smelly臭臭的 throw away扔掉 maybe也許 again再一次"
-    },
-    "quiz": [
-      {
-        "question": "1. What did the mom want her son to do?",
-        "options": [
-          "a. Make a mess",
-          "b. Get angry",
-          "c. Clean up"
-        ],
-        "time": null,
-        "answer": "c"
-      },
-      {
-        "question": "2. What does the son like?",
-        "options": [
-          "a. Moldy books",
-          "b. Comic books",
-          "c. Smelly books"
-        ],
-        "time": null,
-        "answer": "b"
-      },
-      {
-        "question": "3. What happened to some of the comic books?",
-        "options": [
-          "a. The son took them to a bookstore.",
-          "b. The mom and son read them.",
-          "c. The mom threw them away."
-        ],
-        "time": null,
-        "answer": "c"
-      }
-    ]
-  },
-  {
     "id": "20250225-01",
     "type": "國小",
     "tag": [
@@ -904,6 +804,103 @@
         ],
         "time": null,
         "answer": "c"
+      }
+    ]
+  },
+  {
+    "id": "20250226-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education",
+      "Character Education",
+      "Good Health and Well-Being"
+    ],
+    "title": "Man Finds Hero Who Saved Him",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250225NK.mp3",
+    "content": [
+      {
+        "en": "Can you help someone whose heart stops?",
+        "tw": "如果有一個人心臟停止了，你知道怎麼幫他嗎？",
+        "time": null
+      },
+      {
+        "en": "A man was in a restaurant. But he didn't go there to eat. He went there because he felt bad. He wanted someone there to help him. He sat down. Then his heart stopped! The man fell onto the floor!",
+        "tw": "一名男子進了餐廳，但不是為了吃飯，而是他很不舒服，需要協助。他坐下之後心臟停止了，他昏倒在地上！誰能救救他呢？",
+        "time": null
+      },
+      {
+        "en": "Another man saw him on the floor. He knew the man was in big trouble. He pushed on the man's chest. One! Two! Three! Four! Five! Then he used a machine to start the man's heart again. He saved the man's life!",
+        "tw": "旁邊的人看到他昏倒，知道他麻煩大了，於是用手按壓男人的胸膛，並且用一台機器讓他的心跳恢復，他救了男人一命！",
+        "time": null
+      },
+      {
+        "en": "A helicopter took the man to the hospital. But that's not the end of the story.",
+        "tw": "直升機把昏倒的男人送去醫院治療，但故事還沒結束。",
+        "time": null
+      },
+      {
+        "en": "The man wanted to know who saved him. He wanted to know what happened at the restaurant. So he used social media. And he found the man who saved him! Now they are good friends.",
+        "tw": "男人清醒後，想找他的救命恩人，透過社群媒體終於如願。現在，這兩個人成了好朋友！",
+        "time": null
+      },
+      {
+        "en": "So, can you help someone whose heart stops? Most people can't. But you can learn how to push on someone's chest. It's called CPR. Maybe you can learn CPR sometime. Maybe you can save someone's life too!",
+        "tw": "所以，如果有人心臟停止了，你能幫忙嗎？大多數人都不會。但你可以學習如何按壓別人的胸部，這叫做心肺復甦術（CPR）。也許你哪天可以學習CPR。也許你也能拯救某人的生命！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "心肺復甦是非常有用的急救技術，可以挽回生命。",
+      "content": [
+        {
+          "text": "1. restaurant 餐廳。 I've booked a Thai restaurant for our dinner tonight. 今天晚餐我訂了一家泰式餐廳。 Nice, I like spicy food. 真好，我喜歡吃辣。",
+          "time": null
+        },
+        {
+          "text": "2. happen 發生。 This shrimp is really good! 這道蝦子真好吃! Oh my God! What's happening? 天哪，發生什麼事? That man just fell to the floor! 那人就倒在地上!",
+          "time": null
+        },
+        {
+          "text": "3. heart 心臟。 Do you know CPR? 你會心肺復甦嗎? No. Do you think he had a heart attack? 不會。你覺得他是心臟病發作? It looks that way. 看起來像。",
+          "time": null
+        },
+        {
+          "text": "4. someone 某人。 How can we help him? 我們能怎麼幫忙? Call 119 now. 現在打電話叫119. Someone will come and save him. 會有人來救他。",
+          "time": null
+        }
+      ],
+      "postscript": "現在來複習單字。 restaurant餐廳 happen發生 heart心臟 someone某人"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the man want at the restaurant?",
+        "options": [
+          "a. Food",
+          "b. A drink",
+          "c. Help"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did another man do to the man?",
+        "options": [
+          "a. Helped him stand up",
+          "b. Pushed on his chest",
+          "c. Gave him water"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How did the man find out who saved him?",
+        "options": [
+          "a. Social media",
+          "b. The police",
+          "c. Restaurant workers"
+        ],
+        "time": null,
+        "answer": "a"
       }
     ]
   },
