@@ -197,5 +197,105 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20250305-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies"
+    ],
+    "title": "The Candy That Made a Town Famous",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250304NK.mp3",
+    "content": [
+      {
+        "en": "Long ago, a woman lived in a small town in Sweden. She needed money to help her family. So she made and sold candy!",
+        "tw": "很久以前，一位住在瑞典小鎮的女士需要賺錢養家，所以她開始製作糖果。",
+        "time": null
+      },
+      {
+        "en": "The woman worked very hard. She boiled lots of sugar and water. She put in a little vinegar and peppermint oil.",
+        "tw": "她非常努力地工作，她先把糖跟水煮沸，再加入一點醋和薄荷油，就變成糖果!",
+        "time": null
+      },
+      {
+        "en": "The woman pulled and folded and pulled and folded the soft warm candy. She put a nice red stripe in it. Then she rolled and rolled it.",
+        "tw": "然後，她把原本軟軟的糖果拉長，加入漂亮的紅色條紋，然後把它們捲成一條條糖果。",
+        "time": null
+      },
+      {
+        "en": "The candy became hard. She cut it into small red and white candies. She made long red and white candy sticks too.",
+        "tw": "之後糖果會變硬，她把紅色白色相間的糖果剪成小小的塊狀，或是做成長條狀的造型。",
+        "time": null
+      },
+      {
+        "en": "The woman didn't tell anyone how to make the candy. But her daughter did. Now fourteen candymakers in the town can make it. It cannot be made in other places.",
+        "tw": "這名女士沒有告訴任何人她的祕方，但是她女兒卻透漏給別人，現在除了小鎮裡的十四個糖果師之外，全世界都沒有地方會做。",
+        "time": null
+      },
+      {
+        "en": "The candy made the town famous! Many people visit. They watch the candymakers make the candy. They taste it. Yum! There are lots of colors and flavors now. But people love the red and white peppermint candy the most.",
+        "tw": "這個糖果讓小鎮變有名，很多人專程前來品嚐，而且參觀糖果的製作過程。雖然現在出了很多新口味跟顏色，但大家最喜歡經典的紅白薄荷口味。",
+        "time": null
+      },
+      {
+        "en": "Many people think this candy is a Christmas candy, but people eat it all year!",
+        "tw": "很多人認為這種糖果是聖誕糖果，但人們一年四季都吃！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一位很會製造糖果的女士，讓她的小鎮聲名大噪。",
+      "content": [
+        {
+          "text": "1) candy 糖果.\nI'm so tired. 我好累.\nI need some candy. 需要吃一點糖。\nI have dark chocolate. 我有黑巧克力。\nThank you, but I'd like some real candy. 謝謝，不過我想要真的糖果。",
+          "time": null
+        },
+        {
+          "text": "2) red, white 紅的，白的.\nHow about a Christmas candy cane? 來一點耶誕節拐杖糖如何?\nThe red and white one? 那種紅白的糖嗎？\nI love that kind of candy! 我很喜歡那種糖果!",
+          "time": null
+        },
+        {
+          "text": "3) daughter 女兒.\nIt reminds me of festivals. 它讓我想到節慶。\nYeah, it's my daughter's favorite too. 對，它也是我女兒的最愛。",
+          "time": null
+        },
+        {
+          "text": "4) taste 品嚐.\nMmmm, this tastes really good! 這真好吃!\nIt's too sweet for my taste. 對我來說太甜了。",
+          "time": null
+        }
+      ],
+      "postscript": "你愛吃糖嗎?來一 起讀單字。\ncandy糖果 red, white紅的，白的 daughter女兒 taste品嚐"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the small town?",
+        "options": [
+          "a. Switzerland",
+          "b. Sweden",
+          "c. Eswatini"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why did the woman sell candy?",
+        "options": [
+          "a. To help her family",
+          "b. To become famous",
+          "c. To work hard"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many candymakers can make this candy now?",
+        "options": [
+          "a. 4",
+          "b. 14",
+          "c. 40"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
