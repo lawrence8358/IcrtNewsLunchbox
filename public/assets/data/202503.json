@@ -700,5 +700,107 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20250312-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Planting Cloud Trees in the Andes",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250311NK.mp3",
+    "content": [
+      {
+        "en": "The Andes are the world's longest mountain range. They're over 9,000 kilometers long. That's longer than the Great Wall of China!",
+        "tw": "安地斯是世界最長的山脈，它全長超過 9000 公里，比中國長城還要長!",
+        "time": null
+      },
+      {
+        "en": "The Andes are in South America. They are on the west coast. They go through seven countries!",
+        "tw": "安地斯山脈位在南美洲的西側海邊，跨越整整七個國家!",
+        "time": null
+      },
+      {
+        "en": "The Andes have trees called cloud trees. These trees grow at the top of mountains. They are in the clouds! They grow higher than any other tree in the world.",
+        "tw": "安地斯山頂上有雲霧森林，它們被山頂上的雲朵環繞，比世界上任何的樹都要高!",
+        "time": null
+      },
+      {
+        "en": "Cloud trees are like sponges. They take in water from clouds and rivers of ice. Then the water from the trees slowly goes into small rivers. Small rivers go to the Amazon River.",
+        "tw": "雲霧森林像海綿一樣，會吸收雲朵和冰川裡的水，這些樹也會將水排進小河川裡，最後流到亞馬遜河。",
+        "time": null
+      },
+      {
+        "en": "Years ago, the Andes had huge forests of cloud trees. Many forests have been cut down. But cloud trees put water into rivers and stop floods. People, plants, and animals need these trees.",
+        "tw": "幾年前，安地斯山有一整片的雲霧森林，後來很多樹被砍下來。但這些樹很重要，它們會將水注入河川，還可以防止大洪水。",
+        "time": null
+      },
+      {
+        "en": "Now, some local people are planting cloud trees in the Andes. They want to keep the place they live and the people they love safe.",
+        "tw": "現在，當地的居民正在安地斯山脈上種植更多樹，希望重建雲霧森林，這樣也可以保障附近居民的安全。",
+        "time": null
+      },
+      {
+        "en": "Today is Arbor Day, a day about trees. New cloud trees in the Andes is great Arbor Day news!",
+        "tw": "今天是植樹節，一個關於樹木的日子。安地斯山脈新種植的雲霧樹是植樹節的好消息！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "南美洲安地斯山脈高大的樹木，有水土保持的功能。",
+      "content": [
+        {
+          "text": "1. huge 巨大的。\nWhoa! This tree is huge! 喔，這棵樹可真大!\nI bet it's one thousand years old. 我猜它有一千年了。\nIt says here that it's 1,500 years old. 這裡說它有一千五百年。",
+          "time": null
+        },
+        {
+          "text": "2. forest 森林。\nIt must be the biggest tree in this forest. 它一定是這座森林裡面最大的樹。\nIt shouldn't be too hard to climb up. 爬上去應該不難。",
+          "time": null
+        },
+        {
+          "text": "3. top 頂端。\nDon't even think about it, Nancy. 想都不要想，南西。\nYou forgot how you fell last time? 你忘了上次怎麼摔下來的?\nBut I did get to the top of the tree! 不過我確實有爬到樹頂。",
+          "time": null
+        },
+        {
+          "text": "4. stop 停。\nAnd I'm going to try it again this time. 我這次還要再試一次。\nHey, stop, Nancy! 停下來，南西!\nYou can't climb this tree! It's protected. 你不能爬這棵樹! 它是受保護的。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了嗎?\nhuge巨大的 forest森林 top頂端 stop停"
+    },
+    "quiz": [
+      {
+        "question": "1. Where are the Andes?",
+        "options": [
+          "a. North America",
+          "b. Central America",
+          "c. South America"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How long are the Andes?",
+        "options": [
+          "a. 900 kilometers",
+          "b. 9,000 kilometers",
+          "c. 90,000 kilometers"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Where do small rivers in the Andes go to?",
+        "options": [
+          "a. Seven countries",
+          "b. Cloud trees",
+          "c. The Amazon River"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
