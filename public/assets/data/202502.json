@@ -595,5 +595,111 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20250221-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Scaring Monkeys with Toys",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250220NK.mp3",
+    "content": [
+      {
+        "en": "Some monkeys in Chiayi County like coffee berries. This is bad for coffee farmers.",
+        "tw": "嘉義有很多猴子喜歡吃咖啡樹的果實，這讓種咖啡的農夫非常頭痛。",
+        "time": null
+      },
+      {
+        "en": "The monkeys eat red coffee berries. They're soft and sweet … mmmm … They eat green coffee berries too! They're hard.",
+        "tw": "猴子們喜歡吃咖啡樹紅紅的果實，又甜又軟，牠們也喜歡吃硬硬的綠色果實。",
+        "time": null
+      },
+      {
+        "en": "They leave coffee berries on the ground. Coffee beans are in the berries. Getting these beans is hard for farmers.",
+        "tw": "猴子們會把果實丟滿地，而咖啡豆就在那些果實裡，農夫要一一撿起來很不容易。",
+        "time": null
+      },
+      {
+        "en": "The monkeys go to other farms too. They eat fruit and vegetables there. They like avocados, mangoes, and bamboo shoots.",
+        "tw": "這些猴子不只吃咖啡果，還會吃其他農場的蔬果，像是酪梨、芒果和青脆的竹筍。",
+        "time": null
+      },
+      {
+        "en": "Chiayi helps farmers. It finds safe ways to keep the monkeys away. Farmers can use loud sounds. They can use fences or nets. But, sometimes, the monkeys come again.",
+        "tw": "不過，嘉義政府教農夫一些趕走猴子的安全方法，像是用聲音嚇牠們，或是蓋柵欄，但有時候猴子們還是會回來。",
+        "time": null
+      },
+      {
+        "en": "One farmer had an idea. Now he puts toy monkeys in his coffee field. But their heads are down and their feet are up! They are upside down! They look like monkeys that were caught…",
+        "tw": "一個農夫想到好主意，他找到一些猴子玩偶，將這些娃娃頭下腳上吊掛在咖啡田中，看起來像是被農夫抓住。",
+        "time": null
+      },
+      {
+        "en": "The real monkeys see these upside-down toy monkeys. They get scared. They stay away!",
+        "tw": "猴子們看到這些娃娃都很害怕，牠們怕自己也會被農夫抓走，所以都離咖啡田遠遠的。",
+        "time": null
+      },
+      {
+        "en": "Can the toy monkeys keep scaring them? Or will the monkeys come again? What do you think?",
+        "tw": "這些玩具猴子能繼續嚇跑牠們嗎？還是猴子會再次回來呢？你覺得呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "農夫不喜歡猴子糟蹋農作物，想盡辦法來驅趕牠們。",
+      "content": [
+        {
+          "text": "1. keep away 保持距離. Hey, that monkey is stealing my food! Now he's eating your sandwich. How can we keep the monkeys away?",
+          "time": null
+        },
+        {
+          "text": "2. use 使用. We could use firecrackers. No, that's too loud. Besides, we don't have any.",
+          "time": null
+        },
+        {
+          "text": "3. on the ground 在地上. Look, now two of them are on the ground. And coming toward us.",
+          "time": null
+        },
+        {
+          "text": "4. scared 害怕. I'm scared. Don't be. We're human beings. They should be scared of us.",
+          "time": null
+        }
+      ],
+      "postscript": "今天學了哪些單字? keep away保持距離 use使用 on the ground在地上 scared害怕"
+    },
+    "quiz": [
+      {
+        "question": "1. What do the monkeys in Chiayi like to eat?",
+        "options": [
+          "a. Bananas",
+          "b. Rice",
+          "c. Coffee berries"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What can farmers use to keep monkeys away?",
+        "options": [
+          "a. Loud sounds",
+          "b. Fruit and vegetables",
+          "c. Coffee beans"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did one farmer do with toy monkeys?",
+        "options": [
+          "a. Let monkeys play with them",
+          "b. Hang them upside down",
+          "c. Give them to other farmers"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
