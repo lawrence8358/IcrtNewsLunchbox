@@ -999,5 +999,108 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20250228-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Character Education",
+      "Integrative Activities",
+      "Health and Physical Education"
+    ],
+    "title": "Kids Game with a Gamer at this Hospital",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250227NK.mp3",
+    "content": [
+      {
+        "en": "Sometimes when we get hurt or sick, we go to the hospital. Doctors and nurses there help us get better.",
+        "tw": "當我們受傷或生病時，有時候會去醫院，醫生跟護理師會照顧我們。",
+        "time": null
+      },
+      {
+        "en": "If we get very hurt or very sick, maybe we have to stay in the hospital. This is good for us. We want to get better. But it can be boring!",
+        "tw": "情況太嚴重時就會住院，這對恢復健康很有幫助，但是住院可能有一些無聊！",
+        "time": null
+      },
+      {
+        "en": "There's a hospital for kids in Scotland. Many people work there. It has doctors and nurses … and one all-new job!",
+        "tw": "蘇格蘭有一間特別的兒童醫院，除了醫生跟護理師外，還有一種新的職業！",
+        "time": null
+      },
+      {
+        "en": "This hospital now has a gamer! He plays video games with the kids all day! The gamer walks around the hospital. He meets all the kids.",
+        "tw": "那間醫院有專門陪伴小朋友的遊戲專家！他的工作就是在醫院走來走去，陪住院的小孩打電動！",
+        "time": null
+      },
+      {
+        "en": "They are excited to see him! They love to play video games with their gamer friend. They have fun with him!",
+        "tw": "小朋友看到他都很興奮，和遊戲專家一起打電動，是住院過程中難得的樂趣！",
+        "time": null
+      },
+      {
+        "en": "The gamer is very good for the hospital. When the kids play video games, they don't feel bored, or scared, or lonely. They feel happy!",
+        "tw": "遊戲專家對醫院很有幫助，有了他，小朋友住院時不再無聊、害怕，或是孤單。",
+        "time": null
+      },
+      {
+        "en": "This hospital says playing video games can help us get better! So when you're sick or hurt... quick, get a new game! It's for your health…",
+        "tw": "這家醫院表示玩電動可以幫助我們好起來！所以當你生病或受傷時...快點，去玩個新遊戲吧！這是為了你的健康著想...",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "兒童醫院裡有遊戲專家帶孩子們打電動，讓住院不再讓人害怕。",
+      "content": [
+        {
+          "text": "sick 生病的。\nMommy, do I have to go to the hospital? 媽媽，我一定得去醫院嗎?\nYes, sweetie. You're sick, and the doctor will help you get better.是啊，寶寶，你生病了，醫生會讓你好起來。",
+          "time": null
+        },
+        {
+          "text": "boring 無聊。\nBut hospitals are boring! 但是醫院好無聊!\nI don't want to stay there.我不想要待在那裏。\nIt won't be that bad. 不會那麼糟糕的。",
+          "time": null
+        },
+        {
+          "text": "game 遊戲。\nYou'll meet other kids, 你會碰到別的小孩，\nand maybe play a game together. 也許還可以一起玩遊戲。\nCan I bring my video game? 我可以帶我的電玩嗎?\nOf course.當然可以。",
+          "time": null
+        },
+        {
+          "text": "friend 朋友。\nIt'll be fun. 會很好玩的。\nOkay, I do like to make new friends. 我是很喜歡交新朋友。\nThat's my brave girl! 真是我的勇敢女兒!",
+          "time": null
+        }
+      ],
+      "postscript": "你曾經住過醫院嗎?來複習今天的單字。\nsick生病的 boring無聊 game遊戲 friend朋友"
+    },
+    "quiz": [
+      {
+        "question": "Where is the hospital?",
+        "options": [
+          "a. England",
+          "b. Ireland",
+          "c. Scotland"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "What is the new job at this hospital?",
+        "options": [
+          "a. Nurse",
+          "b. Gamer",
+          "c. Doctor"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "How do kids feel when they play video games at this hospital?",
+        "options": [
+          "a. Bored",
+          "b. Happy",
+          "c. Lonely"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
