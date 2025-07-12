@@ -600,5 +600,105 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20250311-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education"
+    ],
+    "title": "Sleep Helps You Learn Languages",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250310NK.mp3",
+    "content": [
+      {
+        "en": "Learning a new language can be hard. But getting lots of sleep can help!",
+        "tw": "學語言很難，但是睡眠對學習語言有幫助哦！",
+        "time": null
+      },
+      {
+        "en": "Scientists asked two groups of English speakers to learn Mandarin. Well, they learned easy Mandarin. The scientists made this language! It helps them study how people learn languages.",
+        "tw": "科學家用一個實驗來研究人怎麼學新的語言，他們設計一種簡單版的中文，然後找了兩組以英語為母語的人來學。",
+        "time": null
+      },
+      {
+        "en": "One group learned this easy Mandarin in the morning. The scientists tested the people in the evening. How much did the people remember?",
+        "tw": "其中一組人在早上學中文，晚上的時候他們會參加測試，看看他們記得多少。",
+        "time": null
+      },
+      {
+        "en": "The other group learned the same easy Mandarin at night. Then the people went to sleep in the scientists' lab. The scientists studied what their brains did. Then the scientists tested the group in the morning.",
+        "tw": "另一組人在晚上學中文，之後在實驗室睡覺。科學家們觀察他們的大腦睡覺的時候發生什麼變化，隔天早上，科學家們也對這組人進行了測試！",
+        "time": null
+      },
+      {
+        "en": "Which group remembered more of the new language? The group that slept did! People in the group remembered much more. So sleep helps people learn new languages better!",
+        "tw": "哪一組人學得更好呢？答案是，在實驗室睡覺的人記得更多！所以睡覺對學習有幫助哦！",
+        "time": null
+      },
+      {
+        "en": "Everyone knows sleep is very important. It makes us healthier. It makes us feel better. And now we know it helps us learn new languages!",
+        "tw": "大家都知道睡眠對身體健康很重要，也會讓我們心情好，原來睡覺也會幫助我們學習新的語言！",
+        "time": null
+      },
+      {
+        "en": "Try sleeping eight hours every night. Maybe you'll remember much more of the languages you study!",
+        "tw": "試著每天晚上睡足八小時。或許你能記住更多你所學習的語言！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "充分睡眠好處多多，連學語言都比較快。",
+      "content": [
+        {
+          "text": "1. language 語言。\nI'm learning a new language. 我在學新的語言。\nIt's so hard! 很難呢!\nWhat language? 什麼語言?\nItalian. 義大利文。",
+          "time": null
+        },
+        {
+          "text": "2. study 學習。\nBut why do you want to study Italian? 但是你幹嘛學義大利文?\nDo you plan to visit Rome? 想要去羅馬?\nYeah, because I love pasta. 對，因為我喜歡義大利麵。",
+          "time": null
+        },
+        {
+          "text": "3. at night 在晚上。\nThat's a good reason. 那是很好的理由。\nI suggest you study at night. 我建議你晚上讀。\nScientists say you remember better after sleep. 科學家說睡覺之後記得比較多。",
+          "time": null
+        },
+        {
+          "text": "4. help 幫助。\nOr just bring your cellphone. 或者就帶著你的手機。\nAI can tell you what to say. 人工智慧可以告訴你要講什麼。\nNice. That will help a lot. 真好，那幫助可大了。",
+          "time": null
+        }
+      ],
+      "postscript": "學語言有很多種方法。\nlanguage語言 study學習 at night在晚上 help幫助"
+    },
+    "quiz": [
+      {
+        "question": "1. Who learned the new language?",
+        "options": [
+          "a. English speakers",
+          "b. English learners",
+          "c. English scientists"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What did the people learn?",
+        "options": [
+          "a. A hard English",
+          "b. An easy Mandarin",
+          "c. A hard Mandarin"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Who did better on the tests?",
+        "options": [
+          "a. People who slept",
+          "b. People who ate",
+          "c. People who studied"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
