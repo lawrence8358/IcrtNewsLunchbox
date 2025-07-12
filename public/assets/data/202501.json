@@ -390,5 +390,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20250109-01",
+    "type": "國小",
+    "tag": [
+      "Technology Education",
+      "Technology",
+      "Natural Sciences"
+    ],
+    "title": "Taiwan Watches Bananas from Space",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250108NK.mp3",
+    "content": [
+      {
+        "en": "Bananas... yum! Guatemala and Belize, countries in Central America, grow bananas. Taiwan grows bananas too. It knows a lot about bananas! It helps these countries keep their banana plants healthy.",
+        "tw": "中美洲的貝里斯跟瓜地馬拉兩個國家，種的香蕉都很好吃。是台灣幫助他們維持香蕉樹的健康喔！",
+        "time": null
+      },
+      {
+        "en": "Taiwan watches these plants... from space! It can find sick banana plants.",
+        "tw": "台灣會從外太空觀察這些香蕉樹！有生病的樹就會馬上被看出來。",
+        "time": null
+      },
+      {
+        "en": "In sick plants, the leaves go from green to yellow. They get dark spots. Sick plants can't grow good bananas.",
+        "tw": "生病的植物葉子會從綠色變成黃色，還會長出黑色的斑點。",
+        "time": null
+      },
+      {
+        "en": "But Taiwan doesn't look at the color from space. It looks at the light. When sunlight goes down to leaves, some of the light goes back up. More light goes back up from healthy leaves than sick leaves.",
+        "tw": "但是，台灣並不是從太空看葉子的顏色，而是觀察光線。陽光照在葉子上時，健康的葉子反射的光比生病的多。",
+        "time": null
+      },
+      {
+        "en": "From space, Taiwan can watch many banana plants. It watches banana plants in Guatemala and Belize. It has been doing this for three years.",
+        "tw": "台灣已經做這項工作三年了，從太空可以一次觀察到超級多的香蕉樹。",
+        "time": null
+      },
+      {
+        "en": "It helps farmers find sick plants fast. Then farmers take the sick plants away. This helps keep other plants healthy.",
+        "tw": "這個技術讓農夫可以很快發現生病的植物，才不會把疾病傳染給健康的香蕉樹。",
+        "time": null
+      },
+      {
+        "en": "Taiwan helps these countries grow healthy banana plants! Good job, Taiwan!",
+        "tw": "台灣幫助這些國家種植健康的香蕉樹！台灣做得好！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "從外太空監測香蕉的生長，夠高科技了吧?",
+      "content": [
+        {
+          "text": "1. farmer 農夫。 Did you know I'm thinking of becoming a farmer? 你知道我想變成農夫吧? A farmer? You? 農夫?你? What do you plan to grow? 你打算種什麼? Bananas! 香蕉!",
+          "time": null
+        },
+        {
+          "text": "2. watch 觀看。 I see. 我明白了。But do you even know how to take care of bananas? 但是你究竟知不知道怎麼照顧香蕉? Of course. I've watched a lot of videos. 當然啦，我看了好多影片。",
+          "time": null
+        },
+        {
+          "text": "3. keep 維持。 I just need to water it, keep it healthy 只需要澆水，保持它健康，and wait for the green bananas to turn yellow. 等著綠香蕉變黃就好了。",
+          "time": null
+        },
+        {
+          "text": "4. sick 生病的。 Uh-huh. And what happens if it gets sick? 要是它生病怎麼辦? It won't get sick under my care. 我照顧它不會生病的。",
+          "time": null
+        }
+      ],
+      "postscript": "你看過香蕉樹嗎? 一起讀今天的單字。 farmer農夫 watch觀看 keep維持 sick生病的"
+    },
+    "quiz": [
+      {
+        "question": "1. What does Taiwan do to banana plants in Guatemala and Belize?",
+        "options": [
+          "a. Grows them from space",
+          "b. Finds them from space",
+          "c. Watches them from space"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do leaves on sick banana plants do?",
+        "options": [
+          "a. Become green",
+          "b. Get dark spots",
+          "c. Get healthy"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What does Taiwan look at to find sick banana plants from space?",
+        "options": [
+          "a. Color",
+          "b. Light",
+          "c. Bananas"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
