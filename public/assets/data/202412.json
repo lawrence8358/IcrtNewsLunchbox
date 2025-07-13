@@ -1546,5 +1546,100 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241224-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education"
+    ],
+    "title": "Taiwanese Wins the Triple Crown of Open Water Swimming",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241223NK.mp3",
+    "content": [
+      {
+        "en": "If at first you don't succeed, try, try again. This means when you want something very much, keep going! Never give up!",
+        "tw": "「如果失敗了，就要一直試到成功!」意思是如果你想要完成一件事的話，就要努力堅持下去!",
+        "time": null
+      },
+      {
+        "en": "Hsu Wen-erh is an open water swimmer. This means she swims in lakes, rivers, and seas!",
+        "tw": "許汶而是一個開放水域游泳員，她是在海洋、河流或湖裡游泳。",
+        "time": null
+      },
+      {
+        "en": "Hsu is the first Taiwanese to get the Triple Crown of Open Water Swimming! She finished a famous event. It's very long and very hard… It has three long swims!",
+        "tw": "她是第一個泳渡三大開放水域的台灣運動員，她要游你想像不到的超遠距離!",
+        "time": null
+      },
+      {
+        "en": "First, Hsu swam from England to France. She took 12 hours! Second, Hsu swam from a small island to California. She took 13 hours! Third, Hsu swam around an island in New York City. That was the hardest swim.",
+        "tw": "首先，許汶而花了12個 小時，從英國游到法國，再來，她用 13 個小時，從一個小島出發游到加州，最後，她環繞紐約的一個小島游了一圈，那是裡面最難的一項任務!",
+        "time": null
+      },
+      {
+        "en": "On her first try, she couldn't finish. The swim was too hard. She had to stop. But Hsu didn't give up! The next day, she tried again! She took 9 hours. And this time, she finished!",
+        "tw": "她第一次嘗試的時候，因為太困難，沒辦法完成，但她沒有因此放棄! 許汶而隔天再試了一次，這一次她花了 9 個小時，終於成功了!",
+        "time": null
+      },
+      {
+        "en": "The swims were hard, but Hsu kept trying. She worked hard, tried again, and got the Triple Crown of Open Swimming! So when you want something very much, be like Hsu and never give up!",
+        "tw": "這些泳程很艱難，但許汶而持續嘗試。她努力不懈，再次嘗試，並贏得了開放水域三冠王的殊榮！所以當你非常想要某樣東西時，就學習許汶而，永不放棄！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "許汶而以堅忍不拔的精神，贏得三冠王的殊榮。",
+      "content": [
+        {
+          "text": "1. swim 游泳.\nWhat's the matter? 妳怎麼了?\nYou look pale.你臉色發白.\nI'm so tired! 我好累!\nI ran 3,000 meters and then swam for an hour. 我跑了三千公尺，還游泳一個鐘頭.\nIn one day? That's too much. 在一天之內嗎? 那太多了.",
+          "time": null
+        },
+        {
+          "text": "2. give up 放棄.\nDidn't you tell me not to give up? 你不是告訴我不要放棄?\nSo I decided to finish it. 所以我決定做完.",
+          "time": null
+        },
+        {
+          "text": "3. stop 停止.\nYou did. 你是做到了.\nBut too much exercise can hurt you. 但是運動太多也有可能造成傷害.You need to know when to stop.你得知道什麼時候叫停.",
+          "time": null
+        },
+        {
+          "text": "4. finish 完成.\nJust finish 40 minutes of swimming tomorrow. 明天完成四十分鐘游泳就可以了.",
+          "time": null
+        }
+      ],
+      "postscript": "Do you know how to swim? swim游泳 give up放棄 stop停止 finish完成"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do open swimmers swim?",
+        "options": [
+          "a. Pools",
+          "b. Baths",
+          "c. Seas"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What was Hsu's fastest swim time?",
+        "options": [
+          "a. 9 hours",
+          "b. 12 hours",
+          "c. 13 hours"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Which swim was from England to France?",
+        "options": [
+          "a. The first swim",
+          "b. The second swim",
+          "c. The third swim"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
