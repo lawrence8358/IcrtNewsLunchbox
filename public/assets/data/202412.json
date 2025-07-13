@@ -1363,5 +1363,96 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20241220-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies",
+      "Multicultural Education"
+    ],
+    "title": "It's Tangyuan Time for Taiwan Tomorrow",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241219NK.mp3",
+    "content": [
+      {
+        "en": "Where is Taiwan? It's in the northern half of the world. And, tomorrow is a special day for this half of the world! Tomorrow the sun shines for the shortest time this year. And the night is the longest this year.",
+        "tw": "台灣在地球的北半球，而明天是很重要的日子! 是北半球白天最短，夜晚最長的一天。",
+        "time": null
+      },
+      {
+        "en": "In Taiwan, we call this day the Dongzhi Festival. Maybe your family will eat something special for Dongzhi! Many families eat tangyuan. These are small rice balls. Some have peanut paste, black sesame paste, or other fillings inside! Usually we eat them in soup. Tangyuan soup. Tangyuan soup can be sweet or salty. Both are tasty! Mmmmm!",
+        "tw": "這個日子叫做冬至，很多家庭會在這天吃一種糯米做的湯圓，裡面有包花生、黑芝麻或其他餡料，放在鹹湯或甜湯裡一起吃!",
+        "time": null
+      },
+      {
+        "en": "But don't eat 3, 11, 53, or 503 tangyuan! Those are odd numbers. Old stories say to eat even numbers of tangyuan. They say to do that for good luck! So how about 2, 10, 52, or 502 tangyuan?",
+        "tw": "但是吃湯圓時，湯圓不能是奇數，傳說吃偶數湯圓才能帶來好運，像是兩顆、52 顆，或是 502 顆!!!",
+        "time": null
+      },
+      {
+        "en": "Oh! And don't stay up too late tomorrow. People who do that might not be lucky next year! Old stories say that too.",
+        "tw": "噢! 明天千萬不要熬夜，聽說在冬至熬夜的人，明年會不幸運哦!",
+        "time": null
+      },
+      {
+        "en": "So, have a happy Dongzhi Festival tomorrow! Enjoy your tangyuan. But, don't eat 503 of them! And don't stay up too late!",
+        "tw": "所以，明天祝你有個愉快的冬至節！好好享受你的湯圓。但是，不要吃 503 顆！也不要熬夜太晚！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "冬至要吃湯圓，有人說最好吃雙數的湯圓。",
+      "content": [
+        {
+          "text": "1. lucky 幸運的。\nDo people believe even numbers are lucky? 人們相信偶數是幸運的嗎? Not always.\n那不一定。",
+          "time": null
+        },
+        {
+          "text": "2. luck 運氣。\nThat's because \"four\" sounds like \"death\" in Chinese.\n因為它的中文發音聽起來像死亡。\nI see. 原來如此。\nAnd many people eat for good luck too.很多人也會以吃東西來求好運。",
+          "time": null
+        },
+        {
+          "text": "3. do 做。\nLike what? 比如說什麼?\nLike some students eat zongzi before a big test.\n比如有學生會在大考之前吃粽子。\nWhy do they do that? 他們為什麼那樣做?",
+          "time": null
+        },
+        {
+          "text": "4. special 特別的。\nIs it because zongzi are special? 是因為粽子很特別嗎?\nBecause they think zongzi sounds like \"ace it\" in Chinese.\n因為他們相信粽子的中文聽起來像高中。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很有用喔。\nlucky幸運的 luck運氣 do做 special特別的"
+    },
+    "quiz": [
+      {
+        "question": "1. What is Dongzhi?",
+        "options": [
+          "a. The shortest day of the year",
+          "b. The coldest day of the year",
+          "c. The shortest night of the year"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What do people eat for Dongzhi?",
+        "options": [
+          "a. Mooncakes",
+          "b. Suncakes",
+          "c. Rice balls"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Which is an even number?",
+        "options": [
+          "a. 11",
+          "b. 52",
+          "c. 503"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
