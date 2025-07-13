@@ -1836,5 +1836,112 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20241227-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education",
+      "Outdoor Education",
+      "Good Health and Well-Being"
+    ],
+    "title": "Taiwan Has the World's Biggest Swim Event",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241226NK.mp3",
+    "content": [
+      {
+        "en": "In Taiwan, more than twenty thousand swimmers went to Sun Moon Lake. Most swimmers were from Taiwan. There were swimmers from thirty eight other countries too!",
+        "tw": "超過 2 萬個游泳者湧進日月潭，他們不只來自台灣各地，還有其他 38 個國家的選手!",
+        "time": null
+      },
+      {
+        "en": "They all got ready to swim. Everyone was excited! They wanted to swim three kilometers across the lake.",
+        "tw": "他們都很興奮地準備游泳，泳渡整個日月潭，總共要游 3 公里!",
+        "time": null
+      },
+      {
+        "en": "The countdown began: Three… two… one…! The whistle blew! The swimmers jumped into the water!",
+        "tw": "游泳開始!選手們跳進水裡。",
+        "time": null
+      },
+      {
+        "en": "There were two swims at this event. Some people swam in the fast one. Most people swam in the general one. Some swam slowly to enjoy the beautiful day!",
+        "tw": "這項活動分為兩個組別。想要挑戰自己的人參加快速組，大部分人則是參加一般組，可以慢慢地游，好好享受這美好的一天。",
+        "time": null
+      },
+      {
+        "en": "In the general swim, swimmers were given a buoy. Buoys help swimmers keep their head above the water. Tired swimmers can stay safe. It's a long swim!",
+        "tw": "參加一般組的人都會拿到一個浮標，累的時候可以用它浮在水面，保持安全。",
+        "time": null
+      },
+      {
+        "en": "Ma Ying-Jeou, one of Taiwan's former presidents, swam. He is 74 years old. He has done this swim eleven times! He said he loves the event.",
+        "tw": "七十四歲的前總統馬英九，竟然已經泳渡日月潭 11 次! 他真的很愛這個活動。",
+        "time": null
+      },
+      {
+        "en": "This is the biggest swimming event in the world. It's not a race. Swimmers aren't timed.",
+        "tw": "這是世界上最大的游泳活動，不過它沒有計時，不是比賽，大家可以自在地享受游泳。",
+        "time": null
+      },
+      {
+        "en": "No one wins and no one loses. That's nice! People have a fun day of swimming in beautiful Sun Moon Lake!",
+        "tw": "沒有人贏也沒有人輸。這很好！人們在美麗的日月潭度過了愉快的游泳日！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "泳渡日月潭是南投縣每年盛大的活動，總是吸引許多人參加。",
+      "content": [
+        {
+          "text": "1. jump into 跳進去.\nWhy did the teacher jump into the pool? 老師為什麼跳進池子裡?\nShe wanted to test the pool. 因為她給那個池子考試。\nThat's a good one! 這個好笑!",
+          "time": null
+        },
+        {
+          "text": "2. swimmer 游泳的人.\nBy the way, are you still on the swimming team? 對了，你還在游泳隊嗎? No, I\nquit. I'm not a good swimmer. 沒有，我退出了。我不是好游泳選手。",
+          "time": null
+        },
+        {
+          "text": "3. race 比賽.\nI decided to take up running. 我決定去跑步。\nRunning is good exercise. 跑步是好運動。\nYeah, and I like running races. 而且我喜歡賽跑。",
+          "time": null
+        },
+        {
+          "text": "4. event 活動.\nThere are many running events in Taiwan every year. 台灣每年都有很多跑步活動。\nYou can even join the Taipei Marathon! 你甚至可以參加台北馬拉松!",
+          "time": null
+        }
+      ],
+      "postscript": "我們來一起讀單字。jump into跳進去 swimmer游泳的人 race比賽 event活動"
+    },
+    "quiz": [
+      {
+        "question": "1. Where was the event?",
+        "options": [
+          "a. An ocean",
+          "b. A lake",
+          "c. A swimming pool"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How far did swimmers swim to cross the lake?",
+        "options": [
+          "a. Three kilometers",
+          "b. Five kilometers",
+          "c. Seven kilometers"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did swimmers in the general swim use to stay safe?",
+        "options": [
+          "a. Balls",
+          "b. Buoys",
+          "c. Boats"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
