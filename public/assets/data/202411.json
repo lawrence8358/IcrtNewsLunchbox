@@ -1008,5 +1008,101 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20241114-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education",
+      "Indigenous Education"
+    ],
+    "title": "The Pasta'ay Festival Is About Something Serious",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241113NK.mp3",
+    "content": [
+      {
+        "en": "The Saisiyat are one of the Indigenous Taiwanese Peoples. Long ago, there were many Saisiyat people. Today, there are around six thousand Saisiyat in Taiwan.",
+        "tw": "賽夏族是台灣的原住民族，原本人口很多的他們，現在只有大約 6 千人。",
+        "time": null
+      },
+      {
+        "en": "But the Saisiyat have saved their traditions. One tradition is a very interesting festival!",
+        "tw": "但是賽夏族保留了他們的傳統節慶，其中一個很有趣哦！",
+        "time": null
+      },
+      {
+        "en": "People usually have happy festivals. But the Saisiyat have a very different one. It's not a sad festival. But it's also not a happy one. They have their Pasta'ay Festival to say \"sorry.\"",
+        "tw": "大部分的慶典都是歡樂的，但賽夏族有一個很不一樣的節慶，既不悲傷也不歡樂，為什麼呢？因為他們的矮靈祭，是為了道歉。",
+        "time": null
+      },
+      {
+        "en": "The Saisiyat have a story. A long time ago, there were some very short people. They were about one meter tall. They taught the Saisiyat how to grow food. But then the short people and the Saisiyat had a big fight. The short people went away.",
+        "tw": "很久以前，矮人族教導賽夏族怎麼種植食物，但是之後他們有了紛爭，矮人族就生氣離開了！",
+        "time": null
+      },
+      {
+        "en": "Now the Saisiyat have this festival every two years. They dance and sing for a long time. In the dances and songs, they say \"sorry\" to the short people.",
+        "tw": "現在賽夏族人每兩年舉辦一次矮靈祭，他們會唱歌跳舞，用音樂跟舞蹈，表達對矮人族的歉意。",
+        "time": null
+      },
+      {
+        "en": "The Pasta'ay Festival is this weekend in Miaoli and Hsinchu!",
+        "tw": "矮靈祭本週末將在苗栗和新竹舉行！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "",
+      "content": [
+        {
+          "text": "1. festival 慶典。\nHave you ever been to any Indigenous people's festivals?\n你有去過原住民的慶典嗎?\nNo. Have you? 沒有。你呢?\nNo, but I'd like to see one.沒有，不過我很想看看。",
+          "time": null
+        },
+        {
+          "text": "2. sing 唱歌，dance 跳舞。\nI guess there would be lots of singing and dancing. 我猜有很多唱歌跳舞。Yeah,\nand maybe some good food too. 對，也許還有好吃的食物。",
+          "time": null
+        },
+        {
+          "text": "3. people 人群。\nBut do you know what's the world's biggest festival?\n但是你可知道世界最大的節慶是哪個?\nLet me guess. Rio's Carnival? 我來猜。里約的嘉年華嗎?\nYou got it. 猜對了。\nTwo million people join it every year.每年有兩百萬人參加。",
+          "time": null
+        },
+        {
+          "text": "4. interesting 有趣的。\nIt must be a very interesting event. 一定是非常好玩的活動。\nMust be. 肯定的。\nToo bad Brazil is so far away. 可惜巴西那麼遠。",
+          "time": null
+        }
+      ],
+      "postscript": "Have you been to any big festivals?\nfestival慶典 sing唱歌 dance跳舞 people 人群 interesting 有趣的"
+    },
+    "quiz": [
+      {
+        "question": "1. Which people have a festival every two years?",
+        "options": [
+          "a. The Saisiyat",
+          "b. The short people",
+          "c. The Amis"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What do people say at this festival?",
+        "options": [
+          "a. Thank you",
+          "b. Hello",
+          "c. Sorry"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did the short people teach the Saisyat people?",
+        "options": [
+          "a. How to grow food",
+          "b. How to sing",
+          "c. How to dance"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
