@@ -503,5 +503,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241108-01",
+    "type": "國小",
+    "tag": [
+      "Technology Education",
+      "Technology",
+      "Natural Sciences"
+    ],
+    "title": "Taiwan Sends Two Satellites into Space",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241107NK.mp3",
+    "content": [
+      {
+        "en": "Did you know Taiwan has a space agency? It's called TASA. It does cool things!",
+        "tw": "你知道台灣有太空總署 TASA 嗎? 他們會做些很酷的事情。",
+        "time": null
+      },
+      {
+        "en": "TASA sent two satellites into space. Satellites go around the Earth. They get information or help with communication.",
+        "tw": "TASA 發射了兩枚人造衛星到太空，它們環繞地球，收集各項資料或是協助通訊。",
+        "time": null
+      },
+      {
+        "en": "The Taiwanese satellites are very small. They're thirty centimeters long, ten centimeters tall, and ten centimeters wide!",
+        "tw": "這些人造衛星非常小，只有 30 公分長、10 公分高，10 公分寬!",
+        "time": null
+      },
+      {
+        "en": "TASA paid a company to take the satellites into space. One day, the company's rocket took off. Two and a half hours later, the satellites were going around and around the Earth!",
+        "tw": "TASA 請了一個公司用火箭發射衛星，火箭起飛後短短的 2 個半小時，衛星就開始繞著地球轉!",
+        "time": null
+      },
+      {
+        "en": "Taiwanese companies made these satellites. They want to enter the space business. If their satellites work well, maybe they can!",
+        "tw": "這些衛星是台灣公司製造，他們想進入太空產業。如果衛星運作良好，他們就有機會！",
+        "time": null
+      },
+      {
+        "en": "One satellite looks at the ocean's color. The colors show where fish eat. Finding where fish eat helps Taiwan's fishermen.",
+        "tw": "其中一個衛星觀察海洋的顏色，找出魚群都在哪裡覓食。這個資訊對台灣漁民很重要。",
+        "time": null
+      },
+      {
+        "en": "The other satellite sees if satellites in space are communicating with machines on Earth. TASA helps Taiwanese companies enter the space business! That's great for Taiwan!",
+        "tw": "另一個衛星則查看太空中的衛星是否與地球上的機器正常通訊。TASA 幫助台灣公司進入太空產業！這對台灣來說太棒了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台灣自製的小衛星，可以提供各種資訊。",
+      "content": [
+        {
+          "text": "1. satellite 衛星。\nThat star is moving across the sky! 那顆星星在天上飛!\nThat's not a star, Paz. 那不是星星。\nIt's a satellite. 是一顆人造衛星。",
+          "time": null
+        },
+        {
+          "text": "2. go around 環繞。\nHow do you know that? 你怎麼知道?\nStars don't move. 星星不會移動。\nBut this satellite does. 但是這個會。\nIt goes around the Earth. 它環繞地球運行。",
+          "time": null
+        },
+        {
+          "text": "3. make 製造。\nSo it's made by people? 所以它是人造的?\nYeah, it's manmade and sent to space by a rocket.\n對，人造的，然後用火箭送進太空。\nThat's very cool! 那好酷喔!\nI think so too. 我也覺得。",
+          "time": null
+        },
+        {
+          "text": "4. do 做。\nWhat does it do? 它做什麼呢?\nFor one thing, it can see typhoons and tell us when they will come.\n比如說它可以看到颱風，然後告訴我們颱風什麼時候來。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。 satellite衛星 go around環繞 make製造 do做"
+    },
+    "quiz": [
+      {
+        "question": "1. What is Taiwan's space agency called?",
+        "options": [
+          "a. ROCSA",
+          "b. TAISA",
+          "c. TASA"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What sent the Taiwanese satellites into space?",
+        "options": [
+          "a. A company's rocket",
+          "b. A Taiwan space agency rocket",
+          "c. A plane"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What does one of the satellites do?",
+        "options": [
+          "a. Catch fish in the ocean",
+          "b. Look at the ocean's color",
+          "c. Send rockets into space"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
