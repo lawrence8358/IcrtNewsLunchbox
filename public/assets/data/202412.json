@@ -1454,5 +1454,97 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241223-01",
+    "type": "國小",
+    "tag": [
+      "Life Below Water",
+      "Environmental Education",
+      "Marine Education",
+      "Natural Sciences"
+    ],
+    "title": "Getting Close to Gray Whales in Mexico",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241220NK.mp3",
+    "content": [
+      {
+        "en": "Once upon a time, gray whales were almost gone because people hunted them. But today, in Laguna San Ignacio in Mexico, these whales are not just safe, they're super friendly!",
+        "tw": "灰鯨以前差一點絕種，但是現在在墨西哥聖伊格納西奧潟湖，牠們不僅很安全，還可以跟人近距離接觸!"
+      },
+      {
+        "en": "Imagine sitting in a small boat when a giant whale swims right up to you! And, you can see its giant eyes, as big as baseballs. The whales often come close to boats to say \"hello\" to people. A local guide says the whales are curious about us.",
+        "tw": "想像一下坐在小船裡，灰鯨游向你，而且可以看到牠們像棒球一樣大的眼睛，墨西哥當地導遊說，鯨魚對人類很好奇，常常游近小船旁，說哈囉!"
+      },
+      {
+        "en": "Every year, these gray whales travel from the cold Arctic to the warm Mexican waters. They go there to have their babies because it's a safe place for them.",
+        "tw": "每一年，這些灰鯨都會從寒冷的北極海，來到溫暖的墨西哥生小寶寶，那裏對牠們來說很安全。"
+      },
+      {
+        "en": "Laguna San Ignacio became a special spot. People come here to see whales up close. But don't worry … the whales are never bothered.",
+        "tw": "Laguna，潟湖，就是海邊被沙堤圍住的水域，通常跟大海連在一起。很多人會到墨西哥的San Ignacio 潟湖近距離看鯨魚，不過別擔心，牠們不會被打擾。"
+      },
+      {
+        "en": "When the whales come, people turn off their boat engines and wait quietly. They let the whales decide if they want to come closer.",
+        "tw": "當灰鯨接近時，人們會關掉船的引擎並安靜地等候，然後讓鯨魚自己決定要不要靠近。"
+      },
+      {
+        "en": "It's an amazing way for both people and whales to learn from each other!",
+        "tw": "這對人類和鯨魚來說，是一種絕佳的互相學習方式！"
+      }
+    ],
+    "vocabulary": {
+      "preface": "可以近距離觀察鯨魚，是難得的經驗。",
+      "content": [
+        {
+          "text": "1. safe 安全的。I want a holiday in Kenting. 我想在墾丁度假。Close enough to the ocean but safe on land. 離海很近，卻安全的在陸地上。You don't like swimming in the sea? 你不喜歡在海裡游泳?",
+          "time": null
+        },
+        {
+          "text": "2. warm 溫暖的。No, the water is too cold. 不喜歡，海水太冷。Are you kidding? 開玩笑吧?The sea water in Kenting is warm.墾丁的海水很溫暖。No, not in winter time. 冬天時可不暖。",
+          "time": null
+        },
+        {
+          "text": "3. close 靠近的。Then why do you want to be close to the sea? 那你為什麼要靠近海?It's pretty. 風景美啊。",
+          "time": null
+        },
+        {
+          "text": "4. friendly 友善的。Also, people in southern Taiwan are very friendly. 而且南臺灣的人很友善。I'm from the north. 我是北部人。You see what I mean? 你懂了吧。",
+          "time": null
+        }
+      ],
+      "postscript": "我們來一起讀單字。safe安全的 warm溫暖的 close靠近的 friendly友善的"
+    },
+    "quiz": [
+      {
+        "question": "1. What happened to gray whales a long time ago?",
+        "options": [
+          "a. They were almost gone",
+          "b. They got lost",
+          "c. They couldn't find food"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Why do gray whales go to Mexico?",
+        "options": [
+          "a. To find food",
+          "b. To see people",
+          "c. To have babies"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What do people do when the whales come near their boats?",
+        "options": [
+          "a. Move away",
+          "b. Turn off the motors",
+          "c. Hunt whales"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
