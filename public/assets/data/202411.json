@@ -307,6 +307,109 @@
     ]
   },
   {
+    "id": "20241106-01",
+    "type": "國小",
+    "tag": [
+      "Climate Action",
+      "Environmental Education",
+      "Outdoor Education",
+      "Natural Sciences"
+    ],
+    "title": "Taiwan's Giant Trees Need Help",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241105NK.mp3",
+    "content": [
+      {
+        "en": "On a mountain in Taiwan, a scientist climbs a giant tree. It is 67 meters tall. That's as tall as a 20-story building!",
+        "tw": "在台灣的山上，科學家正在攀爬一棵巨大的樹。這棵樹有 67 公尺高，就像 20 層樓那麼高!",
+        "time": null
+      },
+      {
+        "en": "Giant trees don't grow in many places. But many giant trees grew in Taiwan. Mountain forests were full of giant trees. But for a long time, people cut them down for wood. Now they cannot cut them.",
+        "tw": "台灣的深山裡有很多世界稀有的巨大樹木，很久以前，人們會把樹木砍掉作木材，現在不能這麼做。",
+        "time": null
+      },
+      {
+        "en": "There are about one thousand giant trees now. But some of these trees are dying!",
+        "tw": "台灣大概有 1000 棵巨大樹木，但有一些已經快死掉了!",
+        "time": null
+      },
+      {
+        "en": "Having fewer trees is bad news for everyone. Trees help keep the air clean. They help cool the Earth!",
+        "tw": "樹變少對大家是不好的，樹幫助我們保持空氣乾淨，也讓地球更涼爽!",
+        "time": null
+      },
+      {
+        "en": "Now scientists are studying the trees. They climb up the trees. They see if the trees are growing bigger. But they don't climb all the giant trees! They also use radar and drones.",
+        "tw": "科學家會爬到樹上檢查樹木的狀況，但他們並不是爬上所有的大樹！他們還會使用雷達跟無人機來協助。",
+        "time": null
+      },
+      {
+        "en": "Scientists think climate change is making some of these trees die. Trees are strong. But climate change is happening too fast for them.",
+        "tw": "科學家認為氣候快速的變遷，讓很多樹木死亡。",
+        "time": null
+      },
+      {
+        "en": "These giant trees need our help. How can we help? We need to slow down climate change. Then these trees can keep growing for many more years!",
+        "tw": "這些巨樹需要我們的幫助。我們能如何幫助？我們需要減緩氣候變遷。這樣這些樹就能繼續生長許多年！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台灣有很多巨大的老樹，要靠你我來保護。",
+      "content": [
+        {
+          "text": "1. tall 高的。\nLook at that tree! 你看那棵樹。\nIt's so tall, you'd feel it could touch the sky!\n它好高，感覺碰到了天空。Imagine the view up there. 想像一下上面的景觀。",
+          "time": null
+        },
+        {
+          "text": "2. climb up 往上爬。\nYeah, you would be able to see the ocean. 是啊，應該可以看到海。\nI'd like to climb up there.我想爬上去。\nIt'll take forever. 會需要很長的時間。",
+          "time": null
+        },
+        {
+          "text": "3. cut down 砍掉。\nToo bad so many trees got cut down.真可惜好多樹被砍了。\nI think the government is growing new ones.我想政府正在種新的。",
+          "time": null
+        },
+        {
+          "text": "4. forest 森林。\nGood luck with that! 祝它好運。\nIt takes at least 50 years to grow a forest of these trees.\n培養這樣的森林至少要五十年呢。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡爬樹嗎? 跟我一起讀單字。\ntall高的 climb up 往上爬 cut down 砍掉 forest 森林"
+    },
+    "quiz": [
+      {
+        "question": "1. How tall is the tree the scientist is climbing?",
+        "options": [
+          "a. 66 meters",
+          "b. 67 meters",
+          "c. 76 meters"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do scientists use to study the trees?",
+        "options": [
+          "a. Books",
+          "b. Drones",
+          "c. Helicopters"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why are some of Taiwan's giant trees dying?",
+        "options": [
+          "a. Radar",
+          "b. Wood",
+          "c. Climate change"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20241107-01",
     "type": "國小",
     "tag": [
