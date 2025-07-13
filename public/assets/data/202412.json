@@ -881,5 +881,102 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241213-01",
+    "type": "國小",
+    "tag": [
+      "Industry, Innovation and Infrastructure",
+      "Technology Education",
+      "Technology"
+    ],
+    "title": "What's Printing? A Hotel!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241212NK.mp3",
+    "content": [
+      {
+        "en": "3D printers can make small plastic things. They can print key rings, whistles, and many other things. But some 3D printers can print big things!",
+        "tw": "3D 列印大部分用來做小東西，像是塑膠鑰匙圈或是哨子，但其實也可以列印出巨大的東西!",
+        "time": null
+      },
+      {
+        "en": "In the U.S., there is a very big 3D printer. It's five meters tall! It's fourteen meters wide! It weighs four thousand five hundred kilograms! That's about 140 kids in 5th and 6th grade!",
+        "tw": "在美國，有一台非常大的 3D 印表機，它 5 公尺高，14 公尺寬，重達4500 公斤，是 140 個五六年級學生加起來的重量!",
+        "time": null
+      },
+      {
+        "en": "Why is it so big? Well, that printer is printing a hotel! It is the first 3D printed hotel in the world. But it isn't made of plastic. It's made of cement.",
+        "tw": "為什麼這台印表機這麼大呢? 因為需要用它來列印一座飯店! 這是世界第一間用3D印表機列印出來的飯店，而且是用水泥做的。",
+        "time": null
+      },
+      {
+        "en": "Cement for 3D printers is very strong. The hotel buildings are round. They have domes and arches.",
+        "tw": "從3D 印表機出來的是水泥，飯店建築是圓形的，還有圓頂和拱形結構。",
+        "time": null
+      },
+      {
+        "en": "The 3D printed hotel has 43 rooms. But the rooms are not in one building. Each room is a small building! There is one printer. That's a lot of printing to do!",
+        "tw": "這座飯店有 43 個房間，每個房間都是獨立一棟建築，全部的工作都靠一台印表機列印!",
+        "time": null
+      },
+      {
+        "en": "The hotel opens in 2026. Do you want to go to this printed hotel?",
+        "tw": "這間飯店將於2026年開幕。你想去這間列印的飯店嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "3D印表機，已經進步到可以用來建造房屋。",
+      "content": [
+        {
+          "text": "1. print 印。\nThe things that 3D printers can print are amazing!\n3D印表機能列印的東西真驚人!\nLike what? 比如說哪些?\nA human heart or a liver. 人的心臟，或是肝臟。",
+          "time": null
+        },
+        {
+          "text": "2. thing 東西。\nBut are they any good? 但是那些好嗎?\nI don't think I'd use the things made by a printer!\n我想我不會用印表機做出的東西!",
+          "time": null
+        },
+        {
+          "text": "3. make 製作或是製造。\nI don't know if they're good. 我不知道它們好不好。\nBut they can be made. 但是做得出來。",
+          "time": null
+        },
+        {
+          "text": "4. small 小的。\nI think 3D printers should be used for small things only.\n我覺得應該只用3D印表機做小東西。\nLike shoes or glasses. 比如說鞋子或是眼鏡。",
+          "time": null
+        }
+      ],
+      "postscript": "你有看過3D印表機嗎?\nprint印 thing東西 make製作或是製造 small小的"
+    },
+    "quiz": [
+      {
+        "question": "1. How tall is the 3D printer?",
+        "options": [
+          "a. 5 meters",
+          "b. 140 meters",
+          "c. 4,500 meters"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What is the 3D printed hotel made of?",
+        "options": [
+          "a. Wood",
+          "b. Cement",
+          "c. Plastic"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. When does the 3D printed hotel open?",
+        "options": [
+          "a. 2025",
+          "b. 2026",
+          "c. 2028"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
