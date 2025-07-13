@@ -1391,5 +1391,101 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20241119-01",
+    "type": "國小",
+    "tag": [
+      "Safety Education",
+      "Social Studies"
+    ],
+    "title": "A Big Social Media Change for Teens",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241118NK.mp3",
+    "content": [
+      {
+        "en": "Many teenagers are on social media. Some of their accounts are changing …",
+        "tw": "有很多青少年用社群媒體，有一些帳號將會有很大的改變。",
+        "time": null
+      },
+      {
+        "en": "In Australia, Canada, the UK, and the USA, new teen accounts are keeping teens safe online. They are for 13 to 17-year-old teens. Next year, teens here will get them too.",
+        "tw": "青少年帳號會保護 13 到 17 歲的青少年，目前在澳洲、加拿大、英國跟美國進行，明年台灣也會有!",
+        "time": null
+      },
+      {
+        "en": "Experts say social media is bad for teens. It has lots of bullies and strangers. And some teens cannot stop looking at social media!",
+        "tw": "專家說社群媒體對青少年來說是不好的，它有很多陌生人跟霸凌者。有一些青少年可能會用到上癮!",
+        "time": null
+      },
+      {
+        "en": "Teen accounts are private. Teens talk with people they want to talk with. Bullies and strangers cannot talk with teens. They cannot see pictures or write in teen accounts.",
+        "tw": "青少年帳號會是私人的，能用來跟朋友聊天，但陌生人或霸凌者沒辦法跟他們講話，或是看他們的照片。",
+        "time": null
+      },
+      {
+        "en": "With teen accounts, teens cannot see everything on social media. Parents say how long their teen can use it. This means teens cannot look at social media for too long... or too late at night! Parents can see who their teens talked with. They can see what their teens looked at!",
+        "tw": "青少年帳號會限制他們能看到的東西，父母也可以限制他們的時間，不能太長，也不能太晚，還可以知道他們的孩子在跟誰聊天，或是看了哪一些網頁！",
+        "time": null
+      },
+      {
+        "en": "This social media makeover for teens keeps them safe online!",
+        "tw": "這次社群媒體為青少年做的改造，讓他們在線上更安全！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "青少年有自己的帳號，比較安全。",
+      "content": [
+        {
+          "text": "1. social media 社群媒體。\nWho are you looking at? 你在看誰?\nOnly Cristiano Ronaldo. 只是在看C羅。\nAnd I'm not the only one.不只是有我。\nHe has 985 million social media followers! 他有九億八千五百萬社群媒體粉絲!",
+          "time": null
+        },
+        {
+          "text": "2. talk 交談。\nThat's amazing! 真驚人!\nI know. I hope I can talk to him someday. 我知道。真希望有一天能跟他講話。",
+          "time": null
+        },
+        {
+          "text": "3. online 上網。\nYou can try to do that online.你可以試試跟他上網交談。\nOnline talking is different.上網談不一樣。",
+          "time": null
+        },
+        {
+          "text": "4. picture 圖片或是照片。\nIt's better than nothing. 總比沒有好。\nFor now his pictures are good enough for me. 以現在來說他的照片就夠了。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you often go online? 請跟我一起讀單字。\nsocial media社群媒體 talk交談 online上網 picture圖片或是照片"
+    },
+    "quiz": [
+      {
+        "question": "1. How old are the kids who get a teen account?",
+        "options": [
+          "a. 13 to 17",
+          "b. 13 to 18",
+          "c. 13 to 19"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What are teen accounts for?",
+        "options": [
+          "a. Talking with bullies",
+          "b. Getting makeovers",
+          "c. Keeping safe online"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Where do teens have a teen account now?",
+        "options": [
+          "a. Austria",
+          "b. Australia",
+          "c. Azerbaijan"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
