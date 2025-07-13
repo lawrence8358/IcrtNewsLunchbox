@@ -1770,5 +1770,102 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20241125-01",
+    "type": "國小",
+    "tag": [
+      "Technology Education",
+      "Technology",
+      "Natural Sciences"
+    ],
+    "title": "Scientists Think Mars Has Lots of Water",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241122NK.mp3",
+    "content": [
+      {
+        "en": "Water is important for life. On Earth, there is no life with no water. That is the same for other planets too, like Mars.",
+        "tw": "水非常重要，沒有水就沒有生命，在火星上也是。",
+        "time": null
+      },
+      {
+        "en": "Scientists think Mars had lots of water billions of years ago. Then all the water on Mars went away. Where did it go? Maybe some water went into space. But where did most of it go? No one knows.",
+        "tw": "科學者認為火星在幾十億年前有水，但之後水慢慢消失了，是跑到太空了嗎?沒有人知道。",
+        "time": null
+      },
+      {
+        "en": "But now scientists think there is lots of water there. What? Mars is very dry! It has cracks! Where is the water?",
+        "tw": "但科學家說，那裡現在還是有很多水，火星這麼乾，還有很多裂縫，怎麼可能有水?",
+        "time": null
+      },
+      {
+        "en": "Scientists think the water went down into the cracks. They think the water is deep in Mars now. They think it is 10 or 20 kilometers deep!",
+        "tw": "科學家認為水應該在裂縫深處，在火星地底 10 到 20 公里深!",
+        "time": null
+      },
+      {
+        "en": "Scientists think there is lots of water. It can make an ocean. It can cover all of Mars. It can be one or two kilometers deep. But it's deep in Mars.",
+        "tw": "科學家認為那些水足夠變成 1到2 公里深的海洋，覆蓋整個火星，只是現在在地底下。",
+        "time": null
+      },
+      {
+        "en": "Is there life on Mars? No one knows. Maybe we will find life there one day. But it will be very hard. The water is a long, long way down! What will life on Mars be like? Hmmmmm …",
+        "tw": "火星上有生命嗎？沒有人知道。或許有一天我們會在那裡找到生命。但這會非常困難。水在很深很深的地方！火星上的生命會是什麼樣子？嗯嗯嗯...",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "火星上的水，可能躲藏在很深的地底下。",
+      "content": [
+        {
+          "text": "1. scientist 科學家。 Why are scientists so interested in Mars?為什麼科學家對火星那麼有興趣? I guess they want to move there. 我猜他們想搬去那裏。 To live on Mars? 去住在火星嗎? Yeah.是啊。",
+          "time": null
+        },
+        {
+          "text": "2. think 認為。 That's not a good idea, is it? 那不是個好主意吧? Probably not. 也許不是。 Do you think they can make it? 你覺得他們會成功嗎? Maybe. There's water on Mars. 也許可以，火星上有水。",
+          "time": null
+        },
+        {
+          "text": "3. space 太空。 But almost no oxygen. 但是幾乎沒有氧氣。 They can wear space suits. 他們可以穿太空衣。",
+          "time": null
+        },
+        {
+          "text": "4. can 可以或是能夠。 They can also stay indoors watching TV. 他們也可以待在室內看電視。 At least that's what they do in the movies.至少電影上是那樣。",
+          "time": null
+        }
+      ],
+      "postscript": "我們一起來讀單字。 scientist科學家 think認為 space太空 can可以或是能夠"
+    },
+    "quiz": [
+      {
+        "question": "1. What do scientists think Mars had billions of years ago?",
+        "options": [
+          "a. Lots of water",
+          "b. Lots of planets",
+          "c. Lots of cracks"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where do scientists think the water on Mars went into?",
+        "options": [
+          "a. Space",
+          "b. Oceans",
+          "c. Cracks"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Why will it be hard to find life on Mars?",
+        "options": [
+          "a. It will be a long way down.",
+          "b. The water is hot.",
+          "c. Mars is too cold."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
