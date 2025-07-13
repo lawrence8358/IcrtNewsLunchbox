@@ -1487,5 +1487,100 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241120-01",
+    "type": "國小",
+    "tag": [
+      "International Education"
+    ],
+    "title": "F1 Race Car in Taichung",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241119NK.mp3",
+    "content": [
+      {
+        "en": "Something very exciting happened in Taichung. A fast race car raced on Shizheng Road! Sixty thousand people came to watch! It was a fun, noisy day!",
+        "tw": "台中有一件刺激的事情！一輛超快的賽車在市政路上飆車，吸引六萬人來觀看，是熱鬧的一天！",
+        "time": null
+      },
+      {
+        "en": "This was Taiwan's first F1 showrun! In a showrun, race cars drive on city streets. People are close to the race cars!",
+        "tw": "這是台灣第一次F1賽車表演，人們可以在熟悉的街道旁，近距離觀看賽車飆車 !",
+        "time": null
+      },
+      {
+        "en": "But what is an F1 car? \"F1\" means \"Formula One.\" That's a very fast racing sport. F1 cars are very fast. They have one seat. The cars are open, so F1 drivers wear a helmet. The big, wide tires are outside of the car. These cars race on racetracks all around the world.",
+        "tw": "F1 的意思是 Formula 1，也就是一級方程式賽車，會在世界各地比賽。這些車子只有一個座位，而且是敞篷的，所以賽車手得戴上頭盔。車子外面有大大的輪子。",
+        "time": null
+      },
+      {
+        "en": "For the showrun, Taichung made sure the road was smooth. An F1 driver zoomed along the road! His race car roared! He made the car spin!",
+        "tw": "台中特別把道路弄得平滑，讓F1車手可以在路上呼嘯而過，還讓車子原地旋轉！",
+        "time": null
+      },
+      {
+        "en": "He drove three times. Each time he did more. He made the car slide! His tires drew circles on the road! He turned very fast, and smoke and fire came from a tire! Whoaaaa!",
+        "tw": "他的三次表演包含了很多特技！他讓車子滑行、讓輪胎在路上畫出圓圈，還冒出煙跟火！哇!",
+        "time": null
+      },
+      {
+        "en": "The showrun was very exciting! For people who love F1 cars and racing, it was a great day!",
+        "tw": "這場表演非常刺激！對於喜歡F1賽車和賽車運動的人來說，這是美好的一天！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台中市九月舉行的賽車展演，讓市民大開眼界!",
+      "content": [
+        {
+          "text": "1. race 比賽。\nThere's a strange car on the street.街上有一部奇怪的車。\nHey, that's a race car, how interesting! 那是一輛賽車，真有趣!\nIt has only one seat and no roof. 它只有一個座位，沒有車頂。",
+          "time": null
+        },
+        {
+          "text": "2. drive 駕駛。\nYeah, one can drive very fast in a car like that. 那種車可以開非常快。\nYou already drive too fast, Paz.你已經開太快了!",
+          "time": null
+        },
+        {
+          "text": "3. make sure 確保。\nI always make sure I'm not a danger to others.我都確保不會對別人造成危險。\nOr to yourself.或者是對你自己。\nOr to myself.或是我自己。",
+          "time": null
+        },
+        {
+          "text": "4. turn 轉彎。\nSo do you need a ride? 你想搭便車嗎?\nOf course! 當然! But please, don't turn so suddenly. 但是拜託不要突然轉彎。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了嗎?race比賽 drive駕駛 make sure確保 turn轉彎"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did the F1 showrun happen?",
+        "options": [
+          "a. Taipei",
+          "b. Taichung",
+          "c. Tainan"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What does \"F1\" stand for?",
+        "options": [
+          "a. Formula One",
+          "b. Fastest One",
+          "c. Famous One"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did the city do for the F1 showrun?",
+        "options": [
+          "a. Made new roads",
+          "b. Built smooth racetracks",
+          "c. Made the road smooth"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
