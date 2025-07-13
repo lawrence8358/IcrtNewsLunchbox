@@ -1943,5 +1943,112 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241230-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Technology",
+      "Technology Education"
+    ],
+    "title": "Japanese Satellite Surprise",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241227NK.mp3",
+    "content": [
+      {
+        "en": "Manmade satellites go around the Earth. Some take pictures of things in space. Some take pictures of the Earth. Some help us know how to go somewhere. Some help us know about the weather. Some send phone calls to different places. Satellites are important!",
+        "tw": "人造衛星繞著地球轉，它們有很多任務！像是拍攝太空跟地球的照片、把電話轉接到世界各地、幫助我們做天氣預報等等。",
+        "time": null
+      },
+      {
+        "en": "Satellites work in very hot sunlight and very cold darkness. So they are made of metal and other strong things.",
+        "tw": "因為衛星要在很強的太陽光裡，或是非常低的溫度中工作，所以它們通常是金屬或是其他比較堅固的東西做的。",
+        "time": null
+      },
+      {
+        "en": "But now Japanese scientists have made one of … wood!",
+        "tw": "但是現在日本科學家竟然用木頭做了衛星！",
+        "time": null
+      },
+      {
+        "en": "Wood won't burn in space. Fire needs oxygen. Space has no oxygen.",
+        "tw": "因為太空中沒有氧氣，所以木頭不會燒起來。",
+        "time": null
+      },
+      {
+        "en": "Wood won't rot in space. Wood rots from water. Space has no water.",
+        "tw": "木頭遇到水才會腐爛，太空裡也沒有水。",
+        "time": null
+      },
+      {
+        "en": "The scientists used a very strong wood. This wood was also used to hold samurai swords! Two woodworkers made the wood parts.",
+        "tw": "科學家說這種木頭非常堅固，它也被用來做成日本武士刀的刀柄。",
+        "time": null
+      },
+      {
+        "en": "Now this wooden satellite is going around the Earth for six months. The scientists want to see what happens.",
+        "tw": "現在這個衛星已經環繞地球六個月了，科學家們都很好奇之後會發生甚麼事。",
+        "time": null
+      },
+      {
+        "en": "One day people will live on the moon. The Japanese scientists wanted to grow trees there. Maybe people will make wooden satellites there too!",
+        "tw": "有一天人們將會住在月球上。日本科學家們希望能在月球上種樹。或許人們到時也能在那裡製作木製衛星！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "木頭做成的衛星，已經環繞地球好幾個月了。",
+      "content": [
+        {
+          "text": "1. weather 天氣。\nWow, your backpack is heavy! 你的背包好重!\nIt's because of my umbrella. 都是因為我的傘。\nYou won't need your umbrella if you listen to the weather reports.\n你假如聽氣象預報就不用帶傘了。",
+          "time": null
+        },
+        {
+          "text": "2. Earth 地球。\nBut weather reports are often wrong. 但是天氣預報常常錯。\nHow could scientists be wrong? 科學家怎麼會錯?\nThey have satellites to watch the Earth. 他們有衛星注意著地球。",
+          "time": null
+        },
+        {
+          "text": "3. space 太空。\nWell, satellites are in space. That's too far away. 衛星在太空中，隔得太遠了。",
+          "time": null
+        },
+        {
+          "text": "4. hot 熱的。\nOkay, I get it. You just love your umbrella. 好吧，我懂了，你就是喜歡你的傘。\nYeah, rain or shine, hot or cold, an umbrella is useful.\n不論下雨天晴，熱或是冷，傘都有用。",
+          "time": null
+        }
+      ],
+      "postscript": "來讀讀單字吧。\nweather天氣 Earth地球 space太空 hot熱的"
+    },
+    "quiz": [
+      {
+        "question": "1. What do some satellites do?",
+        "options": [
+          "a. Make metal and other things",
+          "b. Rot in space",
+          "c. Send phone calls to different places"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did Japanese scientists use to make a satellite?",
+        "options": [
+          "a. Paper",
+          "b. Wood",
+          "c. Metal"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How long will the Japanese satellite go around the Earth?",
+        "options": [
+          "a. 3 months",
+          "b. 6 months",
+          "c. 9 months"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
