@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20241202-01",
     "type": "國小",
@@ -100,6 +100,101 @@
         ],
         "time": null,
         "answer": "c"
+      }
+    ]
+  },
+  {
+    "id": "20241204-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences"
+    ],
+    "title": "Fish See Themselves in the Mirror",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241203NK.mp3",
+    "content": [
+      {
+        "en": "When you look in a mirror, you see yourself. You know it's you. Do fish know themselves? Knowing themselves means fish are smart. Scientists wanted to find out. So they gave some fish the mirror test.",
+        "tw": "照鏡子的時候，你知道鏡子裡的人是自己，魚可以認出鏡子裡的自己嗎？認的出，就代表魚很聰明，所以科學家做了實驗。",
+        "time": null
+      },
+      {
+        "en": "Here's how the mirror test works. Scientists put a very small mark on each fish. The fish could not see the mark. Then the scientists showed the fish themselves in a mirror.",
+        "tw": "科學家在每一隻魚身上畫了一個標記，但是魚自己看不到。接著，科學家給牠們照鏡子。",
+        "time": null
+      },
+      {
+        "en": "One by one, each fish looked in the mirror. Each saw a fish. Each saw the mark. Then each tried to make the mark go away. The fish knew themselves!",
+        "tw": "結果，每一條魚照鏡子後都想把身上的標記弄掉。牠們明白鏡子裡的魚是自己!",
+        "time": null
+      },
+      {
+        "en": "An excited scientist said, \"This is the coolest thing!\" But some scientists thought the test was broken! Why? They thought fish could not be smart. But fish are smart!",
+        "tw": "科學家興奮地說：「這真是太酷了！」雖然也有一些科學家不相信，但是魚真的這麼聰明!",
+        "time": null
+      },
+      {
+        "en": "It's important to learn about fish. Fish are the animals we eat the most. Fish are the pets we have the most. Fish are the animals scientists use for research the most. And now we know they are smart!",
+        "tw": "了解魚類很重要，因為在所有動物中，魚類是我們最常吃的，也養魚當寵物，或者用牠們做實驗。現在我們知道牠們智商滿高的!",
+        "time": null
+      },
+      {
+        "en": "These smart fish do a lot for us. It's important to be good to them!",
+        "tw": "這些聰明的魚對我們幫助很大。對牠們好很重要！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家用了一些實驗證明，魚可能有自我的意識。",
+      "content": [
+        {
+          "text": "1. yourself 你自己。 I don't know if fish are smart, 我不知道魚聰不聰明， but they taste really good! 不過牠真的很好吃! I agree. Do you cook fish yourself? 我同意。你自己做魚料理嗎? Sure.當然。",
+          "time": null
+        },
+        {
+          "text": "2. try 嘗試。 I always try to do it the easiest way. 我總是用最簡單的辦法。 Just add some salt, wine and garlic, and bake it. 加一點鹽，酒和大蒜，烤一烤。",
+          "time": null
+        },
+        {
+          "text": "3. learn 學習。 I'd like to learn it from you.我要跟你學。 No problem. I can record it and send it to you.沒問題，我可以拍下來寄給你。",
+          "time": null
+        },
+        {
+          "text": "4. excited 開心的。 That will be great! I'm excited! 真棒，我好開心! Finally I'll show my mom I can cook.終於可以給我媽媽看我會做菜。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like eating fish? 來讀今天的單字。 yourself你自己 try嘗試 learn學習 excited開心的"
+    },
+    "quiz": [
+      {
+        "question": "1. What test did scientists use on some fish?",
+        "options": [
+          "a. Memory test",
+          "b. Mirror test",
+          "c. Puzzle test"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What are the animals we eat the most?",
+        "options": [
+          "a. Chickens",
+          "b. Cows",
+          "c. Fish"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What's important to do for fish?",
+        "options": [
+          "a. Be good to them",
+          "b. Give them mirrors",
+          "c. Eat them"
+        ],
+        "time": null,
+        "answer": "a"
       }
     ]
   }
