@@ -902,5 +902,111 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241113-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Saving Lost Little Birds",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241112NK.mp3",
+    "content": [
+      {
+        "en": "On a small island in Iceland, families join the \"Puffin Patrol.\" They have boxes and flashlights. They search the streets at night. They look for lost pufflings!",
+        "tw": "在冰島，有一些家庭會加入海鸚鵡巡邏隊。他們會在晚上帶著箱子跟手電筒，到街上尋找走失的小海鸚鵡！",
+        "time": null
+      },
+      {
+        "en": "Pufflings are baby puffins. These birds live by the ocean. They are black and white. They look like they're wearing tuxedos! In the summer, their beaks have bright colors.",
+        "tw": "Puffling 就是小海鸚鵡。牠們住在海邊，有著像燕尾服的黑白色皮毛，到了夏天，牠們的嘴巴會變成明亮的顏色。",
+        "time": null
+      },
+      {
+        "en": "Six-week-old pufflings leave their homes. They fly to the ocean. The moon's light shows them the way.",
+        "tw": "六個月大的小海鸚鵡會離開家裡，飛向海邊。月光會引導牠們方向。",
+        "time": null
+      },
+      {
+        "en": "But some pufflings see city lights. They think the lights are the moon. The lights are not near the ocean. In the city, cars, cats, and dogs can hurt them!",
+        "tw": "但是有一些小海鸚鵡以為城市的光線是月光，所以飛到有車子、貓跟狗的城市，這很危險！",
+        "time": null
+      },
+      {
+        "en": "These pufflings are lost! And that's when the Puffin Patrol helps! Families carefully pick up the pufflings. They keep the birds safe in the boxes.",
+        "tw": "好險巡邏隊前來救援！他們會把找到的小海鸚鵡放在安全的箱子裡。",
+        "time": null
+      },
+      {
+        "en": "The next morning, the families take the pufflings to the ocean. There, they let the pufflings go free!",
+        "tw": "隔天早上，他們帶著小鸚鵡到海邊，讓牠們自由！",
+        "time": null
+      },
+      {
+        "en": "Saving pufflings is very important. Puffins are endangered in Iceland. Climate change and dirty oceans are bad for them.",
+        "tw": "搶救小海鸚鵡很重要，海鸚鵡因為氣候暖化跟海洋污染，已經快要絕種了。",
+        "time": null
+      },
+      {
+        "en": "But thanks to the Puffin Patrol, many lost pufflings are saved!",
+        "tw": "但多虧了海鸚鵡巡邏隊，許多走失的小海鸚鵡得以獲救！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "冰島人正在努力搶救海鸚鵡，一種可愛的海鳥。",
+      "content": [
+        {
+          "text": "1) look for 尋找.\nWhat are you looking for? 你在找什麼?\nA kingfisher.翠鳥.\nI heard it but couldn't see it.我有聽到，但是看不到.",
+          "time": null
+        },
+        {
+          "text": "2) bright 明亮的.\nWhat does it look like?牠長什麼樣子?\nIt has a bright orange belly, 牠有亮橘色的肚子，and a blue head.\n藍色的頭。That should be easy to see.那應該很容易看到.",
+          "time": null
+        },
+        {
+          "text": "3) go 去.\nNo, it flies too fast. 不容易，牠飛太快。\nIt goes to the water, catches fish and flies right back.牠去到水裡，抓魚，然後立刻飛回來。",
+          "time": null
+        },
+        {
+          "text": "4) small 小的.\nThere it is! 在那裏!\nThe one on the tree branch! 在那根樹枝上。\nYou're right !你說對了!\nLook how small it is, but so beautiful under the sun.你看牠好小，但是在陽光下真漂亮。",
+          "time": null
+        }
+      ],
+      "postscript": "Have you ever seen a kingfisher?\nlook for尋找 bright明亮的 go去 small小的"
+    },
+    "quiz": [
+      {
+        "question": "1. What color are puffins?",
+        "options": [
+          "a. Green and yellow",
+          "b. Black and white",
+          "c. Black and red"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do some pufflings think are the moon?",
+        "options": [
+          "a. Flying birds",
+          "b. Tuxedos",
+          "c. City lights"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What is bad for puffins?",
+        "options": [
+          "a. The ocean",
+          "b. The Puffin Patrol",
+          "c. Climate change"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
