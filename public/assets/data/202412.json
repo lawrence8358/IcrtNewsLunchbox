@@ -499,5 +499,95 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241210-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education"
+    ],
+    "title": "Taiwan's New Weightlifting Whiz",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241209NK.mp3",
+    "content": [
+      {
+        "en": "Taiwan does well in weightlifting. Women weightlifters are very strong here. They won ten Olympic weightlifting medals. Taiwan has eleven. And now Taiwan has a new weightlifting whiz!",
+        "tw": "台灣的舉重女選手特別厲害，我們十一面的舉重奧運獎牌中，十面是由女選手贏得。現在又有一位新的舉重天才!",
+        "time": null
+      },
+      {
+        "en": "Chen Guan-ling is nineteen. She's a university student. She lifts in the 55-kilogram group. She's breaking many records! Two years ago, she was eighth at the world championships. Last year, she went back. She won all three gold medals!",
+        "tw": "才十九歲的陳冠伶，已經打破許多紀錄，兩年前，她在世界比賽得到第八名，去年她再度參賽，得了三個金牌，進步神速!",
+        "time": null
+      },
+      {
+        "en": "This year, she went to the junior world championships. She won all three gold medals! And she broke three records! Phew!",
+        "tw": "今年，她參加了青年世界錦標賽，又贏了三面世界金牌，並且刷新三項紀錄，好厲害!",
+        "time": null
+      },
+      {
+        "en": "Chen says she's had ups and downs. She says she's had lots of injuries. But thanks to her family and friends, she can keep lifting.",
+        "tw": "冠伶的運動生涯有高有低，也受過傷，不過在親友鼓勵下，她還是會持續努力。",
+        "time": null
+      },
+      {
+        "en": "Now Chen is at this year's world championships. She wants to break more records! Let's cheer for Chen Guan-ling, Taiwan's new record-breaking weightlifting whiz!",
+        "tw": "陳冠伶目前正在參加今年的世界錦標賽。她希望能打破更多紀錄！讓我們一起為這位台灣新的破紀錄舉重天才陳冠伶加油吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "年輕的舉重選手陳冠伶表現傑出，屢次在國際比賽中獲得金牌。",
+      "content": [
+        {
+          "text": "1. lift 舉起. Heading to the gym? 要去健身房? Yeah, I'm taking weight lifting classes now. 對，我現在有在上舉重課。",
+          "time": null
+        },
+        {
+          "text": "2. strong 強壯的. Good for you! 很好耶! I heard weight lifting can really make you strong. 我聽說重訓真的可以讓你變強壯. Yeah, that's what my doctor told me, too.我的醫生也這麼跟我說.",
+          "time": null
+        },
+        {
+          "text": "3. injury 受傷. He said a strong body means less injury. 他說強壯的身體可減少傷害.That's very true. 那是真的.",
+          "time": null
+        },
+        {
+          "text": "4. heavy 重的. Okay, the next time I need to move something heavy, 好，下次我要搬重東西, I'll call you. 就打電話給你. No problem.沒問題.",
+          "time": null
+        }
+      ],
+      "postscript": "你有看過舉重比賽嗎? lift 舉起 strong強壯的 injury受傷 heavy重的"
+    },
+    "quiz": [
+      {
+        "question": "1. How many Olympic weightlifting medals did Taiwanese women win?",
+        "options": [
+          "a. 3",
+          "b. 10",
+          "c. 11"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Who is Taiwan's 19-year-old weightlifter?",
+        "options": [
+          "a. Hsu Shu-ching",
+          "b. Chen Guan-ling",
+          "c. Chen Wei-ling"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What does the weightlifter want to do at the world championships this year?",
+        "options": [
+          "a. Break records",
+          "b. Cheer",
+          "c. Break barbells"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
