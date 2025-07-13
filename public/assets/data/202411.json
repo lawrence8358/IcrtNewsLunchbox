@@ -607,6 +607,106 @@
     ]
   },
   {
+    "id": "20241111-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education"
+    ],
+    "title": "The Sweetest Museum in Asia",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241108NK.mp3",
+    "content": [
+      {
+        "en": "What food is this? It can be sweet… It can be bitter… It can be sweet AND bitter! You can eat it... You can drink it... You can wear it too!",
+        "tw": "猜猜這是什麼食物... 它可以是甜的，是苦的，它也可以又甜又苦，除了吃跟喝以外，你還可以穿在身上!",
+        "time": null
+      },
+      {
+        "en": "This food tastes great with ice cream... or toast… or bacon! It's one of the world's favorite foods. People have enjoyed it for thousands of years. Can you guess what it is?",
+        "tw": "千百年來人們都喜歡它，不管跟冰淇淋、吐司，或甚至跟培根一起吃，都很美味!",
+        "time": null
+      },
+      {
+        "en": "It's... chocolate! There are many fun things to learn about chocolate!",
+        "tw": "沒錯! 就是好吃又好玩的巧克力!",
+        "time": null
+      },
+      {
+        "en": "Did you know there's a chocolate museum in Taoyuan? It's Asia's first chocolate museum! You can learn about chocolate. And you can learn about Taiwan's chocolate, from its cocoa trees to its chocolate bars and snacks!",
+        "tw": "亞洲第一間巧克力博物館就在桃園! 你可以在那裏學到從可可樹到製作巧克力點心的知識。",
+        "time": null
+      },
+      {
+        "en": "You can see the world's tallest chocolate bar! You can see, smell, touch, taste... and hear chocolate! Is that the sound of chocolate in your mouth?",
+        "tw": "也可以在那裏看到世界最高的巧克力棒，除了看到、聞到、摸到巧克力之外，還可以聽到吃巧克力的聲音!",
+        "time": null
+      },
+      {
+        "en": "This museum is easy to find. It's at the end of Chocolate Street! Look for a big chocolate bar with white filling in the middle. That's the museum!",
+        "tw": "這個博物館很好找，就是在巧克力街的街尾，那棟很像夾心巧克力棒的建築!",
+        "time": null
+      },
+      {
+        "en": "Do you love chocolate? You'll love learning about, and eating, Taiwan's chocolate at this museum!",
+        "tw": "你喜歡巧克力嗎？你一定會喜歡在這座博物館裡學習和品嚐台灣的巧克力！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "有關食物的博物館，真是個好主意!",
+      "content": [
+        {
+          "text": "1. favorite 最喜歡的。\nWhat are you cooking? 你在煮什麼?\nSmells great! 太香了!\nI'm baking bacon and potatoes. 我正在烤培根馬鈴薯。\nBacon! My favorite food! 培根是我的最愛!",
+          "time": null
+        },
+        {
+          "text": "2. taste 品嚐。\nI know. You can enjoy it in 10 minutes.我知道，再十分鐘你就可以吃到了。\nIt's almost done. 就快好了。\nCan I taste it now? 我可以現在嚐一嚐嗎?\nNo, not a good idea to open the oven now. 不行，現在打開烤箱不好。",
+          "time": null
+        },
+        {
+          "text": "3. hear 聽到。\nDo you hear the sizzling sound? 你聽到滋滋聲了嗎?\nThat means we're almost there. 那表示就快好了。\nYoohoo!",
+          "time": null
+        },
+        {
+          "text": "4. eat 吃。\nOkay, my bacon and potato dish with garlic and pepper!\n好了，我的大蒜胡椒烤培根馬鈴薯!\nMmmm, I could eat this every day. 我可以每天都吃這個。",
+          "time": null
+        }
+      ],
+      "postscript": "What's your favorite food?\n來一起讀單字。favorite最喜歡的 taste品嚐 hear聽到 eat吃"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is Asia's first chocolate museum?",
+        "options": [
+          "a. Taichung",
+          "b. Taipei",
+          "c. Taoyuan"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What can people do with chocolate at the museum?",
+        "options": [
+          "a. They can make toys.",
+          "b. They can hear it.",
+          "c. They can wear it."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What does the museum look like?",
+        "options": [
+          "a. A chocolate bar",
+          "b. A cacao tree",
+          "c. A chocolate drink"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  },
+  {
     "id": "20241112-01",
     "type": "國小",
     "tag": [
