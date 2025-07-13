@@ -691,6 +691,108 @@
     ]
   },
   {
+    "id": "20250110-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Health and Physical Education",
+      "Natural Sciences"
+    ],
+    "title": "How to Live Longer",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250109NK.mp3",
+    "content": [
+      {
+        "en": "Lots of people want to live longer. Many people in Taiwan can live a long time. But how about longer?! Longer is better! So what's the best way to live longer?",
+        "tw": "很多人希望長命百歲，台灣很多人很長壽，但有了一些秘方後，我們也許能活更久！",
+        "time": null
+      },
+      {
+        "en": "Scientists in Taipei wanted to know. They studied 20,000 people. What made some of the people live longer?",
+        "tw": "台北的科學家研究了兩萬個不同年紀的人，想知道比較長壽的人有什麼祕訣？",
+        "time": null
+      },
+      {
+        "en": "The scientists looked at many things. What was the best? Was it exercise? Was it not smoking? Was it not drinking alcohol? Wait... was it eating healthy food?",
+        "tw": "科學家研究了好多不同的項目，像是：他們是因為運動才長壽嗎？還是不抽菸不喝酒？啊！會不會是健康的飲食呢？",
+        "time": null
+      },
+      {
+        "en": "Yes! The scientists found that eating fruits and vegetables was the best! People who ate them lived three years longer!",
+        "tw": "沒錯！原來多吃蔬菜水果的人，會比一般人多活三年！",
+        "time": null
+      },
+      {
+        "en": "Fruits and vegetables help make your body strong. They help keep your heart healthy. They help fight sickness. And they taste good! Mmmmm!",
+        "tw": "蔬菜水果讓你身體強壯，讓心臟更健康，還可以幫忙抵抗疾病，不只這樣喔，它們也很好吃！",
+        "time": null
+      },
+      {
+        "en": "The scientists say it's best to eat fruit four or more times a week. How about vegetables? It's best to eat them four or more times a week too!",
+        "tw": "科學家說一個禮拜要吃最少四次蔬菜跟水果，不過當然囉，蔬菜水果吃越多越好！",
+        "time": null
+      },
+      {
+        "en": "Do you want a longer life? You can start today! Eat an apple! ... or a banana! ... or an orange! ... or a carrot! ... or some broccoli...",
+        "tw": "你想要更長壽嗎？今天就可以開始！吃一顆蘋果！...或一根香蕉！...或一顆柳橙！...或一根紅蘿蔔！...或一些花椰菜...",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "多吃蔬菜水果好處多多，包括活得長長久久。",
+      "content": [
+        {
+          "text": "1. best 最好的。\nI can tell you the best way to live longer. 我可以告訴你要長壽最好的辦法。\nOkay, I’m all ears. 好，我在注意聽。",
+          "time": null
+        },
+        {
+          "text": "2. study 研究。\nThe secret is to take a nap every day. 祕訣是每天都小睡。\nI’ve studied my parents’lifestyle.我研究過我爸媽的生活方式。",
+          "time": null
+        },
+        {
+          "text": "3. live 生活。\nWhat did you learn? 你了解了什麼?\nMy father lived to 94 and my mom to 102. 我爸爸活到九十四歲，我媽媽到一百零二歲。\nSo? 所以呢?\nThey took a nap whenever they felt like it. 他們無論何時想睡就小睡一下。",
+          "time": null
+        },
+        {
+          "text": "4. healthy 健康的。\nThey were healthy and happy till the end.他們一直到最後都過得健康快樂。\nThat's very good advice. 這是很好的建議。I’m going to sleep now.我現在要睡了。",
+          "time": null
+        }
+      ],
+      "postscript": "你今天吃水果了嗎? 請跟我讀單字。 best最好的  study研究  live生活  healthy健康的"
+    },
+    "quiz": [
+      {
+        "question": "1. How much longer can people live by eating more fruits and vegetables?",
+        "options": [
+          "a. One year",
+          "b. Two years",
+          "c. Three years"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do fruits and vegetables help fight?",
+        "options": [
+          "a. Sickness",
+          "b. Smoking",
+          "c. Drinking alcohol"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How often is best to eat vegetables?",
+        "options": [
+          "a. Four or more times a day",
+          "b. Four or more times a week",
+          "c. Four or more times a month"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20250113-01",
     "type": "國小",
     "tag": [
