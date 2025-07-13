@@ -298,5 +298,105 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20241206-01",
+    "type": "國小",
+    "tag": [
+      "No Poverty"
+    ],
+    "title": "A Man Builds Homes for People Who Need One",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241205NK.mp3",
+    "content": [
+      {
+        "en": "Some people live in big houses. Other people live in small apartments. Some people live on boats! There are many kinds of homes!",
+        "tw": "世界上有各式各樣的家，像是豪宅或是小公寓，有一些人甚至住在船上!",
+        "time": null
+      },
+      {
+        "en": "But some people don't have a home. They are homeless. They sleep on the street. Or they sleep in tents in parks. They are cold in the winter. They get wet when it rains. They have a hard life.",
+        "tw": "不過，也有一些人無家可歸，他們睡在路邊或是公園裡的帳篷，冬天或是雨天都一樣。他們的生活很辛苦。",
+        "time": null
+      },
+      {
+        "en": "Canada's winters are very cold and wet. A man there is helping people who are homeless. He's building homes for them. The homes are very small. They are easy to move with a bicycle!",
+        "tw": "加拿大的冬天非常冷，所以有個人正在為這些人製造房子。這些房子很小很輕，可以用腳踏車搬運。",
+        "time": null
+      },
+      {
+        "en": "These homes are made of strong plastic. They are warm in the winter. Rain can't come in. They're cool in the summer. There's a fan!",
+        "tw": "這些房子是用堅固的塑膠做的，可以抵擋寒風跟雨水，夏天時也很涼爽!",
+        "time": null
+      },
+      {
+        "en": "The homes have lights! There's a comfortable bed and a desk. There's a sink and a small toilet! And they're safe. The door has a lock!",
+        "tw": "房子裡什麼都有，有燈光、床、書桌跟廁所，它的門上有鎖，所以也十分安全!",
+        "time": null
+      },
+      {
+        "en": "It takes the man two months to build one home. He wants to build many more.",
+        "tw": "他花了兩個月做好第一間，還會繼續努力製造更多房子。",
+        "time": null
+      },
+      {
+        "en": "These small homes are safe and comfortable. Everyone needs a home. No one wants to be homeless!",
+        "tw": "這些小房子既安全又舒適。每個人都需要一個家。沒有人想無家可歸！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "居住是人生重大課題，這位企業家決心幫忙。",
+      "content": [
+        {
+          "text": "1. sleep 睡覺。\nMy friend is coming back from Canada for two weeks.\n我的朋友要從加拿大回來兩個星期。\nCan she sleep at your place in Taoyuan? 她能不能睡在你桃園的家?",
+          "time": null
+        },
+        {
+          "text": "2. bed 床。\nNo, sorry, my sister is staying there now.\n不行，抱歉，我妹妹現在住在那兒。\nIt only has one bed. 只有一張床。",
+          "time": null
+        },
+        {
+          "text": "3. house 房子。\nHow about your house? 那你家呢?\nMy house?我家?\nWhy don't you let her sleep in your apartment? 你怎麼不讓她睡在你的公寓?\nI can't.我不行。",
+          "time": null
+        },
+        {
+          "text": "4. toilet 馬桶。\nThere's only one toilet.那裏只有一個馬桶。\nI can't share my toilet with others.我沒辦法跟別人共用馬桶。\nYou're weird, you know.妳很奇怪耶。",
+          "time": null
+        }
+      ],
+      "postscript": "這些是每天都用得到的單字。\nsleep睡覺 bed床 house房子 toilet馬桶"
+    },
+    "quiz": [
+      {
+        "question": "1. Why does the man build small homes?",
+        "options": [
+          "a. To help people who are homeless",
+          "b. To become famous",
+          "c. To make lots of money"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What do the small homes NOT have inside?",
+        "options": [
+          "a. A sink",
+          "b. A TV",
+          "c. A bed"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How long does it take the man to build one small home?",
+        "options": [
+          "a. Two weeks",
+          "b. Two months",
+          "c. Two years"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
