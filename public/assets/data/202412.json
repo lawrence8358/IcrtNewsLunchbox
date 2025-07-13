@@ -1171,5 +1171,102 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20241218-01",
+    "type": "國小",
+    "tag": [
+      "Zero Hunger",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Saving Beans",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241217NK.mp3",
+    "content": [
+      {
+        "en": "The seeds for the food we grow are important. A seed bank in Norway keeps seeds safe for the world. This year, Taiwan sent one hundred and seventy kinds of millet seeds there!",
+        "tw": "種子對我們的食物很重要。挪威有個種子銀行，保存世界各地的種子。今年，台灣送了一百七十種小米種子到那裡。",
+        "time": null
+      },
+      {
+        "en": "Taiwan has its own seed bank too. And people here also keep seeds safe. In one village, the Bunun people work hard to keep their beans safe. Beans are part of their culture.",
+        "tw": "台灣也有自己的種子銀行。在一個布農族的聚落，人們努力保存豆子，因為那對他們的文化很重要。",
+        "time": null
+      },
+      {
+        "en": "The Bunun eat many kinds of beans. But some were almost lost before. So they grow every kind every year now.",
+        "tw": "布農族人吃各種各樣的豆子，不過有一些品種幾乎滅絕。因此，他們現在每年都會種植每一種豆類。",
+        "time": null
+      },
+      {
+        "en": "Older Bunun farmers love to grow beans. Before, farmers kept their family's beans safe. But now, they have a bean club. They share their beans. They teach everyone about them. There are 28 kinds!",
+        "tw": "以前，農夫會保護自家特有的豆類。現在，他們成立社團，互相分享豆子種類，總共有28 種，並教導布農族人有關豆子的知識。",
+        "time": null
+      },
+      {
+        "en": "Now, younger Bunun people also help keep beans safe. At a school, Bunun students learn about beans. They grow beans and eat them there. They learn about their culture.",
+        "tw": "年輕的布農學生也學習豆子的知識，並練習種植，了解布農族的文化。",
+        "time": null
+      },
+      {
+        "en": "The Bunun work together to keep their beans safe. Their children and their children's children will enjoy many kinds of beans. They will know about their culture!",
+        "tw": "布農族人齊心協力保護他們的豆子。他們的子子孫孫將會享用多種豆類，並了解他們的文化！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "布農族人重視他們的農作物，並且教導年輕人相關知識。",
+      "content": [
+        {
+          "text": "1. grow 種植。\nThe green beans you gave me taste great! 你送我的四季豆很好吃! Are they easy\nto grow? 容不容易種?\nThey are. But they need lots of sunshine. 很容易，不過需要大量日光。",
+          "time": null
+        },
+        {
+          "text": "2. this year 今年。\nI'm planning to have a roof garden this year. 我打算今年弄個屋頂菜園。That'll\nbe perfect for growing vegetables.那兒種蔬菜最好了。",
+          "time": null
+        },
+        {
+          "text": "3. seed 種子。\nWhere can I get the seeds? 我在哪裡可以得到種子?\nYou can find a lot of seed stores in Changhua. 你可以在彰化找到很多種子店。",
+          "time": null
+        },
+        {
+          "text": "4. eat 吃。\nI'm excited! 我好興奮! I want to grow beans, tomatoes, peppers…\n我要種四季豆，番茄，青椒....\nAnd I'll eat them.我會把它們吃掉。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡哪一種蔬菜? 來一起讀單字。grow種植 this year今年 seed種子 eat吃"
+    },
+    "quiz": [
+      {
+        "question": "1. What does a seed bank do?",
+        "options": [
+          "a. Grow plants",
+          "b. Teach students",
+          "c. Keep seeds safe"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What does the bean club do?",
+        "options": [
+          "a. Make paper airplanes",
+          "b. Teach people about beans",
+          "c. Sing at KTV"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. In one village, what do the Bunun have 28 kinds of?",
+        "options": [
+          "a. Corn",
+          "b. Beans",
+          "c. Potatoes"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
