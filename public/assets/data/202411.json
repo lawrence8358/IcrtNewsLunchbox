@@ -2066,5 +2066,100 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20241128-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies"
+    ],
+    "title": "Train Ticket Prices May Go Up",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241127NK.mp3",
+    "content": [
+      {
+        "en": "In Taiwan, many people use trains every day. They are easy and cheap. Trains are a great way to go to school or work. They are a fun way to go to see family and friends!",
+        "tw": "在台灣，每天都有很多人搭車上班、上課，或是見朋友跟家人，搭火車很便宜又方便!",
+        "time": null
+      },
+      {
+        "en": "Train ticket prices did not go up for 29 years! But the train company wants to raise ticket prices. People may have to pay more soon!",
+        "tw": "火車票 29 年都沒有漲價，但是鐵路公司想要調高票價，大家可能要付更多錢!",
+        "time": null
+      },
+      {
+        "en": "A big group of train workers says ticket prices need to go up. Then trains can run for many years.",
+        "tw": "很多鐵路員工說票價需要調漲，火車才能繼續運作。",
+        "time": null
+      },
+      {
+        "en": "The government doesn't want ticket prices to go up too much. They want people to use trains. They don't want people to use cars. The roads have too many cars!",
+        "tw": "但是政府不希望價錢改變，因為他們希望大家多搭火車，不要開車塞在路上!",
+        "time": null
+      },
+      {
+        "en": "The train company has to think. What prices are good prices? The prices need to be good for the company. But the prices need to be good for people too. That's not easy!",
+        "tw": "鐵路公司需要思考一個好的票價，讓公司賺錢，對人們來說又不會太貴，真不容易!",
+        "time": null
+      },
+      {
+        "en": "Then the company has new prices. It shows them to the government. The government says the new prices are good … or not good! Do you want to pay more for train tickets?",
+        "tw": "之後公司會跟政府報告新的票價，政府再決定好或是不好。那你呢？你希望火車票漲價嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "火車票的票價，關係到很多通勤的人。",
+      "content": [
+        {
+          "text": "1. train 火車。Can I borrow your car this weekend? 我這周末可以跟你借車子嗎?Again? You can go by train, you know. 又要借? 你可以搭火車啊。",
+          "time": null
+        },
+        {
+          "text": "2. soon 很快地。I'm going to Yilan with three friends.我跟三個朋友去宜蘭。It's easier to go by car.開車比較簡單。Okay, but please return it soon after you come back.好吧，不過你回來之後快點還我。",
+          "time": null
+        },
+        {
+          "text": "3. work 工作。I'll need it to go to work on Monday.我星期一需要車子去上班。You got it! Thanks a lot! 知道了，感謝!",
+          "time": null
+        },
+        {
+          "text": "4. ticket 車票。I'll take the train next time, I promise. 我保證下次搭火車。Yeah, before the ticket prices go up.對啊，在火車票漲價之前。",
+          "time": null
+        }
+      ],
+      "postscript": "你常常搭火車嗎? 我們一起來讀單字。train火車 soon很快地 work工作 ticket車票"
+    },
+    "quiz": [
+      {
+        "question": "1. How many years ago did train ticket prices go up?",
+        "options": [
+          "a. 1 year",
+          "b. 20 years",
+          "c. 29 years"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do the train workers say ticket prices need to do?",
+        "options": [
+          "a. Go up",
+          "b. Go down",
+          "c. Stay the same"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What does the train company have to think about?",
+        "options": [
+          "a. Fast trains",
+          "b. Good prices",
+          "c. Fun friends"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
