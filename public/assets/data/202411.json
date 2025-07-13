@@ -200,5 +200,110 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241105-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies"
+    ],
+    "title": "Guardian of the Gas Station",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241104NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: There's a brave dog in Peru. He is a hero at a gas station!",
+        "tw": "祕魯的一個加油站裡，有一隻勇敢的狗狗英雄!",
+        "time": null
+      },
+      {
+        "en": "The dog was a stray dog. He didn't have a home. He was thin, and he was hungry all the time.",
+        "tw": "牠本來是一隻無家可歸的流浪狗，而且一直挨餓。",
+        "time": null
+      },
+      {
+        "en": "Some kind workers at a gas station started giving him food. So the dog loves to go there.",
+        "tw": "有一些加油站員工會餵給牠食物，所以牠很愛跑去加油站。",
+        "time": null
+      },
+      {
+        "en": "One day, something very scary happened! Two bad people tried to take things from the gas station. Robber 1: Put the money in the bag! Narrator: They were robbers! But the dog came to the rescue!",
+        "tw": "有一天，兩個可怕的搶匪到加油站搶劫! 這時候，狗狗英雄出現了!",
+        "time": null
+      },
+      {
+        "en": "The robbers tried to scare the dog … Robber 2: Shoo! Go away! Narrator: … But he was brave! He barked loudly. He chased the robbers away! The workers were very thankful for the dog!",
+        "tw": "搶匪試著把牠嚇走，但牠很勇敢，邊叫邊把搶匪趕跑! 員工們都很感謝牠。",
+        "time": null
+      },
+      {
+        "en": "Now the dog is a guard at the gas station! He wears a red shirt with yellow sleeves. The workers wear a red shirt with yellow sleeves too! He wears an ID card with his picture.",
+        "tw": "現在這隻狗是加油站的警衛! 牠和其他員工一樣穿著制服，還有貼著牠的照片的員工證。",
+        "time": null
+      },
+      {
+        "en": "He has a nice doghouse. And now he gets breakfast, lunch, and dinner every day!",
+        "tw": "牠現在有家可以住，三餐也都吃得飽飽的!",
+        "time": null
+      },
+      {
+        "en": "This brave dog is an important worker at the gas station. He keeps everyone there safe!",
+        "tw": "這隻勇敢的狗是加油站的重要員工。牠保護那裡的每個人安全！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "祕魯一隻流浪犬，救了加油站。",
+      "content": [
+        {
+          "text": "1. breakfast 早餐。\nGuess who showed up for breakfast today? 猜猜看今天誰來吃早餐？\nPlease tell me it wasn't another stray dog! 請告訴我不是另外一隻流浪狗。",
+          "time": null
+        },
+        {
+          "text": "2. stray dog 流浪犬。\nIt was! But this stray dog is different.牠是耶，不過這隻流浪狗不一樣。\nAll of them are the same for me.牠們對我來說都一樣。",
+          "time": null
+        },
+        {
+          "text": "3. bark 叫喊。\nNo, no, this one was very friendly. 不，這隻狗很友善。\nIt barked loudly as if saying \"Hello\"! 牠大聲叫，好像在說哈囉。\nI find barking dogs scary. 我覺得一直叫的狗很恐怖。",
+          "time": null
+        },
+        {
+          "text": "4. chase away 趕走。\nI'm thinking of keeping it. 我想要養牠。\nIt can chase away thieves. 牠會趕走小偷。\nI'll move away before it does that. 我會在牠那樣做之前搬家。",
+          "time": null
+        }
+      ],
+      "postscript": "Are you afraid of dogs? 請來讀單字。\nbreakfast早餐 stray dog流浪犬 bark叫喊 chase away趕走"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does the dog live?",
+        "options": [
+          "a. Mexico",
+          "b. Brazil",
+          "c. Peru"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What kind of dog was the dog before?",
+        "options": [
+          "a. A police dog",
+          "b. A stray dog",
+          "c. A guard dog"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did the dog wear after he became a hero?",
+        "options": [
+          "a. A shirt",
+          "b. A hat",
+          "c. Socks"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
