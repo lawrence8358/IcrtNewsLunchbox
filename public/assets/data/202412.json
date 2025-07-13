@@ -104,6 +104,107 @@
     ]
   },
   {
+    "id": "20241203-01",
+    "type": "國小",
+    "tag": [
+      "Reading Literacy Education",
+      "International Education"
+    ],
+    "title": "Looking for the Golden Owl",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241202NK.mp3",
+    "content": [
+      {
+        "en": "Looking for something special is exciting! A very special thing can be a treasure. Looking for it is a treasure hunt.",
+        "tw": "尋找非常特別又稀有的東西，叫做尋寶!",
+        "time": null
+      },
+      {
+        "en": "Treasure hunts have maps or puzzles. People find answers to the puzzles … Aha! The answers help them find the treasure!",
+        "tw": "尋寶的時候會有地圖或難題，解開難題後就能找到寶藏!",
+        "time": null
+      },
+      {
+        "en": "A treasure hunt started in 1993. The treasure is an owl. It's made of gold, silver, and diamonds! It was somewhere in France.",
+        "tw": "尋寶活動開始是在1993年。寶藏是一隻用金、銀跟鑽石做成的貓頭鷹，寶藏是在法國的某個地方。",
+        "time": null
+      },
+      {
+        "en": "A man made eleven puzzles. It took four hundred and fifty hours! He put the puzzles in a book. Thousands of people read it. They tried to find the answers. They wanted to find the golden owl!",
+        "tw": "一個男人花了 450 個小時，設計了 11 道難題，好幾千人很想找到貓頭鷹，拼命地解那些謎題!",
+        "time": null
+      },
+      {
+        "en": "The man said finding the owl might take a few months. Two years later, he said finding it might take two hours. But everyone had to share their answers!",
+        "tw": "那個男人說找到貓頭鷹要花好幾個月，兩年後，他說大家要是互相分享自己的答案，只要兩個小時就可以找到了。",
+        "time": null
+      },
+      {
+        "en": "The man died in 2009. But people didn't stop looking. They looked for 31 years! Then someone found the owl! The treasure hunt is done! Many people are happy!",
+        "tw": "那個男人在 2009 年過世，但其他人沒有放棄寶藏，他們總共找了 31 年，終於有人找到寶藏了!耶!!",
+        "time": null
+      },
+      {
+        "en": "The golden owl is worth about five million Taiwan dollars! Whoa! What a treasure!",
+        "tw": "這隻金貓頭鷹價值約五百萬新台幣！哇！真是個寶藏！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "用金銀珠寶打造的貓頭鷹雕像，多年來讓很多尋寶人大傷腦筋!",
+      "content": [
+        {
+          "text": "1. look for 尋找。\nI would never spend years looking for some treasure.\n我絕對不會花幾年的時間去尋寶。\nWhy not? It could be a lot of fun. 為什麼不? 也許很好玩呢。",
+          "time": null
+        },
+        {
+          "text": "2. find 找到。\nIt's fun only if you can find it. 你找到了才好玩。\nI would always worry that it's a scam. 我會一直擔心是個騙局。",
+          "time": null
+        },
+        {
+          "text": "3. gold 黃金。\nA treasure box full of gold, silver and diamonds? 寶貝箱裡裝滿了金銀鑽石?\nThat's only in movies. 那只有電影裡才有。",
+          "time": null
+        },
+        {
+          "text": "4. hundred 百。\nI want to find a sunken ship if I can. 可能的話我想找到一艘沈船。\nA ship that sank hundreds of years ago. 幾百年前沉沒的船。",
+          "time": null
+        }
+      ],
+      "postscript": "Will you join a treasure hunt? 一起來讀單字。\nlook for尋找 find找到 gold黃金 hundred百"
+    },
+    "quiz": [
+      {
+        "question": "1. Where was the owl?",
+        "options": [
+          "a. Germany",
+          "b. Spain",
+          "c. France"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How long was the treasure hunt?",
+        "options": [
+          "a. 11 years",
+          "b. 31 years",
+          "c. 2,009 years"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How much is the owl worth?",
+        "options": [
+          "a. Five thousand Taiwan dollars",
+          "b. Five million Taiwan dollars",
+          "c. Five billion Taiwan dollars"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20241204-01",
     "type": "國小",
     "tag": [
