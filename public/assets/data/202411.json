@@ -2161,5 +2161,105 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241129-01",
+    "type": "國小",
+    "tag": [
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Environmental Education",
+      "Technology Education",
+      "Technology"
+    ],
+    "title": "Electric YouBikes Are Here!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241128NK.mp3",
+    "content": [
+      {
+        "en": "YouBikes are shared bicycles. They are great! They are cheap and easy to use. They are easy to find!",
+        "tw": "YouBike 是共享腳踏車，它們不只便宜又超方便，是大家的最愛!",
+        "time": null
+      },
+      {
+        "en": "YouBikes are better now. Some YouBikes are e-bikes. E-bikes are electric bikes. They have motors.",
+        "tw": "現在，有一些 YouBike 升級了，變成 E-bike ，也就是電動腳踏車。",
+        "time": null
+      },
+      {
+        "en": "YouBike e-bikes are on the streets now. They are in many cities, from Taipei to Pingtung! YouBikes with no motors are yellow. YouBike e-bikes are orange. They are heavier than the yellow bikes. That's because they have a motor and a battery.",
+        "tw": "E-bike 現在從台北到屏東都有! 它們是橘色的，因為它們有電池跟馬達，所以比一般 YouBike 還要重。",
+        "time": null
+      },
+      {
+        "en": "The e-bikes need help. People have to push the pedals with their feet. That's okay. Pedaling a bike is good exercise. But the e-bikes make pedaling easier. That's great on windy days. It's great when you are riding up a hill too!",
+        "tw": "E-bike 還是需要人們踩踏板，不過變得更輕鬆，在騎上坡或是風大的時候都很好用!",
+        "time": null
+      },
+      {
+        "en": "The YouBike e-bikes can't go as fast as cars or scooters. They can go up to twenty kilometers an hour. But then the electric power stops! That's okay. Twenty kilometers an hour is fast on a bike!",
+        "tw": "E-bike 沒辦法像機車一樣快，騎到時速 20 公里後，電池就會停止運作，不過還是比一般腳踏車快多了!",
+        "time": null
+      },
+      {
+        "en": "Riding a YouBike e-bike is cheap and easy. And it's good exercise! Let's go!",
+        "tw": "騎乘YouBike電動腳踏車既便宜又方便，而且還是很好的運動！我們走吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "電動腳踏車很好騎，吸引越來越多使用者。",
+      "content": [
+        {
+          "text": "1. ride 騎。\nHey, you look happy!你看起來很開心!\nGoing somewhere fun? 要去哪裡玩嗎?\nYeah, I'm riding to the Riverside Park.對，我要騎到河濱公園。",
+          "time": null
+        },
+        {
+          "text": "2. windy 多風的。\nIsn't it too windy there now? 那裡現在會不會風太大?\nIt should be okay. 應該還好。\nThis coat is windproof.這件外套是防風的。",
+          "time": null
+        },
+        {
+          "text": "3. use 使用。\nI really wish I could join you. 我真希望能跟你一起。\nBut I've never used a YouBike before. 但是我從來沒用過YouBike。",
+          "time": null
+        },
+        {
+          "text": "4. easy 容易的。\nOh, it's super easy! 超簡單的。\nYou just swipe your Easy Card… 你只要刷一下悠遊卡，\nget the bike out and off you go. 把腳踏車拿出來就可以騎走了!",
+          "time": null
+        }
+      ],
+      "postscript": "Do you ride a bike to school every day? 我們來讀今天的單字。\n\nride騎 windy多風的 use使用 easy容易的"
+    },
+    "quiz": [
+      {
+        "question": "1. What color are the electric YouBikes?",
+        "options": [
+          "a. Yellow",
+          "b. Red",
+          "c. Orange"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What makes orange YouBikes heavier than yellow YouBikes?",
+        "options": [
+          "a. The motor",
+          "b. The pedals",
+          "c. E-bikes"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What makes the electric power stop on YouBikes?",
+        "options": [
+          "a. Going up a hill",
+          "b. Going too fast",
+          "c. Riding on windy days"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
