@@ -589,5 +589,106 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20241211-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Nurse Finds New Way to Keep Baby Kangaroos Warm",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241210NK.mp3",
+    "content": [
+      {
+        "en": "Kangaroos live in Australia. They have strong back legs. They can jump!",
+        "tw": "澳洲住著很多袋鼠，牠們有強壯的後腿，很會跳!",
+        "time": null
+      },
+      {
+        "en": "In the wild, a baby kangaroo stays in its mother's pouch. The pouch is warm... But sometimes baby kangaroos get lost! Without their mothers, they cannot stay warm and healthy. They need help!",
+        "tw": "野外的袋鼠寶寶住在媽媽溫暖的育兒袋裡，但是假如牠們走失了怎麼辦?沒有媽媽，牠們體溫會降低，需要幫忙!",
+        "time": null
+      },
+      {
+        "en": "A rescue center helps sick or hurt kangaroos. It takes care of lost baby kangaroos too. But keeping them warm is hard.",
+        "tw": "袋鼠救援中心會照顧生病或是受傷的袋鼠，也照顧袋鼠寶寶。要如何保暖卻是個難題。",
+        "time": null
+      },
+      {
+        "en": "Incubators help keep human babies warm. Very small babies and some very sick babies need them. A hospital had new incubators. It didn't need its old incubators. But they still worked.",
+        "tw": "人類的小嬰兒剛出生時，會被放到保溫箱裡，剛好有一間醫院有一批不需要的舊保溫箱，不知道怎麼處理。",
+        "time": null
+      },
+      {
+        "en": "One day, a nurse saw a rescue worker with a baby kangaroo. The nurse had a great idea. Maybe the old incubators could help baby kangaroos!",
+        "tw": "有一天，一位護理師看到一個救援人員帶著一隻袋鼠寶寶，這位護理師想到個好主意﹑也許那些保溫箱可以幫助救援中心的袋鼠寶寶!",
+        "time": null
+      },
+      {
+        "en": "Thanks to the nurse, the rescue center has incubators. They are like mother kangaroo pouches! Baby kangaroos stay warm in them.",
+        "tw": "多虧那位護理師，現在救援中心多了這些保溫箱，可以保持袋鼠寶寶的溫暖。",
+        "time": null
+      },
+      {
+        "en": "Now more baby kangaroos can grow strong. And one day, they will go back to the wild!",
+        "tw": "現在更多袋鼠寶寶可以健康成長。總有一天，牠們會回到野外！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "人類小嬰兒用的保溫箱，找不到媽媽的袋鼠寶寶也可以用。",
+      "content": [
+        {
+          "text": "1) Australia 澳洲.\nI'd like to visit Australia someday. 我想要哪天去澳洲玩。\nTo see koalas? 去看無尾熊?\nYeah, and kangaroos too. 對，還有袋鼠。",
+          "time": null
+        },
+        {
+          "text": "2) in the wild 在野外.\nI hope to see a big mob of kangaroos in the wild.我希望在野外看到大群的袋鼠。\nThat shouldn't be hard. 那應該不難吧。",
+          "time": null
+        },
+        {
+          "text": "3) take care of 照顧.\nIt's not an endangered species.牠不是瀕危物種。\nTaipei Zoo has kangaroos too, you know. 台北動物園也有袋鼠。\nAre they well taken care of? 牠們受到很好照顧嗎?",
+          "time": null
+        },
+        {
+          "text": "4) jump 跳.\nI think so.我想是。\nThey look happy, 牠們看起來滿快樂的，\nand often jump around when I see them.常看到牠們跳來跳去。",
+          "time": null
+        }
+      ],
+      "postscript": "你去過澳洲嗎?Australia澳洲 in the wild在野外 take care of照顧 jump跳"
+    },
+    "quiz": [
+      {
+        "question": "1. What keeps baby kangaroos warm in the wild?",
+        "options": [
+          "a. Lost baby kangaroos",
+          "b. Sunlight",
+          "c. Their mother's pouch"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did the nurse think could help the baby kangaroos?",
+        "options": [
+          "a. Old incubators",
+          "b. Old blankets",
+          "c. Old heaters"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What do the baby kangaroos do one day?",
+        "options": [
+          "a. Become pets",
+          "b. Go to a zoo",
+          "c. Go back to the wild"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
