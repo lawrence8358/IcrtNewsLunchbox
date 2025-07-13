@@ -191,6 +191,107 @@
     ]
   },
   {
+    "id": "20250103-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education",
+      "Social Studies"
+    ],
+    "title": "新年特輯：世界各地的節慶食物",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250102NK.mp3",
+    "content": [
+      {
+        "en": "It's 2025! HAPPY NEW YEAR! Welcome to our three-part New Year's Special!",
+        "tw": "2025年到了！新年快樂！歡迎來到我們的三部新年特輯！",
+        "time": null
+      },
+      {
+        "en": "Yesterday was about New Year's celebrations. Today, we're talking about food!",
+        "tw": "昨天介紹的慶祝方式都很有趣，那不同國家會吃什麼食物來迎接新年呢?",
+        "time": null
+      },
+      {
+        "en": "Sharing food with family and friends is very important. Many cultures have special foods for New Year's.",
+        "tw": "新年和家人朋友聚餐很重要，不過每一個文化吃的食物不同。",
+        "time": null
+      },
+      {
+        "en": "In India, this year's New Year is in March. It has some lucky foods. Lentils are lucky. They look like coins! Fish are lucky too. They shine like silver. People eat these lucky lentils and fish. They want to get rich!",
+        "tw": "印度的新年在今年三月，他們會吃一些帶來好運的食物，譬如長得像硬幣的扁豆，還有像白銀一樣閃閃發亮的魚，希望新的一年能發財!",
+        "time": null
+      },
+      {
+        "en": "The Jewish New Year is celebrated all over the world. It's in September. It has many delicious foods. The most famous is cut apples with honey. It's sweet and delicious! Families eat it for a sweet New Year.",
+        "tw": "猶太教徒在九月慶祝新年，它們的蘋果切片配蜂蜜很有名，家人會一起吃這道甜點，期待新的一年甜甜蜜蜜!",
+        "time": null
+      },
+      {
+        "en": "Do you eat special foods for your New Year's celebration? What are they?",
+        "tw": "那你會吃什麼來慶祝新年呢?有什麼特別意義嗎?",
+        "time": null
+      },
+      {
+        "en": "That's all for our three-part New Year's Special! We looked at calendars, celebrations, and food from around the world! Whenever you celebrate, have a Happy New Year!",
+        "tw": "這就是我們新年三部曲的全部內容了！我們探討了世界各地的日曆、慶祝活動和食物！無論你何時慶祝，祝你新年快樂！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "很多食物有吉祥的涵義，特別適合新年。",
+      "content": [
+        {
+          "text": "1. special 特別的. What special food do you usually have for the Lunar New Year? 你農曆新年通常會吃什麼特別的東西? Let's see… fish, of course, 我來想想，當然會吃魚， meaning we'll have an abundant year every year. 意思是年年有餘。",
+          "time": null
+        },
+        {
+          "text": "2. look like 看起來像. Dumplings, too, because they look like yuan-bao,也吃餃子，因為它看起來像元寶， and will bring prosperity.會帶來興旺。",
+          "time": null
+        },
+        {
+          "text": "3. delicious 美味的. I enjoy eating dumplings! 我喜歡餃子。 They are delicious with soy sauce and vinegar.搭配醬油跟醋，很好吃!",
+          "time": null
+        },
+        {
+          "text": "4. share 分享. Isn't it wonderful to share food with people you love? 跟自己所愛的人分享食物感覺真好。 Indeed. That's the best part of celebrations.那確實是最好的慶祝。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡哪些美食? 請跟我讀單字。 special特別的 look like看起來像 delicious美味的 share分享"
+    },
+    "quiz": [
+      {
+        "question": "1. When is the New Year in India this year?",
+        "options": [
+          "a. January",
+          "b. March",
+          "c. September"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why are lentils lucky in India?",
+        "options": [
+          "a. They shine like silver.",
+          "b. They're sweet.",
+          "c. They look like coins."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What is a famous Jewish New Year food?",
+        "options": [
+          "a. Bananas with honey",
+          "b. Apples with honey",
+          "c. Oranges with honey"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20250106-01",
     "type": "國小",
     "tag": [
