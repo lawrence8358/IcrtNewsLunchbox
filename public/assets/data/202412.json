@@ -1734,5 +1734,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241226-01",
+    "type": "國小",
+    "tag": [
+      "Life Below Water",
+      "Marine Education",
+      "Natural Sciences"
+    ],
+    "title": "Australia Saves Island Sea Turtles",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241225NK.mp3",
+    "content": [
+      {
+        "en": "Deer are cute. But on one island in Australia, they caused problems.",
+        "tw": "鹿是一種很可愛的動物，但牠們在澳洲的小島造成麻煩!",
+        "time": null
+      },
+      {
+        "en": "A long time ago, there were no deer on the island. Then people brought them there. The deer caused problems for sea turtles.",
+        "tw": "這個島嶼原本沒有鹿，但後來有人把牠們帶到島上，卻讓海龜陷入危險。",
+        "time": null
+      },
+      {
+        "en": "The deer didn't eat the turtles. But they stepped on turtle eggs. The deer were not trying to break the eggs. They broke them by accident. But that killed lots of baby turtles. Oh, no!",
+        "tw": "這些鹿會不小心踩到海龜的蛋，雖然都是意外，但很多海龜寶寶因此丟了生命。",
+        "time": null
+      },
+      {
+        "en": "The deer caused another problem for the turtles. They scared them. The turtles ran to the ocean. Well, okay, turtles don't run. They crawl. So... they crawled to the ocean.",
+        "tw": "鹿還會驚嚇到海龜，讓海龜趕快跑...不對，是用牠們最快的速度，慢慢地爬向海裡。",
+        "time": null
+      },
+      {
+        "en": "But turtles lay eggs on the beach. They don't lay them in the ocean. When the deer scared them, the turtles didn't lay eggs. The deer broke eggs and scared turtles. So there were fewer baby turtles. Uh oh! The turtles needed to be saved!",
+        "tw": "但是海龜必須到沙灘下蛋，不是在海裡，而鹿群會讓牠們嚇到不生蛋。就算生蛋，又會被踩破，糟糕! 這樣海龜怎麼生存呢?",
+        "time": null
+      },
+      {
+        "en": "Australia saved the turtles. How? They took away all of the deer from the island!",
+        "tw": "好險澳洲政府採取行動，他們把所有的鹿帶走。",
+        "time": null
+      },
+      {
+        "en": "Now the sea turtles can lay eggs on the beach. Their eggs are safe! There will be more baby turtles!",
+        "tw": "現在海龜可以在海灘上下蛋了。牠們的蛋很安全！會有更多小海龜！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "澳洲小島上的鹿群威脅到珍稀海龜，政府只好把鹿全部移走。",
+      "content": [
+        {
+          "text": "1. egg 卵.\nI'm going down to Kenting to see baby turtles. 我要南下去墾丁看海龜寶寶。\nBaby turtles?海龜寶寶?\nYeah, they are coming out from the eggs and crawling to the sea. 對，牠們從蛋裡孵出來，爬向海洋。",
+          "time": null
+        },
+        {
+          "text": "2. lay egg 生蛋.\nSo the mother turtles laid the eggs in the sand… 所以海龜媽媽產卵在沙子裡…\nand two months later, 兩個月之後，\nthe babies are ready to come out. 小龜就準備出來了。",
+          "time": null
+        },
+        {
+          "text": "3. beach 海灘.\nAre they on the beach? 牠們在海灘上嗎?\nOn the beach just outside a hotel.就在一家旅館外的海灘。",
+          "time": null
+        },
+        {
+          "text": "4. step on 踩到.\nPlease don't step on them. 拜託不要踩到牠們。\nI won't, I promise. 我保證不會。",
+          "time": null
+        }
+      ],
+      "postscript": "今天學到哪些單字?\negg卵 lay egg生蛋 beach海灘 step on踩到"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the deer do by accident?",
+        "options": [
+          "a. Ate turtles",
+          "b. Stepped on turtle eggs",
+          "c. Ran to the ocean"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How did scared turtles get to the ocean?",
+        "options": [
+          "a. They ran.",
+          "b. They crawled.",
+          "c. They flew."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How did Australia save the turtles?",
+        "options": [
+          "a. Took the deer away",
+          "b. Took the turtles away",
+          "c. Took pictures of cute deer"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
