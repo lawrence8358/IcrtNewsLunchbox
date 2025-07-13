@@ -1201,5 +1201,100 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20241118-01",
+    "type": "國小",
+    "tag": [
+      "Decent Work and Economic Growth"
+    ],
+    "title": "Many People Want to Be Flight Attendants",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241115NK.mp3",
+    "content": [
+      {
+        "en": "What do you want to be when you grow up? Maybe you want to be a firefighter or a police officer. You can help people. Maybe you want to be a race car driver. You can drive fast!",
+        "tw": "你長大之後想做什麼呢? 也許你想當消防員或警察幫助別人，或是當賽車手開快車!",
+        "time": null
+      },
+      {
+        "en": "How about a flight attendant? You can fly around the world! Many people want to be flight attendants.",
+        "tw": "也有很多人想當空服員，飛來飛去環遊世界。你想當空服員嗎?",
+        "time": null
+      },
+      {
+        "en": "An airline in Taiwan needs new flight attendants. More than 1,300 people want the jobs! How many new flight attendant jobs does the airline have? They have 12! Wow! Most of those people won't become flight attendants with this airline.",
+        "tw": "台灣有一間航空公司在徵求空服員，超過 1300 個人申請! 但是他們絕大部分會失望，因為公司只需要 12 個人。",
+        "time": null
+      },
+      {
+        "en": "Why does the airline need 12 new flight attendants? It bought some new planes. And more people are flying now. They don't worry about COVID-19 now.",
+        "tw": "為什麼需要新的空服員呢? 疫情之後有更多人想要旅行，所以航空公司買了新飛機。",
+        "time": null
+      },
+      {
+        "en": "The flight attendants will fly from Taipei or Kaohsiung. They will fly in Taiwan and to other countries. It's a good job.",
+        "tw": "這些空服員會從台北或高雄出發，飛往國內或是國際的大都市，是一份好工作。",
+        "time": null
+      },
+      {
+        "en": "It's not easy to get a good job. Companies want the best workers. So study hard at school! Then you can get a good job when you grow up!",
+        "tw": "找到一份好工作並不容易。公司想要最好的員工。所以努力學習吧！這樣你長大後就能找到一份好工作！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "很多人想當空服員，但是很少人能成功。",
+      "content": [
+        {
+          "text": "1. job 工作。Did you see this airline's ad? 你看到這家航空公司的廣告了嗎?Yeah, I did, and I've already signed up. 看到了，我也已經報名了。You really want the job, don't you? 你真的很想要這個工作，是吧?I do.是啊。",
+          "time": null
+        },
+        {
+          "text": "2. get 得到。And I hope this time I can get it. 我希望這次能得到。I hope so, too.我也希望。I can help you with interviews, you know. 我可以幫你練習面試。That'll be great, I need that. 太好了，我需要。",
+          "time": null
+        },
+        {
+          "text": "3. how many 多少。How many people want this job, do you know? 你知不知道有多少人想要這份工作?More than four thousand, I think.我想有四千多人吧。",
+          "time": null
+        },
+        {
+          "text": "4. easy 容易的。Wow, that's really a lot ! 真的很多人。Yeah, it won't be easy. 是不容易。",
+          "time": null
+        }
+      ],
+      "postscript": "今天學到的單字每天都用得到。job工作 get得到 how many多少 easy容易的"
+    },
+    "quiz": [
+      {
+        "question": "1. In which job can you help people?",
+        "options": [
+          "a. Police officer",
+          "b. Race car driver",
+          "c. Baseball player"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How many new flight attendants does the airline need?",
+        "options": [
+          "a. twelve",
+          "b. three hundred",
+          "c. one thousand"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Why does the airline need new flight attendants?",
+        "options": [
+          "a. People worry about COVID-19.",
+          "b. Not many people are flying.",
+          "c. It bought new planes."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
