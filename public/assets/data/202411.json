@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20241101-01",
     "type": "國小",
@@ -95,6 +95,106 @@
           "a. Make it hot again",
           "b. Filter it",
           "c. Drink it"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
+    "id": "20241104-01",
+    "type": "國小",
+    "tag": [
+      "Indigenous Education"
+    ],
+    "title": "Telling the Taroko People's Past",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241101NK.mp3",
+    "content": [
+      {
+        "en": "Have you been to Taroko Gorge? It's in Hualien. It's very beautiful.",
+        "tw": "你去過花蓮的太魯閣峽谷嗎?那裏很漂亮。",
+        "time": null
+      },
+      {
+        "en": "Taroko Gorge's name comes from the Taroko people. The Taroko people are one of the Indigenous Taiwanese peoples. Most live in Hualien.",
+        "tw": "太魯閣峽谷的名字來自一個原住民太魯閣族。",
+        "time": null
+      },
+      {
+        "en": "Some say the Taroko people first came to Taiwan's southwest coast. Tainan is there now. But Hualien is on the east coast of Taiwan. How did they come so far? And why?",
+        "tw": "傳說太魯閣族最早來到台灣的西南部，也就是現在的台南，但是現在他們住在台灣的東部花蓮，他們怎麼跑了這麼遠呢?",
+        "time": null
+      },
+      {
+        "en": "Not much was known about the Taroko people's past. Different people knew different parts of the Taroko people's past. But no one knew all of it.",
+        "tw": "沒有人了解太魯閣族全部的歷史，不同的人知道不同的部分。",
+        "time": null
+      },
+      {
+        "en": "A new book has changed this! It took more than ten years to write. The writer went to many Taroko groups. He talked with more than one hundred and eighty people!",
+        "tw": "但現在有一本關於他們歷史的書! 作者花了10 年以上，訪問了 180 多個太魯閣族人才寫完。",
+        "time": null
+      },
+      {
+        "en": "This book is important. It tells how and why the Taroko people went from the southwest to the east of Taiwan.",
+        "tw": "這本書很重要，它告訴我們太魯閣族搬到花蓮的原因還有過程。",
+        "time": null
+      },
+      {
+        "en": "The Taroko people have a great past. Thanks to this book, they can share their story with the world!",
+        "tw": "太魯閣族人有著輝煌的歷史。多虧了這本書，他們得以與世界分享他們的故事！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "現在有一本新書，告訴讀者原住民太魯閣族人的歷史。",
+      "content": [
+        {
+          "text": "1. write 寫作.\nIf I write a book about birds, would you buy\nit?假如我寫一本有關鳥類的書，你會買嗎?\nNo.不會.\nWhy not? 為什麼不?\nI'm not interested in birds.我對鳥兒沒有興趣.",
+          "time": null
+        },
+        {
+          "text": "2. past 過去.\nWhat are you interested in? 你對什麼有興趣?\nYour past.你的過去.\nMy past? 我的過去?\nYeah, what you did and how you became who you are.",
+          "time": null
+        },
+        {
+          "text": "3. why 為什麼.\nWhy do you want to read a book about me? 為何你想讀關於我的書?\nI like to hear people's stories. 我喜歡聽別人的故事。",
+          "time": null
+        },
+        {
+          "text": "4. different 不同的.\nI've never done anything great.我沒有做過什麼了不起的事.\nWell, you're different from anyone I know. 你跟我認識的人都不一樣.\nSo I'd like to find out more.所以我想多知道一點。",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學的單字有哪幾個?\nwrite寫作 past過去 why為什麼 different不同的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is Taroko Gorge?",
+        "options": [
+          "a. Miaoli",
+          "b. Yilan",
+          "c. Hualien"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where in Taiwan is Tainan?",
+        "options": [
+          "a. The southeast coast",
+          "b. The southwest coast",
+          "c. The northwest coast"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Where do most Taroko people live?",
+        "options": [
+          "a. The north coast",
+          "b. The east coast",
+          "c. The west coast"
         ],
         "time": null,
         "answer": "b"
