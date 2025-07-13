@@ -501,6 +501,101 @@
     ]
   },
   {
+    "id": "20241209-01",
+    "type": "國小",
+    "tag": [
+      "Arts"
+    ],
+    "title": "Artwork or Trash?",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241206NK.mp3",
+    "content": [
+      {
+        "en": "Worker: Someone left these empty cans in the elevator! Aargh! Who leaves their trash on the floor? Well, these cans are going into the trash can.",
+        "tw": "怎麼會有人把鋁罐留在電梯裡? 我把它們丟到垃圾桶吧!",
+        "time": null
+      },
+      {
+        "en": "Narrator: This happened at a museum in the Netherlands. But the empty cans were not trash. They were artwork!",
+        "tw": "這件事發生在荷蘭的美術館裡，兩個被丟掉的鋁罐其實是藝術品!",
+        "time": null
+      },
+      {
+        "en": "The artist worked hard on the artwork. He painted it for days and days. It looks like two empty beer cans. It's called \"All the Good Times We Spent Together.\" It's about the artist's happy times with friends.",
+        "tw": "藝術家花了好幾天彩繪兩個鋁罐，命名為「我們的美好時光」，紀念跟朋友的開心回憶。",
+        "time": null
+      },
+      {
+        "en": "The museum is about food and drinks. It likes to surprise visitors. So the artwork was in a glass elevator. It was on the floor. A worker was fixing the elevator. He was new at the museum. He thought the artwork was trash!",
+        "tw": "這個美術館喜歡給觀眾驚喜，所以鋁罐被放在玻璃電梯的地板上展出。當修理電梯的工作人員看到時，他以為那是垃圾!",
+        "time": null
+      },
+      {
+        "en": "Other workers found the artwork in a trash can. Phew! They cleaned it carefully. They did not put it in the elevator again. Now the artwork is showing in a safer place.",
+        "tw": "好險其他工作人員在垃圾桶發現藝術品，把它們清洗乾淨後，移到更安全的地方展出。",
+        "time": null
+      },
+      {
+        "en": "Do you throw away the empty cans you see too? Well, it's good to pick up trash. But be careful! Maybe it's art!",
+        "tw": "你也會把看到的空罐子扔掉嗎？嗯，撿垃圾是好事。但要小心！也許那是藝術品呢！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "藝術品被當成垃圾丟掉，只能怪它們放的地方不對。",
+      "content": [
+        {
+          "text": "1. art 藝術。\nDid you actually paint this? 你真的畫了這個?\nI did. This is for my art project. 真的，這是我的藝術課作品。\nSo you call this art? 所以你把這個叫做藝術?\nOh yes, I spent days working on it. 是的，我花了好幾天做呢。",
+          "time": null
+        },
+        {
+          "text": "2. artist 藝術家。\nBut I'm definitely not an artist. 但我肯定不是藝術家。\nNo, I wouldn't say you are. 我也不會說你是。",
+          "time": null
+        },
+        {
+          "text": "3. throw away 扔掉。\nSo do you like it? 所以你喜歡它嗎?\nUh…Do I have to tell the truth? 我得講實話嗎?\nIs it that bad? 有那麼糟糕嗎?\nYeah, I suggest you throw it away.對，我建議你把它扔掉。",
+          "time": null
+        },
+        {
+          "text": "4. hard 辛苦的。\nOh no! 不要。\nThink of my hard work! 想想我的辛苦!\nOkay, then keep it. 那你就保留吧。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡看藝術展覽嗎?\nart藝術 artist藝術家 throw away扔掉 hard辛苦的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the museum?",
+        "options": [
+          "a. The U.S.",
+          "b. The Netherlands",
+          "c. The Philippines"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why was the artwork thrown away?",
+        "options": [
+          "a. Someone thought it was trash.",
+          "b. Someone thought it was art.",
+          "c. Someone thought it was clean."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Who threw away the artwork?",
+        "options": [
+          "a. A visitor",
+          "b. A cleaner",
+          "c. A worker"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20241210-01",
     "type": "國小",
     "tag": [
