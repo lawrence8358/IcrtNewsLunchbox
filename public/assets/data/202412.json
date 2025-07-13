@@ -785,5 +785,101 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20241212-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure"
+    ],
+    "title": "All Aboard Taiwan's New Trains",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241211NK.mp3",
+    "content": [
+      {
+        "en": "Taiwan has a new kind of train. It's the orange and black E500! It made its first trip from Qidu Station in Keelung. It's the fourth kind of new train in ten years.",
+        "tw": "台灣新的火車出現囉! 橘色跟黑色相間的 E500，在基隆七堵站正式啟程。它是十年來的第四種新火車。",
+        "time": null
+      },
+      {
+        "en": "Ten years ago, many trains were old. Some were more than 40 years old! They were hard to take care of.",
+        "tw": "十年前，好多火車都超過了 40 歲，很老舊又好難照顧。",
+        "time": null
+      },
+      {
+        "en": "The train company has been working hard. They are making their train service better and better. Now there are 1,000 new train cars! Three hundred more train cars will come soon. All of these new train cars cost more than one hundred billion Taiwan dollars!",
+        "tw": "火車公司很努力地改善，現在他們有 1000 台新火車，未來還會有其他 300 台，這些火車總共花了超過 1000 億台幣!天啊!",
+        "time": null
+      },
+      {
+        "en": "The newest trains have a strong electric engine. They go fast and slow down fast. This makes train travel faster. It also helps trains to be on time. That makes train travel better!",
+        "tw": "這些新的火車有強大的電力引擎，它們速度很快，也能很快停下來，這樣火車可以很準時抵達，讓旅行更方便。",
+        "time": null
+      },
+      {
+        "en": "The train company had an event for the E500. It was at Qidu Station. Many people came! They took many pictures! A shop there had train cards, model trains, train key rings, and more!",
+        "tw": "火車公司在七堵辦了一個慶祝 E500 啟程的活動，吸引很多鐵道迷來拍照，現場還有很多火車相關的紀念品!",
+        "time": null
+      },
+      {
+        "en": "What an exciting time for train fans in Taiwan!",
+        "tw": "對台灣的鐵道迷來說，這真是令人興奮的時刻！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "新的火車紛紛出現，讓旅行更方便而且舒適。",
+      "content": [
+        {
+          "text": "1. travel 旅行。I need to go to Taitung next week.我星期需要去台東。I've never been there before. 我從來沒去那裏。Will you travel there by train? 你會搭火車去嗎?I hope so. 我希望。",
+          "time": null
+        },
+        {
+          "text": "2. electric 電的。I love taking the train. 我喜歡搭火車。Me too. Especially the new electric train.我也是，特別是新的電動火車。",
+          "time": null
+        },
+        {
+          "text": "3. on time 準時。My meeting starts at 9 AM. 我的會議早上九點開始。Do you think I can get there on time? 你覺得我可以準時到嗎?From Taipei? No. 從台北嗎?到不了。",
+          "time": null
+        },
+        {
+          "text": "4. fast 快的。Oh, so the train is not going fast enough. 所以火車跑得不夠快。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。travel旅行 electric電的 on time準時 fast快的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did the new train make the first trip from?",
+        "options": [
+          "a. Qiaotou Station",
+          "b. Qiding Station",
+          "c. Qidu Station"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What kind of engine does the newest train have?",
+        "options": [
+          "a. Electric",
+          "b. Steam",
+          "c. Gas"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What is one way Taiwan's train service is better?",
+        "options": [
+          "a. Tickets are more expensive",
+          "b. Trains are on time",
+          "c. Trains are slower"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
