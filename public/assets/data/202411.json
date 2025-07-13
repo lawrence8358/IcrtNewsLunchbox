@@ -605,5 +605,102 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241112-01",
+    "type": "國小",
+    "tag": [
+      "Technology Education",
+      "Technology",
+      "Natural Sciences"
+    ],
+    "title": "Mushroom Mycelia Move Robots",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241111NK.mp3",
+    "content": [
+      {
+        "en": "Robots can do many things. But they need to move to do those things. Scientists are looking for new ways to make robots move. With no batteries or wires, robots could do many more things.",
+        "tw": "機器人可以做很多事，科學家正在找出不用電池或電線就能移動的方法，這樣機器人就可以做更多事!",
+        "time": null
+      },
+      {
+        "en": "Can a mushroom move a robot? What??? That sounds funny! But mushrooms have mycelia.",
+        "tw": "也許蘑菇可以移動機器人哦! 雖然聽起來好笑，但蘑菇裡有 mycelia ，也就是菌絲體。",
+        "time": null
+      },
+      {
+        "en": "Mycelia are thin white lines in mushroom roots. Mycelia can send electric signals!",
+        "tw": "菌絲體是磨菇根部細細的白色絲狀物，它們可以傳送電訊！",
+        "time": null
+      },
+      {
+        "en": "Scientists made two robots. One robot has legs. The other robot has wheels. They grew mycelia in the robots. Then they used the mycelia's electric signals. The robots moved!",
+        "tw": "科學家做了兩種機器人，一種有雙腳，一種裝有輪子。他們在機器人裡面培養菌絲體，並利用牠們傳遞訊號，讓機器人動起來！",
+        "time": null
+      },
+      {
+        "en": "Mycelia are very strong. They can live in very cold places. They can live in salt water. They can live in some places that are too dangerous for people! Maybe mycelia can help robots do more.",
+        "tw": "菌絲體很強，可以在低溫、鹽水或是其他人類無法生存的地方生長，也許牠們能夠幫助機器人做更多事情。",
+        "time": null
+      },
+      {
+        "en": "Moving robots with mycelia is great! Living things and machines can work together!",
+        "tw": "用菌絲體移動機器人真是太棒了！生物和機器可以一起工作！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "機器人不用電池電線，就可以自行移動，這是一大進步。",
+      "content": [
+        {
+          "text": "1. have 有。\nI still can't imagine having a robot in my house.\n我還是不能想像有個機器人在家裡。\nThat's because you don't have one. 那是因為你沒有。\nNo, even if I could buy one, I don't want it. 不是，就算我能買，我也不要。",
+          "time": null
+        },
+        {
+          "text": "2. leg 腿。\nI especially don't want a robot with legs and\nhands.我尤其不要有腿有手的機器人。\nIt's too scary!太恐怖了!\nWhat if it can cook for you? 要是它能替你做飯呢?\nNo.不要。",
+          "time": null
+        },
+        {
+          "text": "3. machine 機器。\nWhy not? 為什麼不要?\nBecause it's a machine! 因為它是機器。\nCome on, you have machines all around you.好了，你周圍都是機器。",
+          "time": null
+        },
+        {
+          "text": "4. make 命令。\nYeah, but they don't move. 對，但是它們不會動。\nA robot doesn't move unless you make it.機器人也不會動，除非你叫它動。",
+          "time": null
+        }
+      ],
+      "postscript": "Would you like a robot at home? 來讀單字。\nhave有 leg腿 machine機器 make命令"
+    },
+    "quiz": [
+      {
+        "question": "1. What can mycelia do?",
+        "options": [
+          "a. Move like mice",
+          "b. Send electrical signals",
+          "c. Make mushrooms walk"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What does one robot made by the scientists have?",
+        "options": [
+          "a. Legs",
+          "b. Arms",
+          "c. Eyes"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What is good about using mycelia in robots?",
+        "options": [
+          "a. They are tasty.",
+          "b. They are strong.",
+          "c. They are big."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
