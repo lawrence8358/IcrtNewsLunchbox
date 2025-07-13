@@ -921,6 +921,136 @@
     ]
   },
   {
+    "id": "20250224-01",
+    "type": "國小",
+    "tag": [
+      "Family Education"
+    ],
+    "title": "Mom Throws Away Comic Books",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250221NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: Hey there! Today -",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Mom: HoneyBun? Who are you talking to?",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Narrator: My friends!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Mom: OK. Love you!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Narrator: Mom …! Today …",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Mom: Don't forget to clean up!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Narrator: Not now, Mom! This place is a mess! Maybe I'll clean up… tomorrow!",
+        "tw": "天啊！我媽媽讓我好尷尬，她不知道我在錄節目嗎？",
+        "time": null
+      },
+      {
+        "en": "A mom lives with her son. He likes comic books. He has lots of them. Many are old.",
+        "tw": "有一個媽媽和非常愛看漫畫書的兒子住在一起，她兒子收藏了很多老漫畫書。",
+        "time": null
+      },
+      {
+        "en": "The son's comic books are everywhere. There are too many! They make a mess! And Taiwan's weather is wet, so some of his old books are a little wet. They are smelly. Pee-yew! They are moldy! Ewwww!",
+        "tw": "兒子的漫畫書到處放，把家裡弄得一團亂，再加上台灣潮濕的天氣，讓漫畫書都發霉了，而且發出臭臭的味道。",
+        "time": null
+      },
+      {
+        "en": "The mom asked her son to clean up again and again. But he didn't listen to her. She got angry. So she threw away some of his moldy old comic books!",
+        "tw": "媽媽一直請兒子整理乾淨，媽媽一氣之下，把發霉的漫畫書都丟進了垃圾桶！",
+        "time": null
+      },
+      {
+        "en": "The son got very angry! Some of his favorite comic books were gone! They are hard to find in bookstores. Maybe he cannot buy these comic books again!",
+        "tw": "兒子非常非常生氣，他心愛的漫畫書有一些很稀有，可能再也沒辦法在書店裡找到！",
+        "time": null
+      },
+      {
+        "en": "The son called the police! What? Now the mom has to pay her son 5,000 Taiwan dollars!",
+        "tw": "所以兒子報了警，結果現在媽媽必須賠償他 5 千元！",
+        "time": null
+      },
+      {
+        "en": "Do you make a mess at home? Clean up, kids!",
+        "tw": "你在家裡會弄得一團糟嗎？孩子們，快打掃吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "媽媽扔掉了髒兮兮的舊漫畫書，結果必須賠錢。",
+      "content": [
+        {
+          "text": "1. smelly 臭臭的。\nUgh! This box is wet and smelly! 這個盒子是濕的，還有臭味。\nWhat's inside? 裡面是什麼?\nJust some old food, I guess. 我猜是一些舊的食物。",
+          "time": null
+        },
+        {
+          "text": "2. throw away 扔掉。\nYuck! There's mold on the food! 好噁，上面長黴了!\nSorry, I should throw it away. 對不起，我應該把它扔掉的。\nYou should! 你應該。",
+          "time": null
+        },
+        {
+          "text": "3. maybe 也許。\nWhen did you buy it? 你什麼時候買的?\nI forgot. Maybe last week. 忘記了，也許是上星期。\nI believe it's older than a week. 我想比一個星期久。",
+          "time": null
+        },
+        {
+          "text": "4. again 再一次。\nI won't buy it again. 我不會再買了。\nNo, you can still buy it. 不，你可以再買。\nBut eat it soon. 但是要趕快吃掉。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\nsmelly臭臭的 throw away扔掉 maybe也許 again再一次"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the mom want her son to do?",
+        "options": [
+          "a. Make a mess",
+          "b. Get angry",
+          "c. Clean up"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What does the son like?",
+        "options": [
+          "a. Moldy books",
+          "b. Comic books",
+          "c. Smelly books"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What happened to some of the comic books?",
+        "options": [
+          "a. The son took them to a bookstore.",
+          "b. The mom and son read them.",
+          "c. The mom threw them away."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20250225-01",
     "type": "國小",
     "tag": [
