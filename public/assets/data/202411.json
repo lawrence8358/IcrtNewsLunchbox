@@ -1584,6 +1584,98 @@
     ]
   },
   {
+    "id": "20241121-01",
+    "type": "國小",
+    "tag": [
+      "Climate Action",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "As Glaciers Melt, Submarine Looks at Mud Piles",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241120NK.mp3",
+    "content": [
+      {
+        "en": "In Greenland, big, slow ice rivers are melting. These are glaciers. Climate change is melting them.",
+        "tw": "在冰島，因為氣候快速變遷，巨大的冰川正在融化。",
+        "time": null
+      },
+      {
+        "en": "Water from melting glaciers makes oceans rise. Rising oceans can flood cities near them! One billion people live in these cities!",
+        "tw": "融化的冰川讓海平面升高，可能會淹沒海邊的城市！有十億個人住在這些城市裡。",
+        "time": null
+      },
+      {
+        "en": "Scientists are studying piles in front of glaciers. They are made of mud and rocks. Maybe they keep warm ocean water away from glaciers. Maybe they make glaciers melt more slowly!",
+        "tw": "科學家正在研究冰川前的堆積物，它們是由泥土和岩石組成。也許能把溫暖的海水擋在冰川外面，讓冰川融化得慢一點!",
+        "time": null
+      },
+      {
+        "en": "But it’s too dangerous for people to go to the piles! Big pieces of ice can fall! So scientists sent a robot submarine. They moved it with a video game controller!",
+        "tw": "但是，親自調查那些堆積物很危險，隨時會有冰塊掉落！所以科學家們派了一艘機器潛水艇，並用遙控器控制！",
+        "time": null
+      },
+      {
+        "en": "The scientists got information about the piles! Maybe it will help them make glaciers melt more slowly. Maybe one day walls will be put in front of glaciers! Then the oceans will rise more slowly. Cities will have more time to become safe from floods!",
+        "tw": "科學家現在更加了解那些堆積物，也許有一天，冰川前面會有一道高牆來保護它們! 這樣海洋就會上升得更慢。城市將有更多時間免受洪水侵擾！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家想要更了解冰河，希望減緩它的融解速度。",
+      "content": [
+        {
+          "text": "1. ice 冰。\nHave you ever seen glaciers?你有看過冰河嗎?\nYeah, in Iceland. 有，在冰島。\nWhat are they like? 它們是什麼樣子?\nMore like a big, long piece of dirty ice. 比較像一塊很大很長的，髒髒的冰塊。",
+          "time": null
+        },
+        {
+          "text": "2. slowly 慢的。\nSo it doesn’t look like a river? 所以看起來不像河流?\nNo, not at all.一點也不像。\nIt moves so slowly you’d think it just stays there.它移動得很慢，慢到你以為它就待在那裏。",
+          "time": null
+        },
+        {
+          "text": "3. made of 做成。\nDid you touch it? 你有碰到它嗎?\nYeah, it’s cold. 有，是冷的。\nAfter all, it’s made of ice. 它畢竟是由冰塊組成的。",
+          "time": null
+        },
+        {
+          "text": "4. melt 融化。\nDoes a glacier melt in summer time? 夏天的時候冰河會不會融化?\nI believe it does, but not much.我想會，但是融的不多。",
+          "time": null
+        }
+      ],
+      "postscript": "你想要拜訪冰河嗎?\nice冰 slowly慢的 made of做成 melt融化"
+    },
+    "quiz": [
+      {
+        "question": "1. What happens when glaciers melt?",
+        "options": [
+          "a. Rivers get dry",
+          "b. Oceans rise",
+          "c. Rain falls"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What did scientists use to study the piles?",
+        "options": [
+          "a. A helicopter",
+          "b. A microscope",
+          "c. A submarine"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What do the piles do for the glacier?",
+        "options": [
+          "a. Keep warm water away",
+          "b. Bring warm water to it",
+          "c. Make the glacier bigger"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  },
+  {
     "id": "20241122-01",
     "type": "國小",
     "tag": [
