@@ -1499,6 +1499,102 @@
     ]
   },
   {
+    "id": "20250324-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Health and Physical Education"
+    ],
+    "title": "Watch Out for Sugary Drinks",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250321NK.mp3",
+    "content": [
+      {
+        "en": "How much sugar is in your drinks? You might be surprised!",
+        "tw": "你知道裡面有多少糖嗎? 很驚人哦!",
+        "time": null
+      },
+      {
+        "en": "Having too many sugary drinks isn't good for you. In Taiwan, it's a top cause for kidney problems for young people. And more young people are having kidney problems than before!",
+        "tw": "喝太多含糖飲料對身體不好，糖分也是引發台灣年輕人腎臟病的頭號原因，而且越來越多年輕人有這個問題!",
+        "time": null
+      },
+      {
+        "en": "Sugary drinks are easy to find in Taiwan. Many, many shops sell them. Walk a few steps down a road. You'll see a shop that sells drinks!",
+        "tw": "這是因為台灣到處都買得到含糖飲料，每走幾步，就會看到一間手搖飲或是茶水店。",
+        "time": null
+      },
+      {
+        "en": "It's best to get drinks with no sugar. But if you like sugary drinks, doctors say the most you should have is three a week.",
+        "tw": "喝飲料時，最好點無糖的，但如果你真的想喝含糖飲料，醫生建議一星期最多喝三次。",
+        "time": null
+      },
+      {
+        "en": "Sugary drinks are worse than sugary food. Your body breaks down food. Sugar goes into your blood slowly. But your body doesn't need to break down drinks. So sugar goes into your blood fast! That's not good for you!",
+        "tw": "含糖飲料比甜點更糟糕，因為甜點被消化時，糖分會慢慢地滲透進血液，但飲料不需要被身體分解，所以糖分會快速跑進血液裡，這樣很不健康!",
+        "time": null
+      },
+      {
+        "en": "Forget sugary drinks! Water is the best drink!",
+        "tw": "忘掉含糖飲料吧！水是最好的飲料！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "口渴的時候，喝水最好也最健康。",
+      "content": [
+        {
+          "text": "1) sugar 糖.\nWhat would you like to drink? Coffee? Tea? 你想喝什麼，咖啡還是茶?\nI'd like to have coke. 我想喝可樂。\nCoke has too much sugar.可樂含有太多糖了.",
+          "time": null
+        },
+        {
+          "text": "2) worse 比較壞的.\nMaybe a sports drink? 也許喝個運動飲料?\nIsn't that just as sugary? 那不是跟可樂一樣多糖?\nNo, coke is worse. 不會，可樂更糟糕.",
+          "time": null
+        },
+        {
+          "text": "3) how much 多少.\nHow much sugar is in coke, do you know? 可樂裡面有多少糖，你知道嗎?\nI don't. A lot, I think, because it's sweet.不知道，我想有很多，因為它很甜.",
+          "time": null
+        },
+        {
+          "text": "4) hot 熱的.\nAre you sure you don't want some nice hot tea? 你確定不想來一點好喝的熱茶?\nNo, thank you. 不了，謝謝。\nCan I have my coke now? 現在我可以喝可樂了嗎?\nOh alright. 好吧.",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡哪一種飲料呢?\nsugar糖 worse比較壞的 how much多少 hot熱的"
+    },
+    "quiz": [
+      {
+        "question": "1. What is one of the top causes of kidney problems for Taiwan's young people?",
+        "options": [
+          "a. Sugary drinks",
+          "b. Healthy vegetables",
+          "c. Fast walking"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What kind of drinks are best to get?",
+        "options": [
+          "a. Drinks with sugar",
+          "b. Drinks with milk",
+          "c. Drinks with no sugar"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What does our body break down?",
+        "options": [
+          "a. Sugary food",
+          "b. Sugary drinks",
+          "c. Water"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  },
+  {
     "id": "20250325-01",
     "type": "國小",
     "tag": [
