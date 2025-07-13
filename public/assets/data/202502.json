@@ -191,6 +191,113 @@
     ]
   },
   {
+    "id": "20250213-01",
+    "type": "國小",
+    "tag": [
+      "Responsible Consumption and Production",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Growing Toilet Paper",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250212NK.mp3",
+    "content": [
+      {
+        "en": "Toilet paper makes our lives better. But how many trees are cut down for toilet paper every year? One million trees are cut down!",
+        "tw": "衛生紙是超級方便的發明，但是你知道嗎?每一年都有 1 百萬棵樹被砍下來做衛生紙!",
+        "time": null
+      },
+      {
+        "en": "But in Kenya, some people grow their own toilet paper! These people grow one kind of plant. It is easy to grow. It grows tall very fast. And it has soft leaves.",
+        "tw": "在肯亞，有一些人則自己做衛生紙，他們種植一種長的很快的植物，這種植物有軟軟的葉子。",
+        "time": null
+      },
+      {
+        "en": "The leaves feel nice. They smell like lemon. They are strong. And they are about as big as a toilet paper square. These leaves are easy to use!",
+        "tw": "這些葉子聞起來像檸檬，大小跟折起來的衛生紙一樣大，而且不容易破掉。",
+        "time": null
+      },
+      {
+        "en": "Some people teach others how to grow the plant. They think it can help save trees. And saving trees helps the Earth!",
+        "tw": "有人教導其他人種植這種植物，他們相信這能幫助地球和樹木。",
+        "time": null
+      },
+      {
+        "en": "But in some places, people cannot grow the plant. These plants can start growing everywhere. They push out other plants.",
+        "tw": "但在某一些地方不能種植這種植物，這些植物會到處亂長，其他植物會沒有空間。",
+        "time": null
+      },
+      {
+        "en": "Also, the leaves also cannot go down the toilet. They have to be thrown away. Or they can be put into the ground.",
+        "tw": "而且這種衛生紙不能丟進馬桶，但可以埋進土裡面或是另外丟掉。",
+        "time": null
+      },
+      {
+        "en": "But these people like growing their own toilet paper. They want to help trees and the Earth.",
+        "tw": "這些肯亞人還是很喜歡自己種植衛生紙，因為他們想幫助地球和樹木。",
+        "time": null
+      },
+      {
+        "en": "Do you want to try using these leaves as toilet paper?",
+        "tw": "你想要試試看用這些葉子當作衛生紙嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "直接使用樹葉當作衛生紙，這是否是個好主意?",
+      "content": [
+        {
+          "text": "1. plant 植物。\nYou know, I've been thinking 我想了一陣子…\nWe need to grow some plants in the garden. 我們得在花園種些植物。\nMaybe a tree? 也許種一棵樹?",
+          "time": null
+        },
+        {
+          "text": "2. grow 生長。\nTrees are nice, but I once planted a tree, 樹很好，但是我有一次種了一棵樹，\nand it grew too big! 結果它長太大了!\nWe couldn't even see the house anymore.我們甚至看不到房子了。",
+          "time": null
+        },
+        {
+          "text": "3. cut down 砍掉。\nSo you cut it down? 所以你就把它砍了?\nSure, we had to.當然，必須砍掉。\nLet's grow something that smells good, like\nlavender.我們來種一些有香氣的，比如說薰衣草。",
+          "time": null
+        },
+        {
+          "text": "4. lemon 檸檬。\nOh, lavender is good! 薰衣草很好。\nI can make lemon lavender cake. 我可以做檸檬薰衣草蛋糕。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記得嗎?\nplant植物 grow生長 cut down砍掉 lemon檸檬"
+    },
+    "quiz": [
+      {
+        "question": "1. How many trees are cut down every year for toilet paper?",
+        "options": [
+          "a. 1,000",
+          "b. 100,000",
+          "c. 1,000,000"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How big are the plant's leaves?",
+        "options": [
+          "a. Smaller than toilet paper squares",
+          "b. As big as toilet paper squares",
+          "c. Bigger than toilet paper squares"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why can't some people grow this plant?",
+        "options": [
+          "a. It pushes out other plants.",
+          "b. It smells bad.",
+          "c. It makes people sick."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  },
+  {
     "id": "20250217-01",
     "type": "國小",
     "tag": [
