@@ -298,6 +298,117 @@
     ]
   },
   {
+    "id": "20250214-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies",
+      "Life Planning Education"
+    ],
+    "title": "Letters of Love",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250213NK.mp3",
+    "content": [
+      {
+        "en": "It’s Valentine’s Day! Today, many people use dating apps to find love. But long ago, people met in other ways…",
+        "tw": "今天是情人節，你們會不會好奇四十年前沒有交友軟體，那時候的人怎麼談戀愛呢？",
+        "time": null
+      },
+      {
+        "en": "Let’s go back forty years…A woman lives in Singapore. She likes swimming and traveling. She sends letters all over the world.",
+        "tw": "四十年前，一個新加坡的女人很喜歡游泳跟旅行，還喜歡寄信給世界各地的人。",
+        "time": null
+      },
+      {
+        "en": "A man lives in England. He likes trains and animals. One day, he gets a letter. It's from Singapore. That’s over ten thousand kilometers away!",
+        "tw": "英國的一個男人喜歡火車跟動物，某一天，他收到了一封信，來自那位一萬多公里外的新加坡女人！",
+        "time": null
+      },
+      {
+        "en": "The letter is from the woman. He loves reading it. He wants to learn more about her. So he writes to her.",
+        "tw": "男人很喜歡這封信，想要更認識寄信的女子，所以他回信了。",
+        "time": null
+      },
+      {
+        "en": "They write to each other for seven years. They love to write. Then the woman goes to England. She wants to meet!",
+        "tw": "兩個人互相寫了7 年的信，最後女人終於到英國，想見這位男士！",
+        "time": null
+      },
+      {
+        "en": "They meet at the airport. They fall in love. One year later, the man flies to Singapore. He asks the woman to marry him.",
+        "tw": "雙方約在機場見面，他們墜入愛河，一年後，男人飛到新加坡跟女人求婚。",
+        "time": null
+      },
+      {
+        "en": "Now, thirty years later, they are married. They have three kids. They do everything together! They’re best friends.",
+        "tw": "如今，過了30 年，他們已經結婚並且有三個小孩，感情非常好。",
+        "time": null
+      },
+      {
+        "en": "The woman and man lived ten thousand kilometers from each other! But letters of love made them close.",
+        "tw": "這都是那一封封橫跨地球的情書的功勞。",
+        "time": null
+      },
+      {
+        "en": "Happy Valentine’s Day, everyone!",
+        "tw": "大家情人節快樂！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "情人不遠千里來相會，造就一段佳話。",
+      "content": [
+        {
+          "text": "1. letter 信件。Tom broke up with his girlfriend over Line. 湯姆用Line跟他的女朋友分手了。That’s so rude! 真沒禮貌!He should at least write her a letter. 他至少應該寫封信給她。",
+          "time": null
+        },
+        {
+          "text": "2. write 寫作。People don’t do that anymore. 大家已經不那樣了。I know. Maybe they find writing on paper hard. 我知道，也許他們覺得在紙上寫字很難。",
+          "time": null
+        },
+        {
+          "text": "3. fall in love 墜入情網。My parents fell in love via letters.我爸媽因為寫信而墜入愛河。How romantic! 好浪漫!",
+          "time": null
+        },
+        {
+          "text": "4. meet 會面。Today people fall in love with their computers. 現在人們跟電腦談戀愛。Or cellphones. 或是手機。They even meet on cell phones, not face-to-face. 他們甚至在手機上相見，而不是面對面。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like writing letters? letter信件 write寫作 fall in love墜入情網 meet會面"
+    },
+    "quiz": [
+      {
+        "question": "1. What is today?",
+        "options": [
+          "a. Valentine’s Day",
+          "b. Teacher’s Day",
+          "c. Children’s Day"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How far is Singapore from England?",
+        "options": [
+          "a. 10 kilometers",
+          "b. 10,000 kilometers",
+          "c. 10,000,000 kilometers"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How long did the man and woman write to each other?",
+        "options": [
+          "a. Seven years",
+          "b. Thirty years",
+          "c. Forty years"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  },
+  {
     "id": "20250217-01",
     "type": "國小",
     "tag": [
