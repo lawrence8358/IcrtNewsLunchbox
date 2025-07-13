@@ -305,5 +305,100 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20241107-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education"
+    ],
+    "title": "Jumping Over Water Is a Sport?",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241106NK.mp3",
+    "content": [
+      {
+        "en": "In the Olympics, pole vaulters run with a long pole. They hold the pole and jump high! They let go of the pole! They go over a high bar! They come down on a MAT so they don't get hurt. The pole vaulter with the highest jump wins!",
+        "tw": "奧運有撐竿跳項目，運動員握著長長的竿子快跑，然後撐在地上讓自己跳起來，越過欄杆，落在軟墊上，跳最高的就能獲勝!",
+        "time": null
+      },
+      {
+        "en": "In the Netherlands, there's a different way to pole vault. Vaulters jump over a wide canal. A canal is a manmade waterway!",
+        "tw": "在荷蘭，有種不一樣的撐竿跳！參加比賽的人要跳過寬寬的運河。",
+        "time": null
+      },
+      {
+        "en": "Canal vaulters run very fast to a pole. They grab the pole and jump on it! They climb up the pole as fast as they can! The pole goes a little to the other side of the canal.",
+        "tw": "這些運河撐竿跳運動員要衝向竿子，快速地爬上去，竿子會慢慢向運河的另一側傾斜。",
+        "time": null
+      },
+      {
+        "en": "The vaulters let go of the pole! They come down on sand so they don't get hurt. The canal vaulter with the longest jump wins.",
+        "tw": "這時運動員要放開竿子，落在對岸的沙子上好避免受傷，跳最遠的就獲勝!",
+        "time": null
+      },
+      {
+        "en": "A long time ago, farmers there jumped canals all the time. Many farms have canals. Farmers used poles to jump canals. It wasn't for fun. They needed to go to the next field!",
+        "tw": "荷蘭是低地國家，有很多運河。以前荷蘭的農夫常常需要撐竿跳過河，不是為了好玩，而是為了到農田裡工作。",
+        "time": null
+      },
+      {
+        "en": "Now, every year, many people watch the Netherlands' canal jumping contest! Jump far, vaulters!",
+        "tw": "現在，每年都有許多人觀看荷蘭的運河跳遠比賽！跳遠選手們，加油！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "荷蘭的撐竿跳不是看誰跳得高，而是比誰跳得遠。",
+      "content": [
+        {
+          "text": "as fast as 一樣快。\nThat runner, the first one from the left, 那個左邊的第一個選手，\nsays he can run as fast as a giraffe.說他可以跑得跟長頸鹿一樣快。\nThat's a fun way of putting it. 這個說法很好玩。",
+          "time": null
+        },
+        {
+          "text": "contest 比賽。\nHere we go! 開始了。\nWow, he really runs fast! 哇，他真的跑很快!\nAnd he won the contest! 他贏了比賽!",
+          "time": null
+        },
+        {
+          "text": "jump 跳。\nLet’s watch this event too, the high jump.我們也來看看跳高項目.\nWhat’s so special about it? 那有什麼特別的?",
+          "time": null
+        },
+        {
+          "text": "highest 最高的。\nI want to see if any jumper breaks the highest record. 我想看看有沒有選手破最高紀錄。\nHow high is the record? 紀錄有多高?\n2.45 meters.兩公尺四五。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了嗎? as fast as一樣快? ? contest比賽? ? jump跳? ? highest最高的"
+    },
+    "quiz": [
+      {
+        "question": "What is an Olympic sport?",
+        "options": [
+          "a. Pole vaulting",
+          "b. Waterway vaulting",
+          "c. Bar vaulting"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "Where do people take part in canal vaulting?",
+        "options": [
+          "a. The Netherlands",
+          "b. The Philippines",
+          "c. The U.K."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "Why did farmers pole vault over canals?",
+        "options": [
+          "a. To have fun",
+          "b. To go to the next field",
+          "c. To become strong"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
