@@ -1867,5 +1867,101 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20241126-01",
+    "type": "國小",
+    "tag": [
+      "Character Education",
+      "Social Studies"
+    ],
+    "title": "Boy Breaks Vase and Gets Lesson",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241125NK.mp3",
+    "content": [
+      {
+        "en": "One day, a family went to a museum. They looked at many old things. The family has a four-year-old boy. He saw a vase. It was three thousand five hundred years old!",
+        "tw": "一個四歲的小男孩跟他家人到博物館，他看到一個三千五百年前的古老瓶子。",
+        "time": null
+      },
+      {
+        "en": "The boy wanted to see the inside of the vase. The vase was tall. The boy was small. So he pulled it a little... Uh-oh!",
+        "tw": "他想看看瓶子的裡面，但是瓶子放太高了，所以他輕輕拉了一下……。",
+        "time": null
+      },
+      {
+        "en": "The parents heard the crash. They saw their boy! They saw the broken vase! There were many pieces! Oh no! The boy was scared! He cried!",
+        "tw": "他的爸媽轉頭看到小男孩，以及地上破碎的瓶子，小男孩害怕地哭了。",
+        "time": null
+      },
+      {
+        "en": "But the museum workers were very kind. They knew it was a mistake. And they wanted kids to feel welcome. So they invited the family to come back.",
+        "tw": "博物館工作人員很和善。他們知道這是個意外。所以後來又邀請男孩一家人來博物館。",
+        "time": null
+      },
+      {
+        "en": "The family came back. The boy saw how the vase was fixed. The museum workers showed him that mistakes are a part of learning.",
+        "tw": "男孩在博物館看到修補古老瓶子的過程，工作人員想讓男孩知道，犯錯是學習的一部份。",
+        "time": null
+      },
+      {
+        "en": "The museum workers hope more kids will visit. They want everyone to know it's okay to make mistakes. Well, they don't want more broken things. But they think broken things can be beautiful again!",
+        "tw": "博物館希望更多小朋友來參觀。他們想要小朋友知道，犯錯沒關係。他們不希望有更多東西被打破。但他們認為破損的東西也能再次變得美麗！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這座博物館希望教育兒童，犯錯沒有那麼嚴重。",
+      "content": [
+        {
+          "text": "1. invite 邀請。If I break something in this museum, 假如我在這座博物館打破東西，will it invite me back? 它會邀請我回去嗎?No, not you.不會，對你不會。",
+          "time": null
+        },
+        {
+          "text": "2. mistake 錯誤。Why not? 為什麼不會?You're not 4 years old, are you? 你不是四歲小孩吧?But it would be just a small mistake. 但是那只是個小錯。",
+          "time": null
+        },
+        {
+          "text": "3. hope 希望。I hope you're not planning something bad. 我希望你不是在計劃做什麼壞事。Of course not! 當然不是!",
+          "time": null
+        },
+        {
+          "text": "4. fix 修理。I just think if the museum can fix the vase…我只是在想假如這座博物館能修好瓶子...Stop it, Nancy. You're not going there today.別想了，南西。你今天不去那兒。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡博物館嗎? 來讀一讀單字。invite邀請 mistake錯誤 hope希望 fix修理"
+    },
+    "quiz": [
+      {
+        "question": "1. How old was the vase?",
+        "options": [
+          "a. 500 years old",
+          "b. 3,500 years old",
+          "c. 5,300 years old"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What did the boy do to the vase?",
+        "options": [
+          "a. Pushed it",
+          "b. Kicked it",
+          "c. Pulled it"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did the museum want the boy to learn?",
+        "options": [
+          "a. Always be careful.",
+          "b. Mistakes help people learn.",
+          "c. Vases are not important."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
