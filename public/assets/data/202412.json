@@ -978,5 +978,102 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241216-01",
+    "type": "國小",
+    "tag": [
+      "Life Below Water",
+      "Marine Education",
+      "Natural Sciences"
+    ],
+    "title": "The Lucky $120,000 Sea Snail",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241213NK.mp3",
+    "content": [
+      {
+        "en": "Do you want to pay $120,000 Taiwan dollars for something... and then let it go?",
+        "tw": "你願意花 12 萬元買個東西，然後馬上放棄它嗎?",
+        "time": null
+      },
+      {
+        "en": "That's what a man in Taiwan did. He bought a very big sea snail. This sea snail lives deep in the sea. It is very rare. Its shell is orange, red, and green. Some people want this big, beautiful shell.",
+        "tw": "一名台灣男子就這麼做。他買了一個住在深海裡的巨大海螺，俗稱龍宮貝，它很稀有，身上是橘色、紅色跟綠色，很多人想要牠漂亮的殼。",
+        "time": null
+      },
+      {
+        "en": "A fisherman caught this sea snail near Turtle Island. He took it home. He put it in cold water. He told people he was selling it.",
+        "tw": "龍宮貝是漁夫在龜山島附近捕捉到的，並且帶回家用冷水維持生命，還跟大家宣傳要把它賣掉。",
+        "time": null
+      },
+      {
+        "en": "One person wanted to give him $160,000 Taiwan dollars. Did the fisherman take it? Nope. He sold it for less money! The fisherman sold it to a man for $120,000 Taiwan dollars. Why? Well, the man wanted the sea snail to live in the sea again.",
+        "tw": "有人最高出價到 16 萬台幣，但最後漁夫寧願賣給出價 12 萬元的男子，因為那名男子說，他買的原因是想把龍宮貝放回海裡!",
+        "time": null
+      },
+      {
+        "en": "So the fisherman took the sea snail out on his boat. The fisherman took pictures for the man. The sea snail went back into the sea!",
+        "tw": "於是漁夫把龍宮貝帶回龜山島附近，讓牠回歸大海，並且把過程照相給男子看。",
+        "time": null
+      },
+      {
+        "en": "What a good man! And what a lucky sea snail!",
+        "tw": "真是個好男人！這隻海螺也真幸運！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "男子買下稀有龍宮貝，只是為了讓牠重返家園。",
+      "content": [
+        {
+          "text": "1. shell 貝殼。\nLook at the shell I found! 你看我找到的這個貝殼!\nWow, it's so beautiful! 哇，真漂亮!\nI've never seen anything like this.我從來沒看過這種。",
+          "time": null
+        },
+        {
+          "text": "2. rare 稀有的\nMe neither.我也沒有。\nIt must be pretty rare.一定是滿稀有的。\nHow did it end up here? 它怎麼會跑到這裡來?",
+          "time": null
+        },
+        {
+          "text": "3. sea 大海。\nFor that, you have to ask the sea.這個答案得問大海。\nThe sea can bring a lot of stuff to the shore. 海浪可以把很多東西帶到岸邊。",
+          "time": null
+        },
+        {
+          "text": "4. give 給予。\nYou may be right. 也許你是對的。\nBut can you give this to me? 但是你可以把它給我嗎?\nI want to look it up in my book. 我要查一查我的書。\nI can lend it to you.我可以借給你。",
+          "time": null
+        }
+      ],
+      "postscript": "你可記得今天的單字?\nshell貝殼 rare稀有的 sea大海 give給予"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the fisherman do with the sea snail?",
+        "options": [
+          "a. Ate it",
+          "b. Bought it",
+          "c. Sold it"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many Taiwan dollars did a man pay for the sea snail?",
+        "options": [
+          "a. 60,000",
+          "b. 120,000",
+          "c. 160,000"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did the man want the sea snail to do?",
+        "options": [
+          "a. Take his money",
+          "b. Live in the sea",
+          "c. Be a turtle"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
