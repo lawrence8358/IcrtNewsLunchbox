@@ -1104,5 +1104,102 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20241115-01",
+    "type": "國小",
+    "tag": [
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life on Land",
+      "Life Below Water",
+      "Environmental Education",
+      "Marine Education",
+      "Natural Sciences"
+    ],
+    "title": "Where Millions of Tons of Plastic Waste Go",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241114NK.mp3",
+    "content": [
+      {
+        "en": "Plastic makes our lives easier. We use a lot... and we throw away a lot.",
+        "tw": "我們使用很多塑膠產品，也扔掉很多。",
+        "time": null
+      },
+      {
+        "en": "Some goes into water or on land. Scientists looked at this kind of plastic waste. They say there's 57 million tons of it every year. They found where it goes.",
+        "tw": "每年有5700萬噸，會跑到水裡或是留在地面！",
+        "time": null
+      },
+      {
+        "en": "This plastic goes everywhere on Earth. Then it becomes microplastics. They are very small. Most are too small to see. They are in the air, our food, our water, and our bodies!",
+        "tw": "它們到處都是，會變成小到幾乎看不見的塑膠微粒，跑進空氣、食物、水，甚至我們的身體裡！",
+        "time": null
+      },
+      {
+        "en": "Taiwan is good about recycling plastic. But we use lots of plastic too. Taiwan says everybody here uses 700 plastic bags every year!",
+        "tw": "雖然台灣塑膠回收做得很好，但我們每一個人一年會用 700 個塑膠袋。",
+        "time": null
+      },
+      {
+        "en": "Plastic and microplastics hurt us and the Earth. We know this. But we keep using plastic and throwing it away. So more plastic is made. Now more than 400 million tons is made. Twenty-five years from now, more than one billion tons will be made!",
+        "tw": "因為我們用完就丟，所以塑膠生產量一直增加。現在世界每年製造超過 4 億噸塑膠，25 年後，會超過十億噸！",
+        "time": null
+      },
+      {
+        "en": "We can help the Earth. Let's use less plastic and recycle more. That's good for us too!",
+        "tw": "我們可以幫助地球。讓我們少用塑膠，多加回收。這對我們也有好處！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "雖然大家回收很多塑膠製品，流落在外面的還是太多。",
+      "content": [
+        {
+          "text": "1) water 水。\nYuck, so many cups in the water! 好噁，水裡那麼多杯子!\nPeople are so careless. 大家太粗心了。\nYeah, they drank up their drinks, 對啊，他們把冷飲喝完，\nand just threw the cups into the river. 就把杯子扔進河裡。",
+          "time": null
+        },
+        {
+          "text": "2) recycle 回收。\nSomebody should invent cups that fish can eat.應該有人發明魚會吃的杯子。\nEverybody should bring the cups home and recycle them.\n應該每個人把杯子帶回家回收。",
+          "time": null
+        },
+        {
+          "text": "3) everywhere 到處。\nWho would do something like that? 誰會那麼做?\nI would. 我會。\nNot me. I would toss the cups right away. 我可不。我會把馬上把杯子扔掉。\nNo wonder there's garbage everywhere.難怪到處都是垃圾。\nHey, that's unfair. 這麼講不公平。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you recycle plastics? 請跟我一起複習單字\nwater水 recycle回收 everywhere到處"
+    },
+    "quiz": [
+      {
+        "question": "1. How much plastic goes in water and on land every year?",
+        "options": [
+          "a. 57 tons",
+          "b. 57 million tons",
+          "c. One billion tons"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What does plastic in water and on land become?",
+        "options": [
+          "a. Microplastics",
+          "b. Hard plastics",
+          "c. Burned plastic"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many plastic bags a year does each person use in Taiwan?",
+        "options": [
+          "a. 7 bags",
+          "b. 70 bags",
+          "c. 700 bags"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
