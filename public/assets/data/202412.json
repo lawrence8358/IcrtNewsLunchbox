@@ -300,6 +300,107 @@
     ]
   },
   {
+    "id": "20241205-01",
+    "type": "國小",
+    "tag": [
+      "Law-related Education",
+      "Safety Education"
+    ],
+    "title": "Turkeys and Little Green Men Make Crossing Streets Safer",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241204NK.mp3",
+    "content": [
+      {
+        "en": "When you walk across the street, you look at the traffic light, right? It tells you when it's safe to cross.",
+        "tw": "過馬路時，我們都會看交通號誌，它會告訴我們甚麼時候可以安全過馬路。",
+        "time": null
+      },
+      {
+        "en": "But many people look at their phones. They wait and look at their phones. They cross the street and look at their phones. That's so dangerous!",
+        "tw": "但很多人會一直看手機，在過馬路時，眼睛也緊緊黏在手機上。非常危險!",
+        "time": null
+      },
+      {
+        "en": "In Chiayi, there are fun traffic lights! They're in five places. When the light is red, you see... a turkey! When the light is green, you see a bowl of turkey rice. That's a Chaiyi dish.",
+        "tw": "嘉義有一個很有趣的交通號誌。紅燈時我們會看到火雞!綠燈時則會看到嘉義最有名的火雞肉飯。",
+        "time": null
+      },
+      {
+        "en": "Taiwan has other places with fun traffic lights! In Taipei, a little green man runs faster and faster.",
+        "tw": "很多地方都有特色的交通號誌。像是台北的小綠人就跑的超級快。",
+        "time": null
+      },
+      {
+        "en": "In Pingtung, the little green man crosses the street with his girlfriend. When the light turns red, he asks his girlfriend to marry him. Some lights show the little green man with a family.",
+        "tw": "在屏東，小綠人和女朋友一起走，紅燈時，他會跪下來向女朋友求婚。有一些地方的號誌則是小綠綠全家人。",
+        "time": null
+      },
+      {
+        "en": "The traffic lights are fun. But they have an important job. They help stop people from looking at their phones. They make people want to look at the lights!",
+        "tw": "這些好玩的交通號誌有個任務，就是讓人不要只盯著手機，而是注意看號誌。",
+        "time": null
+      },
+      {
+        "en": "Turkeys and little green men make crossing the street fun - and safe - in Taiwan!",
+        "tw": "火雞和小綠人讓在台灣過馬路變得有趣又安全！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "行人號誌越做越有趣，好吸引行人專心過馬路。",
+      "content": [
+        {
+          "text": "1. turn 變成。 The light is about to turn red! Let's run! 快變成紅燈了，快跑! Oh, boy, that was close! 只差一點點。 Yeah, too close.對啊，太靠近了。",
+          "time": null
+        },
+        {
+          "text": "2. dangerous 危險的。 The green light is way too short. 綠燈時間太短了. It's dangerous! 好危險。 I wonder if we can change the traffic lights.不知道我們能不能改變交通號誌。",
+          "time": null
+        },
+        {
+          "text": "3. traffic 交通。 Yeah, maybe traffic police can help us. 也許交通警察可以幫我們。",
+          "time": null
+        },
+        {
+          "text": "4. safe 安全的。 Yeah, let's ask them what we can do. 我們來問問他們我們可以做什麼。 They want to keep people safe too.他們也希望維護大家安全。",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學到哪些單字? turn變成 dangerous危險的 traffic交通 safe安全的"
+    },
+    "quiz": [
+      {
+        "question": "1. What animal does Chiayi use for its traffic light?",
+        "options": [
+          "a. A chicken",
+          "b. A cow",
+          "c. A turkey"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What does the little green man do in Taipei?",
+        "options": [
+          "a. Runs",
+          "b. Dances",
+          "c. Swims"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What city's lights have a little green man and his girlfriend?",
+        "options": [
+          "a. Pingtung",
+          "b. Taipei",
+          "c. Chiayi"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  },
+  {
     "id": "20241206-01",
     "type": "國小",
     "tag": [
