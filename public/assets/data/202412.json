@@ -1268,5 +1268,100 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241219-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies"
+    ],
+    "title": "What Will Be the Toys of the Year?",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241218NK.mp3",
+    "content": [
+      {
+        "en": "Making a new toy sounds fun. But it's hard to do. Inventors think about the toy. They think about the kids who will play with it. Is the toy too easy or too hard for the kids?",
+        "tw": "發明新的玩具聽起來很有趣，但其實不簡單。發明家要思考玩具會不會太難?小朋友會喜歡嗎?",
+        "time": null
+      },
+      {
+        "en": "Inventors make one sample of their toy. They take the sample to kids to play with. Do kids like it? Then the inventor tests the toy. Does it break easily? Does it have dangerous parts?",
+        "tw": "發明家會先做出一個樣本，看看小孩喜不喜歡，然後檢查玩具是否堅固，會不會危險?",
+        "time": null
+      },
+      {
+        "en": "When there are no more problems, a toy factory makes a lot of the toy. Then the inventor needs to sell them! Phew! It takes lots of work to make a new toy! But... maybe kids around the world will play with it!",
+        "tw": "確認沒有問題之後，廠商製造這件玩具，發明家還要想辦法把它賣掉!發明新玩具還真累人，不過可以帶給世界很多小孩快樂。",
+        "time": null
+      },
+      {
+        "en": "Every year, toy inventors hope their toy gets a Toy Foundation award. Toys that get the most votes win. Everyone can vote on the foundation's website.",
+        "tw": "每一年，發明家都希望自己做的玩具，能得到玩具基金會大獎，每一個人都可以上網投票!",
+        "time": null
+      },
+      {
+        "en": "You can vote for sixteen kinds of toys. There are action figures, stuffed animals, toys that help you make things your own way, toys that teach, and more!",
+        "tw": "你可以決定你最喜歡的可動公仔、絨毛玩具、帶你動手做東西的玩具等等，總共有 16 個種類可以選!",
+        "time": null
+      },
+      {
+        "en": "You can vote until January tenth! Good luck, inventors!",
+        "tw": "你可以投票直到一月十日！祝發明家們好運！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "玩具發明家的工作很不簡單，卻很有趣。",
+      "content": [
+        {
+          "text": "1. stuffed toy 絨毛動物玩具。What's your favorite toy when you were little? 你小時候最喜歡的玩具是什麼?My Billy the shepherd dog. 比利，我的牧羊犬。A stuffed animal? 一隻絨毛動物?Yeah, it's very cute!對，它很可愛!",
+          "time": null
+        },
+        {
+          "text": "2. play 玩耍。What about you? 那你呢?Oh, I loved my small chairs and tables. 我喜歡我的小桌子小椅子。I played with them all the time.我經常玩。",
+          "time": null
+        },
+        {
+          "text": "3. fun 好玩的。Those toys were so much fun! 那些玩具真好玩!Much better than the toys that kids get today. 比現在小孩的玩具好多了。",
+          "time": null
+        },
+        {
+          "text": "4. make 製造。They should make more simple but interesting toys.他們應該多做簡單有趣的玩具。Yeah, instead of just computer games. 對啊，而不是只有電腦遊戲。",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字你記住了嗎?stuffed toy絨毛動物玩具 play玩耍 fun好玩的 make製造"
+    },
+    "quiz": [
+      {
+        "question": "1. What can happen after there are no more problems with a new toy?",
+        "options": [
+          "a. A factory makes lots of it.",
+          "b. The inventor tests it.",
+          "c. The inventor makes a sample."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How many kinds of toys can you vote for?",
+        "options": [
+          "a. 12",
+          "b. 14",
+          "c. 16"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. When does voting stop?",
+        "options": [
+          "a. January 10th",
+          "b. February 1st",
+          "c. March 5th"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
