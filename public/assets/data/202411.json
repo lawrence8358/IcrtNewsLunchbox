@@ -1963,5 +1963,108 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241127-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Marine Education",
+      "Law-related Education",
+      "Natural Sciences"
+    ],
+    "title": "Taiwan to Stop Dolphin Shows",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241126NK.mp3",
+    "content": [
+      {
+        "en": "Do you like to watch dolphin shows? Dolphins jump together! They play with balls! They walk on water! Yes, they walk on water... with their tails! Dolphins do many tricks in shows!",
+        "tw": "你喜歡看海豚表演特技嗎?牠們會玩球、跳躍，甚至用尾巴在水面上走!",
+        "time": null
+      },
+      {
+        "en": "Many people like watching dolphin shows. They think the shows are exciting and fun.",
+        "tw": "很多人超愛看海豚秀，覺得那些表演非常有趣!",
+        "time": null
+      },
+      {
+        "en": "But some people don't like them. They think making dolphins do tricks isn't good. They say doing tricks can hurt dolphins. Dolphins in the ocean don't do these tricks.",
+        "tw": "但也有人認為，讓海豚表演會傷害牠們，畢竟牠們不是生來就會這些特技。",
+        "time": null
+      },
+      {
+        "en": "Taiwan protects dolphins and many other ocean animals. They are protected because there aren't many of these animals.",
+        "tw": "台灣努力保護海豚跟其他海洋生物，因為牠們數量不多。",
+        "time": null
+      },
+      {
+        "en": "Now Taiwan has a new rule for protected animals. They cannot be in shows. Soon, dolphin shows will stop in Taiwan! So places that have dolphin shows are changing.",
+        "tw": "現在新的規定禁止保育類動物公開表演，所以海豚秀將會退出台灣!",
+        "time": null
+      },
+      {
+        "en": "One place will help dolphins. It will also teach people about dolphins and other ocean animals. At another place, people are learning about dolphins' bodies and their lives in the ocean.",
+        "tw": "有興趣的小朋友，也可以到台灣一些地方，學習關於海豚的身體結構，以及牠們在海洋生活的知識。",
+        "time": null
+      },
+      {
+        "en": "People will learn more about dolphins. And they'll learn dolphins are exciting and fun - with no tricks!",
+        "tw": "人們將會更了解海豚，並且會知道海豚即使沒有特技也一樣令人興奮又有趣！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "海豚聰明又可愛，但是牠們數量不多了，需要保護。",
+      "content": [
+        {
+          "text": "1. learn 學習。Don't you just love dolphins? 你會不會很愛海豚? They can learn so many tricks! 牠們能學好多種把戲! Yeah, and they always have a big smile.而且他們總是有笑容。",
+          "time": null
+        },
+        {
+          "text": "2. jump 跳。I once saw a dolphin show. 我有一次看海豚秀。The dolphin jumped up and kissed the trainer! 海豚跳起來親親教練! That's cute! 真可愛!",
+          "time": null
+        },
+        {
+          "text": "3. protect 保護。Too bad there will be no such shows in the future.真可惜以後沒有這種表演了。Well, it's a good thing to protect the animals. 保護那些動物是好事。",
+          "time": null
+        },
+        {
+          "text": "4. hurt 傷害或是受傷。They sometimes got hurt doing the tricks.牠們表演把戲有時候會受傷。I guess you're right.我想你說對了。",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字你學會了嗎?learn學習 jump跳 protect保護 hurt傷害或是受傷"
+    },
+    "quiz": [
+      {
+        "question": "1. What do dolphins do in shows?",
+        "options": [
+          "a. Sing songs",
+          "b. Do tricks",
+          "c. Save people"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do many people like about dolphin shows?",
+        "options": [
+          "a. They're bad.",
+          "b. They're slow.",
+          "c. They're exciting."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Why will dolphin shows stop in Taiwan?",
+        "options": [
+          "a. Dolphins are protected.",
+          "b. Dolphins are old.",
+          "c. Dolphins are hurt."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
