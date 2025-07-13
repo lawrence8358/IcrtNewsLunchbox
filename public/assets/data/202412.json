@@ -1075,5 +1075,101 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241217-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Taipei Zoo Makes Typhoon Wood Furniture",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241216NK.mp3",
+    "content": [
+      {
+        "en": "Woah! Typhoons are dangerous! They damage houses, mountains, trees, and more. But sometimes a good thing can come from typhoons!",
+        "tw": "大家都知道颱風很危險，會摧毀房子跟山林，但是偶爾颱風會帶來好事!",
+        "time": null
+      },
+      {
+        "en": "In Taiwan, a big typhoon damaged a lot of trees. The wind blew very hard. Leaves flew away! Big branches broke! Some trees fell!",
+        "tw": "今年好幾個颱風帶來強風，很多樹木連根拔起，樹葉樹枝散落一地。",
+        "time": null
+      },
+      {
+        "en": "After the typhoon, Yilan had lots of wood from these trees. It was on beaches and near rivers. People were cleaning it up. But what could be done with it? Well, Taipei Zoo had a good idea!",
+        "tw": "颱風過後，宜蘭溪流附近有很多漂流木，該拿它們怎麼辦呢? 台北木柵動物園有個好主意!",
+        "time": null
+      },
+      {
+        "en": "The zoo got lots of wood from Yilan. It used the wood to make new furniture! Did the zoo make beds, tables, and chairs? Hmmm … this furniture is different. It's for the animals! They use the wood from the typhoon in many ways.",
+        "tw": "動物園拿那些木頭來做家具，當然不是做成床、桌子跟椅子。其實這些木頭是要改造給動物使用的!",
+        "time": null
+      },
+      {
+        "en": "Otters sleep on new wood beds. They play with the wood too. Rhinos scratch their horns with it. Koalas and pandas climb on it. The animals love the new wood!",
+        "tw": "海獺把木頭當作睡覺的床，犀牛用它們磨自己的角，無尾熊跟貓熊在上面爬上爬下，動物們都愛死了這些木頭家具!",
+        "time": null
+      },
+      {
+        "en": "Thanks to Taipei Zoo's idea, its animals are happier! Go to the zoo. Look for the typhoon wood furniture! It's there, there, and there!",
+        "tw": "多虧了台北市立動物園的巧思，牠們的動物都更快樂了！去動物園看看那些颱風木製家具吧！它們就在那裡、那裡、還有那裡！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "漂流木很有用，可以做成動物園的家具。",
+      "content": [
+        {
+          "text": "1. fall 倒下. This park seems different. 這個公園好像不一樣了。 It is different.是不一樣。 Lots of trees fell in the last typhoon.上次颱風倒了好多樹。",
+          "time": null
+        },
+        {
+          "text": "2. leaf 樹葉. That's heartbreaking! 真讓人心痛! Yeah, branches and leaves blew everywhere! 對啊，樹枝和樹葉吹得到處都是。",
+          "time": null
+        },
+        {
+          "text": "3. clean up 清乾淨. So they were all cleaned up? 所以都清乾淨了? Yeah, soldiers came and cleared them away. 對，阿兵哥來都清理了。",
+          "time": null
+        },
+        {
+          "text": "4. chair 椅子. But I took a big branch home. 不過我帶了一根大樹枝回家。 I'm thinking of using it as a chair. 我想把它用來當椅子。 For your farm? 給你的農場? For my little farm.給我的小農場。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了嗎? fall倒下 leaf樹葉 clean up清乾淨 chair椅子"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the typhoon do to the trees?",
+        "options": [
+          "a. Damaged them",
+          "b. Made them grow",
+          "c. Blew them to the zoo"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where did the wood come from?",
+        "options": [
+          "a. Chiayi",
+          "b. Yilan",
+          "c. Hualien"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What was the wood used for?",
+        "options": [
+          "a. Trees",
+          "b. Pencils",
+          "c. Furniture"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
