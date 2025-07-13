@@ -1,0 +1,104 @@
+ [
+  {
+    "id": "20241101-01",
+    "type": "國小",
+    "tag": [
+      "Clean Water and Sanitation",
+      "Responsible Consumption and Production",
+      "Natural Sciences"
+    ],
+    "title": "Scientists Find Way to Make Tap Water Good",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241031NK.mp3",
+    "content": [
+      {
+        "en": "Very small pieces of plastic are in our tap water. These pieces are called microplastics. They are so small we can't see them. And they are in our bodies too. This is NOT good for us!",
+        "tw": "我們喝的水裡，有一些小到看不見的塑膠微粒，跑到身體裡對我們很不好喔！",
+        "time": null
+      },
+      {
+        "en": "What can we do about microplastics in our tap water? Some scientists have a good idea. Ask your parents to help with this!",
+        "tw": "該怎麼處理呢? 科學家們有個好點子，你可以請你爸媽來幫忙!",
+        "time": null
+      },
+      {
+        "en": "The scientists say to boil the water first. Make water very hot. Is it making big bubbles? It's boiling! Boil it for five minutes.",
+        "tw": "首先要把水煮沸。熱水開始冒泡泡之後，繼續煮五分鐘。",
+        "time": null
+      },
+      {
+        "en": "How does this help us take microplastics from the water? Well, water has minerals in it. After the water dries, sometimes we see something white. We see minerals. Microplastics stick to them.",
+        "tw": "這樣有什麼幫助呢？水煮完以後，我們會看到一些白色的東西，那是礦物質，而塑膠微粒會黏在上面。",
+        "time": null
+      },
+      {
+        "en": "Is this water ready to drink? Nope. The minerals and microplastics are still in it. But now it's easy to take them out.",
+        "tw": "這樣做還不夠，不過這些礦物質跟塑膠微粒很容易可以過濾出來。",
+        "time": null
+      },
+      {
+        "en": "How? Pour the water into a coffee filter. Be careful! And … 25% to 90% of microplastics are gone!",
+        "tw": "只要用咖啡濾紙小心地過濾自來水，就可以去除百分之 25 到 90 的塑膠微粒!",
+        "time": null
+      },
+      {
+        "en": "Let's boil and filter tap water before we drink it. This is good for us!",
+        "tw": "在喝自來水之前，讓我們將它煮沸並過濾。這對我們有益！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "自來水裡面的細微塑膠顆粒，要處理掉並不難。",
+      "content": [
+        {
+          "text": "1. tap water 自來水。\nHey, don't drink tap water. 嘿，不要喝自來水。\nI know. I'm just too thirsty. 我知道，我只是太口渴了。",
+          "time": null
+        },
+        {
+          "text": "2. boil 煮。\nLet me boil some water. 我來煮一點開水。\nThen I can make oolong tea for you.然後來泡烏龍茶給你喝。\nThank you, tea would be lovely. 謝謝，喝茶很好。",
+          "time": null
+        },
+        {
+          "text": "3. minute 分鐘。\nJust give me 10 minutes.只要給我十分鐘。\nHere you are. 茶來了。\nAh, this is so nice! 真舒服!",
+          "time": null
+        },
+        {
+          "text": "4. drink 喝。\nYou know, I usually drink coffee. 我通常喝咖啡。\nBut this tea is better than any coffee.不過這個茶比什麼咖啡都好。\nGreat! I'm happy to hear that. 真棒，我很高興聽你這麼說。",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字?\ntap water自來水 boil煮 minute分鐘 drink喝"
+    },
+    "quiz": [
+      {
+        "question": "1. What are very small pieces of plastic called?",
+        "options": [
+          "a. Tinyplastics",
+          "b. Smallplastics",
+          "c. Microplastics"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do very small pieces of plastic stick to in boiling water?",
+        "options": [
+          "a. Minerals",
+          "b. Tap water",
+          "c. Big bubbles"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What do scientists say to do after boiling water?",
+        "options": [
+          "a. Make it hot again",
+          "b. Filter it",
+          "c. Drink it"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  }
+]
