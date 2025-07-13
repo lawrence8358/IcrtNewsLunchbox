@@ -1582,5 +1582,101 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20241122-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Environmental Education"
+    ],
+    "title": "Scientists Studying Lobster Color",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241121NK.mp3",
+    "content": [
+      {
+        "en": "Lobsters live at the bottom of the ocean. They have long bodies and ten legs. Their big front legs have big claws! Watch out!",
+        "tw": "龍蝦住在海底，牠們有長長的身體跟十隻腳，小心哦! 牠們的兩隻前腳有巨大的鉗子!",
+        "time": null
+      },
+      {
+        "en": "Most lobsters are dark red or brown. But lobsters can be other colors too.",
+        "tw": "大部分龍蝦是深紅色或是咖啡色，但是還有其他種顏色。",
+        "time": null
+      },
+      {
+        "en": "There are orange lobsters, blue lobsters, white lobsters, and light blue lobsters. Some lobsters have one color on their left side and one color on their right side!",
+        "tw": "有橘色、藍色、白色還有淺藍色的龍蝦。有一些龍蝦身體的左邊跟右邊顏色不一樣!",
+        "time": null
+      },
+      {
+        "en": "Fishermen say finding colored lobsters was difficult. But now they are finding more! They find colored lobsters in some parts of the U.S.",
+        "tw": "漁夫說以前要找到彩色龍蝦很難，但是現在在美國某一些地方，它們有發現比較多。",
+        "time": null
+      },
+      {
+        "en": "The food that lobsters eat can decide their color. The DNA of lobsters also decides their color. Scientists want to test the colored lobsters' DNA. They want to know why lobsters are different colors. Now they are making tests. These tests don't hurt lobsters.",
+        "tw": "龍蝦的顏色會受到基因跟食物的影響。科學家正在做實驗，希望更清楚了解為甚麼龍蝦有不同的顏色。",
+        "time": null
+      },
+      {
+        "en": "Lots of people like to eat cooked lobster. Cooked lobsters - orange, blue, two-colored, or brown - all become red. People say all these lobsters taste the same. But some people don't want to eat colored lobsters! No thank you! Do you like to eat lobster? Will you eat a colored one?",
+        "tw": "很多人喜歡吃煮熟的龍蝦。煮熟的龍蝦——無論是橘色、藍色、雙色還是棕色——都會變成紅色。人們說這些龍蝦味道都一樣。但有些人不想吃彩色龍蝦！不用了，謝謝！你喜歡吃龍蝦嗎？你會吃有顏色的龍蝦嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家正在研究龍蝦的顏色，是否跟牠的食物有關。",
+      "content": [
+        {
+          "text": "1. lobster 龍蝦。\nWe're having lobster pasta tonight. 我們今晚吃龍蝦麵。\nWow, so fancy ! 真豪華!\nWhat are we celebrating? 是要慶祝什麼?",
+          "time": null
+        },
+        {
+          "text": "2. find 發現。\nMy mother's birthday.我老媽的生日。\nYour mom is coming here? 你媽媽要來這裡?\nNo, but I often find myself thinking about her.不過我發現我常想到她。",
+          "time": null
+        },
+        {
+          "text": "3. different 不同的。\nShe likes trying something different when she's bored.\n她無聊時喜歡嘗試不一樣的東西。\nThat's interesting! 真有趣!",
+          "time": null
+        },
+        {
+          "text": "4. orange 橘色。\nWhat else did she try?她還試過什麼?\nA very orange cake made from oranges. 用橘子做的橘色蛋糕。\nOh…I prefer lobster pasta.我比較喜歡龍蝦麵。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的主題是什麼，還記得嗎?\nlobster龍蝦 find發現 different不同的 orange橘色"
+    },
+    "quiz": [
+      {
+        "question": "1. What color are most lobsters?",
+        "options": [
+          "a. Orange",
+          "b. Blue",
+          "c. Brown"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do scientists want to study?",
+        "options": [
+          "a. Lobster DNA",
+          "b. Lobster food",
+          "c. Lobster claws"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What do scientists want to do to colored lobsters?",
+        "options": [
+          "a. Test them",
+          "b. Cook them",
+          "c. Eat them"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
