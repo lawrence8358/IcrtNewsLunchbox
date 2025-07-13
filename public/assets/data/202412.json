@@ -1641,5 +1641,98 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20241225-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education"
+    ],
+    "title": "Who Starts Christmas in September?",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241224NK.mp3",
+    "content": [
+      {
+        "en": "Santa: Happy holidays! Ho, ho, ho! Narrator: You may love Christmas. But people in the Philippines love Christmas more! Filipinos start Christmas from … huh? … September!?",
+        "tw": "大家都愛耶誕節，但菲律賓人絕對是耶誕節最大的粉絲!他們從九月就開始準備了!"
+      },
+      {
+        "en": "On September first, you can see Christmas stars, trees, lights, and more everywhere! You can listen to Christmas music!",
+        "tw": "九月一號就會在路上看到耶誕樹、耶誕燈跟裝飾，到處都聽得到耶誕歌!"
+      },
+      {
+        "en": "Filipinos also like Halloween. It is about one week long there! You can see ghosts and witches with Santa Claus!",
+        "tw": "菲律賓人也熱愛萬聖節，十月的時候，可以同時看到耶誕樹和萬聖節的鬼怪出現在一起!"
+      },
+      {
+        "en": "No one knows when Filipinos began Christmas so early. But some Filipinos think they know why it's early.",
+        "tw": "沒有人知道菲律賓人什麼時候開始，從九月就慶祝耶誕節，不過有一些菲律賓人認為他們知道為什麼會這麼早。"
+      },
+      {
+        "en": "Announcer: 100! 99! 98! 97! Narrator: A 100-day countdown gets them ready for Christmas! They can think about everything they need to do. They can use their time better! So, Filipinos don't wait until December 24th to buy gifts. They don't wait to shop for Christmas dinner.",
+        "tw": "提前一百天倒數耶誕節，讓他們有很多時間可以準備跟採買禮物，才不會來不及!"
+      },
+      {
+        "en": "Does starting Christmas early help people get ready? Most Filipinos aren't sure. But starting early makes a fun holiday a very, very long holiday!",
+        "tw": "這麼做真的夠他們準備嗎?很難說，但確定的是，菲律賓人的耶誕節更長，可以慶祝更久! 真讓人羨慕!"
+      },
+      {
+        "en": "Crowd: Merry Christmas!",
+        "tw": "群眾：聖誕快樂！"
+      }
+    ],
+    "vocabulary": {
+      "preface": "今天是耶誕節，而菲律賓人已經慶祝了三個月了!",
+      "content": [
+        {
+          "text": "1. listen 注意聽.\nListen to that! Do you hear it?\nIt's \"Joy to the World\"! 那是''舉世歡慶''!\nYeah, I do. 聽到了.\nIt's my favorite Christmas song! 那是我最喜歡的聖誕歌!",
+          "time": null
+        },
+        {
+          "text": "2. light 燈光.\nWhenever I hear it, I know Christmas is near.\n不管什麼時候聽到，就知道耶誕節近了.\nI like the colorful lights.我喜歡彩色燈光.",
+          "time": null
+        },
+        {
+          "text": "3. gift 禮物.\nThey make dark nights bright. 它讓黑夜變光明.\nAnd they make me think about gifts. 它也讓我想到禮物.\nNice, I LOVE gifts.真好，我愛禮物.",
+          "time": null
+        },
+        {
+          "text": "4. buy 買.\nI know. I'm buying yours tonight. 我知道。今晚要去買你的禮物.\nHow wonderful! 太棒了!",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like Christmas? Let's read today's vocabulary.\nlisten注意聽 light燈光 gift禮物 buy買"
+    },
+    "quiz": [
+      {
+        "question": "1. When do Filipinos start Christmas?",
+        "options": [
+          "a. September",
+          "b. October",
+          "c. November"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What holiday do Filipinos have with Christmas?",
+        "options": [
+          "a. Valentine's Day",
+          "b. Halloween",
+          "c. Dragon Boat Festival"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many days are in the Christmas countdown?",
+        "options": [
+          "a. 90",
+          "b. 100",
+          "c. 116"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
