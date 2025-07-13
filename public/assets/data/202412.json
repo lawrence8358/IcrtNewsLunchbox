@@ -2050,5 +2050,103 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241231-01",
+    "type": "國小",
+    "tag": [
+      "Sustainable Cities and Communities",
+      "Technology Education",
+      "Energy Education",
+      "Technology"
+    ],
+    "title": "More Electric Scooters Deliver Mail",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241230NK.mp3",
+    "content": [
+      {
+        "en": "Electric scooters are great. They are better than gas scooters. Gas scooters are loud. Electric scooters are quiet. Ah, that sounds so nice!",
+        "tw": "電動機車比一般燃油車好多了，它們不會發出很大的噪音。",
+        "time": null
+      },
+      {
+        "en": "Electric scooters are better for the air. Gas scooters make the air dirty. Electric scooters don't. Using more electric scooters makes our air cleaner!",
+        "tw": "電動機車也對空氣比較好，不會像燃油機車汙染空氣，把一般機車換成電動車，會讓空氣變乾淨。",
+        "time": null
+      },
+      {
+        "en": "In Taiwan, gas scooters and electric scooters bring us many things. Companies bring us food orders. And the post office brings us mail.",
+        "tw": "台灣很多工作需要用到機車，例如外送公司送食物，或是郵差送信。",
+        "time": null
+      },
+      {
+        "en": "The post office has about 8,000 scooters. About 3,200 are electric scooters.",
+        "tw": "郵政總局有大概 8 千台機車，其中 3 千 2 百台是電動機車。",
+        "time": null
+      },
+      {
+        "en": "The post office has been buying electric scooters for seven years. In this year, 2024, it bought 500. It will buy more. It wants to stop using gas scooters by 2039. All of its scooters will be electric then!",
+        "tw": "過去 7 年，郵政總局一直在買電動機車，光今年就買了 5 百台，他們希望在 2039 年把所有機車換成電動車。",
+        "time": null
+      },
+      {
+        "en": "That means we will hear less of this … And we will hear more of this … Our air will be cleaner. Can other companies use electric scooters too?",
+        "tw": "這代表我們會聽到越來越少噪音，空氣也會變乾淨。其他公司也能使用電動機車嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "郵差天天送信，需要更環保的機車。",
+      "content": [
+        {
+          "text": "1. quiet 安靜的。\nDo you need a ride? 你需要搭便車嗎?\nOn your scooter? No, thanks. 搭你的機車? 不了，謝謝。\nI knew you'd say that. 我就知道你會那麼說。\nI've bought a nice and quiet scooter. 我買了一台很好而且安靜的摩托車。",
+          "time": null
+        },
+        {
+          "text": "2. loud 大聲的。\nGood for you! 真好!\nYour old one is really too loud. 你那台舊的真的太吵。\nI know. This new one is so much better.我知道，這台新車好多了。",
+          "time": null
+        },
+        {
+          "text": "3. air 空氣。\nSo it's an electric scooter? 所以是電動機車?\nYeah, no more air pollution. 對，不再有空氣汙染。",
+          "time": null
+        },
+        {
+          "text": "4. great 很棒的。\nAnd no more noise pollution. 也沒有噪音汙染。\nNo. 沒有。\nNow do you want to see how great it is? 現在你想不想看看它有多棒?\nOf course! 當然想!",
+          "time": null
+        }
+      ],
+      "postscript": "你搭機車上學嗎? 來一起讀單字。quiet安靜的 loud大聲的 air空氣 great很棒的"
+    },
+    "quiz": [
+      {
+        "question": "1. Which is true about electric scooters?",
+        "options": [
+          "a. They make the air dirty.",
+          "b. They are quiet.",
+          "c. They are loud."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How long has the post office been buying electric scooters?",
+        "options": [
+          "a. 1 year",
+          "b. 7 years",
+          "c. 20 years"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. When will all of the post office's scooters be electric?",
+        "options": [
+          "a. 2024",
+          "b. 2029",
+          "c. 2039"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
