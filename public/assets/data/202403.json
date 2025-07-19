@@ -1764,5 +1764,110 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240326-01",
+    "type": "國小",
+    "tag": [
+      "Integrative Activities",
+      "International Education",
+      "Multicultural Education",
+      "Safety Education",
+      "Character Education",
+      "Life on Land"
+    ],
+    "title": "Dog Smells Gas, Saves Owner",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240325NK.mp3",
+    "content": [
+      {
+        "en": "A dog in the USA saved the lives of his owner and other people. How? He went outside his owner's house. He dug and dug the ground. The dog dug for hours and hours in one place. He made a big hole!",
+        "tw": "美國有一隻狗救了牠的主人跟其他人的性命。怎麼做到的呢?牠跑到屋外，一直在同一個地方挖洞。",
+        "time": null
+      },
+      {
+        "en": "His owner thought that was strange. Her dog didn't dig big holes. Something was wrong! So she checked the hole with a special machine.",
+        "tw": "牠的主人覺得很奇怪，她的狗平常不會這樣挖洞。她感覺事情不對勁，於是用特殊儀器偵測洞口。",
+        "time": null
+      },
+      {
+        "en": "The machine showed a lot of dangerous gas there! What? Where was the gas from? It was from old gas pipes in the ground.",
+        "tw": "儀器顯示洞口有大量危險的氣體，原來是瓦斯從地下管線外洩。",
+        "time": null
+      },
+      {
+        "en": "That gas can make people and animals very sick. And it can cause a big explosion!",
+        "tw": "瓦斯會危害人跟動物，還可能引發爆炸。",
+        "time": null
+      },
+      {
+        "en": "The owner and the people who lived near her were lucky. Explosions are very dangerous! But her dog smelled the gas. He dug the hole to find it.",
+        "tw": "發生爆炸非常危險，但是狗主人跟鄰居非常幸運。因為狗狗聞到瓦斯味並且挖洞，找到了源頭。",
+        "time": null
+      },
+      {
+        "en": "Gas company workers came quickly! They turned off the gas. They worked for three days! They fixed the pipes.",
+        "tw": "瓦斯公司立刻派人來關掉瓦斯，花了三天的時間修理管線。",
+        "time": null
+      },
+      {
+        "en": "The dog's digging told his owner something was wrong. That's why no one got hurt. He saved lives!",
+        "tw": "狗狗的挖掘告訴了牠的主人有問題。這就是為什麼沒有人受傷。牠救了性命！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "嗅覺靈敏的狗狗，讓瓦斯爆炸沒有發生。",
+      "content": [
+        {
+          "text": "1. Turn off 關掉\nHey, turn that off! 嘿，把那個關掉。\nI know, I'm on it. 我知道，正在關。\nThere we go. 好了。\nYou forgot you were boiling water, right? 你忘了在燒水?\nI did. 對。",
+          "time": null
+        },
+        {
+          "text": "2. dangerous 危險的\nIt could be very dangerous! 可能會很危險呢!\nImagine what would happen if we weren't at home.\n想想看要是我們不在家會怎麼樣。",
+          "time": null
+        },
+        {
+          "text": "3. hurt 受傷\nThe house would burn and neighbors would get\nhurt.房子會燒了，鄰居會受傷。Exactly! 正是那樣!",
+          "time": null
+        },
+        {
+          "text": "4. quickly 很快地\nWe should have a fire alarm in the kitchen. 我們廚房裡應該有火災警報器。\nA dog would be better. 狗狗比較好。\nDogs smell smoke very quickly.狗很快就聞到煙味。",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字你記得嗎?\nturn off關掉\ndangerous危險的\nhurt受傷\nquickly很快的"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the owner think about the dog's digging?",
+        "options": [
+          "a. It was bad.",
+          "b. It was cute.",
+          "c. It was strange."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. For how long did the dog dig?",
+        "options": [
+          "a. Hours and hours",
+          "b. Days and days",
+          "c. Years and years"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What made the dog dig?",
+        "options": [
+          "a. A toy",
+          "b. A smell",
+          "c. A bone"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
