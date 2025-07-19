@@ -215,5 +215,112 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240305-01",
+    "type": "國小",
+    "tag": [
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life on Land",
+      "Partnerships for the Goals",
+      "Environmental Education",
+      "Life Education",
+      "Multicultural Education",
+      "Outdoor Education",
+      "International Education",
+      "Social Studies",
+      "Natural Sciences",
+      "Health and Physical Education"
+    ],
+    "title": "Christmas Leftovers at the Zoo",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240304NK.mp3",
+    "content": [
+      {
+        "en": "There's exciting news at the zoo! Guess what happened after Christmas! The holiday fun didn't end! In Germany, the Berlin Zoo had a special treat for their animals. The treat was... Christmas trees!",
+        "tw": "聖誕節過後，德國柏林動物園有特別的禮物要給園區的動物，那就是聖誕樹!",
+        "time": null
+      },
+      {
+        "en": "The elephants stepped on the trees. Then they pulled off the tree branches with their long trunks. They enjoyed munching on the branches. They ate their trees quickly.",
+        "tw": "大象會踏在樹幹上，用牠們長長的象鼻把樹枝扯下來，吃得津津有味。",
+        "time": null
+      },
+      {
+        "en": "The bison used the trees for fluffy pillows. Then they ate the trees. Reindeer, Santa Claus' special pets, used the trees for massages and body scrubs.",
+        "tw": "野牛會把樹當作枕頭，然後把它吃掉。馴鹿則是用樹幹來抓癢跟按摩。",
+        "time": null
+      },
+      {
+        "en": "The animals were very happy with their Christmas tree snacks and toys! But here's the surprise. Not all trees are good for the animals. The zookeepers only used fresh trees. They got them from Christmas tree sellers. These trees weren't sold. They were leftovers!",
+        "tw": "但不是所有的樹都適合動物，只能是新的樹。保育員從聖誕樹商店取得剩下的聖誕樹，送給動物。",
+        "time": null
+      },
+      {
+        "en": "The zookeepers never use trees from people's homes. These trees might not be clean for the animals to eat.",
+        "tw": "保育員從來不拿家裡用過的聖誕樹當作動物的食物，因為可能不衛生。",
+        "time": null
+      },
+      {
+        "en": "Every year, after Christmas Day, the zoo gives these special trees to their animals. This turns leftover Christmas trees into tasty treats and toys for cute zoo animals.",
+        "tw": "每年，聖誕節過後，動物園都會把這些特別的樹送給牠們的動物。這將剩餘的聖誕樹轉變為可愛動物園動物的美味點心和玩具。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "柏林動物園把沒有用過的聖誕樹，當成送給動物的禮物。",
+      "content": [
+        {
+          "text": "1. zookeeper 保育員\nI took my son to the zoo on the weekend. 我周末帶我兒子去動物園。\nDid you have lots of fun? 玩得開心嗎?\nOh yes, the zookeeper let him pet a pony。",
+          "time": null
+        },
+        {
+          "text": "2. enjoy 喜歡\nHe couldn't stop talking about it. 他一直講這件事，停不下來。\nI guess he enjoyed it a lot! 我猜他很喜歡。",
+          "time": null
+        },
+        {
+          "text": "3. quickly 快速地\nYeah, so I quickly bought a stuffed toy horse for him.\n所以我趕快去買了一個玩具馬給他。\nAnd he loved that too! 他也很喜歡那個玩具。",
+          "time": null
+        },
+        {
+          "text": "4. cute 可愛的\nMy favorite animal in the zoo is the elephant. 我最喜歡的動物園動物是大象。\nIt's big, but very cute.",
+          "time": null
+        }
+      ],
+      "postscript": "What's your favorite animal in the zoo? 來一起讀單字。\nzookeeper保育員\nenjoy喜歡\nquickly快速地\ncute可愛的"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the reindeer do with the Christmas trees?",
+        "options": [
+          "a. Scrub their bodies",
+          "b. Sleep on them",
+          "c. Step on them"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where did the zoo get Christmas trees?",
+        "options": [
+          "a. Christmas tree sellers",
+          "b. People's houses",
+          "c. Forests"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What do leftover Christmas trees turn into at this zoo?",
+        "options": [
+          "a. Special days",
+          "b. Bison",
+          "c. Tasty treats"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
