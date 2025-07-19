@@ -330,5 +330,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240405-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Gender Equality",
+      "Reduced Inequalities",
+      "Gender Equality Education",
+      "Character Education",
+      "Life Education",
+      "Social Studies",
+      "Health and Physical Education"
+    ],
+    "title": "Rocking Confidence",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240404NK.mp3",
+    "content": [
+      {
+        "en": "Do you want to be a rock star? Imagine... you're on a stage. The lights are bright. You're playing a guitar. How scary! But how exciting!",
+        "tw": "你想成為搖滾明星嗎?想像一下你站在台上彈吉他，燈光又很刺眼，感覺好嚇人但又讓人好興奮!",
+        "time": null
+      },
+      {
+        "en": "That's what happened to some women. They joined a women's rock camp. People join camps to learn things. At this camp, the women learned how to play rock music and sing rock songs!",
+        "tw": "有一群女性就遇到這樣的事。因為她們參加女子搖滾營，學習如何彈搖滾樂、唱搖滾歌!",
+        "time": null
+      },
+      {
+        "en": "Some women were shy. But they tried many new things! They became brave!",
+        "tw": "她們有的很害羞，但是嘗試新的東西後，就變得很勇敢!",
+        "time": null
+      },
+      {
+        "en": "They did these things again and again. They helped each other. They became good at these things. They became confident!",
+        "tw": "她們互相幫忙，不斷地練習。她們越來越厲害，變得很有自信。",
+        "time": null
+      },
+      {
+        "en": "On the last day, they gave a big concert! One woman was a little scared at first. But she knew she was good. She was confident! She went on the stage. She sang very well!",
+        "tw": "搖滾營最後一天會舉辦盛大的演唱會。有一個女子一開始有點害怕，但是她知道自己很厲害，自信地走上台，還唱得非常好!",
+        "time": null
+      },
+      {
+        "en": "The camp taught the women how to play music and sing. They did new things and became brave and confident! You can do new things too! Be brave! Be confident! And one day, you can be a rock star... or anything you want!",
+        "tw": "這個營隊教導這些女性如何彈奏音樂和唱歌。她們嘗試了新事物，變得勇敢且有自信！你也可以嘗試新事物！勇敢一點！自信一點！有一天，你也能成為一個搖滾明星...或者任何你想要成為的人！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "想玩搖滾樂嗎?沒有那麼困難喔!",
+      "content": [
+        {
+          "text": "1. play 彈奏\nDo you know how to play music? 你會彈奏音樂嗎?\nLike playing the piano? 比如說彈鋼琴?\nNo, I don't.我不會。",
+          "time": null
+        },
+        {
+          "text": "2. sing 唱歌\nDo you sing? 你唱歌嗎?\nSometimes.有時候。\nGood, I need you to join our concert. 很好，我需要你加入我們的音樂會。\nMe? I sing like a frog! 我?我唱歌像青蛙叫!",
+          "time": null
+        },
+        {
+          "text": "3. learn 學習\nThat's okay. Just move your mouth. 沒關係，你只要動動嘴巴。\nYou can learn that, right? 那你學得會吧?\nYeah, but why me? 可以，但是為什麼找我?",
+          "time": null
+        },
+        {
+          "text": "4. brave 勇敢的\nI need someone that's brave enough.我需要夠勇敢的人。\nTo stand on the stage? 好站在舞台上?\nTo sing and dance with us.好跟我們一起唱歌跳舞。\nBut I can't dance! 可是我不會跳舞!",
+          "time": null
+        }
+      ],
+      "postscript": "Do you play the guitar or drums? 我們來讀單字。\nplay彈奏\nsing唱歌\nlearn學習\nbrave勇敢的"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of camp did the women join?",
+        "options": [
+          "a. Rock",
+          "b. Star",
+          "c. Dance"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What did the women become at the camp?",
+        "options": [
+          "a. Shy",
+          "b. Scary",
+          "c. Confident"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did they do on the last day?",
+        "options": [
+          "a. Play with rocks",
+          "b. Study stars",
+          "c. Give a concert"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
