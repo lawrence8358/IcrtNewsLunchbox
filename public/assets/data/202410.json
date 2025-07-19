@@ -1835,5 +1835,110 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20241029-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education"
+    ],
+    "title": "A New Pasta Italians Are Mad About",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241028NK.mp3",
+    "content": [
+      {
+        "en": "A big U.S. company is selling new spaghetti. But guess what? Italians, who love pasta, are mad about this!",
+        "tw": "一家美國大公司推出了新款義大利麵，但是熱愛義大利麵的義大利人很生氣，這是為甚麼呢?",
+        "time": null
+      },
+      {
+        "en": "Carbonara is a spaghetti dish from Italy. Some say it was first made during World War Two. An Italian cook made it for American soldiers.",
+        "tw": "Carbonara 是義大利的培根蛋黃麵，最早可能是在二次世界大戰的時候，由一個義大利廚師做給美國士兵吃的。",
+        "time": null
+      },
+      {
+        "en": "Carbonara is made with pasta, cheese, eggs, black pepper, and pork cheek. Many Italians think no other foods can be used.",
+        "tw": "Carbonara 由義大利麵、起司、蛋、黑胡椒和豬臉頰肉做成，許多義大利人都認為不能再加其他的食材。",
+        "time": null
+      },
+      {
+        "en": "But this company uses other foods in its carbonara. It uses cream! It uses pork belly!",
+        "tw": "但是這家公司加了其他的食材，它用了奶油還有五花肉!",
+        "time": null
+      },
+      {
+        "en": "But, the worst is, it puts the carbonara in a can!",
+        "tw": "但最糟糕的是.... 這家公司把 Carbonara 裝進了罐頭裡!",
+        "time": null
+      },
+      {
+        "en": "Many Italian chefs think this new carbonara is a bad, bad idea. Italians care a lot about Italian dishes. And some don't like changes to them.",
+        "tw": "很多義大利廚師認為這個主意壞透了。義大利人很重視他們的食物，有一些人也不喜歡菜餚改來改去。",
+        "time": null
+      },
+      {
+        "en": "But some people say it's okay to try new things. And carbonara in a can is fast and easy.",
+        "tw": "不過也有些人說嘗試新點子是可以的，而且罐頭義大利麵方便又快速。",
+        "time": null
+      },
+      {
+        "en": "What do you think about carbonara in a can? Do you want to try it?",
+        "tw": "你對罐頭培根蛋黃麵有什麼看法？你想試試看嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "傳統的義大利麵點遭到更改，讓有些義大利人不開心。",
+      "content": [
+        {
+          "text": "1. dish 菜色。\nI tried to cook this Italian dish last night, 我昨晚試著做一道義大利菜，\nand it was the worst! 結果糟透了!\nWhat was it? Pasta? 你做了什麼? 義大利麵嗎?",
+          "time": null
+        },
+        {
+          "text": "2. cheese 起司。\nIt should be pasta with cheese and tomatoes. 它應該是番茄起司義大利麵。\nBut it turned out to be a disaster! 卻成了一場災難!",
+          "time": null
+        },
+        {
+          "text": "3. try 嘗試。\nThe cheese burned and the pasta was undercooked. 起司燒焦了，麵條卻不熟。\nWell, at least you tried.至少你有試著去做。",
+          "time": null
+        },
+        {
+          "text": "4. fast 快速的。\nBut it should be fast and easy! 但是它應該又快又容易的。\nNext time just order takeout.下次叫外帶吧。\nLess stress, more cheese. 少一點壓力，多一點起司。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like Italian food?\n來一起讀單字。dish菜色 cheese起司 try嘗試 fast快速的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is carbonara from?",
+        "options": [
+          "a. France",
+          "b. America",
+          "c. Italy"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What does the company put in their carbonara?",
+        "options": [
+          "a. Butter",
+          "b. Cream",
+          "c. Tomatoes"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What does the company put their carbonara in?",
+        "options": [
+          "a. A box",
+          "b. A can",
+          "c. A bag"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
