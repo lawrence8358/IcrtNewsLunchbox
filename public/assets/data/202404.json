@@ -1472,5 +1472,114 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240422-01",
+    "type": "國小",
+    "tag": [
+      "Clean Water and Sanitation",
+      "Life Below Water",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Environmental Education",
+      "Marine Education",
+      "Outdoor Education",
+      "Integrative Activities",
+      "Natural Sciences"
+    ],
+    "title": "A Garbage Warning System for Taiwan's Beaches",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240419NK.mp3",
+    "content": [
+      {
+        "en": "Yuck! Nobody likes garbage on the beach. Where does it come from?",
+        "tw": "沒有人喜歡海灘上的垃圾，這些垃圾到底從哪裡來的呢?",
+        "time": null
+      },
+      {
+        "en": "Some garbage comes from people at the beach. They drink soda. Then they leave the cans on the beach. Or they eat a bag of chips. Then they leave the bag.",
+        "tw": "有一些垃圾是去海灘玩的人留下來的。他們喝完汽水、吃完洋芋片，就隨手丟在海灘上。",
+        "time": null
+      },
+      {
+        "en": "Lots of the garbage comes from the ocean. Waves push garbage from other places onto the beach.",
+        "tw": "很多海洋垃圾也會被海浪推到海灘上。",
+        "time": null
+      },
+      {
+        "en": "Environmental groups try to help the Earth in some way. Some environmental groups in Taiwan clean up beaches. But sometimes these beaches have lots of ocean garbage a few days later!",
+        "tw": "環保團體都在想辦法如何幫助地球。台灣有一些環保團體會淨灘。但是淨灘後又會出現很多垃圾。",
+        "time": null
+      },
+      {
+        "en": "Soon, a warning system can help environmental groups here. It uses cameras to watch ocean garbage. It will warn environmental groups about where and when ocean garbage will come to beaches. When it's coming, the groups can wait for the garbage and then clean it up.",
+        "tw": "不久後會有一個系統可以協助環保團體。它用攝影機觀察海洋垃圾，提醒他們海洋垃圾沖上海灘的時間跟地點，就可以去把垃圾清理乾淨。",
+        "time": null
+      },
+      {
+        "en": "The system uses three colors. Green means no garbage is near the beach. Yellow means some garbage is nearby. Red means garbage is at the beach!",
+        "tw": "系統用三種顏色示警。綠色是指沒有垃圾靠近海灘，黃色代表附近有垃圾，紅色是垃圾已經沖上海灘了!",
+        "time": null
+      },
+      {
+        "en": "This warning system helps people help the Earth. That's something to be happy about today. It's Earth Day!",
+        "tw": "這個預警系統幫助人們保護地球。這真是件值得今天開心的事情。今天是地球日！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "海灘垃圾有多種來源，環保人士希望更有系統的清除垃圾。",
+      "content": [
+        {
+          "text": "1. clean up 清理\nWill you take out the garbage tonight? 你今晚會去倒垃圾吧?\nMe? Isn't it your turn? 我? 不是輪到你了嗎?\nWell, I'm the one who cleaned up the kitchen.這個嘛，是我把廚房清理乾淨的。",
+          "time": null
+        },
+        {
+          "text": "2. come from 來自\nBut most of the garbage came from you and your friends!\n但是大部分垃圾是你跟你的朋友製造的。\nYou ate lots of things here last night.你們昨晚在這裡吃了一堆東西。",
+          "time": null
+        },
+        {
+          "text": "3. leave 留下\nThat's why I cleaned it up.那是為什麼我有清理。\nPlease, don't leave the garbage to me. 拜託不要把垃圾留給我。",
+          "time": null
+        },
+        {
+          "text": "4. when 當\nOkay. But next time when you have a party, invite me!\n好吧，但是下次當你辦派對，要邀請我!\nIt's a deal. 就這麼說定了。",
+          "time": null
+        }
+      ],
+      "postscript": "請注意，要讀單字了。\nclean up清理\ncome from來自\nleave留下\nwhen當"
+    },
+    "quiz": [
+      {
+        "question": "1. What will the warning system do?",
+        "options": [
+          "a. Stop garbage",
+          "b. Watch garbage",
+          "c. Push garbage"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What will the warning system use?",
+        "options": [
+          "a. Cameras",
+          "b. Boats",
+          "c. Bags"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What does green mean in the warning system?",
+        "options": [
+          "a. Lots of garbage",
+          "b. Some garbage",
+          "c. No garbage"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
