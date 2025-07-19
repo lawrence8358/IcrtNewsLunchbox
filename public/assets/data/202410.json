@@ -1940,5 +1940,102 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241030-01",
+    "type": "國小",
+    "tag": [
+      "Life Below Water",
+      "Marine Education",
+      "Natural Sciences"
+    ],
+    "title": "Scientist Saving Starfish",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241029NK.mp3",
+    "content": [
+      {
+        "en": "The Earth has had starfish for a very long time. There were starfish before dinosaurs!",
+        "tw": "海星在地球生活很久，牠們在恐龍之前就存在了。",
+        "time": null
+      },
+      {
+        "en": "Sunflower stars are one kind of starfish. They're orange, yellow-red, or purple. They're big. They can be one meter from the end of one arm to another! Sunflower stars can have 24 arms! They can make their arms fall off! And then new arms grow!",
+        "tw": "向日葵海星很大，牠們可能是橘色、紅黃色或是紫色，從一隻觸手的末端到另一隻觸手可以有一米長，最多有24隻觸手。牠們可以讓觸手掉下來，再長出新的!",
+        "time": null
+      },
+      {
+        "en": "Sunflower stars help keep the ocean healthy. They eat sea urchins. This helps stop too many sea urchins from eating too much kelp. Other ocean animals need kelp too.",
+        "tw": "向日葵海星幫助保持海洋健康。牠們會吃海膽，防止海膽把海帶吃光光，因為其他海洋動物也需要海帶！",
+        "time": null
+      },
+      {
+        "en": "But in the last ten years, most sunflower stars have gotten sick and died. Scientists worry that there will be no more sunflower stars!",
+        "tw": "但是最近十年裡，大部分的向日葵海星都生病死掉了，科學家很擔心牠們就這樣消失!",
+        "time": null
+      },
+      {
+        "en": "But one scientist started raising these starfish five years ago. They go from eggs to baby starfish in his lab. This summer, he put ten baby sunflower stars into the ocean.",
+        "tw": "有一位科學家五年前開始養海星。他在實驗室裡讓海星的卵孵化出小海星，今年夏天，他把十隻小向日葵海星放進海洋裡。",
+        "time": null
+      },
+      {
+        "en": "The scientist hopes these sunflower stars stay healthy and safe. The ocean needs sunflower stars!",
+        "tw": "這位科學家希望這些向日葵海星能保持健康和安全。海洋需要向日葵海星！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "海星海膽海帶，這些海洋生物彼此息息相關。",
+      "content": [
+        {
+          "text": "1. sea 大海。 Look at those sea urchins! 妳看看那些海膽。 They're just lying around doing nothing. 牠們就躺在那裡，什麼事也不做。 Yup, until a starfish comes and decides they're dinner. 沒錯，直到海星跑來，把牠們當晚餐。",
+          "time": null
+        },
+        {
+          "text": "2. animal 動物。 I like starfish.我喜歡海星。 It's one of my favorite sea animals.海星是我最喜歡的海洋動物中的一個。",
+          "time": null
+        },
+        {
+          "text": "3. arm 手臂。 Because of its shape? 是因為牠的形狀嗎? Yeah, and its long arms look very cool too. 對，牠長長的手臂也好酷。",
+          "time": null
+        },
+        {
+          "text": "4. kind 種類。 Whales are my kind of sea animals. 鯨魚是我喜歡的海洋動物種類。 They are big, beautiful and great swimmers! 牠們大而且漂亮，還很會游泳!",
+          "time": null
+        }
+      ],
+      "postscript": "What's your kind of sea animal? 這些是今天的單字。 sea大海 animal動物 arm手臂 kind種類"
+    },
+    "quiz": [
+      {
+        "question": "1. How many arms can sunflower stars have?",
+        "options": [
+          "a. 24",
+          "b. 34",
+          "c. 44"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What do sunflower stars eat?",
+        "options": [
+          "a. Sea otters",
+          "b. Sea urchins",
+          "c. Kelp forests"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did the scientist do this summer?",
+        "options": [
+          "a. Started raising starfish",
+          "b. Put ten starfish in the ocean",
+          "c. Made many starfish sick"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
