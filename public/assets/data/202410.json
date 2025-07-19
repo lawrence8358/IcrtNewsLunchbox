@@ -624,5 +624,110 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241010-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies"
+    ],
+    "title": "Happy Double Ten Day",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241009NK.mp3",
+    "content": [
+      {
+        "en": "Today is Double Ten Day! Everyone has the day off! It's a national holiday in Taiwan!",
+        "tw": "今天是雙十節! 全台灣的人都不用上班上課，一起慶祝國慶日 !",
+        "time": null
+      },
+      {
+        "en": "Double Ten Day is for all the people of Taiwan. This year's slogan is \"A Beautiful Taiwan Today, A Better Taiwan Tomorrow.\"",
+        "tw": "雙十節是所有人的節慶，今年的中文標語是「中華民國生日快樂。」",
+        "time": null
+      },
+      {
+        "en": "The country has been getting ready for more than a month!",
+        "tw": "台灣為國慶日已經準備超過一個月!",
+        "time": null
+      },
+      {
+        "en": "There's a new logo! Taiwan's flower is between two tens. The tens are written in Chinese. The flower is a plum blossom!",
+        "tw": "今年也設計了全新的標誌，在兩個中文的十字中間，有一朵我們的國花梅花。",
+        "time": null
+      },
+      {
+        "en": "There are new souvenirs: baseball caps, towels, cups, and more! The logo and the souvenirs are red, blue, and white. These are the colors of Taiwan's flag!",
+        "tw": "還有全新紀念品，像是棒球帽、毛巾、杯子，都是紅、藍、白三個顏色的，跟我們的國旗一樣!",
+        "time": null
+      },
+      {
+        "en": "Last Saturday, a big party at Taipei Arena started the celebrations. And now... Double Ten Day is here!",
+        "tw": "上個星期六，台北大巨蛋辦了一場派對，開始倒數國慶日，現在終於到囉!",
+        "time": null
+      },
+      {
+        "en": "There's a lot to see and do. Watch the exciting parade! It's in front of the president's office! Look up at cool planes and helicopters! Wave at them! Watch 30,000 fireworks in Yunlin County!",
+        "tw": "國慶日可以去看總統府前的閱兵儀式，還有直升機跟飛機。雲林縣政府則會放 3 萬發煙火慶祝!",
+        "time": null
+      },
+      {
+        "en": "Most of all, love our beautiful country. We love Taiwan! Happy Double Ten Day!",
+        "tw": "最重要的是，愛我們美麗的國家。我們愛台灣！雙十節快樂！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "雙十節是中華民國的生日，普天同慶!",
+      "content": [
+        {
+          "text": "1. parade 遊行。\nHey, the big National Day parade is today! 今天就是國慶大遊行了。\nI know. I can't wait for it to start.我知道，我等不及它開始了。\nYou're going to be there? 你要去嗎?\nCertainly! 當然!",
+          "time": null
+        },
+        {
+          "text": "2. get ready 做準備。\nThen you should get ready now.那你現在就應該做準備。\nAre you kidding? It's 8 in the morning. 開玩笑，現在才早上八點。",
+          "time": null
+        },
+        {
+          "text": "3. all 所有的。\nDo you have any idea how many people will be there? 你知道那裏會有多少人嗎?\nUh, a lot…? 很多?\nYes, all the parents will bring their children. 對，所有爸媽都會帶小孩去。",
+          "time": null
+        },
+        {
+          "text": "4. here 這裡。\nThen I'll stay right here. 那我就待在這裡。\nAt home. In front of the TV.家裡，電視機前。",
+          "time": null
+        }
+      ],
+      "postscript": "你要如何慶祝國慶日?\n來一起讀單字。parade遊行 get ready做準備 all所有的 here這裡"
+    },
+    "quiz": [
+      {
+        "question": "1. What is the name of today's holiday?",
+        "options": [
+          "a. Tenth Double Day",
+          "b. Double Double Day",
+          "c. Double Ten Day"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What is Taiwan's flower?",
+        "options": [
+          "a. A plum blossom",
+          "b. A cherry blossom",
+          "c. A peach blossom"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Where are the Double Ten Day fireworks this year?",
+        "options": [
+          "a. Chiayi County",
+          "b. Yilan County",
+          "c. Yunlin County"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
