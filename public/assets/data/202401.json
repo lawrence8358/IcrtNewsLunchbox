@@ -859,5 +859,114 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240112-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Industry, Innovation and Infrastructure",
+      "Life on Land",
+      "Partnerships for the Goals",
+      "Technology Education",
+      "Information Education",
+      "International Education",
+      "Technology",
+      "Natural Sciences",
+      "Health and Physical Education"
+    ],
+    "title": "Space Tomato, Where'd You Go?",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240111NK.mp3",
+    "content": [
+      {
+        "en": "Do you remember the astronaut who got stuck in space? Dr. Rubio was stuck in space for 371 days. What did he do there?",
+        "tw": "你還記得被困在太空的Rubio博士嗎? 他被困在那裡371天，都做了什麼呢?",
+        "time": null
+      },
+      {
+        "en": "When astronauts go to space, they do a lot of work. They study. They repair things. And they do experiments - which means trying new things!",
+        "tw": "太空人在外太空需要做很多的工作。他們讀書、修理東西、還會做實驗!",
+        "time": null
+      },
+      {
+        "en": "Dr. Rubio wanted to try something new. He tried to grow a tomato in space! And he did it! He grew the first tomato in space!",
+        "tw": "Rubio博士試著在外太空種番茄，他在外太空種出第一顆番茄!",
+        "time": null
+      },
+      {
+        "en": "This tomato was very special. Everyone was excited about it. But then... Dr. Rubio lost the tomato!",
+        "tw": "這個番茄很特別。每個人都很期待，但是Rubio博士把它弄丟了!",
+        "time": null
+      },
+      {
+        "en": "Dr. Rubio looked for the tomato. But it wasn't anywhere. How strange! Some people said maybe Dr. Rubio ate it. But he said he didn't eat it.",
+        "tw": "Rubio博士到處都找不到他的番茄，有人說被他吃掉了，但是他說他沒有。",
+        "time": null
+      },
+      {
+        "en": "Months and months later, Dr. Rubio went back to Earth. Then one day, some astronauts found the tomato in the spaceship! They said, \"Dr. Rubio didn't eat it! We found it!\"",
+        "tw": "幾個月之後,Rubio 都回地球了,有人在太空站上找到了那顆番茄,證明Rubio確實沒有吃它。",
+        "time": null
+      },
+      {
+        "en": "The tomato may not be good for dinner anymore. Nobody wants to eat it! But the astronauts are happy. They finally found the lost tomato in space!",
+        "tw": "這個番茄可能不能再當晚餐了。沒人想吃它！但太空人們很高興。他們終於在太空中找到了這顆失蹤的番茄！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "太空站上消失的番茄，過了好久才找到。",
+      "content": [
+        {
+          "text": "1. stuck 受困\nJane, you won't believe what happened to me yesterday.\n你不會相信昨天我發生了什麼事!\nI got stuck in an elevator for an hour! 我困在電梯裡一個鐘頭!\nNo way! What did you do? 不會吧! 那你怎麼辦?",
+          "time": null
+        },
+        {
+          "text": "2. do 做\nWhat could I do? 我能做什麼?\nI called 119.我打電話給119。\nBut it was no use. 但是沒有用。",
+          "time": null
+        },
+        {
+          "text": "3. repair 修理\nWhy not? 為什麼沒用?\nThey could at least tell someone to repair it.他們至少可以告訴人去修理。\nNo, because I was stuck in the basement! 沒有，因為我被困在地下室。",
+          "time": null
+        },
+        {
+          "text": "4. finally 最後\nSo there was no signal? 所以沒有訊號?\nRight. Finally it was my dog that saved me.對，最後是我的狗救了我。\nHow? 怎麼救的?\nHe kept barking at the elevator doors. 他一直對著電梯門叫。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了嗎?\nstuck受困\ndo做\nrepair修理\nfinally最後"
+    },
+    "quiz": [
+      {
+        "question": "1. Why did Dr. Rubio grow the tomato in space?",
+        "options": [
+          "a. He was stuck in space.",
+          "b. He was hungry.",
+          "c. He was trying something new."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Who found the tomato?",
+        "options": [
+          "a. Dr. Rubio",
+          "b. Some astronauts",
+          "c. Space museum workers"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Where was the tomato found?",
+        "options": [
+          "a. The spaceship",
+          "b. Dr. Rubio's house",
+          "c. A space museum"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
