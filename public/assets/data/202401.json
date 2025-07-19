@@ -409,5 +409,113 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240108-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "International Education",
+      "Outdoor Education",
+      "Life Education",
+      "Marine Education",
+      "Environmental Education",
+      "Life Below Water",
+      "Climate Action",
+      "Clean Water and Sanitation"
+    ],
+    "title": "Big Iceberg Floats and Feeds the Ocean",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240105NK.mp3",
+    "content": [
+      {
+        "en": "What is A23a? It’s two times bigger than New Taipei City. It's almost as tall as Taipei 101!",
+        "tw": "什麼是A23a? 它比新北市還大兩倍，跟台北101一樣高。",
+        "time": null
+      },
+      {
+        "en": "A23a is an iceberg! That's a mountain of ice. Most of it is underwater. It's very heavy. But it floats in the ocean, the same as an ice cube in your milk tea!",
+        "tw": "A23a是一座冰山。冰山有一大部分沉在水裡，而且很重。但是它可以漂在海面上。",
+        "time": null
+      },
+      {
+        "en": "A23a is the biggest iceberg in the world now. Ocean waves push it and it moves... very, very slowly...",
+        "tw": "A23a是現今世界上最大的冰山。它隨著洋流緩慢地移動。",
+        "time": null
+      },
+      {
+        "en": "As years go by, the iceberg slowly melts and gives nutrients to the ocean.",
+        "tw": "幾年過去了，這座冰山的養分慢慢溶到海裡。",
+        "time": null
+      },
+      {
+        "en": "The nutrients help very, very small plants grow. Small ocean animals eat these plants and grow! Then bigger ocean animals eat the smaller ones. Then... this goes on and on!",
+        "tw": "這些養分幫助很小的植物生長，小型的海生動物吃這些植物，再被大一點的動物吃掉，以此類推。",
+        "time": null
+      },
+      {
+        "en": "Waves are pushing A23a to Iceberg Alley, an ocean path where many icebergs are. Then it will melt away in the Atlantic Ocean…",
+        "tw": "洋流把A23a推到冰山巷，很多冰山都被推向那裡，之後會在大西洋慢慢地融化。",
+        "time": null
+      },
+      {
+        "en": "Icebergs make the ocean healthy, yes... But now, there are more and more icebergs. They're melting faster. This shows our Earth is too hot. Let's cool the Earth!",
+        "tw": "冰山確實讓海洋保持健康... 但現在，冰山越來越多，而且融化得更快。這表示我們的地球太熱了。讓我們一起為地球降溫吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "世界最大的冰山慢慢融解，同時也滋養著海洋生物。",
+      "content": [
+        {
+          "text": "1. melt 融化\nAre you staring at your drink? 你是在瞪著你的飲料嗎?",
+          "time": null
+        },
+        {
+          "text": "1. slowly 慢慢地\nWhy are you interested in that? 為什麼你對那個有興趣呢?\nBecause it’s getting smaller very slowly now. 因為它現在很慢地變小。Sometimes it melts very fast. 有時候它很快就融了。",
+          "time": null
+        },
+        {
+          "text": "1. ocean 海洋\nIt melts fast if the drink is hot. 要是飲料是熱的，它很快就會融化。\nJust like an iceberg. 就像冰山一樣。\nIf the ocean water is warm, it’ll disappear quickly. 要是海水溫暖，它很快就會不見。",
+          "time": null
+        },
+        {
+          "text": "1. milk tea 奶茶\nAll this talk about ice makes me want a milk tea. 這個冰塊話題讓我想喝奶茶。\nI love milk tea! 我很喜歡奶茶!",
+          "time": null
+        }
+      ],
+      "postscript": "melt融化\nslowly慢慢地\nocean海洋\nmilk tea奶茶"
+    },
+    "quiz": [
+      {
+        "question": "1. What does A23a give as it melts?",
+        "options": [
+          "a. Pollution",
+          "b. Plants",
+          "c. Nutrients"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "1. What is NOT true about A23a?",
+        "options": [
+          "a. It’s heavy.",
+          "b. It’s big.",
+          "c. It’s fast."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "1. What pushes A23a?",
+        "options": [
+          "a. Waves",
+          "b. Fish",
+          "c. People"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
