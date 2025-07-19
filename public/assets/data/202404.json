@@ -1784,5 +1784,120 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240426-01",
+    "type": "國小",
+    "tag": [
+      "No Poverty",
+      "Clean Water and Sanitation",
+      "Reduced Inequalities",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Environmental Education",
+      "Natural Sciences",
+      "Health and Physical Education",
+      "Social Studies",
+      "International Education"
+    ],
+    "title": "From Cow Poop to Clear Water",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240425NK.mp3",
+    "content": [
+      {
+        "en": "In India, many communities need to clean their dirty water. It's not easy.",
+        "tw": "印度有很多人需要淨化髒水，這個工作可不容易。",
+        "time": null
+      },
+      {
+        "en": "Many cleaning systems use chemicals and energy. They need workers.",
+        "tw": "汙水處理系統需要化學物質跟電力，也需要人手。",
+        "time": null
+      },
+      {
+        "en": "A man wanted to make a new system. But he didn't want his system to use chemicals, energy, or workers.",
+        "tw": "有一名男子想要研發新的系統，但是他不希望用到化學物質、能源跟人力。",
+        "time": null
+      },
+      {
+        "en": "The man had an idea. A cow's stomach has four parts. Each part has a special job. His system has four parts. Each part has a special job.",
+        "tw": "他想到讓系統跟牛的胃一樣，有四個部分而且每一個部分都有特殊功能。",
+        "time": null
+      },
+      {
+        "en": "Cow poop is in part one. Yes, smelly cow poop! This is smart. Brown water goes in. The poop's bacteria clean the water. Next, in part two, other bacteria clean it.",
+        "tw": "第一個部分要用到牛的糞便，因為裡面的細菌可以淨化水質。第二部分有其他的細菌來處理。",
+        "time": null
+      },
+      {
+        "en": "Then in part three, sand and small stones clean it. Last, in part four, plants clean the water! And clear water comes out!",
+        "tw": "第三部分需要沙子跟石頭，最後一個部分用植物來淨化水質，於是清水就出來了!",
+        "time": null
+      },
+      {
+        "en": "The man's cleaning system works! People can use this water for plants and toilets. More than three hundred communities use this system now. It has cleaned two billion liters of water. That's a lot of water!",
+        "tw": "他成功了!淨化出來的水可以澆花或當作馬桶水。目前有超過300個社群團體用這個系統，一共清了20億公升的水。",
+        "time": null
+      },
+      {
+        "en": "The man's system is easy, and it's good for the Earth. Now many communities can clean their dirty water!",
+        "tw": "這個男子的系統很簡單，而且對地球有益。現在許多社區都能清潔他們的髒水了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這個淨化水質的系統，大大節省人力和電力。",
+      "content": [
+        {
+          "text": "1. bacteria 細菌 My God! I'm so tired! 天哪，我累死了! Oh, there's cool spring water here,這裡有很涼的泉水。 Hey, you can't drink that! 你不可以喝泉水! There are lots of bacteria in the water.水裡有很多細菌。",
+          "time": null
+        },
+        {
+          "text": "2. clear 清澈的 Really? But it looks so clear.真的嗎?可是它看起來很清澈。 No, you have to boil it first. 不，你一定要先煮沸。",
+          "time": null
+        },
+        {
+          "text": "3. idea 主意 But I can't do that now! 但是我現在沒辦法煮啊! I know. I have an idea. 我知道，我有個主意。",
+          "time": null
+        },
+        {
+          "text": "4. need 需要 I'll tell those climbers we need water. 我去告訴那些登山客我們需要水。 What if they ignore you? 要是他們不理你呢? They won't. I'll beg. 不會的。我會哀求。",
+          "time": null
+        }
+      ],
+      "postscript": "來跟我一起讀單字。 bacteria細菌 clear清澈的 idea主意 need需要"
+    },
+    "quiz": [
+      {
+        "question": "1. What needs to be cleaned?",
+        "options": [
+          "a. Air",
+          "b. Water",
+          "c. Bacteria"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What animal stomach gave the man the idea for his cleaning system?",
+        "options": [
+          "a. Cow",
+          "b. Horse",
+          "c. Sheep"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What does the man's cleaning system use?",
+        "options": [
+          "a. Energy",
+          "b. Chemicals",
+          "c. Plants"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
