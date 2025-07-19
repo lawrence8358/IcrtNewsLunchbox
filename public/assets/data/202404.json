@@ -543,5 +543,104 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240409-01",
+    "type": "國小",
+    "tag": [
+      "Character Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Health and Physical Education"
+    ],
+    "title": "A Fan Referees a Game",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240408NK.mp3",
+    "content": [
+      {
+        "en": "One day, a man went to a big soccer game in the UK. A team named the Wolves was playing. The man was a big Wolves fan! The game was very exciting!",
+        "tw": "有一天，一個男人去看了一場在英國的大型足球比賽。一支名叫狼隊的球隊正在比賽。這個人是狼隊的超級球迷！",
+        "time": null
+      },
+      {
+        "en": "Then a referee got hurt! Referees are important for soccer games. They make sure the players are following the rules. Now the teams needed another referee.",
+        "tw": "裁判對於足球賽非常重要，他們確保球員遵守規則。現在有一位裁判受傷了，需要有人來接手。",
+        "time": null
+      },
+      {
+        "en": "This Wolves fan raised his hand and said, \"I can help!\" They gave him a special referee job.",
+        "tw": "這位超級球迷舉手說他可以幫忙，於是當了臨時裁判。",
+        "time": null
+      },
+      {
+        "en": "The man was happy to help. Then the Wolves scored a goal! This Wolves fan was excited! He wanted to cheer! But referees don't cheer for any team. They must be fair.",
+        "tw": "這個男子非常高興能夠幫上忙，但是他不能為狼隊加油，因為當裁判一定要公平。",
+        "time": null
+      },
+      {
+        "en": "In the end, the Wolves won the big game! The man was very happy and very excited. But he stayed quiet. He said he was the only quiet Wolves fan there!",
+        "tw": "狼隊最後贏了比賽!男子非常開心，但是他保持安靜，他說他是球場上唯一一個沉默的狼隊球迷。",
+        "time": null
+      },
+      {
+        "en": "After the game, the man went home with a big smile. He didn't cheer, but he was a part of the game. And he learned that referees are important. They keep the game fair and fun for everyone!",
+        "tw": "比賽結束後，男人帶著大大的笑容回家。他沒有歡呼，但他參與了比賽。他也學到了裁判的重要性。他們讓比賽對每個人來說都公平又有趣！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "超級足球迷變成臨時裁判，是超級難得的經驗。",
+      "content": [
+        {
+          "text": "o cheer for 加油\nHey, why are you cheering for the Guardians? 你怎麼替悍將加油? \nWhy not? That's a great home run! 怎麼不行? 那是精彩的全壘打!",
+          "time": null
+        },
+        {
+          "text": "o fan 迷\nBut you're a fan of the Brothers! 可是你是兄弟隊的球迷! \nI am. And I'm also a big fan of home runs! 我是啊，我也是全壘打迷!",
+          "time": null
+        },
+        {
+          "text": "o team 隊伍\nYou should stick to one team. 你應該忠於一個隊伍。\nBut I like all the teams! 但是那些隊我都喜歡! \nThat's why I bought the seasonal ticket. 這是為什麼我買季票。",
+          "time": null
+        },
+        {
+          "text": "o game 比賽\nI always feel so happy watching these games. 我看這些比賽都好開心! \nYeah, I agree. They are a lot of fun. 我同意。是很好玩。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you cheer for the team you like? 來讀單字。\ncheer for加油\nfan迷\nteam隊伍\ngame比賽"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of game was played?",
+        "options": [
+          "a. Basketball",
+          "b. Baseball",
+          "c. Soccer"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What team does the man like?",
+        "options": [
+          "a. The Bears",
+          "b. The Wolves",
+          "c. The Lions"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do referees do?",
+        "options": [
+          "a. Keep the game fair",
+          "b. Cheer for a team",
+          "c. Play in the game"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
