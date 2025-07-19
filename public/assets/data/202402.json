@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20240216-01",
     "type": "國小",
@@ -104,6 +104,115 @@
         ],
         "time": null,
         "answer": "c"
+      }
+    ]
+  },
+  {
+    "id": "20240217-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Industry, Innovation and Infrastructure",
+      "Reduced Inequalities",
+      "Life on Land",
+      "Partnerships for the Goals",
+      "Technology Education",
+      "Character Education",
+      "Life Education",
+      "Safety Education",
+      "Life Planning Education",
+      "International Education",
+      "Social Studies",
+      "Technology",
+      "Integrative Activities",
+      "Health and Physical Education"
+    ],
+    "title": "Science Helps Man Walk Again",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240216NK.mp3",
+    "content": [
+      {
+        "en": "Science is great! Science finds ways to help people. It's helping Mr. Oskam. Twelve years ago, he had a bad motorcycle accident. After the accident, his legs didn't work. He wasn't able to walk. He used a wheelchair for a long time.",
+        "tw": "12年前 Oskam先生遭遇車禍，雙腿無法行走，有很長一段時間需要依靠輪椅。",
+        "time": null
+      },
+      {
+        "en": "Then scientists put implants in Mr. Oskam's body. These implants are very small computers. He has two implants in his brain and one around his spine.",
+        "tw": "科學家在 Oskam 先生的腦袋跟脊椎植入訊號發射器。",
+        "time": null
+      },
+      {
+        "en": "Mr. Oskam also wears a special helmet. The implants, helmet, and a computer work together. Mr. Oskam carries the computer in a backpack on his back.",
+        "tw": "他也需要戴上特殊的頭盔，揹著裝有電腦的背包。",
+        "time": null
+      },
+      {
+        "en": "To move his legs, first Mr. Oskam thinks about moving them. His brain implants send a signal to the helmet. The helmet sends a signal to his spine implant. That implant sends a signal to his legs. Then his legs move!",
+        "tw": "Oskam先生要先想著移動雙腿，他腦袋裡的發射器把訊號送到頭盔。再從頭盔送到脊椎，接著到他的雙腿，然後雙腿就可以移動了!",
+        "time": null
+      },
+      {
+        "en": "Mr. Oskam can walk slowly. He can stand and climb stairs too. And he can move more without help! He's very happy. Being able to move is very cool!",
+        "tw": "現在Oskam先生可以慢慢地走，也能站起來爬樓梯，不需要其他人幫忙，他真是開心極了!",
+        "time": null
+      },
+      {
+        "en": "Every day, scientists find new ways to help people. Helping people to walk again is great!",
+        "tw": "每天，科學家都在尋找新的方法來幫助人們。能夠再次幫助人們行走真是太棒了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "醫學科技讓這位受傷的人再度行走，是了不起的成就。",
+      "content": [
+        {
+          "text": "1. leg 腿\nHey there! How are you holding up today? 嗨，你今天怎麼樣?\nMy legs are hurting after a long walk yesterday.\n我現在腿痛，昨天走了太長的路。",
+          "time": null
+        },
+        {
+          "text": "2. walk 走路\nYeah? How long did you walk? 是嗎? 你走了多久?\nAbout 10 minutes.大概十分鐘。\nOnly 10? 只有十分鐘?",
+          "time": null
+        },
+        {
+          "text": "3. brain 腦袋\nThen I have to tell you, my brain hurts too. 那我得告訴你，我的腦袋也痛。\nAnd the reason? 理由呢?\nI had to climb that mountain of paperwork at the office.\n我在辦公室爬了堆積如山的文件。",
+          "time": null
+        },
+        {
+          "text": "4. able 能夠的\nSo your brain worked overtime? 所以你的腦袋超時工作?\nIndeed.確實是。\nWell, at least we are still able to move around. 至少我們都還能活動。\nThat's true. 你說對了。",
+          "time": null
+        }
+      ],
+      "postscript": "leg腿\nwalk走路\nbrain腦袋\nable能夠的"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of accident did Mr. Oskam have?",
+        "options": [
+          "a. Motorcycle",
+          "b. Work",
+          "c. Science"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How many implants does Mr. Oskam have?",
+        "options": [
+          "a. One",
+          "b. Two",
+          "c. Three"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What does Mr. Oskam carry in a backpack?",
+        "options": [
+          "a. A helmet",
+          "b. A computer",
+          "c. An implant"
+        ],
+        "time": null,
+        "answer": "b"
       }
     ]
   }
