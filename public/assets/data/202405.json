@@ -721,5 +721,110 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240515-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Technology Education",
+      "Technology",
+      "Integrative Activities",
+      "Health and Physical Education"
+    ],
+    "title": "The World's Fastest Ride-On Toy Car",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240514NK.mp3",
+    "content": [
+      {
+        "en": "Vroom! Toy cars are great! There are many kinds.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "There are wind-up cars. You turn the knob …one, two, three times… and they zip away!",
+        "tw": "發條玩具車，只要發條轉幾圈，車子就會跑。",
+        "time": null
+      },
+      {
+        "en": "There are remote-controlled cars. You can make them go far away!",
+        "tw": "還有遙控車，你可以讓他們走很遠。",
+        "time": null
+      },
+      {
+        "en": "How about ride-on cars? Some ride-on cars help very young kids walk. They sit on the cars. They move the cars with their legs.",
+        "tw": "那兒童滑步車呢？幼兒坐在車上，用腳滑動，幫助他們學習走路。",
+        "time": null
+      },
+      {
+        "en": "Ride-on cars are bigger toy cars. Older kids can ride them, too! They race down hills! They wear helmets and knee pads.",
+        "tw": "這種滑步車是一種更大的玩具車。大孩子們會比賽誰先從坡上滑下來，他們戴著安全帽跟護膝。",
+        "time": null
+      },
+      {
+        "en": "Some grown-ups race ride-on cars too. They put engines in their cars. Now they're fast! One grown-up's ride-on car goes 148 kilometers an hour! Wow, that's fast!",
+        "tw": "大人也參加滑步車比賽，他們會裝引擎，讓車子跑得很快。有的時速還高達一個小時148公里，速度好快!",
+        "time": null
+      },
+      {
+        "en": "Announcer voice:\n\nHe's putting on his helmet and knee pads. He's starting the engine. He's holding the steering wheel. Off the car gooooeesss! He's on the world's fastest ride-on car! Now he's stopping the car… with his shoes! Kids, don't try this at home! Whew! That was fun! What kind of toy cars do you like?",
+        "tw": "播報員聲音：\n\n他戴上安全帽和護膝。他正在啟動引擎。他握著方向盤。車子衝出去了！他正駕駛著世界上最快的滑步車！現在他正在用鞋子停車…小朋友們，請勿在家嘗試！呼！那真好玩！你喜歡哪種玩具車呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "玩具車有很多種，有的可以跑得飛快。",
+      "content": [
+        {
+          "text": "1. helmet 安全帽\nGoing out? 要出門?\nYeah, I'm going bike riding down Parkway. 對，我要去公園路騎車。\nDon't you want to put on your helmet? 你不戴安全帽嗎?\nI'm thinking about that.我正在想。",
+          "time": null
+        },
+        {
+          "text": "2. fast 快的\nBut it's so hot out there. 可是外面好熱。\nTrue. But you often go fast. 那是真的，不過你經常騎很快。\nA helmet makes it safer. 戴安全帽比較安全。\nYou think I'm a fast rider? 你覺得我騎很快?\nNot faster than me. 沒有我快。",
+          "time": null
+        },
+        {
+          "text": "3. race 衝\nReally? Come ride with me. 真的嗎?來跟我一起騎。\nI like racing downhill. 我喜歡衝下山坡。",
+          "time": null
+        },
+        {
+          "text": "4. wear 穿戴\nYou're on. 就這麼辦!\nI'll wear my knee pads, gloves and everything. 我要戴護膝，手套，所有的。",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字簡單好用。\nhelmet安全帽\nfast快的\nrace衝\nwear穿戴"
+    },
+    "quiz": [
+      {
+        "question": "1. What toy car has a knob?",
+        "options": [
+          "a. Wooden",
+          "b. Wind-up",
+          "c. Remote-controlled"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do ride-on cars help very young kids do?",
+        "options": [
+          "a. Walk",
+          "b. Work",
+          "c. Race"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How does the grown-up stop the world's fastest ride-on car?",
+        "options": [
+          "a. Goes down hills",
+          "b. Uses his shoes",
+          "c. Moves it with his legs"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
