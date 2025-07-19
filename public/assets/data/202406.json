@@ -1008,5 +1008,118 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240618-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Life Below Water",
+      "Safety Education",
+      "Natural Sciences"
+    ],
+    "title": "The Fish Taxi Accident",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240617NK.mp3",
+    "content": [
+      {
+        "en": "In Oregon, lots of salmon are NOT born in rivers. These baby fish are born in hatcheries. Workers help them grow. Young fish are safe there.",
+        "tw": "奧勒岡州有很多鮭魚不是在河裡出生，而是在魚卵孵化場。工作人員把牠們安全的養大。",
+        "time": null
+      },
+      {
+        "en": "When salmon are about a year and a half old, they leave their hatchery. They take a fish taxi!",
+        "tw": "到了一歲半，這些小魚就會搭計程車，離開孵化場。",
+        "time": null
+      },
+      {
+        "en": "Fish taxis are trucks with a big tank. Hatchery workers put salmon and water in the tank.",
+        "tw": "鮭魚計程車是裝載巨大魚缸的卡車，工作人員把魚缸裝滿水，把小魚放進去。",
+        "time": null
+      },
+      {
+        "en": "The truck drives the fish to a river. The salmon swim down the river to the ocean. There, they become big and strong.",
+        "tw": "卡車載小魚到河邊，放進河裡，讓牠們從河流游進大海，長成強壯的大魚。",
+        "time": null
+      },
+      {
+        "en": "One day, a truck was driving near a river. The tank had more than 100,000 salmon in it. The fish were going to a big river.",
+        "tw": "有一天，一輛裝了十萬條魚苗的卡車要開到河邊。",
+        "time": null
+      },
+      {
+        "en": "But the road was wet. The truck turned and ---oh, no! There was a bad accident!",
+        "tw": "結果路面濕滑，讓卡車轉彎時出了車禍!",
+        "time": null
+      },
+      {
+        "en": "The driver was okay! But the tank rolled down by the river. Water and many, many salmon came out of the tank!",
+        "tw": "還好駕駛沒事，但車上的水缸滾到了河邊！裡面的魚苗幾乎都流出來了。",
+        "time": null
+      },
+      {
+        "en": "Some did not live... But 77,000 salmon were very lucky! They fell into the river and swam away!",
+        "tw": "有的鮭魚沒有活下來，但還是有7萬7千隻的鮭魚很幸運地掉進河裡游走了。",
+        "time": null
+      },
+      {
+        "en": "Go, fish! Swim to the ocean!",
+        "tw": "去吧，魚兒！游向大海吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "鮭魚計程車出了車禍，讓它的乘客通通掉進了河裡。",
+      "content": [
+        {
+          "text": "1. fish 魚。\nLet’s get a pet. 我們養個寵物吧。\nGood idea! A dog or a cat? 好主意，養狗還是養貓?\nI think we should get some fish.我覺得應該養魚。",
+          "time": null
+        },
+        {
+          "text": "2. swim 游泳。\nFish? You can’t cuddle a fish! 魚?你沒辦法跟魚抱抱。\nBut I enjoy watching them swim. 但是我喜歡看牠們游泳。It’s so relaxing.讓人很放鬆。",
+          "time": null
+        },
+        {
+          "text": "3. water 水。\nOkay, so how should we start? 好吧，該怎麼開始?\nBuy a fish tank and put water in it. 買一個魚缸，放水進去。",
+          "time": null
+        },
+        {
+          "text": "4. lucky 幸運的。\nYeah, and I’ll find two pairs of colorful fish.對，我去找兩對彩色的魚。\nIf we’re lucky, we’ll get baby fish! 我們幸運的話，還會有小貝比魚!",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like fish as pets? fish魚 swim游泳 water水 lucky幸運的"
+    },
+    "quiz": [
+      {
+        "question": "1. In Oregon, where do workers help fish grow?",
+        "options": [
+          "a. The ocean",
+          "b. Hatcheries",
+          "c. Rivers"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What is a \"fish taxi\"?",
+        "options": [
+          "a. A boat",
+          "b. A truck",
+          "c. A car"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. When the accident happened, where did the salmon come out?",
+        "options": [
+          "a. By a river",
+          "b. On the road",
+          "c. In a hatchery"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
