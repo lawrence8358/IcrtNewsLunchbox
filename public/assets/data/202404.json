@@ -1,0 +1,110 @@
+ [
+  {
+    "id": "20240401-01",
+    "type": "國小",
+    "tag": [
+      "No Poverty",
+      "Good Health and Well-Being",
+      "Zero Hunger",
+      "Reduced Inequalities",
+      "Life on Land",
+      "Partnerships for the Goals",
+      "Human Rights Education",
+      "Character Education",
+      "Life Education",
+      "Multicultural Education",
+      "Outdoor Education",
+      "International Education",
+      "Social Studies",
+      "Health and Physical Education"
+    ],
+    "title": "Scarves Warm Hearts",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240329NK.mp3",
+    "content": [
+      {
+        "en": "Something wonderful happens in cities in Canada and the U.S. every year. It started long ago with a surprise! On a very cold day in a Canadian city, fourteen statues of great heroes... wore scarves?!",
+        "tw": "每一年冬天，加拿大跟美國很多城市都會發生美妙的事。最開始是很多年前一個寒冷的冬日，加拿大城市的14座偉人雕像，脖子上都圍了圍巾。",
+        "time": null
+      },
+      {
+        "en": "The colorful scarves were handmade. Each scarf had a message that warmed people's hearts. And the scarves were free!",
+        "tw": "這些色彩繽紛，手工做的圍巾都可以免費拿取，上面還有溫馨的小紙條。",
+        "time": null
+      },
+      {
+        "en": "Some people took pictures of the statues that day. They posted the pictures online. Many people liked the idea of leaving scarves for anyone to take! They called it \"scarf bombing.\"",
+        "tw": "有人拍了雕像的照片並放到網路上。很多人喜歡用這樣的方式送愛心圍巾!",
+        "time": null
+      },
+      {
+        "en": "So who scarf bombed the statues? Some kind students did! The kindness didn't stop. Lots of people need scarves. So scarf bombers in many cities make scarves all year. They're making hats, gloves, jackets, and blankets right now! Other people help by giving the scarf bombers yarn.",
+        "tw": "很多人需要圍巾，於是很多不同城市的人一整年都在做圍巾，搞不好現在正在做帽子、手套、外套跟被子。也有人提供他們的毛線，讓善意一直傳下去。",
+        "time": null
+      },
+      {
+        "en": "When cold weather comes, they make scarf bombs. They put the things they made on fences, benches, and many other places.",
+        "tw": "天氣很冷的時候，他們會把圍巾跟其他做的物品綁在欄杆、長椅跟其他的地方。",
+        "time": null
+      },
+      {
+        "en": "Small acts of kindness are important. Leaving warm scarves for people makes them happy. And it brings people together!",
+        "tw": "小小的善舉很重要。為人們留下溫暖的圍巾能讓他們開心。這也能讓大家團結起來！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "雕像圍上圍巾，目的是提醒大家，有溫暖的圍巾可以自由取用。",
+      "content": [
+        {
+          "text": "1. jacket 夾克\nIt's freezing today! 今天冷死了!\nWhere's your jacket? 你的夾克呢?\nI didn't bring one. 我沒帶。\nI didn't know it'd be so cold!",
+          "time": null
+        },
+        {
+          "text": "2. kind 好心的\nHere, let me at least offer you my scarf. 來，至少讓我借你我的圍巾。\nThank you. You're so kind!",
+          "time": null
+        },
+        {
+          "text": "3. wear 穿戴\nHow did you know to wear a heavy coat? 你怎麼知道要穿厚外套?\nYesterday was so warm.昨天那麼溫暖。",
+          "time": null
+        },
+        {
+          "text": "4. online 上網\nI just happened to see an online weather forecast.\n我只是剛好在網上看到氣象預報。\nDon't worry. It'll warm up tomorrow. 別擔心，明天就會變溫暖。\nThat's good to know. 這是好消息。",
+          "time": null
+        }
+      ],
+      "postscript": "jacket夾克 kind好心的 wear穿戴 online上網"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does scarf bombing happen?",
+        "options": [
+          "a. Taiwan",
+          "b. Canada",
+          "c. Japan"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where can people find these scarves?",
+        "options": [
+          "a. Fences",
+          "b. Desks",
+          "c. Libraries"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What do people give to help scarf bombers?",
+        "options": [
+          "a. Money",
+          "b. Yarn",
+          "c. Food"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  }
+]
