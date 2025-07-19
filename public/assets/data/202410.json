@@ -1739,5 +1739,101 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20241028-01",
+    "type": "國小",
+    "tag": [
+      "Safety Education",
+      "Disaster Risk Reduction Education"
+    ],
+    "title": "Typhoon Holidays",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241025NK.mp3",
+    "content": [
+      {
+        "en": "Typhoons can be very strong. Their fast winds and heavy rain cause lots of damage. Typhoons can kill people.",
+        "tw": "颱風有很強的威力，它帶來的強風跟豪雨可能造成很多破壞，甚至奪走人的生命。",
+        "time": null
+      },
+      {
+        "en": "That's why Taiwan has typhoon holidays. These holidays keep everyone safe. Your parents don't have to go to work. And you don't have to go to school!",
+        "tw": "所以台灣有颱風假，來保護大家的安全，放假時你的爸媽不用去上班，你也不用上學!",
+        "time": null
+      },
+      {
+        "en": "Each city says when there's a typhoon holiday. But it's hard to know how strong a typhoon will be. Maybe a typhoon gets weak when it leaves the ocean. It's also hard to know where it will go! Maybe it will turn and go to another place. Surprise!",
+        "tw": "每個城市的政府會自己決定要不要放假，不過颱風強度很難預測，可能一離開海就變弱，移動的路線也是，它一轉彎就可能跑到別的地方!",
+        "time": null
+      },
+      {
+        "en": "Sometimes there's a typhoon holiday, but the typhoon isn't strong. You and your friends can have fun outside! Everyone is happy! But companies aren't happy. They have to pay their workers for no work!",
+        "tw": "有時候放颱風假後，天氣沒有不好，你跟你的朋友就會開心地在外面玩! 但有公司不開心，他們要付錢給沒有工作的員工!",
+        "time": null
+      },
+      {
+        "en": "And sometimes there's no typhoon holiday, but the typhoon is strong! Your parents have to go to work. You have to go to school. And everyone gets wet in the wind and heavy rain. Ugh! Nobody is happy then.",
+        "tw": "也有時候沒有放假，但是颱風非常強! 你跟爸媽都需要去上班上課，所以每一個人都淋得全身濕透，大家都不開心!",
+        "time": null
+      },
+      {
+        "en": "On your next typhoon holiday, stay safe!",
+        "tw": "下次颱風假，請注意安全！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "颱風假有利有弊，不是大家都喜歡颱風假。",
+      "content": [
+        {
+          "text": "1. have to 必須。Another day-off tomorrow! 明天又放一天! No work and school! 不用上班上學。Oh no, there are things I have to do! 糟糕，我有事情一定要做呢!",
+          "time": null
+        },
+        {
+          "text": "2. wind 風。Do it at home. 在家做啊。I can't! I must do it at the office! 沒辦法，一定得在辦公室。Besides, the winds are not strong.而且風並不強。",
+          "time": null
+        },
+        {
+          "text": "3. outside 外面。The rain is really heavy now. 現在雨真的很大。Heavy rain never bothers me. 大雨從來不影響我。Wait, are you going outside now?等等，你現在要去外面?",
+          "time": null
+        },
+        {
+          "text": "4. another 另一個。Yeah, I can't wait for another day. 對，我不能再等一天。I'll go and bring my computer back.我要去把我的電腦拿回來。",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我一起讀今天的單字。have to必須 wind風 outside外面 another另一個"
+    },
+    "quiz": [
+      {
+        "question": "1. Why does Taiwan have typhoon holidays?",
+        "options": [
+          "a. To pay your parents",
+          "b. To keep everyone safe",
+          "c. To cause damage"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Who says when there is a typhoon holiday?",
+        "options": [
+          "a. The city",
+          "b. The president",
+          "c. Teachers"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What happens when there's a typhoon but no typhoon holiday?",
+        "options": [
+          "a. Everyone is happy!",
+          "b. Everyone is safe!",
+          "c. Everyone gets wet!"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
