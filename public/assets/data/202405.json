@@ -515,5 +515,113 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240514-01",
+    "type": "國小",
+    "tag": [
+      "Life Below Water",
+      "Environmental Education",
+      "Marine Education",
+      "Natural Sciences"
+    ],
+    "title": "Gray Whale Swims to Another Ocean",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240513NK.mp3",
+    "content": [
+      {
+        "en": "Whoa, what a splash! At 27,000 kilograms and 15 meters long, gray whales are big!",
+        "tw": "灰鯨的體型很大，牠們重達2萬7千公斤，長15公尺。",
+        "time": null
+      },
+      {
+        "en": "Gray whales swim more than 16,000 kilometers a year! That's more than other whales. Why do they swim so far? It's to look for food and have babies!",
+        "tw": "灰鯨一年游超過1萬6千公里，比其他鯨魚還要多，因為牠們需要覓食跟繁衍後代。",
+        "time": null
+      },
+      {
+        "en": "There aren't many gray whales today. They live in the North Pacific Ocean. Gray whales also lived in the Atlantic Ocean 200 years ago. But fishermen there caught too many...",
+        "tw": "灰鯨住在北太平洋，200年前也住在大西洋，但是過度的捕鯨導致現在沒有多少灰鯨。",
+        "time": null
+      },
+      {
+        "en": "So some scientists were very surprised this winter. They were flying in a plane over the Atlantic Ocean. They saw a whale below. Was that a gray whale??",
+        "tw": "所以今年的冬天，科學家很驚訝在大西洋居然看到一隻好像是灰鯨的身影。",
+        "time": null
+      },
+      {
+        "en": "They took pictures to check. Yes! It was! Where did it come from? They say it came from the Pacific Ocean!",
+        "tw": "科學家照相確認，沒錯! 牠是灰鯨，是從太平洋游過來的。",
+        "time": null
+      },
+      {
+        "en": "The whale swam through the Northwest Passage. That's not easy. The passage is sixteen thousand kilometers long!",
+        "tw": "這頭灰鯨從西北航道通過，很不簡單! 因為這條航道長達1萬6千公里。",
+        "time": null
+      },
+      {
+        "en": "It's usually full of ice most of the year. But the world is getting warmer. Some of the ice melted. So this whale swam to the Atlantic Ocean!",
+        "tw": "這條航道大部分的時間都會結冰，但氣候暖化讓這頭鯨魚可以通過。",
+        "time": null
+      },
+      {
+        "en": "What other ocean animals will come through this passage?",
+        "tw": "還有哪些海洋動物會通過這條航道呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一頭太平洋的灰鯨，游過西北航道，進入大西洋。",
+      "content": [
+        {
+          "text": "1. kilogram公斤 The biggest animal on Earth is not a dinosaur.地球上最大的動物不是恐龍。I know that. It's blue whales. 我知道，是藍鯨。Yes, but do you know how big it is? 沒錯，但你知道牠多大嗎? One thousand kilograms? 一千公斤?",
+          "time": null
+        },
+        {
+          "text": "2. thousand千 No, guess again. 不對，再猜。Ten thousand? 一萬? Okay, a blue whale can weigh up to 180-thousand kilograms! 一頭藍鯨可以重達十八萬公斤。That's many times heavier than an elephant! 那比大象重好多倍!",
+          "time": null
+        },
+        {
+          "text": "3. swim 游泳 I'd really like to see blue whales. 我真想看到藍鯨。I want to swim with them.我想要跟牠們一起游泳。",
+          "time": null
+        },
+        {
+          "text": "4. ocean 海洋 Where do you think we can do that? 去哪裡可以做到? In the Pacific Ocean. 太平洋。",
+          "time": null
+        }
+      ],
+      "postscript": "今天學到哪些單字? kilogram公斤 thousand千 swim游泳 ocean海洋"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of whales swim more than other whales?",
+        "options": [
+          "a. Blue whales",
+          "b. Killer whales",
+          "c. Gray whales"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What ocean do most gray whales live in now?",
+        "options": [
+          "a. North Pacific Ocean",
+          "b. South Pacific Ocean",
+          "c. Atlantic Ocean"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What passage did the gray whale swim through?",
+        "options": [
+          "a. Northwest Passage",
+          "b. Southwest Passage",
+          "c. West-East Passage"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
