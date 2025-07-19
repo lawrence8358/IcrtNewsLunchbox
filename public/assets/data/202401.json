@@ -1185,5 +1185,119 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240117-01",
+    "type": "國小",
+    "tag": [
+      "Clean Water and Sanitation",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life Below Water",
+      "Life on Land",
+      "Environmental Education",
+      "Marine Education",
+      "Outdoor Education",
+      "Natural Sciences",
+      "Health and Physical Education"
+    ],
+    "title": "These Superhero Fish Lizards Need Our Help!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240116NK.mp3",
+    "content": [
+      {
+        "en": "Do you know what axolotls are? They're fishy lizards with cute little faces. They have big eyes. And their smiles are funny!",
+        "tw": "你知道什麼是住在水裡的蠑螈嗎? 他們有一些像蜥蜴，長得很可愛，有著大大的眼睛。",
+        "time": null
+      },
+      {
+        "en": "Some say axolotls are \"water monsters\"! Why?! It's because they stay in the water all the time. Axolotls have superhero superpowers. When they lose an arm or tail, they can grow it back!",
+        "tw": "有人說牠們是「水怪」! 因為牠們都待在水裡，還有再生能力。手臂或是尾巴斷掉了，可以再長回來。",
+        "time": null
+      },
+      {
+        "en": "One kind of axolotl lives in waterways in Mexico City. Sadly, the waterways are dirty from icky, yucky pollution. The pollution makes axolotls sick. There are fewer and fewer axolotls.",
+        "tw": "有一種水棲蠑螈住在墨西哥市的水道裡面，但是這些水道遭到汙染，讓這種蠑螈越來越少。",
+        "time": null
+      },
+      {
+        "en": "Scientists are trying to help these axolotls. They say people can help too! But how?",
+        "tw": "科學家想要幫助這些小動物，他們說大家也可以來幫忙，那怎麼幫呢?",
+        "time": null
+      },
+      {
+        "en": "The scientists say people can \"adopt\" the axolotls. When people adopt a pet, they take it home. But people don't take these axolotls home!",
+        "tw": "科學家說大家可以「領養」蠑螈，但不是真的要帶牠們回家。",
+        "time": null
+      },
+      {
+        "en": "People give the scientists a little money. This helps the scientists take care of the axolotls. They give the axolotls food. And they keep the axolotls' home safe!",
+        "tw": "科學家希望大眾捐錢，讓科學家有資源照顧蠑螈，也可以保護蠑螈的棲息地。",
+        "time": null
+      },
+      {
+        "en": "The scientists tell people about their axolotl online. That way, people know how their axolotl is doing!",
+        "tw": "科學家會在網頁上告訴大家，他們收養的小傢伙狀況如何、在做什麼。",
+        "time": null
+      },
+      {
+        "en": "These superhero fish lizards need our help! Can we save them?",
+        "tw": "這些超級英雄般的魚蜥蜴需要我們的幫助！我們能拯救牠們嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "水棲蠑螈因為居住的地方遭到破壞，數目越來越少。",
+      "content": [
+        {
+          "text": "1. waterway 水道\nLook what I've found.你看我找到的。\nTadpoles! 蝌蚪!\nI haven't seen tadpoles in years! 我好多年沒看到蝌蚪了。\nWhere did you find them? 在哪裡找到的?\nIn the waterways under the bridge.橋下面的水道。",
+          "time": null
+        },
+        {
+          "text": "2. dirty 骯髒的\nYuck! Isn't the water dirty? 好噁喔，那水不是很髒嗎?\nNo, if there are tadpoles, it's not dirty. 不，有蝌蚪水就不髒。",
+          "time": null
+        },
+        {
+          "text": "3. adopt 收養\nNow what are you going to do with them? 你要拿牠們怎麼辦?\nI'll adopt them. 我要收養牠們。\nYou're kidding, right? 你在開玩笑吧?\nNo, I'll help them grow. 不是，我要幫牠們長大。",
+          "time": null
+        },
+        {
+          "text": "4. food 食物\nThey will grow on their own! 牠們會自己長大!\nAnd you don't know what food to feed them! 而且你不知道要餵牠們什麼!\nFish food. 魚飼料。",
+          "time": null
+        }
+      ],
+      "postscript": "你有養過蝌蚪嗎?\nwaterway水道\ndirty骯髒的\nadopt收養\nfood食物"
+    },
+    "quiz": [
+      {
+        "question": "1. What can axolotls grow?",
+        "options": [
+          "a. A new face",
+          "b. A new arm",
+          "c. A new eye"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What makes the axolotls sick?",
+        "options": [
+          "a. Pollution",
+          "b. Scientists",
+          "c. Water monsters"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How can people help scientists save axolotls?",
+        "options": [
+          "a. Check online",
+          "b. Adopt axolotls",
+          "c. Take one home"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
