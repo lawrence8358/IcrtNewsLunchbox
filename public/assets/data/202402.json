@@ -745,5 +745,108 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240226-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "International Education",
+      "Marine Education",
+      "Life on Land"
+    ],
+    "title": "Big Sea Monster Found in the UK",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240223NK.mp3",
+    "content": [
+      {
+        "en": "There's a big sea monster in the UK. It looks very scary. It's twelve meters long. That's as big as a house!",
+        "tw": "英國發現一隻巨大的海怪，牠長達12公尺，跟一棟房子一樣大。",
+        "time": null
+      },
+      {
+        "en": "It has a lizard's head. But its skull is two meters long! And its mouth has one hundred thirty sharp teeth. This monster might eat you in one bite!",
+        "tw": "牠的頭部像蜥蜴，光是頭骨就長達兩公尺，還有130顆牙齒。",
+        "time": null
+      },
+      {
+        "en": "Ahhh! Thinking about it makes me scared. But do we need to be afraid of this sea monster? Don't worry. It's okay. This animal is NOT alive. Scientists found its skull.",
+        "tw": "我們需要擔心這頭海怪嗎? 完全不用，因為牠早就死了。科學家找到牠的頭骨。",
+        "time": null
+      },
+      {
+        "en": "This animal lived 150 million years ago. That was the time of dinosaurs. This big sea monster is a pliosaur. Pliosaur means \"more lizard\"!",
+        "tw": "牠生活在1億5千萬年前恐龍的時代，這頭巨大的海怪是「上龍」。",
+        "time": null
+      },
+      {
+        "en": "Long, long ago, it was the king of the ocean. The pliosaur used its four strong flippers to swim very fast. Any other fish or ocean animal was its food.",
+        "tw": "很久以前，上龍是海洋的掠食者，牠強壯的四肢讓牠游得非常快。",
+        "time": null
+      },
+      {
+        "en": "But now it's a fossil. Its teeth and bones are now stones. Scientists want to study this pliosaur. They hope to learn more about this real-world sea monster.",
+        "tw": "但牠現在變成了化石。科學家想要研究上龍，希望對這頭真的海怪了解更多。",
+        "time": null
+      },
+      {
+        "en": "What? You see a big sea monster? Don't worry, it's not a pliosa …",
+        "tw": "什麼？你看到一隻大海怪？別擔心，那不是一隻上龍…",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "上龍可不是童話故事裡的海怪，牠真的在地球上生活過。",
+      "content": [
+        {
+          "text": "1. skull 頭骨 Hey, I just came back from an adventure! 我剛剛探險回來。 Really? What happened? 真的嗎?發生了什麼事? I was at this dinosaur museum, and saw a giant T-Rex skull. 我去恐龍博物館，看到一個巨大的暴龍頭骨。",
+          "time": null
+        },
+        {
+          "text": "2. as big as 一樣大 It's as big as my body! 跟我的身體一樣大! No way! 不可能! But it's true. 是真的。",
+          "time": null
+        },
+        {
+          "text": "3. scary 讓人害怕的 It's very scary. 它很嚇人。 Okay, what else did you see? 好吧，你還看到什麼? A fish fossil that has hundreds of teeth! 一個魚的化石，有好幾百顆牙齒!",
+          "time": null
+        },
+        {
+          "text": "4. teeth 牙齒 Why so many teeth? 為什麼有那麼多牙齒? To eat other monsters? 好來吃別的怪物?",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我一起讀單字。skull頭骨as big as一樣大scary讓人害怕的teeth牙齒"
+    },
+    "quiz": [
+      {
+        "question": "1. Where was the sea monster found?",
+        "options": [
+          "a. The USA",
+          "b. The UK",
+          "c. The UAE"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many meters long is the sea monster?",
+        "options": [
+          "a. two",
+          "b. twelve",
+          "c. twenty"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What is the sea monster called?",
+        "options": [
+          "a. Pliosaur",
+          "b. Lizardsaur",
+          "c. Dinosaur"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
