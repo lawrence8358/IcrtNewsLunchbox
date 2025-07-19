@@ -1238,5 +1238,113 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240522-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life Education",
+      "Natural Sciences",
+      "Health and Physical Education"
+    ],
+    "title": "Helping People Exercise from the Heart",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240521NK.mp3",
+    "content": [
+      {
+        "en": "Exercise helps our bodies become stronger and healthier. It's important to exercise!",
+        "tw": "運動可以讓我們的身體更健康、更強壯，所以運動很重要!",
+        "time": null
+      },
+      {
+        "en": "One gym owner believes in the power of exercise. He loves helping people exercise.",
+        "tw": "有一位健身房老闆相信運動帶來的力量，他很喜歡鼓勵別人運動。",
+        "time": null
+      },
+      {
+        "en": "Every week, this man helps about thirty people exercise at his gym. He helps them for free. They are all older people and people with disabilities. Many have health problems.",
+        "tw": "他每星期都會讓30多人免費在他的健身房裡運動。這些人都是年長者跟身障者，大部分都有健康問題。",
+        "time": null
+      },
+      {
+        "en": "They can't move easily. But they try very hard. And he never gives up on them.",
+        "tw": "他們可能行動不便，但是非常努力。而且這位老闆從不放棄。",
+        "time": null
+      },
+      {
+        "en": "A young woman uses a wheelchair. With the man's help, she started exercising. Now she's stronger. She's happier and more confident too.",
+        "tw": "有個坐輪椅的年輕女士藉由老闆的幫助開始運動。現在她更強壯、更快樂也更有自信。",
+        "time": null
+      },
+      {
+        "en": "The man has a big heart. He's helped people since he was young. His parents taught him to be kind and help others.",
+        "tw": "這個男人非常有愛心，他從小時候就開始幫助別人。他的父母教他要善良並且樂於助人。",
+        "time": null
+      },
+      {
+        "en": "This gym owner shows us exercise does more than make our bodies strong. Exercise also makes our minds strong. He believes anyone can get stronger with a positive attitude and hard work.",
+        "tw": "他也讓我們知道運動不只讓身體強壯，也鍛鍊心智。他覺得任何積極、努力的人都可以更強壯。",
+        "time": null
+      },
+      {
+        "en": "Let's go exercise!",
+        "tw": "我們去運動吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "喜歡助人的健身房老闆，相信運動可以促進身心健康。",
+      "content": [
+        {
+          "text": "1. exercise 做運動\nI hate going to the gym! 我討厭去健身房!\nWhy? Too many people? 為什麼?人太多了嗎?\nNo. Too much hard work.不是，太辛苦了。\nYou don't have to exercise that hard. 你不用那麼努力運動啊。",
+          "time": null
+        },
+        {
+          "text": "2. stronger 更強壯\nI know. But I want to get stronger.我知道，但是我想要強壯一點。",
+          "time": null
+        },
+        {
+          "text": "3. become 變得\nSo did you become stronger? 那你有沒有變強壯呢?\nI think so. I eat and sleep well. 我想有，我吃得好睡得飽。",
+          "time": null
+        },
+        {
+          "text": "4. problem 問題\nThe problem is I often feel very tired. 問題是我常覺得非常疲倦。\nMaybe you should cut back a bit. 也許你應該減少一點運動。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\nexercise做運動\nstronger更強壯\nbecome變得\nproblem問題"
+    },
+    "quiz": [
+      {
+        "question": "1. What does exercise help our bodies become?",
+        "options": [
+          "a. Old",
+          "b. Important",
+          "c. Strong"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Who does the man help for free?",
+        "options": [
+          "a. Healthy young people",
+          "b. Very strong people",
+          "c. People with disabilities"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Who taught the man to be kind and help others?",
+        "options": [
+          "a. A young woman",
+          "b. His parents",
+          "c. A gym owner"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
