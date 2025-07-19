@@ -902,5 +902,111 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240617-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Reduced Inequalities",
+      "Peace, Justice and Strong Institutions",
+      "Character Education",
+      "Life Education",
+      "Multicultural Education",
+      "International Education"
+    ],
+    "title": "The Kid Teacher",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240614NK.mp3",
+    "content": [
+      {
+        "en": "A young girl was inspired by her older brother and sister. They were doing very well in school. She became excited about doing well in school too!",
+        "tw": "有一個小女孩她的哥哥姊姊在學校成績優異，她受到啟發，也很希望在學校有所表現。",
+        "time": null
+      },
+      {
+        "en": "The girl became the youngest student at her university. Her classmates didn't know she was 13. She felt like a secret superhero! She studied hard to be a teacher. She finished university when she was 15!",
+        "tw": "她後來成為大學裡最年輕的學生，同學都沒有發現她才13歲，她覺得自己像個隱藏版的超級英雄。她很用功，希望以後當老師，15歲就從大學畢業。",
+        "time": null
+      },
+      {
+        "en": "But… she wanted to teach. She didn't want her parents to drive her to work. She wanted to drive. But she had to be 16 to get a driver's license.",
+        "tw": "她雖然想當老師，可是又不願意讓父母開車送她，只能等到16歲拿到駕照。",
+        "time": null
+      },
+      {
+        "en": "The girl got her driver's license and started teaching. At 16, she's the youngest teacher in the U.S.!",
+        "tw": "女孩拿到駕照後就開始教書，成為美國最年輕的老師。",
+        "time": null
+      },
+      {
+        "en": "She teaches Grade 3. She makes her classes fun! She asks her students to try new things. She tells them to think about what they can do, not what they can't do.",
+        "tw": "她教小學三年級的學生，她的課很好玩。她也鼓勵學生嘗試新的事物，告訴他們要想想，他們能做什麼，而不是不能做什麼。",
+        "time": null
+      },
+      {
+        "en": "Her students don't think she's a kid. They see her talking with other teachers. They see her driving.",
+        "tw": "她的學生不認為她是個孩子。他們看到她和其他老師聊天。他們看到她開車。",
+        "time": null
+      },
+      {
+        "en": "This young teacher inspires her students. They try to do and be the best they can. Who inspires you?",
+        "tw": "這位年輕的老師激勵著她的學生。他們努力做到最好。誰激勵了你呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這個女孩從讀書到當老師，都是最年輕的。",
+      "content": [
+        {
+          "text": "1. student 學生\nI told my students a joke. 我跟學生講了一個笑話。\nBut they didn't laugh. 可是他們都沒笑。\nWhat was the joke? 什麼笑話?\n\"How does the ocean say hello? It waves.\" 海洋如何說哈囉? 它揮揮手。",
+          "time": null
+        },
+        {
+          "text": "2. teach 教學\nMaybe you need to teach the word \"wave\" first. 也許你得先教「海浪」這個字。\nI think so, too. 我也覺得。",
+          "time": null
+        },
+        {
+          "text": "3. youngest 最年輕\nBut Annie, my youngest student, asked me to explain.\n不過我的年紀最小的學生安妮，有要我解釋。\nShe's only 9. 她只有九歲。",
+          "time": null
+        },
+        {
+          "text": "4. class 班級\nA 9-year-old in your grade-6 class? 九歲上你六年級的班?\nYeah, and she's doing very well. 對，而且她表現很好。",
+          "time": null
+        }
+      ],
+      "postscript": "今天學到的單字你還記得嗎?\nstudent學生\nteach教學\nyoungest最年輕\nclass班級"
+    },
+    "quiz": [
+      {
+        "question": "1. Who inspired the girl?",
+        "options": [
+          "a. Her older brother",
+          "b. Her best friend",
+          "c. A superhero"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How old was the girl when she became a teacher?",
+        "options": [
+          "a. Thirteen",
+          "b. Fifteen",
+          "c. Sixteen"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What does the teacher tell her students to think about?",
+        "options": [
+          "a. What they can do",
+          "b. What they can't do",
+          "c. How to have fun"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
