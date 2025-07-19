@@ -322,5 +322,100 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240306-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Life on Land",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies"
+    ],
+    "title": "A Fight About Pineapple Pizza in Italy",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240305NK.mp3",
+    "content": [
+      {
+        "en": "Something's in the oven. Let's guess what it is. It's round. The bottom is bread. On top, there's cheese, olive oil, basil...",
+        "tw": "烤箱裡是什麼? 我們來猜猜看，圓的，下面是麵包，有起司、橄欖油跟羅勒。",
+        "time": null
+      },
+      {
+        "en": "It's a pizza! What!? There are a lot of pineapple slices on the pizza too!? But there's no tomato sauce or ham! This isn't a Hawaiian pizza. It's a new kind of pineapple pizza!",
+        "tw": "居然還有很多的鳳梨，但是沒有番茄醬跟火腿。這不是夏威夷披薩，這是新的口味。",
+        "time": null
+      },
+      {
+        "en": "Pizza has a long history in Naples, the pizza city of Italy. There are even food laws to keep the traditional ways of making pizzas in Italy. This pineapple pizza isn't a traditional pizza. It's new!",
+        "tw": "義大利拿坡里有長遠的披薩歷史，甚至對披薩的傳統做法有法律規定。但是這個鳳梨披薩是新的披薩。",
+        "time": null
+      },
+      {
+        "en": "People love this new pineapple pizza... or they hate it. Some people like to try new pizzas. They hold a slice of the pizza and say \"Yum!\" Other people want to eat only traditional pizzas. They shake their heads and say \"Nooo!\" Uh oh! There's a food fight! It's on the TV news in Italy.",
+        "tw": "這種新的鳳梨披薩有人喜歡、有人討厭。有人願意嘗試，也有人只想吃傳統披薩。這掀起一場美食大戰，甚至上了義大利電視新聞。",
+        "time": null
+      },
+      {
+        "en": "Eating a pizza is all about sharing the many slices. Let's not fight. An order for the new pineapple pizza is coming right up! Do you want to try a bite?",
+        "tw": "吃披薩就是為了分享許多片。我們別吵架了。新鳳梨披薩的訂單馬上就來了！你想嘗一口嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "披薩口味越來越多元，每個人都有自己喜歡的披薩。",
+      "content": [
+        {
+          "text": "1. make 做\nI'm hungry. How about we make a pizza together? 我餓了。我們一起做個披薩如何?\nGreat idea; I love pizza! 好主意，我愛披薩。",
+          "time": null
+        },
+        {
+          "text": "2. tomato 番茄\nI like olives, seafood and basil. 我喜歡橄欖，海鮮和羅勒。\nAnd I like tomato sauce and lots of cheese. 我喜歡番茄醬，還有很多起司。\nOkay, let's put those on our pizza.好，通通放在披薩上。",
+          "time": null
+        },
+        {
+          "text": "3. share 分享\nLet's make a big one to share it with others. 我們做個大的，好跟別人分享。",
+          "time": null
+        },
+        {
+          "text": "4. oven 烤箱\nYeah, pizza is all about sharing. 對，披薩就是要分享。\nOh, no! I forgot my oven is broken. 糟了，我忘了我的烤箱壞了!\nWhere's the phone number of that pizza place nearby?\n附近那家披薩店的電話是多少?",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\nmake做\ntomato番茄\nshare分享\noven烤箱"
+    },
+    "quiz": [
+      {
+        "question": "1. What pizza topping is on the new pizza?",
+        "options": [
+          "a. Pepperoni",
+          "b. Mushroom",
+          "c. Pineapple"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What is on the TV news in this story?",
+        "options": [
+          "a. Food laws",
+          "b. A food fight",
+          "c. A pizza order"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Which country has the new pizza?",
+        "options": [
+          "a. Iceland",
+          "b. India",
+          "c. Italy"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
