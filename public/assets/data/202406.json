@@ -310,5 +310,112 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240607-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Quality Education",
+      "Reduced Inequalities",
+      "Character Education",
+      "Life Education",
+      "Reading Literacy Education",
+      "Social Studies",
+      "Integrative Activities"
+    ],
+    "title": "Storytelling Bikes in Pakistan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240606NK.mp3",
+    "content": [
+      {
+        "en": "Hey kids, the storyteller is here! It's story time!",
+        "tw": "嗨，小朋友們，說故事時間到囉！",
+        "time": null
+      },
+      {
+        "en": "In Pakistan, many poor kids can't read. Many don't go to school. There's nothing to do. Some kids get into trouble...",
+        "tw": "巴基斯坦很多家境貧窮的小朋友不會認字，也不去學校。平常沒有事情可以做，有一些小朋友就會闖禍。",
+        "time": null
+      },
+      {
+        "en": "In one city, some people want these kids to love reading.",
+        "tw": "其中有一個城市，有一群人想要讓小朋友愛上閱讀。",
+        "time": null
+      },
+      {
+        "en": "These people wrote fun picture books. They also got some old ice cream bikes. These bikes have a big, strong box to hold ice cream. But now they hold lots of books. The bikes are cute, colorful little libraries!",
+        "tw": "這些人寫了有趣的繪本，還找了用來賣冰淇淋的腳踏車，這種車都有堅固的大箱子可以裝很多書，變成小型圖書館。",
+        "time": null
+      },
+      {
+        "en": "Storytellers ride the bikes. They go to poor parts of the city. They find a good place for reading. They put colorful little mats on the ground. They put orange safety cones around the mats.",
+        "tw": "說書人騎著單車，到貧窮的區域，找個好地方，在地上鋪小地毯，周圍放橘色的三角錐，開始說故事。",
+        "time": null
+      },
+      {
+        "en": "Every time, lots of kids come. They sit on the mats. The storyteller reads. He holds the book high. The kids listen to every word! They look at every picture! Their eyes shine! They smile and laugh!",
+        "tw": "每次都有很多小朋友過來坐在地毯上聽故事，說故事的人都會把書舉高，讓小朋友看到圖片。小朋友的眼神都閃閃發光，也笑得很開心。",
+        "time": null
+      },
+      {
+        "en": "Some of these kids go to school now. They want to learn how to read. Storytelling can change lives!",
+        "tw": "這些孩子中，有些現在會去上學了。他們想學習如何閱讀。說故事可以改變人生！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "巴基斯坦有一群人，想出辦法鼓勵小孩閱讀。",
+      "content": [
+        {
+          "text": "1. poor 貧窮的\nOnce upon a time, there was a poor boy… 從前有一個窮小子…\nWait, are you telling me a story? 等一等，你在跟我講故事嗎?\nYeah, this is a story I wrote. 是啊，這是我自己寫的故事。",
+          "time": null
+        },
+        {
+          "text": "2. listen to 聆聽\nDo I have to listen to it? 我一定得聽嗎?\nDo you have anything better to do? 你有更好的事要做嗎?\nWell, not really.倒也沒有。\nIn that case, please let me go on. 既然那樣，拜託讓我繼續。",
+          "time": null
+        },
+        {
+          "text": "3. read 閱讀\nBut I prefer reading it myself. 但是我比較想要自己看。\nIt's not done yet. 我還沒寫完。",
+          "time": null
+        },
+        {
+          "text": "4. word 字\nHow many words have you got? 你寫了幾個字了?\nAbout 20. 大概20個。\nThat's just 3 or 4 sentences! 那才三四個句子。\nLike I said, it's not done. 我說了還沒寫完嘛。",
+          "time": null
+        }
+      ],
+      "postscript": "請注意，讀單字時間。\npoor貧窮的\nlisten to聆聽\nread閱讀\nword字"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the ice cream bikes become?",
+        "options": [
+          "a. Little libraries",
+          "b. Small schools",
+          "c. Strong boxes"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What's in the big boxes now?",
+        "options": [
+          "a. Ice cream",
+          "b. Books",
+          "c. Storytellers"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why do some of these kids go to school now?",
+        "options": [
+          "a. To ride a bike",
+          "b. To get orange cones",
+          "c. To learn how to read"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
