@@ -1642,5 +1642,102 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241025-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Finding Formosan Black Bears",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241024NK.mp3",
+    "content": [
+      {
+        "en": "Formosan black bears are Taiwan's bear. They have a white \"V\" on their chests. We see cute Formosan black bear toys and pictures everywhere. But there are few real bears. There are only 200 to 600 of them.",
+        "tw": "台灣黑熊的胸前有白色的 V 字形，非常可愛。我們常看到牠們的照片或玩具，但真正的台灣黑熊非常少，只有 200 到 600 隻。",
+        "time": null
+      },
+      {
+        "en": "These bears are an umbrella species. Umbrella species help keep other wild animals living in the same place safe. So these bears are very important.",
+        "tw": "台灣黑熊是保護傘動物，意思就是保護牠們的同時，也能保護其它和牠生活相關的野生動物，所以台灣黑熊很重要。",
+        "time": null
+      },
+      {
+        "en": "Taiwan wants to know where the bears are. It gives people money for taking pictures of them.",
+        "tw": "政府想知道這些黑熊住在哪裡，所以會付錢給拍到黑熊照片的人。",
+        "time": null
+      },
+      {
+        "en": "This summer, the Oponoho Indigenous community filmed a Formosan black bear. It was the first time one was seen in Kaohsiung this year. Taiwan gave the Oponoho fifty thousand dollars!",
+        "tw": "今年夏天，高雄的 Oponoho 原住民部落拍到了黑熊，這是今年第一次在高雄看到台灣黑熊，這個部落獲得五萬元!",
+        "time": null
+      },
+      {
+        "en": "The Oponoho community helps keep the bear safe. It watches the bear's home with cameras. It looks for bear traps, hunters, and other things that can hurt bears.",
+        "tw": "Oponoho 部落協助保護黑熊的安全，他們用攝影機觀看黑熊的家，並且尋找獵人，捕熊夾、或其他可能傷害黑熊的東西。",
+        "time": null
+      },
+      {
+        "en": "Taiwan wants more people to help keep Formosan black bears and other wild animals safe. They keep our environment healthy!",
+        "tw": "台灣希望更多人協助保護台灣黑熊和其他野生動物的安全。牠們讓我們的環境保持健康！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台灣黑熊是保育類動物，數量很少。",
+      "content": [
+        {
+          "text": "1. take pictures 拍照。 Do you see what I see? 你看到我看到的東西嗎? Yeah, it's a bear! 看到，是一頭熊! My God! 我的天哪! Shh… Let me take some pictures. 讓我拍幾張照片。 Don't scare it away.別把牠嚇走。",
+          "time": null
+        },
+        {
+          "text": "2. film 拍影片。 Me scare it away?! 我把牠嚇走? I'm scared! 我都嚇死了! Shh… Now let me film it. 現在我要拍影片。 It's moving around. 牠在動來動去。 Are you done? Can we go now? 你好了嗎? 我們可以走了嗎?",
+          "time": null
+        },
+        {
+          "text": "3. cute 可愛的。 Don't you think it's a cute bear? 你不覺得那頭熊好可愛? No, it's a wild animal! 不覺得，牠是野生動物! I just want to stay safe. 我只想要安全。",
+          "time": null
+        },
+        {
+          "text": "4. safe 安全的。 You ARE safe. It's not even near us. 你是很安全。牠甚至離我們不近。",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字? take pictures拍照 film拍影片 cute可愛的 safe安全的"
+    },
+    "quiz": [
+      {
+        "question": "1. What does the Formosan black bear have on its chest?",
+        "options": [
+          "a. A brown circle",
+          "b. A red line",
+          "c. A white \"V\""
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where was a Formosan black bear seen?",
+        "options": [
+          "a. Kenting",
+          "b. Kaohsiung",
+          "c. Keelung"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How does the Oponoho community help Formosan black bears?",
+        "options": [
+          "a. It looks for bear traps.",
+          "b. It gives bears food.",
+          "c. It looks for cameras."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
