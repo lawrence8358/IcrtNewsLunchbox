@@ -2020,5 +2020,103 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240930-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Clean Water and Sanitation",
+      "Health and Physical Education",
+      "Natural Sciences"
+    ],
+    "title": "Taiwan Will Get Better Water",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240927NK.mp3",
+    "content": [
+      {
+        "en": "Ahhhh! Water is soooo good. Safe drinking water helps us be healthy. Drinking water comes out of our faucets at home.",
+        "tw": "水真好喝! 安全的飲用水能讓我們保持身體健康。",
+        "time": null
+      },
+      {
+        "en": "Taiwan's drinking water is good. But it is going to get better! Taiwan is making our water safer to drink. How? It is going to take out one kind of chemical.",
+        "tw": "台灣的水的品質將要變得更好，怎麼做呢? 未來將要把水中一種化學物質拿掉。",
+        "time": null
+      },
+      {
+        "en": "Some chemicals clean our water. They kill bacteria and viruses. They stop us from getting sick.",
+        "tw": "好的化學物質會殺掉水中的細菌跟病毒，讓我們不會生病。",
+        "time": null
+      },
+      {
+        "en": "Other chemicals in our water are not good for us. Scientists say one kind of chemical can make us sick. It is called PFAS. PFAS chemicals are in many, many things we use. But some PFAS get into drinking water.",
+        "tw": "但是，水裡也可能會有讓我們生病的化學物質PFAS，它存在於許多種日用品中。",
+        "time": null
+      },
+      {
+        "en": "Taiwan makes rules about the chemicals in drinking water. It tested the water from fifty places. It found too much PFAS in some water. Now Taiwan is making a new rule. Drinking water will have less PFAS!",
+        "tw": "政府在檢查五十個地方的飲用水後，發現PFAS含量太高，因此制定新的規定，飲用水中不可以含有太多 PFAS。",
+        "time": null
+      },
+      {
+        "en": "We need safe drinking water to be healthy. It's great that it will be safer for us! Cheers!",
+        "tw": "我們需要安全的飲用水來保持健康。水變得更安全對我們來說真是太好了！乾杯！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "有的化學物質會對人體造成傷害，必須有所規範。",
+      "content": [
+        {
+          "text": "1. safe 安全的。 You drink tap water? 你喝自來水? Yeah, anything wrong? 是啊，有什麼不對嗎? There are bacteria in the water! 水裡有細菌! You never know if it's safe. 你根本不知道它安不安全。",
+          "time": null
+        },
+        {
+          "text": "2. sick 生病的。 Don't worry. It's safe. 別擔心，它很安全。 I often drink it. It's never made me sick.我常喝，從來沒有生病過。",
+          "time": null
+        },
+        {
+          "text": "3. drinking water 飲用水。 Still, it's not a good idea. 還是不好。 Drinking water should be very clean. 飲用水應該要很乾淨。",
+          "time": null
+        },
+        {
+          "text": "4. kill 殺死。 I don't have time to boil it every day. 我可沒時間每天燒開水。 Use an electric water boiler. 用電熱水瓶啊。 It'll do all the work and kill the bacteria.它做所有的工作，殺死細菌.",
+          "time": null
+        }
+      ],
+      "postscript": "Is the water you drink safe? safe安全的 sick生病的 drinking water飲用水 kill殺死"
+    },
+    "quiz": [
+      {
+        "question": "1. How will Taiwan's drinking water be better?",
+        "options": [
+          "a. It will be safer.",
+          "b. It will taste better.",
+          "c. It will have more PFAS."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What do scientists say about PFAS?",
+        "options": [
+          "a. It tastes good.",
+          "b. It can make us sick.",
+          "c. It cleans water."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many water tests did Taiwan do?",
+        "options": [
+          "a. Five",
+          "b. Fifteen",
+          "c. Fifty"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
