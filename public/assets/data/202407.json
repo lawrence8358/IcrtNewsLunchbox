@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20240701-01",
     "type": "國小",
@@ -92,6 +92,103 @@
         ],
         "time": null,
         "answer": "c"
+      }
+    ]
+  },
+  {
+    "id": "20240703-01",
+    "type": "國小",
+    "tag": [
+      "Sustainable Cities and Communities",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Earth's Hot, Dry Twin",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240702NK.mp3",
+    "content": [
+      {
+        "en": "Four and a half billion years ago, Venus and Earth were born together. They looked almost the same. They both had blue oceans and green mountains. They were twin planets!",
+        "tw": "45億年前，金星跟地球一起誕生。兩個星球看起來幾乎一樣，都有藍色的大海和綠色的山，簡直是雙胞胎!",
+        "time": null
+      },
+      {
+        "en": "Earth is the right distance from the sun. Earth's oceans are full of water. Earth is warm but not too hot. The air is cool.",
+        "tw": "地球的海洋充滿水分，又離太陽的距離很剛好，讓地球很溫暖又不會太熱，空氣也很涼爽。",
+        "time": null
+      },
+      {
+        "en": "But Venus is too close to the sun. The sun's heat made Venus' oceans lose water.",
+        "tw": "但是金星離太陽太近了，金星的海洋都蒸發了。",
+        "time": null
+      },
+      {
+        "en": "Venus has a lot of volcanoes. Lots of bad gases came out of them. The gases made the air thick. The thick air kept more heat in. Venus became the hottest planet around the sun!",
+        "tw": "金星又有很多火山釋放大量的氣體，讓大氣層變得很厚，整個星球又更熱，成為太陽周圍最熱的行星!",
+        "time": null
+      },
+      {
+        "en": "Water is made from hydrogen and oxygen. In the thick air around Venus, hydrogen and oxygen are cut apart. Hydrogen goes into space. With no hydrogen, Venus cannot have more water. Now it's Earth's hot, dry twin.",
+        "tw": "水是由氫氣跟氧氣組成。金星的大氣層讓氫氣釋放到太空中。沒有氫氣，金星就沒有水，就變成現在地球又熱又乾的雙胞胎。",
+        "time": null
+      },
+      {
+        "en": "Scientists study Venus to learn how to protect the air and oceans on Earth. The story of Venus and Earth teaches us to care for our planet.",
+        "tw": "科學家研究金星，是為了學習如何保護地球的空氣和海洋。金星和地球的故事教導我們要關心我們的星球。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "金星誕生的時候跟地球很像，後來的命運卻大不相同。",
+      "content": [
+        {
+          "text": "1. blue 藍色、green 綠色\nLook at the photos from the Space Station.你看從太空站拍的照片。\nAll those blue oceans and green forests. 藍海跟綠色森林。\nYeah, so pretty! 對啊，真美!",
+          "time": null
+        },
+        {
+          "text": "2. hottest 最熱的\nBut it's getting hotter, don't you think? 但是越來越熱，你不覺得嗎?\nIt sure is.確實是。\nI bet this will be the hottest summer ever. 我賭這會是史上最熱的夏天。",
+          "time": null
+        },
+        {
+          "text": "3. sun 太陽\nI wonder what's wrong with the sun. 真想知道太陽怎麼了。\nThe sun is not the problem! 太陽不是問題!\nIt's us humans on planet Earth. 是我們地球人有問題。",
+          "time": null
+        },
+        {
+          "text": "4. Heat 熱度\nActually I don't mind the heat. 其實我不在意熱。\nI love ice cream and staying cool in the swimming pool.\n我喜歡冰淇淋，也愛在游泳池裡保持清涼。",
+          "time": null
+        }
+      ],
+      "postscript": "你記得今天的單字嗎?\nblue藍色、green綠色\nhottest最熱的\nsun太陽\nheat熱度"
+    },
+    "quiz": [
+      {
+        "question": "1. What did Venus lose because of the sun?",
+        "options": [
+          "a. Heat",
+          "b. Water",
+          "c. Volcanoes"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why can't Venus have more water?",
+        "options": [
+          "a. There's no oxygen.",
+          "b. There's no hydrogen.",
+          "c. There's no air."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why are scientists studying Venus?",
+        "options": [
+          "a. To protect Earth",
+          "b. To make water on Venus",
+          "c. To make Earth's air thick"
+        ],
+        "time": null,
+        "answer": "a"
       }
     ]
   }
