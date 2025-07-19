@@ -1067,5 +1067,96 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240416-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Technology Education",
+      "Character Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Technology"
+    ],
+    "title": "No Phones in England's Schools",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240415NK.mp3",
+    "content": [
+      {
+        "en": "Are mobile phones the most important thing kids have?",
+        "tw": "手機對小朋友來說很重要嗎?"
+      },
+      {
+        "en": "England's government doesn't think they are. With phones at school, many kids can't study well. They don't talk very much to others. They sit and use their phones.",
+        "tw": "英國很多小孩帶手機上學，讓他們沒辦法專心上課。他們也不怎麼一起聊天，都坐著滑手機。"
+      },
+      {
+        "en": "So England's government will have a new rule: kids cannot use phones at school! They cannot use phones in class! They cannot use them during breaks! This means no phones between classes and no phones at lunchtime!",
+        "tw": "英國政府有了新規定，小朋友不可以在學校用手機，上課、下課跟吃飯時間都不可以用。"
+      },
+      {
+        "en": "Schools can decide what to do with phones. They can tell kids to leave their phones at home. Or they can take kids' phones every day. Or they can let kids have their phones. But kids cannot use them. And they cannot let their phones ring!",
+        "tw": "學校可以決定怎麼處理手機。他們可以沒收，也可以要求學生把手機留在家裡。有的學校讓學生留著手機，但是不可以用，手機也要靜音。"
+      },
+      {
+        "en": "Can this new rule help kids study better? Some teachers say no. Many schools have rules about phones now. And teachers say kids use their phones when they are not at school. Soon kids in England won't be using their phones at school. What do you think? Can this rule help you study better?",
+        "tw": "現在很多學校都有手機規定。這個新規定可以讓兒童更認真上學嗎? 有一些老師不這麼認為，覺得小朋友還是會在學校以外的地方用手機。很快地，英國的小朋友將不會在學校使用手機了。你怎麼看呢？這個規定能幫助你學習得更好嗎？"
+      }
+    ],
+    "vocabulary": {
+      "preface": "英國的學校對於手機有新的規定。",
+      "content": [
+        {
+          "text": "1. use 使用\nMs. Lee, can I use my cell phone now? 李老師，現在可以用手機嗎?",
+          "time": null
+        },
+        {
+          "text": "2. well 好好的\nBecause my mom is not feeling well. 因為我媽媽身體不舒服。\nI want to check on her.我想要問問看她的情況。",
+          "time": null
+        },
+        {
+          "text": "3. tell 告訴\nOkay, tell me how she is after you call her.\n好，你打過電話之後告訴我她怎麼樣。\nMs. Lee, my mom said she's much better. 老師，我媽媽說她好很多了。\nThat's good news! 那是好消息呢!",
+          "time": null
+        },
+        {
+          "text": "4. cannot 不能\nBut she also said she cannot go to work tomorrow.\n但是她也說她明天不能上班。Can I stay at home too? 我也可以待在家裡嗎?",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字都很簡單好記。\nuse使用\nwell好好的\ntell告訴\ncannot不能"
+    },
+    "quiz": [
+      {
+        "question": "1. Where can't kids use phones at school?",
+        "options": [
+          "a. England",
+          "b. Ireland",
+          "c. Scotland"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What happens when kids use phones at school?",
+        "options": [
+          "a. They can't study well.",
+          "b. They go home.",
+          "c. They eat lunch."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What can schools tell kids to do with their phones?",
+        "options": [
+          "a. Throw them away",
+          "b. Sell them",
+          "c. Leave them at home"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
