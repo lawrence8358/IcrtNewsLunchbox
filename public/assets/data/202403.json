@@ -633,5 +633,104 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240311-01",
+    "type": "國小",
+    "tag": [
+      "Clean Water and Sanitation",
+      "Sustainable Cities and Communities",
+      "Climate Action",
+      "Life on Land",
+      "Life Below Water",
+      "Marine Education",
+      "Environmental Education",
+      "Outdoor Education",
+      "International Education",
+      "Natural Sciences"
+    ],
+    "title": "Check-Ins at the Seahorse Hotel",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240308NK.mp3",
+    "content": [
+      {
+        "en": "A special fish called a seahorse lives in the ocean. Its head looks like a horse's head. But it's much smaller than a horse!",
+        "tw": "住在海裡的海馬，頭都看起來像馬，但比馬小非常多。",
+        "time": null
+      },
+      {
+        "en": "Seahorses live under rocks and inside corals. But sometimes boats bump into their homes. Sometimes big storms blow their homes away! Then hungry ocean animals can find them.",
+        "tw": "海馬住在石頭底下或珊瑚礁中。但有時候船隻會撞到牠們的家，暴風雨也會把家吹走，其他飢餓的海洋動物就很容易找到牠們。",
+        "time": null
+      },
+      {
+        "en": "An aquarium is a zoo for fish. In Australia, an aquarium and a group of scientists both take care of baby seahorses. Later, they take them to the ocean. The scientists make seahorse hotels. These hotels are old nets and cages. Corals and ocean plants grow on them.",
+        "tw": "澳洲有一間水族館跟一群科學家照顧海馬寶寶，再把牠們放回大海。科學家利用舊漁網跟籠子讓珊瑚跟海生植物生長，打造了海馬旅館。",
+        "time": null
+      },
+      {
+        "en": "These hotels are safe from boats and storms. They keep those hungry ocean animals out! And they help more seahorses live and have babies in the ocean. People swimming near these hotels can see these fish now!",
+        "tw": "這些旅館不會被船或暴風雨破壞，也防止海馬被其他的動物吃掉，讓海馬可以生存繁衍後代。",
+        "time": null
+      },
+      {
+        "en": "Aquariums, scientists, and seahorse hotels are helping these special fish have a new start in Australia! Go, fish!",
+        "tw": "水族館、科學家和海馬旅館正在幫助這些特別的魚類在澳洲重新開始！加油，魚兒們！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家做了海底旅館給海馬住。",
+      "content": [
+        {
+          "text": "1. aquarium 水族館 I love zoos, but I love aquariums more. 我喜歡動物園，不過更喜歡水族館。Because they are more colorful? 因為顏色比較繽紛? Because I don't need to walk a lot in an aquarium. 因為水族館裡不需要走很多路。",
+          "time": null
+        },
+        {
+          "text": "2. animal 動物 That's true. And ocean animals are so cute! 那是真的。而且海洋動物好可愛! Yeah, all those tropical fish, oysters, shrimp…對啊，那些熱帶魚，牡蠣，蝦子...",
+          "time": null
+        },
+        {
+          "text": "3. take 帶領 I'm sure there are no oysters in an aquarium. 我確定水族館裡沒有牡蠣。There are. Let me take you to Keelung tomorrow. 有的，我明天帶你去基隆看。",
+          "time": null
+        },
+        {
+          "text": "4. hungry 飢餓的 The truth is I'm hungry for seafood. 其實我是很想吃海鮮。Me too! 我也是!",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我一起讀單字。aquarium水族館animal動物take帶領hungry飢餓的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do seahorses live?",
+        "options": [
+          "a. On top of corals",
+          "b. Inside corals",
+          "c. Outside corals"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What are seahorse hotels made from?",
+        "options": [
+          "a. Nets",
+          "b. Plastic",
+          "c. Rocks"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What is true about seahorses?",
+        "options": [
+          "a. They're fish.",
+          "b. They're big.",
+          "c. They're horses."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
