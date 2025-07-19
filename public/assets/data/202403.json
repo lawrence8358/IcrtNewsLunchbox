@@ -1539,5 +1539,122 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240322-01",
+    "type": "國小",
+    "tag": [
+      "No Poverty",
+      "Zero Hunger",
+      "Good Health and Well-Being",
+      "Quality Education",
+      "Reduced Inequalities",
+      "Responsible Consumption and Production",
+      "Life on Land",
+      "Partnerships for the Goals",
+      "Human Rights Education",
+      "Family Education",
+      "Character Education",
+      "Life Education",
+      "Multicultural Education",
+      "Reading Literacy Education",
+      "International Education",
+      "Social Studies",
+      "Health and Physical Education",
+      "Integrative Activities"
+    ],
+    "title": "Helping Kids Sleep Better",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240321NK.mp3",
+    "content": [
+      {
+        "en": "Sleep is important. People need comfortable beds to sleep well. But some people don't have beds. They don't sleep well.",
+        "tw": "睡眠很重要。人們需要舒服的床才能睡得好。",
+        "time": null
+      },
+      {
+        "en": "Two or three percent of kids in the USA don't have beds. Are you shocked?",
+        "tw": "美國有百分之二到百分之三的兒童沒有床，是不是讓人嚇一跳!",
+        "time": null
+      },
+      {
+        "en": "One man in the USA was very shocked. Sleep helps kids do well in school. He wanted to help these kids sleep well. First, he built a bed for one kid. Then he asked a good friend to help him. They built more beds for more kids.",
+        "tw": "有個美國人非常驚訝，他想要幫助兒童睡好，讓他們在學校有更好的表現。所以他跟朋友一起為兒童製作床。",
+        "time": null
+      },
+      {
+        "en": "The man started a group to make beds. Families can help build their own beds. Sometimes young kids help build the beds.",
+        "tw": "他也成立團隊，孩子們的家人可以來做自己的床。有時候也有兒童會來幫忙。",
+        "time": null
+      },
+      {
+        "en": "The group has made beds for more than one hundred forty thousand families. That's a lot of beds! But many more kids need beds. There's a lot of work to do!",
+        "tw": "這個團隊幫助14萬個家庭，但是仍然有很多兒童需要床。",
+        "time": null
+      },
+      {
+        "en": "Why does this man help kids have beds? He doesn't do it to make money. It's because he likes to help people. This makes him feel good.",
+        "tw": "為什麼這個人要幫助小孩有床呢?他並不是為了賺錢，而是因為他喜歡伸出援手，這樣讓他覺得很開心。",
+        "time": null
+      },
+      {
+        "en": "This man helps kids have beds. Now they can sleep well! Sweet dreams, everyone!",
+        "tw": "這個人幫助孩子們擁有床。現在他們可以睡個好覺了！祝大家有個美夢！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "故事裡這個人，希望每個小孩都可以躺在自己的床上睡覺。",
+      "content": [
+        {
+          "text": "1. feel 感覺\nYou look a bit pale. 你看起來有點蒼白。\nDon't feel well? 不大舒服嗎?\nNo, didn't sleep well. 不是，沒睡好。",
+          "time": null
+        },
+        {
+          "text": "2. family 家人\nYesterday my sister and her family came to visit.\n昨天我妹妹和她的家人來看我。 I love my nieces, but they wanted to sleep with\nme! 我很愛我的外甥女，但是她們要跟我一起睡!",
+          "time": null
+        },
+        {
+          "text": "3. ask 請求\nYou could ask them to sleep on the sofa.你可以要她們睡沙發啊。\nWell, I gave them my bed. 結果我給她們睡床。\nI slept on the floor. 我睡地上。\nThat's tough! 這有點麻煩。",
+          "time": null
+        },
+        {
+          "text": "4. thousand 千\nAnd then they asked me to tell them stories. 然後她們要我講故事。\nFrom One Thousand and One Nights. 一千零一夜的故事!\nThat's a lot of stories! 那是很多故事呢!\nExactly. 就是啊。",
+          "time": null
+        }
+      ],
+      "postscript": "今天這些單字很好記喔。\nfeel感覺\nfamily家人\nask請求\nthousand千"
+    },
+    "quiz": [
+      {
+        "question": "1. What percentage of kids in the USA don't have beds?",
+        "options": [
+          "a. 2 or 3",
+          "b. 12 or 13",
+          "c. 20 or 30"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Who did the man first ask to help him?",
+        "options": [
+          "a. A group",
+          "b. A family",
+          "c. A friend"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Why does the man make beds for kids?",
+        "options": [
+          "a. To be shocked",
+          "b. To help people",
+          "c. To make money"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
