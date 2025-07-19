@@ -1135,5 +1135,108 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240521-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education",
+      "International Education",
+      "Arts",
+      "Social Studies"
+    ],
+    "title": "Art for the Paris Olympics",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240520NK.mp3",
+    "content": [
+      {
+        "en": "Run! Jump! Throw! Do these things every day! Do them for four to eight years! That's how long athletes take to get ready for the Olympics. That's a lot of hard work!",
+        "tw": "跑、跳、丟!每天都做這些事，做 個四到八年看看!運動員為了奧運就要準備這麼長的時間，需要很多努力。",
+        "time": null
+      },
+      {
+        "en": "France asked a famous artist and graphic novelist to make an artwork about the Paris Olympics. It took three years to make the artwork! That's almost as many years as some athletes take to get ready for the Olympics! It was a lot of hard work!",
+        "tw": "法國邀請知名的藝術家跟漫畫家製作和巴黎奧運相關的藝術作品。他們花了三年的時間才完成，將近是運動員準備奧運的時間。",
+        "time": null
+      },
+      {
+        "en": "The colorful artwork has three panels. They are like panels in a graphic novel! The panels show athletes playing sports by the Eiffel Tower.",
+        "tw": "這個色彩豐富的作品分別掛在三個看板上，就像是漫畫裡的分格。作品呈現運動員在艾菲爾鐵塔旁運動。",
+        "time": null
+      },
+      {
+        "en": "On the middle panel, a man and woman are running to each other! They're touching the Olympic flame!",
+        "tw": "中間的看板是一男一女朝向對方跑去，他們的手觸碰奧運聖火。",
+        "time": null
+      },
+      {
+        "en": "On the left panel, a woman is throwing a javelin! The moon and stars are shining!",
+        "tw": "左邊是有一個丟標槍的女子，作品上方的星星跟月亮閃閃發光。",
+        "time": null
+      },
+      {
+        "en": "On the right panel, a skateboarder is doing a trick! A breakdancer is breaking! And a big yellow sun is shining on the Paris skyline!",
+        "tw": "右邊的看板有個滑板玩家在表演特技，也有個霹靂舞選手在跳舞，還有一顆太陽在天際照耀巴黎。",
+        "time": null
+      },
+      {
+        "en": "In this artwork, we can see the joy that hard work can bring. Let's watch the Paris Olympics!",
+        "tw": "在這件藝術作品中，我們可以看到努力所帶來的喜悅。讓我們一起觀看巴黎奧運吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "巴黎奧運這幅藝術作品，結合了運動和美感。",
+      "content": [
+        {
+          "text": "Olympics 奧林匹克運動會 I'll be very busy this summer. 我這個夏天會很忙。 Oh, with your work? 忙著工作嗎? No. I'll be watching the Olympics every day. 不是，我要每天看奧運。",
+          "time": null
+        },
+        {
+          "text": "sports 運動 Wow! So you're going to Paris!? 哇，所有你要去巴黎!? I wish. 我真希望是。 No, I'll just watch it on TV. 不，我只會看電視。 I didn't know you're a sports fan. 我不知道你是運動迷。",
+          "time": null
+        },
+        {
+          "text": "run 奔跑 You didn't know I can run, swim, breakdance, and box? 你不知道我會跑會游泳，跳霹靂舞跟拳擊? That's real news to me! 這可真是新聞了。",
+          "time": null
+        },
+        {
+          "text": "athlete 運動員 Oh yes, I'm quite an athlete. 沒錯，我可是厲害的運動員。 You're full of hot air! 你是吹牛大王!",
+          "time": null
+        }
+      ],
+      "postscript": "Will you watch the Olympics in July? Olympics 奧林匹克運動會 sports運動 run奔跑 athlete運動員"
+    },
+    "quiz": [
+      {
+        "question": "How many years do athletes take to get ready for the Olympics?",
+        "options": [
+          "a. 1",
+          "b. 2 to 3",
+          "c. 4 to 8"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "Where will the Olympics be?",
+        "options": [
+          "a. Paris",
+          "b. London",
+          "c. Beijing"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "What is on the middle panel?",
+        "options": [
+          "a. The Olympic flame",
+          "b. A graphic novel",
+          "c. A big sun"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
