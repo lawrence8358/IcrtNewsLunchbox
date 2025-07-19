@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20241001-01",
     "type": "國高中",
@@ -98,6 +98,132 @@
         ],
         "time": null,
         "answer": "c"
+      }
+    ]
+  },
+  {
+    "id": "20241003-01",
+    "type": "國小",
+    "tag": [
+      "Law-related Education",
+      "Social Studies"
+    ],
+    "title": "Cats Rule in Taiwan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241002NK.mp3",
+    "content": [
+      {
+        "en": "Many people in Taiwan have dogs. And many people have cats.",
+        "tw": "許多台灣人養狗。也有許多人養貓。",
+        "time": null
+      },
+      {
+        "en": "Do you think there are more pet dogs in Taiwan? Or are there more pet cats?",
+        "tw": "很多台灣人都有養寵物，你覺得養小狗的人比較多，還是養貓咪的人?",
+        "time": null
+      },
+      {
+        "en": "Think about that for a few seconds. Time's up!",
+        "tw": "想幾秒鐘。時間到！",
+        "time": null
+      },
+      {
+        "en": "Did you say dogs? You are right! There are more than one million pet dogs in Taiwan.",
+        "tw": "給你幾秒猜猜看，你的答案是小狗嗎 ? 那你猜對了 ! 台灣有超過百萬隻寵物狗。",
+        "time": null
+      },
+      {
+        "en": "But there are also more than a million pet cats, too. Are you surprised there are so many cats here?",
+        "tw": "但台灣也有超過百萬隻寵物貓。你驚訝這裡有這麼多貓嗎？",
+        "time": null
+      },
+      {
+        "en": "There were less than a million cats in Taiwan three years ago.",
+        "tw": "但也有超過百萬隻寵物貓咪，你很驚訝嗎？ 三年前，貓咪還不到100萬隻。",
+        "time": null
+      },
+      {
+        "en": "There were almost 900,000 pet cats then.",
+        "tw": "那時有將近90萬隻寵物貓。",
+        "time": null
+      },
+      {
+        "en": "Last year, there were more than 1,300,000! Wow! That's a LOT more cats in a short time!",
+        "tw": "那時候，台灣有差不多90萬隻貓咪，但去年，增加到130萬隻。短短時間多了這麼多貓咪!",
+        "time": null
+      },
+      {
+        "en": "Now there is a new rule about pet cats in Taiwan.",
+        "tw": "現在台灣對於寵物貓有了新規定。",
+        "time": null
+      },
+      {
+        "en": "People who have cats must register them. To register, cats must get a microchip.",
+        "tw": "養貓的人必須為牠們登記。要登記，貓咪必須植入晶片。",
+        "time": null
+      },
+      {
+        "en": "People who don't register their cats might have to pay from three thousand to fifteen thousand Taiwan dollars!",
+        "tw": "台灣有一個新規定，養貓咪需要先植入一個小小的晶片，然後去登記，沒有登記的人可能會被罰3千到1萬5千台幣!",
+        "time": null
+      },
+      {
+        "en": "Does your family have a cat? Make sure it is registered and has a microchip! Tell your family!",
+        "tw": "你的家人有養貓嗎？請確保牠已登記並植入晶片！告訴你的家人！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "養寵物貓狗很流行，但是要遵守規定。",
+      "content": [
+        {
+          "text": "1. there are 有。 One, two, three… five cats on this street. 一,二,三...五隻貓在這條街上。There are five cats on just one short street!一條短短的街就有五隻貓!",
+          "time": null
+        },
+        {
+          "text": "2. surprised 驚訝的。 Why are you so surprised? 你為什麼這麼驚訝? Cats love this street. 貓咪就喜歡這條街。 No, someone must be feeding them. 不，一定有人在餵牠們。 Some people don't like cats around their house.有的人不喜歡屋子附近有貓。",
+          "time": null
+        },
+        {
+          "text": "3. have to 必須。 But we have to help the kittens. 但是我們得幫忙小貓。 We need to help find homes for them.我們需要替他們找個家。",
+          "time": null
+        },
+        {
+          "text": "4. microchip 晶片。 When they have homes, they can get microchips. 牠們有了自己家就可以植入晶片。 And they'll have a safe place to live.也有安全的地方住。",
+          "time": null
+        }
+      ],
+      "postscript": "我們今天學到哪些用法? there are有 surprised驚訝的 have to必須 microchip晶片"
+    },
+    "quiz": [
+      {
+        "question": "1. How many pet dogs are there in Taiwan?",
+        "options": [
+          "a. Nine hundred thousand",
+          "b. One million",
+          "c. More than one million"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Which pets have to be registered now?",
+        "options": [
+          "a. Bats",
+          "b. Rats",
+          "c. Cats"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How do people register their pet?",
+        "options": [
+          "a. Get a microchip for it.",
+          "b. Give it a nice name.",
+          "c. Pay $15,000 Taiwan dollars."
+        ],
+        "time": null,
+        "answer": "a"
       }
     ]
   }
