@@ -931,5 +931,110 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241015-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education"
+    ],
+    "title": "Going for Go",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241014NK.mp3",
+    "content": [
+      {
+        "en": "People have been playing Go for 4,000 years. In one story, a Chinese emperor made the game for his son. He wanted him to become a good leader.",
+        "tw": "圍棋已經有 4 千年的歷史，傳說中，一位中國的皇帝，希望他的兒子能成為好的領袖，因此發明了圍棋。",
+        "time": null
+      },
+      {
+        "en": "Now, older people in China and Japan like Go. Younger people in Taiwan and South Korea like Go.",
+        "tw": "如今中國跟日本的老一輩人喜歡下棋，台灣跟南韓的年輕族群也喜歡。",
+        "time": null
+      },
+      {
+        "en": "Go is like chess. Winning these games takes time, thinking, and skill …",
+        "tw": "圍棋跟西洋棋很像，都需要花時間思考跟技巧，才能贏得比賽。",
+        "time": null
+      },
+      {
+        "en": "Go has two players. One player has black stones. The other has white stones.",
+        "tw": "圍棋需要兩個玩家，一個下黑棋，一個下白棋。",
+        "time": null
+      },
+      {
+        "en": "Go is played on a board. Lines go across the board. Lines go down it too. The players take turns. They put a stone where two lines touch. The player who gets the biggest part of the board wins!",
+        "tw": "圍棋要在圍棋板上玩，板上有格子，玩家們在交叉的點上放自己的棋子。誰能佔領最大的區域，誰就贏得比賽。",
+        "time": null
+      },
+      {
+        "en": "This year, a 22-year-old player from Taiwan surprised everyone. Lai Jun-fu played in a big tournament in South Korea. He was number 59 in the world.",
+        "tw": "今年，台灣的選手讓大家很驚訝。22 歲的賴均輔到南韓參加大型的比賽，他原本的世界排名是 59 。",
+        "time": null
+      },
+      {
+        "en": "Lai played against the number one player. And Lai won... by half a point! He's the first Taiwanese to win this tournament!",
+        "tw": "賴均輔贏了最厲害的選手半分，得到冠軍! 他是第一個贏得這項比賽的台灣選手!",
+        "time": null
+      },
+      {
+        "en": "Lai won more than two million Taiwan dollars! Wow! Let's go and give Go a go!",
+        "tw": "賴均輔贏得了超過兩百萬台幣！哇！我們也來試試圍棋吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "來自台灣的年輕圍棋手，在這項重要的比賽勇奪冠軍!",
+      "content": [
+        {
+          "text": "1. surprise 驚訝。Wow, chess! 哇，西洋棋!You're playing chess on the computer! 你在電腦上下西洋棋!Yeah, does this surprise you? 這讓你驚訝嗎?Indeed I'm surprised.我確實很驚訝。",
+          "time": null
+        },
+        {
+          "text": "2. skill 技巧。I know you're smart. 我知道你很聰明。I didn't know you're that smart! 沒想到你這麼聰明。Well, you just need a little skill for these games.這個嘛，這種遊戲只需要一點兒技巧。",
+          "time": null
+        },
+        {
+          "text": "3. think 思考。It takes a lot of thinking too. 也需要很多思考。That's what players do in the movies.電影上的棋手都那樣。",
+          "time": null
+        },
+        {
+          "text": "4. player 玩家。Maybe the good players do. 好的棋手也許會那樣。I don't. 我不會。",
+          "time": null
+        }
+      ],
+      "postscript": "你會下哪一種棋呢? 我們一塊兒來讀單字。surprise驚訝 skill技巧 think思考 player玩家"
+    },
+    "quiz": [
+      {
+        "question": "1. Which country has younger Go players?",
+        "options": [
+          "a. China",
+          "b. Japan",
+          "c. Taiwan"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What colors are the stones in Go?",
+        "options": [
+          "a. Blue and white",
+          "b. Black and white",
+          "c. Black and blue"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Who is the first Taiwanese winner of the South Korean tournament?",
+        "options": [
+          "a. Lin Yu-ting",
+          "b. Tai Tzu-ying",
+          "c. Lai Jun-fu"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
