@@ -417,5 +417,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240307-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Life on Land",
+      "Character Education",
+      "Life Education",
+      "Reading Literacy Education",
+      "International Education",
+      "Social Studies",
+      "Arts"
+    ],
+    "title": "A Day for the World's Readers",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240306NK.mp3",
+    "content": [
+      {
+        "en": "Scientists found a new kind of giant worm. They were thirty centimeters long! They swam in the ocean more than five hundred million years ago. Many ocean animals were small then. These giant worms ate lots and lots of them!",
+        "tw": "科學家找到一種新的巨大蠕蟲。牠們長30公分，生活在5億多年前的大海，當時的海生動物都很小，這些巨大蠕蟲掠食其他動物。",
+        "time": null
+      },
+      {
+        "en": "But today isn't World Worm Day. It's World Book Day! It's a day for bookworms! What are bookworms? Are they worms that eat books? No! Bookworms are people who love reading. Bookworms read lots and lots of books!",
+        "tw": "但是今天不是世界蠕蟲日，是世界閱讀日! 是書蟲的日子，不是啃書的蛀書蟲，而是指愛看書的人，他們讀很多很多書。",
+        "time": null
+      },
+      {
+        "en": "This funny name wasn't nice. People said, \"Oh, she's a bookworm.\" But now, bookworms are cool! Reading helps us know about things. When scientists find something new, they write about it.",
+        "tw": "閱讀幫助我們學習新知。當科學家有新發現的時候，他們就會紀錄下來。",
+        "time": null
+      },
+      {
+        "en": "Now we know about those giant worms. Why? It's because a bookworm scientist wrote about them.",
+        "tw": "現在我們能知道這些巨大蠕蟲，就是因為有一位書蟲科學家把牠寫了下來。",
+        "time": null
+      },
+      {
+        "en": "World Book Day is a special day for bookworms! You can be a bookworm too!",
+        "tw": "世界閱讀日對書蟲來說是特別的日子! 你也可以成為書蟲!",
+        "time": null
+      },
+      {
+        "en": "Today is World Worm Day!! Uh… Wait… That's not right. It's World Book Day! Read more books!",
+        "tw": "今天是世界蠕蟲日！！呃…等等…那不對。這是世界閱讀日！多讀點書！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "世界閱讀日鼓勵大家多看書。",
+      "content": [
+        {
+          "text": "1. read 閱讀\nAre you reading again? 你又在看書了?\nDid you go to the Book Fair? 你有去書展嗎?\nOf course I did. How could I miss it? 當然有啦，我怎麼可能錯過?",
+          "time": null
+        },
+        {
+          "text": "2. interesting 有趣的\nSo you found something interesting? 所以你找到一些有趣的東西?\nOh yes, I found lots of fun books. 有，我找到很多好玩的書。\nLike this one.比如說這一本。",
+          "time": null
+        },
+        {
+          "text": "3. learn 學習\nLet me see. 我看看。\n\"How to Learn More without Trying?\" 《如何不費力卻學更多》?\nDo you really believe this? 你真的相信這個喔?\nDon't know. I haven't finished reading it yet. 不知道。我還沒看完。",
+          "time": null
+        },
+        {
+          "text": "4. kind 種類\nBut it's my kind of book. 不過這種書很適合我。\nLearning without trying. 不用努力就學會。",
+          "time": null
+        }
+      ],
+      "postscript": "一起來讀單字。\nread閱讀\ninteresting有趣的\nlearn學習\nkind種類"
+    },
+    "quiz": [
+      {
+        "question": "1. What are people who love reading called?",
+        "options": [
+          "a. Earthworms",
+          "b. Book hippos",
+          "c. Bookworms"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What kind of new worm did scientists find?",
+        "options": [
+          "a. A very small worm",
+          "b. A giant worm",
+          "c. A worm that eats books"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What is today?",
+        "options": [
+          "a. World Water Day!",
+          "b. World Book Day!",
+          "c. World Worm Day!"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
