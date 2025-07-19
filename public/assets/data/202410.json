@@ -332,5 +332,96 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20241007-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Natural Sciences"
+    ],
+    "title": "The Kid of the Year",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241004NK.mp3",
+    "content": [
+      {
+        "en": "A U.S. magazine chose a Kid of the Year! This 15-year-old boy plays music and reads a lot. He plays basketball and chess. And he makes soap. It can help people with skin cancer!",
+        "tw": "美國一份雜誌選出年度最有影響力的小孩，這個十五歲的男孩會彈奏音樂、讀很多書，他會打籃球跟下棋，他還會做特別的肥皂，幫助皮膚癌病人。",
+        "time": null
+      },
+      {
+        "en": "The boy started mixing soaps and other things when he was four. He wanted to see what happened. When he was seven, he got a kids' science set. Then he had an idea for something to help the world.",
+        "tw": "他四歲時，就開始把肥皂跟其他東西混在一起，看看會做出什麼。七歲那年他得到一組兒童科學套組，讓他想到了幫助世界的點子。",
+        "time": null
+      },
+      {
+        "en": "Millions of people get skin cancer. It costs about one million Taiwan dollars to get better… But lots of people can't pay. The boy wants to make soap for them. It has skin cancer medicine in it!",
+        "tw": "好幾百萬人有皮膚癌，但是治療費用需要上百萬台幣，很多人付不起。所以這個男孩把皮膚癌的藥混在肥皂裡，來幫助病人。",
+        "time": null
+      },
+      {
+        "en": "The boy worked on his soap at home. It was hard! He asked a company for help. Now an engineer there helps him think about his soap. He asked university scientists for help. Now this high school student works on his soap at a university!",
+        "tw": "他曾經在家製作肥皂，但很困難，他向一間公司求助，現在有一位工程師在幫他，他向大學裡的科學家求助，現在這個高中生在一間大學裡面做肥皂。",
+        "time": null
+      },
+      {
+        "en": "The Kid of the Year is making his great idea real. He wants everyone to think of ideas to make the world better!",
+        "tw": "年度少年正在將他的偉大想法付諸實現。他希望每個人都能想出讓世界變得更好的點子！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這個少年的聰明主意，可以幫助數百萬癌症病人。",
+      "content": [
+        {
+          "text": "1. medicine 藥品. I wish I could invent medicine that cures cancer. 我希望發明治療癌症的藥. Yeah, if you were a scientist. 對，假如你是科學家的話.",
+          "time": null
+        },
+        {
+          "text": "2. hard 困難的. It shouldn't be too hard, right? 那應該不難吧? Being a scientist? 當科學家嗎? No, as long as you're good at math.不難，只要你數學好.",
+          "time": null
+        },
+        {
+          "text": "3. help 幫助. I was never good at math.我的數學從來就不好. Well, we have AI now. 我們現在有人工智慧了. It can help you learn. 它可以幫你學.",
+          "time": null
+        },
+        {
+          "text": "4. ask for 請求. You can ask for help anytime, anywhere you want. 你可以隨時隨地請它幫你. Really? I need it now. 真的嗎? 那我現在就需要. I want to ask how to make more money. 我要問怎麼樣多賺點錢.",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學到哪些單字? medicine藥品 hard困難的 help幫助 ask for請求"
+    },
+    "quiz": [
+      {
+        "question": "1. How old was the Kid of the Year when he started mixing things?",
+        "options": [
+          "a. 4",
+          "b. 7",
+          "c. 15"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What does the Kid of the Year's soap have?",
+        "options": [
+          "a. Skin",
+          "b. Medicine",
+          "c. Cancer"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Who did the Kid of the Year ask for help?",
+        "options": [
+          "a. Scientists",
+          "b. Chess players",
+          "c. His friend"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
