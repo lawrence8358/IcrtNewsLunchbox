@@ -191,5 +191,102 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240704-01",
+    "type": "國小",
+    "tag": [
+      "Sustainable Cities and Communities",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "This Plastic Eats Itself",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240703NK.mp3",
+    "content": [
+      {
+        "en": "Plastic garbage is a very big problem. We put lots of plastic in the ground with other garbage. This is bad for our Earth.",
+        "tw": "塑膠垃圾是一個很嚴重的問題，我們把塑膠跟其他的垃圾丟在一起，這樣很不環保。",
+        "time": null
+      },
+      {
+        "en": "There's also lots of plastic in our oceans. It breaks down into small pieces there. Ocean animals eat this plastic. It's bad for them. And many ocean animals die when they get trapped in plastic.",
+        "tw": "大海裡也有很多塑膠垃圾，它們被分解成小碎片，很多海生動物把碎片吃下肚，有的還會被塑膠纏住而死亡。",
+        "time": null
+      },
+      {
+        "en": "Plastic can take hundreds of years to break down. The pieces become too small to see. But they never go away…",
+        "tw": "塑膠需要花上百年才能被分解，雖然我們肉眼看不到碎片，但是它並沒有消失。",
+        "time": null
+      },
+      {
+        "en": "Now American scientists have made a new plastic. It's soft and lasts a long time. It can be used in shoes, pillows, and foam products. After the product is thrown away, the plastic goes away in about five months!",
+        "tw": "現在美國科學家研發新的一種塑膠，它是軟的，而且耐用，可以用來做鞋子、枕頭跟泡綿產品。這種塑膠只需要五個月就會被分解掉。",
+        "time": null
+      },
+      {
+        "en": "How does it go away? It's made with… bacteria! They're alive! They don't do anything in the plastic for a long time. After the plastic is thrown away, hot, wet garbage makes the bacteria grow. Then the bacteria eat the plastic!",
+        "tw": "這種塑膠裡有細菌，平常不會發揮什麼作用，但是被丟在悶熱潮濕的環境就會開始生長吃塑膠。",
+        "time": null
+      },
+      {
+        "en": "If companies can make and use this plastic, we'll have less plastic waste. Our Earth can be a cleaner place!",
+        "tw": "如果公司能製造和使用這種塑膠，我們將會有更少的塑膠垃圾。我們的地球就能變得更乾淨！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "有一種可以消耗自己的塑膠製品，可能是未來的方向。",
+      "content": [
+        {
+          "text": "1. waste 廢物\nDid you see all that plastic waste in the park? 你看到公園裡那些塑膠垃圾了嗎?\nYeah, it's crazy! 對啊，真是瘋了!",
+          "time": null
+        },
+        {
+          "text": "2. go away 走開、離開\nAnd they're always there. 而且總是在那裏。\nThey just don't go away. 都不走呢。\nThat's because people throw in new ones. 那是因為有人丟來新的。",
+          "time": null
+        },
+        {
+          "text": "3. use 使用\nFor me, I use plastic bags all the time. 我自己很常用塑膠袋。\nBut I try my best to recycle them. 但是我儘量回收。\nMe too. I can't imagine not using plastic bags. 我也是，無法想像不用塑膠袋。",
+          "time": null
+        },
+        {
+          "text": "4. break down 分解\nSomeone should invent plastic bags that break down fast.\n應該有人發明可以很快分解的塑膠袋。\nBut I hope they won't break down in my hand. 希望它們不會在我手裡分解。",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我一起讀單字。\nwaste廢物\ngo away走開、離開\nuse使用\nbreak down分解"
+    },
+    "quiz": [
+      {
+        "question": "1. How long does the new plastic take to go away?",
+        "options": [
+          "a. Five days",
+          "b. Five months",
+          "c. Five years"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. When does the bacteria eat the plastic?",
+        "options": [
+          "a. When it's hungry",
+          "b. When it's in shoes",
+          "c. When it's in the garbage"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How can the new plastic help our Earth?",
+        "options": [
+          "a. People will use less plastic.",
+          "b. Our Earth will be cleaner.",
+          "c. The plastic is soft."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
