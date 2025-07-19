@@ -848,5 +848,121 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240227-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Affordable and Clean Energy",
+      "Industry, Innovation and Infrastructure",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life on Land",
+      "Partnerships for the Goals",
+      "Environmental Education",
+      "Technology Education",
+      "Energy Education",
+      "Safety Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Technology",
+      "Natural Sciences"
+    ],
+    "title": "Clean-Air Heroes on Wheels",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240226NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: Around the world, millions of buses make lots of smoke. The smoke makes air pollution. Countries are trying to make their air cleaner. How is China fighting air pollution?",
+        "tw": "世界各地的公車排放很多廢氣。很多國家想要更乾淨的空氣，中國是如何對抗空氣污染呢?",
+        "time": null
+      },
+      {
+        "en": "China's cities are using many electric buses, or e-buses. E-buses don't make smoke! They charge their batteries at their bus garage. Then they all drive to their bus stops. They drive about two hundred kilometers a day!",
+        "tw": "中國用很多電動公車。他們先充電，再前往各個車站，每天大約行駛200公里。",
+        "time": null
+      },
+      {
+        "en": "China has the most e-buses in the world. Voices: REALLY?! Narrator: Shenzhen, a big city there, is the first city in the world to have all e-buses!",
+        "tw": "中國有全世界最多的電動公車。深圳是第一個全面使用電動公車的城市。",
+        "time": null
+      },
+      {
+        "en": "E-buses are easy to use in China. They are everywhere! And in L?li?ng, a small city, e-bus rides are free!",
+        "tw": "中國到處都是電動公車。在呂梁市還可以免費搭乘。",
+        "time": null
+      },
+      {
+        "en": "But e-buses also have problems. Making batteries and buses also makes pollution. And batteries don't work well in cold weather.",
+        "tw": "但是電動公車也有缺點。製造電池跟公車會造成汙染。天氣冷的時候，電池也沒辦法運作。",
+        "time": null
+      },
+      {
+        "en": "China is working on these problems. Other countries are watching and learning.",
+        "tw": "中國正在改善這些問題，其他的國家都很注意，同時也在學習。",
+        "time": null
+      },
+      {
+        "en": "Here in Taiwan, all buses will be electric by 2030. Will Taiwan be the first country to have all e-buses? Electric buses help us fight air pollution. Let's ride these clean-air heroes on wheels!",
+        "tw": "2030年所有本地公車都會變成電動，這會不會讓台灣成為世上第一個完全使用電動公車的國家？電動公車幫助我們對抗空氣污染。讓我們搭乘這些移動的清淨空氣英雄吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "越來越多城市，打算擴大使用電動公車。",
+      "content": [
+        {
+          "text": "1. electric 電動的 Oh, my, I can hardly breathe! Yeah, it really smells bad. They should switch to electric buses.",
+          "time": null
+        },
+        {
+          "text": "2. air 空氣 I agree. It would be so much quieter. And much cleaner air.",
+          "time": null
+        },
+        {
+          "text": "3. smoke 煙霧 Nowadays I don't take the bus any more. Because of the smoke from traffic? Exactly!",
+          "time": null
+        },
+        {
+          "text": "4. drive 駕駛 Also because I've learned to drive. Oh no, more pollution.",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我讀單字。electric電動的 air空氣 smoke煙霧 drive駕駛"
+    },
+    "quiz": [
+      {
+        "question": "1. Why is China using e-buses?",
+        "options": [
+          "a. For more smoke",
+          "b. For free rides",
+          "c. For cleaner air"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where do the e-buses charge?",
+        "options": [
+          "a. Any charging place",
+          "b. Their bus garage",
+          "c. A big city park"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. When will Taiwan have all e-buses?",
+        "options": [
+          "a. 2030",
+          "b. 2040",
+          "c. 2050"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
