@@ -1190,5 +1190,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240918-01",
+    "type": "國小",
+    "tag": [
+      "Technology Education",
+      "Technology",
+      "Health and Physical Education"
+    ],
+    "title": "Super Light Shoes Made With Spray",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240917NK.mp3",
+    "content": [
+      {
+        "en": "Ready… Set… Go! Look at them run! What a race! How do they run so fast?",
+        "tw": "你看他們跑步! 真是精采的一場賽跑! 他們怎麼能跑這麼快?",
+        "time": null
+      },
+      {
+        "en": "The Paris Olympics was this summer. The fastest runners in the world were there.",
+        "tw": "巴黎奧運在今年夏天舉行，全世界跑得最快的選手都聚集在那裡。",
+        "time": null
+      },
+      {
+        "en": "Hellen Obiri was there. She's from Kenya, an East African country. She's one of the greatest marathon runners.",
+        "tw": "Hellen Obiri 也參加了比賽，她來自東非國家肯亞。她是最優秀的馬拉松跑者之一。",
+        "time": null
+      },
+      {
+        "en": "Marathon runners run over 42 kilometers! Heavy things make them slower. So the clothes they wear are light. Their shoes are light too!",
+        "tw": "馬拉松選手要跑超過 42 公里! 重的東西都會讓他們慢下來，所以他們穿很輕的衣服，鞋子也不例外。",
+        "time": null
+      },
+      {
+        "en": "Hellen wears some of the lightest shoes in the world. A robot makes them! It sprays a very long, very thin string!",
+        "tw": "Hellen 穿著世界上最輕的鞋子。這種跑鞋由機器人製作，製作時，它會噴出一條很長很細的線!",
+        "time": null
+      },
+      {
+        "en": "Robots spray string to make a shoe? Whose idea is this? It's a university student's idea. He saw kids make spider webs for Halloween. They used strings of glue.",
+        "tw": "機器人噴出細線來做鞋子? 這是誰想出來的主意呢?這是一個大學生的點子，他看到小孩為了萬聖節，用膠做出細細的線來做蜘蛛網，因此得到了靈感。",
+        "time": null
+      },
+      {
+        "en": "Hellen won a big marathon in these shoes. They helped her win a medal at the Paris Olympics too! Run, Hellen, run!",
+        "tw": "Hellen 穿著這雙鞋贏得了一場重要的馬拉松。這雙鞋也幫助她在巴黎奧運上贏得了一枚獎牌！跑吧，Hellen，跑吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "跑鞋讓特別的機器人來做，又輕又快又好。",
+      "content": [
+        {
+          "text": "1. runner 跑步的人。 Why do so many marathon runners come from Kenya? Not only Kenya. Some are from Ethiopia.",
+          "time": null
+        },
+        {
+          "text": "2. African 非洲的。 That's also an East African country. True. And both are big.",
+          "time": null
+        },
+        {
+          "text": "3. fast 很快的。 Runners there can run fast for a long time. Yeah, and they're used to hot weather.",
+          "time": null
+        },
+        {
+          "text": "4. long 長的。 So running long distances in Paris was not a problem for them. No, but it was for many others.",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學了哪些單字?runner跑步的人 African非洲的 fast很快的 long長的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is Hellen Obiri from?",
+        "options": [
+          "a. Boston",
+          "b. Kenya",
+          "c. Paris"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How far do people run in a marathon?",
+        "options": [
+          "a. 1,500 meters",
+          "b. 3 kilometers",
+          "c. 42 kilometers"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. When did the student get the idea for these shoes?",
+        "options": [
+          "a. Halloween",
+          "b. Thanksgiving",
+          "c. Christmas"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
