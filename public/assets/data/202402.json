@@ -641,5 +641,109 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240223-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Environmental Education",
+      "Technology",
+      "Natural Sciences",
+      "Affordable and Clean Energy"
+    ],
+    "title": "Moos to the Moon",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240222NK.mp3",
+    "content": [
+      {
+        "en": "What's this smelly thing? Ewww! It's cow poop! Scientists call it cow dung. Most people want to throw it away. It smells bad! But guess what? It can be very useful!",
+        "tw": "科學家把牛糞叫做 cow dung，牛糞雖然很臭，但其實非常有用!",
+        "time": null
+      },
+      {
+        "en": "In Japan, a space company wants to use cow dung fuel to make rockets fly! Whoa!",
+        "tw": "日本有一家太空公司想把牛糞當作火箭的燃料。",
+        "time": null
+      },
+      {
+        "en": "Rockets need to fly very high and very fast. They need special fuel. Now a gas company makes this fuel with cow dung!",
+        "tw": "火箭飛得又高又快， 所以需要特殊的燃料。有一間汽油公司就把牛糞做成了火箭燃料。",
+        "time": null
+      },
+      {
+        "en": "The space company tested the rocket fuel. Its rocket shot out blue and orange fire! Everyone was very happy. The rocket can work with the cow dung fuel!",
+        "tw": "太空公司測試這種燃料，成功點燃了火箭，噴出藍色、橘色的火焰。",
+        "time": null
+      },
+      {
+        "en": "Using cow dung for fuel is good. Cow dung is cheap. Farmers have lots of it... and every day, there's mooooo-re! And using it instead of oil helps the Earth.",
+        "tw": "牛糞燃料是個好主意，農夫每天都可以提供很多牛糞，而且它很便宜，用來取代燃油也很環保。",
+        "time": null
+      },
+      {
+        "en": "For Japan, using cow dung is important. Japan doesn't have its own oil. But they can make energy from cow dung. They can make gas to heat homes and make trucks go. And now they make the special rocket fuel!",
+        "tw": "日本沒有石油，但是可以用牛糞產生動力，用在暖氣、貨車，現在也可以用在火箭上。",
+        "time": null
+      },
+      {
+        "en": "Maybe one day, cow poop will fly a rocket to the moooooo-n!",
+        "tw": "也許有一天，牛糞會讓火箭飛到月球！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "牛糞居然可以做火箭燃料，想不到吧?",
+      "content": [
+        {
+          "text": "1. orange 橘子、橘色的\nAre you making a lantern? 你在做燈籠嗎?\nI wish. 我希望是。\nNo, I'm making a kite.不過我是在做風箏。\nAn orange and blue kite? 橘色跟藍色的風箏?\nYeah, bright colors look pretty in the sky.對啊，鮮豔的顏色在天上很好看。",
+          "time": null
+        },
+        {
+          "text": "2. can 可以、能\nWhen do you plan to fly it? 你準備什麼時候去放?\nRight after I'm done.就在做好之後。\nWow, can I go with you? 哇，我可以跟你一起去嗎?\nSure.當然。",
+          "time": null
+        },
+        {
+          "text": "3. use 使用\nHow do you know what materials to use? 你怎麼知道用什麼材料?\nWell, I googled. 我查了谷歌。",
+          "time": null
+        },
+        {
+          "text": "4. cheap 便宜的\nI like kites. 我喜歡風箏。\nThey are cheap and lots of fun. 又便宜又好玩。",
+          "time": null
+        }
+      ],
+      "postscript": "Let's read today's words.\norange橘子、橘色的\ncan可以、能\nuse使用\ncheap便宜的"
+    },
+    "quiz": [
+      {
+        "question": "1. What do scientists call \"cow poop\"?",
+        "options": [
+          "a. Cow dung",
+          "b. Cow fuel",
+          "c. Cow smell"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where is cow poop used for rockets?",
+        "options": [
+          "a. South Korea",
+          "b. Japan",
+          "c. Taiwan"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why is using cow poop good?",
+        "options": [
+          "a. It helps the Earth.",
+          "b. It smells funny.",
+          "c. It's colorful."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
