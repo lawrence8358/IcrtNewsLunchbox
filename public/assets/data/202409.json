@@ -1708,5 +1708,112 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240925-01",
+    "type": "國小",
+    "tag": [
+      "Technology Education",
+      "Technology",
+      "Natural Sciences"
+    ],
+    "title": "A Very Long Short Space Trip",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240924NK.mp3",
+    "content": [
+      {
+        "en": "In June, two astronauts were excited. They were flying a spaceship to the ISS. That's the International Space Station.",
+        "tw": "六月時，兩個很興奮的太空人，駕著太空船飛到了 ISS，也就是國際太空站。",
+        "time": null
+      },
+      {
+        "en": "Astronauts try new things in space there! These things help us learn more about space.",
+        "tw": "太空人要嘗試很多新事物，幫助我們更了解太空。",
+        "time": null
+      },
+      {
+        "en": "The ISS is also a big space home. Some astronauts live there for six months. Some visit for a short time. The two astronauts were going to visit for eight days.",
+        "tw": "國際太空站是個大型的太空之家，兩個太空人原本要住在那裡八天。",
+        "time": null
+      },
+      {
+        "en": "But their spaceship had some problems. It has small engines. They help the spaceship fly. But some small engines didn't work well. Scientists on Earth didn't know why. But the two astronauts got to the ISS safely.",
+        "tw": "他們順利到了國際太空站，但是太空船的引擎出了問題! 科學家們都找不出原因。",
+        "time": null
+      },
+      {
+        "en": "The engines were not easy to fix. So the astronauts didn't fly home after eight days. They didn't fly home after eight weeks!",
+        "tw": "引擎很難修理，所以他們在太空站待了 8 個星期都還沒回家!",
+        "time": null
+      },
+      {
+        "en": "Then the engines were fixed. But was the spaceship safe for the astronauts? The scientists didn't know.",
+        "tw": "引擎最後修好了，但科學家不確定太空船安不安全。",
+        "time": null
+      },
+      {
+        "en": "So the astronauts will use another spaceship. And they will fly home... next year, in February!",
+        "tw": "所以這兩位太空人會使用另一艘太空船˙，不過要等到明年 2 月才能回到家 !",
+        "time": null
+      },
+      {
+        "en": "The astronauts' eight-day trip will be an eight-month trip! Everyone will be very happy when they come home!",
+        "tw": "太空人原本預計八天的旅程將變成八個月的旅程！當他們回家時，大家都會非常開心！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "原本要在國際太空站待八天的兩名太空人，結果必須待上八個月。",
+      "content": [
+        {
+          "text": "1) spaceship 太空船。\nThe spaceship that took two astronauts up there in June\n六月時把兩個太空人送上去的太空船….\nYeah, I remember. 對，我記得。\n…has come back without them.回來了，沒有帶他們。",
+          "time": null
+        },
+        {
+          "text": "2) safely 安全地。\nIt's back on Earth.它回到了地球。\nThat's right. NASA didn't believe it could come back safely.\n對，太空總署不相信它可以安全回來。",
+          "time": null
+        },
+        {
+          "text": "3) month 月份。\nWhat about the two astronauts? 那兩個太空人呢?\nOh, they'll just be up there,他們就會待在上面，\nwatching the moon and stars for months.欣賞月球跟星星好幾個月。",
+          "time": null
+        },
+        {
+          "text": "4) fly 飛行。\nToo bad they can't just fly back. 真糟糕，不能直接飛回來。\nDo you want to fly to space? 來一起讀單字。",
+          "time": null
+        }
+      ],
+      "postscript": "spaceship太空船 safely安全地 month月份 fly飛行"
+    },
+    "quiz": [
+      {
+        "question": "1. What does \"ISS\" mean?",
+        "options": [
+          "a. In Space Station",
+          "b. International Space Station",
+          "c. Internet Spaceship Station"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. In June, how long were the astronauts going to visit the ISS?",
+        "options": [
+          "a. Eight days",
+          "b. Eight weeks",
+          "c. Six months"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did not work well on the spaceship?",
+        "options": [
+          "a. Scientists",
+          "b. Astronauts",
+          "c. Small engines"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
