@@ -516,5 +516,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240611-01",
+    "type": "國小",
+    "tag": [
+      "No Poverty",
+      "Zero Hunger",
+      "Good Health and Well-Being",
+      "Reduced Inequalities",
+      "Human Rights Education",
+      "Indigenous Education",
+      "Character Education",
+      "Life Education",
+      "Outdoor Education",
+      "International Education",
+      "Social Studies",
+      "Integrative Activities",
+      "Health and Physical Education"
+    ],
+    "title": "Man Runs Across Africa",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240610NK.mp3",
+    "content": [
+      {
+        "en": "Marathons are very long runs. They're about 42 kilometers long! Many people never run a marathon. But one British man ran 385 marathons in less than a year!",
+        "tw": "馬拉松是一種長跑的運動，全程差不多42公里。很多人從來沒有跑過馬拉松，但有一個人一年內跑了385場馬拉松!",
+        "time": null
+      },
+      {
+        "en": "This British man ran in Africa. He ran from the most southern place to the most northern place. He ran through 16 countries.",
+        "tw": "這位英國男子從非洲的最南端跑到最北部，一共經過16個國家。",
+        "time": null
+      },
+      {
+        "en": "He had some problems during the run. Somebody stole his money and phone. He got very sick from eating some bad food. In the Sahara desert, he ran in sandstorms and... snowstorms!",
+        "tw": "跑步的過程遇到許多困難，有人偷了他的錢包跟手機，他也曾經吃壞肚子。在撒哈拉沙漠，他還遇到沙塵暴跟暴風雪。",
+        "time": null
+      },
+      {
+        "en": "The man ran for two charities. One charity helps young people who have no homes. The other helps Indigenous people in the Sahara desert. People around the world gave them money because he ran. They gave over one million British pounds. That's over $42 million Taiwan dollars!",
+        "tw": "全世界的人都因為他捐款給兩家慈善機構，一家幫助無家可歸的青少年，另一家幫助撒哈拉沙漠的原住民，募款金額超過100萬英鎊，相當於4200多萬台幣。",
+        "time": null
+      },
+      {
+        "en": "This man ran across Africa to help people. What a great guy!",
+        "tw": "這位男子跑遍非洲是為了幫助人們。真是個了不起的人！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "長跑一萬六千多公里，不只是挑戰自我，也是為了做善事募款。",
+      "content": [
+        {
+          "text": "1. sick 生病\nHey, there's a marathon in Taipei next month! 台北下個月有馬拉松!\nLast time you ran a marathon, you came back on the MRT.\n上次你跑馬拉松，是坐捷運回來的。\nThat's because I got sick.那是因為我生病了。",
+          "time": null
+        },
+        {
+          "text": "2. kilometer 公里\nFrom running too hard.因為你跑太用力。\nFrom eating too much. 因為我吃太多。\nThis time I'll join the beginner's group. 這回我要加入初學者那一組。\nThat's still 10 kilometers. 那還是有十公里。",
+          "time": null
+        },
+        {
+          "text": "3. less than 少於\nNo, it's less than that. It's 5 kilometers.不到那麼多，只有五公里。\nFive?! You might as well walk. 五公里?乾脆用走的好了。",
+          "time": null
+        },
+        {
+          "text": "4. never 絕不\nI'd never do that. I'd run all the way. 我絕不會那麼做。我會全部用跑的。",
+          "time": null
+        }
+      ],
+      "postscript": "你還記得今天的單字嗎?\nsick生病\nkilometer公里\nless than少於\nnever絕不"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the man do?",
+        "options": [
+          "a. Ran in South America",
+          "b. Ran in different marathons",
+          "c. Ran through 16 countries"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Why did the man run?",
+        "options": [
+          "a. To become rich",
+          "b. To write a book about running",
+          "c. To help people"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What happened to the man?",
+        "options": [
+          "a. He got lost.",
+          "b. He ran in snowstorms.",
+          "c. He broke his leg."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
