@@ -1299,5 +1299,112 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240118-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Natural Sciences",
+      "International Education"
+    ],
+    "title": "Who's That Chicken in the Mirror?",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240117NK.mp3",
+    "content": [
+      {
+        "en": "Humans are very smart. When we look in a mirror, we don't see someone else! We know we're looking at ourselves.",
+        "tw": "人類非常聰明，當我們看鏡子的時候，我們知道鏡子裡面的是我們自己。",
+        "time": null
+      },
+      {
+        "en": "Elephants can also see themselves in a mirror. They're smart too. So can dolphins. How about... chickens??",
+        "tw": "大象、海豚都認得鏡子裡的自己，那雞呢?",
+        "time": null
+      },
+      {
+        "en": "Roosters are boy chickens. Last year, scientists tested some roosters… They wanted to know how smart they are.",
+        "tw": "Roosters是公雞。去年科學家做了實驗測試牠們有多聰明。",
+        "time": null
+      },
+      {
+        "en": "First, they put the roosters in with lots of other chickens. Then, they flew a dangerous bird high above their heads. The roosters made a big sound! They were warning the other chickens.",
+        "tw": "首先科學家把公雞跟其他的雞放在一起。再讓猛禽飛過，發現公雞會出聲音警告同類。",
+        "time": null
+      },
+      {
+        "en": "Next, they took the other chickens away. The roosters were alone. Again, they flew the dangerous bird high above their heads. This time, the roosters stayed quiet.",
+        "tw": "接著科學家讓公雞單獨留下來，這一次牠們就保持安靜。",
+        "time": null
+      },
+      {
+        "en": "Finally, they gave the roosters a mirror. If the roosters stayed quiet this time, it would prove chickens were smart.",
+        "tw": "最後科學家放了一面鏡子。如果公雞保持安靜，就可以證明牠們很聰明。",
+        "time": null
+      },
+      {
+        "en": "Once more, they flew the dangerous bird high above the rooster's heads. And … most of the roosters stayed quiet!",
+        "tw": "科學家再一次放出猛禽，結果...大部分的公雞都保持安靜。",
+        "time": null
+      },
+      {
+        "en": "Maybe roosters really can see themselves! Are chickens smarter than we think?",
+        "tw": "也許公雞真的能看到自己！雞比我們想像的更聰明嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "公雞看到鏡子裡面的公雞，似乎明白那是牠自己。",
+      "content": [
+        {
+          "text": "1. mirror 鏡子\nWhen you look in the mirror 你照鏡子的時候…\nWait, is this some ghost story? 等等，這是鬼故事嗎?\nNo no, I'm just asking what you see.不是，我只是問你看到什麼。\nI see myself, of course.當然是我自己囉。",
+          "time": null
+        },
+        {
+          "text": "2. themselves 他們自己\nMy two babies see themselves, too.我的兩個幼兒也看到自己。\nWhy do you sound so surprised? 為什麼你這麼驚訝?\nBecause they're just one year old! 因為他們才一歲。",
+          "time": null
+        },
+        {
+          "text": "3. other 別的\nThey smile and wave. 他們會笑，還揮手。\nSo you're saying they know? 所以你是說他們知道?\nThey know it's them. 他們知道那是他們。\nNot other people.不是別人。",
+          "time": null
+        },
+        {
+          "text": "4. smart 聰明的\nMaybe they're smart? 也許他們很聰明?\nYeah, as smart as dolphins! 對啊，跟海豚一樣聰明。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\nmirror鏡子\nthemselves他們自己\nother 別的\nsmart聰明的"
+    },
+    "quiz": [
+      {
+        "question": "What animal can see itself in a mirror?",
+        "options": [
+          "a. A dog",
+          "b. An elephant",
+          "c. A rabbit"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "How do roosters warn other chickens of danger?",
+        "options": [
+          "a. Make a big sound",
+          "b. Run away",
+          "c. Fall asleep"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "What was flown over the rooster's heads?",
+        "options": [
+          "a. An airplane",
+          "b. Ironman",
+          "c. A dangerous bird"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
