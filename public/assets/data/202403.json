@@ -1869,5 +1869,111 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240327-01",
+    "type": "國小",
+    "tag": [
+      "Technology",
+      "Natural Sciences",
+      "Outdoor Education",
+      "Energy Education",
+      "Marine Education",
+      "Environmental Education",
+      "Life on Land",
+      "Life Below Water",
+      "Climate Action",
+      "Responsible Consumption and Production",
+      "Sustainable Cities and Communities",
+      "Clean Water and Sanitation"
+    ],
+    "title": "Hermit Crabs Reuse Our Trash",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240326NK.mp3",
+    "content": [
+      {
+        "en": "Why is that plastic bottle cap moving? Oh! A hermit crab is using it as a shell!",
+        "tw": "怎麼有塑膠瓶蓋在移動呢? 原來有寄居蟹把它當作外殼!",
+        "time": null
+      },
+      {
+        "en": "Hermit crabs don't have their own shells. But they need one to live. Most hermit crabs use sea snail shells. But people are seeing hermit crabs using our plastic trash as their shells! They're seeing this all over the world!",
+        "tw": "寄居蟹沒有自己的外殼，但是牠們需要殼才能活下去。通常牠們用海螺的殼。可是現在到處都有人看到寄居蟹用塑膠垃圾當作外殼。",
+        "time": null
+      },
+      {
+        "en": "Is plastic good or bad for hermit crabs? Some plastic is lighter than shells. It can make walking around easier for these crabs. But some plastic may be bad for their health.",
+        "tw": "塑膠對寄居蟹是好還是壞呢? 有一些塑膠比貝殼還輕，但是有的卻可能會傷害牠們的健康。",
+        "time": null
+      },
+      {
+        "en": "Using our trash as their shells can be both good and bad for hermit crabs. Researchers are looking for more answers.",
+        "tw": "用塑膠垃圾當作寄居蟹的外殼有好有壞，研究員還在找答案。",
+        "time": null
+      },
+      {
+        "en": "While we're waiting for answers, we can help the Earth. Hermit crabs reuse things, so we can too! We can reuse plastic bottles to save coins. We can reuse plastic cups to grow flowers. There are many useful and interesting ways to reuse plastic!",
+        "tw": "寄居蟹回收再利用東西，我們也可以。我們重複使用塑膠瓶，可以拿來存零錢或種花。還有很多實用又有趣的方法回收再利用。",
+        "time": null
+      },
+      {
+        "en": "Let's learn from hermit crabs and reuse things! Hermit crabs turn trash into something useful. Let's do the same to help the Earth. Go, go, go!",
+        "tw": "讓我們向寄居蟹學習並重複利用物品吧！寄居蟹將垃圾變成有用的東西。讓我們也一樣做來幫助地球。加油！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "寄居蟹跟人類的關係似乎越來越緊密， 因為牠撿垃圾來用。",
+      "content": [
+        {
+          "text": "1. crab 螃蟹.\nLook at this cute little thing! 你看這個可愛的小東西! It's a hermit crab.牠是一隻寄居蟹。 Yeah, and it's using a seashell.對，而且牠在用貝殼。",
+          "time": null
+        },
+        {
+          "text": "2. way 方式.\nHello there, you little guy! 哈囉，小東西。 Do you like your house? 你喜歡你的房子嗎? Walking around with its house 揹著房子走來走去… What a way of life! 真奇特的生活方式。",
+          "time": null
+        },
+        {
+          "text": "3. useful 有用的.\nI think the house is useful. 我覺得房子很有用。 You don't need to worry about the enemies out there. 你不需要擔心外面的敵人。",
+          "time": null
+        },
+        {
+          "text": "4. bad 壞的.\nI think it's a bad idea. 我覺得滿糟糕的。 A seashell is heavy. 貝殼很重呢。 It's only heavy on land. 只有在陸地上才重。 It's okay in the water. 在水裡就沒關係了。",
+          "time": null
+        }
+      ],
+      "postscript": "你有看過寄居蟹嗎? crab螃蟹 way方式 useful有用的 bad壞的"
+    },
+    "quiz": [
+      {
+        "question": "1. What do most hermit crabs use as shells?",
+        "options": [
+          "a. Glass bottles",
+          "b. Sea snail shells",
+          "c. Coins"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What are some hermit crabs using as shells?",
+        "options": [
+          "a. Plastic",
+          "b. Pearl",
+          "c. Paper"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What can we learn from hermit crabs?",
+        "options": [
+          "a. Reuse things",
+          "b. Walk around",
+          "c. Save money"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
