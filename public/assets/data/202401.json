@@ -968,5 +968,119 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240115-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Quality Education",
+      "Industry, Innovation and Infrastructure",
+      "Reduced Inequalities",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life on Land",
+      "Environmental Education",
+      "Technology Education",
+      "Life Education",
+      "Safety Education",
+      "Disaster Risk Reduction Education",
+      "Multicultural Education",
+      "International Education",
+      "Outdoor Education",
+      "Social Studies",
+      "Natural Sciences",
+      "Integrative Activities",
+      "Health and Physical Education"
+    ],
+    "title": "These Kids Take the School Boat",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240112NK.mp3",
+    "content": [
+      {
+        "en": "How do you go to school? Do you take the bus? Do you go by scooter or car?",
+        "tw": "你每天怎麼上學?你是搭公車、機車還是汽車?",
+        "time": null
+      },
+      {
+        "en": "What happens when it rains very hard? Maybe you put on a raincoat. You open your umbrella. Then you go to school. When the rain stops, everything's fine. But some kids' lives are changed by rain.",
+        "tw": "如果下大雨，你會穿雨衣、撐雨傘去上學，雨停了就沒事了。但是有一些地方的小朋友，生活受到大雨的影響。",
+        "time": null
+      },
+      {
+        "en": "Last October, it rained very, very hard for two days in Scotland. In one town, roads and bridges broke. Going to school became very tough for the kids there. Now they ride a boat to school early in the morning!",
+        "tw": "去年十月蘇格蘭連續下了兩天大雨，造成一個小鎮的道路跟橋樑都受到破壞，小朋友必須一早搭船上學。",
+        "time": null
+      },
+      {
+        "en": "The kids are waiting for work on the roads and bridges to finish. Then they won't need to ride a boat to school!",
+        "tw": "小朋友都在等路跟橋修好，才可以不用坐船去學校。",
+        "time": null
+      },
+      {
+        "en": "Scotland got too much rain because of climate change. Climate change makes the weather very strange. Storms get bigger. Hot times get hotter. Cold times get colder.",
+        "tw": "因為氣候變遷，蘇格蘭下了太多雨。天氣也變得很奇怪，暴風雨越來越強，夏天越來越熱、冬天越來越冷。",
+        "time": null
+      },
+      {
+        "en": "The kids in the town know climate change is real. It's making a big change in their lives every day. Everybody needs to take care of the Earth. Then we can be safe and happy!",
+        "tw": "城裡的孩子們知道氣候變遷是真實的。它正在每天對他們的生活造成巨大改變。每個人都需要愛護地球。這樣我們才能安全又快樂！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "氣候變遷的影響無遠弗屆，連上學方式都可能要改變。",
+      "content": [
+        {
+          "text": "1. wait for 等待\nHey, are you waiting for the bus? 你在等公車嗎?\nYeah, why else would I be standing here? 是，要不然我怎麼會站在這裡?",
+          "time": null
+        },
+        {
+          "text": "2. take 搭乘\nBut why are you taking a bus? 但是你為什麼要搭公車?\nRiding a bike is much faster. 騎腳踏車快多了。\nNo, it's too cold now. 不要，現在太冷。",
+          "time": null
+        },
+        {
+          "text": "3. rain 下雨\nAlso, it could rain anytime. 而且隨時都可能下雨。\nYou may be right. 你可能講對了。\nI want to get back home in time. 我要及時趕回家。",
+          "time": null
+        },
+        {
+          "text": "4. weather 天氣\nYeah, before the weather gets you. 對啊，在壞天氣追上你之前。\nOh, here's your bus.你的公車來了。\nI'll see you tomorrow. 明天見。\nYeah, bye bye! 拜拜!",
+          "time": null
+        }
+      ],
+      "postscript": "你已經記住今天的單字了嗎?\nwait for等待\ntake搭乘\nrain下雨\nweather天氣"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did it rain very hard for two days in October?",
+        "options": [
+          "a. The USA",
+          "b. Germany",
+          "c. Scotland"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What is making kids in the town ride a boat to school?",
+        "options": [
+          "a. Broken roads",
+          "b. No umbrellas",
+          "c. Tough school"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What makes the weather very strange?",
+        "options": [
+          "a. The Earth",
+          "b. Climate change",
+          "c. Storms"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
