@@ -288,5 +288,103 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240705-01",
+    "type": "國小",
+    "tag": [
+      "Sustainable Cities and Communities",
+      "Climate Action",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Cleaning the Earth's Air",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240704NK.mp3",
+    "content": [
+      {
+        "en": "Do you help clean your home? Maybe you vacuum dust from your floor.",
+        "tw": "你會打掃家裡嗎？像是用吸塵器吸家裡地板。",
+        "time": null
+      },
+      {
+        "en": "Hmmm... What can we do to help clean the Earth, everyone's home? The Earth's air has too much carbon dioxide. This is bad. Carbon dioxide makes the Earth warmer. It comes from cars, factories, and us! We breathe out carbon dioxide.",
+        "tw": "那我們該怎麼打掃我們的家園地球呢？空氣裡有太多二氧化碳讓地球更熱。汽車、工廠甚至是我們都會產生二氧化碳。",
+        "time": null
+      },
+      {
+        "en": "Well, we can't stop breathing! How about vacuuming? Some companies are vacuuming carbon dioxide from the air!",
+        "tw": "我們不能不呼吸，那如果把它吸走呢？有一些公司把二氧化碳從空氣中吸走。",
+        "time": null
+      },
+      {
+        "en": "These vacuums are VERY big. They cost a lot to make and use.",
+        "tw": "這種吸塵器很龐大，而且需要很高的成本製作跟使用。",
+        "time": null
+      },
+      {
+        "en": "The biggest vacuum now is in Iceland. Every day, it vacuums one hundred tons of carbon dioxide. Then the carbon dioxide goes down, down, down into the Earth. It becomes rock there! And it's there forever! This is good!",
+        "tw": "最大的吸塵器在冰島，每天會吸一百噸的二氧化碳到地底下變成岩石。",
+        "time": null
+      },
+      {
+        "en": "But... that's not very much carbon dioxide! Eight thousand cars make this much carbon dioxide. The air has a lot more carbon dioxide. Companies are building bigger vacuums! But we can't put vacuums everywhere! We have to make less carbon dioxide too!",
+        "tw": "但是……那不是很多二氧化碳！八千輛汽車產生這麼多二氧化碳。空氣中還有更多的二氧化碳。公司正在建造更大的吸塵器！但我們不能到處都放吸塵器！我們也必須減少二氧化碳的產生！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "把空氣中的二氧化碳收集起來打進地底下，是不是很神奇?",
+      "content": [
+        {
+          "text": "1. too much 太多 Do you know that new bus terminal? 你知道那個新的公車總站嗎? Yes, what about it? 知道啊，它怎麼了? It's pumping out too much CO2! 它製造太多二氧化碳!",
+          "time": null
+        },
+        {
+          "text": "2. breathe 呼吸 How do you know it's too much? 你怎麼知道太多? Because I can hardly breathe every time I pass it. 因為我每次經過幾乎都不能呼吸。",
+          "time": null
+        },
+        {
+          "text": "3. air 空氣 That's not good. 那不好。 That's very bad! 那很糟糕! I want to tell the city government about the bad air.我要去告訴市政府空氣太壞。",
+          "time": null
+        },
+        {
+          "text": "4. everyone 每個人 Do you think the city will do something? 你覺得市政府會做什麼嗎? Yes, if everyone complains. 會，要是大家都抱怨的話。 Do you mean me? 你是說我嗎? Yes! 對!",
+          "time": null
+        }
+      ],
+      "postscript": "Do you think there's too much CO2 around? too much太多 breathe呼吸 air空氣 everyone每個人"
+    },
+    "quiz": [
+      {
+        "question": "1. Why is too much carbon dioxide bad for the Earth?",
+        "options": [
+          "a. The Earth gets bigger.",
+          "b. The Earth gets cooler.",
+          "c. The Earth gets warmer."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where is the biggest vacuum now?",
+        "options": [
+          "a. Ireland",
+          "b. Iceland",
+          "c. Greenland"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What does the carbon dioxide go into?",
+        "options": [
+          "a. Space",
+          "b. The ocean",
+          "c. The Earth"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
