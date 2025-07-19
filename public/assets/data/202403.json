@@ -1177,5 +1177,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240319-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Life Education",
+      "Multicultural Education",
+      "Reading Literacy Education",
+      "International Education",
+      "Social Studies",
+      "Integrative Activities",
+      "Health and Physical Education"
+    ],
+    "title": "Gachapon's Words from Sounds",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240318NK.mp3",
+    "content": [
+      {
+        "en": "Gacha gacha! That's fun to say! The sound of the crank on a gachapon machine is called gacha gacha!",
+        "tw": "嘎洽嘎洽！唸起來真有趣！扭蛋機的搖桿轉動時，會發出「嘎洽嘎洽」的聲音！",
+        "time": null
+      },
+      {
+        "en": "Gachapon machines are full of small toys. You put money in, you twist the crank, and a plastic pod falls onto the tray. The toy is in the pod!",
+        "tw": "扭蛋機裡有很多小玩具，只要投幣，轉一下旋轉鈕。一顆塑膠扭蛋就會掉出來，裡面有個玩具。",
+        "time": null
+      },
+      {
+        "en": "Gachapon toys are part of a set. There are anime sets, manga sets, wacky cartoon sets, and more. Most people aren't happy with one toy. They want the whole set!",
+        "tw": "扭蛋玩具都是一整套。大部分的人都會想要一整組漫畫或是卡通玩具，而不是只有一個。",
+        "time": null
+      },
+      {
+        "en": "You never know which toy you'll get. And the toy you want almost never comes out! To get the whole set, you have to put money in again and again and again. It's easy to spend lots of money on gachapon toys!",
+        "tw": "你永遠不知道會拿到哪一個玩具，也總是拿不到想要的。要拿到一整組就要一直投幣，很容易一下子就花了很多錢。",
+        "time": null
+      },
+      {
+        "en": "The world's biggest gachapon store is in Tokyo, Japan. It has more than 3,000 machines and millions of toys!",
+        "tw": "全世界最大的扭蛋機商店在日本東京，它有超過3000個扭蛋機跟上百萬個玩具。",
+        "time": null
+      },
+      {
+        "en": "Gacha gacha … What a great word! It cranks and clanks, and winds and grinds! What else is named for the sound it makes? Hey! That was a \"pon.\" Ohhhh! Gachapon!",
+        "tw": "嘎洽嘎洽…真是個很棒的詞！它發出搖動和撞擊的聲音，還有轉動和研磨的聲音！還有什麼東西是以它發出的聲音命名的呢？嘿！那是一個「碰」。喔喔喔！Gachapon！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "很多人喜歡扭蛋機裡面的玩具，並且收集一整套。",
+      "content": [
+        {
+          "text": "1. full of 充滿的\nHey, I've been watching this anime series. 我最近都在看動漫影集。\nIt's full of adventure! 它裡面有好多冒險!\nCool! Which one? 真酷，是哪一部?\nIt's called Detective Conan. 叫做《名偵探柯南》。",
+          "time": null
+        },
+        {
+          "text": "2. Again and again 一次又一次\nI've watched it again and again. 我看了一遍又一遍。\nIs it really that good? 真的有那麼好?\nIt's great! I really enjoy it.",
+          "time": null
+        },
+        {
+          "text": "3. have to 一定要\nBut I usually just read manga. 不過我通常只看漫畫。\nNo, you have to give this one a try. 不，你一定要試著看這一部。",
+          "time": null
+        },
+        {
+          "text": "4. know 知道\nI don't know.我不知道。\nI guess I'll watch it after I finish reading One Piece.\n我想我會在讀完《海賊王》之後去看吧。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like manga or anime? 來讀單字。\nfull of充滿的\nagain and again一次又一次\nhave to一定要\nknow知道"
+    },
+    "quiz": [
+      {
+        "question": "1. What are gachapon machines full of?",
+        "options": [
+          "a. Toys",
+          "b. Books",
+          "c. Games"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where is the world's biggest gachapon store?",
+        "options": [
+          "a. Tokyo",
+          "b. Kyoto",
+          "c. Osaka"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What is the sound of the crank on a gachapon machine called?",
+        "options": [
+          "a. Crank clank",
+          "b. Wind grind",
+          "c. Gacha gacha"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
