@@ -1260,5 +1260,110 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240418-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Climate Action",
+      "Character Education",
+      "Law-related Education",
+      "International Education",
+      "Natural Sciences"
+    ],
+    "title": "Flight Attendant Saves Flamingo Eggs",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240417NK.mp3",
+    "content": [
+      {
+        "en": "Have you been on a plane? Flight attendants work on planes. They bring food and drinks to people. They help people. One day, a flight attendant helped six... flamingo eggs!?!",
+        "tw": "你坐過飛機嗎?飛機上的空服員會給乘客食物跟飲料，也協助乘客。有一次空服員救了六顆紅鶴的蛋。",
+        "time": null
+      },
+      {
+        "en": "Flamingos are big pink birds with long, thin legs. A zoo needed flamingos. So a zookeeper was taking the eggs to the zoo.",
+        "tw": "紅鶴是一種腳又細又長、粉紅色的大鳥。有一個動物園需要紅鶴，於是飼養員帶了六顆蛋準備送到動物園。",
+        "time": null
+      },
+      {
+        "en": "The eggs were in a special machine. It kept them warm. But the machine stopped working... Oh, no! The eggs needed to be warm! The zookeeper asked the flight attendant for help.",
+        "tw": "這些蛋裝在一個特殊的孵蛋器裡面，讓他們保持溫暖。但是糟糕，機器突然壞了，飼養員請求空服員幫忙。",
+        "time": null
+      },
+      {
+        "en": "How did the flight attendant save the eggs? She had a smart idea. She put warm water in rubber gloves. Then she tied the gloves. The gloves kept the eggs warm.",
+        "tw": "空服員怎麼辦呢?她想到一個聰明主意，把橡膠手套裝滿熱水，綁起來，放在紅鶴蛋的周圍。",
+        "time": null
+      },
+      {
+        "en": "People around the zookeeper worried about the eggs. They put their coats on the eggs.",
+        "tw": "周圍的乘客也很緊張，紛紛用外套蓋住這些蛋。",
+        "time": null
+      },
+      {
+        "en": "After the plane landed, the zookeeper took the eggs to the zoo. One month later, six baby flamingos came out of the eggs! And the flight attendant went to see them!",
+        "tw": "飛機降落後，飼養員趕緊把蛋送到動物園。一個月後，成功孵出六隻紅鶴寶寶，那位空服員還去探望牠們。",
+        "time": null
+      },
+      {
+        "en": "The flight attendant's smart idea saved the eggs. Maybe your smart ideas will help something or somebody someday!",
+        "tw": "空服員的聰明主意拯救了蛋。或許有一天，你的聰明主意也會幫助某件事或某個人！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "聰明的空服員，讓六枚紅鶴蛋安然無恙。",
+      "content": [
+        {
+          "text": "1. drink 飲料\nHi, welcome aboard! 歡迎登機!\nHi, Miss, could I have some food and drinks? 小姐，可以給我一些食物跟飲料嗎?\nWe will bring food and drinks to you shortly. 我們馬上就會送食物飲料給你。\nAfter we take off. 在起飛之後。",
+          "time": null
+        },
+        {
+          "text": "2. need 需要\nBut I really need to eat now. 但是我真的需要現在就吃。\nI'm very hungry! 我肚子好餓!\nCan you please help me? 你可以幫我嗎?",
+          "time": null
+        },
+        {
+          "text": "3. save 拯救\nI'll see what I can do.我看看能怎麼辦。\nHere is a special meal for you. 這是特別給你的一餐。\nThank you! You saved me! 謝謝，你救了我!",
+          "time": null
+        },
+        {
+          "text": "4. ask 請求\nNow can I ask for a glass of champagne? 現在我可以要一杯香檳嗎?\nNo, I'm sorry. No champagne. 不，很抱歉。沒有香檳。",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字?\ndrink飲料\nneed需要\nsave拯救\nask請求"
+    },
+    "quiz": [
+      {
+        "question": "1. Who saved the eggs?",
+        "options": [
+          "a. A zookeeper",
+          "b. Flamingos",
+          "c. A flight attendant"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How were the eggs saved?",
+        "options": [
+          "a. Hot air in bags",
+          "b. Ice in cups",
+          "c. Warm water in gloves"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What came out of the eggs?",
+        "options": [
+          "a. A machine",
+          "b. Baby flamingos",
+          "c. An idea"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
