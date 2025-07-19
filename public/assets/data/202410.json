@@ -1435,5 +1435,105 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20241022-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education"
+    ],
+    "title": "Scientists Studying Small Human Bones on Island",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241021NK.mp3",
+    "content": [
+      {
+        "en": "Twenty years ago, scientists found bones on an island in Indonesia. The bones are from sixty thousand to one hundred thousand years old!",
+        "tw": "二十年前，科學家在印尼一座小島上，發現一些人骨化石，大約有六萬到十萬年的歷史!",
+        "time": null
+      },
+      {
+        "en": "These bones are from very short humans. Why were they short? Were they short when they came to the island? Or were they sick? Or did they need more food? The scientists didn't know.",
+        "tw": "這些骨頭來自很矮小的人類，他們來到島上時就這麼矮嗎? 還是他們生病了? 也許是食物不夠? 科學家不知道答案。",
+        "time": null
+      },
+      {
+        "en": "The scientists needed to know more. So they looked for more bones on the island. Ten years later, they found an older arm bone. It's seven hundred thousand years old!",
+        "tw": "科學家們希望知道更多，所以他們在島上尋找更多骨頭，十年之後終於找到一根七十萬年前的手臂骨頭!",
+        "time": null
+      },
+      {
+        "en": "All the bones are from very short humans. The oldest human was one meter tall!",
+        "tw": "所有找到的骨頭都來自矮小人類，最古老的人只有一百公分高!",
+        "time": null
+      },
+      {
+        "en": "They had small brains and big teeth. They had short legs and big feet. The scientists thought of the short hobbits in a famous book. Now these humans are called hobbits.",
+        "tw": "他們有很小的腦袋和大大的牙齒，還有很短的腿以及大腳丫。科學家們用小說裡的哈比人來稱呼這個族群。",
+        "time": null
+      },
+      {
+        "en": "These hobbits made stone tools. They hunted small elephants and big rats. And maybe they used fire!",
+        "tw": "這些哈比人會做石頭工具，用來捕獵身材小的大象跟大老鼠，也許他們也會用火!",
+        "time": null
+      },
+      {
+        "en": "The scientists are looking for more hobbit bones. They want to learn more!",
+        "tw": "科學家們正在尋找更多哈比人骨骼。他們想了解更多！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家正在研究，印尼小島上的古老人類，會不會是現代人的祖先?",
+      "content": [
+        {
+          "text": "1. brain 腦袋。\nCould we come from these hobbits? 我們可能來自這些哈比人嗎?\nThe people of small brains and big teeth? 那些小小腦袋大大牙齒的人? I hope not! 我希望不是!",
+          "time": null
+        },
+        {
+          "text": "2. small 小的。\nBut why were they so small? 但是他們為什麼那麼矮小?\nMaybe the bones are from children? 也許那些骨頭是小孩子的?\nThat's a good point! 這個論點很好。",
+          "time": null
+        },
+        {
+          "text": "3. meter 公尺。\nBut even my 6-year-old son is more than one meter tall.不過就算我的六歲兒子也比一公尺高。",
+          "time": null
+        },
+        {
+          "text": "4. human 人類。\nI think we humans have changed a lot over the years.我覺得多年來人類改變了很多。Yeah, we've certainly become taller. 我們確實長高了。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很簡單喔。brain腦袋 small小的 meter公尺 human人類"
+    },
+    "quiz": [
+      {
+        "question": "1. Where were the human bones found?",
+        "options": [
+          "a. Malaysia",
+          "b. India",
+          "c. Indonesia"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do scientists say about these humans?",
+        "options": [
+          "a. They were very tall.",
+          "b. They were very short.",
+          "c. They were very sick."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What are these humans called?",
+        "options": [
+          "a. Hobbits",
+          "b. Rabbits",
+          "c. Arm bones"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
