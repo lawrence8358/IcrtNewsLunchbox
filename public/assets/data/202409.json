@@ -597,5 +597,109 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240910-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Technology",
+      "Energy Education",
+      "Sustainable Cities and Communities",
+      "Affordable and Clean Energy"
+    ],
+    "title": "Green Electricity in Taitung",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240909NK.mp3",
+    "content": [
+      {
+        "en": "Deep in the earth, it's very, very hot.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "In Taiwan, under Taitung, it's very, very, very hot! The water there is hot too. It's so hot that it makes lots of steam!",
+        "tw": "台東地底下的溫度非常高，地下水也很燙，會產生很多的蒸氣。",
+        "time": null
+      },
+      {
+        "en": "The hot water and steam come out of the earth. The hot water makes hot springs. Many people go to Taitung's hot springs. They sit and relax … ahh! Clouds of steam go up and away.",
+        "tw": "熱水跟蒸氣從地底下冒出來就變成溫泉。很多人會到台東泡溫泉放鬆。",
+        "time": null
+      },
+      {
+        "en": "Some companies had a big idea. They helped the Bunun people with a hot spring park. The companies will also use the steam in the earth. They will make green electricity. Green electricity means it's good for the earth!",
+        "tw": "有一些公司想到不錯的主意，他們幫布農族建了溫泉園區。這些公司也利用地熱發展綠能，對環境友善。",
+        "time": null
+      },
+      {
+        "en": "First, they made a deep hole. They are testing it now. The steam will try to get out. You can see this with a kettle at home.",
+        "tw": "首先他們鑽了一個很深的洞，試著讓蒸汽冒出來，就像是在燒開水。",
+        "time": null
+      },
+      {
+        "en": "In Taitung, when the steam gets out, it will spin a big wheel. The spinning wheel will make electricity. It can make electricity for 2,500 houses!",
+        "tw": "冒出來的蒸氣會讓渦輪轉動產生電能，可以讓 2500個家庭使用。",
+        "time": null
+      },
+      {
+        "en": "The heat deep in the earth can make lots of good things happen in Taiwan! Go, steam, go!",
+        "tw": "地球深處的熱能可以在台灣促成許多好事發生！蒸汽，加油！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "地熱可以發電，也會產生溫泉。",
+      "content": [
+        {
+          "text": "1. relax 放鬆。\nAh, it's so nice to soak in the hot spring! 泡溫泉真好!\nYeah, what a way to relax! 對啊，讓人放鬆的好辦法!",
+          "time": null
+        },
+        {
+          "text": "2. deep 很深的。\nDoes all this water come from deep underground? 這些熱水都從地底深處來的嗎?\nI believe so.我相信是。\nYou can smell the sulfur. 你可以聞到硫磺味。",
+          "time": null
+        },
+        {
+          "text": "3. house 房屋。\nI hope to live in a house with a hot spring. 我希望住在有溫泉的房子裡。That would be wonderful!\n那太好了!\nCan I go and visit? 我可以去拜訪嗎?",
+          "time": null
+        },
+        {
+          "text": "4. at home 在家。\nI may not be at home. 我可能會不在家。\nWhy not? 為什麼呢?\nBecause it'll be too hot there. 因為那裡太熱了。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡泡湯嗎?來一起讀單字。\nrelax放鬆 deep很深的 house房屋 at home在家"
+    },
+    "quiz": [
+      {
+        "question": "1. Where will the companies make electricity?",
+        "options": [
+          "a. Taichung",
+          "b. Taitung",
+          "c. Taipei"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where does the water from the hot spring come from?",
+        "options": [
+          "a. The moon",
+          "b. The ocean",
+          "c. The earth"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What will the companies use to make electricity?",
+        "options": [
+          "a. Green water",
+          "b. Steam",
+          "c. Clouds"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
