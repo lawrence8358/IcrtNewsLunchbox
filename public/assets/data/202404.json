@@ -432,5 +432,116 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240408-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Environmental Education",
+      "Safety Education",
+      "Outdoor Education",
+      "Social Studies",
+      "Health and Physical Education",
+      "Natural Sciences"
+    ],
+    "title": "Hungry Hikers Call Fire Department",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240405NK.mp3",
+    "content": [
+      {
+        "en": "Oh, there's a fire! Call the fire department!",
+        "tw": "天啊，失火了!趕快叫消防車。",
+        "time": null
+      },
+      {
+        "en": "Fire departments help when there's a fire. They also help in other emergencies. The fire department in Nantou County helps with emergencies on mountains.",
+        "tw": "除了滅火，消防員也會緊急救援。南投縣消防局也會上山救援。",
+        "time": null
+      },
+      {
+        "en": "Some hikers were hiking on mountains in Nantou County. The weather was very cold. There was ice on the hiking trails. The hikers walked very slowly to stay safe. It took a lot of time. They ate all their food!",
+        "tw": "有一群登山客去南投縣爬山。天氣冷，路上又結冰，他們為了安全走得很慢。但是花了太多時間，把東西都吃完了。",
+        "time": null
+      },
+      {
+        "en": "The hungry hikers called the fire department. They wanted firefighters to bring them food. What?!",
+        "tw": "肚子餓的登山客打電話給消防局，希望可以送食物給他們。",
+        "time": null
+      },
+      {
+        "en": "Did firefighters bring them food? No! They are NOT a food delivery service! The hikers were safe. There was no emergency!",
+        "tw": "消防員真的送了食物嗎?沒有，消防局又不是外送。而且登山客很安全，沒有緊急事件。",
+        "time": null
+      },
+      {
+        "en": "But don't worry! The hikers called a mountain guide service. A mountain guide took food up the mountain to them!",
+        "tw": "別擔心! 後來登山客聯絡高山協作公司，有一位高山嚮導送食物上山。",
+        "time": null
+      },
+      {
+        "en": "The fire department talked to the hikers again. Did the hikers get food? Yes. Were they safe? Yes. They told the hikers to bring more food and water next time!",
+        "tw": "消防局後來再聯絡登山客，問他們有沒有拿到食物。有。安全嗎? 是的。也告訴他們下次要多帶一點食物跟水。",
+        "time": null
+      },
+      {
+        "en": "If you go hiking, bring lots of food and water! And if you eat all your food, remember, firefighters don't deliver food!",
+        "tw": "如果你去登山，要帶足夠的食物和水！如果你把食物吃完了，記得，消防員不提供食物外送服務！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "消防人員的任務是緊急救難，可不能請他們外送。",
+      "content": [
+        {
+          "text": "1. hiker 登山客\nSpring is really here.春天真的來了。\nLet's go hiking up on Daxueshan. 我們去大雪山健行吧。\nThat's a high mountain! 那是高山呢!\nI'm not much of a hiker, you know.",
+          "time": null
+        },
+        {
+          "text": "2. trail 步道\nI know that, but no worries. 我知道，不過別擔心。\nThe hiking trail I chose is easy.",
+          "time": null
+        },
+        {
+          "text": "3. take 攜帶\nWe have to take a pot up there. 我們得帶個鍋子上去。\nWhat? Do you plan to cook on the mountain?",
+          "time": null
+        },
+        {
+          "text": "4. hungry 飢餓的\nSure. It's cold there. 當然啊，那裡很冷啊。\nI get hungry very fast when it's cold.",
+          "time": null
+        }
+      ],
+      "postscript": "Do you enjoy hiking on the mountain?\nhiker登山客\ntrail步道\ntake攜帶\nhungry飢餓的"
+    },
+    "quiz": [
+      {
+        "question": "1. What was on the hiking trail?",
+        "options": [
+          "a. Fire",
+          "b. Bears",
+          "c. Ice"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did the hikers want the fire department to do?",
+        "options": [
+          "a. Take them home",
+          "b. Bring them food",
+          "c. Fight fires"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why didn't the fire department help the hikers?",
+        "options": [
+          "a. They were safe.",
+          "b. They had no money.",
+          "c. It was cold."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
