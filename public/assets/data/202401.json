@@ -1406,5 +1406,104 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240119-01",
+    "type": "國小",
+    "tag": [
+      "Clean Water and Sanitation",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life on Land",
+      "Environmental Education",
+      "Marine Education",
+      "Multicultural Education",
+      "Outdoor Education",
+      "International Education",
+      "Natural Sciences"
+    ],
+    "title": "New Zealand's Wacky Bird of the Century",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240118NK.mp3",
+    "content": [
+      {
+        "en": "New Zealand's Bird of the Century is famous around the world. Do you know what kind of bird it is? No? The Bird of the Century is the puteketeke! It's a beautiful bird that looks and acts wacky.",
+        "tw": "你知道紐西蘭票選的「世紀鳥」是什麼鳥嗎? 是冠鷿鵜喔! 牠是一種外表跟行為都很奇怪的一種鳥。",
+        "time": null
+      },
+      {
+        "en": "The puteketeke's head has black feathers on top. They stand up! Orange feathers and black feathers circle its face. Imagine a hair dryer at the back of its head. It's blowing these feathers up and out! That's the wacky puteketeke!",
+        "tw": "牠頭上有黑色的羽毛，臉部周圍長滿橘色跟黑色的羽毛。",
+        "time": null
+      },
+      {
+        "en": "The puteketeke gives water weeds to the bird it likes. Then the two p?teketekes do chest bumps.",
+        "tw": "牠會咬著雜草求偶，再跟伴侶互相撞擊胸部。",
+        "time": null
+      },
+      {
+        "en": "The puteketeke carries its chicks on its back in the water. And... it eats its own feathers! The feathers make everything in its stomach come back up! Yep, it throws up! This gets rid of sharp fish bones and parasites.",
+        "tw": "牠還會吃自己的羽毛，接著把胃裡的東西全吐出來，用這個辦法吐出魚骨頭跟寄生蟲。",
+        "time": null
+      },
+      {
+        "en": "The puteketeke is the \"Bird of the Century.\" A century is one hundred years. New Zealand has about one thousand p?teketekes. That's not many! Will p?teketekes be here a century from now? Maybe being the Bird of the Century will save the wacky puteketeke!",
+        "tw": "冠鷿鵜是「世紀鳥」。一個世紀是一百年。紐西蘭大約有1000隻冠鷿鵜，數量並不多！冠鷿鵜在一個世紀後還會在這裡嗎？也許成為世紀鳥將會拯救這隻古怪的冠鷿鵜！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "美麗而特別的冠鷿鵜，深受紐西蘭人的喜愛。",
+      "content": [
+        {
+          "text": "1. face 臉\nI went bird watching on Sunday. 我星期天跑去賞鳥。\nDid you see anything special? 有看到什麼特別的嗎？\nYeah, I saw this bird with a narrow face and purple feathers.",
+          "time": null
+        },
+        {
+          "text": "2. stand 站立\nIt was absolutely beautiful! 漂亮極了！\nWhat's its name? 名字叫什麼？\nPurple heron.紫鷺。\nIt was just standing there in the water.",
+          "time": null
+        },
+        {
+          "text": "3. fish 魚\nTrying to catch fish? 想要抓魚嗎？\nI believe so.我相信是。\nAnyway, it's a rare bird.",
+          "time": null
+        },
+        {
+          "text": "4. here 這裡\nSome of them come here from Siberia in winter. 有的是冬天從西伯利亞來到這裡。\nDo they go back? 會回去嗎？\nSome do. 有的會。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字都很短。\nface臉\nstand站立\nfish魚\nhere這裡"
+    },
+    "quiz": [
+      {
+        "question": "1. What does the puteketeke carry its chicks on?",
+        "options": [
+          "a. Its wings",
+          "b. Its beak",
+          "c. Its back"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Why does the puteketeke eat its feathers?",
+        "options": [
+          "a. To make a nest",
+          "b. To get rid of parasites",
+          "c. To do chest bumps"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many puteketekes are there in New Zealand?",
+        "options": [
+          "a. 100",
+          "b. 1,000",
+          "c. 10,000"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
