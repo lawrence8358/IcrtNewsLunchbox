@@ -1424,5 +1424,108 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240624-01",
+    "type": "國小",
+    "tag": [
+      "Life Below Water",
+      "Environmental Education",
+      "Marine Education",
+      "Natural Sciences"
+    ],
+    "title": "Keeping Quiet in Schools",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240621NK.mp3",
+    "content": [
+      {
+        "en": "In our big oceans, there's lots of space. But fish swim together in groups!",
+        "tw": "魚都會成群結伴在大海裡游泳。",
+        "time": null
+      },
+      {
+        "en": "Do you know what a group of fish is called? It's called a school! Being in a school helps fish stay safe from bigger fish.",
+        "tw": "那你知道魚群英文怎麼說嗎? 就是school。魚群結伴同行可以預防其他大魚靠近。",
+        "time": null
+      },
+      {
+        "en": "Fish move together in schools. They turn and swim the same way. Some scientists studied more about how fish move in schools.",
+        "tw": "魚群移動的時候，牠們會游相同的方向。有一些科學家研究魚在魚群中怎麼移動。",
+        "time": null
+      },
+      {
+        "en": "Scientists learned some amazing things! We know one fish swims very quietly. But they learned that schools of fish swim very quietly too! One school sounds like one fish!",
+        "tw": "我們知道一隻魚可以靜靜地在海裡游，但是科學家發現魚群也可以跟單獨移動的時候一樣安靜。",
+        "time": null
+      },
+      {
+        "en": "How do fish swim quietly together? When the tails of all the fish move the same way, the school is loud. But when the tails DON'T move the same way, the school is quiet.",
+        "tw": "如果所有的魚都用同樣的頻率、方向擺動尾巴就會很吵，反而用不同的頻率、方向擺動比較安靜。",
+        "time": null
+      },
+      {
+        "en": "Something else also happens. The water around the fish moves more strongly. That makes them swim faster! They use less energy, but they go faster!",
+        "tw": "而且魚群周圍的水流比較大的時候，可以讓牠們游得又快又省力。",
+        "time": null
+      },
+      {
+        "en": "Being in a school makes fish safer. Scientists found that schools make fish quieter and faster too! That makes fish safer! School is the best place to be for fish!",
+        "tw": "魚群能讓魚更安全。科學家發現魚群也能讓魚更安靜、更快！這讓魚更安全！魚群是魚的最佳去處！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "魚類喜歡成群結隊在海裡游，不但安全也節省體力。",
+      "content": [
+        {
+          "text": "1. quietly 安靜地\nWe need to move quietly if we want to see the fish up close.\n要是我們想靠近欣賞魚，動作就得安靜。\nI'm not a good swimmer. I'll just follow you. 我游得不是很好，我就跟著你。",
+          "time": null
+        },
+        {
+          "text": "2. safer 比較安全\nJust remember, the quieter we are, the safer the fish feel.\n你只要記住，我們越安靜，魚兒就越覺得安全。\nOkay, that makes sense. 好，有道理。",
+          "time": null
+        },
+        {
+          "text": "3. loud 大聲的\nBut what if I make a loud noise? 可是如果我弄出噪音來呢?\nThen all the fish will be gone! 那所有的魚就全跑了。",
+          "time": null
+        },
+        {
+          "text": "4. stay 保持\nBut they'll come back, so don't panic.但是牠們會回來的，所以別恐慌。\nStay quiet and they'll be back.你保持安靜牠們就回來了。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字請你來複習。\nquietly安靜地\nsafer比較安全\nloud大聲的\nstay保持"
+    },
+    "quiz": [
+      {
+        "question": "1. What is a group of fish called?",
+        "options": [
+          "a. An aquarium",
+          "b. A school",
+          "c. A pack"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why do fish swim in a group?",
+        "options": [
+          "a. To be safe",
+          "b. To eat",
+          "c. To play"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What makes a group of fish swim quietly?",
+        "options": [
+          "a. Tails don't move",
+          "b. Tails move the same",
+          "c. Tails don't move the same"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
