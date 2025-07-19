@@ -1121,5 +1121,106 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240619-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies",
+      "Life Education"
+    ],
+    "title": "Boy Works Hard to Make Money",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240618NK.mp3",
+    "content": [
+      {
+        "en": "Shredders cut paper into lots of very small pieces. Paper goes in and shredded paper comes out!",
+        "tw": "碎紙機會把紙切成很多小碎片，把紙張放進去，碎片就會出來。",
+        "time": null
+      },
+      {
+        "en": "In Japan, a man shredded some papers. He shredded an envelope. Then … oh, no! He remembered the envelope had a ?10,000 yen bill in it! That's about $2,000 Taiwan dollars…",
+        "tw": "日本有一位男子在用碎紙機的時候，不小心把裝了一張1萬日圓的信封放進碎紙機，1萬日圓大約等於兩千塊台幣。",
+        "time": null
+      },
+      {
+        "en": "The man told his son about the shredded bill. If the boy put the bill back together, it was his! But first, he had to find the pieces of the bill...There was lots of shredded paper!",
+        "tw": "男子告訴他兒子，如果他可以把鈔票拼回去，那張鈔票就是他的。但他要先找出那一張日幣的碎片。",
+        "time": null
+      },
+      {
+        "en": "It was very hard! Some pieces of the bill were the same color as other shredded paper!",
+        "tw": "這非常困難，因為鈔票碎片跟機器裡面的一些別的碎紙顏色一樣。",
+        "time": null
+      },
+      {
+        "en": "The boy had another ?10,000 yen bill. He matched the little pieces to the new bill. He didn't find all of the pieces. But he found most of them! It took him three weeks!",
+        "tw": "男孩拿出另一張1萬日圓的鈔票，用來比對碎片，雖然他沒有找到全部，但他花了三個星期找回了大部分。",
+        "time": null
+      },
+      {
+        "en": "He took the shredded bill to a bank. They looked at it carefully. Did they give him a new ?10,000 yen bill? Yes!!",
+        "tw": "他拿著拚回去的鈔票去銀行，銀行仔細檢查後，給了他一張新的鈔票。",
+        "time": null
+      },
+      {
+        "en": "Was $2,000 Taiwan dollars worth all that work? For this boy, yes, it was!",
+        "tw": "兩千台幣值得這麼多努力嗎？對於這個男孩來說，是的，值得！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "被碎紙機絞碎的鈔票，小男孩卻有辦法把它們拼回去。",
+      "content": [
+        {
+          "text": "1. piece 片、塊\nI found an amazing puzzle! 我找到一個很棒的拼圖!\nOh no, how many pieces? 糟糕了，有幾片?\nThree thousand! 三千片!",
+          "time": null
+        },
+        {
+          "text": "2. hard 困難的\nThat's a bit hard, don't you think? 那有點難，你不覺得嗎?\nThe last time you did a 2-thousand-piece one, 上次你拼兩千片的拼圖，it took you two months! 花了兩個月!",
+          "time": null
+        },
+        {
+          "text": "3. have to 必須\nThat's because one piece was missing. 那是因為有一片不見了。\nI had to find it. 我得把它找出來。\nWell, at least you found it. 至少你找到了。\nYeah.是的。",
+          "time": null
+        },
+        {
+          "text": "4. carefully 小心\nThis time I'll do it much more carefully.這回我會小心得多。\nAnd spend another three months on it? 再花三個月嗎?\nI hope not! 我希望不會。",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我念今天的單字。piece片、塊hard困難的have to必須carefully小心"
+    },
+    "quiz": [
+      {
+        "question": "1. What does a shredder do?",
+        "options": [
+          "a. Finds paper",
+          "b. Cuts paper",
+          "c. Colors paper"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How much money was in the envelope?",
+        "options": [
+          "a. ?2000 yen",
+          "b. ?10,000 yen",
+          "c. ?3 yen"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Who put the ?10,000 yen bill back together?",
+        "options": [
+          "a. The man",
+          "b. The man's daughter",
+          "c. The man's son"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
