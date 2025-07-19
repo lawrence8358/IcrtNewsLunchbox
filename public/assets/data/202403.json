@@ -519,5 +519,119 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240308-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Industry, Innovation and Infrastructure",
+      "Life on Land",
+      "Environmental Education",
+      "Character Education",
+      "Life Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Natural Sciences"
+    ],
+    "title": "Company Thanks Dead Pests",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240307NK.mp3",
+    "content": [
+      {
+        "en": "Voice: Ewww, gross! *gasp* What did I do?! I'M SORRY, COCKROACH!!!",
+        "tw": "聲音：噁，好噁心！ *喘氣* 我做了什麼？！對不起，蟑螂！！！",
+        "time": null
+      },
+      {
+        "en": "Narrator: Most people aren't sad about killing these big brown bugs!",
+        "tw": "旁白：大多數人殺死這些大棕色蟲子時並不會感到難過！",
+        "time": null
+      },
+      {
+        "en": "Cockroaches are pests. Mosquitoes, flies, and other bugs are pests too. Pests carry lots of germs and diseases. Pests can make you very sick.",
+        "tw": "蟑螂、蚊子跟蒼蠅等等都是害蟲。牠們身上有很多細菌跟病毒讓人生病。",
+        "time": null
+      },
+      {
+        "en": "Pesticides are special sprays, gels, and smells that kill pests. Big companies have their own bugs for testing. They want to make sure their pesticides kill bugs.",
+        "tw": "殺蟲劑是特殊的噴霧、凝膠跟氣味。大公司會養害蟲測試殺蟲的功效。",
+        "time": null
+      },
+      {
+        "en": "In Japan, one pesticide company has around one million cockroaches and more than one hundred million ticks!",
+        "tw": "日本有一間殺蟲劑公司需要大約100萬隻蟑螂跟超過一億隻的壁蝨。",
+        "time": null
+      },
+      {
+        "en": "This company kills millions of bugs. It kills them to keep people safe from disease. But killing bugs makes the company's workers very sad.",
+        "tw": "這間公司殺了數百萬隻蟲，雖然是為了預防疾病，但是殺蟲還是讓員工很難過。",
+        "time": null
+      },
+      {
+        "en": "Every year, this company has a ceremony at a temple. The ceremony is to thank the dead bugs. A priest prays in front of many pictures of dead bugs. It's very sad and very serious …",
+        "tw": "每一年公司都會在寺廟設祭壇，感謝這些死掉的蟲子，場面嚴肅而哀傷。",
+        "time": null
+      },
+      {
+        "en": "Goodbye, dead pests! The next time you see a bug, why not … Yuck! Whoops …",
+        "tw": "再見了，死去的害蟲！下次你看到蟲子的時候，為什麼不…噁！哎呀…",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "日本這家殺蟲劑公司，每年紀念犧牲的昆蟲。",
+      "content": [
+        {
+          "text": "1. mosquito 蚊子\nThere! Got you! 打到你了!\nAnother mosquito? 又一隻蚊子?\nWhy do we have so many mosquitoes this year? 今年我們怎麼這麼多蚊子?",
+          "time": null
+        },
+        {
+          "text": "2. fly 蒼蠅\nLook at your broken window. 看看你破掉的窗戶。\nThat's why.那就是原因。\nYou're right. Just yesterday 3 flies came in. 你說對了，昨天三隻蒼蠅跑進來。",
+          "time": null
+        },
+        {
+          "text": "3. make sure 確保\nThey didn't stop on my bread, did they? 他們沒有停在我的麵包上吧?\nNo, I made sure they were dead. 沒有，我確保牠們死了。\nThat's really something! 這個就厲害了!",
+          "time": null
+        },
+        {
+          "text": "4. pesticide 殺蟲劑\nHow did you do it? 你是怎麼辦到的?\nEasy. I used pesticide. 很簡單，我用了殺蟲劑。\nUh…That's actually not a good idea. 那其實不是個好主意。",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到那些單字?\nmosquito蚊子\nfly蒼蠅\nmake sure確保\npesticide殺蟲劑"
+    },
+    "quiz": [
+      {
+        "question": "1. What do pests carry?",
+        "options": [
+          "a. Flies",
+          "b. Germs",
+          "c. Gels"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Which of these are not pests?",
+        "options": [
+          "a. Cockroaches",
+          "b. Mosquitoes",
+          "c. Pesticides"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How many ticks does the pesticide company have?",
+        "options": [
+          "a. More than one hundred million",
+          "b. Around one million",
+          "c. One"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
