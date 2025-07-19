@@ -1292,5 +1292,115 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240919-01",
+    "type": "國小",
+    "tag": [
+      "Affordable and Clean Energy",
+      "Sustainable Cities and Communities",
+      "Environmental Education",
+      "Technology Education",
+      "Technology",
+      "Health and Physical Education"
+    ],
+    "title": "Bikes Make Electricity at Keelung Port",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240918NK.mp3",
+    "content": [
+      {
+        "en": "Riding a bike is very good exercise. But, did you know you can make electricity doing this?",
+        "tw": "騎腳踏車是一項很好的運動，但你知道騎腳踏車可以發電嗎?",
+        "time": null
+      },
+      {
+        "en": "Bike riders can make about 100 watts of electricity in one hour. That can charge a smartphone, a tablet, a laptop, or a TV!",
+        "tw": "騎腳踏車一小時能產生100瓦的電力，可以充手機、平板、電腦或電視機。",
+        "time": null
+      },
+      {
+        "en": "But the bikes stay in the same place. And they need some equipment to make electricity. This is not easy to do at home.",
+        "tw": "但是腳踏車要停在同一個地方，而且需要一些設備才能發電。想要在家做可不容易。",
+        "time": null
+      },
+      {
+        "en": "But... do you want to try making electricity on a bike? You can do this at Keelung Port. They have new bikes that make electricity!",
+        "tw": "想不想試試騎腳踏車發電呢? 你可以在基隆港做，他們有能夠發電的腳踏車!",
+        "time": null
+      },
+      {
+        "en": "When you ride one, you can charge your phone or tablet. A screen shows how much electricity you are making on the bike.",
+        "tw": "當你騎在發電腳踏車上，可以給自己的手機或平板充電。車上的螢幕會顯示你發了多少電。",
+        "time": null
+      },
+      {
+        "en": "People are excited about Keelung Port's new bikes! On the first day, more than one hundred twenty people tried them.",
+        "tw": "大家對基隆港這種腳踏車都很興奮! 第一天推出時，超過 120 個人去使用。",
+        "time": null
+      },
+      {
+        "en": "People love making electricity on these bikes! They say riding these bikes is healthy. They say these bikes are good for the environment.",
+        "tw": "人們很喜歡騎這些腳踏車發電! 他們說這不但有益健康，對環境也很有幫助。",
+        "time": null
+      },
+      {
+        "en": "Now Keelung Port is going to have more of these bikes!",
+        "tw": "現在基隆港將會推出更多這種腳踏車！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "騎腳踏車來發電，一舉兩得!",
+      "content": [
+        {
+          "text": "1. charge 充電。\nOh no, the power is out! 糟糕，停電了!\nNow how am I going to charge my laptop? 我現在要怎麼給筆電充電?\nAnd how can I cook without power? 沒電我怎麼煮飯?",
+          "time": null
+        },
+        {
+          "text": "2. ride 騎。\nI've got an idea.我有個主意。\nLet me move my exercise bike here. 我把運動腳踏車搬來這。\nWhat for? 為什麼呢?\nRiding it can create power! 騎車可以發電啊!",
+          "time": null
+        },
+        {
+          "text": "3. try 嘗試。\nYou can certainly try. 你當然可以試試看。\nBut I don't think it'll create enough. 但是我想它的發電量不夠。",
+          "time": null
+        },
+        {
+          "text": "4. hour 小時。\nI've been riding for an hour. 我已經騎了一個鐘頭了。\nYeah, and all it does is light up this little bulb.沒錯，但是只點亮了一個小燈泡。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字簡短好記。\ncharge充電 ride騎 try嘗試 hour小時"
+    },
+    "quiz": [
+      {
+        "question": "1. How much electricity can a bike rider make?",
+        "options": [
+          "a. 100 watts",
+          "b. 1,000 watts",
+          "c. 1,000,000 watts"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What can a bike's electricity charge?",
+        "options": [
+          "a. A smartphone",
+          "b. An electric car",
+          "c. A big house"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Where in Keelung are these bikes?",
+        "options": [
+          "a. At a port",
+          "b. At a shop",
+          "c. At a park"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
