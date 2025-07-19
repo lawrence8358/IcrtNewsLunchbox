@@ -1036,5 +1036,102 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20241016-01",
+    "type": "國小",
+    "tag": [
+      "Climate Action",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Too Hot for the Summer Olympics in 25 Years",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241015NK.mp3",
+    "content": [
+      {
+        "en": "Did you watch the Summer Olympics a few months ago? Paris was very hot. The hottest days were more than thirty-five degrees! That is hot for Paris!",
+        "tw": "你有看幾個月前的奧運嗎?那時候巴黎非常熱，最熱的那幾天溫度超過 35 度!",
+        "time": null
+      },
+      {
+        "en": "The Summer Olympics has many outdoor sports. The heat is hard for athletes playing outdoor sports. The heat is hard for people watching these sports outdoors too.",
+        "tw": "夏季奧運有很多戶外項目，炎熱的天氣讓運動員跟看比賽的觀眾都很辛苦。",
+        "time": null
+      },
+      {
+        "en": "Getting too hot can be dangerous! People can get very sick. They can die.",
+        "tw": "天氣太熱很危險，人們會生病，甚至可能會失去生命。",
+        "time": null
+      },
+      {
+        "en": "Scientists say climate change made Paris hotter this summer. It is making cities around the world hotter too. By the year 2050, many cities will be too hot for the Summer Olympics.",
+        "tw": "科學家說氣候暖化讓世界各地越來越熱，到了 2050 年的時候，很多城市溫度會太高，沒辦法舉辦夏季奧運。",
+        "time": null
+      },
+      {
+        "en": "Maybe the Summer Olympics will move away from summer. Or maybe it will be in London, UK, or Oslo, Norway. These are cooler cities in the north. Maybe it will be in Santiago, Chile. It's in the south part of the world. Our summer is the south's winter!",
+        "tw": "也許夏季奧運會改到別的季節，或者在涼一點的城市舉辦，例如倫敦或是挪威的奧斯陸。又或者它可以移到南半球的智利聖地牙哥，因為我們的夏天是南半球的冬天!",
+        "time": null
+      },
+      {
+        "en": "Let's not wait for our cities to get so hot. Let's fight climate change!",
+        "tw": "讓我們不要等到我們的城市變得這麼熱。讓我們一起對抗氣候變遷吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "隨著地球暖化，夏季奧運以後可能沒辦法在夏天舉辦。",
+      "content": [
+        {
+          "text": "1. outdoors 戶外。 Let's go and play badminton.我們去打羽球吧。 No, I can't go outdoors right now. 我不行，我現在不能去外面。 Why not? 為什麼不行? Look at the sun! It's way too hot. 你看看太陽!太熱了。",
+          "time": null
+        },
+        {
+          "text": "2. cooler 比較涼的。 I'll play with you when it's cooler. 我比較涼了再跟你打。 Oh, come on. It's October. 好啦，現在是十月。 It's not the hottest month. 又不是最熱的月。",
+          "time": null
+        },
+        {
+          "text": "3. heat 熱度。 I know. But the heat is too much for me. 我知道，但是我還是受不了這種熱度。",
+          "time": null
+        },
+        {
+          "text": "4. winter 冬天。 Yet when winter comes around, 但是冬天來時， you say it's too cold for you. 你會說太冷了。 What can I say? 我能怎麼說? The weather always gets me. 天氣總是會影響我。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡熱天嗎? 來一起讀單字。 outdoors戶外 cooler比較涼的 heat熱度 winter冬天"
+    },
+    "quiz": [
+      {
+        "question": "1. What made Paris hotter this year?",
+        "options": [
+          "a. Climate change",
+          "b. The Summer Olympics",
+          "c. Outdoor sports"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Which city is in the south part of the world?",
+        "options": [
+          "a. London",
+          "b. Santiago",
+          "c. Oslo"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. When will many cities be too hot for the Summer Olympics?",
+        "options": [
+          "a. 2040",
+          "b. 2050",
+          "c. 2060"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
