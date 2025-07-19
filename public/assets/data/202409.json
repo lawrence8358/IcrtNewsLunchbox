@@ -1603,5 +1603,110 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240924-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies"
+    ],
+    "title": "Taitung's Mystery Stone",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240923NK.mp3",
+    "content": [
+      {
+        "en": "People lived in Taiwan thousands of years ago. We don't know a lot about them. Sometimes we find their things. These things can help us learn more. But sometimes the things are a mystery.",
+        "tw": "幾千年前，就有人類在台灣生活，我們偶而也會找到一些那些人的遺跡。不過有時候找到的東西是個謎。",
+        "time": null
+      },
+      {
+        "en": "A tall, thin stone stands in Taitung. It's very, very old. The top is a half-moon shape.",
+        "tw": "在台東，有一根又高又細的石柱，非常古老，頂端是半月形的。",
+        "time": null
+      },
+      {
+        "en": "What was the stone for? Maybe it was for a building. Maybe it was for an important person. Nobody knows. This stone is a mystery.",
+        "tw": "石柱有什麼用處呢?也許是建築的一部份，或是某人的紀念碑。沒有人知道。",
+        "time": null
+      },
+      {
+        "en": "The stone is in Peinan Site Park. It's near a train station. About forty years ago, Taitung wanted to make the station bigger.",
+        "tw": "這根石柱位於卑南遺址公園，靠近火車站。 40 年前，台東政府想把車站改得更大。",
+        "time": null
+      },
+      {
+        "en": "Workers started to dig. They found some old things! Scientists came. The scientists found more than 2,000 very old and important things!",
+        "tw": "工人們開挖時，發現一些很古老的東西! 科學家來了，找到 2000多個古代的重要物品!",
+        "time": null
+      },
+      {
+        "en": "These things were used by people thousands of years ago. Now they are Taiwan's treasures! Peinan Site Park was made to protect them.",
+        "tw": "幾千年前的人類使用過這些物品，現在它們是台灣的寶藏，卑南遺址公園的建立就是為了保護它們。",
+        "time": null
+      },
+      {
+        "en": "The museum there helps us learn about these treasures and the people who used them. But the museum doesn't know what the stone was for.",
+        "tw": "這一座博物館幫助我們了解古代的人，但是專家還是不懂石柱的意義。",
+        "time": null
+      },
+      {
+        "en": "What do YOU think the stone was for?",
+        "tw": "你覺得這塊石頭是做什麼用的呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "卑南遺址公園很受考古人員的重視。",
+      "content": [
+        {
+          "text": "1. dig 挖掘。\nIsn't it cool? 那不是很酷嗎?\nTo dig up something that's from hundreds of years ago? 挖出幾百年前的東西?\nIt is cool.是很酷。",
+          "time": null
+        },
+        {
+          "text": "2. find 找到。\nBut I would hope to find something special.不過我會希望找到一些特別的。\nLike gold coins. 好比說金幣。",
+          "time": null
+        },
+        {
+          "text": "3. ago 之前。\nI once watched a movie. 我看過一部電影。\nThey dug up a boat! From over one thousand years ago. 他們挖到一艘船!\n來自一千多年前的船!",
+          "time": null
+        },
+        {
+          "text": "4. stone 石頭。\nWow, that's really something! 哇，那真棒!\nRight? 是不是?\nI want to find stone buildings, just like Pompeii.\n我想要找到石頭建築，像龐貝城那種。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起複習今天的單字。\ndig挖掘 find找到 ago之前 stone石頭"
+    },
+    "quiz": [
+      {
+        "question": "1. What is near the old stone?",
+        "options": [
+          "a. A forest",
+          "b. A train station",
+          "c. A bus stop"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. When were many very old things found?",
+        "options": [
+          "a. Last week",
+          "b. Forty years ago",
+          "c. Two thousand years ago"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why was Peinan Site Park made?",
+        "options": [
+          "a. To protect old treasures",
+          "b. To make a train station bigger",
+          "c. To be a playground"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
