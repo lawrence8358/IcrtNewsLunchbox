@@ -197,5 +197,103 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240104-01",
+    "type": "國小",
+    "tag": [
+      "Life Below Water",
+      "Life on Land",
+      "Environmental Education",
+      "Marine Education",
+      "Life Education",
+      "Multicultural Education",
+      "Outdoor Education",
+      "Social Studies",
+      "Natural Sciences"
+    ],
+    "title": "Big Search Fails to Find Monster",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240103NK.mp3",
+    "content": [
+      {
+        "en": "Are monsters real? There's Nian during the Lunar New Year. Nian has a lion's face with sharp teeth. People say this monster eats people and animals! But don't worry, Nian isn't real.",
+        "tw": "真的有怪獸嗎? 農曆新年有年獸。牠有?獅子的臉跟尖牙。大家都說年獸會吃人跟動物，但別擔心，年獸不是真的。",
+        "time": null
+      },
+      {
+        "en": "How about the Loch Ness Monster? Many people think it's real. They think it lives in Scotland, in Loch Ness. \"Loch\" means lake.",
+        "tw": "那尼斯湖水怪呢? 很多人覺得牠是真的，住在蘇格蘭尼斯湖。\"Loch\"是指湖。",
+        "time": null
+      },
+      {
+        "en": "People think the Loch Ness Monster looks like a dinosaur. Some say it has humps.",
+        "tw": "大家覺得尼斯湖水怪看起來像一隻恐龍，說牠有背部隆起的身形。",
+        "time": null
+      },
+      {
+        "en": "Camels have humps, too. Camels are real. Is the Loch Ness Monster real? Nobody knows. But people have tried to find Nessie for a long time. Nessie? That's the monster's nickname.",
+        "tw": "駱駝背部也有駝峰，駱駝是真的。但尼湖水怪是真的嗎？沒有人知道，大家試著找Nessie好久了。Nessie是牠的小名。",
+        "time": null
+      },
+      {
+        "en": "In 2023, more than 300 people searched for Nessie in the loch. They looked together for two days. People put cameras and microphones in the water. They used drones. It was the biggest search for Nessie in 50 years! Some people took pictures of a big shadow in the water. Some people said they saw humps in the water. But no one found Nessie. What do you think? Is the Loch Ness Monster a real monster?",
+        "tw": "2023年，超過300人在湖中搜尋尼斯水怪。他們一起尋找了兩天。人們將攝影機和麥克風放入水中。他們使用了無人機。這是50年來最大規模的尼斯水怪搜尋！有些人拍到了水中巨大陰影的照片。有些人說他們看到水中有駝峰。但沒有人找到尼斯水怪。你覺得呢？尼斯湖水怪是真的怪物嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一大群人費盡力氣，希望解開尼斯湖水怪的謎。",
+      "content": [
+        {
+          "text": "1. nobody 沒有人\nI've never seen a monster. 我從來沒看過怪物。\nMe neither. Nobody has, I believe. 我也沒有。我相信沒有人看過。\nMonsters only exist in stories. 怪物只存在故事裡面。",
+          "time": null
+        },
+        {
+          "text": "2. look for 尋找\nReally? Then why are people looking for them? 真的嗎? 那為什麼大家要找怪物?\nLike in Loch Ness? 像尼斯湖那樣嗎?\nThey must be scientists. 他們一定是科學家。",
+          "time": null
+        },
+        {
+          "text": "3. microphone 麥克風\nNo, they were ordinary people. 不是，他們是普通人。\nOne dropped a microphone into the water to collect sounds.",
+          "time": null
+        },
+        {
+          "text": "4. find 發現、找到\nDid he find anything? 他有什麼發現嗎?\nNo. I think the monster is gone. 沒有，我覺得怪物已經走了。",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學到哪些單字?\nnobody沒有人\nlook for尋找\nmicrophone麥克風\nfind發現、找到"
+    },
+    "quiz": [
+      {
+        "question": "1. How many people looked for the Loch Ness Monster in 2023?",
+        "options": [
+          "a. Less than 100",
+          "b. Between 100 and 300",
+          "c. More than 300"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What is the Loch Ness Monster's nickname?",
+        "options": [
+          "a. Lochy",
+          "b. Betsy",
+          "c. Nessie"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did people see in Loch Ness in 2023?",
+        "options": [
+          "a. A real dinosaur",
+          "b. A big shadow",
+          "c. Many strange fish"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
