@@ -1684,5 +1684,105 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240425-01",
+    "type": "國小",
+    "tag": [
+      "Responsible Consumption and Production",
+      "Environmental Education",
+      "Technology Education",
+      "Industry, Innovation and Infrastructure",
+      "Technology",
+      "Natural Sciences"
+    ],
+    "title": "Protecting the Moon from Garbage",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240424NK.mp3",
+    "content": [
+      {
+        "en": "Over fifty years ago, the USA sent a rocket to the moon. An astronaut got out and walked! Whoa! How exciting! But after that, not many rockets went there.",
+        "tw": "五十多年前，美國發射火箭登陸月球，太空人還在月球上漫步。但是在這之後，登上月球的火箭沒那麼多。",
+        "time": null
+      },
+      {
+        "en": "Now many countries and companies want to go to the moon. They want to do many things. The USA wants to build houses on the moon!",
+        "tw": "很多國家跟公司現在都想要登陸月球，美國甚至想要在月球上蓋房子。",
+        "time": null
+      },
+      {
+        "en": "Some people are worried. Why? Well, soon, many people will go to the moon. Maybe they will take bad things there. And people make garbage too, right? Then they leave it.",
+        "tw": "有一些人擔心之後太多人登陸月球，會帶有害的東西過去，還會留下垃圾。",
+        "time": null
+      },
+      {
+        "en": "Look at the Earth. We have lots of garbage everywhere. We have garbage on the land and in the ocean. Yuck! We have garbage in space too!",
+        "tw": "看看現在的地球，我們在陸地上或是海洋中製造了大批垃圾，就連太空裡也有太空垃圾。",
+        "time": null
+      },
+      {
+        "en": "A space lawyer says countries need to make a law together. This law can protect the moon. People won't be able to take bad things to the moon. People will be more careful about making and leaving garbage there too.",
+        "tw": "有一位太空律師說要一起制定法律來保護月球，這樣人們去月球旅行就必須小心，不會攜帶有害物質，也不會留下垃圾。",
+        "time": null
+      },
+      {
+        "en": "The space lawyer wants to protect the moon from garbage. The moon doesn't have much garbage now. It's a great time to make this new law!",
+        "tw": "這位太空律師想要保護月球免受垃圾的危害。月球目前還沒有很多垃圾。現在是制定這項新法律的好時機！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "人類汙染地球，現在有人擔心也會污染月球。",
+      "content": [
+        {
+          "text": "1. exciting 讓人興奮的 We're going to land on the moon again! 我們又要登陸月球了! I can't see why you find it exciting. 我不懂你為什麼那麼興奮。 People did it ages ago! 人類好久以前就去過了!",
+          "time": null
+        },
+        {
+          "text": "2. build 建造 This time it's different. 這次不一樣。 They're going to build houses up there. 他們要在上面蓋房子。 Just like in the movies! 就跟電影裡一樣!",
+          "time": null
+        },
+        {
+          "text": "3. astronaut 太空人。 Houses for whom? 替誰蓋房子? For the astronauts, of course. 當然是替太空人啦。 Why would astronauts want to live on the moon? 太空人為什麼要住在月球上?",
+          "time": null
+        },
+        {
+          "text": "4. protect 保護 To protect us from alien attacks? 好來保護我們不受外星人攻擊? You watch too many movies, Paz! 你看太多電影啦!",
+          "time": null
+        }
+      ],
+      "postscript": "Will you go to the moon someday? 來一起讀單字。 exciting讓人興奮的 build建造 astronaut太空人 protect保護"
+    },
+    "quiz": [
+      {
+        "question": "1. When was the first time someone walked on the moon?",
+        "options": [
+          "a. Last week",
+          "b. 10 years ago",
+          "c. Over fifty years ago"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Who wants to go to the moon now?",
+        "options": [
+          "a. Many countries",
+          "b. The lawyer",
+          "c. Some worried people"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What does the lawyer want to protect the moon from?",
+        "options": [
+          "a. Houses",
+          "b. Garbage",
+          "c. Laws"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
