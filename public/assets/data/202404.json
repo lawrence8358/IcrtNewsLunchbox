@@ -226,5 +226,109 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240404-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Quality Education",
+      "Life on Land",
+      "Family Education",
+      "Character Education",
+      "Life Education",
+      "Social Studies",
+      "Integrative Activities",
+      "Health and Physical Education"
+    ],
+    "title": "A Happy Day for Kids! Yea!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240403NK.mp3",
+    "content": [
+      {
+        "en": "Are you a kid? Congratulations! Today is Children's Day! It's your day! Make sure to tell your parents that it's Children's Day!",
+        "tw": "你是兒童嗎?那恭喜你! 今天是兒童節，是你的節日喔!",
+        "time": null
+      },
+      {
+        "en": "So what do you want for Children's Day? Do you want a new toy? How about a new video game?",
+        "tw": "兒童節你想要什麼樣的禮物呢，想要新玩具還是新的電玩?",
+        "time": null
+      },
+      {
+        "en": "Well, a new toy or a new video game is cool. It will make you happy… for about two months. That's right! Scientists say something new makes us happy for about two or three months. After that, it's nothing special.",
+        "tw": "新玩具或電玩的確會讓你感到快樂。但是科學家說新的東西只會讓我們快樂兩到三個月，之後就沒有什麼特別了。",
+        "time": null
+      },
+      {
+        "en": "If you want something to make you happier every day, there's a way.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Take a bath in the forest. No, no, no … you don't need a bathtub or a towel or soap. \"Forest bathing\" is just looking at trees and nature. Scientists say just a few minutes of forest bathing can make you happier.",
+        "tw": "洗個森林浴吧! 你不需要浴缸、毛巾或肥皂。Forest bathing 森林浴是看看樹跟大自然。科學家說幾分鐘的森林浴就可以讓你更快樂。",
+        "time": null
+      },
+      {
+        "en": "And don't worry if you live in a city. Find a park with some trees and look at them. Look at nature. Take a deep breath…",
+        "tw": "如果你住在都市裡，找一個公園看看大樹、看看大自然，然後深呼吸。",
+        "time": null
+      },
+      {
+        "en": "Try it! You might like it! Have a happy day every day with forest bathing!",
+        "tw": "試試看吧！你可能會喜歡的！透過森林浴，每天都開心！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "多看看天空花草樹木，會讓人覺得很開心。",
+      "content": [
+        {
+          "text": "1. bathe 洗澡\nI'm so tired! Life is tough! 我好累，人生好苦喔!\nI know the answer for you-forest bathing. 我給你的答案是，森林浴。\nI'm in Taipei! Where can I find a forest? 我在台北耶，到哪裡找森林?",
+          "time": null
+        },
+        {
+          "text": "2. tree 樹木\nThat's easy. 這很容易。\nHow about Da-an Forest Park? 大安森林公園怎麼樣?\nIt has many flowering trees.它有很多會開花的樹。\nLike what? 比如說什麼樹?\nLike Yulan magnolia.比如說玉蘭花。",
+          "time": null
+        },
+        {
+          "text": "3. take a deep breath 深呼吸\nIt's the right season for it.現在就是季節。\nTake deep breaths when you're there.你在那裏要深呼吸。\nSo it smells good? 所以它很好聞?\nIt smells very good! 很好聞。",
+          "time": null
+        }
+      ],
+      "postscript": "Have you ever walked in a forest? 來一起讀單字。\nbathe洗澡\ntree樹木\ntake a deep breath深呼吸"
+    },
+    "quiz": [
+      {
+        "question": "1. How long do new things make us happy?",
+        "options": [
+          "a. Two or three minutes",
+          "b. Two or three months",
+          "c. Two or three years"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What is \"forest bathing\"?",
+        "options": [
+          "a. Bathing outside",
+          "b. Looking at nature",
+          "c. Washing trees"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How does \"forest bathing\" make people feel?",
+        "options": [
+          "a. Hungry",
+          "b. Tired",
+          "c. Happy"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
