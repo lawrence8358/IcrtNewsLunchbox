@@ -1,0 +1,103 @@
+ [
+  {
+    "id": "20240902-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "What's Your Name, Mr. Elephant?",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240830NK.mp3",
+    "content": [
+      {
+        "en": "Scientists say elephants have names! How do they know this?",
+        "tw": "科學家說大象有自己的名字! 他們怎麼知道的呢?",
+        "time": null
+      },
+      {
+        "en": "We can hear some elephant sounds. Here's a loud sound. They make low sounds too. Here's a low sound.",
+        "tw": "我們可以聽到大象的叫聲，牠們可以叫很大聲，也可以發出低沉的聲音。",
+        "time": null
+      },
+      {
+        "en": "Elephants also make VERY low sounds. Our ears can't hear them! With these very low sounds, they call each other. They use a different sound for each elephant. That different sound is the elephant's name!",
+        "tw": "大象還會發出我們聽不到、非常低沉的聲音來稱呼彼此，不同的聲音就是不同大象的名字。",
+        "time": null
+      },
+      {
+        "en": "This is very cool. Many people think only humans use names to call others. That's wrong!",
+        "tw": "很多人以為只有人類才會用名字呼叫對方。",
+        "time": null
+      },
+      {
+        "en": "How do people know we are talking to them? Many times, we use their names. When we see our friends, we say \"Hi, Johnny\" or \"Hello, Emma.\"",
+        "tw": "人們怎麼知道我們在跟他們說話呢? 因為我們會稱呼他們的名字。",
+        "time": null
+      },
+      {
+        "en": "An elephant has about fifty friends. It uses names for them too! An elephant can also call a friend from six kilometers away. Many elephants can hear that call. Using a name is important then.",
+        "tw": "一隻大象差不多有50個朋友，牠還會用不同的名字呼叫。大象可以從6公里外呼叫朋友，很多同伴都聽得到，所以知道在叫誰很重要。",
+        "time": null
+      },
+      {
+        "en": "Scientists are going to keep studying elephant sounds. Maybe we will learn that elephants talk to each other! And who knows? Maybe one day, we can call their names and talk to them!",
+        "tw": "科學家將繼續研究大象的聲音。也許我們會知道大象之間會互相交談！誰知道呢？也許有一天，我們可以用牠們的名字來稱呼牠們，並與牠們交談！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "大象不但記憶力驚人，還會互相呼叫名字。",
+      "content": [
+        {
+          "text": "1. call 叫做\nWhat's that new guy's name? 新來的那人叫什麼名字?\nI don't know. I just call him Chief. 我不知道。我都叫他酋長。\nWhy \"Chief?\" 為什麼是酋長?\nHe said he's a fan of the Kansas Chiefs.他說他是堪薩斯酋長隊的粉絲。",
+          "time": null
+        },
+        {
+          "text": "2. talk 交談\nSo when you talk to him, you say, \"Hey, Chief.\"\n所以你跟他講話時就說，「嗨，酋長」。\nYeah, it's easy to remember. 對，很容易記。",
+          "time": null
+        },
+        {
+          "text": "3. friend 朋友\nThen what does he call you? 那他怎麼叫你?\n\"Hey, My Friend.\" 就是「我的朋友」。\nThat's quite friendly. 倒是很友善。",
+          "time": null
+        },
+        {
+          "text": "4. use 使用\nBut I want him to use my name. 不過我想要他用我的名字。\nMaybe you need to use his first. 也許你得先用他的。",
+          "time": null
+        }
+      ],
+      "postscript": "一起來讀單字。\ncall叫做\ntalk交談\nfriend朋友\nuse使用"
+    },
+    "quiz": [
+      {
+        "question": "1. What did scientists find out about elephants?",
+        "options": [
+          "a. They can fly!",
+          "b. They call humans!",
+          "c. They have names!"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What sounds do elephants make that we can't hear?",
+        "options": [
+          "a. Very low sounds",
+          "b. Very high sounds",
+          "c. Singing sounds"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many friends do elephants have?",
+        "options": [
+          "a. About two",
+          "b. About six",
+          "c. About fifty"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  }
+]
