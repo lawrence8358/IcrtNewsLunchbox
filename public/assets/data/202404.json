@@ -1158,5 +1158,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240417-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Marine Education",
+      "Natural Sciences"
+    ],
+    "title": "This Guide Is a Penguin",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240416NK.mp3",
+    "content": [
+      {
+        "en": "At a zoo in England, a young penguin cannot see well. It was hard for her to do things. Sometimes she bumped into walls or other penguins. Oops! And sometimes she fell over rocks. Ouch!",
+        "tw": "英國動物園有一隻企鵝的眼睛狀況不佳，行動很不方便。有時候她會撞到同伴或牆壁，也會被石頭絆倒。",
+        "time": null
+      },
+      {
+        "en": "Getting food was scary. When it was time to eat, lots of hungry penguins ran to the food! They got food with their long, sharp beaks.",
+        "tw": "餵食的時候也很危險，很多企鵝會衝到食物前，用牠們長長、尖銳的嘴巴吃東西。",
+        "time": null
+      },
+      {
+        "en": "But she couldn't see their beaks! She didn't want to get hurt. She needed help!",
+        "tw": "但是這隻企鵝看不到同伴的尖嘴。她需要幫忙讓她不受傷。",
+        "time": null
+      },
+      {
+        "en": "Another penguin was shy. He didn't join the other penguins. But one day, this shy penguin became her friend.",
+        "tw": "另外一隻害羞的企鵝沒有加入其他的企鵝，反而跟她成為朋友。",
+        "time": null
+      },
+      {
+        "en": "Now he's her guide. He helps her walk around. He makes sure she doesn't bump into walls or other penguins. He helps her get food.",
+        "tw": "他會帶著她走，不會讓她撞到牆或其他的企鵝，也會幫忙拿食物。",
+        "time": null
+      },
+      {
+        "en": "With his help, she isn't scared anymore. This young penguin knows she can do things now, so she's more confident! From helping her, he isn't shy anymore. He knows he can do things now too, so he's more confident!",
+        "tw": "有了朋友的幫助，這隻企鵝不再害怕，也更有自信。幫助她的企鵝也不再害羞，同樣也增強了信心。",
+        "time": null
+      },
+      {
+        "en": "These good friends help each other! Do you help your friends? Do they help you?",
+        "tw": "這些好朋友互相幫助！你幫助你的朋友嗎？他們幫助你嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "眼睛不好的企鵝有了朋友，生活大不同。",
+      "content": [
+        {
+          "text": "1. run 跑\nDon't run so fast, Lisa! 不要跑這麼快，麗莎!\nYou may fall. 你會跌倒。\nBut I'm going to be late. 但是我要遲到了。\nYou fell the other day and it hurt, remember? 你前幾天跌倒，很痛，記得嗎?",
+          "time": null
+        },
+        {
+          "text": "2. hurt 痛、受傷\nYeah, I remember. 記得。\nI don't want to get hurt again. 我不想再受傷了。\nRight, and it's still early. 對啊，而且現在還早。",
+          "time": null
+        },
+        {
+          "text": "3. make sure 確定\nI just want to make sure I won't be late. 我只是想要確定我不會遲到。\nI can't wait to see my friend. 我等不及要跟朋友見面。",
+          "time": null
+        },
+        {
+          "text": "4. friend 朋友\nWho's this friend? 這個朋友是誰?\nIt's Kate. We like to do things together. 是凱特。我們喜歡一起做事情。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\nrun跑\nhurt痛、受傷\nmake sure確定\nfriend朋友"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do these penguins live?",
+        "options": [
+          "a. England",
+          "b. China",
+          "c. Antarctica"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What can't the young penguin do well?",
+        "options": [
+          "a. Hear",
+          "b. See",
+          "c. Smell"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What does the shy penguin help the young penguin do?",
+        "options": [
+          "a. Bump into walls",
+          "b. Fall over rocks",
+          "c. Get food"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
