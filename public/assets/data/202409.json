@@ -1919,5 +1919,106 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240927-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Backpacking Dogs",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240926NK.mp3",
+    "content": [
+      {
+        "en": "In a big park in the UK, many dogs wear backpacks... on their stomachs! Why?",
+        "tw": "在英國一個公園裡，許多小狗肚子兩邊綁著背包，這是為甚麼呢?",
+        "time": null
+      },
+      {
+        "en": "A long time ago, the UK had wolves. The wolves walked a lot. They walked in forests. They walked in tall grass. Seeds caught on their fur. They walked some more. Seeds fell off their fur. And new plants grew in new places.",
+        "tw": "很久以前在英國有野狼，牠們在森林間走動，皮毛會黏到種子。狼群到處走，種子跟著掉到別的地方，長出新的植物。",
+        "time": null
+      },
+      {
+        "en": "But the UK doesn't have wolves now. And this big park wanted lots of new plants. It needed to spread seeds in many places.",
+        "tw": "現在英國沒有野狼，但是想要在這座公園很快種出很多植物，該怎麼做呢?",
+        "time": null
+      },
+      {
+        "en": "Lots of people and their dogs come to this park. The dogs love to walk everywhere there. Hmmmm … dogs, wolves, dogs, wolves, dogs... Maybe dogs can spread seeds too! Faster than wolves!",
+        "tw": "許多人帶著狗狗來公園裡玩，狗狗也很喜歡到處走，也許牠們可以幫忙播種!",
+        "time": null
+      },
+      {
+        "en": "Park workers put seeds in small backpacks. The backpacks have small holes. The holes let the seeds fall one by one.",
+        "tw": "工作人員把種子放在有小洞的背包裡。",
+        "time": null
+      },
+      {
+        "en": "The workers ask people to put these backpacks on their dog's stomach. The dogs walk. The seeds fall. And now some new plants are growing!",
+        "tw": "主人們讓小狗綁上這些背包，牠們走路時，種子會從洞裡掉出來，現在就有新的植物長出來!",
+        "time": null
+      },
+      {
+        "en": "People are excited. The park will have many new plants. The dogs and backpacks are a big help!",
+        "tw": "人們很興奮。公園將會有許多新的植物。這些狗狗和背包幫了大忙！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "沒有狼群散播種子，也許狗狗可以來幫忙。",
+      "content": [
+        {
+          "text": "1. grass 綠草.\nLook at all the new grass growing everywhere! 你看到處長的新草地!\nYeah, it sure is pretty! 是啊，真好看!\nI really don't like rain, but this is good. 我很不喜歡下雨，不過這很好。",
+          "time": null
+        },
+        {
+          "text": "2. spread 散播.\nYeah, with just a little water, grass can spread quickly! 對，只要有一點兒水，草地蔓延得好快!\nI wonder where those seeds come from.我想知道種子是哪兒來的。",
+          "time": null
+        },
+        {
+          "text": "3. seed 種子.\nThe winds brought them. 風帶來的.\nOr the birds.或者是鳥兒.\nI'd like to get some seeds, but not from birds! 我想要一些種子，但不要鳥帶來的。",
+          "time": null
+        },
+        {
+          "text": "4. park 公園.\nLet's go to the park office.我們去公園處.\nThey sometimes give away seeds.他們有時候送人種子.",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了嗎?\ngrass綠草 spread散播 seed種子 park公園"
+    },
+    "quiz": [
+      {
+        "question": "1. What are dogs wearing in the park?",
+        "options": [
+          "a. Backpacks on their backs",
+          "b. Backpacks on their heads",
+          "c. Backpacks on their stomachs"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What fell off wolves' fur?",
+        "options": [
+          "a. Plants",
+          "b. Seeds",
+          "c. Water"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What lets seeds fall from the backpacks?",
+        "options": [
+          "a. Small holes",
+          "b. Dogs' mouths",
+          "c. People"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
