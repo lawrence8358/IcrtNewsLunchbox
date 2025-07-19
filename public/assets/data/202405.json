@@ -826,5 +826,105 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240516-01",
+    "type": "國小",
+    "tag": [
+      "Zero Hunger",
+      "Good Health and Well-Being",
+      "Family Education",
+      "Social Studies",
+      "Integrative Activities",
+      "Health and Physical Education"
+    ],
+    "title": "Pet Food on the Move",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240515NK.mp3",
+    "content": [
+      {
+        "en": "Do you like to go grocery shopping? It's easy for many people to do this. Then they go home and cook.",
+        "tw": "你喜歡去超市買東西嗎？很多人可以很容易做到，然後回家煮飯。",
+        "time": null
+      },
+      {
+        "en": "But some older people and people with disabilities need help. It's hard for them to shop. Some of them don't have much money. Some can't leave their homes. It's hard for them to cook, too.",
+        "tw": "但是有一些老人跟身障者需要幫助。他們不方便去購物，有一些沒那麼多錢或者沒辦法離開家，煮飯也有困難。",
+        "time": null
+      },
+      {
+        "en": "In many places in the U.S., a program makes food for them. Volunteers take the food to them.",
+        "tw": "美國有個送餐計畫在很多地方為老人、身障者做飯，志工再帶去給他們。",
+        "time": null
+      },
+      {
+        "en": "Some of these people also have cats or dogs. They love their pets very much. Their pets make them less lonely. But pet food costs a lot of money. Bags of pet food are heavy!",
+        "tw": "這些人也有陪伴他們的寵物，讓他們不那麼寂寞。但是寵物飼料很花錢又很重。",
+        "time": null
+      },
+      {
+        "en": "In one city, some programs are working together. They're getting pet food for these people! Now volunteers take food AND pet food to them. This helps the people and their pets be healthy and happy.",
+        "tw": "在一個城市有些不同的計畫互相合作，除了食物，志工也會帶寵物飼料給老人家跟身障者，讓他們跟寵物都健康、開心。",
+        "time": null
+      },
+      {
+        "en": "Thanks to these programs and volunteers, older people, people with disabilities, and their pets aren't hungry. Hello! Here's your food! And here's YOUR food!",
+        "tw": "感謝這些計畫和志工，老年人、身心障礙者和他們的寵物都不再挨餓。你好！這是你的食物！這也是你的食物！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "送食物的計畫可以幫助許多人和寵物。",
+      "content": [
+        {
+          "text": "1. shop 購買\nSummer sales are next week.下星期有夏季大減價.\nI have to go shopping. 我得去買東西。\nShopping for what? 買什麼呢?\nSundresses, swimsuits…夏天洋裝，游泳衣...",
+          "time": null
+        },
+        {
+          "text": "2. older 比較老的\nYou can borrow my dresses.你可以跟我借夏天洋裝。\nThank you, but your dresses are…for older people.\n謝謝，但是你的洋裝是給年紀比較大的人穿的。",
+          "time": null
+        },
+        {
+          "text": "3. money 金錢\nOuch! 好痛喔!\nDon't get me wrong.別搞錯。\nYour dresses look nice on you. 你的洋裝你穿很好看。\nHow much money do you need? 你需要多少錢?",
+          "time": null
+        },
+        {
+          "text": "4. cost 花費\nWell, my stuff won't cost a lot. 我的東西花不了多少錢。\nHow about 20,000? 兩萬塊如何?\nTWENTY THOUSAND! 兩萬!\nNo, two thousand would be fine. 兩千就可以了。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you go shopping by yourself?\nshop購買\nolder比較老的\nmoney金錢\ncost花費"
+    },
+    "quiz": [
+      {
+        "question": "1. Who does the program help with food?",
+        "options": [
+          "a. Working people",
+          "b. Older people",
+          "c. Students"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Who takes the food to people?",
+        "options": [
+          "a. Workers",
+          "b. Grocery stores",
+          "c. Volunteers"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did some people also need?",
+        "options": [
+          "a. Clothing",
+          "b. Books",
+          "c. Pet food"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
