@@ -295,5 +295,119 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240105-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Life on Land",
+      "Peace, Justice and Strong Institutions",
+      "Partnerships for the Goals",
+      "Safety Education",
+      "Disaster Risk Reduction Education",
+      "Multicultural Education",
+      "International Education",
+      "Technology"
+    ],
+    "title": "NASA's Super-Quiet Supersonic Jet",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240104NK.mp3",
+    "content": [
+      {
+        "en": "Let's have a quick quiz! Listen: what's this?",
+        "tw": "我們來玩個小測驗！聽聽看這是什麼？",
+        "time": null
+      },
+      {
+        "en": "This sound is a sonic boom. It happens when something moves faster than the speed of sound!",
+        "tw": "這是聲爆，當物體移動的速度比聲音快就會發生聲爆。",
+        "time": null
+      },
+      {
+        "en": "Sound moves very fast through the air. Airplanes do too. The fastest airplanes are jets. Some jets fly faster than sound! They're supersonic jets.",
+        "tw": "聲音在空氣中傳得很快，飛機也是這樣。最快的飛機是噴射機，超音速噴射機比聲音還要快。",
+        "time": null
+      },
+      {
+        "en": "One of the most famous supersonic jets was the Concorde. Most airplanes take seven hours to fly from London to New York. The Concorde did it in three and a half hours!",
+        "tw": "最有名的超音速噴射機是協和號客機，協和號只需要花三個半小時就可以從倫敦飛到紐約，是普通噴射機的一半。",
+        "time": null
+      },
+      {
+        "en": "One problem with the Concorde was the sonic boom. It was too loud! People didn't like it.",
+        "tw": "協和號其中的一個問題是聲爆太吵了，大家不喜歡。",
+        "time": null
+      },
+      {
+        "en": "NASA is the space agency of the USA. Now, NASA is making a new, very quiet supersonic jet! It's called the X-59.",
+        "tw": "美國太空總署正在製造新型的超音速噴射機，聲音很小，叫做 X-59。",
+        "time": null
+      },
+      {
+        "en": "NASA says the X-59 can fly from New York to London in one and a half hours! That's much faster than the Concorde! And the sonic boom is now a little sonic thump.",
+        "tw": "美國太空總署表示，X-59 可以在一個半小時內從紐約飛到倫敦！這比協和號快得多！而且聲爆現在變成輕微的聲響。",
+        "time": null
+      },
+      {
+        "en": "The X-59 is a new start for much faster, much quieter flights!",
+        "tw": "X-59 為更快、更安靜的飛行開啟了新的篇章！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "超音速噴射機的聲音太吵，美國太空總署正在改善。",
+      "content": [
+        {
+          "text": "1. fast 快的\nWow, that was fast! 哇，飛得好快!\nYeah, so cool! 對啊，好酷 !\nWhat kind of fighter jets are they? 那是哪一種噴射戰機?\nI think they're F-16. 我想是F-16.",
+          "time": null
+        },
+        {
+          "text": "2. airplane 飛機\nThey're so much faster than an airplane.\n它們比飛機快多了。\nIt's because they're much smaller. 因為它小很多.",
+          "time": null
+        },
+        {
+          "text": "3. supersonic 超音速\nThey can go supersonic as well.它們也可以超音速飛行。\nI hope they do that now. 我希望它們現在就那樣飛。\nI can't wait for the sonic boom. 我等不及要聽聲爆了.",
+          "time": null
+        },
+        {
+          "text": "4. loud 大聲的\nIt'll be so loud that you have to cover your ears. 那聲音會大到你得遮住耳朵。\nReally? How exciting! 真的嗎? 好興奮!",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很有趣。\nfast快的\nairplane飛機\nsupersonic超音速\nloud大聲的"
+    },
+    "quiz": [
+      {
+        "question": "1. What happens when something moves faster than sound?",
+        "options": [
+          "a. Thunder",
+          "b. An explosion",
+          "c. A sonic boom"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What kind of airplane was the Concorde?",
+        "options": [
+          "a. A super-quiet jet",
+          "b. A superhero jet",
+          "c. A supersonic jet"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. In how many hours can the X-59 fly from New York to London?",
+        "options": [
+          "a. Seven hours",
+          "b. Three and a half hours",
+          "c. One and a half hours"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
