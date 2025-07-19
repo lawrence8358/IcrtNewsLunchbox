@@ -1,0 +1,100 @@
+ [
+  {
+    "id": "20240102-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies"
+    ],
+    "title": "What People Do for a Happy New Year",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231229NK.mp3",
+    "content": [
+      {
+        "en": "Happy New Year! There are many New Year's traditions. You know some of them. There's fireworks and kissing someone at midnight on New Year's Eve. There are many more. Some of them are surprising!",
+        "tw": "新年快樂! 新年有很多不同的習俗，像是放煙火或是在跨年的時候互相親吻。",
+        "time": null
+      },
+      {
+        "en": "In Europe, some people throw out sofas or other furniture at midnight on New Year's Eve. Watch out!! They throw the furniture out of their windows! Why do they do this? It's a way to throw away old things and welcome new things.",
+        "tw": "歐洲有很多人會在跨年夜丟掉家具除舊布新，注意喔! 是直接丟出窗外。",
+        "time": null
+      },
+      {
+        "en": "In some places, people leave their doors and windows open. Again, this is to let old things out and welcome the New Year. Doing this can be cold, especially when it's windy!",
+        "tw": "有一些地方人們會打開門窗歡迎新年的到來。",
+        "time": null
+      },
+      {
+        "en": "In Spain, some people walk around with an empty suitcase on New Year's Eve. They think it helps them travel more. Maybe they will go on trips to fun places!",
+        "tw": "西班牙有人會在跨年夜拿著空行李箱到處走，他們相信這樣也許會旅行到好玩的地方。",
+        "time": null
+      },
+      {
+        "en": "In the Philippines, people jump into the air at midnight on New Year's Eve. They think this helps them grow taller!",
+        "tw": "菲律賓人覺得跨年的時候跳得越高，可以長得越高。",
+        "time": null
+      },
+      {
+        "en": "There are many interesting New Year's traditions. Do you want to try some of these traditions? What are your traditions?",
+        "tw": "新年有很多有趣的習俗。你想嘗試這些習俗中的一些嗎？你的習俗是什麼？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "過新年的習俗百百種，每個地方不同。",
+      "content": [
+        {
+          "text": "1. jump 跳\nWhat are you doing, Jacob? 你在做什麼，傑可?\nCan't you see that I'm jumping? 你看不出來我在跳嗎?\nYeah, but what for? 看得出，但是幹嘛要跳?",
+          "time": null
+        },
+        {
+          "text": "2. taller 比較高的\nFor helping me to grow taller. 可以幫我再長高一點兒。\nYou are too old to grow taller! 你太老，不會再長了。\nOuch, that hurts. 很傷人喔。",
+          "time": null
+        },
+        {
+          "text": "3. windy 颳風的\nAnd it's windy outside. 而且外面風好大。\nYou should come into the house. 你應該進屋子裡來。",
+          "time": null
+        },
+        {
+          "text": "4. window 窗戶\nIt IS windy! 風真的很大!\nLet me close the windows. 讓我把窗子關起來。\nThere, much better. 好了，好多了。\nNow I need to sit down. All that jumping is tiring!\n現在我得坐下。那樣蹦蹦跳很累喔!",
+          "time": null
+        }
+      ],
+      "postscript": "Let's learn more English in 2024! 來讀單字吧。\njump跳\ntaller比較高的\nwindy颳風的\nwindow窗戶"
+    },
+    "quiz": [
+      {
+        "question": "1. Why do people throw furniture out the window?",
+        "options": [
+          "a. For friends",
+          "b. For good luck",
+          "c. For welcoming new things"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. In Spain, what do some people walk around with?",
+        "options": [
+          "a. A suitcase",
+          "b. A sofa",
+          "c. Old things"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Where do people jump in the air to grow taller?",
+        "options": [
+          "a. Japan",
+          "b. The Philippines",
+          "c. Thailand"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  }
+]
