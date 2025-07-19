@@ -1535,5 +1535,112 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20241023-01",
+    "type": "國小",
+    "tag": [
+      "No Poverty",
+      "Reduced Inequalities",
+      "Social Studies"
+    ],
+    "title": "Socktober Helps People Stay Warm",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241022NK.mp3",
+    "content": [
+      {
+        "en": "One October, some kids in the U.S. learned about people with no homes. The kids wanted to help them very much. They talked to their teacher about helping.",
+        "tw": "有一年的十月，美國幾位兒童得知有人無家可歸，就問老師怎麼幫助這些人。",
+        "time": null
+      },
+      {
+        "en": "The teacher didn't know what to tell them. So he talked to a local shelter. That's where people with no homes stay for a short time. The shelter said it needed socks!",
+        "tw": "老師不知道怎麼回答，所以詢問當地的遊民收容所，收容所說他們需要襪子!",
+        "time": null
+      },
+      {
+        "en": "Winter was coming, and new socks help keep people warm. The kids were excited! They made a project to get new socks. They named their project Socktober!",
+        "tw": "冬天快到了，襪子可以讓遊民覺得溫暖。這些小孩很興奮，成立了一個徵求新襪子的計畫，叫做襪子十月。",
+        "time": null
+      },
+      {
+        "en": "People from their town gave socks. The project got a lot of them. Everyone was surprised!",
+        "tw": "這個計畫收到非常多的襪子，讓大家很驚喜!",
+        "time": null
+      },
+      {
+        "en": "People like Socktober. Many started their own projects. Now, Socktober is worldwide!",
+        "tw": "人們很喜歡襪子十月計畫，許多人開始在不同地方做同樣的事。現在襪子十月計畫全球都有!",
+        "time": null
+      },
+      {
+        "en": "Socktober helps people learn about their local shelters. Shelters need socks. And maybe they need blankets, soap, or other things.",
+        "tw": "襪子十月也讓人們更了解收容所的需求，除了襪子，可能也需要毛毯，肥皂之類。",
+        "time": null
+      },
+      {
+        "en": "Do you want to help? Ask your local shelter what it needs. Ask friends and family about giving these things. Then take everything to the shelter!",
+        "tw": "你也想幫忙嗎?你可以問問當地的收容所他們需要什麼，請家人朋友捐贈這些東西給收容所!",
+        "time": null
+      },
+      {
+        "en": "Socktober is a great project to help people! We can show them that we care!",
+        "tw": "襪子十月是一個幫助人們的偉大計畫！我們可以向他們展現我們的關懷！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這些小朋友的好心腸，讓襪子十月大為成功!",
+      "content": [
+        {
+          "text": "1. home 家。\nI sometimes see people without homes at MRT stations.\n我有時候在捷運站看到無家可歸的人。\nYeah, me too.沒錯，我也是。\nI'm thinking of helping them. 我想幫他們。",
+          "time": null
+        },
+        {
+          "text": "2. need 需要。\nHmmm, when did you become so kind? 你什麼時候變這麼好心了?\nI'll tell you after I learn what they need. 我了解他們需要什麼之後再跟你說。",
+          "time": null
+        },
+        {
+          "text": "3. a lot of 很多。\nWhat do you think they need? 你覺得他們需要什麼?\nA free lunch every day? 每天一頓免費的午餐?\nThat's a lot of lunches! 那是很多午餐!",
+          "time": null
+        },
+        {
+          "text": "4. talk 談話。\nYou're right. I'll talk to them and ask them\nfirst.你說得對。我來先跟他們談談，問問他們。",
+          "time": null
+        }
+      ],
+      "postscript": "今天這些單字很有用!\nhome家 need需要 a lot of很多 talk談話"
+    },
+    "quiz": [
+      {
+        "question": "1. Who started Socktober?",
+        "options": [
+          "a. Kids",
+          "b. A teacher",
+          "c. A shelter"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What does Socktober help people learn about?",
+        "options": [
+          "a. Local shelters",
+          "b. Socks and October",
+          "c. Local sock shops"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What do people with no homes do at a shelter?",
+        "options": [
+          "a. Make a home",
+          "b. Stay for a short time",
+          "c. Buy a home"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
