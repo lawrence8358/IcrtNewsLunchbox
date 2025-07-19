@@ -1222,5 +1222,110 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240620-01",
+    "type": "國小",
+    "tag": [
+      "Clean Water and Sanitation",
+      "Environmental Education",
+      "Life Below Water",
+      "Safety Education",
+      "Natural Sciences",
+      "Health and Physical Education"
+    ],
+    "title": "Swimming in the Seine River",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240619NK.mp3",
+    "content": [
+      {
+        "en": "Summer is here! It's the best time to swim! Where do most people swim? That's right! They go to swimming pools or beaches.",
+        "tw": "夏天來了!夏天最適合游泳，大家通常去游泳池或海邊游泳。",
+        "time": null
+      },
+      {
+        "en": "But some swimmers are going to a river. At the Olympic Games and the Paralympic Games, athletes are going to swim in the Seine River!",
+        "tw": "有一些人也會去河邊游泳。這一次參加奧運跟帕奧的選手就要在塞納河游泳。",
+        "time": null
+      },
+      {
+        "en": "Paris is getting the Seine River ready for the athletes. People are cleaning it right now. What?! Well, for 100 years, it was too dirty for people to swim in. It was too dirty for a lot of fish too...",
+        "tw": "巴黎政府派人清理塞納河，好讓選手在河裡比賽。因為100年來，塞納河的水質太髒了，不適合游泳也不適合魚類生存。",
+        "time": null
+      },
+      {
+        "en": "Cleaning the river has taken lots of work and money. It cost almost forty-nine billion Taiwan dollars! A billion has nine zeroes!",
+        "tw": "清理塞納河花了很多人力，還有將近490億台幣的錢。",
+        "time": null
+      },
+      {
+        "en": "But now more fish swim in the river. And Olympic and Paralympic swimmers will swim in it for the first time. How cool is that?",
+        "tw": "現在塞納河裡的魚越來越多。之後奧運跟帕運的游泳選手也會首次在塞納河游泳。",
+        "time": null
+      },
+      {
+        "en": "Olympic marathon swimmers and triathlon swimmers will swim in the Seine in July and August. Paralympic triathlon swimmers will swim there in September.",
+        "tw": "奧運馬拉松游泳跟鐵人三項的選手七、八月會在塞納河比賽，帕運鐵人三項的選手會在九月比賽。",
+        "time": null
+      },
+      {
+        "en": "Get ready to watch great athletes swim in the Seine!",
+        "tw": "準備好觀看偉大的運動員在塞納河中游泳！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "塞納河現在可以讓奧運選手在裡面游泳。",
+      "content": [
+        {
+          "text": "1. dirty 骯髒的\nSomeone is swimming in the river! 有人在河裡游泳!\nYew! Isn't it dirty? 不是很髒嗎?\nAll that rainwater washing into it? 所有雨水都流到河裡?\nI guess so. 也許吧。",
+          "time": null
+        },
+        {
+          "text": "2. clean 清理\nBut the city is cleaning it up.不過市政府正在清理。\nI do hope they do a good job. 真希望他們把事情做好。",
+          "time": null
+        },
+        {
+          "text": "3. best 最好的\nA clean river where people can have a picnic by the riverside\n一條乾淨的河，人們可以在河邊野餐\n…and go swimming in it under the sun. 豔陽下去河裡游泳。\nThat would be the best place to be!",
+          "time": null
+        },
+        {
+          "text": "4. time 時間\nYeah, having a good time by the river, just like in the movies!\n對啊，就跟電影裡面一樣，在河邊享受美好時光!",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡游泳嗎? 來讀單字。\ndirty骯髒的\nclean清理\nbest最好的\ntime時間"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the Seine River?",
+        "options": [
+          "a. Prague",
+          "b. Phuket",
+          "c. Paris"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How much did it cost to clean the river?",
+        "options": [
+          "a. Nine billion Taiwan dollars",
+          "b. Forty billion Taiwan dollars",
+          "c. Forty-nine billion Taiwan dollars"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. When will the Paralympic athletes swim in the river?",
+        "options": [
+          "a. July",
+          "b. August",
+          "c. September"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
