@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20240301-01",
     "type": "國小",
@@ -98,6 +98,121 @@
         ],
         "time": null,
         "answer": "b"
+      }
+    ]
+  },
+  {
+    "id": "20240304-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "No Poverty",
+      "Decent Work and Economic Growth",
+      "Reduced Inequalities",
+      "Life on Land",
+      "Partnerships for the Goals",
+      "Peace, Justice and Strong Institutions",
+      "Character Education",
+      "Life Education",
+      "Law-related Education",
+      "Safety Education",
+      "Multicultural Education",
+      "Outdoor Education",
+      "International Education",
+      "Social Studies",
+      "Health and Physical Education"
+    ],
+    "title": "Stolen and Found Bikes",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240301NK.mp3",
+    "content": [
+      {
+        "en": "In a city in Iceland, many people love cycling. But something bad was happening. Some people were stealing bikes! This worried bicycle owners. Some people stopped using their bikes.",
+        "tw": "冰島有個城市，居民都愛騎單車，但是單車容易失竊，一些人就不再騎單車了。",
+        "time": null
+      },
+      {
+        "en": "One man loves biking. He wanted more people to love it too. So he was very angry. He looked for the stolen bicycles. They were hard to find. But he didn't give up.",
+        "tw": "有個人很喜歡騎車，也希望更多人會喜歡。單車被偷走令他很生氣，他會到處找失竊的單車。",
+        "time": null
+      },
+      {
+        "en": "Sometimes he found stolen bikes where a group of people lived. He talked to them. He didn't like them because they stole things. But now they're his friends. They stopped stealing. Some help him find bikes now!",
+        "tw": "他找到失竊的車之後，也會跟小偷聊聊，請他們不要再偷車了。他們現在成為朋友，還會幫忙一起找失竊的單車。",
+        "time": null
+      },
+      {
+        "en": "The man returns bicycles to their owners. Now, after four years, he's famous. People call him the \"bike whisperer.\" He's very good at finding bicycles!",
+        "tw": "這個人會把單車歸還給失主。他很會找失竊的單車，大家都稱他為「單車救星」。",
+        "time": null
+      },
+      {
+        "en": "He uses social media to help people.",
+        "tw": "他會用社群媒體來幫助人家。",
+        "time": null
+      },
+      {
+        "en": "Are you in Iceland? Did someone steal your bicycle? Ask the bike whisperer for help. Sometimes he finds bikes in two days!",
+        "tw": "你在冰島嗎?有人偷了你的單車嗎? 趕快找單車救星幫忙，有時候只要兩天就可以找到。",
+        "time": null
+      },
+      {
+        "en": "This man wants more people to love bicycling. He finds stolen bikes and he stops people from stealing them. He makes having a bicycle safer. He's the bike whisperer!",
+        "tw": "這個人希望更多人喜歡騎腳踏車。他找到失竊的腳踏車，並阻止人們偷竊它們。他讓擁有腳踏車變得更安全。他就是單車救星！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "冰島這位單車救星，喜歡幫人尋找腳踏車。",
+      "content": [
+        {
+          "text": "1. bike 腳踏車\nMy friend just told me he stole a bike yesterday.\n我朋友剛剛告訴我他偷了一輛腳踏車。\nWhat did you say? 你怎麼說呢?\nI asked him why he did it.我問他為什麼要那樣。",
+          "time": null
+        },
+        {
+          "text": "2. steal 偷竊\nHe said it's because he loves biking. 他說因為他喜歡騎車。\nSo he decided to steal it? 所以就決定用偷的?\nYeah, I know it's a bad reason. 對，我知道這是個糟糕的理由。",
+          "time": null
+        },
+        {
+          "text": "3. angry 生氣的\nDid you get angry? 你有生氣嗎?\nNo, why would I get angry? 沒有，我怎麼會生氣?\nHe didn't steal my bike. 他又不是偷我的車。",
+          "time": null
+        },
+        {
+          "text": "4. return 歸還\nI did tell him to return it to the owner.我有告訴他把車子還給主人。\nBut he didn't know who the owner was. 但是他不知道主人是誰。\nHe said he'll put the bike back where he found it.\n他說會把車子放回原先的地方。",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字?\nbike腳踏車\nsteal偷竊\nangry生氣的\nreturn歸還"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does the man live?",
+        "options": [
+          "a. Iceland",
+          "b. Finland",
+          "c. England"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What do people call the man?",
+        "options": [
+          "a. The bicycling whistle",
+          "b. The bike whisperer",
+          "c. The bicycle wheel"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What is the man good at?",
+        "options": [
+          "a. Selling bikes",
+          "b. Fixing bikes",
+          "c. Finding bikes"
+        ],
+        "time": null,
+        "answer": "c"
       }
     ]
   }
