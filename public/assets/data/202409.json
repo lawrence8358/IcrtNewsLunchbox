@@ -1090,5 +1090,105 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240917-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education"
+    ],
+    "title": "Taiwan's First Medal in Paris",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240916NK.mp3",
+    "content": [
+      {
+        "en": "This year, the world came together for the Summer Olympics. It was in Paris.",
+        "tw": "全世界都在上個月為了巴黎奧運聚在一起 !",
+        "time": null
+      },
+      {
+        "en": "Many countries compete in many sports. Some sports are swimming and running. Other sports use guns. Skeet uses guns.",
+        "tw": "許多國家都會參與各項比賽。有些運動是游泳和跑步，也有些運動要使用到槍。定向飛靶射擊比賽就需要用到槍。",
+        "time": null
+      },
+      {
+        "en": "In skeet, an athlete shoots two flying discs. They're eleven centimeters wide. That's small!",
+        "tw": "定向飛靶射擊比賽，選手必須射中兩個飛靶，都只有 11 公分寬，非常的小 !",
+        "time": null
+      },
+      {
+        "en": "The athlete says \"Pull!\" Then the discs fly out very fast! One flies from the left! One flies from the right! Then... Bang! Bang! The athlete shoots two times. He tries to hit both discs. That's hard!",
+        "tw": "當選手說:「pull ! 放飛靶」時，兩片飛靶會很快地從左右兩邊飛出來，然後...選手發射兩次，要試著打中兩片飛靶，真困難!",
+        "time": null
+      },
+      {
+        "en": "Lee Meng-yuan is the first Taiwanese skeet athlete at the Olympics. He's 29 years old. He began shooting when he was six.",
+        "tw": "李孟遠是第一個參加奧運的台灣定向飛靶選手，他今年二十九歲，他從六歲就開始射擊。",
+        "time": null
+      },
+      {
+        "en": "Lee competed against 29 athletes first. He did very well! Then he competed against five. He won a bronze medal!",
+        "tw": "李孟遠一開始和其他二十九個選手比賽，他表現得非常好，一路晉級，最後和五個選手競爭，他贏得了銅牌!",
+        "time": null
+      },
+      {
+        "en": "It's Taiwan's first shooting medal. And it's Taiwan's first Paris Olympics medal!",
+        "tw": "這是台灣在射擊項目上的第一面獎牌。同時也是台灣在巴黎奧運的第一面獎牌！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "定向飛靶射擊難度很高，而李孟遠奪得奧運銅牌。",
+      "content": [
+        {
+          "text": "1. sports 運動. Of all those Olympic sports, which one would you choose? If I were to join the Games?假如我要參加的話嗎??",
+          "time": null
+        },
+        {
+          "text": "2. swim 游泳. Definitely not badminton. 絕對不是羽球。I'll lose every game.每場比賽我都會輸。I can't swim either. 我也不會游泳。",
+          "time": null
+        },
+        {
+          "text": "3. run 跑. Maybe pole vault. 也許撐竿跳。Yeah, I can do that. 那個我可以。You want to be a pole vault athlete? 你要當撐竿跳運動員?Yeah, I like running and jumping.我喜歡跑和跳。",
+          "time": null
+        },
+        {
+          "text": "4. win 贏得. And when I win, when I receive the gold medal, everyone will come to congratulate me... 我贏的時候，拿金牌，大家都會來恭喜我。Oh, cut it out, Nancy! 好啦，南西!",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。 sports運動 swim游泳 run跑 win贏得"
+    },
+    "quiz": [
+      {
+        "question": "1. What sport does Lee Meng-yuan do?",
+        "options": [
+          "a. Swimming",
+          "b. Skeet",
+          "c. Running"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Which medal did Lee Meng-yuan win?",
+        "options": [
+          "a. Bronze",
+          "b. Silver",
+          "c. Gold"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many athletes did Lee Meng-yuan compete against first?",
+        "options": [
+          "a. 5 athletes",
+          "b. 6 athletes",
+          "c. 29 athletes"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
