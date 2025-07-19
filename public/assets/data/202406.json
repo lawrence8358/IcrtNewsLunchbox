@@ -206,5 +206,109 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240606-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Marine Education",
+      "Outdoor Education",
+      "International Education",
+      "Natural Sciences"
+    ],
+    "title": "Working at the Penguin Post Office",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240605NK.mp3",
+    "content": [
+      {
+        "en": "Five people from the U.K. got amazing summer jobs. From November to March, they're going to work in Antarctica!",
+        "tw": "五個英國人得到一份很棒的暑期工作。從十一月到明年三月，他們要在南極洲工作。",
+        "time": null
+      },
+      {
+        "en": "The jobs are at the Penguin Post Office! It's the farthest post office to the south! One thousand five hundred penguins live outside it!",
+        "tw": "他們會在南極企鵝郵局工作，這間是全世界最南邊的郵局，還有1500隻企鵝在周圍生活。",
+        "time": null
+      },
+      {
+        "en": "About 18,000 people visit every summer! They're cruise ship passengers. They send 80,000 letters and postcards!",
+        "tw": "每年夏天，大約有1萬8千名搭郵輪的遊客會拜訪南極，寄出大約8萬封的信件跟明信片。",
+        "time": null
+      },
+      {
+        "en": "Life at the post office is an adventure. It snows every day so they shovel lots of snow! There's no running water. They empty the toilet every day.",
+        "tw": "在這個郵局生活本身就是一場冒險。員工每天都需要剷雪。那裡沒有水，所以每天都要清理馬桶。",
+        "time": null
+      },
+      {
+        "en": "Cruise ships come a few times a week. They give the workers drinking water. The workers take showers on the ships! Ahhhhh…",
+        "tw": "郵輪每周會來幾次提供飲用水，郵局員工也可以到郵輪上洗澡。",
+        "time": null
+      },
+      {
+        "en": "The penguins are the best part of the job. The workers count them! The worst part is smelling penguin poop day and night! Peeeyuuuu!",
+        "tw": "這份工作最棒的地方是企鵝，員工每天都會數企鵝，但最糟糕的是白天晚上都會聞到企鵝的大便。",
+        "time": null
+      },
+      {
+        "en": "The five new Penguin Post Office workers are going to have an amazing Antarctic adventure!",
+        "tw": "這五位企鵝郵局新員工將會有一場精彩的南極冒險！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "在企鵝郵局工作，可能沒有想像中那麼好玩。",
+      "content": [
+        {
+          "text": "1. visit 拜訪\nI'm so ready for my summer vacation! 我完全準備好過暑假了! Do you plan to visit friends? 你計畫去拜訪朋友嗎? Friends in Penghu.澎湖的朋友。",
+          "time": null
+        },
+        {
+          "text": "2. amazing 驚人的\nThe ocean is very beautiful there. 那裡的海非常美麗。Sounds amazing! 聽起來真棒! It really is. 確實是。",
+          "time": null
+        },
+        {
+          "text": "3. day and night 白天夜晚\nAnd I'd like to swim there day and night. 我白天晚上都要在那裡游泳。Sleeping outside under the moon. 睡在外面月光底下。",
+          "time": null
+        },
+        {
+          "text": "4. outside 外面\nSleeping outside by the sea? 睡在外面的海邊? Yeah, the sea will be shining, and you'll hear the waves. 對啊，海面閃閃發光，還聽到海浪聲。Wow!",
+          "time": null
+        }
+      ],
+      "postscript": "你暑假想去哪裡?\nvisit拜訪\namazing驚人的\nday and night白天夜晚\noutside外面"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is this post office?",
+        "options": [
+          "a. The U.K",
+          "b. Antarctica",
+          "c. The Arctic"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many people visit the post office every summer?",
+        "options": [
+          "a. 8,000",
+          "b. 18,000",
+          "c. 80,000"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What is the best part of working at this post office?",
+        "options": [
+          "a. The toilet",
+          "b. The smell",
+          "c. The penguins"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
