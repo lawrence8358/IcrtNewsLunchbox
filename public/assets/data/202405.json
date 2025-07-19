@@ -1346,5 +1346,127 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240523-01",
+    "type": "國小",
+    "tag": [
+      "Reading Literacy Education",
+      "Character Education",
+      "Social Studies"
+    ],
+    "title": "This Library Wants Cat Pictures",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240522NK.mp3",
+    "content": [
+      {
+        "en": "Have you borrowed books from a library? Libraries have great books!",
+        "tw": "你跟圖書館借過書嗎?圖書館裡有很多好書。",
+        "time": null
+      },
+      {
+        "en": "It's important to return books on time. It's also important to take good care of them. If you lose a book, some libraries take your library card! Oh no!",
+        "tw": "準時歸還書籍很重要，也要保管好。如果弄丟了，有的圖書館會沒收你的借書證。",
+        "time": null
+      },
+      {
+        "en": "During the pandemic, many people lost books. Their libraries took their cards. But in one American city, the library wants these people to enjoy the library again.",
+        "tw": "疫情期間很多人把書弄丟了，借書證也被沒收。但美國一個城市的圖書館希望這些人可以回來借書。",
+        "time": null
+      },
+      {
+        "en": "Do people have to pay for their lost books? No! They can bring a picture of a cat. A cat? Yep! Then they get their library card back!",
+        "tw": "他們需要賠錢嗎?不用!他們只要拿一張貓咪的照片就可以拿回借書證。",
+        "time": null
+      },
+      {
+        "en": "Many people brought cute cat pictures. But one boy didn't have a cat. So he drew a cat! He got his library card back!",
+        "tw": "很多人帶了可愛的貓咪照片。但有個男孩沒有養貓，他就畫了一隻，也拿回借書證。",
+        "time": null
+      },
+      {
+        "en": "This library is kind. Some people don't have money for lost books. But they want to go to the library. So the cat pictures are making everyone happy!",
+        "tw": "這間圖書館非常有愛心，因為有一些人沒有錢賠償遺失的書籍，但他們還是想去圖書館，所以帶貓咪照片的方法讓大家都很開心。",
+        "time": null
+      },
+      {
+        "en": "The library is welcoming everyone back. It's showing that making mistakes is okay. It's also showing there's always a way to start over, especially when cute cats help! Let's go borrow some books!",
+        "tw": "圖書館歡迎大家回來。這顯示犯錯沒關係。它也顯示總有辦法重新開始，尤其是當可愛的貓咪幫忙時！我們一起去借書吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "只要有貓咪圖片，就可以拿回借書證。",
+      "content": [
+        {
+          "text": "1. borrow 借\nThat book you borrowed from me…?",
+          "time": null
+        },
+        {
+          "text": "Yeah, \"Everyone Poops 大家來大便,\" we're not done yet. 我們還沒有看完。",
+          "time": null
+        },
+        {
+          "text": "2. back 回來\nIt's from the library.",
+          "time": null
+        },
+        {
+          "text": "It's a fun book. My son enjoyed it a lot。它是好玩的書，我兒子很喜歡看。",
+          "time": null
+        },
+        {
+          "text": "Would you bring it back to me tomorrow? 可以明天帶回來給我嗎?",
+          "time": null
+        },
+        {
+          "text": "3. return 歸還\nI need to return it.",
+          "time": null
+        },
+        {
+          "text": "Of course. we've learned a lot from it.當然，我們已經學到很多了。",
+          "time": null
+        },
+        {
+          "text": "4. some 一些\nWhat have you learned? I'm curious.",
+          "time": null
+        },
+        {
+          "text": "That some animals poop on the move. 有的動物一邊走一邊大。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you have a library card? 一起來讀單字。borrow借 back回來 return歸還 some一些"
+    },
+    "quiz": [
+      {
+        "question": "1. Why do libraries take some people's library cards?",
+        "options": [
+          "a. People lost books.",
+          "b. People sold books.",
+          "c. People bought books."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What did one boy draw?",
+        "options": [
+          "a. A book",
+          "b. A cat",
+          "c. A library"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What is the library showing?",
+        "options": [
+          "a. Making mistakes is okay.",
+          "b. Books are okay.",
+          "c. Losing books is okay."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
