@@ -1656,5 +1656,113 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240325-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Decent Work and Economic Growth",
+      "Reduced Inequalities",
+      "Life on Land",
+      "Partnerships for the Goals",
+      "Peace, Justice and Strong Institutions",
+      "Family Education",
+      "Character Education",
+      "Life Education",
+      "Life Planning Education",
+      "Multicultural Education",
+      "Law-related Education",
+      "Social Studies",
+      "International Education"
+    ],
+    "title": "Teenager Becomes Lawyer",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240322NK.mp3",
+    "content": [
+      {
+        "en": "Last year, a teenager became famous. Why? He became the youngest lawyer in California. He was seventeen years old!",
+        "tw": "去年有一位青少年爆紅了，因為他成為加州最年輕的律師，他才十七歲!",
+        "time": null
+      },
+      {
+        "en": "Lawyers help people with problems about laws. Laws say what we can and cannot do. Becoming a lawyer isn't easy. There are a lot of laws to study!",
+        "tw": "律師幫人處理法律問題。要成為一名律師很不容易，要讀很多法律方面的知識。",
+        "time": null
+      },
+      {
+        "en": "This lawyer says he isn't smarter than other teenagers. But from when he was a child, he studied a lot. Studying was important in his family. He had to study for one hour first when he wanted to play for one hour.",
+        "tw": "這名律師說他並沒有比別人聰明，但是從小就念很多書。他的家庭很看重讀書，必需用功一個小時才能夠玩一個小時。",
+        "time": null
+      },
+      {
+        "en": "He played with cube puzzles. He became very good at them. He played so much that his hands hurt! In eighth grade, he wrote a book to help other players.",
+        "tw": "他也很會玩魔術方塊，還寫過一本魔術方塊指南指點其他玩家。",
+        "time": null
+      },
+      {
+        "en": "He likes helping people. He wanted a job that lets him do that. Doctors help people, but he doesn't like blood! He wanted to be a lawyer. So in ninth grade, he also went to law school!",
+        "tw": "他很喜歡幫助別人，希望可以找到幫助人的工作。當醫生雖然可以做到，但是他不喜歡看到血。他想成為一名律師，所以他九年級的時候也進了法學院。",
+        "time": null
+      },
+      {
+        "en": "Now this young man is a lawyer for his city. He does good things for the city and its people. He loves his job!",
+        "tw": "現在這位年輕人是他所在城市的律師。他為城市和市民做了許多好事。他熱愛他的工作！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "十七歲的少年，已經展開他想要的律師工作。",
+      "content": [
+        {
+          "text": "1. become 成為\nI can never understand why people want to study law.\n我永遠搞不懂為什麼有人想要讀法律。\nTo become a rich lawyer? 好變成有錢的律師?",
+          "time": null
+        },
+        {
+          "text": "2. smart 聰明的\nThere are many other ways to become rich. 有好多別的方法可以變有錢。\nLike what? 比如說什麼?\nLike making smart investments.比如說聰明投資。",
+          "time": null
+        },
+        {
+          "text": "3. study 研究、用功\nHow would you know if it's smart? 你怎麼知道那是不是聰明?\nI would study it, of course. 當然我會先研究。",
+          "time": null
+        },
+        {
+          "text": "4. easy 容易的\nLaw is boring. 法律很無聊耶。\nMaking investments can be boring, too. 投資可能也很無聊。\nNo, it would be easy. 不會，它很簡單。\nYou stop when you lose money. 你損失錢就停止。",
+          "time": null
+        }
+      ],
+      "postscript": "Let's read the vocabulary.\nbecome成為\nsmart聰明的\nstudy研究、用功\neasy容易的"
+    },
+    "quiz": [
+      {
+        "question": "1. What job does this teenager have?",
+        "options": [
+          "a. Lawyer",
+          "b. Doctor",
+          "c. Student"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What was important in his family?",
+        "options": [
+          "a. Being famous",
+          "b. Studying",
+          "c. Writing"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What does he like to do?",
+        "options": [
+          "a. Read books",
+          "b. Help people",
+          "c. Go to law school"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
