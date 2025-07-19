@@ -517,6 +517,104 @@
     ]
   },
   {
+    "id": "20240513-01",
+    "type": "國小",
+    "tag": [
+      "Character Education",
+      "Life Education",
+      "International Education",
+      "Social Studies"
+    ],
+    "title": "Finding the French Fry Friend",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240510NK.mp3",
+    "content": [
+      {
+        "en": "In a small town in the U.S., there's a barbecue restaurant. It has delicious French fries. One day, a little kid called. The kid wanted fries. But... the kid didn't give a name.",
+        "tw": "美國小鎮有一間烤肉餐廳接到一位小朋友的電話說要吃薯條，但是她沒有留下名字。",
+        "time": null
+      },
+      {
+        "en": "The kid called many times. But the kid never gave a name! The restaurant owners wanted to give the kid some fries! But who was their French Fry Friend?",
+        "tw": "這位小朋友打了很多通，餐廳主人很想給她薯條，但她沒有講名字，到底是誰呢?",
+        "time": null
+      },
+      {
+        "en": "Hmmmm. Maybe a friend - or a friend's friend - knew the kid. So they told their story on social media.",
+        "tw": "周圍的朋友可能認識，於是餐廳主人把這件事分享到社群媒體。",
+        "time": null
+      },
+      {
+        "en": "They were surprised! People in Australia, Canada, the U.K., Portugal, Spain, Mexico, Kenya, and other places saw the story! Everyone wanted the little French Fry Friend to get fries!",
+        "tw": "澳洲、加拿大、英國、葡萄牙、西班牙、墨西哥、肯亞以及其他地方的人居然都有看到這篇貼文，大家都想讓這個小朋友吃到薯條。",
+        "time": null
+      },
+      {
+        "en": "The kid called and called for a week. Then the owners found out that their French Fry Friend was... THREE little girls! They talked to the girls' mom. They met their French Fry Friends. The owners were happy. And the French Fry Friends finally had fries!",
+        "tw": "這個小孩打電話打了一個星期。後來餐廳主人發現，其實是三個小女孩打的電話! 於是找到了她們的媽媽，讓孩子們終於吃到薯條。",
+        "time": null
+      },
+      {
+        "en": "These three little girls wanted fries VERY much. They got fries… and new friends. And they made many people around the world smile!",
+        "tw": "這三個小女孩非常想吃薯條。她們吃到了薯條……也交到了新朋友。她們讓世界上許多人開心地笑了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "想吃薯條的小孩，終於如願以償。",
+      "content": [
+        {
+          "text": "1. restaurant 餐廳\nI'm having lunch with some friends on Saturday. 我星期六要跟朋友吃中飯。\nOh, at a fancy restaurant? 在很貴的餐廳嗎?\nAt a barbecue restaurant.在一家烤肉餐廳。",
+          "time": null
+        },
+        {
+          "text": "2. call 打電話\nHmmm, I love barbecues.我喜歡烤肉。\nWould you like to join us? 你想加入我們嗎?\nI can call the restaurant. 我可以打電話給餐廳。",
+          "time": null
+        },
+        {
+          "text": "3. very much 非常\nI'd like that very much! Thank you! 我很想去，謝謝你!\nDo I know your friends? 我認識你的朋友嗎?",
+          "time": null
+        },
+        {
+          "text": "4. meet 見面\nYes, you met them before. 認識，你以前見過他們。\nKen, Kevin and Kelly. They are very friendly people.\n肯恩，凱文和凱莉。他們都是很友善的人。\nGood, I remember them. 真好，我記得他們。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like going to a restaurant? 我們來讀單字。\nrestaurant餐廳\ncall打電話\nvery much非常\nmeet見面"
+    },
+    "quiz": [
+      {
+        "question": "1. Which food did the restaurant have?",
+        "options": [
+          "a. Pizza",
+          "b. French fries",
+          "c. Hamburgers"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How did the kid try to get food?",
+        "options": [
+          "a. Calling",
+          "b. Ordering online",
+          "c. Going to restaurants"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Who was the kid?",
+        "options": [
+          "a. A teenager",
+          "b. A little boy",
+          "c. Three little girls"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20240514-01",
     "type": "國小",
     "tag": [
