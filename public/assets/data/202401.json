@@ -629,5 +629,114 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240111-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life on Land",
+      "Technology Education",
+      "Life Education",
+      "Safety Education",
+      "International Education",
+      "Social Studies",
+      "Technology",
+      "Natural Sciences",
+      "Health and Physical Education"
+    ],
+    "title": "Doctors Give Man New Eye",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240110NK.mp3",
+    "content": [
+      {
+        "en": "Doctors are always finding new ways to help people. Now, for the first time ever, they've given someone a new eye! His name is Aaron …",
+        "tw": "醫生有史以來第一次成功移植一顆新的眼球給一個叫作Aaron的人。",
+        "time": null
+      },
+      {
+        "en": "Aaron works with electricity. Electricity is full of power. It's made in power stations. Power lines take electricity to our homes.",
+        "tw": "Aaron在電力公司上班。發電廠生產電，電線再將電傳送到家庭。",
+        "time": null
+      },
+      {
+        "en": "One power line takes electricity to many homes. Touching a power line is very dangerous! So power lines are high above the ground. This keeps people safe.",
+        "tw": "電線傳送電力到不同的家庭。碰觸電線很危險，所以電線都在高處防止人家不小心被電到。",
+        "time": null
+      },
+      {
+        "en": "Aaron's job was fixing power lines. One day, he touched a power line. It was an accident. Aaron got a big, bad shock! Seven thousand two hundred volts hit his body. That's electricity for 30 houses!",
+        "tw": "Aaron 有一天修理電線的時候，遭到7200伏特的高壓電擊中，相當於30間房屋的用電量。",
+        "time": null
+      },
+      {
+        "en": "Aaron almost died! Half of his face was gone! One of Aaron's eyes was gone too. Aaron took a selfie. He saw inside his skull!",
+        "tw": "Aaron 差一點死掉，他不僅半張臉毀容，也失去了一隻眼睛。",
+        "time": null
+      },
+      {
+        "en": "One hundred forty doctors and nurses worked 21 hours in one day to help Aaron. They saved his life! And, they gave him a new eye too!",
+        "tw": "140位醫生跟護士花了21個小時，救了他的性命，也給他一顆新的眼球。",
+        "time": null
+      },
+      {
+        "en": "A team of over 100 doctors and nurses saved Aaron's life, and his eye!",
+        "tw": "一個由超過100名醫生和護士組成的團隊拯救了亞倫的生命和他的眼睛！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "Aaron雖然身受重傷，在醫護人員全力搶救之下撿回一條命。",
+      "content": [
+        {
+          "text": "1. power 電力\nOh no, the power's out! 糟糕，停電了!\nGet the candles! 快去拿蠟燭。\nNo, you have your cell phone, remember? 不用啦，你記得你有手機吧?\nBut without electricity, my cell phone won't last long.但是停電，我的手機也維持不了多久。",
+          "time": null
+        },
+        {
+          "text": "2. fix 修理\nMaybe they can fix the power line fast. 也許他們很快就會把電線修好。\nNo, I don't want people to go out in this weather.\n不，我不要人們在這種天氣出門。",
+          "time": null
+        },
+        {
+          "text": "3. dangerous 危險的\nIt's too dangerous. 太危險了。\nThat's true. 那是真的。\nYou're right. 你說得對。\nWe don't want accidents.我們不想要出什麼事。",
+          "time": null
+        },
+        {
+          "text": "4. help 幫忙\nI'll get the candles then. 我去拿蠟燭。\nAnd I can help cook dinner. 我可以幫忙做晚飯。",
+          "time": null
+        }
+      ],
+      "postscript": "你的家裡有停電過嗎?\npower電力\nfix修理\ndangerous危險的\nhelp幫忙"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is electricity made?",
+        "options": [
+          "a. Power lines",
+          "b. Power points",
+          "c. Power stations"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How big was Aaron's electric shock?",
+        "options": [
+          "a. 30 volts",
+          "b. 140 volts",
+          "c. 7,200 volts"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did Aaron see in his selfie?",
+        "options": [
+          "a. Inside his skull",
+          "b. Inside his eye",
+          "c. Inside his home"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
