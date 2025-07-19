@@ -2094,5 +2094,102 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240329-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life on Land",
+      "Family Education",
+      "Character Education",
+      "Life Education",
+      "Safety Education",
+      "Multicultural Education",
+      "Outdoor Education",
+      "International Education",
+      "Social Studies",
+      "Natural Sciences",
+      "Health and Physical Education",
+      "Integrative Activities"
+    ],
+    "title": "Best Friend Saves Man from Icy Lake",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240328NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: One snowy winter day, a man and his dog Ruby hiked to a lake. The weather was so cold that the lake water was frozen! They walked on the ice.",
+        "tw": "一個下雪的日子，一位男子跟他的狗狗Ruby爬山去了一個湖。天氣冷到湖面都結冰了，他們直接走在湖面上。",
+        "time": null
+      },
+      {
+        "en": "But then the ice broke! The man fell into the icy water! He couldn't get out! Man: Help! Hello? Help! Please, someone help! Narrator: Ruby stayed by him. Someone called the police.",
+        "tw": "但是湖面的冰突然碎裂，男子掉進水裡出不來。Ruby待在他身邊，目擊者趕緊報警。",
+        "time": null
+      },
+      {
+        "en": "The police officer was worried. The ice might break more! So he tried to throw a rope to the man … Police: I'm going to try to send this out to you, OK? Narrator: But the man was too far! The officer called the man's dog … Police: Ruby! Ruby, come here! Come here, Ruby … That's it. Narrator: Ruby ran to the officer. He gave her one end of the rope. The officer told the man to call Ruby … Police: Call her! Call her! Narrator: The man called Ruby … Man: Ruby! Good girl, come here! Narrator: She ran back to the man with the rope … Man: Ruby! That's it! Yes, well done! Good girl.",
+        "tw": "警察擔心湖面的冰會有更多裂痕，於是把繩子扔給男子，但距離實在太遠了。警察叫Ruby過來，把繩子的一頭交給狗狗。接著主人就叫Ruby回來，他抓住Ruby帶過來的繩子，然後警察從另一邊拉，終於把人救了出來。",
+        "time": null
+      },
+      {
+        "en": "The man went to the hospital. He was okay! Ruby saved the man. This dog is truly this man's best friend!",
+        "tw": "男子去了醫院。他沒事了！Ruby救了男子。這隻狗真的是這個男人的最好朋友！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "聰明又忠實的狗狗，是人類最好的朋友。",
+      "content": [
+        {
+          "text": "1. winter 冬季 I want to live in a place that has a real winter. 我想要住在有真的冬天的地方。 What's wrong with the winter here? 這裡的冬天有什麼不對? It's too warm. 太溫暖了。",
+          "time": null
+        },
+        {
+          "text": "2. ice 冰 There's no snow. 都沒有雪。 But with snow comes a lot of ice.但是下雪就會結很多冰。 Icy roads and houses are not fun. 結冰的馬路跟房子都不好玩。",
+          "time": null
+        },
+        {
+          "text": "3. frozen 冰凍的 Oh, but I want to see white, snowy mountains. 可是我要看蓋滿白雪的山脈。 And I'd like to skate on a frozen lake. 也想在冰凍湖面上溜冰。",
+          "time": null
+        },
+        {
+          "text": "4. hike 健行 And go hiking on mountain trails too? 也要走山路健行嗎? Well, I'd prefer taking a gondola up there. 這個嘛，我比較想坐纜車上去。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字都跟冬天有關。winter冬季ice冰frozen冰凍的hike健行"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of animal is Ruby?",
+        "options": [
+          "a. A cat",
+          "b. A dog",
+          "c. A horse"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Who came to help the man?",
+        "options": [
+          "a. A police officer",
+          "b. A hiker",
+          "c. A friend"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did Ruby take to the man?",
+        "options": [
+          "a. A drink",
+          "b. A rope",
+          "c. Ice"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
