@@ -1899,5 +1899,112 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240429-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Outdoor Education",
+      "Natural Sciences"
+    ],
+    "title": "Dancing with Frogs",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240426NK.mp3",
+    "content": [
+      {
+        "en": "Five, six, seven, eight! Let's dance! Today is International Dance Day!",
+        "tw": "今天是世界舞蹈日，來一起跳舞吧!",
+        "time": null
+      },
+      {
+        "en": "Let's dance with some poison dart frogs! Poison?!",
+        "tw": "我們一起跟箭毒蛙跳舞! 什麼?!",
+        "time": null
+      },
+      {
+        "en": "Yes. Don't touch them, but dance with them! These colorful frogs are very good at tap dancing!",
+        "tw": "沒有錯，記得不要碰牠們喔! 這些顏色鮮豔的青蛙很會跳踢踏舞。",
+        "time": null
+      },
+      {
+        "en": "Poison dart frogs have four toes on their feet. They can tap their long middle toes very fast. How fast? They can tap them about 500 times... in one minute!",
+        "tw": "箭毒蛙一隻腳有四個腳趾，牠們會用長的中間的腳趾快速敲擊地面，有多快呢?一分鐘可以敲500次。",
+        "time": null
+      },
+      {
+        "en": "Our eyes can't see their tapping toes! They're too fast! Watch out! These frogs are going to win all the tap dancing contests!",
+        "tw": "牠的速度快到我們看不清楚，這些青蛙可以成為踢踏舞比賽冠軍!",
+        "time": null
+      },
+      {
+        "en": "Scientists in three countries are studying why poison dart frogs tap their toes. Some scientists found that the frogs may tap dance to find food.",
+        "tw": "來自三個國家的科學家研究為什麼箭毒蛙要用腳趾敲擊地面，他們發現有可能是為了覓食。",
+        "time": null
+      },
+      {
+        "en": "What do these frogs eat? They eat moving insects. When these frogs tap dance, insects nearby move. When insects move, it's easier for the frogs to see… and catch them!",
+        "tw": "原來箭毒蛙專吃活動的昆蟲。敲打地面會讓附近的昆蟲動起來，箭毒蛙就更容易看到獵物。",
+        "time": null
+      },
+      {
+        "en": "Maybe poison dart frogs tap dance for food. Can we dance for our dinner too? Then we won't need money to pay for it! Quick! Let's dance to find out! Happy International Dance Day!",
+        "tw": "也許箭毒蛙跳踢踏舞是為了食物。我們也能為晚餐而跳舞嗎？這樣我們就不用花錢買飯了！快！我們一起跳舞來找出答案吧！國際舞蹈日快樂！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "箭毒蛙跳踢踏舞，可能是為了找食物。",
+      "content": [
+        {
+          "text": "1. find 尋找\nLook! A dancing bird. 你看，一隻跳舞的鳥。\nWow, you're right! 哇，你說得對。\nIt IS dancing.牠確實在跳舞。\nI think it's trying to find a mate.我想牠在努力找伴侶。",
+          "time": null
+        },
+        {
+          "text": "2. nearby 附近\nBut I can't see another bird. 但我看不到另外一隻鳥。\nShe must be nearby. 牠一定在附近。\nHow do you know it's a \"she\"? 你怎麼知道另一隻是母鳥?\nUsually the male bird does the mating dance. 通常是公鳥跳求偶舞。",
+          "time": null
+        },
+        {
+          "text": "3. win 贏得\nTo win her heart? 好贏得牠的芳心?\nYeah, you could put it that way. 對，可以這麼說。",
+          "time": null
+        },
+        {
+          "text": "4. move 移動\nHe's moving his feet so fast! 牠的腳動得有夠快!\nRight, and it's working. See, there she is. 對，很有用喔。看，牠出現了。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記得嗎?\nfind尋找\nnearby附近\nwin贏得\nmove移動"
+    },
+    "quiz": [
+      {
+        "question": "1. What do poison dart frogs tap?",
+        "options": [
+          "a. Arms",
+          "b. Nose",
+          "c. Toes"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many times can poison dart frogs tap in one minute?",
+        "options": [
+          "a. 50",
+          "b. 500",
+          "c. 5,000"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What kind of food do poison dart frogs eat?",
+        "options": [
+          "a. Dry",
+          "b. Moving",
+          "c. Cooked"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
