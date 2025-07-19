@@ -1,0 +1,104 @@
+ [
+  {
+    "id": "20240301-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Social Studies",
+      "International Education",
+      "Outdoor Education",
+      "Multicultural Education",
+      "Environmental Education",
+      "Partnerships for the Goals",
+      "Life on Land"
+    ],
+    "title": "A Red Panda for Taipei Zoo",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240229NK.mp3",
+    "content": [
+      {
+        "en": "Taipei Zoo has a new animal from Japan! He's small. He's a fire-colored ball of fur. He's very cute and fluffy!",
+        "tw": "台北市動物園迎接日本來的新動物。牠很可愛還有蓬鬆的火紅色的毛。",
+        "time": null
+      },
+      {
+        "en": "His name is Mirai. He's a red panda! Mirai is four years old. A four-year-old human is a child, but Mirai is not a child. Red pandas live about ten to twelve years. Mirai is a young adult. He's here to be a dad!",
+        "tw": "牠的名字叫未來，是一隻4歲的小熊貓。小熊貓的壽命大約10到12歲。牠還很年輕，來台灣當小熊貓爸爸。",
+        "time": null
+      },
+      {
+        "en": "Mirai is full of energy. He's excited to meet you! Fan meetings with Mirai start in April. Bring your camera... but no flash, please! Maybe you can see Mirai do something cute! Or maybe you can see him climbing or having a snack.",
+        "tw": "從四月開始未來就會公開亮相，你可能會看到牠爬樹或吃點心。別忘囉! 拍照不要有閃光燈喔!",
+        "time": null
+      },
+      {
+        "en": "Every year, Mirai has fewer red panda friends in the world. There are less than ten thousand! Their tree homes are cut down. The places they live are getting hotter. And hotter weather is bad for them.",
+        "tw": "全世界的小熊貓每年越來越少，現在已經不到1萬隻了。牠們棲息的樹被砍掉，家園也越來越熱。",
+        "time": null
+      },
+      {
+        "en": "You can help by doing good things for the Earth. And when you visit Mirai, be nice to him!",
+        "tw": "你可以做環保幫助地球。記得去看未來的時候，要對牠好一點喔!",
+        "time": null
+      },
+      {
+        "en": "Mirai, Taiwan's new red panda, is waiting for you at the Taipei Zoo!",
+        "tw": "未來，台灣的新小熊貓，正在台北動物園等著你！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台北動物園的小熊貓，四月就可以去拜訪了。",
+      "content": [
+        {
+          "text": "small 小的\nLook at that poor thing! 你看那個可憐的小東西!\nOh my, it's so small. 天哪，牠好小。\nOf course it's small. It's a baby bird. 當然小，牠是一隻鳥寶寶。",
+          "time": null
+        },
+        {
+          "text": "adult 成鳥\nI wonder where the adults are. 不知道成鳥在哪裡。\nYou mean its parents? 你是說牠的爸媽?\nI think they're out looking for food.我想出去找食物了。",
+          "time": null
+        },
+        {
+          "text": "bring 帶來\nI do hope they bring back enough food. 我希望牠們帶足夠的食物回來。\nThat shouldn't be too hard. 那應該不會太難。",
+          "time": null
+        },
+        {
+          "text": "something 一些東西\nBirds can always find something to eat. 鳥兒總會找到東西吃。\nLet's come back and visit that baby bird again. 我們再回來看那隻小鳥吧。\nYeah, maybe we can see it grow up and fly. 好啊，也許能看到牠長大飛翔。",
+          "time": null
+        }
+      ],
+      "postscript": "今天單字很簡短又好用。\nsmall小的\nadult成鳥\nbring帶來\nsomething一些東西"
+    },
+    "quiz": [
+      {
+        "question": "Where is Mirai from?",
+        "options": [
+          "a. China",
+          "b. India",
+          "c. Japan"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "How old is Mirai?",
+        "options": [
+          "a. Four",
+          "b. Ten",
+          "c. Twelve"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "Which zoo is Mirai at?",
+        "options": [
+          "a. Hsinchu Zoo",
+          "b. Taipei Zoo",
+          "c. Shousan Zoo"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  }
+]
