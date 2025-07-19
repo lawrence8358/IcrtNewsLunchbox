@@ -829,5 +829,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20241014-01",
+    "type": "國小",
+    "tag": [
+      "Technology Education",
+      "Natural Sciences",
+      "Technology"
+    ],
+    "title": "The Moon Water Contest",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241011NK.mp3",
+    "content": [
+      {
+        "en": "In Taiwan, we can drink water from deep in the sea. How about water from the moon? Scientists are working hard to make moon water! But we will need to go to the moon to drink it.",
+        "tw": "我們可以從海底提煉飲用水，那從月亮可不可以呢? 科學家正試著做出月球的水。",
+        "time": null
+      },
+      {
+        "en": "The UK and Canadian space agencies are having a contest. They want ideas to make clean water from dirty moon ice.",
+        "tw": "英國跟加拿大共同舉辦一項比賽，看誰能從髒髒的月亮冰塊，弄到乾淨的水。",
+        "time": null
+      },
+      {
+        "en": "Ten groups want to win the contest. Each group has a different idea. Each group got more than one million Taiwan dollars. The money helps them work on their ideas. Some ideas use sunlight, mirrors, or diamonds!",
+        "tw": "總共有十組隊伍參賽，他們想到的點子都不一樣，有的隊伍把腦筋動到陽光、鏡子或是鑽石。每個隊伍都拿到了一百多萬台幣來做研究。",
+        "time": null
+      },
+      {
+        "en": "Making clean water on the moon is important. The US space agency will make a moon base soon. Astronauts will live and work in the base.",
+        "tw": "為甚麼需要月球水呢?因為美國太空總署準備建造月球基地，太空人會在裡面工作。",
+        "time": null
+      },
+      {
+        "en": "They need clean water to live. So moon water machines need to work very well!",
+        "tw": "他們需要乾淨的水才能生活，所以做月亮水的機器很重要 !",
+        "time": null
+      },
+      {
+        "en": "With clean water, astronauts can grow food too! And they can live on the moon for a long time. Maybe the best moon water machine from the contest will be there!",
+        "tw": "這項比賽的贏家所發明的機器，也許會登上月球! 有水之後，太空人就可以住在那裏很久，還可以種植農作物!",
+        "time": null
+      },
+      {
+        "en": "Good luck, groups! Make moon water! Then we'll see you on the moon!",
+        "tw": "祝你們好運，各位團隊！做出月球水！然後我們會在月球上見到你們！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "製造月球水的比賽，可能會關係到月球基地的建造。",
+      "content": [
+        {
+          "text": "1. contest 比賽.\nDid you hear about the contest to win a trip to the moon?\n你有聽說那個比賽嗎，贏家可以去一趟月球?\nTo the moon? Impossible! 去月球? 不可能!",
+          "time": null
+        },
+        {
+          "text": "2. moon base 月球基地.\nIt's true.是真的。\nThe winner gets to live at the moon base for a whole month!",
+          "time": null
+        },
+        {
+          "text": "3. win 贏得.\nBut there's no such a base now! 但是現在沒有這種基地!\nNo, but there will be in the future. 是沒有，但是未來會有。\nDo you want to win it or not? 你要不要贏?\nOf course I do. But how? 我當然要，但是怎麼贏?",
+          "time": null
+        },
+        {
+          "text": "4. need 需要.\nWe need to come up with an idea so new 我們需要想出來一個嶄新的主意…\nthat nobody has ever thought about it? 是大家從來沒有想過的?\nYeah, that could work.對，是有可能成功。\nOkay, I'll let you do the thinking. 好，我讓你來想。",
+          "time": null
+        }
+      ],
+      "postscript": "Would you like to join this contest?\ncontest比賽 moon base月球基地 win贏得 need需要"
+    },
+    "quiz": [
+      {
+        "question": "1. What ideas does the contest want?",
+        "options": [
+          "a. Landing on the moon",
+          "b. Making clean water from moon ice",
+          "c. Growing food on the moon"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many groups want to win the contest?",
+        "options": [
+          "a. Ten",
+          "b. Twenty",
+          "c. Thirty"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Where will a moon water machine be?",
+        "options": [
+          "a. Taiwan",
+          "b. A moon base",
+          "c. Deep in the sea"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
