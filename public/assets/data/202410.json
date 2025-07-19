@@ -1235,5 +1235,105 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20241018-01",
+    "type": "國小",
+    "tag": [
+      "Safety Education"
+    ],
+    "title": "Man Saves License Plates After Typhoon",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241017NK.mp3",
+    "content": [
+      {
+        "en": "A man in a yellow raincoat got off his scooter. He was holding a plastic bag. He walked into a police station. What was he doing there?",
+        "tw": "穿著黃色雨衣的男人，下了機車，提著一袋塑膠袋走進警察局。他在做甚麼呢?",
+        "time": null
+      },
+      {
+        "en": "This happened after a typhoon hit Taiwan. The typhoon was one of the strongest in a long time. Kaohsiung was hit with floods! The flood water was high. It wrecked cars, scooters, and other vehicles.",
+        "tw": "強烈颱風來襲後，高雄淹大水，許多汽車跟機車都遭殃。",
+        "time": null
+      },
+      {
+        "en": "License plates are on the front and back of vehicles. They have numbers and letters on them. The flood made hundreds of license plates come off!",
+        "tw": "車牌通常裝在汽車的前面跟後面，上面有數字跟字母，好幾百面車牌因為淹水從車子脫落。",
+        "time": null
+      },
+      {
+        "en": "After the typhoon, the man was riding home from work. He saw license plates everywhere! He was worried. Someone could use them to do bad things!",
+        "tw": "颱風過後，這名男子下班騎車經過，看到地上到處都是車牌，他擔心會有人把它們撿走做壞事。",
+        "time": null
+      },
+      {
+        "en": "So the man stopped. He got off his scooter. He picked up every license plate he saw. On the first day, he found seven. After that, he found more. He saved 18 license plates!",
+        "tw": "所以他停了下來，把他看到的每一面車牌撿起來。第一天就撿到了 7 面，之後越撿越多，總共撿到 18 面車牌!",
+        "time": null
+      },
+      {
+        "en": "So why was the man at the police station? He gave them the license plates. People were happy. Some gave him a reward!",
+        "tw": "男子把所有車牌交給警察，車牌的主人很開心，有一些還給了他獎勵!",
+        "time": null
+      },
+      {
+        "en": "The man didn't pick up license plates for rewards. He did it because he's kind!",
+        "tw": "男子撿起車牌不是為了獎勵。他這麼做是因為他心地善良！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "好心人撿拾遺落的車牌交給警察，預防有人冒用。",
+      "content": [
+        {
+          "text": "1. scooter 摩托車，機車。\nWow, the rain is coming down hard! 哇，雨下得真大!\nYeah, I'm really worried about my scooter. 對啊，我真擔心我的摩托車。\nI parked it on the street.我把它停在街上。",
+          "time": null
+        },
+        {
+          "text": "2. flood 淹水。\nThe last time it was flooded,上次它被水淹，\nit cost me 10-thousand NT to fix it. 花了我一萬塊修理。",
+          "time": null
+        },
+        {
+          "text": "3. do 做。\nThere's nothing you can do now. 你現在可沒辦法了。\nI know. But what if it's flooded again? 我知道，但是假如它又淹了怎麼辦?\nI need to ride it to work tomorrow. 我明天得騎車上班。",
+          "time": null
+        },
+        {
+          "text": "4. Typhoon Day 颱風假。\nTomorrow could be another Typhoon Day. 明天也許又放颱風假。\nHey, you may be right! 你可能猜對呢!",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字你記住了嗎?\nscooter摩托車，機車 flood淹水 do做 Typhoon Day颱風假"
+    },
+    "quiz": [
+      {
+        "question": "1. Which one is a vehicle?",
+        "options": [
+          "a. A flood",
+          "b. A scooter",
+          "c. A license plate"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many license plates did the man save?",
+        "options": [
+          "a. 7",
+          "b. 11",
+          "c. 18"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Why did the man pick up the license plates?",
+        "options": [
+          "a. He wanted rewards.",
+          "b. He is kind.",
+          "c. He wasn't worried."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
