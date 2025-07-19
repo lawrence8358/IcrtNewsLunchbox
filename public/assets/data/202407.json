@@ -599,5 +599,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240710-01",
+    "type": "國小",
+    "tag": [
+      "Technology Education",
+      "Technology",
+      "Industry, Innovation and Infrastructure"
+    ],
+    "title": "Robot Carts for the Moon",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240709NK.mp3",
+    "content": [
+      {
+        "en": "NASA is the space agency of the U.S. It wants to do many things in space. It looks for ideas to help.",
+        "tw": "美國太空總署NASA想要在太空做不同的事，NASA也會收集各種好主意來解決問題。",
+        "time": null
+      },
+      {
+        "en": "Many scientists have good ideas about doing things in space. Some ideas can help NASA. Scientists make these ideas better. NASA will use the best ideas in space!",
+        "tw": "許多科學家對於在太空中做事有很多好的想法。有一些可以幫到NASA。科學家們把想法變得更好。NASA會將最好的創意運用到太空！",
+        "time": null
+      },
+      {
+        "en": "NASA will send people to the moon. They need buildings to live and work in. NASA will use moon rocks to make buildings. So one idea is using robot carts on the moon. They can carry heavy rocks!",
+        "tw": "NASA未來會派人到月球，這些人需要房子住跟工作的地方。NASA會用月球上的石頭蓋房子，就有人想到可以用機械推車來運送石頭。",
+        "time": null
+      },
+      {
+        "en": "The robot carts have magnets, so they float over a track. They don't have wheels or legs. They don't touch the ground, so moon dust can't stop them.",
+        "tw": "這種機械推車有磁鐵，讓它懸浮在軌道上，不需要輪子或是雙腿，這樣月球上的灰塵就阻止不了它。",
+        "time": null
+      },
+      {
+        "en": "The track pushes the carts. They can move thirty meters in one minute.",
+        "tw": "軌道會推動推車前進，一分鐘可以跑30公尺。",
+        "time": null
+      },
+      {
+        "en": "Like toy tracks, the robot cart tracks can be moved. They can be rolled out on the ground. Then they can be rolled up and put away!",
+        "tw": "跟玩具軌道一樣，推車的軌道可以隨意移動，也可以收起來。",
+        "time": null
+      },
+      {
+        "en": "Robot carts are a great idea. But there are many great ideas. Will we see these robot carts on the moon one day?",
+        "tw": "機器推車是一個很棒的主意。但還有許多很棒的想法。有一天我們會看到這些機器推車在月球上嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "有了月球推車，建造月球基地不再是空想。",
+      "content": [
+        {
+          "text": "1. do 做\nI'm so tired! 我累死了!\nI want a robot to do all things for me! 我想要機器人來替我做所有的事情。\nWhat things? 什麼事呢?\nShopping, cooking, taking out the garbage….買東西、煮飯、倒垃圾...",
+          "time": null
+        },
+        {
+          "text": "2. carry 帶著、拿著\nHe can also carry my bag and go to work with me.\n他也可以拿我的包包，跟我去上班。\nAnd do your job and share your pay? 並且做你的工作，分你的薪水?",
+          "time": null
+        },
+        {
+          "text": "3. help 幫忙\nDo my job, yes, 做我的工作，對，share my pay, no. 分我的薪水，不行。\nI also want him to help buy my lunch. 我還要他幫忙買中飯。",
+          "time": null
+        },
+        {
+          "text": "4. many 很多\nYou have so many good ideas about how to use a robot!\n你對怎麼用機器人，好主意真不少!",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字都很短，卻很常用。\ndo做\ncarry帶著、拿著\nhelp幫忙\nmany很多"
+    },
+    "quiz": [
+      {
+        "question": "1. What is NASA?",
+        "options": [
+          "a. The U.S. space agency",
+          "b. A U.K. robot company",
+          "c. People living on the moon"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What can robot carts do?",
+        "options": [
+          "a. Make houses",
+          "b. Look for ideas",
+          "c. Carry rocks"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What can the robot cart tracks do?",
+        "options": [
+          "a. Float",
+          "b. Use toys",
+          "c. Roll up"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
