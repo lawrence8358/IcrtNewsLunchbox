@@ -1468,5 +1468,112 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240524-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Keeping a Fox in the City Wild",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240523NK.mp3",
+    "content": [
+      {
+        "en": "Foxes are wild animals. They live in forests and grasslands. But sometimes, they live in cities!",
+        "tw": "狐狸是野生動物，牠們住在森林跟草原。但有時候牠們也住在城市。",
+        "time": null
+      },
+      {
+        "en": "In one city in the U.S., someone found a baby fox on a street! A wildlife center is taking care of her now.",
+        "tw": "美國一個城市，有人在街上找到一隻狐狸寶寶。目前野生動物中心在照顧牠。",
+        "time": null
+      },
+      {
+        "en": "The wildlife center's workers don't want the baby fox to get used to people. Foxes that are used to people can't live with wild foxes.",
+        "tw": "野生動物中心的工作人員不想要狐狸寶寶熟悉人類，這樣牠才能跟其他野生狐狸生活。",
+        "time": null
+      },
+      {
+        "en": "But foxes aren't good pets. They need lots of space... and fresh raw meat! It's better for baby foxes to stay wild.",
+        "tw": "狐狸不適合當寵物，因為牠們需要很多空間跟新鮮的生肉，最好還是讓狐狸寶寶待在野外。",
+        "time": null
+      },
+      {
+        "en": "But the workers are around this baby fox all the time. So... they wear fox masks! The workers want her to think they are foxes too!",
+        "tw": "但是工作人員整天跟這隻狐狸寶寶在一起，於是他們戴上狐狸面具，讓牠覺得他們也是狐狸。",
+        "time": null
+      },
+      {
+        "en": "A stuffed fox toy is her mother. When the workers feed her, she lies on the toy. It makes her feel safe.",
+        "tw": "牠的媽媽是狐狸外形的填充玩具。工作人員在餵牠時，都把牠放在媽媽身上，讓牠安心。",
+        "time": null
+      },
+      {
+        "en": "Soon she'll live with three other wild baby foxes. She'll learn how to find food. She'll learn how to stay away from danger. She'll learn how to be with other wild animals.",
+        "tw": "過不久牠就會和另外三隻野生狐狸寶寶住在一起。牠會學習如何覓食、如何遠離危險、如何跟其他野生動物一起生活。",
+        "time": null
+      },
+      {
+        "en": "One day, she'll live in a forest or grassland. That's where she belongs!",
+        "tw": "有一天，牠將會住在森林或草原裡。那裡才是牠的歸屬！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "動物保育人員想出各種辦法，讓小狐狸以後能適應野外生活。",
+      "content": [
+        {
+          "text": "1. street 街道\nDid you hear they found a fox on the street?\n你有沒有聽說他們在街上發現一隻狐狸?\nOn the street? 在街上?\nFoxes should be out in the wild! 狐狸應該在野外!",
+          "time": null
+        },
+        {
+          "text": "2. feed 餵食\nAnyway, they're feeding him milk. 不管怎樣，他們在餵牠喝奶。\nSo it's a baby. 所以是幼獸。\nYeah, a baby that looks more like a kitten.對，看起來比較像小貓。",
+          "time": null
+        },
+        {
+          "text": "3. pet 寵物\nI wonder if someone can keep it as a pet. 不知道會不會有人養牠當寵物。\nI doubt it.我懷疑。",
+          "time": null
+        },
+        {
+          "text": "4. belong 屬於\nI think it belongs to the wild. 我想牠屬於野外。\nAnd yet it's here.然而牠卻在這裡。\nYeah. 是啊。",
+          "time": null
+        }
+      ],
+      "postscript": "今天這些單字很簡單。\nstreet街道\nfeed餵食\npet寵物\nbelong屬於"
+    },
+    "quiz": [
+      {
+        "question": "1. Where was the baby fox found?",
+        "options": [
+          "a. A forest",
+          "b. A street",
+          "c. A grassland"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do the wildlife center workers wear?",
+        "options": [
+          "a. Fox masks",
+          "b. Stuffed fox toys",
+          "c. Fresh raw meat"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Why is it important for a wild animal not to get used to people?",
+        "options": [
+          "a. It will be a good pet.",
+          "b. It will be easy to catch.",
+          "c. It will stay wild."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
