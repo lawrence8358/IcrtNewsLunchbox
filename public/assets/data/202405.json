@@ -1792,5 +1792,112 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240529-01",
+    "type": "國小",
+    "tag": [
+      "Life Below Water",
+      "Climate Action",
+      "Life on Land",
+      "Partnerships for the Goals",
+      "Environmental Education",
+      "Outdoor Education",
+      "Social Studies",
+      "Natural Sciences"
+    ],
+    "title": "Ring the Fish Doorbell",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240528NK.mp3",
+    "content": [
+      {
+        "en": "Have you seen fish swimming in a river? A city in the Netherlands has a river where fish swim. From May to the end of June, they swim to find places to lay eggs. But there's a gate in the river.",
+        "tw": "你看過在河裡游泳的魚嗎?荷蘭有一條河從五月到六月底都會有魚通過，準備找地方產卵，但是這條河有個閘門。",
+        "time": null
+      },
+      {
+        "en": "The gate opens for boats. Fish can go through at the same time. But when there are no boats, they have to wait... and wait… and wait. Sometimes hungry birds find them.",
+        "tw": "有船要通過的時候，閘門就會打開，魚這時可以跟著通過。但是如果沒有船，牠們就要一直等，中途可能就會被鳥吃掉。",
+        "time": null
+      },
+      {
+        "en": "So a scientist made a fish doorbell! But fish don't ring the doorbell. People do!",
+        "tw": "於是科學家做了魚群專用的門鈴，魚當然不會按門鈴，人才會!",
+        "time": null
+      },
+      {
+        "en": "An underwater camera lets people see the gate. When people see fish there, they ring the doorbell. A worker opens the gate.",
+        "tw": "河裡還有水下攝影機讓大家看到閘門。只要有人看到魚在等，就可以按門鈴讓管理員開門。",
+        "time": null
+      },
+      {
+        "en": "Where's the doorbell? It's on the Internet! It's very popular. It lets people help fish. It teaches people about underwater life. They see many kinds of fish.",
+        "tw": "在哪按門鈴呢?門鈴就在網路上，大家可以幫助魚又可以認識水生動物，還可以看到各種魚類。",
+        "time": null
+      },
+      {
+        "en": "Early morning and early evening are the best times to see fish. There aren't many hungry birds then…",
+        "tw": "每天清晨跟黃昏是看魚的最佳時機，這個時候也不會有太多飢餓的鳥類。",
+        "time": null
+      },
+      {
+        "en": "The fish doorbell is a fun way to help fish. Some people in Taiwan have helped! Do you want to help too?",
+        "tw": "魚群門鈴是一個幫助魚類的有趣方式。臺灣有些人已經提供了幫助！你也想幫忙嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "只要有人看到魚兒在水中游，就會打開門讓牠通過。",
+      "content": [
+        {
+          "text": "1. lay eggs 產卵\nHey, there are fish in the river! 嘿，這條河裡有魚!\nYeah, they are salmon. 對啊，是鮭魚。\nThey swim upstream to lay eggs. 他們游到上游去產卵。",
+          "time": null
+        },
+        {
+          "text": "2. underwater 在水下\nThey swim all the way here to do that? 大老遠游過來生蛋?\nYup! It's a big underwater trip.沒錯，是很長的水下旅行。\nThey are fish, after all. 他們畢竟是魚。",
+          "time": null
+        },
+        {
+          "text": "3. hungry 飢餓的\nSo what happens to the eggs? 所以那些卵會怎麼樣?\nThey hatch and grow. 牠們會孵出來，然後長大。\nWhat do they eat when they're hungry? 肚子餓的時候吃什麼呢?",
+          "time": null
+        },
+        {
+          "text": "4. life 生命\nYou can ask Google. 你可以問谷歌。\nI'm sure it has the whole life cycle of salmon.一定有鮭魚的完整生命週期說明。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\nlay eggs產卵\nunderwater在水下\nhungry飢餓的\nlife生命"
+    },
+    "quiz": [
+      {
+        "question": "1. What do fish do in the river from May to June?",
+        "options": [
+          "a. Exercise",
+          "b. Find birds",
+          "c. Lay eggs"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do people do when they see fish at the gate?",
+        "options": [
+          "a. Feed them",
+          "b. Ring a doorbell",
+          "c. Say hello"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What's the best time to see fish on the underwater camera?",
+        "options": [
+          "a. Early morning",
+          "b. Late morning",
+          "c. Afternoon"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
