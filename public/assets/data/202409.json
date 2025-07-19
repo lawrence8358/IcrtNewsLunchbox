@@ -1815,5 +1815,109 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240926-01",
+    "type": "國小",
+    "tag": [
+      "Responsible Consumption and Production",
+      "Life Below Water",
+      "Environmental Education",
+      "Marine Education",
+      "Natural Sciences"
+    ],
+    "title": "Why Taiwan Doesn't Catch All the Bluefin Tuna",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240925NK.mp3",
+    "content": [
+      {
+        "en": "Mmmmm... Tuna is delicious. Mmmmm-mm! And bluefin tuna is very delicious!",
+        "tw": "黑鮪魚太好吃了。",
+        "time": null
+      },
+      {
+        "en": "Bluefin tuna fish are big. They can be from one and a half meters to three meters long! They can weigh from sixty kilograms to four hundred fifty kilograms!",
+        "tw": "黑鮪魚身體巨大，牠們可以從1.5到3公尺長，60到450 公斤重 !",
+        "time": null
+      },
+      {
+        "en": "In Taiwan, fishermen are very good at catching bluefin tuna. That's great! They can catch all of these fish! But wait a minute! What about next year? There won't be any bluefin tuna!",
+        "tw": "台灣的漁夫很會捕撈黑鮪魚，他們可以把黑鮪魚全部抓完。等等!要是都被抓完了，明年怎麼辦?",
+        "time": null
+      },
+      {
+        "en": "Well, that won't happen. Taiwan has a rule. Two thousand tons of bluefin tuna can be caught every year. Then Taiwan's fishermen have to stop catching these fish.",
+        "tw": "好險這件事不會發生，因為台灣有規定，每年只能捕撈總共兩千噸的黑鮪魚。",
+        "time": null
+      },
+      {
+        "en": "This year, fishermen caught two thousand tons very fast! Everyone was surprised. Some fishermen wanted to catch more. They can get lots of money for bluefin tuna. But they had to stop.",
+        "tw": "今年，漁夫很快就補到了2000噸，他們很驚訝，雖然很多人想要多抓幾條來賺錢，但他們必須停止。",
+        "time": null
+      },
+      {
+        "en": "Taiwan's rule is smart. Now these fish can grow bigger. They can have more babies. And every year, fishermen can catch bluefin tuna again.",
+        "tw": "這項規定很聰明，沒有被抓的魚會長更大，生出更多鮪魚寶寶，這樣就一直可以有魚捕。",
+        "time": null
+      },
+      {
+        "en": "We can have delicious bluefin tuna for many years now!",
+        "tw": "我們現在可以享受美味的黑鮪魚很多年了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "黑鮪魚可以捕撈，但是必需有上限，不能超過。",
+      "content": [
+        {
+          "text": "1. fish 魚.\nI'm going to the Bluefin Tuna Festival next year! 我明年要去黑鮪魚節!\nA festival of fish? 魚的節慶?\nSounds like fun.聽起來很好玩.",
+          "time": null
+        },
+        {
+          "text": "2. delicious 美味的.\nAre you going fishing? 你要去釣魚嗎?\nI wish. No, I'll just be there to eat the fish. 我希望去呢!\n但我只是去那兒吃魚.\nMust be pretty good. 一定很美味.\nIt's delicious! 非常好吃!",
+          "time": null
+        },
+        {
+          "text": "3. lots of 很多.\nYou've been there before? 你以前去過?\nYeah, I have. In Pingtung.去過，在屏東.\nDid you pay lots of money for it? 有花很多錢嗎?",
+          "time": null
+        },
+        {
+          "text": "4. want 要.\nFor the fish? Not at all.花錢吃魚嗎? 完全沒有.\nI only paid for the souvenirs I wanted.我只花錢買了我要的紀念品.\nLucky you! 太幸運了!",
+          "time": null
+        }
+      ],
+      "postscript": "你也想嚐嚐黑鮪魚的滋味嗎?\nfish魚 delicious美味的 lots of很多 want要"
+    },
+    "quiz": [
+      {
+        "question": "1. How many meters long can bluefin tuna be?",
+        "options": [
+          "a. Three",
+          "b. Thirteen",
+          "c. Thirty"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How much bluefin tuna can be caught here every year?",
+        "options": [
+          "a. Sixty tons",
+          "b. Four hundred tons",
+          "c. Two thousand tons"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Why can't all bluefin tuna be caught?",
+        "options": [
+          "a. It takes lots of money.",
+          "b. There won't be any next year.",
+          "c. The fish is delicious."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
