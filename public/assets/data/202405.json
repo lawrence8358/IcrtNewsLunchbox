@@ -410,5 +410,110 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240510-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Family Education",
+      "Character Education",
+      "Life Education",
+      "Social Studies",
+      "Health and Physical Education"
+    ],
+    "title": "Do More Things by Yourself!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240509NK.mp3",
+    "content": [
+      {
+        "en": "Sunday is Mother's Day! Let's talk about moms... and kids!",
+        "tw": "這星期日是母親節! 我們來談談媽媽跟小孩!",
+        "time": null
+      },
+      {
+        "en": "A movie star in the U.S. has three kids. When her kids have problems, she doesn't always help them.",
+        "tw": "美國有一位電影明星有三個孩子。當他們遇到困難，她不會每次都幫忙。",
+        "time": null
+      },
+      {
+        "en": "Kid: Mommy, I dropped my toy! Waaaah! Mom: Honey, pick that up by yourself. Kid: Mommy, I can't find my pencil! Waaaah! Mom: Sweetie, look for it yourself.",
+        "tw": "玩具掉了，她就叫孩子把玩具撿起來。找不到鉛筆，就讓他們去找出來。",
+        "time": null
+      },
+      {
+        "en": "Is this movie star a good mom? Scientists say yes, she is! If you're not a baby, you can learn how to do some things by yourself!",
+        "tw": "這位電影明星是不是好媽媽?科學家覺得是的! 只要你不是小寶寶，就可以學習自己怎麼動手做。",
+        "time": null
+      },
+      {
+        "en": "Moms usually run to help when kids have problems. But scientists say moms can let kids take care of some problems by themselves.",
+        "tw": "通常媽媽都會解決小孩的問題。但科學家說媽媽們可以讓小孩自己處理某一些事情。",
+        "time": null
+      },
+      {
+        "en": "You don't always need to say, \"Mommy!!!! Help me!!!\" You're not a baby, right?",
+        "tw": "你不用一直喊媽媽，你已經不是小娃娃了。",
+        "time": null
+      },
+      {
+        "en": "Moms work so hard every day. That's why they have a special day: Mother's Day! You can show your mom how much you love her. How? You can do more things by yourself! On Sunday, you can say \"Happy Mother's Day\" to your mom by yourself! Let's all try now. Are you ready? One, two, three... Happy Mother's Day!",
+        "tw": "媽媽每天辛苦地工作，這就是為什麼有母親節！你可以表達你有多愛媽媽。怎麼做呢？你可以自己多動手做！星期天，你可以親自對媽媽說「母親節快樂」！我們現在都來試試看。準備好了嗎？一、二、三……母親節快樂！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家認為媽媽應該多多鼓勵孩子自己做事情。",
+      "content": [
+        {
+          "text": "1. look for 尋找\nDid you buy these? 這些是你買的?\nYeah, anything wrong? 對，有什麼不對嗎?\nThere's too much sugar in them. 這些含有太多糖了。\nYou need to look for better snacks. 你需要找比較健康的點心。",
+          "time": null
+        },
+        {
+          "text": "2. always總是\nI can't do that by myself. 我自己沒辦法那樣。\nWhy not? 怎麼沒辦法?\nBecause I'm always attracted to sweet stuff. 因為我總是被甜食吸引。",
+          "time": null
+        },
+        {
+          "text": "3. yourself你自己\nIt's not that hard. 沒有那麼難。\nJust tell yourself, \"I can do this. Yes, I can!\" 只要告訴自己，「我可以的! 是的，我可以!」",
+          "time": null
+        },
+        {
+          "text": "4. try 嘗試\nCome to the store with me next time.下次跟我一起去店裡。\nNo, no. Try to do it yourself. 不了，你試試看自己做。",
+          "time": null
+        }
+      ],
+      "postscript": "請注意，讀單字時間。\nlook for尋找\nalways總是\nyourself你自己\ntry嘗試"
+    },
+    "quiz": [
+      {
+        "question": "1. Who helps when you're doing things by yourself?",
+        "options": [
+          "a. Nobody",
+          "b. Mom",
+          "c. Dad"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How often do kids need to ask for help?",
+        "options": [
+          "a. Always",
+          "b. Sometimes",
+          "c. Never"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What day is Sunday?",
+        "options": [
+          "a. Kids' Day",
+          "b. A sunny day",
+          "c. Mother's Day"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
