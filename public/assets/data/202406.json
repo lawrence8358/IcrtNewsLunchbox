@@ -1620,5 +1620,115 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240626-01",
+    "type": "國小",
+    "tag": [
+      "Peace",
+      "Justice and Strong Institutions",
+      "Human Rights Education",
+      "Life Education",
+      "Law-related Education",
+      "Social Studies"
+    ],
+    "title": "This Election King Loses But Wins",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240625NK.mp3",
+    "content": [
+      {
+        "en": "This is the world's biggest election year! But what's an election?",
+        "tw": "今年是全球選舉年。那什麼是選舉呢?",
+        "time": null
+      },
+      {
+        "en": "An election is when a group of people say who they want for their leaders. Maybe the leaders are for their city or country.",
+        "tw": "選舉就是一群人選出他們想要的領導者，像是一個城市或是國家的領導者。",
+        "time": null
+      },
+      {
+        "en": "People vote to say who they want. The person who gets the most votes is the winner.",
+        "tw": "民眾投票表達他們想要什麼樣的人，得到最多票的人就是贏家。",
+        "time": null
+      },
+      {
+        "en": "This year, Taiwan had a big election. Some people wanted to be leaders. They ran for election. People voted. Now we have a new president, President Lai!",
+        "tw": "想要成為領導者的人就會參選，再由人民投票。今年台灣也有大選，我們新選出賴總統。",
+        "time": null
+      },
+      {
+        "en": "India had a big election too. Many people ran for election! They wanted to win! But one man didn't want to win…",
+        "tw": "印度也有大選，很多人參選，想要贏得選舉，但是有一個人不想贏。",
+        "time": null
+      },
+      {
+        "en": "A repairman has run for election 239 times. In India, people pay to run in an election. This man has paid more than $3 million Taiwan dollars!",
+        "tw": "有一位修理工已經參選239次。在印度需要付錢才能參選，他已經付了超過300萬台幣。",
+        "time": null
+      },
+      {
+        "en": "He hasn't won. But that's okay! He wants people to see that anyone can run for election. And he wants people to see that it's okay to lose.",
+        "tw": "他從來沒有贏過，但是沒有關係，他想要讓大家知道任何人都可以參選，而且輸了也不會怎麼樣。",
+        "time": null
+      },
+      {
+        "en": "People call this man the \"Election King.\" Maybe he's the real winner!",
+        "tw": "人們稱呼這個人為「選舉之王」。也許他才是真正的贏家！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "選舉在許多國家都是一件重大的事。",
+      "content": [
+        {
+          "text": "1. vote 投票。 Have you made up your mind? 你拿定主意了嗎? About whom to vote for? 要投給誰嗎? Yes. 對。 Of course I have.我當然決定好了。I'll be voting for the youngest people. 我要投給最年輕的候選人。",
+          "time": null
+        },
+        {
+          "text": "2. election 選舉。 Not many young people run for elections. 年輕人競選的不多。 You're wrong. 你錯了。Many of them are interested in politics.他們很多都對政治有興趣。",
+          "time": null
+        },
+        {
+          "text": "3. leader 領袖。 But look at those world leaders. 但是你看看那些世界領袖。Many are older, even beyond 70。很多都老老的，甚至超過七十歲。 Wrong again. 你又錯了。",
+          "time": null
+        },
+        {
+          "text": "4. win 贏得。 Canada's Justin Trudeau is young and handsome. 加拿大總理杜魯道年輕又帥氣。 That's different! 那不一樣! His family was in politics.他來自政治家庭。",
+          "time": null
+        }
+      ],
+      "postscript": "我們一起來讀單字。vote投票 election選舉 leader領袖 win贏得"
+    },
+    "quiz": [
+      {
+        "question": "1. How do people say what they want in elections?",
+        "options": [
+          "a. They vote.",
+          "b. They run.",
+          "c. They win."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Who is President Lai?",
+        "options": [
+          "a. An Indian repairman",
+          "b. India's new president",
+          "c. Taiwan's new president"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What does the Election King want to show people?",
+        "options": [
+          "a. Anybody can run.",
+          "b. Losing is bad.",
+          "c. He has money."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
