@@ -948,5 +948,115 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240315-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Environmental Education",
+      "Life Education",
+      "International Education",
+      "Natural Sciences",
+      "Integrative Activities"
+    ],
+    "title": "The Mystery Cleaner in the Workshop",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240314NK.mp3",
+    "content": [
+      {
+        "en": "Kid: I wish … I wish someone would clean my room!",
+        "tw": "小孩：我希望…我希望有人能清理我的房間！",
+        "time": null
+      },
+      {
+        "en": "Narrator: Some kids dream of never needing to clean their room again. Can this dream come true?",
+        "tw": "有一些小孩夢想永遠不用清理房間，這夢想有可能實現嗎?",
+        "time": null
+      },
+      {
+        "en": "Well, a man in Wales is living this dream. He has a workshop. It's a place where he makes or fixes things. His workshop has many small things in it: nuts, bolts, nails, and more.",
+        "tw": "有一個住在威爾斯的人就活在這種夢想裡!他有一間工作室，裡面有很多小東西，像是螺帽、螺栓、釘子等等。",
+        "time": null
+      },
+      {
+        "en": "He puts the small things here, there, and everywhere. But every morning, his workshop is cleaned up! All of the small things are in a box.",
+        "tw": "這些東西散在各處。但是每天早上，有人會收拾他的工作室，所有的小東西都收進盒子裡。",
+        "time": null
+      },
+      {
+        "en": "The man thought \"Who is doing this for me?\" It was a big mystery.",
+        "tw": "這個男人心想：「誰在幫我做這件事？」這是一個大謎團。",
+        "time": null
+      },
+      {
+        "en": "He put a video camera in his workshop. Then he watched the video. The cleaner wasn't a person! It was a mouse! Can you imagine a mouse cleaning up for you? That's amazing!",
+        "tw": "他放了一台攝影機在工作室裡，發現是一隻老鼠在幫他收拾東西。太不可思議了!",
+        "time": null
+      },
+      {
+        "en": "Was the mouse strong? The man wanted to find out. He gave the mouse some challenges. He put out heavier things. And guess what? This mouse can lift!",
+        "tw": "他好奇這隻老鼠夠不夠強壯，故意放一些比較重的東西。結果老鼠還是可以把物品舉起來。",
+        "time": null
+      },
+      {
+        "en": "This man in Wales never worries about cleaning up now. It's all thanks to the mouse! Do you dream of having a mouse too?",
+        "tw": "這位住在威爾斯的人現在從不用擔心打掃問題。這一切都多虧了那隻老鼠！你也夢想擁有一隻老鼠嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "老鼠會收拾零碎東西，你聽過這種事嗎?",
+      "content": [
+        {
+          "text": "1. never 從不\nCleaning up is never a problem for me. 打掃清潔對我從來不是問題。\nNever ever? 從來不是嗎?\nRight, because my younger sister does it for me. 對，因為我妹妹會幫我做。",
+          "time": null
+        },
+        {
+          "text": "2. imagine 想像\nSuch a nice sister! 這麼好的妹妹!\nI can't imagine any of my sisters doing that. 我不能想像我的姐妹會那樣。",
+          "time": null
+        },
+        {
+          "text": "3. workshop 工作室\nSo you've got a problem. 所以你有個難題。\nNo, I don't. 我沒有。\nBecause I sleep in my workshop. 因為我睡在工作室。",
+          "time": null
+        },
+        {
+          "text": "4. worry 擔心\nIt only has a bed, a desk and a chair. 那裏只有一張床，桌子和椅子。\nVery simple.非常簡單。\nAnd you don't worry about dust? 你不擔心灰塵?\nNot at all.一點也不。",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學到哪些單字?\nnever從不\nimagine想像\nworkshop工作室\nworry擔心"
+    },
+    "quiz": [
+      {
+        "question": "1. Who is cleaning up the workshop?",
+        "options": [
+          "a. A person",
+          "b. A nut",
+          "c. A mouse"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. In the morning, what are all the things in?",
+        "options": [
+          "a. A bag",
+          "b. A bowl",
+          "c. A box"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What does the man use to find out who is cleaning up?",
+        "options": [
+          "a. A video camera",
+          "b. A bolt",
+          "c. A mystery"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
