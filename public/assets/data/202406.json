@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20240603-01",
     "type": "國小",
@@ -101,6 +101,109 @@
         ],
         "time": null,
         "answer": "b"
+      }
+    ]
+  },
+  {
+    "id": "20240605-01",
+    "type": "國小",
+    "tag": [
+      "Disaster Risk Reduction Education",
+      "Safety Education",
+      "Technology",
+      "Industry, Innovation and Infrastructure"
+    ],
+    "title": "Taipei 101 Stayed Strong During Earthquake",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240604NK.mp3",
+    "content": [
+      {
+        "en": "In some places, earthquakes happen a lot. In these places, it's important for buildings to be safe during earthquakes. Engineers need to build strong and steady buildings.",
+        "tw": "有一些地區常常發生地震，所以這些地區的建築物必須堅固、穩定。",
+        "time": null
+      },
+      {
+        "en": "Taiwan had a strong earthquake on April third. Most buildings were fine!",
+        "tw": "台灣在4月3號發生大地震，但大部分的建築物都沒事。",
+        "time": null
+      },
+      {
+        "en": "Taipei 101 was fine too. It's one of the tallest buildings in the world! It was built to be very strong, even during earthquakes.",
+        "tw": "世界最高建築物之一的台北101也沒事，發生地震的時候，101還是很堅固。",
+        "time": null
+      },
+      {
+        "en": "Engineers made Taipei 101 flexible. That means the building can move from side to side. This is important during earthquakes.",
+        "tw": "工程師建造台北101的時候，確保它有韌性，這在地震的時候很重要。",
+        "time": null
+      },
+      {
+        "en": "Taipei 101 has a very big, shiny ball. This ball is 660 tons! It's inside the building! And it's near the top! It can move from side to side. When the building moves to the left, the ball moves to the right. This helps keep the building safe and steady during an earthquake!",
+        "tw": "台北101靠近頂樓的位置有一顆很大的球，重達660噸。它會移動，當台北101向左邊晃的時候，這顆球就會向右移動，讓這棟摩天大樓穩定下來。",
+        "time": null
+      },
+      {
+        "en": "During the earthquake, Taipei 101 moved from side to side. But it stayed strong!",
+        "tw": "地震發生的時候，台北101會搖晃，但是還是很堅固。",
+        "time": null
+      },
+      {
+        "en": "Engineers can make buildings that are safe even when the earth shakes. Hmmm… can they stop the earth from shaking?!",
+        "tw": "工程師可以建造在地震中也能安全的建築物。嗯… 他們能阻止地球搖晃嗎？！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台北101大樓的阻尼器，讓它在地震中屹立不搖。",
+      "content": [
+        {
+          "text": "1. building 建築物\nOh no, what's this? 糟糕，這是什麼?\nIt's an earthquake! Get down! 地震，蹲下來!\nOh my God! Is the building going to fall? 老天爺啊，這棟樓會不會垮啊?",
+          "time": null
+        },
+        {
+          "text": "2. safe 安全的\nNo, we should be safe.不會，我們應該很安全。\nThere, it has stopped. 好了，停了。\nIt was so scary! 太可怕了!\nMy heart is beating like crazy! 我的心臟還在狂跳!",
+          "time": null
+        },
+        {
+          "text": "3. shake 搖晃\nI know. It was a big one. 我知道，好大的地震。\nThe ground was shaking from side to side. 地板先是左右晃。",
+          "time": null
+        },
+        {
+          "text": "4. happen 發生\nRight, and then up and down.對，然後上下搖。\nLet's turn on the TV and see what happened.我們來開電視看看是怎麼回事。",
+          "time": null
+        }
+      ],
+      "postscript": "Please read these words with me.\nbuilding建築物\nsafe安全的\nshake搖晃\nhappen發生"
+    },
+    "quiz": [
+      {
+        "question": "1. How heavy is Taipei 101's ball?",
+        "options": [
+          "a. 6 tons",
+          "b. 60 tons",
+          "c. 660 tons"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What does Taipei 101's ball do during an earthquake?",
+        "options": [
+          "a. Drop to the floor",
+          "b. Move from side to side",
+          "c. Get heavier"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. During April's earthquake, what did Taipei 101 do?",
+        "options": [
+          "a. Became taller",
+          "b. Moved up and down",
+          "c. Moved from side to side"
+        ],
+        "time": null,
+        "answer": "c"
       }
     ]
   }
