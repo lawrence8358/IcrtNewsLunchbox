@@ -1527,5 +1527,98 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240625-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Technology Education",
+      "Information Education",
+      "Technology"
+    ],
+    "title": "A New Kind of New Teacher",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240624NK.mp3",
+    "content": [
+      {
+        "en": "There's a new teacher at a school in the UK. She has short dark hair and kind eyes. She helps the headmaster. But she's different from the other teachers there. She's a chatbot, not a person!",
+        "tw": "英國有一所學校來了一位新老師，她有一頭短髮跟一雙和善的眼睛。她是來幫校長的忙，但是她不是真人，而是聊天機器人。",
+        "time": null
+      },
+      {
+        "en": "A chatbot thinks and acts like a person. But it doesn't have a body. It's not a robot. It's a computer program. It uses AI. AI stands for Artificial Intelligence.",
+        "tw": "聊天機器人的行為和思考方式像真人，它利用 AI 人工智慧的電腦程式，但是沒有人類的身體構造。",
+        "time": null
+      },
+      {
+        "en": "This chatbot was made to help the headmaster. The headmaster can ask her questions. He can ask her how to help teachers and students. She looks at LOTS and LOTS of information VERY quickly. She answers his questions very quickly too.",
+        "tw": "這個聊天機器人是為了校長而開發的，校長可以問她問題，她會很快搜尋大量資訊，做出回答。",
+        "time": null
+      },
+      {
+        "en": "The students at this school are four to thirteen years old. They have teachers AND they have their own chatbots! The students can ask their chatbots questions. The chatbots always know the answer!",
+        "tw": "這所學校的學生是4到13歲，他們有老師也有自己的聊天機器人，讓他們問問題，並且很快就能得到答案。",
+        "time": null
+      },
+      {
+        "en": "The headmaster's chatbot and the students' chatbots are important at this school. They help the headmaster, the teachers, and the students. These chatbots show how AI can help make learning easier and faster!",
+        "tw": "校長的聊天機器人以及學生的聊天機器人都在這所學校扮演重要角色。它們幫助了校長、老師和學生。這些聊天機器人顯示了人工智慧如何能讓學習變得更輕鬆、更快速！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "聊天機器人是學校裡的好幫手。",
+      "content": [
+        {
+          "text": "1. computer 電腦\nHey there, I see you're working on the computer. 我看到你在用電腦。\nNeed any help? 需要幫忙嗎?\nYes, could you teach me how to make this robot move faster?\n要。可不可以教我怎麼讓這個機器人動作快一點?",
+          "time": null
+        },
+        {
+          "text": "2. information 資訊\nSure! 當然可以。\nYou need to change its program.你得變更它的程式。\nHere, let me show you some information first. 來，我先給你看一些資訊。",
+          "time": null
+        },
+        {
+          "text": "3. question 問題\nThis is cool! Now can I ask my robot questions? 真酷!\n現在我可以問機器人問題嗎?\nSo you want it to talk? 所以你要它會講話?\nYeah.對。",
+          "time": null
+        },
+        {
+          "text": "4. can 能夠\nI don't think you can make it do that.我覺得你沒辦法讓它做到。\nBut it's moving faster now! 但是它現在動作快多了!",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很重要喔。 computer電腦 information資訊 question問題 can能夠"
+    },
+    "quiz": [
+      {
+        "question": "1. What does AI stand for?",
+        "options": [
+          "a. Artificial Imagination",
+          "b. Artificial Intelligence",
+          "c. Advanced Intelligence"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What is AI?",
+        "options": [
+          "a. A student's computer",
+          "b. A way to teach",
+          "c. A computer program"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What do the chatbots do at the school?",
+        "options": [
+          "a. Answer questions",
+          "b. Teach classes",
+          "c. Watch the students"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
