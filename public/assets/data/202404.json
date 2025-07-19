@@ -962,5 +962,110 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240415-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences"
+    ],
+    "title": "This Cat Loves Salad",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240412NK.mp3",
+    "content": [
+      {
+        "en": "A woman wanted a cat. She went to an animal shelter to get one. Animal shelters take care of animals with no homes. People can get a pet and take it home.",
+        "tw": "有一位女士想要養貓，於是她去動物收容所想要領養一隻。",
+        "time": null
+      },
+      {
+        "en": "The animal shelter had many cats. The woman saw a cute black cat. She liked him very much. He went home with her.",
+        "tw": "收容所有很多貓，她看到一隻可愛的黑色貓咪，非常喜歡就帶牠回家。",
+        "time": null
+      },
+      {
+        "en": "At home, she learned something about the cat. He ate a lot! And he wanted to eat more than cat food!",
+        "tw": "這隻貓進家門之後，女士發現牠很會吃，而且想吃的還不只是貓食。",
+        "time": null
+      },
+      {
+        "en": "One day, she ate a sandwich. The cat smelled the sandwich. He meowed and meowed loudly.",
+        "tw": "有一天她在吃三明治，貓咪聞到了味道，大聲的喵喵叫。",
+        "time": null
+      },
+      {
+        "en": "The woman cut up vegetables for a salad every day. The cat started to steal some. He took lettuce, tomatoes, carrots, and avocados.",
+        "tw": "每天女士切蔬菜做沙拉。她的貓咪就會偷走像是生菜、番茄、胡蘿蔔跟酪梨。",
+        "time": null
+      },
+      {
+        "en": "Since then, the cat wants salad with his cat food! He loves vegetables and fruit. They make him very healthy!",
+        "tw": "之後這隻貓除了貓食之外，還一定要吃沙拉，牠很喜歡蔬果，這些食物也讓牠身體健康。",
+        "time": null
+      },
+      {
+        "en": "But sometimes the cat eats other food. He likes bread, hamburgers, cheese, and potato chips too! Uh-oh! Does the woman give these to him? Nope! He steals them from her!",
+        "tw": "這隻貓偶爾也吃其他的食物，牠也喜歡吃麵包、漢堡、起司跟洋芋片!是牠主人給牠的嗎?當然不是喔，牠偷偷叼走的!",
+        "time": null
+      },
+      {
+        "en": "The woman shares her salad with her cat. Every day, they eat healthy food together!",
+        "tw": "這位女士和她的貓分享沙拉。每天，牠們一起吃健康的食物！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這隻貓喜歡吃主人吃的食物。",
+      "content": [
+        {
+          "text": "1. sandwich 三明治\nHey, Jane, what's up? 過得如何?\nNot much, Paz. I just got myself a sandwich. 沒事，我剛買了一個三明治。\nWant a bite? 要吃一口嗎?\nNo, I ate a big hamburger half an hour ago.不了，我半個鐘頭前才吃了一個大漢堡。",
+          "time": null
+        },
+        {
+          "text": "2. hamburger 漢堡\nA good hamburger? 好吃的漢堡嗎?\nYeah, very good. 很好吃的。\nIt has tomatoes, cheese and beef. 有番茄，起司和牛肉。",
+          "time": null
+        },
+        {
+          "text": "3. vegetable 蔬菜\nI thought you prefer vegetables and fruit.我以為你比較愛青菜水果。\nI do. But I can't eat those things every day.我是啊，但是不能天天吃那些。",
+          "time": null
+        },
+        {
+          "text": "4. bread 麵包\nI know what you mean. 我懂你的意思。\nI like bread, and I have a different kind of bread every week.\n我喜歡麵包，每個星期換吃不同的麵包。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字都是食物。\nsandwich三明治\nhamburger漢堡\nvegetable蔬菜\nbread麵包"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did the woman get the cat from?",
+        "options": [
+          "a. The street",
+          "b. An animal shelter",
+          "c. Her home"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What does the cat like to eat?",
+        "options": [
+          "a. Soup",
+          "b. Chocolate",
+          "c. Salad"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did the cat steal?",
+        "options": [
+          "a. A sandwich",
+          "b. Vegetables",
+          "c. Cat food"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
