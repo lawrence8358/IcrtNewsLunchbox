@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20240501-01",
     "type": "國小",
@@ -98,6 +98,105 @@
         ],
         "time": null,
         "answer": "a"
+      }
+    ]
+  },
+  {
+    "id": "20240503-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Technology Education",
+      "Technology",
+      "Natural Sciences"
+    ],
+    "title": "Telescope Finds An Old, Old Galaxy",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240502NK.mp3",
+    "content": [
+      {
+        "en": "Tomorrow is Star Wars Day! So here's a story about a galaxy far, far away…",
+        "tw": "明天是星際大戰日!",
+        "time": null
+      },
+      {
+        "en": "Telescopes let us see things that are very far away. We can see the moon, stars, and planets. The bigger the telescope is, the more we can see.",
+        "tw": "望遠鏡可以讓我們看到很遠的東西，像是月球、恆星、還有行星。望遠鏡越大，看得越遠。",
+        "time": null
+      },
+      {
+        "en": "The James Webb Telescope is the biggest telescope in space today. It goes around and around the sun. It takes pictures. Then it sends them to Earth. Scientists study the pictures.",
+        "tw": "詹姆士．韋伯望遠鏡是現今最大的太空望遠鏡。它環繞太陽拍照，再傳回地球給科學家研究。",
+        "time": null
+      },
+      {
+        "en": "This telescope takes many cool pictures! It took pictures that show how stars are made. It also took pictures of a small galaxy. Scientists say this galaxy is the oldest we have seen. They say it made between one hundred million stars... and one billion stars!",
+        "tw": "它拍了很多很酷的照片，讓人看到星星是怎麼形成的，也拍到人類到現在為止看過的最古老的銀河，這個銀河產生了有高達一億到十億個星星。",
+        "time": null
+      },
+      {
+        "en": "This galaxy died thirteen billion years ago! That means it stopped making stars then.",
+        "tw": "但這個銀河在130億年前就不再形成新的星球了。",
+        "time": null
+      },
+      {
+        "en": "Telescopes let us see new things far, far away in space! Who knows what pictures the Webb Telescope will send next? Have a great Star Wars Day tomorrow… Tomorrow is May the fourth. It's a good day to say \"May the force be with you!\"",
+        "tw": "望遠鏡讓我們看到太空深處遙遠的新事物！誰知道韋伯望遠鏡接下來會傳送什麼照片呢？祝你明天有個愉快的星際大戰日…明天是五月四日。這是個說「願原力與你同在！」的好日子。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "韋伯太空望遠鏡拍攝的照片，大大增加科學家對太空的了解。",
+      "content": [
+        {
+          "text": "1. million 百萬\nWow, check out this cluster of stars! 哇，你看這一群星星!\nIt's like they're having a party there! 他們好像在那兒開派對!\nLet me see it. 讓我看看。\nYeah, there must be millions of stars there! 對啊，那裏一定有好幾百萬顆星星。",
+          "time": null
+        },
+        {
+          "text": "2. billion 十億\nNo, way more than that. 不對，比那個多很多。\nI would say billions of them. 我想有好幾十億顆。",
+          "time": null
+        },
+        {
+          "text": "3. go around 環繞\nDo you think they all go around one center? 你覺得星星都繞著一個中心轉嗎?\nThat's a good question. 好問題。",
+          "time": null
+        },
+        {
+          "text": "picture 照片、圖片\nGoogle says they do. 谷歌說是那樣沒錯。\nWe can find some pictures to prove that. 我們可以找到一些照片來證明這一點。",
+          "time": null
+        }
+      ],
+      "postscript": "我們一起讀單字。\nmillion百萬\nbillion十億\ngo around環繞\npicture照片、圖片"
+    },
+    "quiz": [
+      {
+        "question": "1. What day is tomorrow?",
+        "options": [
+          "a. Star Wars Day",
+          "b. Star Force Day",
+          "c. Star Tours Day"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What does the Webb Telescope go around?",
+        "options": [
+          "a. The sun",
+          "b. The moon",
+          "c. The Earth"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many years ago did this galaxy stop making stars?",
+        "options": [
+          "a. Ninety million",
+          "b. One billion",
+          "c. Thirteen billion"
+        ],
+        "time": null,
+        "answer": "c"
       }
     ]
   }
