@@ -295,5 +295,106 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240905-01",
+    "type": "國小",
+    "tag": [
+      "Zero Hunger",
+      "Good Health and Well-Being",
+      "Responsible Consumption and Production",
+      "Environmental Education",
+      "Technology Education",
+      "Natural Sciences",
+      "Technology"
+    ],
+    "title": "No Cows Needed for This Butter",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240904NK.mp3",
+    "content": [
+      {
+        "en": "Mmm … Toast and butter, yum! Most butter is made from cow's milk. But a company has a new way to make butter.",
+        "tw": "烤土司加奶油真好吃! 大多數的奶油是用牛奶做的，現在有一間公司有新的方式做奶油。",
+        "time": null
+      },
+      {
+        "en": "It uses carbon dioxide and other gases that come from the air. It heats the gases. That makes the fat for the butter. No cows are needed!",
+        "tw": "這間公司加熱空氣中的二氧化碳跟其他氣體，做出奶油中的脂肪，完全不需要乳牛。",
+        "time": null
+      },
+      {
+        "en": "But why are they making butter this way? Well, cows create a lot of pollution. They belch methane. Methane is a bad gas. It makes the Earth warmer. Cows also need lots of land to live on and water to drink. Using cow's milk for butter is bad for the Earth.",
+        "tw": "為什麼要這麼做呢?因為牛會排出甲烷，讓地球暖化。養牛也需要很多的土地跟水。用牛奶做奶油並不環保。",
+        "time": null
+      },
+      {
+        "en": "The company says its butter is a much better butter for the Earth. It doesn't make bad gases. It doesn't need land. It uses very little water.",
+        "tw": "這間公司說他們的奶油不需要土地，也不會排出不好的氣體，只需要少量的水，是環保的奶油。",
+        "time": null
+      },
+      {
+        "en": "This new butter tastes like... butter! But is it safe to eat? The butter is being checked now. If it's safe, the company can start selling it in 2025.",
+        "tw": "這款新的奶油吃起來就像奶油，但是它吃下肚不會有問題嗎? 這種奶油還在檢驗中，如果通過檢驗，公司就可以在2025年開始販售。",
+        "time": null
+      },
+      {
+        "en": "So.... when you put butter on your toast, remember: soon it might be made from air!",
+        "tw": "所以...當你把奶油塗在吐司上時，請記住：很快它可能就會是用空氣做成的！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這家公司是先合成人造脂肪，再用脂肪做出味道跟奶油很像的產品。",
+      "content": [
+        {
+          "text": "1. made from 用什麼做的\nUmmm, this shrimp tastes good! 這蝦真好吃!\nI'm glad you like it. 我很高興你喜歡。\nIt's made from algae.它是海藻做的。\nWhat? This is not real shrimp? 什麼啊?這不是真的蝦子?\nNope.不是。",
+          "time": null
+        },
+        {
+          "text": "2. way 方式\nBut it looks and tastes like real shrimp! 但是它看起來跟味道都像真的。\nI know. 我知道。\nThey used a new way to make it. 他們用一種新方法做的。",
+          "time": null
+        },
+        {
+          "text": "3. better更好的\nI have to say they did a good job.我得說他們做得很好。\nBetter than the real one? 比真的還好?",
+          "time": null
+        },
+        {
+          "text": "4. create 創造\nProbably not. But good enough. 也許沒有，但是夠好了。\nStill, I hope they stop creating fake food. 不過我還是希望他們停止做假的食物。",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字你記住了嗎?\nmade from 用什麼做的\nway方式\nbetter更好的\ncreate創造"
+    },
+    "quiz": [
+      {
+        "question": "1. What is butter usually made from?",
+        "options": [
+          "a. Toast",
+          "b. Cow's milk",
+          "c. Chicken eggs"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do cows produce that is bad for the Earth?",
+        "options": [
+          "a. Oxygen",
+          "b. Air",
+          "c. Methane"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. If the new butter is safe, when can the company sell it?",
+        "options": [
+          "a. 2025",
+          "b. 2026",
+          "c. 2027"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
