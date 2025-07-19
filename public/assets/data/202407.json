@@ -1,0 +1,98 @@
+ [
+  {
+    "id": "20240701-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Health and Physical Education"
+    ],
+    "title": "The Race on Stairs",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240628NK.mp3",
+    "content": [
+      {
+        "en": "One morning, 5,000 runners went to Taipei 101, Taiwan's tallest building! They came from 34 countries. All were running in the Taipei 101 Run Up and some in the Towerrunning World Championship.",
+        "tw": "有一天早上，5000名跑者聚集在台北101，他們來自34個國家參加台北101 垂直馬拉松跟世界高樓登高錦標賽。",
+        "time": null
+      },
+      {
+        "en": "The runners entered the Run Up race one at a time. Then they started to run up 2,000 steps!",
+        "tw": "跑者一個接一個開始跑垂直馬拉松，要爬2000個階梯。",
+        "time": null
+      },
+      {
+        "en": "After a while, they didn't know what floor they were on! If a runner passed by, they were running too slow. When they passed a runner, they were happy!",
+        "tw": "過了不久，他們都不知道爬到哪一層樓了! 假如被其他參賽者超過，表示跑得太慢囉! 但只要能超過別人，就很開心。",
+        "time": null
+      },
+      {
+        "en": "After the finish line on the 91st floor, some runners needed to lay down on the floor! They didn't care about the great view!",
+        "tw": "終於抵達終點91樓，有一些跑者需要躺下來休息，根本不在乎絕佳的景觀。",
+        "time": null
+      },
+      {
+        "en": "This wasn't the end for the runners in the Towerrunning World Championship race! They went back down to the first floor. Then they ran up to the 59th floor... again! That was 1,400 MORE steps! That's why this is the most difficult tower race in the world!",
+        "tw": "對於世界登高錦標賽的參賽者來說，這並不是終點！他們回到了一樓，然後再跑到59樓，又多了1400多個階梯。難怪這是世界最困難的登高比賽。",
+        "time": null
+      },
+      {
+        "en": "A Malaysian man and an Italian woman won the championship and $109,000 Taiwan dollars!",
+        "tw": "一位馬來西亞男子和一位義大利女子贏得了冠軍和109,000新台幣獎金！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "喜歡跑步的人，現在有好多種登高競賽可以參加。",
+      "content": [
+        {
+          "text": "1. run 跑. It's three months after the earthquake,地震都過了三個月，and our elevators are still down? 我們的電梯還是壞的? Yeah. Want to run up? 沒錯。想跑上去嗎?",
+          "time": null
+        },
+        {
+          "text": "2) floor 樓層. Are you kidding? 開玩笑。My office is on the 19th floor!我的辦公室在十九樓! Lucky me. 我真幸運。Mine is only on the 9th floor. 我的只在九樓。",
+          "time": null
+        },
+        {
+          "text": "3) again 再一次. It's still a tough run up.跑上去還是很難。True, and to get lunch, I have to do it again. 沒錯，而且買中飯時還得再來一次。",
+          "time": null
+        },
+        {
+          "text": "4) finish line 終點線. Anyway, see you! 好吧，再見! Tell me when you get to the finish line.你到終點時跟我講一聲。You want to see who's faster?你想要看誰比較快? No, I want to decide whether I should go home. 不是，我好決定要不要回家。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡爬樓梯嗎? run跑 floor樓層 again再一次 finish line終點線"
+    },
+    "quiz": [
+      {
+        "question": "1. Where were the races?",
+        "options": [
+          "a. Taipei Dome",
+          "b. Taipei 101",
+          "c. Taipei's streets"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What's the highest floor the runners run up to?",
+        "options": [
+          "a. 57th",
+          "b. 91st",
+          "c. 101st"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many Taiwan dollars did the two winners get?",
+        "options": [
+          "a. 2,000",
+          "b. 5,000",
+          "c. 109,000"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  }
+]
