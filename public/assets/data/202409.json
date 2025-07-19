@@ -701,5 +701,100 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240911-01",
+    "type": "國小",
+    "tag": [
+      "Arts"
+    ],
+    "title": "Lost King Found on Social Media",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240910NK.mp3",
+    "content": [
+      {
+        "en": "Do you look at pictures of your family and friends on social media? Or do you look at funny pictures and animal videos?",
+        "tw": "你會在社群媒體上瀏覽朋友的照片嗎?還是看好笑的照片或動物影片呢?",
+        "time": null
+      },
+      {
+        "en": "Some people who like art look at art on social media. Maybe they're looking at a picture of a family. But if there's art in the picture too, the art lover sees the art!",
+        "tw": "藝術愛好者會在社群媒體瀏覽藝術，可能也會看家庭合照，但是假如藝術品出現在照片裡，他們一定會注意到。",
+        "time": null
+      },
+      {
+        "en": "That's how one man found a painting of a king. It is more than 400 years old. It was part of a set. Twenty-two paintings were in the set. But no one knew where the king's painting was. People thought it was lost.",
+        "tw": "有人就這樣找到一張國王的畫像。這張畫像有4百年的歷史，是一組22張畫像中的一張。沒有人知道這張畫像在哪裡，大家都以為這張畫早已失蹤。",
+        "time": null
+      },
+      {
+        "en": "But the painting wasn't lost! It was in a place where people have events. People take pictures at these events. Someone put one of these pictures on social media.",
+        "tw": "其實這張畫就掛在一個常辦活動的地方。活動當中常有人拍照，還會把照片上傳到社群媒體。",
+        "time": null
+      },
+      {
+        "en": "In the picture, the painting is on a wall behind some people. The painting is arched on top. The man remembered the paintings in the set. They had the same arched top! Was this the lost painting? Yes!",
+        "tw": "照片裡這張畫像就掛在人群後方的牆壁上。它有獨特的拱形畫框，這名男子記得這一組畫像都有一樣的畫框，所以就是遺失的畫像。",
+        "time": null
+      },
+      {
+        "en": "The man is excited and happy. He found the lost king!",
+        "tw": "這名男子又興奮又開心。他找到了失蹤的國王！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "只因為看到一張照片，就找到了消失多年的畫像，真神奇!",
+      "content": [
+        {
+          "text": "1. art 藝術。\nThere's a Taipei Art Expo going on now. 台北藝術博覽會正在進行。\nAn Art Expo? 藝術博覽會?\nYeah, you get to see a lot of paintings.對，你可以看到很多畫作。",
+          "time": null
+        },
+        {
+          "text": "2. painting 油畫。\nI used to be very good at that. 我以前很擅長的。\nAt making paintings? 很擅長畫油畫嗎? Then you should go and see.\n那你應該去看看。",
+          "time": null
+        },
+        {
+          "text": "3. art lover 藝術愛好者。\nMany art lovers are ready to pay big money for the work.很多藝術愛好者都準備花大錢買作品。\nI bet they are.一定是的。I wish I knew what people like…我希望知道他們喜歡什麼...",
+          "time": null
+        },
+        {
+          "text": "4. maybe 也許。\nMaybe they'd like pictures of themselves. 也許他們會喜歡自己的畫像。You're right! People like to see their own faces! 說得對! 人們喜歡看自己的臉。",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我讀單字。art藝術 painting油畫 art lover藝術愛好者 maybe也許"
+    },
+    "quiz": [
+      {
+        "question": "1. What do art lovers look at on social media?",
+        "options": [
+          "a. Love",
+          "b. Art",
+          "c. Families"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Who was in the painting that the man found?",
+        "options": [
+          "a. A king",
+          "b. A queen",
+          "c. A prince"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What part of the painting is arched?",
+        "options": [
+          "a. The bottom",
+          "b. The top",
+          "c. The back"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
