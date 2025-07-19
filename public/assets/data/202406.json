@@ -618,5 +618,90 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240612-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences"
+    ],
+    "title": "Space Junk Zooms Over California",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240611NK.mp3",
+    "content": [
+      {
+        "en": "Do you look at the sky at night? Well, one night in California, people saw a big, bright light. It zoomed across the sky. Maybe it was a plane or a shooting star. But… it was Falling to the Earth!",
+        "tw": "Do you look up at the night sky? One night in California, people saw a very bright light streaking across the sky. It could be a plane or a meteor. But it fell to the earth!",
+        "time": null
+      },
+      {
+        "en": "Later, scientists said it was a piece of a rocket. Pieces of broken or old rockets and satellites are space junk. Later, scientists said it was a piece of a rocket. Debris from old rockets and satellites are all space junk. Millions of pieces of space junk zoom around the Earth. The pieces can zoom 28,000 kilometers an hour! They're a big problem! Space junk can hit satellites or spaceships.",
+        "tw": "It can move as fast as 28,000 kilometers per hour and may hit satellites or spacecraft.",
+        "time": null
+      },
+      {
+        "en": "Sometimes space junk falls to the Earth. Scientists said the space junk falling over California was about 1,500 kilograms! But no one found it. Metal becomes very, very hot when it falls to the Earth. Maybe the space junk burned up!",
+        "tw": "Scientists said The space junk in California weighs 1,500 kilograms, but no one has found it. Maybe when it dropped, the metal overheated and burned it all.",
+        "time": null
+      },
+      {
+        "en": "Scientists are finding ways to clean up space junk. They want to keep everyone safe from it. Scientists are also finding ways to clean up space junk. They want to keep everyone safe from it. Maybe you'll see a bright light zooming across the night sky too. Maybe it will be a plane or a shooting star. Or maybe it'll be space junk!",
+        "tw": "科學家正在尋找清理太空垃圾的方法。他們想讓每個人都免受其害。科學家們也在尋找清理太空垃圾的方法。他們希望保護每個人免受其害。也許你也會看到一道亮光劃過夜空。也許那是一架飛機或一顆流星。又或許，那是太空垃圾！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "The bright lights in the night sky may be sparks caused by space debris entering the Earth's atmosphere and burning up.",
+      "content": [
+        {
+          "text": "1. junk 垃圾. Did you see that? I sure did! It's amazing, isn't it? My guess is that it's space junk.",
+          "time": null
+        },
+        {
+          "text": "2. piece 碎片. Why? Because it seems to have many pieces. Maybe they are parts of a big rocket. That would be so cool!",
+          "time": null
+        },
+        {
+          "text": "3. fall 掉落. The pieces may fall on us. That would be big news!",
+          "time": null
+        },
+        {
+          "text": "4. hit 撞擊. You're not worried? Not at all. I'm sure they won't hit me. Look, another one is coming! Help!",
+          "time": null
+        }
+      ],
+      "postscript": "Have you ever seen space junk?\njunk垃圾 piece碎片 fall掉落 hit撞擊"
+    },
+    "quiz": [
+      {
+        "question": "1. What was in the sky over California?",
+        "options": [
+          "a. A piece of a rocket",
+          "b. A shooting star",
+          "c. A plane"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What is space junk?",
+        "options": [
+          "a. New spaceships",
+          "b. Pieces of satellites",
+          "c. Space travel snacks"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why is space junk a problem?",
+        "options": [
+          "a. It's not healthy.",
+          "b. It's old.",
+          "c. It can hit satellites."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
