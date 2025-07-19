@@ -701,5 +701,109 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240711-01",
+    "type": "國小",
+    "tag": [
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Environmental Education",
+      "Industry, Innovation and Infrastructure",
+      "Natural Sciences"
+    ],
+    "title": "Clothes Made of Human Hair Are Good for the Earth",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240710NK.mp3",
+    "content": [
+      {
+        "en": "I want to buy a new sweater. But I don't want to buy a cotton one. Cotton needs chemicals to grow faster. It needs chemicals that kill bugs. These chemicals are bad for the Earth.",
+        "tw": "我想買新的毛衣，但我不要棉花做的。棉花需要化學物質才能除蟲、長得快，可是化學物質對地球有害。",
+        "time": null
+      },
+      {
+        "en": "Should I buy one made from polyester? No, thanks! Polyester makes microplastics. They're bad for the Earth… and us.",
+        "tw": "那要買聚酯纖維做的嗎？也不行! 因為聚酯纖維會製造塑膠微粒，對地球跟我們也有害。",
+        "time": null
+      },
+      {
+        "en": "How about a sweater made of … human hair!? It sounds gross, but I heard it feels very soft!",
+        "tw": "那用人類頭髮做的毛衣呢？感覺有一點噁心，但是聽說摸起來好柔軟。",
+        "time": null
+      },
+      {
+        "en": "We take care of our hair every day. Some of us spend lots of money on our hair. But when we get haircuts, we don't want the hair that's cut off. Thousands of tons of hair become waste! But now, one company wants this hair!",
+        "tw": "我們每天都會保養頭髮，有一些人還會花很多錢保養。但是當我們把頭髮剪了，就不會想留下來。上千噸的頭髮變成垃圾，現在有一間公司卻想要這些頭髮。",
+        "time": null
+      },
+      {
+        "en": "A Dutch woman's company makes cloth from human hair. Her company gets hair from hair salons and washes it. The company makes yarn from the hair. It can color the yarn almost any color. It makes cloth from the yarn.",
+        "tw": "一位荷蘭女士開了一間用頭髮做衣服的公司。她的公司從髮廊收集頭髮，並且清洗乾淨做成各種顏色的毛線，再織成布料。",
+        "time": null
+      },
+      {
+        "en": "Hair doesn't need water, land, or chemicals. Using it cuts waste.",
+        "tw": "頭髮不需要水、土壤或化學物質，使用它可以減少垃圾做環保。",
+        "time": null
+      },
+      {
+        "en": "Maybe one day we'll be wearing clothes made from our own hair!",
+        "tw": "或許有一天我們會穿上用自己的頭髮做的衣服！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "用人類頭髮來做衣服，原料取之不盡用之不竭。",
+      "content": [
+        {
+          "text": "1. haircut 剪髮\nI really need to get a haircut. 我真的得去剪頭髮。\nIt looks fine to me. Soft and shiny. 我看它很好啊。又軟又亮。",
+          "time": null
+        },
+        {
+          "text": "2. take care of 照顧\nBut taking care of it every day is too much trouble.但是每天照顧頭髮好麻煩。\nI get it. So you want to cut it short? 我懂，所以你想剪短?",
+          "time": null
+        },
+        {
+          "text": "3. grow 生長\nYeah, much shorter.對，短很多。\nMy hair grows fast. 我的頭髮長很快。\nPretty soon it'll become long again. 沒多久又變長了。",
+          "time": null
+        },
+        {
+          "text": "4. company 公司\nYou can sell your hair to a fashion company, you know.\n你可以把頭髮賣給時尚公司，你知道吧。\nAnd a wig company, too! 還有假髮公司呢。\nGreat idea. 好主意!",
+          "time": null
+        }
+      ],
+      "postscript": "How often do you get a haircut?\nhaircut剪髮\ntake care of照顧\ngrow生長\ncompany公司"
+    },
+    "quiz": [
+      {
+        "question": "1. How does the sweater made of human hair feel?",
+        "options": [
+          "a. Rough",
+          "b. Soft",
+          "c. Bad"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where does the company get human hair?",
+        "options": [
+          "a. Hair salons",
+          "b. Fashion companies",
+          "c. Yarn shops"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What is true about clothes made of human hair?",
+        "options": [
+          "a. They're bad for the Earth.",
+          "b. They can be almost any color.",
+          "c. They make lots of waste."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
