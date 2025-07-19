@@ -729,5 +729,105 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20241011-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education"
+    ],
+    "title": "Stamps of a Taiwan Sports Star",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241010NK.mp3",
+    "content": [
+      {
+        "en": "We buy stamps at the post office. We put them on letters.",
+        "tw": "我們會在郵局買郵票，黏在信封上。",
+        "time": null
+      },
+      {
+        "en": "Stamps have pictures. Each picture shows what is important to Taiwan. There are many kinds of pictures. There are animals and trains. There are fruits and flowers. And there are people!",
+        "tw": "郵票上會有圖案，有時候是動物或火車，有水果跟花，有時候則是名人的照片，重點是他們對台灣很重要!",
+        "time": null
+      },
+      {
+        "en": "This year, a 30-year-old sports star is on Taiwan's stamps. Tai Tzu-ying is a badminton player. At 22 years old, she was the number one women's singles badminton player in the world!",
+        "tw": "今年，30歲的羽球明星戴資穎被印在郵票上。她在22歲那年榮獲女子單打世界冠軍!",
+        "time": null
+      },
+      {
+        "en": "The next year, Tai did not go to the international badminton games in the UK. Taiwan was hosting a big international sports event at the same time. Tai wanted to welcome everyone to Taiwan!",
+        "tw": "之後一年，小戴沒有去英國的比賽，因為台灣當時正要舉辦世大運，她希望吸引更多人來台灣!",
+        "time": null
+      },
+      {
+        "en": "Tai was the number one player for more than four years.",
+        "tw": "超過四年的時間裡，小戴一直維持世界冠軍。",
+        "time": null
+      },
+      {
+        "en": "Tai was busy. She got her Ph.D. She became a doctor! Dr. Tai said when you have a hard time, \"you can cry, you can be sad, but you must never give up.\"",
+        "tw": "她還是很忙碌，她拿到了博士學位! 戴博士說:遇到困難時可以難過，但絕對不能放棄!",
+        "time": null
+      },
+      {
+        "en": "Tai is important to Taiwan. Taiwan is important to Tai! What a great person to put on Taiwan's stamps!",
+        "tw": "戴資穎對台灣很重要，台灣對她也很重要！真是個很適合登上台灣郵票的偉人！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "戴資穎是羽球女王，連郵票上也看得到她。",
+      "content": [
+        {
+          "text": "1. great 很棒的。\nI watched a great movie last night.我昨晚看了很棒的電影。\nIt's about the first woman to swim across the English Channel.\n講第一個泳渡英吉利海峽的女子。\nThat's really something! 真了不起!",
+          "time": null
+        },
+        {
+          "text": "2. sports star 體育明星。\nYeah, and she became a big sports star. 她成了體育大明星。\nWhen did it happen? 什麼時候的事?",
+          "time": null
+        },
+        {
+          "text": "3. give up 放棄。\nAbout 100 years ago, when most women didn't swim at all.\n大約一百年前，當時絕大部分女性根本不游泳。\nBut she did.但是她游。\nShe did. 她游。\nShe never gave up.她從來沒有放棄。",
+          "time": null
+        },
+        {
+          "text": "4. have a hard time 遭遇困難。\nI'm sure she had a hard time telling people she could do it.\n她一定很難說服別人她做得到。\nTrue. 沒錯。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀一遍。\ngreat很棒的 sports star體育明星 give up放棄 have a hard time遭遇困難"
+    },
+    "quiz": [
+      {
+        "question": "1. What sport does Tai Tzu-ying play?",
+        "options": [
+          "a. Volleyball",
+          "b. Badminton",
+          "c. Tennis"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How old was Tai Tzu-ying when she became the number one player?",
+        "options": [
+          "a. 22",
+          "b. 23",
+          "c. 30"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did Dr. Tai Tzu-ying say about when you have a hard time?",
+        "options": [
+          "a. Never cry",
+          "b. Never be sad",
+          "c. Never give up"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
