@@ -417,5 +417,104 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240610-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Health and Physical Education",
+      "Integrative Activities"
+    ],
+    "title": "Dragon Boat Racing in Alabama, USA!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240607NK.mp3",
+    "content": [
+      {
+        "en": "Huh? What's that sound? That's right. Today is the Dragon Boat Festival!",
+        "tw": "那是什麼聲音?今天是端午節!",
+        "time": null
+      },
+      {
+        "en": "That sound is a drum. The drum helps the people racing in a dragon boat. Those people are paddlers. They use paddles to move the boat. They paddle by listening to the drum on their boat.",
+        "tw": "那是龍舟上的鼓聲，龍舟上的鼓可以幫助選手比賽，他們會跟著鼓聲節奏划手裡的槳。",
+        "time": null
+      },
+      {
+        "en": "But this isn't in Taipei. Taichung? Nope. Kaohsiung? Nope. Yilan, Hualien, Pingtung, Hsinchu, or Penghu? Nope, nope, nope, nope, and nope!",
+        "tw": "但這裡不是台北，台中呢?高雄，不是。宜蘭，花蓮，屏東，新竹還是澎湖。不!都不是，不是台灣任何一個地方。",
+        "time": null
+      },
+      {
+        "en": "This is in the USA! This state is Alabama. People in Alabama are racing dragon boats! That's really cool.",
+        "tw": "這是在美國阿拉巴馬州舉行的龍舟競賽。",
+        "time": null
+      },
+      {
+        "en": "Now many people in Alabama think racing dragon boats is fun and cool! That's great, right? People all around the world are enjoying the dragon boat festival like we do in Taiwan.",
+        "tw": "因為越來越多在阿拉巴馬州的人覺得划龍舟比賽很好玩又很酷。世界各地的人都像我們一樣慶祝端午節。",
+        "time": null
+      },
+      {
+        "en": "Today, people everywhere will be watching dragon boat races, balancing eggs for luck, and eating tasty zongzi! … Oof, I think I've eaten enough zongzi for one day … Happy Dragon Boat Festival, everyone!",
+        "tw": "今天，世界各地的人們都會觀看龍舟賽，立蛋祈福，並享用美味的粽子！… 哎呀，我想我今天粽子吃夠了… 祝大家端午節快樂！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "遠在天邊的美國阿拉巴馬州，也會舉行划龍舟大賽。",
+      "content": [
+        {
+          "text": "1. people 人們\nSomebody is playing drums.有人在打鼓。\nNot somebody. It's a whole bunch of people playing.不是一個人，是一群人在打。",
+          "time": null
+        },
+        {
+          "text": "2. sound 聲音\nThe sound is coming from the school next door. 這個聲音是從隔壁學校傳來的。\nOh, so it's probably a class. 所以那些人也許在上課。",
+          "time": null
+        },
+        {
+          "text": "3. drum 鼓\nYeah, they are playing African drums. 沒錯，他們在打非洲鼓。\nYou know how to play? 你也會嗎?\nYeah, I took classes for a while.對，我以前上過一陣子課。",
+          "time": null
+        },
+        {
+          "text": "4. fun 樂趣\nDid you have fun? 覺得好玩嗎?\nI did. I had lots of fun. 好玩，很好玩。\nThe best thing was I played drums on a boat! 最好的是我在船上打鼓。",
+          "time": null
+        }
+      ],
+      "postscript": "想想看怎麼用這些單字?\npeople人們\nsound聲音\ndrum鼓\nfun樂趣"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is this dragon boat race?",
+        "options": [
+          "a. Penghu",
+          "b. China",
+          "c. Alabama"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What moves the boats?",
+        "options": [
+          "a. Paddles",
+          "b. Dragons",
+          "c. Aliens"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What do the paddlers listen to?",
+        "options": [
+          "a. People in Alabama",
+          "b. Elephants at the festival",
+          "c. The drum on their boat"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
