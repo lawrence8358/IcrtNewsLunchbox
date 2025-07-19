@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20240401-01",
     "type": "國小",
@@ -104,6 +104,126 @@
         ],
         "time": null,
         "answer": "b"
+      }
+    ]
+  },
+  {
+    "id": "20240403-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Gender Equality",
+      "Quality Education",
+      "Reduced Inequalities",
+      "Life on Land",
+      "Partnerships for the Goals",
+      "Human Rights Education",
+      "Gender Equality Education",
+      "Family Education",
+      "Life Education",
+      "Character Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Health and Physical Education",
+      "Integrative Activities"
+    ],
+    "title": "Dolls Made for All Kids",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240402NK.mp3",
+    "content": [
+      {
+        "en": "Playing with dolls is fun. You can make dolls dance, jump, and fly!",
+        "tw": "玩娃娃很有趣。你可以讓娃娃跳舞、跳高、甚至飛起來！",
+        "time": null
+      },
+      {
+        "en": "One girl loves dolls. And she has a dream. When she was younger, she was sick. She was in the hospital a lot. She met kids with disabilities there.",
+        "tw": "有一個女孩喜歡玩娃娃，她小時候常常生病跑醫院，在醫院遇到很多有身心障礙的小朋友。",
+        "time": null
+      },
+      {
+        "en": "Some kids used wheelchairs. Some had arms without hands. Some had a new leg. But they didn't have dolls that looked like them.",
+        "tw": "有一些小孩需要坐輪椅。有一些孩子沒有手，有一些有義肢。但是他們都沒有一個像自己一樣的娃娃。",
+        "time": null
+      },
+      {
+        "en": "She wants kids to have dolls that look like them... and move like them! She wants dolls with disabilities and without disabilities! She thinks they can help all kids play together.",
+        "tw": "這個女孩想要那些兒童能玩到像自己模樣的娃娃。她覺得身障娃娃跟普通娃娃可以讓所有的孩子玩在一起。",
+        "time": null
+      },
+      {
+        "en": "Well, meet Evie and Max. They're dolls! Evie and Max can move in many ways. Their elbows and knees can bend. Their fingers and toes can move!",
+        "tw": "新推出的娃娃 Evie 跟Max可以做各種動作。他們可以彎曲手肘跟膝蓋，也可以動手指跟腳趾頭。",
+        "time": null
+      },
+      {
+        "en": "Because of the girl's dream, a company makes dolls with and without disabilities! Every kid is different, so every doll is different.",
+        "tw": "因為這個小女孩的夢想，有一家做普通娃娃的公司，也推出身障娃娃。每個小孩都不一樣，每個娃娃也都不一樣。",
+        "time": null
+      },
+      {
+        "en": "The company uses 3D printers to make many different dolls. 3D printers turn the girl's dream into real dolls!",
+        "tw": "這間公司使用 3D 列印製作不同的娃娃，實現女孩的夢想。",
+        "time": null
+      },
+      {
+        "en": "Now all kids can play together with dolls that look and move like them!",
+        "tw": "現在，所有的孩子都可以和那些長得像自己、動作也像自己的娃娃一起玩耍了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這家公司做出各種各樣的娃娃，讓小孩選擇。",
+      "content": [
+        {
+          "text": "1. jump 跳\nWhy are you jumping around like that? 你做什麼跳來跳去?\nI'm trying out new dance moves. 我在試跳新的舞步。",
+          "time": null
+        },
+        {
+          "text": "without 沒有\nIt's all about using my knees and toes. 主要是用膝蓋跟腳趾。\nHa, you look like you're trying to fly without wings!\n你看起來在做沒有翅膀的飛行!",
+          "time": null
+        },
+        {
+          "text": "knee 膝蓋\nYou've got to use your imagination! 你得用一點想像力 !\nCome join me. 來跟我一起跳吧!\nNo, no, no, I can't bend my knees like that. 不不不，我不能那樣彎膝蓋。",
+          "time": null
+        },
+        {
+          "text": "dance 跳舞\nYes, you can! 你可以的。\nAnyone can dance.任何人都可以跳舞。\nLet's do it together. 我們來一起跳。\nOkay, but don't laugh if I look\nfunny.好吧，但是如果我看起來很可笑，你不可以笑。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you dance?\njump跳\nwithout沒有\nknee膝蓋\ndance跳舞"
+    },
+    "quiz": [
+      {
+        "question": "1. What does the girl love?",
+        "options": [
+          "a. Dancing",
+          "b. Dolls",
+          "c. Elbows"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What can Evie and Max do?",
+        "options": [
+          "a. Sing short songs",
+          "b. Drink milk",
+          "c. Bend their knees"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What is the girl's dream for all kids to do?",
+        "options": [
+          "a. Play together",
+          "b. Use 3D printers",
+          "c. Move in many ways"
+        ],
+        "time": null,
+        "answer": "a"
       }
     ]
   }
