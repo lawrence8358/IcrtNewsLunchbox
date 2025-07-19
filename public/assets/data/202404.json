@@ -2006,5 +2006,111 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240430-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Reduced Inequalities",
+      "Character Education",
+      "Life Education",
+      "Outdoor Education",
+      "Social Studies",
+      "Natural Sciences"
+    ],
+    "title": "Snow for Kids",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240429NK.mp3",
+    "content": [
+      {
+        "en": "Have you seen snow? Every year, in winter, many places around the world get cold. Some places get so cold, it doesn't rain. It snows. Cold white fluffy snow falls. It makes everything white!",
+        "tw": "你看過雪嗎?很多地方每年冬天都會下雪，白雪讓所有的東西都變成白色。",
+        "time": null
+      },
+      {
+        "en": "In the north of China, winter gets very, very cold. Everything is white with snow. But in the south, it doesn't get cold. Kids don't see snow there.",
+        "tw": "中國北方冬天非常寒冷都會下雪，但是在南方就沒有那麼冷，南方的小朋友都看不到雪。",
+        "time": null
+      },
+      {
+        "en": "Some nice people in the north wanted to take snow to a school in the south. The school is for kids with disabilities. Many kids there have a hard time learning or moving.",
+        "tw": "有些北方人想要把雪送到南方一間特別學校，那裏的小朋友有學習障礙。",
+        "time": null
+      },
+      {
+        "en": "The people put snow into three big trucks. These trucks keep things very cold. Then they drove for three days!",
+        "tw": "這些北方人用三個大貨車把雪裝起來，他們足足開了三天。",
+        "time": null
+      },
+      {
+        "en": "Three thousand three hundred kilometers later, they opened the trucks. The kids were very excited! It was the first time they saw snow!",
+        "tw": "他們一路開了3300公里到南方，把貨車後門打開。小朋友非常興奮，這是他們第一次看到雪!",
+        "time": null
+      },
+      {
+        "en": "They touched the snow. It was fluffy and very cold! They played with the snow! They made snowmen and snowballs! The kids were very happy!",
+        "tw": "雪又軟又冰，小朋友堆雪人又打雪仗，非常開心!",
+        "time": null
+      },
+      {
+        "en": "The snow melted, but the kids will remember it. They had a fun and exciting snow day!",
+        "tw": "雪融化了，但孩子們會永遠記得這一天。他們度過了一個有趣又令人興奮的下雪天！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "從北方千里迢迢運白雪到南邊，只為了讓兒童看看雪。",
+      "content": [
+        {
+          "text": "1. north 北方\nIt's snowing in Hokkaido! 北海道在下雪!\nCan you believe that? 你相信嗎?\nNow? It's almost summer! 現在喔? 馬上就要到夏天了!\nIt's in the far north, so… 那裏在遙遠的北方，所以...",
+          "time": null
+        },
+        {
+          "text": "2. white 白色的\nI'd love to see it, 我好想看看雪，to lie down on the white and fluffy snow.\n躺在白色鬆軟的雪地上。\nNo, you wouldn't want that. 你不會想要那樣.",
+          "time": null
+        },
+        {
+          "text": "3. cold 冷的\nIt's very cold when it snows. 下雪時很冷的。\nI can wear a heavy coat and gloves. 我可以穿厚外套，戴手套.",
+          "time": null
+        },
+        {
+          "text": "4. the first time 第一次\nYeah, I guess so. 我想也是。\nThe first time I saw snow, I was very excited, too. 我第一次看到雪也好興奮.",
+          "time": null
+        }
+      ],
+      "postscript": "我們來讀單字吧。\nnorth北方\nwhite白色的\ncold冷的\nthe first time第一次"
+    },
+    "quiz": [
+      {
+        "question": "1. What part of China was the snow from?",
+        "options": [
+          "a. North",
+          "b. South",
+          "c. West"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How did the people deliver the snow?",
+        "options": [
+          "a. By train",
+          "b. By car",
+          "c. By truck"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did the kids do with the snow?",
+        "options": [
+          "a. Took it home",
+          "b. Cleaned it",
+          "c. Made snowmen"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
