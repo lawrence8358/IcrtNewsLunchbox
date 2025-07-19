@@ -1427,5 +1427,117 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240321-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Technology",
+      "International Education",
+      "Outdoor Education",
+      "Multicultural Education",
+      "Life Education",
+      "Technology Education",
+      "Marine Education",
+      "Environmental Education",
+      "Life on Land",
+      "Life Below Water",
+      "Climate Action",
+      "Clean Water and Sanitation"
+    ],
+    "title": "The Tail of a Whale Tells All",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240320NK.mp3",
+    "content": [
+      {
+        "en": "Whales are big, beautiful animals. Some of them are as long as three buses!",
+        "tw": "鯨魚是龐大又美麗的動物，有一些鯨魚跟三輛公車一樣長。",
+        "time": null
+      },
+      {
+        "en": "Many people want to see whales. Some of us go on boats to watch them. But nobody knows where and when we can see them. And many times, we see the tail or a very small part.",
+        "tw": "很多人會坐船賞鯨，但是沒有人知道在哪裡或是什麼時候能見到鯨魚。很多時候只能看到尾巴或一小部分。",
+        "time": null
+      },
+      {
+        "en": "We try to take pictures. But whales don't stop moving! It's hard to take pictures! But they let us feel a little closer to the whales we see. What's another way to feel closer?",
+        "tw": "我們都希望拍到鯨魚照片，讓我們覺得我們離鯨魚更近。還有什麼其他的方法呢?",
+        "time": null
+      },
+      {
+        "en": "Some scientists found a smart way. They use Artificial Intelligence, or AI, in an app. It knows the tails of 70,000 whales! Every tail is different.",
+        "tw": "科學家找到一個聰明的方法，他們用人工智慧AI在新發明的應用軟體上，這個軟體記錄了7萬頭鯨魚的尾巴，每個尾巴都不同。",
+        "time": null
+      },
+      {
+        "en": "We upload a picture of our whale's tail. The app finds whose tail it is.",
+        "tw": "上傳鯨魚尾巴的照片，系統就會幫你找到是哪一隻鯨魚。",
+        "time": null
+      },
+      {
+        "en": "The app shows the whale's name if it has one. We can see where people saw it. When it has no name, we can name it!",
+        "tw": "應用軟體還會告訴你鯨魚的名字，在哪裡看過牠。如果牠沒有名字，我們可以幫牠取名。",
+        "time": null
+      },
+      {
+        "en": "AI helps us learn more about the whales we see. It uses our pictures of their tails. Now we can feel closer to these big, beautiful animals!",
+        "tw": "AI 幫助我們更了解我們看到的鯨魚。它利用我們拍攝的鯨魚尾巴照片。現在我們可以感覺更接近這些巨大美麗的動物了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "用AI來尋找特定的鯨魚，賞鯨不再是大海撈針。",
+      "content": [
+        {
+          "text": "1. take pictures 拍照\nThis is so nice! To be out here on the sea! 出來在大海上真好!\nIt's very nice, but I'm here to take pictures of whales.",
+          "time": null
+        },
+        {
+          "text": "2. feel 感覺\nThey will come. You'll see. 牠們會來，你也會看到的。\nI can feel them close by. 我感覺牠們就在附近。\nYou can FEEL they're close? 你可以感覺到牠們在附近?",
+          "time": null
+        },
+        {
+          "text": "3. when 什麼時候\nNobody knows when a whale will show up! 沒有人知道鯨魚什麼時候會出現。\nOh but I do.我就可以。",
+          "time": null
+        },
+        {
+          "text": "4. know 知道\nThere they are! 就在那裏。\nMore than one! 不只一頭!\nI told you.我就跟你說啊。\nHow did you know? 你是怎麼知道的?\nI have no idea. I just did. 我也不知道，我就是知道。",
+          "time": null
+        }
+      ],
+      "postscript": "Try to use these words.\ntake pictures拍照\nfeel感覺\nwhen什麼時候\nknow知道"
+    },
+    "quiz": [
+      {
+        "question": "1. How many whales' tails does the app know?",
+        "options": [
+          "a. 7,000",
+          "b. 17,000",
+          "c. 70,000"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do we upload to the app?",
+        "options": [
+          "a. Movies",
+          "b. Pictures",
+          "c. Sounds"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What can we do when a whale doesn't have a name?",
+        "options": [
+          "a. Name it",
+          "b. Take pictures",
+          "c. Go on a boat"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
