@@ -1832,5 +1832,104 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240628-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Safety Education",
+      "Disaster Risk Reduction Education",
+      "Environmental Education",
+      "Climate Action"
+    ],
+    "title": "How Wind Spins into a Tornado",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240627NK.mp3",
+    "content": [
+      {
+        "en": "Do you know what tornadoes are? They are towers of wind. They spin around and around very fast. They're very strong and very, very scary!",
+        "tw": "你知道什麼是龍捲風嗎? 它是一個旋轉的空氣柱，破壞力很強，又非常嚇人!",
+        "time": null
+      },
+      {
+        "en": "A big tornado hit an American town. The tornado destroyed buildings and cars. People had no electricity. They needed help!",
+        "tw": "龍捲風襲擊美國一個小鎮，摧毀建築物跟車子。當地還停電，民眾需要幫助。",
+        "time": null
+      },
+      {
+        "en": "How do tornadoes happen?",
+        "tw": "龍捲風怎麼形成的呢?",
+        "time": null
+      },
+      {
+        "en": "During some storms, warm air goes up to the clouds. At the same time, cold air falls from the cloud. The warm and cold air mix and spin faster. If the spinning air goes down to land, it becomes a tornado!",
+        "tw": "天氣不穩定的時候，暖空氣上升，冷空氣同時下降，冷暖空氣對流讓轉速越來越快，碰到地面就變成龍捲風。",
+        "time": null
+      },
+      {
+        "en": "Tornadoes show us that nature has a lot of power. Small, slow tornadoes can pull off roof tiles. Big, fast tornadoes destroy buildings and pick up cars! People try to stay safe in basements or places with no windows.",
+        "tw": "龍捲風向我們展現大自然的力量。小而慢的龍捲風會把屋頂的瓦片捲走。快而大的龍捲風會把房子跟車子吹走。民眾只能躲在地下室或是沒有窗戶的地方。",
+        "time": null
+      },
+      {
+        "en": "The tornado in the American town destroyed homes, shops, and restaurants. People are working together to fix their town.",
+        "tw": "這個美國小鎮的龍捲風摧毀了房屋、商店和餐館。人們正在一起努力修復他們的城鎮。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "龍捲風力量驚人，要是碰觸到地面，經常造成損害。",
+      "content": [
+        {
+          "text": "1. hit 打擊。 A tornado hit my sister's town! 龍捲風擊中了我妹妹的小鎮。 Oh no, is she okay? 糟糕，她還好嗎? Yeah, she's fine, but her car is destroyed. 她很好，但是她的車子毀了。",
+          "time": null
+        },
+        {
+          "text": "2. land 地面。 That's terrible! 真可怕! Yeah, and she said 3 tornadoes touched land in 3 different areas.對，她說三個龍捲風落在三個不同的地區。",
+          "time": null
+        },
+        {
+          "text": "3. electricity 電力。 The electricity was out for a while. 有一陣子還停電。 At least they still have the house. 至少他們還有房子。",
+          "time": null
+        },
+        {
+          "text": "4. spin 旋轉。 That's true. 那是真的。 I wonder what it's like 我真想知道… to be spun around by the wind.被風吹得團團轉是怎樣。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀今天的單字。hit打擊 land地面 electricity電力 spin旋轉"
+    },
+    "quiz": [
+      {
+        "question": "1. What is a tornado?",
+        "options": [
+          "A: A type of cloud",
+          "B: A tower of spinning wind",
+          "C: A big rainstorm"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "2. How do tornadoes form?",
+        "options": [
+          "A: When it rains a lot",
+          "B: When the sun shines very bright",
+          "C: When hot and cold air mix and spin really fast"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "3. What does the story say about small tornadoes?",
+        "options": [
+          "A: They can pull off roof tiles",
+          "B: They can lift cars",
+          "C: They can destroy buildings"
+        ],
+        "time": null,
+        "answer": "A"
+      }
+    ]
   }
 ]
