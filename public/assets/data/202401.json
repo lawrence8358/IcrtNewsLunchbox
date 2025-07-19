@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20240102-01",
     "type": "國小",
@@ -91,6 +91,107 @@
           "a. Japan",
           "b. The Philippines",
           "c. Thailand"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
+    "id": "20240103-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Responsible Consumption and Production",
+      "Life on Land",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Health and Physical Education"
+    ],
+    "title": "Woman Eats Hundreds of Hotpots",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240102NK.mp3",
+    "content": [
+      {
+        "en": "Hotpot is great fun. Everyone cooks together! And hotpot is traditional. Taiwanese families eat hotpot on Lunar New Year's Eve for good luck.",
+        "tw": "吃火鍋很有趣，也是一種傳統。台灣家庭會在農曆新年圍爐吃火鍋。",
+        "time": null
+      },
+      {
+        "en": "Hotpot changes everywhere you go. Thailand, Japan, Cambodia, and Laos have their own kinds of hotpot. Switzerland has a kind of hotpot too, made with cheese! And China has two kinds of hotpot, one from the north and one from the south.",
+        "tw": "各地的火鍋都不一樣。泰國、日本、柬埔寨跟寮國都有自己的特色火鍋。瑞士有起司鍋。中國也分南方火鍋跟北方火鍋。",
+        "time": null
+      },
+      {
+        "en": "Ms. Kong lives in China. She doesn't like hotpot… She loves it! Ms. Kong loves hotpot very much. She likes to eat hotpot at one hotpot restaurant. She went 627 times in nine years!",
+        "tw": "孔小姐很愛在同一間火鍋餐廳吃火鍋，九年她一共去了627次。",
+        "time": null
+      },
+      {
+        "en": "Eating hotpot is Ms. Kong's hobby. She doesn't have any other hobbies. She doesn't like to cook. She likes to eat! And she likes to eat hotpot the most.",
+        "tw": "吃火鍋是她唯一的嗜好，她不喜歡煮但很喜歡吃，也最喜歡吃火鍋。",
+        "time": null
+      },
+      {
+        "en": "Eating so much hotpot is not healthy. And hotpot cost Ms. Kong a lot of money. She spent 270,000 yuan on hotpot. That's more than a million Taiwan dollars!",
+        "tw": "吃太多火鍋對身體不好，而孔小姐總共花了27萬人民幣吃火鍋，超過台幣100萬。",
+        "time": null
+      },
+      {
+        "en": "No more hotpot, Ms. Kong! Take care of your health and your money!",
+        "tw": "孔小姐，別再吃火鍋了！請照顧好你的健康和金錢！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這名女士會不會吃太多火鍋了?",
+      "content": [
+        {
+          "text": "1. traditional 傳統的 Let's eat traditional hotpot tonight. 我們今晚吃個傳統火鍋吧。 What's that? 那是什麼呢? It's a brass pot with a chimney. 就是有個煙囪的黃銅火鍋。",
+          "time": null
+        },
+        {
+          "text": "2. healthy 健康的 Oh, I know that one. 我知道那種。 But what's so special about it? 但是有什麼特別的? I heard it's healthier. 聽說比較健康。 That's not true.不是真的吧。",
+          "time": null
+        },
+        {
+          "text": "3. spend 花費 Cooking it ourselves would be healthier.自己煮才會比較健康。 Okay, I'll buy vegetables and meat this afternoon. 好吧，那我今天下午去買菜跟肉。 Don't spend too much money, though.但是不要花太多錢。",
+          "time": null
+        },
+        {
+          "text": "4. more than 比較多 I won't spend more than 1,000 NT. 我不會花超過一千塊。 I'm running out of money! 我快沒錢了。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡火鍋嗎?來一起讀單字。 traditional傳統的 healthy健康的 spend花費 more than比較多"
+    },
+    "quiz": [
+      {
+        "question": "1. What is hotpot made with in Switzerland?",
+        "options": [
+          "a. Cheese",
+          "b. Milk",
+          "c. Butter"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where did Ms. Kong eat hotpot 627 times?",
+        "options": [
+          "a. At home",
+          "b. At a restaurant",
+          "c. In Japan"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How much is 270,000 yuan in Taiwan dollars?",
+        "options": [
+          "a. Under a million",
+          "b. More than a million",
+          "c. More than two million"
         ],
         "time": null,
         "answer": "b"
