@@ -1,0 +1,104 @@
+ [
+  {
+    "id": "20240501-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies",
+      "Integrative Activities",
+      "Clean Water and Sanitation"
+    ],
+    "title": "Kaohsiung Harbor Duck Race",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240430NK.mp3",
+    "content": [
+      {
+        "en": "Kaohsiung Harbor has many things to see. It has big ships! They carry many things to and from Taiwan. It has ferryboats! They take visitors around the harbor. And sometimes it has races!",
+        "tw": "高雄港有很多船隻運送貨物，也有渡輪可以帶遊客繞港口，有時候還會辦比賽!",
+        "time": null
+      },
+      {
+        "en": "Many people came to watch one race. They watched from the harbor. And they watched from the Great Harbor Bridge! People wore yellow hats with... duck faces? Huh!",
+        "tw": "很多人為了看一場比賽，擠滿高雄港跟大港橋，而且大家都戴著黃色小鴨的帽子。",
+        "time": null
+      },
+      {
+        "en": "The race was three hundred fifty meters long! Who was in the race? Fifteen thousand yellow rubber ducks were!",
+        "tw": "這場比賽全長350公尺，是誰要比賽呢? 是1萬5千隻的橡皮小鴨。",
+        "time": null
+      },
+      {
+        "en": "Do you like rubber ducks? They're small and cute. They float on water. So these fifteen thousand yellow rubber ducks floated. They didn't race.",
+        "tw": "你喜歡橡皮小鴨嗎?它們又小又可愛。它們會浮在水上但不會比賽。",
+        "time": null
+      },
+      {
+        "en": "Some people got on boats! They sprayed the ducks with water! The ducks moved! People cheered! Go, duckies, go!",
+        "tw": "船上有一些人對著小鴨灑水，讓它們往前移動。",
+        "time": null
+      },
+      {
+        "en": "Each duck had a number on it. People also had a number. Fifty ducks won big prizes! Fifty people with those ducks' numbers got the prizes!",
+        "tw": "小鴨身上有號碼，民眾手上也有號碼。對應到前50名小鴨的號碼就可以得到獎品。",
+        "time": null
+      },
+      {
+        "en": "Then the ducks were cleaned. Fifteen thousand lucky kids got a duck! Maybe they'll play with their ducks in the bath! Go, duckie, go!",
+        "tw": "接著小鴨被清洗乾淨。一萬五千個幸運的孩子得到了一隻小鴨！也許他們會帶著他們的小鴨在浴缸裡玩！小鴨，衝啊，衝啊！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "小黃鴨的比賽，其實是人用噴水的方式讓它們前進。",
+      "content": [
+        {
+          "text": "1. yellow 黃色的 I'm going to Kaohsiung this weekend. 我這周末要去高雄。 To see the yellow duck in the harbor, right? 去看港口的黃色鴨鴨，對吧? I wish.我真希望是。",
+          "time": null
+        },
+        {
+          "text": "2. float 漂浮 But it's not there anymore. 但是它已經不在那裏了。 Oh, no! I haven't seen it yet.糟糕，我還沒看呢! I sure like the sight of a giant yellow duck floating on water. 我真喜歡胖大黃鴨鴨浮在水上的樣子。",
+          "time": null
+        },
+        {
+          "text": "3. cute 可愛的 I know. Isn't it cute? 我懂啊，可不是很可愛嘛? That duck always makes me smile. 那隻鴨子總會讓我微笑。",
+          "time": null
+        },
+        {
+          "text": "4. bath 洗澡 I think it reminds people of taking a bath. 我猜它讓人想到洗澡。 Yeah, my son loves playing with the ducks in the bathtub. 我兒子就很喜歡在澡盆裡跟小鴨鴨玩。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。 yellow黃色的 float漂浮 cute可愛的 bath洗澡"
+    },
+    "quiz": [
+      {
+        "question": "1. Where was the race?",
+        "options": [
+          "a. Tamsui River",
+          "b. Kaohsiung Harbor",
+          "c. Sun Moon Lake"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many ducks were in the race?",
+        "options": [
+          "a. 10,000",
+          "b. 15,000",
+          "c. 20,000"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Who got the cleaned ducks?",
+        "options": [
+          "a. Kids",
+          "b. Prizes",
+          "c. People on boats"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  }
+]
