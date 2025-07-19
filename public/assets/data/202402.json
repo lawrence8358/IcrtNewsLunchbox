@@ -538,5 +538,108 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240222-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Marine Education",
+      "Life Education",
+      "Natural Sciences"
+    ],
+    "title": "Chinstrap Penguins Are the Best Nap Masters",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240221NK.mp3",
+    "content": [
+      {
+        "en": "Hey! Wake up! Why are you napping? Are you a chinstrap penguin? They love to nap!",
+        "tw": "嘿！醒醒！你為什麼在打瞌睡？你是一隻帽帶企鵝嗎？牠們很愛打瞌睡！",
+        "time": null
+      },
+      {
+        "en": "These penguins have a black line under their chin. They look like they're wearing motorcycle helmets with chin straps. They're chinstrap penguins.",
+        "tw": "這些企鵝的下巴有一條黑色的紋路，看起像戴了安全帽一樣，他們是帽帶企鵝。",
+        "time": null
+      },
+      {
+        "en": "Scientists are studying chinstrap penguins in Antarctica. And you know what? They found out something new!",
+        "tw": "科學家研究南極的帽帶企鵝，他們有新的發現。",
+        "time": null
+      },
+      {
+        "en": "Chinstrap penguins take more than 10,000 naps a day! Each nap is about four seconds long. That's very short! One minute is 60 seconds long! These penguins don't need alarm clocks!",
+        "tw": "帽帶企鵝一天打瞌睡超過1萬次，一次大約只有4秒。",
+        "time": null
+      },
+      {
+        "en": "All those four-second naps give chinstrap penguins 11 hours of sleep a day. That's a lot! But they have work to do too. They take care of their eggs. They keep their eggs safe from other animals. And they find food in the ocean.",
+        "tw": "每4秒累積下來，帽帶企鵝一天可以睡11個小時。牠們還要孵蛋、保護企鵝蛋跟覓食。",
+        "time": null
+      },
+      {
+        "en": "Chinstrap penguins sleep, work, and repeat. Sleep is important for them... and us! We also need to sleep for the energy to do great things!",
+        "tw": "帽帶企鵝不停地睡覺跟工作，睡眠對牠們很重要。我們也需要睡眠才有活力做事。",
+        "time": null
+      },
+      {
+        "en": "Scientists are finding out more about sleep from the best nap masters. Let's take a four-second nap... Voice: Hey! Wake up! Narrator: Oh … OK! I'm awake, I'm awake!",
+        "tw": "科學家們正從這些最會打瞌睡的大師身上，發現更多關於睡眠的秘密。我們也來打個四秒鐘的瞌睡吧… 聲音：嘿！醒醒！旁白：喔…好！我醒了，我醒了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "帽帶企鵝喜歡睡覺，但是他們每次睡眠的時間非常短。",
+      "content": [
+        {
+          "text": "1. wake up 醒來\nI'm so tired! 我好累。\nDidn't sleep well last night? 昨晚沒睡好?\nRight, I woke up at least 3 times. 對啊，我醒來三次。",
+          "time": null
+        },
+        {
+          "text": "2. motorcycle 摩托車\nThe motorcycles outside were so noisy! 外面的摩托車吵得要命!\nThat's really annoying. 那真的很討厭。",
+          "time": null
+        },
+        {
+          "text": "3. minute 分鐘\nSorry, I can't help it. 真抱歉，我忍不住。\nGo take a nap. 去睡一下吧。\nYou'll feel a lot better after just 10 minutes of sleep. 睡個十分鐘你也會覺得好很多。",
+          "time": null
+        },
+        {
+          "text": "4. hour 小時\nNo, 10 minutes is too short. 不，十分鐘太短了。\nI need hours of sleep now. 我現在需要睡好幾個鐘頭。\nThen what are you waiting for? 那你還在等什麼?\nJust go. 就去吧。",
+          "time": null
+        }
+      ],
+      "postscript": "你每天睡得夠嗎? 來讀單字。\nwake up醒來\nmotorcycle摩托車\nminute分鐘\nhour小時"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do chinstrap penguins live?",
+        "options": [
+          "a. Africa",
+          "b. Antarctica",
+          "c. Asia"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many naps do chinstrap penguins take a day?",
+        "options": [
+          "a. Less than 10,000",
+          "b. 10,000",
+          "c. More than 10,000"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Where do chinstrap penguins find food?",
+        "options": [
+          "a. Ocean",
+          "b. Forests",
+          "c. Mountains"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
