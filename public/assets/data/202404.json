@@ -753,5 +753,107 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240411-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education",
+      "International Education",
+      "Social Studies"
+    ],
+    "title": "The Thai Ghost Hunters",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240410NK.mp3",
+    "content": [
+      {
+        "en": "Do you believe in ghosts? Here in Taiwan, we have Ghost Month. It's when all ghosts can walk the earth and visit the living …",
+        "tw": "你相信世界上有鬼嗎? 在台灣，我們有鬼月，鬼在這個時候都會出來走走。",
+        "time": null
+      },
+      {
+        "en": "Some ghosts are mean. They live in spooky places. They do scary things. That makes many people scared of ghosts.",
+        "tw": "有一些鬼住在陰森的地方，它們很兇又會做出可怕的事情，讓很多人怕鬼。",
+        "time": null
+      },
+      {
+        "en": "Spooky old castles may be haunted. That means they might have ghosts in them. Some newer places may be haunted too. Imagine being scared of ghosts and living in a haunted house! You'd be scared all the time!",
+        "tw": "陰森的舊城堡有可能鬧鬼，比較新的地方也有可能喔。想想看你如果住在鬧鬼的房子裡，一定會感覺很害怕!",
+        "time": null
+      },
+      {
+        "en": "In Thailand, two students started a ghost-hunting business. Do you have a spooky place? You can ask them to sleep there. When they don't see ghosts, they give you a special paper. The paper says the place is ghost-free!",
+        "tw": "泰國有兩位學生開啟了找鬼公司，你有陰森的地方嗎? 你可以請他們睡在那裡，如果他們沒有遇到鬼就會給你一張紙，證明沒有鬧鬼。",
+        "time": null
+      },
+      {
+        "en": "One of the students doesn't believe in ghosts. But the other student does! He's very scared of them!",
+        "tw": "其中一位學生不相信世界上有鬼，另一位不但相信，而且非常怕鬼。",
+        "time": null
+      },
+      {
+        "en": "They haven't seen any ghosts … yet! But they always bring some helpful tools to scare ghosts away!",
+        "tw": "他們到目前為止沒有看到鬼，但總是帶著嚇鬼的工具。",
+        "time": null
+      },
+      {
+        "en": "Do you want to be a ghost hunter too? You'll get money for scary nights in spooky places! No, thanks!",
+        "tw": "你也會想成為幽靈獵人嗎？在陰森的地方度過可怕的夜晚可以賺到錢！不了，謝謝！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "有人怕鬼，有人專門想找鬼。",
+      "content": [
+        {
+          "text": "1. scared 害怕的\nAre you scared of ghosts? 你怕鬼嗎?\nI don't know.我不知道。\nI've never seen a real ghost. 我從來沒有見過真正的鬼。\nHow about you? 你呢?",
+          "time": null
+        },
+        {
+          "text": "2. haunted house 鬼屋\nI'm more scared of the living.我比較怕活人。\nBut I don't want to sleep in a haunted house. 但是我可不要在鬼屋裡睡覺。\nMe either. 我也不要。",
+          "time": null
+        },
+        {
+          "text": "3. place 地方\nBut I don't mind seeing one during the daytime.不過我不介意白天時去看看鬼屋。\nI know a place like that! 我知道那樣的地方!",
+          "time": null
+        },
+        {
+          "text": "4. spooky 恐怖陰森的\nWhere? 在哪裡?\nThe house above me. 我家樓上的房子。\nIt's empty but there are sounds. 它是空的，但是有聲音。\nThat's spooky! 真恐怖!",
+          "time": null
+        }
+      ],
+      "postscript": "So do you believe in ghosts? 來讀單字。\nscared害怕的\nhaunted house鬼屋\nplace地方\nspooky恐怖陰森的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the ghost-hunting business?",
+        "options": [
+          "a. Iceland",
+          "b. Thailand",
+          "c. Taiwan"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many of the students are scared of ghosts?",
+        "options": [
+          "a. 1",
+          "b. 2",
+          "c. 7"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What is a house with ghosts in it called?",
+        "options": [
+          "a. A ghost-free house",
+          "b. A scared house",
+          "c. A haunted house"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
