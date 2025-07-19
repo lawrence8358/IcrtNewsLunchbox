@@ -1730,5 +1730,107 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240627-01",
+    "type": "國小",
+    "tag": [
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life on Land",
+      "Environmental Education",
+      "Natural Sciences",
+      "Integrative Activities",
+      "Outdoor Education"
+    ],
+    "title": "Black Soldier Flies Fight Climate Change",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240626NK.mp3",
+    "content": [
+      {
+        "en": "Black Soldier Flies Fight Climate Change Many people eat pork and chicken. Pork comes from pigs. Chicken comes from... well, chickens! Pigs and chickens eat lots of corn, soy, and fish.",
+        "tw": "很多人會吃豬肉跟雞肉，而豬跟雞吃很多玉米、大豆跟魚。",
+        "time": null
+      },
+      {
+        "en": "We need lots of big corn farms, soy farms, and fish farms to feed them. But these farms are bad for our land, air, and water. They make climate change worse.",
+        "tw": "所以要餵豬跟雞，我們需要很多玉米田、大豆田跟魚類養殖場，但是這些農場對土地、空氣跟水都不好，讓氣候變遷惡化。",
+        "time": null
+      },
+      {
+        "en": "But a company in the UK is fighting climate change with soldiers … black soldier flies! The company helps farmers and others make fly farms. Fly farms are better for the environment than corn, soy, and fish farms. But, who eats flies? Yuck!",
+        "tw": "有一間英國公司想要用黑水虻 (m?ng ㄇㄥˊ)來對抗氣候變遷。他們幫農夫打造養殖場，因為它比種玉米、大豆以及養魚還要環保，但是誰要吃呢?",
+        "time": null
+      },
+      {
+        "en": "Pigs and chickens eat fly larvae. Larvae are good food for these animals. Scientists found that pigs grow better! Their pork is also better! Mmmmm!",
+        "tw": "豬跟雞會吃黑水虻的幼蟲，這些幼蟲對牠們是好的食物，科學家發現吃幼蟲的豬，長得比較好、肉質也比較好。",
+        "time": null
+      },
+      {
+        "en": "In fly farms, larvae eat lots of food waste. That's the food we don't eat. When it's thrown away, it makes gases. These gases make climate change worse. Larvae stop food waste from making bad gases.",
+        "tw": "黑水虻的幼蟲吃很多廚餘，這樣可以減少廚餘釋放的氣體，阻止氣候變遷惡化。",
+        "time": null
+      },
+      {
+        "en": "Black soldier fly farms can do so much to fight climate change!",
+        "tw": "黑水虻養殖場在對抗氣候變遷方面可以發揮很大的作用！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家想出各種辦法來延緩氣候變遷。",
+      "content": [
+        {
+          "text": "1. pork 豬肉 。\nWhat are you having? 你要吃什麼?\nI think I'll go for the grilled pork chop with potatoes.\n我想要選烤豬排加馬鈴薯。\nOh, that sounds great! 聽起來真不錯!",
+          "time": null
+        },
+        {
+          "text": "2. chicken 雞肉。\nAnd I would like to have crispy chicken with tomato salad.\n我想要脆皮雞加番茄沙拉。\nYours sounds even better. 你的聽起來更棒。",
+          "time": null
+        },
+        {
+          "text": "3. food 食物。\nGood, then we can share some of our food.那好，我們可以分享食物。 You're not\non a diet, are you?你不會在節食吧?",
+          "time": null
+        },
+        {
+          "text": "4. eat 吃。\nNo, I just don't want to eat too much.沒有，我只是不想吃太多。\nWith me around, you really don't need to worry about\nthat。有我在，你真的不用擔心。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字經常用到。pork豬肉 chicken雞肉 food食物 eat吃"
+    },
+    "quiz": [
+      {
+        "question": "1. What do pigs eat a lot of?",
+        "options": [
+          "a. Corn",
+          "b. Pork",
+          "c. Chicken"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What makes climate change worse?",
+        "options": [
+          "a. Black soldier fly larvae",
+          "b. Big corn, soy, and fish farms",
+          "c. The company in the UK"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What is food waste?",
+        "options": [
+          "a. Food cooked for us",
+          "b. Bad gases",
+          "c. Food we don't eat"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
