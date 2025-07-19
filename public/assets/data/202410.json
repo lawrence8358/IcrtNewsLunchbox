@@ -521,5 +521,108 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20241009-01",
+    "type": "國小",
+    "tag": [
+      "Life Below Water",
+      "Environmental Education",
+      "Marine Education",
+      "Natural Sciences"
+    ],
+    "title": "Sea Otters Do Important Work",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241008NK.mp3",
+    "content": [
+      {
+        "en": "Sea otters are cute, furry animals. They look like teddy bears. They eat a lot. They rest on their backs on the ocean. What a nice life!",
+        "tw": "海獺是一種毛茸茸的可愛動物，每天吃完東西就仰躺在海上休息，好休閒 !",
+        "time": null
+      },
+      {
+        "en": "Sea urchins are another ocean animal. They are small, round, and spiky. Ouch! They live on the ocean floor.",
+        "tw": "海膽是另一種海洋生物，很像一顆顆長滿了尖刺的小圓球，住在海底。",
+        "time": null
+      },
+      {
+        "en": "Sea urchins eat kelp. Kelp is a big, brown seaweed. Kelp grows in kelp forests. But sometimes there are too many sea urchins. And they can eat all of a kelp forest.",
+        "tw": "海膽喜歡吃一種大的咖啡色海藻。但有時太多的海膽會把海藻吃光 !",
+        "time": null
+      },
+      {
+        "en": "Fish, crabs, and other ocean animals live in kelp forests. What happens when all of a kelp forest is eaten? Many of these small ocean animals don't have a home. And big ocean animals don't have small ocean animals to eat!",
+        "tw": "海藻林如果被吃光，住在裡面的魚、螃蟹和小型生物無家可歸，大型海洋生物就沒有小型生物可以吃了!",
+        "time": null
+      },
+      {
+        "en": "But, don't worry, sea otters are saving kelp forests! They eat lots of sea urchins. They love them!",
+        "tw": "但別擔心! 海獺會拯救海藻林，因為牠們最愛吃海膽了。",
+        "time": null
+      },
+      {
+        "en": "Sea otters are the ocean's cleaners. Too many sea urchins or other animals is not good for the ocean. Sea otters come to the rescue!",
+        "tw": "海獺是海底的清道夫，如果出現太多海膽，牠們就會來幫忙!",
+        "time": null
+      },
+      {
+        "en": "Sea otters do important work. They help keep kelp forests healthy. They help ocean animals too... or eat them!",
+        "tw": "海獺執行重要的工作。牠們幫助維持海藻林的健康，同時也幫助海洋生物...或者把牠們吃掉！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "太多海膽沒有關係，海獺知道該怎麼做。",
+      "content": [
+        {
+          "text": "1) grow 生長。\nWhat's a kelp forest? 海帶森林是什麼?\nHaven't you seen the Harry Potter movie? 你沒看過哈利波特電影嗎?\nIt's long, brown strips of seaweed that grows under the sea.\n它是長長的棕色海藻，長在海裡。",
+          "time": null
+        },
+        {
+          "text": "2) seaweed 海藻。\nI remember it now. 我想起來了。\nI love the seaweed that holds sushi. 我喜歡包壽司的紫菜。\nThat's a different kind of seaweed. 那是不同種類的海藻。\nYeah, it's delicious. 對，它很好吃。",
+          "time": null
+        },
+        {
+          "text": "3) crab 螃蟹。\nOf all the sushi, I like crab sushi the best.\n所有的壽司裡面，我最喜歡螃蟹壽司。\nGee, I don't think I've ever tried it. 我想我沒有吃過。",
+          "time": null
+        },
+        {
+          "text": "4) nice 很好的。\nYou've got to try it! 你一定要試試看!\nFresh crab is sweet and tasty. 新鮮螃蟹又甜又美味。\nThat sounds nice. 聽起來真不錯。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你可記得?\ngrow生長 seaweed海藻 crab螃蟹 nice很好的"
+    },
+    "quiz": [
+      {
+        "question": "1. What happens when there are too many sea urchins?",
+        "options": [
+          "a. They eat fish.",
+          "b. They eat sea otters.",
+          "c. They eat kelp forests."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do sea otters love to eat?",
+        "options": [
+          "a. Fish",
+          "b. Seaweed",
+          "c. Sea urchins"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What color is kelp?",
+        "options": [
+          "a. Purple",
+          "b. Brown",
+          "c. Red"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
