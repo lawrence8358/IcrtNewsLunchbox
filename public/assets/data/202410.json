@@ -1335,5 +1335,105 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241021-01",
+    "type": "國小",
+    "tag": [
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Environmental Education",
+      "Technology Education",
+      "Technology",
+      "Natural Sciences"
+    ],
+    "title": "Flying Robots to Clean Up Mount Everest",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241018NK.mp3",
+    "content": [
+      {
+        "en": "Mount Everest is the tallest mountain on Earth. Every year, many people climb it. But they leave a lot of trash. It makes the mountain dirty and dangerous.",
+        "tw": "聖母峰是世界最高峰，每年都有很多人去攀登，但是他們留下很多垃圾，讓聖母峰變得又髒又危險。",
+        "time": null
+      },
+      {
+        "en": "Sherpas show climbers where to go. Sherpas also carry trash down Mount Everest.",
+        "tw": "當地的雪巴人會幫登山客帶路，也會把垃圾帶下山。",
+        "time": null
+      },
+      {
+        "en": "That's an avalanche! This can make a lot of ice, dirt, and rocks go down the mountain very fast. It can kill people! Carrying trash down the mountain is very dangerous!",
+        "tw": "雪崩很可怕，如果崩塌，會帶著很多冰、泥沙跟石頭，快速往下衝，把人活埋，在這種時候帶著垃圾走下山非常危險!",
+        "time": null
+      },
+      {
+        "en": "Now there's a safer way to clean up Mount Everest! Flying robots called drones will take trash from the mountain. Sherpas are learning how to use the drones.",
+        "tw": "現在有個更安全的方法，雪巴人正在學習用無人機，把垃圾帶下山。",
+        "time": null
+      },
+      {
+        "en": "These drones are strong. They can carry a lot of trash. One drone can carry 234 kilograms in one hour! Fourteen people can carry this much in six hours!",
+        "tw": "如果是人的話，總共要 14 個人、花 6 個小時才能搬這麼多!",
+        "time": null
+      },
+      {
+        "en": "Now Mount Everest can stay beautiful and clean. It will be safer for everyone who climbs it!",
+        "tw": "現在聖母峰可以保持美麗和清潔了。對於所有攀登它的人來說，它也將更安全！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "在聖母峰那樣的高山，用無人機運送垃圾可比人力好太多了。",
+      "content": [
+        {
+          "text": "1. drone 無人機。 Is that a bird? 那是鳥嗎? Let me see.我來看看。No, it's a drone! 不是，是無人機。 Somebody is flying a drone up there! 有人在上面操縱無人機!",
+          "time": null
+        },
+        {
+          "text": "2. mountain 山。 You know what? 你知道嗎? I think the drone is checking the mountain road. 我覺得那架無人機是在檢查那條山路。 What for? 為什麼呢? To see if the road is blocked by fallen rocks. 看看路有沒有被落石擋住。",
+          "time": null
+        },
+        {
+          "text": "3. rock 石頭。 That's very smart. 那很聰明呢。 Yeah, many rocks must have fallen in the heavy rain yesterday. 昨天下大雨，一定有很多落石。",
+          "time": null
+        },
+        {
+          "text": "4. clean up 清理。 So what happens if it does find rocks? 要是真的發現石頭呢? Then workers will go and clean them up. 那就會有工人去把它們清掉。",
+          "time": null
+        }
+      ],
+      "postscript": "你看過無人機的表演嗎? drone無人機 mountain山 rock石頭 clean up清理"
+    },
+    "quiz": [
+      {
+        "question": "1. What do people leave on Mount Everest?",
+        "options": [
+          "a. Trash",
+          "b. Avalanches",
+          "c. Robots"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What do Sherpas do?",
+        "options": [
+          "a. Make the mountain dirty",
+          "b. Make ice and rocks",
+          "c. Show climbers where to go"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What can one drone carry?",
+        "options": [
+          "a. 234 kilograms",
+          "b. 14 people",
+          "c. Flying robots"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
