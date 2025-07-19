@@ -964,5 +964,110 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240229-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life on Land",
+      "Partnerships for the Goals",
+      "Character Education",
+      "Life Education",
+      "Family Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Natural Sciences",
+      "Health and Physical Education"
+    ],
+    "title": "A Festival for People Born on Leap Day",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240228NK.mp3",
+    "content": [
+      {
+        "en": "Twenty-seven, twenty-eight, twenty-nine... Wait, there are twenty-nine days this February! Today is a leap day!",
+        "tw": "今年二月有二十九天，今天是閏日。",
+        "time": null
+      },
+      {
+        "en": "Can you wait to have your birthday once every four years? Well, about five million people around the world were born on a leap day. These people are called leaplings.",
+        "tw": "你能等四年才過一次生日嗎? 全世界差不多有500萬人在閏日出生。",
+        "time": null
+      },
+      {
+        "en": "After a birthday, leaplings wait for four years for the next one! And they finally have their birthday this year! They're jumping for joy!",
+        "tw": "這些人今年終於可以過生日了，過完這一次他們需要等四年才能過下一次生日。",
+        "time": null
+      },
+      {
+        "en": "Anthony, a small town in Texas, is the Leap Year Capital of the World. This American town is having a three-day Leap Year Festival! It starts tonight! Leaplings from all around the world are going to this big birthday party.",
+        "tw": "德州安東尼小鎮舉辦為期三天的閏日慶典。從今晚開始，來自全世界的壽星會前往這個盛大的生日派對。",
+        "time": null
+      },
+      {
+        "en": "Imagine the sight of fun attractions, the smell and taste of delicious foods, and the sound of cheerful music. At the Leap Year Festival, there will be games, food, and live music for everyone!",
+        "tw": "閏日慶典會有遊戲、食物還有現場的音樂表演。",
+        "time": null
+      },
+      {
+        "en": "Today is a very special day, especially in the Leap Year Capital of the World! Happy Birthday, leaplings! Have a slice or four of birthday cake and have a fabulous, leap-tastic day!",
+        "tw": "今天是個非常特別的日子，特別是在世界閏年之都！閏年寶寶們生日快樂！吃片或四片生日蛋糕，祝你們有個美妙的、閏年限定的一天！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "美國德州有一個小鎮，喜歡替二月29號出生的人舉辦派對。",
+      "content": [
+        {
+          "text": "1. delicious 美味的 Wow, what smells so good? 什麼東西這麼香? It's my roast chicken.是我的烤雞。 Oh, it must be delicious! 一定很好吃!",
+          "time": null
+        },
+        {
+          "text": "2. special 特別的 Yes, it's for a special party tonight. 是為了今晚的特別派對。 You're having the party at home? 在家裡辦派對嗎? No, at the town hall.不是，是在里民中心。",
+          "time": null
+        },
+        {
+          "text": "3. live music 現場音樂 We'll have live music, food and drinks. 我們有現場音樂，食物和飲料。 What is it for? 是為什麼呢?",
+          "time": null
+        },
+        {
+          "text": "4. born 出生 For all the people born before 1950. 為了1950年之前出生的人。 I didn't know old people love parties. 我不知道老年人也喜歡派對。 Everyone loves parties.每個人都喜歡派對。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like parties? Let's read the words. delicious美味的 special特別的 live music現場音樂 born出生"
+    },
+    "quiz": [
+      {
+        "question": "1. How long do leaplings wait for their birthdays?",
+        "options": [
+          "a. One year",
+          "b. Four years",
+          "c. Eight years"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where is the Leap Year Capital of the World?",
+        "options": [
+          "a. Taipei",
+          "b. Tokyo",
+          "c. Texas"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How many days is the Leap Year Festival?",
+        "options": [
+          "a. One",
+          "b. Two",
+          "c. Three"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
