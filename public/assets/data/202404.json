@@ -1365,5 +1365,112 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240419-01",
+    "type": "國小",
+    "tag": [
+      "Gender Equality",
+      "Decent Work and Economic Growth",
+      "Gender Equality Education",
+      "Character Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Health and Physical Education"
+    ],
+    "title": "Gambian Photographer Works for Her Dreams",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240418NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: One, two, three, say cheese! Do you like taking photos? You can take photos of people, places, food … anything you want! People who take photos are photographers.",
+        "tw": "你喜歡拍照嗎?不論是人、物或地方都可以拍，專業拍照的人叫做攝影師。",
+        "time": null
+      },
+      {
+        "en": "A young photographer loves taking photos of soccer games. She's from the Gambia. Her dream is to be a sports photographer for the Gambia.",
+        "tw": "一位甘比亞的年輕攝影師很喜歡拍足球比賽。她的夢想是成為甘比亞的運動攝影師。",
+        "time": null
+      },
+      {
+        "en": "One day, she got a big chance. There was a men's soccer competition in another country. Teams from many African countries were playing. The Gambian team wanted her to work at the competition. For a short time, she was a sports photographer for the Gambia!",
+        "tw": "有一天，她的機會來了。有一場男子足球賽在另一個國家舉行，非洲有很多隊伍會參賽。甘比亞球隊請她當隨隊攝影師。",
+        "time": null
+      },
+      {
+        "en": "A few women photographers and many men photographers were there too. But she was easy to see. Photographer: I need my light pink headscarf and all of my brightest clothes. Narrator:",
+        "tw": "場邊有很多男性攝影師，也有一些女性攝影師，但是她穿鮮豔的衣服，綁粉紅色頭巾，很容易就看到她。",
+        "time": null
+      },
+      {
+        "en": "She worked hard. She took amazing photos. Everyone loved them!",
+        "tw": "她努力工作，拍出很多精彩的照片，大家都很喜歡。",
+        "time": null
+      },
+      {
+        "en": "Now she has a bigger dream. She wants to go to the world's biggest soccer competition! She wants to be the Gambia's sports photographer there!",
+        "tw": "她現在有更大的夢想，她希望可以到全世界規模最大的足球比賽，為甘比亞球隊當攝影師。",
+        "time": null
+      },
+      {
+        "en": "This young photographer works hard to make her dreams come true. If you work hard, you can make your dreams come true too!",
+        "tw": "這位年輕的攝影師努力工作，讓她的夢想成真。如果你努力工作，你的夢想也能成真！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這位甘比亞女孩，夢想總有一天會實現。",
+      "content": [
+        {
+          "text": "1. come true 實現\nWhat's your dream, Paz? 你的夢想是什麼?\nOpening up a bakery! 開一家麵包店!\nWow, that sounds great! 聽起來真棒!\nWhen do you think it will come true? 你覺得什麼時候會實現?",
+          "time": null
+        },
+        {
+          "text": "2. hard 辛苦地\nMaybe in five years.也許五年之內。\nYou'll have to work hard. 你得努力工作。\nYeah, I'll need to get up early every day. 是啊，我需要每天早起。",
+          "time": null
+        },
+        {
+          "text": "3. bright 鮮豔的\nBut you'll make bright, beautiful and delicious\ncakes.但是你會做鮮艷漂亮又好吃的蛋糕。\nI'll make nice and soft bread too.我還會做柔軟的麵包。",
+          "time": null
+        },
+        {
+          "text": "4. biggest 最大的\nMy biggest dream is to have my own big room. 我最大的夢想是有自己的大房間。\nWith books, plants, and a big globe! 裡面有書，植物跟一個大地球儀。",
+          "time": null
+        }
+      ],
+      "postscript": "What's your dream, everyone?\ncome true實現\nhard辛苦地\nbright鮮豔的\nbiggest最大的"
+    },
+    "quiz": [
+      {
+        "question": "1. What does the young photographer like taking photos of?",
+        "options": [
+          "a. Food",
+          "b. Clothes",
+          "c. Soccer"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where is the Gambia?",
+        "options": [
+          "a. Africa",
+          "b. Asia",
+          "c. Europe"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What does the photographer wear that makes her easy to see?",
+        "options": [
+          "a. Green shoes",
+          "b. A pink headscarf",
+          "c. A yellow hat"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
