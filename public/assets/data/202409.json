@@ -396,5 +396,105 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240906-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies"
+    ],
+    "title": "An Inside Look at Mascots",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240905NK.mp3",
+    "content": [
+      {
+        "en": "That's a mascot cheering at a baseball game. The mascot is the cute animal or the cool superhero dancing around. Mascots make fans loud and excited!",
+        "tw": "那個吉祥物正在為棒球比賽加油! 吉祥物可以是可愛的動物或是大英雄，他們會跳舞逗粉絲開心。",
+        "time": null
+      },
+      {
+        "en": "Being a mascot actor looks easy and fun. They dance, cheer, and do funny things.",
+        "tw": "當吉祥物的演員看起來很容易也很有趣。他們會跳舞、歡呼還會搞笑。",
+        "time": null
+      },
+      {
+        "en": "But the job can be hard. Mascot costumes are hot inside. During Taiwan's hot summer, the actors get very hot!",
+        "tw": "但這個工作很辛苦，吉祥物服裝裡面溫度很高，特別是台灣的夏天，演員會覺得非常熱!",
+        "time": null
+      },
+      {
+        "en": "But the costumes are expensive! The actors can't make them dirty. So they wear pants, shirts with long sleeves, and gloves.",
+        "tw": "這些服裝很貴，演員不能弄髒，所以他們還會穿褲子、長袖跟手套。",
+        "time": null
+      },
+      {
+        "en": "You can do it! You can do it! Go, go, go!!! T-E-A-M! Goooooo team! The actors dance and cheer for thirty minutes. Then they need to rest and cool down … Go team! Go team! Yeah! T-E-A-M! Goooooo team! Go team! Go team! Yeah! … and then they dance and cheer again!",
+        "tw": "吉祥物演員會蹦蹦跳跳歡呼30分鐘，然後就得休息，涼快一下，再繼續賣力表演。",
+        "time": null
+      },
+      {
+        "en": "Mascots make sports games more fun. And happy fans buy lots of cups, baseball caps, and more… with the mascot on it!",
+        "tw": "吉祥物讓運動更有趣，粉絲就會買很多吉祥物的周邊的商品，像是杯子、棒球帽等等。",
+        "time": null
+      },
+      {
+        "en": "Mascot actors give fans a great time. They help the team make money too.",
+        "tw": "吉祥物演員讓粉絲玩得盡興。他們也幫助球隊賺錢。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "吉祥物演員必須吃苦耐勞，還得讓觀眾高興!",
+      "content": [
+        {
+          "text": "1. game 比賽。\nThe Tigers are having a game tonight! 老虎隊今晚要比賽! Where? 在哪裡? Taipei Dome.台北大巨蛋。 Great! I've never watched a baseball game there.太棒了，我沒有在那裏看過棒球賽。",
+          "time": null
+        },
+        {
+          "text": "2. shirt 襯衫。(開關抽屜聲音) What are you looking for? 你在找什麼? My T-shirt that says \"Tigers.\" 我的圓領衫，上面寫著老虎隊。 I didn't know you're a true fan. 我不知道你是真正的粉絲。",
+          "time": null
+        },
+        {
+          "text": "3. expensive 昂貴的。But wait, let me check the tickets. 等等，讓我看一下票。 Oh no, only the most expensive ones are left. 糟糕，只剩下最貴的。",
+          "time": null
+        },
+        {
+          "text": "4. cheer 歡呼加油。How much? 多少錢? $1,000 NT a piece.一千塊。 Woah! Let's cheer for them at home. 哇，我們在家裡替他們加油吧。 Yeah, with hotdogs and popcorn! 對，還要熱狗跟爆米花!",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like baseball games? game比賽 shirt襯衫 expensive昂貴的 cheer歡呼加油"
+    },
+    "quiz": [
+      {
+        "question": "1. What do mascots do?",
+        "options": [
+          "a. Play sports",
+          "b. Make people excited",
+          "c. Spend lots of money"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How long can the actors dance and cheer before they need to rest?",
+        "options": [
+          "a. About ten minutes",
+          "b. About thirty minutes",
+          "c. About an hour"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What makes the job hard in the summer?",
+        "options": [
+          "a. Hot costumes",
+          "b. Dirty costumes",
+          "c. Cute costumes"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
