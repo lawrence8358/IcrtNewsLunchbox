@@ -844,5 +844,109 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240313-01",
+    "type": "國小",
+    "tag": [
+      "Clean Water and Sanitation",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life Below Water",
+      "Life on Land",
+      "Environmental Education",
+      "Outdoor Education",
+      "Social Studies",
+      "Natural Sciences"
+    ],
+    "title": "Very Big Goldfish in Lakes Worry Scientists",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240312NK.mp3",
+    "content": [
+      {
+        "en": "Goldfish are good pets. They're small. They can live in a small fishbowl. They're easy to take care of.",
+        "tw": "金魚是很好養的寵物，牠們小小的，可以養在小魚缸裡。",
+        "time": null
+      },
+      {
+        "en": "But goldfish aren't always small. They can get very big. Now fishermen are finding big goldfish in the Great Lakes in the USA and Canada.",
+        "tw": "但是金魚也可以變得很大隻，漁民位於在加拿大和美國的五大湖找到大金魚。",
+        "time": null
+      },
+      {
+        "en": "Scientists say pet goldfish don't belong in lakes. They belong in fishbowls. But some people don't want their goldfish anymore. They put their fish in lakes.",
+        "tw": "科學家說金魚不應該在湖裡，應該在魚缸裡。但是有一些人不想養了，就把魚野放到湖裡。",
+        "time": null
+      },
+      {
+        "en": "One scientist says goldfish eat \"anything and everything.\" But not many animals eat goldfish. And these fish have many baby fish every year!",
+        "tw": "一位科學家還說金魚什麼都吃，但是沒有什麼動物會吃牠們，而且每一年又生很多金魚寶寶。",
+        "time": null
+      },
+      {
+        "en": "Now there are millions of very big goldfish in the Great Lakes. Scientists are very worried. The fish aren't good for lake water. They aren't good for the plants and animals there.",
+        "tw": "五大湖現在有數百萬隻超大金魚，牠們對湖泊的水質、動植物都有害，讓科學家很擔心。",
+        "time": null
+      },
+      {
+        "en": "Goldfish are sooooo cute! People see them and want them! These fish are forty centimeters long! *gasp* They're as big as American footballs! Can you imagine a football in a fishbowl? Small, cute goldfish eat everything in lakes and get very big. Let's help keep lakes free from gol…",
+        "tw": "金魚真是太可愛了！人們看到牠們就想要！這些魚有四十公分長！天啊！牠們跟美式足球一樣大！你能想像一個足球在魚缸裡嗎？小小的可愛金魚在湖裡什麼都吃，而且長得很大隻。讓我們一起幫助湖泊擺脫金魚的困擾吧…",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "超大金魚有可能破壞自然環境。",
+      "content": [
+        {
+          "text": "1. small 小的\nWhat a lovely fishbowl! 好可愛的魚缸! And you have five goldfish there! 你有五條金魚! Yeah, I used to have 8, but maybe my fishbowl is too small. 對，我以前有八條魚，但我的金魚缸可能太小了。",
+          "time": null
+        },
+        {
+          "text": "2. belong 屬於\nMaybe they belong in a pond. 也可能牠們屬於池塘。 No, my fishbowl is a nice place. 不會，我的金魚缸是個好地方。",
+          "time": null
+        },
+        {
+          "text": "3. everything 所有東西\nSee how happy these five goldfish are! 你看這五條魚多快樂! What do they eat? 牠們吃什麼呢? They eat everything. 什麼都吃。",
+          "time": null
+        },
+        {
+          "text": "4. centimeter 公分\nI sometimes feed them cooked rice. 我有時候餵牠們吃飯。 Will they grow bigger? 牠們會不會長更大? Yeah, to at least 10 centimeters. 會，至少長到十公分長。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like goldfish? 來讀一遍單字。\nsmall小的\nbelong屬於\neverything所有東西\ncentimeter公分"
+    },
+    "quiz": [
+      {
+        "question": "1. How many centimeters long can goldfish get?",
+        "options": [
+          "a. Four",
+          "b. Fourteen",
+          "c. Forty"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where do scientists say pet goldfish belong?",
+        "options": [
+          "a. Lakes",
+          "b. The sea",
+          "c. Fishbowls"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Where are the goldfish in this story?",
+        "options": [
+          "a. The USA",
+          "b. Japan",
+          "c. Taiwan"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
