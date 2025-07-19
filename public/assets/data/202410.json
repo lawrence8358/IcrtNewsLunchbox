@@ -226,5 +226,111 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20241004-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Health and Physical Education"
+    ],
+    "title": "Stretching Helps Your Body",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241003NK.mp3",
+    "content": [
+      {
+        "en": "Eight, nine, ten… phew! Exercise is hard work! But kids in Taiwan need more exercise. It's very important for good health.",
+        "tw": "呼! 運動很辛苦，但台灣的小孩需要做更多運動，這對健康非常重要。",
+        "time": null
+      },
+      {
+        "en": "Do you know two important things to do when you exercise? They are warming up and stretching!",
+        "tw": "當你做運動時有兩件很重要的事: 就是暖身和拉筋!",
+        "time": null
+      },
+      {
+        "en": "A researcher says to warm up first. You can walk, jog, or ride a bike. Warm up for five to ten minutes. Then you are ready to move more!",
+        "tw": "專家說可以先走路、慢跑或騎腳踏車暖身，大概五到十分鐘，這樣你就準備好做更多運動。",
+        "time": null
+      },
+      {
+        "en": "Stretching helps your body move more easily. Some people say to stretch before exercising. Others say to do it after.",
+        "tw": "拉筋會讓你身體更靈活，有人說應該在運動前做，有人在運動後。",
+        "time": null
+      },
+      {
+        "en": "The researcher says both can be good! But you need to know how to stretch. And don't stretch until you hurt! If you hurt, stop!",
+        "tw": "專家說兩種都很好! 但是你要知道怎麼拉筋，不要拉到受傷，如果拉傷了就要停下來!",
+        "time": null
+      },
+      {
+        "en": "Here's one way to stretch. You stand up. Keep your legs straight. Then reach for your toes. Don't move... for one minute!",
+        "tw": "這裡有個拉筋的好方法: 你站起來，保持你的腿是直的，然後手往腳趾頭延伸，保持一分鐘不動!",
+        "time": null
+      },
+      {
+        "en": "The researcher says to stretch one minute for each group of muscles. That's not too long. You won't get tired. And your body gets a good stretch! You'll feel good!",
+        "tw": "專家說每個肌肉群只要拉筋一分鐘，身體就能好好地得到延伸!",
+        "time": null
+      },
+      {
+        "en": "Warming up, stretching, and exercising can help you be healthy! Try a good stretch now!",
+        "tw": "暖身、拉筋和運動能幫助你保持健康！現在就來好好地拉筋吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "拉筋是暖身的一部份，可以預防運動傷害。",
+      "content": [
+        {
+          "text": "1. first 首先。 Alright, Jane, before we start, we need to stretch first.我們開始之前先得來伸展。 Ugh, do we have to? 一定要嗎? Yes, we do. You'll see. 一定要，你之後會了解。",
+          "time": null
+        },
+        {
+          "text": "2. toe 腳趾。 Stand up straight, and then try touching your toes. 站直，然後試著碰你的腳趾。 My toes? I can hardly touch my knees! 腳趾? 我連膝蓋都幾乎碰不到!",
+          "time": null
+        },
+        {
+          "text": "3. muscle 肌肉。 You can do it, Jane. 你做得到。 Good job! Let's do it again. 做得很好，再來一次。 Stretch your muscles and touch your toes! 伸展肌肉，手碰腳趾。",
+          "time": null
+        },
+        {
+          "text": "4. body 身體。 My body will thank me later, right? 我的身體以後會感謝我，對吧? Exactly! 正是!",
+          "time": null
+        }
+      ],
+      "postscript": "來讀今天的單字。 first首先 toe腳趾 muscle肌肉 body身體"
+    },
+    "quiz": [
+      {
+        "question": "1. What do some people say about stretching?",
+        "options": [
+          "a. Stretch before eating",
+          "b. Stretch before exercising",
+          "c. Stretch before bed"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What does stretching do?",
+        "options": [
+          "a. Helps you move better",
+          "b. Hurts your body",
+          "c. Makes you tired"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How long does the researcher say to stretch one group of muscles?",
+        "options": [
+          "a. 1 minute",
+          "b. 2 minutes",
+          "c. 5 minutes"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
