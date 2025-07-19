@@ -926,5 +926,113 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240517-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Social Studies",
+      "Technology Education",
+      "Partnerships for the Goals"
+    ],
+    "title": "The Solar Eclipse and Citizen Scientists",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240516NK.mp3",
+    "content": [
+      {
+        "en": "Have you heard of solar eclipses? The moon goes between the sun and the Earth. The moon blocks the sun for a short time.",
+        "tw": "你聽過日蝕嗎? 當月球運行到太陽跟地球中間，太陽會被月球的陰影遮住一段時間。",
+        "time": null
+      },
+      {
+        "en": "During a total solar eclipse, the moon blocks all of the sun. But we can see the sun's corona. It's the fuzzy white circle around the dark moon.",
+        "tw": "日全蝕是月亮完全遮蔽太陽。但我們還是可以看到日冕，是暗黑的月球周圍一圈白白、模糊的光。",
+        "time": null
+      },
+      {
+        "en": "The sun's wind, the solar wind, comes out of the corona. The solar wind is very strong. It affects the Earth!",
+        "tw": "太陽風從日冕射出，它是個很強的能量會影響地球。",
+        "time": null
+      },
+      {
+        "en": "There was a total solar eclipse on April 8th. People saw the eclipse in a line from Mexico to Canada. It was four minutes in each place on the line.",
+        "tw": "4月8號在橫跨墨西哥到加拿大一條線上的民眾可以看到4分鐘的日全蝕。",
+        "time": null
+      },
+      {
+        "en": "Scientists wanted to get pictures of the corona from many places on the line. But how?",
+        "tw": "科學家想要拿到從不同地方拍攝的日冕照片，怎麼做呢?",
+        "time": null
+      },
+      {
+        "en": "They got help from citizen scientists. These people aren't scientists. But they get information for scientists. They took many pictures of the corona.",
+        "tw": "他們從公民科學家得到幫助，這些人不是科學家，但他們會提供資訊給科學家，他們拍了很多日冕的照片。",
+        "time": null
+      },
+      {
+        "en": "The scientists made a ninety-minute movie with these pictures. The movie shows them changes in the corona and the solar wind!",
+        "tw": "科學家用這些照片製作了一部長達90分鐘的電影，可以看到日冕跟太陽風的變化。",
+        "time": null
+      },
+      {
+        "en": "Thanks to citizen scientists, scientists are learning more about the sun's corona and the solar wind!",
+        "tw": "多虧了公民科學家，科學家們對太陽的日冕和太陽風有了更多了解！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "碰到日全蝕這樣的天文奇觀，世界各地的人都可以幫科學家的忙。",
+      "content": [
+        {
+          "text": "1. dark 黑暗的\nHey, did you catch the solar eclipse yesterday? 你有看到昨天的日蝕嗎?\nHow could I miss it? 我怎麼可能錯過?\nThe sky was dark.天空都是黑的。",
+          "time": null
+        },
+        {
+          "text": "2. citizen 公民\nI took lots of pictures.我拍了好多照片。\nThat's great! You can be a citizen scientist helping NASA out.\n真棒，你可以當幫忙太空總署的公民科學家。\nOh, I didn't know NASA studied children.我不知道太空總署研究小孩。",
+          "time": null
+        },
+        {
+          "text": "3. picture 照片、圖片\nWhat? I thought you took pictures of the sun. 什麼啊?我以為你是拍太陽的照片。\nWhere's the fun in that? 那有什麼好玩的?",
+          "time": null
+        },
+        {
+          "text": "4. strong 強烈的\nChildren are the best. 小孩才是最好的。\nThey have a strong interest in the eclipse.他們對日蝕有強烈的興趣。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\ndark黑暗的\ncitizen公民\npicture照片、圖片\nstrong強烈的"
+    },
+    "quiz": [
+      {
+        "question": "1. What is blocked during a solar eclipse?",
+        "options": [
+          "a. The moon",
+          "b. The Earth",
+          "c. The sun"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What comes out of the corona?",
+        "options": [
+          "a. Fuzzy circles",
+          "b. Solar winds",
+          "c. Moon winds"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How did citizen scientists help scientists on April 8th?",
+        "options": [
+          "a. Took pictures",
+          "b. Saw changes",
+          "c. Made a movie"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
