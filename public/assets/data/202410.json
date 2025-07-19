@@ -2037,5 +2037,105 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20241031-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies"
+    ],
+    "title": "Trick or Treat in Taiwan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241030NK.mp3",
+    "content": [
+      {
+        "en": "Today is an exciting day in Taiwan! Halloween is here!",
+        "tw": "大家期待的萬聖節就是今天!",
+        "time": null
+      },
+      {
+        "en": "Halloween is big now. But long ago, when your parents and teachers were kids, it wasn't big. Halloween was something in books, movies, or TV shows. There was nothing to go out and do.",
+        "tw": "萬聖節現在很受歡迎，但是在你的爸媽跟老師的童年裡，萬聖節只出現在書本、電影跟電視中，大家不會到街上慶祝。",
+        "time": null
+      },
+      {
+        "en": "Today, kids can wear costumes! Kids can be anything they want: ghosts, witches, superheroes, princesses and more!",
+        "tw": "如今小孩可以變裝，扮成鬼、巫婆、公主，或是超級英雄等等!",
+        "time": null
+      },
+      {
+        "en": "Some families go to Halloween events. Some go to Kaohsiung's Aozihdi Forest Park. It has a very big Halloween pumpkin. It's 20 meters tall! It's 22 meters wide! Light comes out of it! The park has a Halloween party. It's until November 3rd.",
+        "tw": "有一些家庭會到高雄的凹子底公園慶祝，那裡有個20公尺高、22 公尺寬的巨大南瓜燈，還有萬聖節派對，會一直持續到 11 月 3 日。",
+        "time": null
+      },
+      {
+        "en": "There are many Halloween events today. They are at many places all over Taiwan. But maybe you don't want to wear a costume. Maybe you don't want to go to a party.",
+        "tw": "今天全台灣還有很多萬聖節活動，但是如果你不想參加派對呢?",
+        "time": null
+      },
+      {
+        "en": "Maybe you want to eat Halloween treats! You can buy cute treats at supermarkets, convenience stores, and donut shops!",
+        "tw": "那麼...也許你會想去商店，買一些可愛的萬聖節甜點!",
+        "time": null
+      },
+      {
+        "en": "Happy Halloween! TRICK OR TREAT!!",
+        "tw": "萬聖節快樂！不給糖就搗蛋！！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "萬聖節是好玩的節日，大人小孩都可以變裝。",
+      "content": [
+        {
+          "text": "1. wear 穿著。\nAre you ready for Halloween? 準備過萬聖節了嗎?\nWhat do you plan to wear? 你打算穿什麼?\nI'm thinking of being a witch-Wonder Woman combo.\n我想打扮成女巫跟神力女超人合體。",
+          "time": null
+        },
+        {
+          "text": "2. costume 戲服。\nWow, that sounds exciting ! 哇，聽起來很精采!\nIt's tricky. 有點麻煩。Wonder Woman's costume is red,\n神力女超人的服裝是紅色，but a witch…\nhas to be in black. 但是女巫得穿黑色。\nExactly. 正是。",
+          "time": null
+        },
+        {
+          "text": "3. anything 任何東西。\nWhat will you wear? 你要穿什麼?\nI'll be the Little Mermaid, of course. 當然是小美人魚!\nYou're not… little any more.你已經不小了。\nNo, but I can be anything on Halloween.沒錯，但是萬聖節我愛扮成什麼都可以。",
+          "time": null
+        },
+        {
+          "text": "4. pumpkin 南瓜\nI've also bought a pumpkin. 我也買了南瓜。\nGreat! I love pumpkin soup.真棒，我喜歡南瓜湯。",
+          "time": null
+        }
+      ],
+      "postscript": "我們來讀單字。\nwear穿著 costume戲服 anything任何東西 pumpkin南瓜"
+    },
+    "quiz": [
+      {
+        "question": "1. What is today?",
+        "options": [
+          "a. Trick or Treat Day",
+          "b. Halloween",
+          "c. Pumpkin Day"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What does Aozihdi Forest Park have?",
+        "options": [
+          "a. A big pumpkin",
+          "b. A big ghost",
+          "c. A big witch"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Where can you buy Halloween treats to eat?",
+        "options": [
+          "a. Your house",
+          "b. A convenience store",
+          "c. A flower shop"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
