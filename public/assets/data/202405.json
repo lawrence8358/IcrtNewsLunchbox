@@ -199,5 +199,114 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240506-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Character Education",
+      "Life Education",
+      "Social Studies",
+      "Health and Physical Education"
+    ],
+    "title": "Emotions That Feel Bad Can Be Good",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240503NK.mp3",
+    "content": [
+      {
+        "en": "Hulk: \"Hulk Smash!!!\"",
+        "tw": "浩克：『浩克砸碎！』",
+        "time": null
+      },
+      {
+        "en": "Narrator: That's Bruce Banner. When he's happy, he's a person like us.",
+        "tw": "那是班納博士，當他開心的時候，他就像我們一樣是個人類。",
+        "time": null
+      },
+      {
+        "en": "But sometimes he feels another emotion: anger. He doesn't like it. It feels bad. He becomes a big green monster. He's the Incredible Hulk! He fights bad guys! He uses anger to protect people and save the world!",
+        "tw": "但他憤怒的時候，他就變成綠巨人浩克打擊犯罪，維護和平。",
+        "time": null
+      },
+      {
+        "en": "We want to protect the people and things we care about. But when something is stopping us, we get angry!",
+        "tw": "我們都想保護我們在乎的人跟事物。但是當有東西阻攔我們，我們就會感到憤怒。",
+        "time": null
+      },
+      {
+        "en": "Being angry feels bad. But anger makes us stronger. We can fight better against what's stopping us. Anger can help us protect things.",
+        "tw": "雖然憤怒的感覺不好，但憤怒可以讓我們更強大，也會幫助我們守護事物。",
+        "time": null
+      },
+      {
+        "en": "Being anxious feels bad too. We are anxious when we see danger coming. But being anxious can be useful. It helps us get ready for the danger. Then when the danger is here, we are okay!",
+        "tw": "當我們覺得危機來臨，就會焦慮。雖然焦慮的感覺也不好，但這個情緒可以讓我們準備好面對危機。",
+        "time": null
+      },
+      {
+        "en": "A big test at school can make us anxious. So we study hard. Then when the test day comes, we're ready for it!",
+        "tw": "比如說學校的考試會讓我們焦慮，所以我們會努力念書面對考試。",
+        "time": null
+      },
+      {
+        "en": "Some emotions feel bad. But they can be useful for us too. What emotions feel bad to you? Think about how they can help you!",
+        "tw": "有些情緒感覺很糟糕。但它們對我們來說也很有用。對你來說，哪些情緒感覺很糟糕？想想它們如何能幫助你！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "有時候負面的情緒會讓我們學習，給我們力量。",
+      "content": [
+        {
+          "text": "1. anxious 焦慮的\nWhat's wrong? 怎麼了?\nWhy do you look so anxious? 你為什麼看起來這麼憂慮?\nI'm about to take a big test.我馬上就有一個大考試。",
+          "time": null
+        },
+        {
+          "text": "2. angry 生氣的\nI'd be very angry at myself if I fail.要是沒過我會對自己很生氣。\nHey, stop thinking that way! 不要這麼想!\nI know you. You study hard.我知道你，你很用功的。",
+          "time": null
+        },
+        {
+          "text": "3. study 讀書\nYou'll ace this one.這次你也會表現很棒。\nNo, this time I didn't study at all. 不，這回我根本沒讀書。",
+          "time": null
+        },
+        {
+          "text": "4. feel 感覺\nA big test is coming and you didn't study at all? 大考試要來，而你完全沒有讀?\nWhat were you thinking? 你在想什麼?\nNow I really feel sick. 現在我真的覺得要吐了。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你還記得嗎? anxious焦慮的 angry生氣的 study讀書 feel感覺"
+    },
+    "quiz": [
+      {
+        "question": "1. What is Bruce Banner when he's angry?",
+        "options": [
+          "a. A man",
+          "b. A test",
+          "c. A monster"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Which feeling can help us protect things?",
+        "options": [
+          "a. Happiness",
+          "b. Anger",
+          "c. Anxiety"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Which feeling can help us get ready for danger?",
+        "options": [
+          "a. Happiness",
+          "b. Anger",
+          "c. Anxiety"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
