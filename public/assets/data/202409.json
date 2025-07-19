@@ -200,5 +200,100 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240904-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education",
+      "Natural Sciences",
+      "Good Health and Well-Being"
+    ],
+    "title": "Kids in Taiwan Need More Exercise",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240903NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: In Taiwan, many kids from eleven to thirteen years old took a survey. Seventy percent said they needed more exercise. Kids: What?/Huh?!/No way! Narrator: You know what? They're right!",
+        "tw": "台灣很多11歲到13歲的小朋友填問卷調查，有百分之70的說他們需要運動。他們說的沒錯!"
+      },
+      {
+        "en": "Kids from five to seventeen years old need one hour of exercise a day. That's seven hours of exercise a week!",
+        "tw": "5到17歲的孩童需要每天運動1小時，一周要7個小時。"
+      },
+      {
+        "en": "Kids have PE. But at most schools, PE is eighty to ninety minutes a week.",
+        "tw": "雖然學校有體育課，但大多數一周只上80到90分鐘。"
+      },
+      {
+        "en": "Exercise can help kids be healthier. We can get exercise by doing things to move more. We can take the stairs, walk the dog, or ride a bike.",
+        "tw": "運動可以讓兒童更健康。我們可以多動動，像是走樓梯、遛狗或騎腳踏車。"
+      },
+      {
+        "en": "Right now, it's too hot outside. The summer heat is strong. But - there are many ways to exercise inside! We can dance, swim, jump rope, play badminton, do taekwondo, or hula hoop!",
+        "tw": "外面現在真的太熱了，還是有很多方法可以在室內運動，例如跳舞、游泳、跳繩、打羽毛球、打跆拳道或搖呼拉圈。"
+      },
+      {
+        "en": "Neighbor: Hey! Quiet down! Narrator: We need some space! We want to be safe, and we don't want to make people angry when we exercise at home!",
+        "tw": "我們需要安全的空間做運動。我們也不想在家做運動的時候，惹怒其他人。"
+      },
+      {
+        "en": "Do you exercise one hour a day? No? Why are you sitting? If your teacher says okay, go and move!",
+        "tw": "你每天運動一小時嗎？沒有？為什麼你坐著？如果你的老師說可以，那就去動起來！"
+      }
+    ],
+    "vocabulary": {
+      "preface": "一個星期兩三堂的體育課，對兒童和青少年是不夠的。",
+      "content": [
+        {
+          "text": "1. exercise 運動\nWendy, let's go rollerblading at the park this afternoon.",
+          "time": null
+        },
+        {
+          "text": "2. healthier 更健康\nNo, I need to study.",
+          "time": null
+        },
+        {
+          "text": "3. hour 鐘頭\nStill, experts say you need to work out for one hour every day.",
+          "time": null
+        },
+        {
+          "text": "4. swim 游泳\nAlright, I'll go swimming all by myself!",
+          "time": null
+        }
+      ],
+      "postscript": "What kind of exercise do you like?\nexercise運動\nhealthier更健康\nhour鐘頭\nswim游泳"
+    },
+    "quiz": [
+      {
+        "question": "1. How old were the kids who took the survey?",
+        "options": [
+          "a. Five to seventeen",
+          "b. Eleven to thirteen",
+          "c. Eighty to ninety"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How much exercise do children need every day?",
+        "options": [
+          "a. One hour",
+          "b. Five hours",
+          "c. Seven hours"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What can exercise help kids to be?",
+        "options": [
+          "a. Angrier",
+          "b. Healthier",
+          "c. Safer"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
