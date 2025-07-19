@@ -1327,5 +1327,102 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240621-01",
+    "type": "國小",
+    "tag": [
+      "Integrative Activities",
+      "Disaster Risk Reduction Education",
+      "Safety Education"
+    ],
+    "title": "Taiwan's Little Hero Finds People",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240620NK.mp3",
+    "content": [
+      {
+        "en": "Dogs are good friends to people. Some dogs also do important work for us. For one job, they work at airports. They use their noses! They sniff for drugs.",
+        "tw": "狗狗是人類的好朋友，有一些狗狗也會為人類工作，像是在機場工作的狗狗會用鼻子聞有沒有毒品。",
+        "time": null
+      },
+      {
+        "en": "The Kaohsiung police tried to teach a dog to sniff for drugs. But he wasn't good at it. He had too much energy! He's too friendly! Down, boy!",
+        "tw": "高雄的警察試著教一隻狗狗成為緝毒犬，但是牠太有活力而且又太親近人。",
+        "time": null
+      },
+      {
+        "en": "But having energy and being friendly are very good for another very important job. This dog became a rescue dog!",
+        "tw": "有活力又親近人也可以做一項很重要的工作，這隻狗可以成為搜救犬。",
+        "time": null
+      },
+      {
+        "en": "Rescue dogs look for people after earthquakes or other bad things happen. This dog's first job was six years ago. Taiwan had a big earthquake.",
+        "tw": "地震或是類似的事情發生後，就會出動搜救犬找人，六年前台灣發生大地震的時候，這隻狗首次執行任務。",
+        "time": null
+      },
+      {
+        "en": "This year, Taiwan had a bigger earthquake on April 3. That earthquake made some buildings fall down. It made rocks on mountains fall down. This dog looked for people on a mountain. He found one person.",
+        "tw": "今年4月3號台灣發生更大的地震，造成山崩、建築物倒塌，這隻搜救犬成功在山上找到一個人。",
+        "time": null
+      },
+      {
+        "en": "This dog is Taiwan's little hero now. He has too much energy to sniff in airports. Now he uses his energy to find people. Good boy! Oh! Down, boy! Hey! That's my microphone! Come back here!",
+        "tw": "這隻狗現在是台灣的小英雄。牠太有活力，不適合在機場嗅聞毒品。現在牠用牠的活力來尋找人們。乖孩子！喔！坐下！嘿！那是我的麥克風！回來這裡！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "狗是人類重要的幫手，可以做各種工作。",
+      "content": [
+        {
+          "text": "1. sniff 聞 What a cute dog! 好可愛的狗! No, don't play with him! 不要跟牠玩! Why not? 為什麼不要? It's a sniffer dog. 那是偵探犬! It's sniffing your suitcase! 牠在聞你的行李箱!",
+          "time": null
+        },
+        {
+          "text": "2. happen 發生 Ma'am, please open your suitcase. 這位女士，請打開你的行李箱。 What's happening? 發生了什麼事? What did I do? 我做了什麼? Sorry, ma'am, you have to throw away your pork pies. 真抱歉，女士，你得扔掉豬肉派。",
+          "time": null
+        },
+        {
+          "text": "3. nose 鼻子 That dog's nose is really amazing! 那隻狗的鼻子真驚人! I hate his nose! 我討厭牠的鼻子!",
+          "time": null
+        },
+        {
+          "text": "4. job 工作 He's just doing his job. 牠只是在做牠的工作。 But that's my favorite pork pie! 可是那是我最喜歡的豬肉派!",
+          "time": null
+        }
+      ],
+      "postscript": "What words have you learned today? sniff聞 happen發生 nose鼻子 job工作"
+    },
+    "quiz": [
+      {
+        "question": "1. Why isn't the dog good at sniffing for drugs?",
+        "options": [
+          "a. He has too much energy.",
+          "b. He can't smell well.",
+          "c. He is too tired."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. When was the dog's first job as a rescue dog?",
+        "options": [
+          "a. Two years ago",
+          "b. Six years ago",
+          "c. Ten years ago"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What is the dog good at?",
+        "options": [
+          "a. Moving rocks",
+          "b. Finding people",
+          "c. Having earthquakes"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
