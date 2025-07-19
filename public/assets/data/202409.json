@@ -1502,5 +1502,106 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240923-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Students Want to Save Deer from Cars",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240920NK.mp3",
+    "content": [
+      {
+        "en": "Deer are beautiful animals. It's exciting to see them in a forest. But it's not good when a deer is on a road. That's very dangerous.",
+        "tw": "鹿是美麗的動物，在森林看到牠們會讓人很開心。但是鹿如果出現在道路上就糟糕了，那會很危險。",
+        "time": null
+      },
+      {
+        "en": "A deer can die when a car hits it. People can get hurt too.",
+        "tw": "鹿被車子撞到可能會死掉，人也可能受傷。",
+        "time": null
+      },
+      {
+        "en": "In the U.S., two high school students want to help deer. They want to make a device. It can help stop cars from hitting deer. It has a camera. It also uses artificial intelligence, or AI.",
+        "tw": "美國有兩個高中生打算製造一個裡面裝有人工智慧相機的設備，讓車子不會再撞到鹿。",
+        "time": null
+      },
+      {
+        "en": "How does the device work? The AI camera watches a road. It sees a car... And it sees a deer near the road! Then the device makes sounds!",
+        "tw": "它是怎麼運作呢? 這個AI相機會監視道路，當它拍到一隻鹿靠近車輛時，便會發出聲音!",
+        "time": null
+      },
+      {
+        "en": "They are animal sounds. Maybe they're bear sounds! Maybe they're lion sounds! These sounds scare the deer. It runs away! It doesn't go onto the road.",
+        "tw": "它發出的是動物的聲音，也許是熊或獅子的吼叫聲，這些聲音會把鹿嚇跑，就不會跑到道路上。",
+        "time": null
+      },
+      {
+        "en": "The students got a prize for their idea. They won $15,000 U.S. dollars. That's about $480,000 Taiwan dollars! Wow!",
+        "tw": "這個點子讓學生贏得了一萬五千元美金，相當於四十八萬台幣!!",
+        "time": null
+      },
+      {
+        "en": "Now the students can make their device. Maybe they can make lots of them! Deer need help. Nobody wants cars to hit deer!",
+        "tw": "現在學生們可以製造他們的設備了。或許他們可以大量製造！鹿需要幫助。沒有人希望車子撞到鹿！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "用科學技術保護野生動物，真是好辦法!",
+      "content": [
+        {
+          "text": "1. scare 驚嚇。Here comes the deer. 那隻鹿來了。Wow! … shhhh! It's so beautiful! 牠真美! Yeah. 是啊。But it's eating your flowers! 但是牠在吃你的花! Do you want to scare it away? 你要把牠嚇走嗎?",
+          "time": null
+        },
+        {
+          "text": "2. stop 制止。Why do I want to do that? 為什麼要那樣? To stop it from ruining your garden! 好讓牠不要毀了你的花園!",
+          "time": null
+        },
+        {
+          "text": "3. sound 聲音。It's okay. Just some flowers. 沒關係，只是幾朵花而已。Hey, those are my vegetables! 嘿，那是我種的青菜! Maybe you can make some dog sounds.你也許可以學狗叫。",
+          "time": null
+        },
+        {
+          "text": "4. run away 跑掉。Woof, woof! There, it's running away. 好了，牠跑掉了。But I feel bad about it. 但是我覺得不開心。",
+          "time": null
+        }
+      ],
+      "postscript": "你有看過野生的鹿嗎? 來讀單字。scare驚嚇 stop制止 sound聲音 run away跑掉"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of sounds does the device make?",
+        "options": [
+          "a. Car sounds",
+          "b. Plane sounds",
+          "c. Animal sounds"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What does the device see when it makes sounds?",
+        "options": [
+          "a. A forest and a road",
+          "b. A lion and a bear",
+          "c. A deer and a car"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did the students win?",
+        "options": [
+          "a. A camera",
+          "b. Money",
+          "c. A car"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
