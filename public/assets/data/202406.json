@@ -1,0 +1,107 @@
+ [
+  {
+    "id": "20240603-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Partnerships for the Goals",
+      "Technology Education",
+      "Technology",
+      "Natural Sciences"
+    ],
+    "title": "These Astronauts Will Make History",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240531NK.mp3",
+    "content": [
+      {
+        "en": "The universe is big. It's very, very big. And every day, every hour, every second, it gets bigger!",
+        "tw": "宇宙非常大，而且每天、每小時、每秒鐘一直在變大。",
+        "time": null
+      },
+      {
+        "en": "There's a lot to learn about the universe. There are millions and billions of places in it! Scientists are learning more about it all the time!",
+        "tw": "宇宙還有很多我們不知道的事，科學家一直學到新的宇宙知識。",
+        "time": null
+      },
+      {
+        "en": "Some scientists explore the universe with telescopes. Others use robots that take photos. And some brave scientists travel to space! These brave scientists are astronauts.",
+        "tw": "有一些科學家用望遠鏡探索宇宙，也有科學家用機器人拍照，還有勇敢的科學家上太空成為太空人。",
+        "time": null
+      },
+      {
+        "en": "Only American astronauts have walked on the moon. But that's going to change! Space travel includes more people now.",
+        "tw": "目前只有美國太空人在月球漫步，但很快會有越來越多人參與太空飛行。",
+        "time": null
+      },
+      {
+        "en": "In a few years, a Japanese astronaut will walk on the moon! This will be an important moment in our history. It will be the first time a non-American astronaut walks on the moon!",
+        "tw": "再過幾年，日本的太空人就會在月球漫步。這會是人類歷史的重要時刻，他會是第一位非美國太空人在月球漫步。",
+        "time": null
+      },
+      {
+        "en": "That's not all! Next year, an American spaceship will fly around the moon. The astronauts include the first Black man, the first woman, and the first non-American to fly around the moon.",
+        "tw": "明年還有一艘美國的太空船會環繞月球，這項任務將讓大家看到第一位繞月球的黑人太空人、女性太空人跟非美國籍的太空人。",
+        "time": null
+      },
+      {
+        "en": "More astronauts are included in space travel now. This is an important time for our world and the universe!",
+        "tw": "現在有更多的太空人參與太空旅行。這對我們的世界和宇宙來說都是一個重要的時刻！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家的太空知識越來越豐富，太空探險也在增加。",
+      "content": [
+        {
+          "text": "1. astronaut 太空人\nListen to this. 你聽這個。\nWhy couldn't the astronaut book a room on the moon?\n為什麼太空人訂不到月球上的房間?",
+          "time": null
+        },
+        {
+          "text": "I don't know. Why? 我不知道。為什麼?\n\n2. travel 旅行\nBecause it was full! 因為是滿月!\nOkay, that's a good one. 好吧，很好笑。\nBut isn't it cool? 不是很酷嗎?\nTraveling to the moon? 去月球旅行?",
+          "time": null
+        },
+        {
+          "text": "3. brave 勇敢的\nProbably. But it's really too far away. 也許吧，不過那真的太遠了。\nI'm not that brave. 我沒有那麼勇敢。",
+          "time": null
+        },
+        {
+          "text": "4. space 太空\nI'm afraid I'll die of loneliness.我恐怕會死於寂寞。\nWhy are you worried about that? 你怎麼會擔心那個?\nBecause I'll be in empty space! 因為我會在空空的太空裡!",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學到哪些單字?\nastronaut太空人\ntravel旅行\nbrave勇敢的\nspace太空"
+    },
+    "quiz": [
+      {
+        "question": "1. What happens to the universe every second?",
+        "options": [
+          "a. It gets smaller.",
+          "b. It gets bigger.",
+          "c. It gets braver."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do scientists use to take photos of the universe?",
+        "options": [
+          "a. Aliens",
+          "b. Robots",
+          "c. Rabbits"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Which country's astronaut will walk on the moon?",
+        "options": [
+          "a. Jordan",
+          "b. Japan",
+          "c. Jamaica"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  }
+]
