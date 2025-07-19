@@ -308,5 +308,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240509-01",
+    "type": "國小",
+    "tag": [
+      "Reduced Inequalities",
+      "Human Rights Education",
+      "Character Education",
+      "Life Education",
+      "Multicultural Education",
+      "Social Studies",
+      "Integrative Activities",
+      "International Education"
+    ],
+    "title": "Bus Brings Banned Books To All",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240508NK.mp3",
+    "content": [
+      {
+        "en": "Books are magical. They tell us new stories. They teach us new things. They open our minds and hearts. Books bring people together. With books, we can learn from different people from different places!",
+        "tw": "書籍告訴我們新的故事，教我們新的事物，也打開我們的心胸，讓我們可以從書裡學習不同地方的人。",
+        "time": null
+      },
+      {
+        "en": "But sometimes some people don't like the stories in some books. So they ban the books. That means no one can read them!",
+        "tw": "但有時候不是每一個人都喜歡書裡的故事，有人就會禁止這些書，不讓人閱讀。",
+        "time": null
+      },
+      {
+        "en": "LGBTQ stories are banned in some places. This makes some kids feel sad.",
+        "tw": "像是有一些地方禁止關於同性戀、雙性戀、跨性別跟酷兒相關的書，讓有一些小朋友感到難過。",
+        "time": null
+      },
+      {
+        "en": "RuPaul is a famous drag queen. His friends made the Rainbow Book Bus. It holds many banned books.",
+        "tw": "魯保羅是知名的變裝皇后。他的朋友打造了一輛彩虹書巴士，車上有很多禁書。",
+        "time": null
+      },
+      {
+        "en": "RuPaul helped the bus go to places where the books are banned. Everywhere it went, people came to get banned books for free. RuPaul helped his friends give away seven thousand books! These books help some kids feel less alone.",
+        "tw": "這輛巴士會到書籍被禁止的地方，讓大家免費拿取。魯保羅幫他朋友送出7000本書，陪伴一些小朋友。",
+        "time": null
+      },
+      {
+        "en": "RuPaul says reading books helped him learn about the world. Now he's sharing his love of learning with people everywhere. The Rainbow Book Bus is more than a bus full of books. It's a place full of caring and joy for everyone!",
+        "tw": "魯保羅說閱讀書籍幫助他了解這個世界。現在，他正將自己對學習的熱愛分享給各地的人們。彩虹書巴士不僅僅是一輛裝滿書籍的巴士，它更是所有人充滿關愛與歡樂的地方！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "魯保羅希望讓更多人看到有關性別平等的書。",
+      "content": [
+        {
+          "text": "1. read 閱讀\nYou've been reading for a long time.你看書看了好久了。\nYeah, reading is not my thing, 對，我不愛看書的， but this book is different.\n不過這本不一樣。",
+          "time": null
+        },
+        {
+          "text": "2. give away 贈送\nDifferent how? 怎麼個不一樣?\nWell, the library was giving them away and I just took one.",
+          "time": null
+        },
+        {
+          "text": "3. for free 免費的\nOkay, so you got it for free.所以你得到免費的書。\nRight, and after I began reading it, I couldn't stop.",
+          "time": null
+        },
+        {
+          "text": "4. full of 充滿的\nYes, how did you know that? 對，你怎麼知道的?\nIt's full of stories about strange foods.",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like reading?\nread閱讀\ngive away贈送\nfor free免費的\nfull of充滿的"
+    },
+    "quiz": [
+      {
+        "question": "What do RuPaul and his friends do with banned books?",
+        "options": [
+          "a. Sell them",
+          "b. Buy them",
+          "c. Give them away"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "How many free books were given?",
+        "options": [
+          "a. Seven hundred",
+          "b. Seven thousand",
+          "c. Seventy thousand"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "How did RuPaul learn about the world?",
+        "options": [
+          "a. Read books",
+          "b. Drove buses",
+          "c. Banned books"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
