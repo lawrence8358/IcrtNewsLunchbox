@@ -1581,5 +1581,108 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240424-01",
+    "type": "國小",
+    "tag": [
+      "Technology",
+      "Natural Sciences",
+      "Outdoor Education",
+      "Environmental Education"
+    ],
+    "title": "Spider Webs with DNA",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240423NK.mp3",
+    "content": [
+      {
+        "en": "Ahhh! What's that little monster with eight legs? Oh, it's a spider! Spiders can help scientists. They make spider webs. Spider webs are sticky! That's how they trap flies, mosquitoes, and... DNA!",
+        "tw": "蜘蛛可以助科學家一臂之力，蜘蛛網很黏，抓得住蒼蠅、蚊子還有...基因!",
+        "time": null
+      },
+      {
+        "en": "Maybe you know \"DNA\" from the K-pop song by BTS. All living things have DNA. It's the code that makes living things look and work in one way.",
+        "tw": "你大概有聽過DNA這首歌，生物都有DNA，它決定生物的模樣跟行為。",
+        "time": null
+      },
+      {
+        "en": "Getting DNA is important for learning about living things. Getting it from cats, dogs, and zoo animals is easy. But getting it from wild animals is hard!",
+        "tw": "要研究生物，取得它的DNA很重要。從貓狗或動物園裡的動物身上取得很容易，但是野生動物就有困難。",
+        "time": null
+      },
+      {
+        "en": "Hmmmm... spider webs are everywhere. And wild animals walk by spider webs! Their DNA may be on them. How?",
+        "tw": "野外到處都是蜘蛛網，野生動物經過，牠們的DNA遺傳密碼可能會黏在上面。",
+        "time": null
+      },
+      {
+        "en": "Well, DNA from the animals' skin, hair, or breath goes into the air. When the wind blows, sticky spider webs may trap it. Also, if animals touch spider webs, they may leave their DNA.",
+        "tw": "動物的皮膚、毛髮跟牠們呼出的氣體，都可能隨著風黏到蜘蛛網上，動物碰到蜘蛛網也會留下基因的資訊。",
+        "time": null
+      },
+      {
+        "en": "Scientists find and take spider webs. Then they study the trapped DNA.",
+        "tw": "科學家尋找蜘蛛網，並且研究黏在上面的生物分子。",
+        "time": null
+      },
+      {
+        "en": "With spider webs, scientists can get wild animals' DNA. It helps us learn more about these animals. The more we know about animals, the more we can understand them!",
+        "tw": "有了蜘蛛網，科學家就能取得野生動物的DNA。這有助於我們了解更多關於這些動物的資訊。我們對動物了解得越多，就越能理解牠們！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "蜘蛛網能夠協助科學家研究各種生物的遺傳基因。",
+      "content": [
+        {
+          "text": "1. spider 蜘蛛\nYikes, a spider web! 蜘蛛網!\nI hate spiders! 我討厭蜘蛛!\nSpiders are good. 蜘蛛很好啊。\nThey eat mosquitoes.牠們吃蚊子。\nI don't care what they eat.我不在乎牠們吃什麼。",
+          "time": null
+        },
+        {
+          "text": "2. sticky 黏黏的\nWhy are you so afraid of them? 你為什麼那麼怕蜘蛛?\nBecause spider webs are sticky. 因為蜘蛛網黏黏的。\nAnd they are just ugly.而且牠們就是好醜。",
+          "time": null
+        },
+        {
+          "text": "3. trap 抓住\nBut look at these scientists' work. 但是你看看這些科學家的工作。\nIsn't it amazing? 不是很了不起嗎?\nStudying the skin trapped by the webs? 研究被蜘蛛網黏住的皮膚嗎?\nIt's gross! 很恐怖!",
+          "time": null
+        },
+        {
+          "text": "4. scientist 科學家\nYou could never be a scientist. 你永遠當不成科學家。\nNo, and I don't want to be. 沒錯，我也不想當。",
+          "time": null
+        }
+      ],
+      "postscript": "你怕不怕蜘蛛?\nspider蜘蛛\nsticky黏黏的\ntrap抓住\nscientist科學家"
+    },
+    "quiz": [
+      {
+        "question": "1. Why can spider webs trap things?",
+        "options": [
+          "a. They're sticky.",
+          "b. They're important.",
+          "c. They're easy."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What is DNA?",
+        "options": [
+          "a. Baseball",
+          "b. Code",
+          "c. Monsters"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do scientists want from spider webs?",
+        "options": [
+          "a. Wild animals",
+          "b. Wild animals' DNA",
+          "c. Spiders' DNA"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
