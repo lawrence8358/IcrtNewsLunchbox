@@ -386,5 +386,108 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240708-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Information Education",
+      "Reading Literacy Education",
+      "Natural Sciences"
+    ],
+    "title": "Reading for the Brain",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240705NK.mp3",
+    "content": [
+      {
+        "en": "Do you like stories about magic? How about stories about superheroes? These stories are fiction. Fiction means the stories are NOT real. But they're exciting! You can use your imagination!",
+        "tw": "你喜歡關於魔法的故事嗎？或是關於超級英雄呢？這些故事都是虛構的，不是真的。但是閱讀它們很令人興奮，因為可以運用你的想像力。",
+        "time": null
+      },
+      {
+        "en": "One girl loves fiction. She likes adventure stories. She likes stories about magic. But she LOVES fairy tales…",
+        "tw": "有個女孩很喜歡閱讀小說，像是冒險故事、魔法故事。她還特別喜歡童話故事。",
+        "time": null
+      },
+      {
+        "en": "Once upon a time, the girl had a question … Is reading fiction good for the brain?",
+        "tw": "有一天她想到一個問題，看故事對大腦有益處嗎？",
+        "time": null
+      },
+      {
+        "en": "One day, some scientists gave her the answer. They said reading fiction helps the brain in many ways!",
+        "tw": "有一些科學家給了她答案，說閱讀小說對大腦有不同的好處！",
+        "time": null
+      },
+      {
+        "en": "Fiction readers understand other people's feelings better. They think more clearly. They solve problems better. They're good at understanding ideas and things they can't see or touch.",
+        "tw": "小說的讀者可以更容易理解別人的感受，也更容易解決事情，他們把事情想得更清楚。擅長理解看不到、摸不到的東西或想法。",
+        "time": null
+      },
+      {
+        "en": "The scientists looked at studies on people who read fiction and people who watch fiction. They said reading fiction was more helpful for the brain!",
+        "tw": "科學家研究常看故事的讀者以及看虛構故事的觀眾的大腦，發現閱讀真的對大腦有益！",
+        "time": null
+      },
+      {
+        "en": "The girl is very happy! Now she knows - reading fiction is good for the brain in many ways! Now you know too. So everyone can live happily ever after! The End!",
+        "tw": "這個女孩很高興！她現在知道——閱讀小說對大腦在許多方面都有好處！現在你也知道了。所以大家都可以從此過著幸福快樂的日子！故事結束！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家說，讀小說對腦部發展大有益處呢!",
+      "content": [
+        {
+          "text": "1. fiction 小說\nWhat's your favorite type of story? 你最喜歡哪種故事?\nFiction. Only fiction can take me into another world.",
+          "time": null
+        },
+        {
+          "text": "2. read 閱讀\nLike A Game of Thrones? 就像《權力遊戲》嗎?\nYeah, it's a wonderful story. 對啊，它是很奇妙的故事。\nI love reading it.我很喜歡看。",
+          "time": null
+        },
+        {
+          "text": "3. fairy tale 童話\nIt's full of dragons, castles, kings and queens.\n故事裡有龍，有古堡，國王跟王后。\nSounds like a fairy tale. 聽起來像童話。\nNo, good people die in that story. 不像，那個故事裡好人會死。",
+          "time": null
+        },
+        {
+          "text": "4. superhero 大英雄\nAnd the superhero is a person with dwarfism. 而且大英雄是侏儒。\nYou didn't watch the TV series? 你都沒看電視影集?\nNo.沒有。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like fiction?\nfiction小說\nread閱讀\nfairy tale童話\nsuperhero大英雄"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of story is fiction?",
+        "options": [
+          "a. Not real",
+          "b. News",
+          "c. Real"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What does reading fiction help?",
+        "options": [
+          "a. Scientists",
+          "b. The brain",
+          "c. Fairy tales"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did the scientists say about fiction readers?",
+        "options": [
+          "a. They're better at sports.",
+          "b. They don't think clearly.",
+          "c. They solve problems better."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
