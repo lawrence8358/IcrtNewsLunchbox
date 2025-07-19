@@ -642,5 +642,116 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240410-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Technology Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Technology"
+    ],
+    "title": "AI Opens 2,000-Year-Old Secrets",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240409NK.mp3",
+    "content": [
+      {
+        "en": "Two thousand years ago, a volcano erupted in Italy. Towns were destroyed. Many people and things were lost. Scrolls were also lost.",
+        "tw": "兩千多年前，義大利火山爆發，摧毀了附近的城鎮，很多人跟東西都遭到掩埋，有很多卷軸也不見了。",
+        "time": null
+      },
+      {
+        "en": "People wrote important thoughts and information on these long papers. Then they rolled the scrolls.",
+        "tw": "卷軸是一張長長的紙，人們在紙上寫下重要的想法跟訊息，再把它捲起來。",
+        "time": null
+      },
+      {
+        "en": "Three hundred years ago, many scrolls were found. They were in a house destroyed by the volcano.",
+        "tw": "300年前，一棟被火山摧毀的房屋裡面，發現了很多卷軸。",
+        "time": null
+      },
+      {
+        "en": "But the scrolls were burned black. Unrolling the scrolls destroys them. Scientists have tried many ways to read them. What secrets are written on the scrolls?",
+        "tw": "但是那些卷軸都被燒得焦黑，攤開來會破壞卷軸。科學家試了很多方法來讀上面的文字。卷軸裡面有什麼祕密呢?",
+        "time": null
+      },
+      {
+        "en": "Last year, some people had a contest. Who could find a way to read one scroll?",
+        "tw": "去年有人舉辦了比賽，看誰能找到讀卷軸的方法。",
+        "time": null
+      },
+      {
+        "en": "This year, three students won the contest together. They made an AI program.",
+        "tw": "今年有三位學生贏得這場比賽，他們開發了一個人工智慧 AI程式。",
+        "time": null
+      },
+      {
+        "en": "It worked! AI read a small part of the scroll. This part is great! It's about enjoying life, music, and food! And the writer thought about a question: When there isn't much of something, do we enjoy it more?",
+        "tw": "那個AI程式成功讀到了卷軸上的一小部分，上面寫到要享受人生、音樂跟食物。作者還想到一個問題，東西越少，我們是不是越欣賞它們?",
+        "time": null
+      },
+      {
+        "en": "For 300 years, scientists tried to find a way to read the scrolls. Now AI is opening the 2,000-year-old secrets of the scrolls!",
+        "tw": "300年來，科學家們一直試圖找到閱讀這些卷軸的方法。現在，AI正在揭開這些2000年前卷軸的秘密！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "人工智慧也許可以解開兩千年前，手寫紀錄的秘密。",
+      "content": [
+        {
+          "text": "1. secret 秘密 Hey, Jane, would you like to join a secret contest? 你想參加秘密比賽嗎? Sounds exciting! 聽起來很有趣! What's it about? 什麼樣的比賽? It's a treasure hunt. 尋寶大賽。",
+          "time": null
+        },
+        {
+          "text": "2. house 房子 We need to find things hidden in a house. 我們得找到藏在房子裡的東西。 Where is this house? 這個房子在哪兒? In Tamsui, New Taipei. 在新北市的淡水。",
+          "time": null
+        },
+        {
+          "text": "3. win 贏得 And how do we win? 我們要怎麼贏呢? Simple. We work together. 很簡單，我們合作。",
+          "time": null
+        },
+        {
+          "text": "4. information 資訊 You read all the information.你讀所有的資訊。 And what will you do? 你做什麼呢? I'll see what other people have found. 我去看看別人發現了什麼。",
+          "time": null
+        }
+      ],
+      "postscript": "今天我們學到哪些單字? secret秘密 house房子 win贏得 information資訊"
+    },
+    "quiz": [
+      {
+        "question": "Why are the scrolls hard to read?",
+        "options": [
+          "a. They were burned.",
+          "b. They have secrets.",
+          "c. They were lost."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "What did the students use to read the scrolls?",
+        "options": [
+          "a. Glasses",
+          "b. AI",
+          "c. Lasers."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "What did someone write about on a scroll?",
+        "options": [
+          "a. Music",
+          "b. Dance",
+          "c. Money."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
