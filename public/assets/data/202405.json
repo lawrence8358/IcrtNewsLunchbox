@@ -1034,5 +1034,106 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240520-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Environmental Education"
+    ],
+    "title": "Family Finds Dinosaur Footprints",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240517NK.mp3",
+    "content": [
+      {
+        "en": "Dinosaurs have big footprints! We see these footprints in natural history museums. But have you seen one on a beach?",
+        "tw": "恐龍的腳印很大，我們可以在自然歷史博物館看到，但你有在海灘上看過嗎?",
+        "time": null
+      },
+      {
+        "en": "A family was walking on a beach in England. The mother and her two kids were having fun. Then they saw eight big dinosaur footprints!",
+        "tw": "有個家庭在英國的海灘散步，玩得正開心的時候，看到八個恐龍的大腳印。",
+        "time": null
+      },
+      {
+        "en": "They were very excited. They were walking where dinosaurs walked!",
+        "tw": "他們非常興奮，因為他們就走在恐龍走過的地方。",
+        "time": null
+      },
+      {
+        "en": "If we walk on a beach today, our footprints are very soft. These footprints are not soft. Dinosaurs made these footprints millions of years ago. The footprints became very hard. Now they're as hard as rocks.",
+        "tw": "我們在海灘上留下的腳印是軟的，但這些幾千萬年前的腳印，現在硬的跟石頭一樣。",
+        "time": null
+      },
+      {
+        "en": "These hard footprints were under the sand. But heavy rain and waves took the sand away. That's why the family found them.",
+        "tw": "原本這些腳印被埋在沙子底下，但是海浪跟大雨把砂礫沖走了，才會被發現。",
+        "time": null
+      },
+      {
+        "en": "The rocks under the beach are 140 million years old. Lots of dinosaurs used to walk there. In 2018, people found about 85 dinosaur footprints near that beach. They were from seven kinds of dinosaurs!",
+        "tw": "這些化石有1400萬年的歷史。很多恐龍曾經走過當地。2018年民眾發現的腳印就有85個，來自7種不同的恐龍。",
+        "time": null
+      },
+      {
+        "en": "The next time you go to a beach, look down! You might find something interesting too!",
+        "tw": "下次你去海灘的時候，往下看！你可能也會發現一些有趣的東西！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "在沙灘上走一走，居然發現恐龍的腳印!",
+      "content": [
+        {
+          "text": "1. beach 海灘 Somebody found dinosaur footprints on a beach.有人在海灘找到恐龍腳印。 Yeah, I heard.我有聽說。 For me, I'd like to find dinosaur fossils. 我的話想找到恐龍化石。",
+          "time": null
+        },
+        {
+          "text": "2. museum 博物館 You know you can see fossils at the National Taiwan Museum, right? 你知道國家台灣博物館可以看到化石吧? But museums are boring! 但是博物館很無聊耶!",
+          "time": null
+        },
+        {
+          "text": "3. million 百萬 No, there are animal fossils from millions of years ago. 不會，那裏有好幾百萬年前的動物化石。 Like what? 比如說什麼? Like turtles and birds.比如說烏龜和鳥。",
+          "time": null
+        },
+        {
+          "text": "4. interesting 有趣的 That doesn't sound interesting. 聽起來很沒趣。 Okay, let's go to the beach this weekend and start digging. 好吧，我們這周末去海灘開始挖掘。 YEAH!!",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學的單字記住了嗎? beach海灘 museum博物館 million百萬 interesting有趣的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did the family find the dinosaur footprints?",
+        "options": [
+          "a. A natural history museum",
+          "b. Their garden",
+          "c. A beach"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many footprints did the family find?",
+        "options": [
+          "a. eight",
+          "b. eighteen",
+          "c. eighty five"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How did the family feel when they found the dinosaur footprints?",
+        "options": [
+          "a. Excited",
+          "b. Soft",
+          "c. Hard"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
