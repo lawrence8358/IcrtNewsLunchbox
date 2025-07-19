@@ -325,5 +325,110 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240220-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education",
+      "Natural Sciences",
+      "International Education",
+      "Multicultural Education",
+      "Life on Land",
+      "Zero Hunger"
+    ],
+    "title": "The \"Mite-iest\" Cheese in the World",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240219NK.mp3",
+    "content": [
+      {
+        "en": "Do you know what people say about stinky tofu? The worse it smells, the better it tastes!",
+        "tw": "大家都說臭豆腐越臭越好吃。",
+        "time": null
+      },
+      {
+        "en": "In Europe, people say the same about cheese. They have lots of cheeses over there. What's the weirdest one? Mite cheese.",
+        "tw": "歐洲人也說起司越臭越好吃，他們有各種起司，最奇怪的是螨起司。",
+        "time": null
+      },
+      {
+        "en": "No, no, no! It's not MICE cheese! It's MITE cheese! Mites are very small spiders. They make cheese using their poop!",
+        "tw": "螨很像小的蜘蛛，牠們的排泄物可以用來做起司。",
+        "time": null
+      },
+      {
+        "en": "Mr. Poschel was a biology teacher. Now he farms mites. He has lots of dark, cool, moist boxes. They're full of millions of mites! He needs them to make mite cheese.",
+        "tw": "Poschel先生以前是生物老師。他現在養螨，把牠們養在潮濕陰暗的箱子來做起司。",
+        "time": null
+      },
+      {
+        "en": "Mr. Poschel puts soft cheese into the boxes. Then the hungry mites get to work! They climb all over it! Eating and pooping, pooping and eating. Eat. Poop. Eat. Poop. Eat. Poop. They're making mite cheese!",
+        "tw": "Poschel先生把軟質乳酪放進箱子裡，螨會爬到起司上，邊吃邊排泄。",
+        "time": null
+      },
+      {
+        "en": "Mr. Poschel waits for the mite cheese to get hard. Then he takes it out of the boxes. He's very careful. These mites eat fingernails too!",
+        "tw": "等到起司變硬了，就可以從箱子裡拿出來。他很小心，這些螨也會吃指甲。",
+        "time": null
+      },
+      {
+        "en": "His mite cheese is ready to eat. Some say it's tasty. Others want to try it. Spider poop cheese? No, thanks or yes, please?",
+        "tw": "他的螨起司已經可以吃了。有人說它很美味。也有人想嚐嚐看。蜘蛛便便起司？不，謝謝還是請給我來一點？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "螨起司的做法真特別，有點兒異想天開。",
+      "content": [
+        {
+          "text": "1. smell 聞起來\nWhat's that you're eating? 你在吃什麼呢?\nSeafood soup. 海鮮湯。\nIt smells very strong.聞起來味道很重。\nYeah, I added fish sauce.對，我加了魚露。",
+          "time": null
+        },
+        {
+          "text": "2. taste 嚐起來\nThis actually tastes really good. 它其實很好吃。\nYou made it yourself? 你自己做的?\nRight, I learned it from a Thai teacher. 對，我從一個泰國老師學來的。",
+          "time": null
+        },
+        {
+          "text": "3. lots of 很多的\nI know fish sauce is used in lots of Thai dishes.我知道很多泰國菜都用魚露。\nCome, have some. 來吧，吃一點。\nWow! Delicious! 哇，真好吃!\nI knew you'd like it.我就知道你會喜歡。",
+          "time": null
+        },
+        {
+          "text": "4. full of 充滿的\nThis soup is full of flavor! 這個湯味道濃郁。\nYeah, it's better than other kinds of soup. 它比別的湯都好。\nBecause it's easy to make.因為它很容易做。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like cheese or Thai food? 來複習一遍單字。\nsmell聞起來\ntaste嚐起來\nlots of很多的\nfull of充滿的"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of cheese is made from spider poop?",
+        "options": [
+          "a. Mite cheese",
+          "b. Mice cheese",
+          "c. My cheese"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What does Mr. Poschel keep in dark, cool, moist boxes?",
+        "options": [
+          "a. Stinky tofu",
+          "b. Millions of mice",
+          "c. Millions of mites"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What eats fingernails?",
+        "options": [
+          "a. Mites",
+          "b. Cows",
+          "c. Mr. Poschel"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
