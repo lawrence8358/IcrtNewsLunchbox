@@ -1683,5 +1683,114 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240528-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Sustainable Cities and Communities",
+      "Climate Action",
+      "Life on Land",
+      "Environmental Education",
+      "Technology Education",
+      "Energy Education",
+      "Social Studies",
+      "Technology"
+    ],
+    "title": "Take a Train, Help the Earth",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240527NK.mp3",
+    "content": [
+      {
+        "en": "Trains are so relaxing! Do you like to sleep on trains?",
+        "tw": "坐火車真舒服，那你會喜歡睡在火車上嗎?",
+        "time": null
+      },
+      {
+        "en": "In Europe, more and more people are sleeping on trains. It's fun and exciting! And it's good for the Earth.",
+        "tw": "在歐洲越來越多人睡在火車上，很好玩、很有趣，又很環保。",
+        "time": null
+      },
+      {
+        "en": "Sleeping on trains?? Well, this isn't about falling asleep on an MRT train!People are sleeping on sleeper trains in Europe. These night trains have small rooms. The rooms have beds. Some have bathrooms! Sleeper trains are hotels on wheels! Some have dining cars too.",
+        "tw": "歐洲很多人都會睡臥舖列車，這種夜間火車有很多小房間，房間裡有床鋪，有的還有廁所。臥鋪列車就像有輪子的飯店，有的甚至還有餐車。",
+        "time": null
+      },
+      {
+        "en": "Sleeper trains in Europe cost more than planes. So why do people ride these trains? It's because they don't want to fly. Planes are bad for the environment. They use lots of fossil fuels. This makes the Earth warmer!",
+        "tw": "在歐洲搭臥鋪列車比搭飛機還貴，那為什麼還是有人要搭呢?因為飛機要用到很多燃油，會讓地球暖化。",
+        "time": null
+      },
+      {
+        "en": "Trains are much better for the environment. They're also good for sightseeing. We can see nature. We can see towns and cities too.",
+        "tw": "搭火車比較環保，也適合看風景，我們會看到大自然、城鎮跟城市。",
+        "time": null
+      },
+      {
+        "en": "Now, we have to go to another country to ride on a sleeper train. But in 2027, maybe Taiwan will have its own Formosa Sleep Express!",
+        "tw": "現在我們想要搭臥鋪列車，就只能到別的國家。但是到2027年也許台灣會有福爾摩沙寢台列車。",
+        "time": null
+      },
+      {
+        "en": "Would you like to try sleeping on a sleeper train?",
+        "tw": "你想試試看睡臥鋪列車嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "在火車上過夜，是另外一種旅行的方式。",
+      "content": [
+        {
+          "text": "1. relaxing 讓人放鬆\nI love traveling by train! 我真喜歡火車旅行!\nYeah, look at those green fields. 對啊，看那些綠色田野!\nIt's so relaxing! 讓人好放鬆。",
+          "time": null
+        },
+        {
+          "text": "2. ride 搭乘\nI wish I could ride a train to many other places.我希望能搭火車去很多別的地方。",
+          "time": null
+        },
+        {
+          "text": "3. Europe 歐洲\nYou can easily do so in Europe.去歐洲就可以很容易做到。\nIt has extensive rail networks. 它的鐵道網路很完整。\nYou can travel from Rome to Berlin, or from Paris to Vienna by\ntrain.你可以坐火車從羅馬到柏林，從巴黎到維也納。",
+          "time": null
+        },
+        {
+          "text": "4. lots of 很多\nHave you been there lots of times? 你去過那裏很多次?\nOh, yes, more than I can count. 多到我都數不清了。",
+          "time": null
+        }
+      ],
+      "postscript": "大家多坐火車吧!\nrelaxing讓人放鬆的\nride搭乘\nEurope歐洲\nlots of很多"
+    },
+    "quiz": [
+      {
+        "question": "1. Where are more people sleeping on trains?",
+        "options": [
+          "a. Europe",
+          "b. Taiwan",
+          "c. Formosa"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Why are these people taking sleeper trains instead of planes?",
+        "options": [
+          "a. Trains cost more.",
+          "b. Trains are better for the environment.",
+          "c. Trains have dining cars."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do planes use?",
+        "options": [
+          "a. Small rooms",
+          "b. Hotels on wheels",
+          "c. Fossil fuels"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
