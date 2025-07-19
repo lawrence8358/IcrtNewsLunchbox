@@ -423,5 +423,103 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20241008-01",
+    "type": "國小",
+    "tag": [
+      "Clean Water and Sanitation",
+      "Environmental Education",
+      "Technology Education",
+      "Technology"
+    ],
+    "title": "Teens' Machine Takes Microplastics from Water",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20241007NK.mp3",
+    "content": [
+      {
+        "en": "Plastic is everywhere. We drink from plastic bottles. We carry the items we buy in plastic bags. Even parts of our homes are made of plastic!",
+        "tw": "塑膠到處都有，我們用塑膠瓶喝水。我們買的東西裝在塑膠袋裡面，甚至房屋的一部份都是塑膠做的!",
+        "time": null
+      },
+      {
+        "en": "These big plastic items are easy to see. But there are plastics that are too small to see. The biggest are five millimeters long. They are microplastics.",
+        "tw": "但是除了這些，還有小到肉眼看不見的塑膠微粒，最大的也只有五毫米長。",
+        "time": null
+      },
+      {
+        "en": "And they are everywhere! They're on top of mountains! They're at the bottom of the ocean. They're in the water we drink. *gasp!* So they're in our bodies!",
+        "tw": "到處都有塑膠微粒! 山上有，海底也有，還會跟著飲用水跑進我們身體裡，天啊!",
+        "time": null
+      },
+      {
+        "en": "Scientists say we eat or drink two thousand pieces of microplastics every week! They say this is very bad for our health. Scientists have been trying to take microplastics out of our drinking water for a long time. But nothing has worked. And everything they've tried has been too expensive.",
+        "tw": "科學家說，我們每星期會吃進或者喝進肚子裡兩千個塑膠微粒，對身體很不好。科學家努力想除去飲用水裡的塑膠微粒，但方法都太貴了。",
+        "time": null
+      },
+      {
+        "en": "Now two seventeen-year-old kids have made a machine. Scientists say it can take most microplastics out of water! It's cheap and easy to use.",
+        "tw": "現在兩個十七歲的少年做出了機器，能除掉水裡大部分的塑膠微粒 ! 不只如此，它還便宜又好用。",
+        "time": null
+      },
+      {
+        "en": "These kids found a great way to take microplastics out of our water!",
+        "tw": "這些孩子們找到了一個很棒的方法來去除水中的塑膠微粒！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "塑膠微粒是個頭痛的問題，兩個少年提出了解方。",
+      "content": [
+        {
+          "text": "plastic 塑膠的。 Wait, let me powder my nose. 等等，我要在鼻子上撲粉。 There, how do I look? 好了，我看起來如何?",
+          "time": null
+        },
+        {
+          "text": "everything 所有東西。 Of course it is. 當然啦。 Nearly everything we use on our face… 我們用在臉上的所有東西... is in plastic containers.都裝在塑膠容器裡。I know.我知道。",
+          "time": null
+        },
+        {
+          "text": "eat 吃。 I recycle the bottles. 我都有回收瓶子。 But the plastic may get into our bodies.但是塑膠會跑進身體裡面。 I don't eat my makeup! 我又沒有吃化妝品!",
+          "time": null
+        },
+        {
+          "text": "ocean 海洋。 No, the plastic will end up in the ocean, 不是，塑膠最後會進入海洋， and fish will eat it. 魚會把它吃了。 Oh, that's okay. I don't eat fish.那沒關係。我不吃魚。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很常用。 plastic塑膠的 everything所有東西 eat吃 ocean海洋"
+    },
+    "quiz": [
+      {
+        "question": "Which of these might be made of plastic?",
+        "options": [
+          "a. A tree in a forest",
+          "b. A teacher in a class",
+          "c. A bag from a store"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "What are plastics too small to see called?",
+        "options": [
+          "a. Microplastics",
+          "b. Monsterplastics",
+          "c. Megaplastics"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "How old are the kids who made a machine?",
+        "options": [
+          "a. 5",
+          "b. 7",
+          "c. 17"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
