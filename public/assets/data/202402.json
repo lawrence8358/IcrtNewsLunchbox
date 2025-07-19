@@ -215,5 +215,115 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240219-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Environmental Education",
+      "Disaster Risk Reduction Education",
+      "Safety Education",
+      "Outdoor Education",
+      "Natural Sciences"
+    ],
+    "title": "What Killed the Dinosaurs?",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240217NK.mp3",
+    "content": [
+      {
+        "en": "Once upon a time, there were big dinosaurs living on Earth. Why did they go away?",
+        "tw": "很久以前，恐龍還活在地球上，那牠們為什麼消失了呢?",
+        "time": null
+      },
+      {
+        "en": "Some people say a very big space rock hit the Earth in Mexico. The \"kaboom\" was so big that it hit all the dinosaurs. Did this happen?",
+        "tw": "據說是一顆超大的隕石墜落在墨西哥，讓所有的恐龍滅亡。真的是這樣嗎?",
+        "time": null
+      },
+      {
+        "en": "Some smart scientists have another idea. They say the dinosaurs are gone because of volcanoes in India.",
+        "tw": "也有科學家覺得恐龍是因為印度的火山爆發而絕種。",
+        "time": null
+      },
+      {
+        "en": "Volcanoes are special mountains. They have holes on top! Volcanoes rumble and grumble. And they shoot out fire!",
+        "tw": "火山會隆隆作響，還會噴出火焰。",
+        "time": null
+      },
+      {
+        "en": "At the time of the dinosaurs, volcanoes shot out lots of fire and smoke. This happened for a very long time. This made the air very smelly.",
+        "tw": "當時有一段時間火山噴出大量火焰跟濃煙，讓空氣品質惡化。",
+        "time": null
+      },
+      {
+        "en": "After many years, the volcanoes changed the weather. The world got very cold. These scientists think this is why the dinosaurs are gone.",
+        "tw": "多年之後，火山爆發導致氣候變得很冷，科學家覺得這才是恐龍絕種的原因。",
+        "time": null
+      },
+      {
+        "en": "So, what made the dinosaurs go? Was it the volcanoes, the big space rock... or both? Scientists are not sure now, but their ideas are very interesting!",
+        "tw": "究竟是什麼原因讓恐龍消失呢? 是火山，是隕石，還是兩個都有? 科學家還不確定，但是他們的想法很有趣！",
+        "time": null
+      },
+      {
+        "en": "Today, scientists look for rocks and dinosaur bones in the ground. This helps them learn more about what happened to the dinosaurs!",
+        "tw": "今天，科學家們在地下尋找岩石和恐龍骨骼。這有助於他們了解更多關於恐龍滅絕的原因！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "有一個理論說火山爆發導致氣候改變，恐龍也因此滅絕。",
+      "content": [
+        {
+          "text": "1. shoot 噴發\nCan you imagine Datun Mountain erupting one day? 你能想像有一天大屯山爆發嗎?\nAnd shooting out fire and ash? 然後噴出火焰和灰塵?\nThat would be so cool! 那好酷喔!\nNo, it wouldn't. 才不呢。",
+          "time": null
+        },
+        {
+          "text": "2. because 因為\nOur weather may change because the ash would block the\nsun.我們的天氣可能改變，因為火山灰會遮住太陽。",
+          "time": null
+        },
+        {
+          "text": "3. for a long time 長時間\nBut Datun Mountain has slept for a very long time. 但是大屯山已經沉睡很久了。\nWith volcanoes, you never know. 火山是說不準的。",
+          "time": null
+        },
+        {
+          "text": "4. scientist 科學家\nI'm not worried. We have good scientists. 我不擔心，我們有很好的科學家。\nYeah, let's hope they don't fall asleep.對啊，希望他們不會睡著。",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我讀今天的單字。\nshoot噴發\nbecause因為\nfor a long time長時間\nscientist科學家"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did the big space rock hit the Earth?",
+        "options": [
+          "a. Canada",
+          "b. Mexico",
+          "c. India"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What shoots out of volcanoes?",
+        "options": [
+          "a. Cold air",
+          "b. Holes",
+          "c. Fire"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What do scientists look for to learn about dinosaurs?",
+        "options": [
+          "a. Rocks and bones",
+          "b. Rumbles and grumbles",
+          "c. Cold smelly air"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
