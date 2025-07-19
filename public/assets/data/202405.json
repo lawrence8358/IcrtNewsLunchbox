@@ -2001,5 +2001,101 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240531-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Saving Bananas",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240530NK.mp3",
+    "content": [
+      {
+        "en": "How many bananas are eaten around the world every year? One billion? No. How about one hundred billion? Yes!",
+        "tw": "全世界每年會吃多少根香蕉呢?十億?不對喔，是1000億!",
+        "time": null
+      },
+      {
+        "en": "Farmers grow many kinds of bananas. But they mostly send one kind to other countries. These bananas look good and taste good when they arrive.",
+        "tw": "農夫都會種不同品種的香蕉，但通常只出口一種香蕉到別的國家。這些香蕉又好看又好吃。",
+        "time": null
+      },
+      {
+        "en": "Banana farmers are worried. A disease can kill these bananas. Farmers work hard to protect their bananas. But if the disease comes, they can't stop it!",
+        "tw": "有一種疾病會讓香蕉死亡，這讓農夫很擔心，他們努力保護他們的香蕉，但如果香蕉感染疾病，他們也無法阻止。",
+        "time": null
+      },
+      {
+        "en": "Scientists are trying different ways to save these bananas. In Australia, scientists looked at the DNA of these bananas. DNA tells plants and animals how to grow. The scientists changed one part of the DNA. This made a new kind of banana. The disease can't kill it!",
+        "tw": "科學家用各種方法保護香蕉。澳洲的科學家改變香蕉一部份的基因，種出的新品種可以抵抗疾病。",
+        "time": null
+      },
+      {
+        "en": "Australian farmers aren't growing this new banana now. They're waiting to see if the disease comes…",
+        "tw": "澳洲蕉農還沒開始種新品種的香蕉，他們還在看香蕉會不會又感染。",
+        "time": null
+      },
+      {
+        "en": "In Taiwan, the disease came long ago. Taiwanese scientists look for bananas the disease doesn't kill. Their DNA is a little different. These scientists help farmers grow these bananas here and in other countries.",
+        "tw": "台灣很久以前就流行過這種疾病。台灣科學家找到可以抵抗的香蕉品種，發現它們的基因不太一樣，這些科學家幫助台灣跟外國的農夫種植。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台灣出產很多香蕉，對香蕉的疾病也有深入研究。",
+      "content": [
+        {
+          "text": "1. different 不同的\nA banana plantation here! 這裡有個香蕉園!\nWhat a surprise! 真讓人驚訝!\nThis is a different kind of banana. 這是不同品種的香蕉。",
+          "time": null
+        },
+        {
+          "text": "2. farmer 農夫\nThey are Japanese bananas. 它們是芭蕉。\nHow can you tell? 你怎麼看出來的?\nOh, my father was a farmer. 我爸爸曾經是農夫。",
+          "time": null
+        },
+        {
+          "text": "3. grow 種植\nHe grew bananas? 他種香蕉?\nAll kinds of fruit.各種水果。\nBananas, tomatoes, mangoes, papayas, and more. 香蕉番茄芒果木瓜，還有別的。",
+          "time": null
+        },
+        {
+          "text": "4. work 工作\nDid you learn how to grow them? 你有沒有學會怎麼種?\nYeah, I worked for my father during my vacations. 有，我放假時都替我爸爸做事。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like bananas? 來一起讀單字。\ndifferent不同的\nfarmer農夫\ngrow種植\nwork工作"
+    },
+    "quiz": [
+      {
+        "question": "1. How many bananas are eaten every year?",
+        "options": [
+          "a. 100,000",
+          "b. 100,000,000",
+          "c. 100,000,000,000"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What is worrying banana farmers?",
+        "options": [
+          "a. A banana disease",
+          "b. Banana DNA",
+          "c. New bananas"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did Australian scientists do?",
+        "options": [
+          "a. Found bananas the disease didn't kill",
+          "b. Made a new banana",
+          "c. Helped farmers in other countries"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
