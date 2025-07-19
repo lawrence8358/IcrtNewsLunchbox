@@ -517,5 +517,117 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240109-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Industry, Innovation and Infrastructure",
+      "Life on Land",
+      "Technology Education",
+      "Safety Education",
+      "International Education",
+      "Social Studies",
+      "Health and Physical Education"
+    ],
+    "title": "Red Hot Seat Surprises Man",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240108NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: Let's go jogging. We're so full of energy!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Electricity is full of energy too. It moves. Think of water flowing in a river. That's how electricity moves.",
+        "tw": "電力充滿能量，電力流動的方式就像水在河裡流動一樣。",
+        "time": null
+      },
+      {
+        "en": "Circuits start and end in the same place. Running tracks are circuits. Hey … let's jog on a circuit! We can jog around and around and around… Circuits help electricity flow safely around and around.",
+        "tw": "Circuit指的是環形的路線，像是操場跑道。Electric circuits則是電路，讓電流穩定流動。",
+        "time": null
+      },
+      {
+        "en": "Electric particles: Oh, there's a shorter way to go! Let's take it!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Narrator: When electricity finds a shorter way to go, it takes it. This is called a short circuit. Short circuits can be very dangerous. They make electricity flow faster! This makes lots of heat. Too much heat can start a fire!",
+        "tw": "當電力找到更短的路線的時候，就會發生短路，導致過熱而電線走火。",
+        "time": null
+      },
+      {
+        "en": "Anything electric can short circuit… Smart toilets can!",
+        "tw": "任何電器都有可能短路，智慧馬桶也會喔!",
+        "time": null
+      },
+      {
+        "en": "Thanks to electricity, smart toilets have nice, warm seats. Smart toilets wash your bottom. Some dry it too. Some can play your favorite songs! In China, a smart toilet short-circuited. It started a big fire! A man was surprised... but not hurt.",
+        "tw": "智慧馬桶因為電力可以暖座、沖洗、烘乾，甚至可以播放你喜歡的歌。在中國，有個智慧馬桶因為短路而燒了起來，幸好沒有人受傷。",
+        "time": null
+      },
+      {
+        "en": "But don't worry. Short circuits in smart toilets almost never happen. This toilet wasn't so smart, was it!",
+        "tw": "不過別擔心，智慧馬桶短路的情況幾乎從未發生。這個馬桶沒有那麼聰明，不是嗎！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "電力對現代人來說太重要了，但是也會有出錯的時候。",
+      "content": [
+        {
+          "text": "1. go jogging 去慢跑\nI’m going jogging tonight. 我今晚要去慢跑。\nAt the stadium? 在體育場嗎?\nYeah, would you like to come along? 對，你想一起來嗎?\nNo, too many people. 不了，人太多。",
+          "time": null
+        },
+        {
+          "text": "2. around 環繞\nBesides, it’s not fun. 而且不好玩。\nYou’re just running around and around. 你就是一圈又一圈地跑。\nYou can listen to music when running.你可以在跑步的時候聽音樂啊。",
+          "time": null
+        },
+        {
+          "text": "3. short 短的\nEven a short run of 15 minutes would be good for you, you know.\n即使只跑短短15分鐘也對你有益，你知道嗎。",
+          "time": null
+        },
+        {
+          "text": "4. energy 精力\nNo, it takes too much energy. 不要，太花力氣了。\nI just want to stay nice and warm at home.我只想舒舒服服又暖和的待在家。",
+          "time": null
+        }
+      ],
+      "postscript": "請注意，來讀今天的單字。\ngo jogging去慢跑\naround環繞\nshort短的\nenergy精力"
+    },
+    "quiz": [
+      {
+        "question": "1. What helps electricity flow safely?",
+        "options": [
+          "a. A running track",
+          "b. An electric circuit",
+          "c. Your favorite song"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What can too much heat start?",
+        "options": [
+          "a. A river",
+          "b. Electricity",
+          "c. A fire"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What can short-circuit?",
+        "options": [
+          "a. Anything short",
+          "b. Anything electric",
+          "c. Anything smart"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
