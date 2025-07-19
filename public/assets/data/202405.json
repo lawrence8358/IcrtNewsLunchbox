@@ -1575,5 +1575,113 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240527-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life Education",
+      "Character Education",
+      "Health and Physical Education"
+    ],
+    "title": "Adventures Can Help Us Heal",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240524NK.mp3",
+    "content": [
+      {
+        "en": "Do you like doing new things? One man loves this! When he was in the army, he did new things. He went to new places. He loved these adventures!",
+        "tw": "你喜歡嘗試新的事物嗎?有一名男子非常喜歡，他以前在當兵的時候，經歷很多新的事情、去了很多地方，他很喜歡這些冒險。",
+        "time": null
+      },
+      {
+        "en": "But he lost the use of his legs in the army. He also can't feel them. Now he uses a wheelchair.",
+        "tw": "但是也在當兵的時候，他的雙腿失去知覺，現在需要坐輪椅。",
+        "time": null
+      },
+      {
+        "en": "Leaving the army made him very sad. He wanted to have adventures again! So he tried adventure therapy.",
+        "tw": "離開軍隊讓他很難過，他想要再次去冒險，所以他嘗試冒險治療。",
+        "time": null
+      },
+      {
+        "en": "Bandages help cuts heal. Medicine heals a fever. Therapy helps our minds heal.",
+        "tw": "繃帶治療傷口，藥物控制發燒，治療可以幫助我們恢復健康。",
+        "time": null
+      },
+      {
+        "en": "Thanks to his therapy, the man found a new adventure! Now he gets in a plane. He flies high in the sky. And then he jumps out! He's skydiving!",
+        "tw": "接受這種治療讓他找到新的冒險，他搭飛機到高空跳傘。",
+        "time": null
+      },
+      {
+        "en": "The man loves skydiving! It makes him feel happier! But something very surprising happens then!",
+        "tw": "他很喜歡跳傘，這讓他更快樂，但神奇的事情發生了!",
+        "time": null
+      },
+      {
+        "en": "He falls at one hundred ninety kilometers an hour. And he can feel his legs again! He feels them a little… But he says that little feeling, for a few seconds, is enough for him!",
+        "tw": "他以時速190公里下墜，他的腳居然又有知覺，雖然只有幾秒中微微感覺到，但對他來說夠了。",
+        "time": null
+      },
+      {
+        "en": "Adventure therapy healed the man's mind. It helped his body too! Adventures can help us heal!",
+        "tw": "冒險治療治癒了這個男人的心靈。它也幫助了他的身體！冒險能幫助我們療癒！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "冒險帶來的刺激感受，可能有治療的效果。",
+      "content": [
+        {
+          "text": "1. fly 飛行\nWhat kind of adventures would you really like to try?\n你會真的很想嘗試哪一種探險?\nFlying in a hot-air balloon! 坐熱氣球飛行。\nOver the Hua-dong Rift Valley? 在花東縱谷上面?\nAnywhere would be fine. 哪裡都可以。",
+          "time": null
+        },
+        {
+          "text": "2. in the sky 在天上\nJust to be high in the sky is exciting enough.高掛在天上已經夠讓人興奮了。\nHmmmmm, that does sound like a big adventure.聽起來確實是一個大冒險。",
+          "time": null
+        },
+        {
+          "text": "3. jump 跳\nWhat about you? 你呢?\nI dream about jumping from a high cliff into the crystal clear sea water!\n我夢想從高高的懸崖跳進清澈的海裡!\nWow, and you can't even swim! 而你甚至不會游泳。",
+          "time": null
+        },
+        {
+          "text": "4. do 做\nThat's what makes it an adventure! 那才叫做冒險!\nYou do new things! 你做新的事情!",
+          "time": null
+        }
+      ],
+      "postscript": "你想做什麼新的事情呢?\nfly飛行\nin the sky在天上\njump跳\ndo做"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the man use to heal his mind?",
+        "options": [
+          "a. Bandages",
+          "b. A fever",
+          "c. Therapy"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What new adventure did the man find?",
+        "options": [
+          "a. Healing",
+          "b. Surprising",
+          "c. Skydiving"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How fast does the man fall through the air?",
+        "options": [
+          "a. 190 miles an hour",
+          "b. 190 kilometers an hour",
+          "c. 190 meters a minute"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
