@@ -1899,5 +1899,107 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240530-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life Education",
+      "Social Studies"
+    ],
+    "title": "It's Raining Marshmallows for Kids",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240529NK.mp3",
+    "content": [
+      {
+        "en": "And now for the weather forecast! It's going to rain. But it's a great day to come to this park. Believe it or not, it's going to rain marshmallows here! Yes, it's going to rain white, fluffy marshmallows!",
+        "tw": "今天的天氣狀況如何呢?雖然會下雨，但還是一個適合來這個公園的天氣，而且你信不信待會還會下棉花糖雨!",
+        "time": null
+      },
+      {
+        "en": "Lots of kids are here at a park in Michigan, a state in the U.S. A helicopter is flying over the park. Someone in the helicopter has a very big bag! And... marshmallows are dropping from it!",
+        "tw": "這個位在美國密西根的公園裡有很多小朋友。現在有一台直升機飛過，機上的大袋子掉出了很多的棉花糖。",
+        "time": null
+      },
+      {
+        "en": "That's the marshmallow rain! Fifteen thousand marshmallows are dropping!",
+        "tw": "天空下起了棉花糖雨，1萬5千個棉花糖從空中掉下來。",
+        "time": null
+      },
+      {
+        "en": "This is the Great Marshmallow Drop! It happens every year. And you know what? It's for all kids up to twelve years old! And it's for people of all ages with disabilities!",
+        "tw": "這場棉花糖雨每一年舉辦一次，開放給12歲以下的小朋友以及各種年齡的身障人士。",
+        "time": null
+      },
+      {
+        "en": "Marshmallows are yummy. But don't eat these marshmallows! They fell onto the ground! They're dirty!",
+        "tw": "棉花糖很好吃，但不要吃地上的棉花糖，它已經髒了。",
+        "time": null
+      },
+      {
+        "en": "Now every kid is picking up one marshmallow. They're very excited! They need one marshmallow to get a prize! They get candy, a coloring book, AND a water park ticket.",
+        "tw": "現在每個小孩都在撿地上的棉花糖來換獎品，他們可以拿到糖果、著色本還有水上樂園的門票。",
+        "time": null
+      },
+      {
+        "en": "Come and see the marshmallow rain at the park! Then pick up a marshmallow and get your prize!",
+        "tw": "快來公園看看棉花糖雨吧！然後撿起一顆棉花糖，領取你的獎品！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "棉花糖日是大人小孩都喜愛的節日。",
+      "content": [
+        {
+          "text": "1. weather forecast 天氣預報\nThe sky looks so dark! 天空看起來好陰沉!\nWhat did the weather forecast say? 天氣預報怎麼說?\nIt said heavy rain this afternoon. 它說今天下午會下大雨。",
+          "time": null
+        },
+        {
+          "text": "2. believe 相信\nI can't believe it! 真不敢相信!\nWe had bright sunshine all morning! 我們整個早上都陽光燦爛呢!\nI know.我知道。",
+          "time": null
+        },
+        {
+          "text": "3. candy 糖果\nSo should we still go out? 所以我們還是應該出門?\nI suggest we stay at home. 我建議我們留在家。\nI did bring marshmallows and candy.我帶了棉花糖跟糖果。",
+          "time": null
+        },
+        {
+          "text": "4. yummy 好吃的\nAnd I can make popcorn and pizza.我可以做爆米花跟披薩。\nYummy stuff! 好吃的東西。",
+          "time": null
+        }
+      ],
+      "postscript": "Please read the words with me.\nweather forecast天氣預報\nbelieve相信\ncandy糖果\nyummy好吃的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the Great Marshmallow Drop?",
+        "options": [
+          "a. A park",
+          "b. A supermarket",
+          "c. A school"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What are the marshmallows falling from?",
+        "options": [
+          "a. A helicopter",
+          "b. A tall building",
+          "c. Fluffy clouds"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What prize can you get with one marshmallow?",
+        "options": [
+          "a. A teddy bear",
+          "b. A coloring book",
+          "c. An ice cream cone"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
