@@ -1082,5 +1082,108 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20240116-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Gender Equality",
+      "Life on Land",
+      "Partnerships for the Goals",
+      "Gender Equality Education",
+      "Family Education",
+      "Character Education",
+      "Life Education",
+      "Multicultural Education",
+      "Outdoor Education",
+      "International Education",
+      "Social Studies",
+      "Health and Physical Education",
+      "Integrative Activities"
+    ],
+    "title": "Dozens of Dads Clap for Kids",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240115NK.mp3",
+    "content": [
+      {
+        "en": "There's a cool team of dads in the USA: The Flash Dads!",
+        "tw": "美國有一群很酷的爸爸團隊，叫做快閃爸爸。",
+        "time": null
+      },
+      {
+        "en": "They're tall dads, short dads, young dads, and granddads! They're thin dads, strong dads, dads with glasses, and dads with beards! There are lots of different Flash Dads, with lots of different jobs. There are firefighter dads, police officer dads, teacher dads, mailman dads, and doctor dads!",
+        "tw": "這群爸爸有老的、有年輕的、有的戴眼鏡、有的留鬍子，職業包括警察、老師、郵差等等，都不一樣。",
+        "time": null
+      },
+      {
+        "en": "They're dads who care about kids. They're fun, friendly, and full of smiles! And, they want to help all kids start their day right: feeling great!",
+        "tw": "但是他們都很關心小朋友，希望小朋友有好心情展開新的一天。",
+        "time": null
+      },
+      {
+        "en": "Dozens of Flash Dads go to a different school every month. Their visit is a surprise! They get to the school early in the morning. As students arrive, the Flash Dads cheer, clap, and high-five them all the way into class! They make the kids feel so happy!",
+        "tw": "這群快閃爸爸每個月到不同的學校，他們一起歡呼、拍手、擊掌歡迎學生進教室上課。",
+        "time": null
+      },
+      {
+        "en": "It's such a fun way to start the day! The Flash Dads cheer for every kid. They show up for all kids, not just their own. The Flash Dads want every student to start the day full of energy and feeling great! Good job, Flash Dads!",
+        "tw": "快閃爸爸們不只是為自己的孩子加油，還替所有的小朋友加油。快閃爸爸們希望每個學生都能充滿活力、感覺很棒地開始每一天！做得好，快閃爸爸們！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "快閃爸爸會到學校裡替小朋友加油。",
+      "content": [
+        {
+          "text": "1. cheer 歡呼加油\nI'm going to join the Taipei Marathon next year. 我明年要參加台北馬拉松。\nWow! Good for you! 哇，好樣的!\nWill you come and cheer for me? 你會來幫我加油嗎?",
+          "time": null
+        },
+        {
+          "text": "2. strong 強壯的\nI'll be happy to! 我很樂意。\nI didn't know you're so strong. 我不知道你那麼強壯。\nYou don't need to be strong to run in a marathon. 跑馬拉松並不需要很壯。",
+          "time": null
+        },
+        {
+          "text": "3. full of 充滿\nBut you do need a lot of energy. 但是你需要很多力氣。\nI am full of energy. 我是精力充沛。",
+          "time": null
+        },
+        {
+          "text": "4. police 警察\nI used to be traffic police, remember? 我以前是交通警察，記得嗎?\nSo you needed to chase bad guys? 所以你要追壞人?\nNo, I needed to blow the whistle. 不，我需要吹哨子。",
+          "time": null
+        }
+      ],
+      "postscript": "Let's cheer each other every day! cheer歡呼加油 strong強壯的 full of充滿 police警察"
+    },
+    "quiz": [
+      {
+        "question": "1. Who goes to a different school every month?",
+        "options": [
+          "a. The Flash Dads",
+          "b. The Fast Dads",
+          "c. The Flat Dads"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What does the team do?",
+        "options": [
+          "a. Go to school late",
+          "b. Clap and high-five",
+          "c. Study in class"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Who does the team show up for?",
+        "options": [
+          "a. Teachers",
+          "b. Their own kids",
+          "c. Every kid"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
