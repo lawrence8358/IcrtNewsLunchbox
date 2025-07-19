@@ -1,0 +1,110 @@
+ [
+  {
+    "id": "20240216-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Industry, Innovation and Infrastructure",
+      "Life on Land",
+      "Technology Education",
+      "Information Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Technology"
+    ],
+    "title": "AI Makes Crunchy Chips Quiet",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240215NK.mp3",
+    "content": [
+      {
+        "en": "Do you like potato chips, corn chips, or other crunchy food? Many gamers like crunchy food. They crunch on chips. They play games on their computers and crunch.",
+        "tw": "你喜歡吃酥脆的零食嗎? 很多遊戲玩家喜歡邊打電玩邊吃洋芋片。",
+        "time": null
+      },
+      {
+        "en": "Using a microphone, they talk to other gamers. Some gamers crunch and talk to other gamers... at the same time!",
+        "tw": "玩家會用麥克風跟其他的玩家對話，有一些玩家也會邊吃邊講話。",
+        "time": null
+      },
+      {
+        "en": "But many people don't like to hear crunching! It's annoying! But now Artificial Intelligence, or AI, can help. It erases crunching! How?",
+        "tw": "可是很多人不喜歡聽到這種討人厭的喀滋聲! 現在人工智慧 AI 可以幫忙消除噪音，怎麼做到的呢?",
+        "time": null
+      },
+      {
+        "en": "Five hundred people crunched chips in front of a microphone. They did this ten times. AI learned these 5,000 crunching sounds.",
+        "tw": "500個人在麥克風前吃洋芋片，每個人吃十次，讓 AI 學習這種噪音。",
+        "time": null
+      },
+      {
+        "en": "It also learned talking sounds. It learned that crunching and talking sounds are different. AI learned to erase crunching sounds but keep talking sounds.",
+        "tw": "它也學習分辨咀嚼聲跟說話的聲音，就可以消除噪音。",
+        "time": null
+      },
+      {
+        "en": "A company made an app that uses this AI. People can use this app with microphones on a computer. They hear themselves crunching. People in the same room hear them crunching. But... the people they're talking to on the computer don't hear crunching!",
+        "tw": "有公司利用這項 AI 技術研發出應用軟體，玩家把這個軟體用在電腦的麥克風上，就可以大快朵頤洋芋片，對方都聽不到。",
+        "time": null
+      },
+      {
+        "en": "With this app, you can crunch, crunch, crunch and talk to people on the computer. And you won't be annoying!",
+        "tw": "有了這個應用程式，你就可以在電腦前邊吃邊講話，而且不會讓人覺得討厭！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "人工智慧應用軟體，可以消除吃東西的聲音!",
+      "content": [
+        {
+          "text": "1. potato 馬鈴薯\nPotato chips! 洋芋片!\nYeah, would you like some? 沒錯，你要吃一點嗎?\nNo. Potato chips are not good.不了，洋芋片不大好。",
+          "time": null
+        },
+        {
+          "text": "2. make 讓\nThey are too salty. 它太鹹了。\nThey make me thirsty. 會讓我口渴。\nYou're very careful with what you eat. 你對吃的東西真小心。\nAre you sure you don't want some? 你確定不要來幾片?",
+          "time": null
+        },
+        {
+          "text": "3. corn 玉米\nNo, thank you. I prefer corn chips. 不了，多謝，我比較喜歡玉米片。\nThe ones without salt. 沒有鹽的那種。\nOh, I like those too. 我也喜歡那種。",
+          "time": null
+        },
+        {
+          "text": "4. in front of 在前面\nI love sitting in front of the TV and eating corn chips and salsa.\n我最愛坐在電視前面吃玉米片配莎莎醬。\nLet's do it tonight.我們今晚就來吃。",
+          "time": null
+        }
+      ],
+      "postscript": "我們來讀今天的單字。\npotato馬鈴薯\nmake讓\ncorn玉米\nin front of在前面"
+    },
+    "quiz": [
+      {
+        "question": "1. How many crunching sounds did AI learn?",
+        "options": [
+          "a. 500",
+          "b. 5,000",
+          "c. 5 million"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What did AI learn to do with crunching sounds?",
+        "options": [
+          "a. Erase them",
+          "b. Talk to them",
+          "c. Chew them"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What is 'AI' short for?",
+        "options": [
+          "a. Alien Intelligence",
+          "b. American Intelligence",
+          "c. Artificial Intelligence"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  }
+]
