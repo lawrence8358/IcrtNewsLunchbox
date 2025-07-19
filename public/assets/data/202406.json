@@ -703,5 +703,108 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20240613-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Quality Education",
+      "Life Education",
+      "International Education"
+    ],
+    "title": "Poland's Elementary Schools Have New Homework Rules",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240612NK.mp3",
+    "content": [
+      {
+        "en": "School's done! It's time to go home and eat dinner! Then it's time to play or chill with your friends. This is your free time! You can do what you want … right?",
+        "tw": "放學了，該回家吃晚餐。在那之後是你的休閒時間，可以跟朋友一起玩，做任何你想做的事，對吧?",
+        "time": null
+      },
+      {
+        "en": "WRONG! Sorry! You've got homework to do... LOTS of homework!",
+        "tw": "你錯了! 你還有很多功課要做!",
+        "time": null
+      },
+      {
+        "en": "Kids get homework in many countries. But not in Poland! This country has new rules about homework in elementary school.",
+        "tw": "很多國家的小朋友都有作業，但波蘭的小朋友沒有，因為對小學作業有新的規定。",
+        "time": null
+      },
+      {
+        "en": "In Poland, elementary school is from Grades 1 to 8. Kids in Grades 1 to 3 get NO homework at all. Kids in Grades 4 to 8 can do homework... if they want. If they don't want to do it, that's okay!",
+        "tw": "波蘭的小學有八個年級。一到三年級的小朋友沒有回家作業，四到八年級可以選擇要不要做。",
+        "time": null
+      },
+      {
+        "en": "Kids in Poland can do what they want after school. They have lots of free time!",
+        "tw": "波蘭的小朋友放學後可以做任何他們想做的事。他們有很多休閒時間。",
+        "time": null
+      },
+      {
+        "en": "Poland says its kids can learn better now. Before, they were tired, stressed, and overworked. When kids are very tired, remembering things is difficult. That makes learning very difficult!!",
+        "tw": "波蘭政府說這樣反而讓小朋友的學習更好。之前他們覺得累、有壓力甚至過度疲勞，無法好好記住知識，讓學習變得很困難。",
+        "time": null
+      },
+      {
+        "en": "Poland says kids won't be tired and overworked now. And kids will be less stressed too. What do you think? Do you want Taiwan to have these homework rules?",
+        "tw": "波蘭政府表示，現在孩子們將不再感到疲憊和過度勞累，壓力也會減輕。你怎麼看呢？你希望台灣也有這樣的作業規定嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "波蘭的小學生，多半可以自由選擇是不是要做回家功課。",
+      "content": [
+        {
+          "text": "1. remember 記得 Remember elementary school? 還記得小學嗎? How can I forget it? 我怎麼會忘記? I had quite a few mean teachers.我碰到好幾個很兇的老師。",
+          "time": null
+        },
+        {
+          "text": "2. stressed 有壓力 Did you feel stressed out? 你覺得壓力很大嗎? Yeah, but it was because of my parents. 是啊，不過是因為我爸媽。 They wanted me and my sister to get good grades. 他們要我和姊姊有好成績。",
+          "time": null
+        },
+        {
+          "text": "3. free time 自由時間 The only free time we got was after school and before dinner. 我們的自由時間只有在放學後晚飯前。 So you tried to have fun.所以你們儘量玩。",
+          "time": null
+        },
+        {
+          "text": "4. lots of 很多 Yeah, how did you know that? 對啊，你怎麼知道? We watched lots and lots of TV, 我們看好多電視，and played with our dogs.還跟小狗玩。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你可記得? remember記得 stressed有壓力 free time自由時間 lots of很多"
+    },
+    "quiz": [
+      {
+        "question": "1. Which country has new rules about homework?",
+        "options": [
+          "a. Portugal",
+          "b. Pakistan",
+          "c. Poland"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What makes remembering things difficult?",
+        "options": [
+          "a. Being tired",
+          "b. Being free",
+          "c. Being chill"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. In this story, who gets NO homework at all?",
+        "options": [
+          "a. Kids in Grades 1 to 3",
+          "b. Kids in Grades 4 to 8",
+          "c. Kids in Grades 8 to 12"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
