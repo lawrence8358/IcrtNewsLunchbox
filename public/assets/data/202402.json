@@ -430,5 +430,113 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240221-01",
+    "type": "國小",
+    "tag": [
+      "Technology Education",
+      "Technology",
+      "Social Studies",
+      "Integrative Activities"
+    ],
+    "title": "Customers Think Woman is a Robot",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240220NK.mp3",
+    "content": [
+      {
+        "en": "Do you like to pretend? Some kids pretend to be cowboys or cowgirls riding horses. Others pretend to drive fast cars. Some kids pretend to be robots.",
+        "tw": "有的小朋友喜歡裝成牛仔騎馬或是假裝開快車，有的也會裝成機器人。",
+        "time": null
+      },
+      {
+        "en": "Many people like robots in restaurants. People like to tell these robots what they want to eat. Robots are cool!",
+        "tw": "很多人喜歡餐廳裡的機器人，覺得它們很酷，也喜歡跟它們點餐。",
+        "time": null
+      },
+      {
+        "en": "In China, Ms. Qin pretends to be a robot. This woman owns a restaurant. She pretends there.",
+        "tw": "在中國，有一位秦小姐在她的火鍋店裡裝作是個機器人。",
+        "time": null
+      },
+      {
+        "en": "Ms. Qin takes customers to their tables. She walks with many small moves. She moves and stops, moves and stops.",
+        "tw": "秦小姐幫客人帶位時，她用許多小小的移動來走路，移動，停，移動，停。",
+        "time": null
+      },
+      {
+        "en": "Ms. Qin doesn't look happy or sad. Her face and her eyes don't move. Many new customers think she's a robot!",
+        "tw": "她的臉跟眼睛一動也不動，看不出她是開心還是難過，很多新客人覺得她是一個機器人。",
+        "time": null
+      },
+      {
+        "en": "News reporters heard about Ms. Qin. They went to her restaurant. They asked her questions. They found out she wasn't a robot!",
+        "tw": "記者到她的火鍋店採訪，才發現她根本不是機器人。",
+        "time": null
+      },
+      {
+        "en": "Ms. Qin likes to pretend to be a robot. Why? It's because she likes to dance. She's a good dancer, so she can move well.",
+        "tw": "那秦小姐為什麼喜歡扮成機器人呢?因為她喜歡跳舞，也是一位厲害的舞者。",
+        "time": null
+      },
+      {
+        "en": "Now many people know Ms. Qin is not a robot. But they like to watch her pretend to be a robot!",
+        "tw": "現在很多人都知道秦小姐不是機器人。但他們還是喜歡看她假裝成機器人！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "假裝成機器人，這還真需要一點本領。",
+      "content": [
+        {
+          "text": "1. kid 小孩\nIf you could pretend to be someone else, who would you like to be?\n要是你可以假裝成別人，你想假裝成誰呢?\nGeorge Clooney's wife? 喬治克隆尼的太太?\nNo, be serious. 認真一點。\nOkay, the kid in Wonka.電影《旺卡》裡的小孩。",
+          "time": null
+        },
+        {
+          "text": "2. walk 走路\nSo I could walk through the chocolate factory. 我就可以走過巧克力工廠。\nThat sounds magical! 聽起來很夢幻。",
+          "time": null
+        },
+        {
+          "text": "3. drive 駕駛\nI'd like to drive a spacecraft. 我想要駕駛太空船。\nYou don't drive.不是駕駛太空船。\nYou fly a spacecraft. 你開太空船。",
+          "time": null
+        },
+        {
+          "text": "4. dancer 跳舞者\nI thought you'd like to be a dancer.我以為你想當跳舞的人。\nI don't need to pretend. 我不需要假裝。\nI'm already a dancer. 我已經是舞者。",
+          "time": null
+        }
+      ],
+      "postscript": "Let's read the words.\nkid小孩\nwalk走路\ndrive駕駛\ndancer跳舞者"
+    },
+    "quiz": [
+      {
+        "question": "1. What is Ms. Qin?",
+        "options": [
+          "a. A restaurant owner",
+          "b. A robot owner",
+          "c. A reporter"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What does Ms. Qin like to do?",
+        "options": [
+          "a. Drive fast cars",
+          "b. Ride horses",
+          "c. Dance"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What does Ms. Qin pretend to be?",
+        "options": [
+          "a. A woman",
+          "b. A customer",
+          "c. A robot"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
