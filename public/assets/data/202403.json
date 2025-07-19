@@ -1058,5 +1058,124 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240318-01",
+    "type": "國小",
+    "tag": [
+      "Zero Hunger",
+      "No Poverty",
+      "Affordable and Clean Energy",
+      "Industry, Innovation and Infrastructure",
+      "Life on Land",
+      "Partnerships for the Goals",
+      "Marine Education",
+      "Environmental Education",
+      "Technology Education",
+      "Energy Education",
+      "Multicultural Education",
+      "Outdoor Education",
+      "International Education",
+      "Technology",
+      "Natural Sciences"
+    ],
+    "title": "Sunshine Kettle",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240315NK.mp3",
+    "content": [
+      {
+        "en": "It's spring! The sun is shining. It makes flowers bloom. It makes the weather warmer.",
+        "tw": "春天來了！陽光普照。它讓花朵綻放。它讓天氣變暖和。",
+        "time": null
+      },
+      {
+        "en": "Electricity makes TVs and lights work. Fuel makes planes and cars move. What makes the sun shine?",
+        "tw": "電視跟電燈靠電力運作，飛機跟汽車則依賴燃油推動。那太陽靠著什麼發光呢?",
+        "time": null
+      },
+      {
+        "en": "The sun is made of many very small things called atoms. These atoms like to bounce around very fast. Sometimes, they hit each other hard and stick together! When this happens, the atoms become one bigger thing!",
+        "tw": "太陽由很小的原子組成。這些原子會互相碰撞融合，成為更大的東西。",
+        "time": null
+      },
+      {
+        "en": "Lots of energy comes out. It makes the sun shine! This is nuclear fusion!",
+        "tw": "這就是核融合，這個過程會釋放很多能量，讓太陽發光。",
+        "time": null
+      },
+      {
+        "en": "We need this kind of energy. It's good energy. It won't make the environment dirty. So scientists are trying to copy the sun. But it's hard!",
+        "tw": "我們需要這種能源，因為它不會汙染環境。",
+        "time": null
+      },
+      {
+        "en": "Scientists used many strong lights called lasers. They used lasers to shoot at atoms. This made the atoms bounce around very fast and hit each other - just like a mini sun!",
+        "tw": "科學家對著原子發出雷射光，讓原子產生反應互相碰撞，就像一顆迷你的太陽。",
+        "time": null
+      },
+      {
+        "en": "Some energy came out. The electricity from this energy can boil water in a kettle. Scientists are trying to make better mini suns. The world needs lots of energy!",
+        "tw": "釋放的能源還可以燒開水。科學家努力製造更好的迷你太陽，因為世界需要很多能源。",
+        "time": null
+      },
+      {
+        "en": "Scientists are working on nuclear fusion so we can have a better world!",
+        "tw": "科學家正致力於核融合技術，這樣我們就能擁有一個更美好的世界！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家努力模仿太陽的作用，希望產生更多能源。",
+      "content": [
+        {
+          "text": "1. each other 彼此\nDo you see that boy and girl? 你看到那個男孩跟女孩嗎?\nDo you see how they look at each other? 你有看到他們怎麼看彼此嗎?",
+          "time": null
+        },
+        {
+          "text": "2. happen 發生\nYeah, what about it? 看到了，又怎樣呢?\nTheir eyes are shining. 他們的眼睛發亮。\nSo they're in love. 所以他們在談戀愛。\nNo, that's not what's happening. 不對，不是那樣。",
+          "time": null
+        },
+        {
+          "text": "3. energy 能源、能量\nThen what do you think is happening? 那你覺得發生了什麼事?\nThere's this energy between them. 他們之間有一種能量。",
+          "time": null
+        },
+        {
+          "text": "4. light 光線\nRight, the energy of love. 對，愛的能量。\nNo, it's the energy of light. 不對，是光的能量。\nYou're weird, you know that? 你是個怪人，你知道嗎?",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字很好用。\neach other彼此\nhappen發生\nenergy能源、能量\nlight光線"
+    },
+    "quiz": [
+      {
+        "question": "1. What makes planes and cars move?",
+        "options": [
+          "a. Electricity",
+          "b. Fuel",
+          "c. Wind"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What are the scientists trying to copy?",
+        "options": [
+          "a. Lasers",
+          "b. Electricity",
+          "c. The sun"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What can the mini sun do now?",
+        "options": [
+          "a. Light rooms",
+          "b. Cool food",
+          "c. Boil water"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
