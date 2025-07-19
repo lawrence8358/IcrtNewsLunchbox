@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20240902-01",
     "type": "國小",
@@ -94,6 +94,107 @@
           "a. About two",
           "b. About six",
           "c. About fifty"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
+    "id": "20240903-01",
+    "type": "國小",
+    "tag": [
+      "Climate Action",
+      "Life on Land",
+      "Responsible Consumption and Production",
+      "Sustainable Cities and Communities",
+      "Environmental Education",
+      "Disaster Risk Reduction Education",
+      "Natural Sciences"
+    ],
+    "title": "Scientists Say It's Raining More… And Less",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240902NK.mp3",
+    "content": [
+      {
+        "en": "Do your mom and dad say it's raining more? Because of climate change, it is. Air holds more water in our warmer world.",
+        "tw": "你爸媽有說過雨越下越多嗎?沒有錯，因為氣候變遷的關係，氣候暖化讓空氣中有更多的水分。",
+        "time": null
+      },
+      {
+        "en": "Scientists say it's raining much more during wet times, and much less during dry times. And these changes are causing problems.",
+        "tw": "科學家說雨季的雨水越來越多，乾季越來越乾燥，這些變化都會造成問題。",
+        "time": null
+      },
+      {
+        "en": "Too much rain can cause floods. There's too much water everywhere. Heavy rain and floods damage farmers' crops. They damage homes, roads, and bridges. Floods keep us from leaving our homes or schools. Flood water is dirty and can make us sick!",
+        "tw": "雨太大會造成水災，會破壞農作物、家園、道路跟橋梁，我們只能待在家裡或學校。水災的髒水還會讓人生病。",
+        "time": null
+      },
+      {
+        "en": "Too little rain can cause droughts. There's too little water for everything. Droughts hurt farmers. They need lots of water to grow crops. In Taiwan, droughts hurt some technology companies. They need lots of water to make their products. And droughts hurt us! We need water for a healthy life!",
+        "tw": "雨太少會引起乾旱。乾旱讓農作物無法生長，也影響科技公司製作產品，還會影響我們的健康。",
+        "time": null
+      },
+      {
+        "en": "We can't stop floods or droughts. But we can all help Taiwan have a little more water every day. We can take shorter showers. We can turn off the water when we brush our teeth or wash dishes.",
+        "tw": "我們沒辦法阻止水災或乾旱，但我們可以每天為台灣省多一點水，洗澡洗快一點，刷牙、洗碗的時候把水關掉。",
+        "time": null
+      },
+      {
+        "en": "Can you think of more ways?",
+        "tw": "你能想到更多方法嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "雨水太多會造成水災，不夠的話又變成旱災。",
+      "content": [
+        {
+          "text": "1. too much 太多 It's raining like crazy out there! 外面的雨下得真瘋狂! Yeah, just yesterday I was worried about my tomatoes getting too much sun.",
+          "time": null
+        },
+        {
+          "text": "2. too little 太少 Now it's too much water.現在是水太多了。But when there's too little rain 但是雨水太少的時候…I would be worried too.我又會擔心。",
+          "time": null
+        },
+        {
+          "text": "3. farmer 農夫 I really don't want to grow anything anymore. 我真的什麼都不想種了。I'm not a good farmer. 我就不是好農夫。",
+          "time": null
+        },
+        {
+          "text": "4. problem 問題。Hey, blame it on climate change. 要怪氣候改變吧。It's the weather that's causing problems, not you.",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like rain? 一起來讀單字。too much太多too little太少farmer農夫problem問題"
+    },
+    "quiz": [
+      {
+        "question": "1. What can too much rain cause?",
+        "options": [
+          "a. Snow",
+          "b. Floods",
+          "c. Hot weather"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What can too little rain cause?",
+        "options": [
+          "a. Droughts",
+          "b. Typhoons",
+          "c. More rain"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What can we do to save water?",
+        "options": [
+          "a. Take longer showers",
+          "b. Take hotter showers",
+          "c. Take shorter showers"
         ],
         "time": null,
         "answer": "c"
