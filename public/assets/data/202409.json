@@ -496,5 +496,106 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240909-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education",
+      "International Education"
+    ],
+    "title": "Saying Goodbye With Fantasy Coffins",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240906NK.mp3",
+    "content": [
+      {
+        "en": "Ghost Month is done.",
+        "tw": "農曆鬼月已經結束囉。",
+        "time": null
+      },
+      {
+        "en": "When a person's life is done, they might be put in a coffin. Then their family and friends say goodbye to them.",
+        "tw": "人的生命結束的時候，他可能會被放進棺材裏面。他的親友會再跟他道別。",
+        "time": null
+      },
+      {
+        "en": "Most coffins are long boxes. Most are made of wood. But sometimes the person has a very different coffin!",
+        "tw": "多數棺材是長長的木製箱子。不過有時候還是有特殊的棺材。",
+        "time": null
+      },
+      {
+        "en": "In Africa, Ghana makes fantasy coffins. They can look like something the person loved: a superhero lunch box, a golden lion, or a cool sports car! Or they can be about the person's job: a red pen for a teacher or bread for a baker!",
+        "tw": "西非國家迦納很會製作一些特殊的、是這個人會喜歡的棺材。像是超級英雄的便當盒、金色的獅子、很酷的跑車，或是跟職業有關，比如說老師用的紅筆、麵包師傅的麵包。",
+        "time": null
+      },
+      {
+        "en": "A UK company makes fantasy coffins too. Some look like skateboards or ballet shoes! Some look like trains, guitars, or cellphones!",
+        "tw": "英國有一家公司也會做特殊的棺材。有的像滑板、芭蕾舞鞋、火車、吉他甚至手機。",
+        "time": null
+      },
+      {
+        "en": "One man got an airplane coffin... before he needed it. He liked it very much. He wanted his friends to see it. So he had a big party! Ten years later, when his life was done, everyone remembered that happy party.",
+        "tw": "有個男子在他需要之前就拿到飛機棺材。他非常喜歡，也希望他的朋友都可以看到，所以舉辦了一場盛大的派對。十年後，他離開了，大家都還記得那個開心的派對。",
+        "time": null
+      },
+      {
+        "en": "Fantasy coffins make family and friends smile. People remember happy times with the person. For some, they're a great way to say goodbye.",
+        "tw": "奇幻棺材讓家人和朋友感到開心。人們會想起和逝者的快樂時光。對某些人來說，這是告別逝者的一個好方式。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "特殊形狀的棺木，可以彰顯往生者最大的特色。",
+      "content": [
+        {
+          "text": "1. look like 看起來像。 I think it's a great idea! 我覺得這真的是很棒的主意! What? 什麼呢? Coffins that look like animals, trains or sports cars. 模仿動物，火車或是跑車的棺木。",
+          "time": null
+        },
+        {
+          "text": "2. like 喜歡。 Sports cars, hmmm, that sounds a lot of fun! 跑車，聽起來真好玩! Well, I like the idea too.我也喜歡這個主意。 Imagine having an elephant coffin! 想想看，一個大象棺木!",
+          "time": null
+        },
+        {
+          "text": "3. remember 記得。 Wouldn't it be great? 可不是很棒嗎? It's a nice way to remember the people you love. 用這好方式來紀念你所愛的人。",
+          "time": null
+        },
+        {
+          "text": "4. say goodbye 道別。 And it can make saying goodbye less painful. 也可以讓道別比較不痛苦。Yeah, it will make family and friends feel better. 對，會讓親友感覺好一些。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。 look like看起來像 like喜歡 remember記得 say goodbye道別"
+    },
+    "quiz": [
+      {
+        "question": "1. What are most coffins made of?",
+        "options": [
+          "a. Wood",
+          "b. Bread",
+          "c. Gold"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What kind of coffins are there in Ghana?",
+        "options": [
+          "a. Fancy Coffins",
+          "b. Fantasy Coffins",
+          "c. Fun Coffins"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Where is the company that makes fantasy coffins?",
+        "options": [
+          "a. Ukraine",
+          "b. UK",
+          "c. Uganda"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
