@@ -631,6 +631,127 @@
     ]
   },
   {
+    "id": "20240110-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Quality Education",
+      "Industry, Innovation and Infrastructure",
+      "Sustainable Cities and Communities",
+      "Life on Land",
+      "Partnerships for the Goals",
+      "Environmental Education",
+      "Technology Education",
+      "Energy Education",
+      "Family Education",
+      "Life Education",
+      "Safety Education",
+      "Disaster Risk Reduction Education",
+      "Life Planning Education",
+      "Multicultural Education",
+      "Reading Literacy Education",
+      "Outdoor Education",
+      "International Education",
+      "Social Studies",
+      "Technology",
+      "Natural Sciences",
+      "Health and Physical Education"
+    ],
+    "title": "This Ferryboat Flies",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240109NK.mp3",
+    "content": [
+      {
+        "en": "People in Sweden made a flying ferryboat! Wait... what's a ferryboat?",
+        "tw": "瑞典人發明了一艘飛行渡輪！等等…什麼是渡輪？",
+        "time": null
+      },
+      {
+        "en": "Ferryboats are buses on water. They carry many people. People use them to go to work or school. Some ferries carry cars too.",
+        "tw": "Ferryboat渡輪就像水上的公車，載人上班、上學，也可以載車子。",
+        "time": null
+      },
+      {
+        "en": "Ferries need to push lots of water so they can move. That takes a lot of energy. All that water makes ferries slow. It also makes ferries move side to side and up and down. Many people feel seasick.",
+        "tw": "渡輪需要很大的動力才能往前走。水流會讓渡輪的速度變慢，也會搖晃。很多人會因此暈船。",
+        "time": null
+      },
+      {
+        "en": "The flying ferry from Sweden can carry thirty people. It doesn't carry cars. It starts in the water. Then it flies close above the water!",
+        "tw": "瑞典的飛行渡輪可以搭載30個人，它不載車子。它從海上起飛並在海面上飛行。",
+        "time": null
+      },
+      {
+        "en": "This flying ferry doesn't need to push water to move, so it doesn't use a lot of energy. It's very fast. And it doesn't move side to side or up and down. People don't get seasick.",
+        "tw": "這艘飛行渡輪速度非常快，而且不需要消耗很多的動力，也不會搖晃。",
+        "time": null
+      },
+      {
+        "en": "And this ferry is electric! That helps the Earth. Electricity costs ninety percent less than the fuel for other ferries. What a huge saving! That helps ferry companies.",
+        "tw": "這艘渡輪是電動的！電力的花費比燃油便宜九成，所以電動飛行渡輪幫助地球也幫助渡輪公司。",
+        "time": null
+      },
+      {
+        "en": "Electric flying ferries are good for people, ferry companies, and the Earth! Can we have them in Taiwan?",
+        "tw": "電動飛行渡輪對人類、渡輪公司和地球都有益處！我們在台灣也能擁有它們嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "瑞典的飛行渡輪解決了許多問題。",
+      "content": [
+        {
+          "text": "1. seasick 暈船 A flying ferryboat. 一艘飛行渡輪。 What a good idea! 好棒的主意! Yeah, I've never liked taking boats. 對啊，我從來就不愛搭船。 They make me feel seasick. 會讓我暈船。",
+          "time": null
+        },
+        {
+          "text": "2. carry 搭載 But this one seems different. 但是這艘好像不一樣。 I just hope it can carry my bike, too. 我只希望它也能載腳踏車。",
+          "time": null
+        },
+        {
+          "text": "3. need 需要 Why do you need your bike? 為什麼需要腳踏車? I need it to go to school. 我需要騎車上學啊。",
+          "time": null
+        },
+        {
+          "text": "4. water 水 It lands on water… 它降落在水上... So how do you ride your bike? 所以你要怎麼騎車? It should get close to a dock. 它應該會靠碼頭。 Then I can ride it down the ramp. 然後我就可以騎車下坡道。",
+          "time": null
+        }
+      ],
+      "postscript": "你有搭過渡輪嗎? 來讀單字。 seasick暈船 carry搭載 need需要 water水"
+    },
+    "quiz": [
+      {
+        "question": "1. What does the flying ferry carry?",
+        "options": [
+          "a. Cars and people",
+          "b. Cars",
+          "c. People"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What is good about the flying ferry?",
+        "options": [
+          "a. It's very fast.",
+          "b. It moves side to side.",
+          "c. It makes people seasick."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What makes the flying ferry fly?",
+        "options": [
+          "a. Water",
+          "b. Electricity",
+          "c. Wind"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20240111-01",
     "type": "國小",
     "tag": [
