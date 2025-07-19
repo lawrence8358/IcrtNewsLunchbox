@@ -1975,5 +1975,124 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240328-01",
+    "type": "國小",
+    "tag": [
+      "No Poverty",
+      "Zero Hunger",
+      "Good Health and Well-Being",
+      "Decent Work and Economic Growth",
+      "Industry, Innovation and Infrastructure",
+      "Reduced Inequalities",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life on Land",
+      "Environmental Education",
+      "Energy Education",
+      "Life Education",
+      "Character Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Technology",
+      "Natural Sciences",
+      "Health and Physical Education"
+    ],
+    "title": "Out of Gas But Unstoppable",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240327NK.mp3",
+    "content": [
+      {
+        "en": "People love ordering food online. Food delivery drivers are busy! In India, one delivery driver uses his scooter to deliver food orders. But one day, it needed gas. He went to the gas station.",
+        "tw": "人們喜歡線上點餐，讓外送員都很忙碌。印度有一位外送員騎機車送訂單。有一天他的機車需要加油，就去了加油站。",
+        "time": null
+      },
+      {
+        "en": "At that time, everyone was worried about gas. Was there enough? Maybe not! So everyone wanted to buy gas. The line at the gas station was very long!",
+        "tw": "當時大家都很擔心汽油不夠，所以都去買油，讓加油站大排長龍。",
+        "time": null
+      },
+      {
+        "en": "The man waited... three hours! Then he got a new food order. This was a big problem. He didn't want his hungry customer to wait! But his scooter needed gas.",
+        "tw": "這位外送員一等就是三個小時，但是他有了新訂單，不能讓客人等。",
+        "time": null
+      },
+      {
+        "en": "The man had an idea. He used his friend's horse! He got the food. He put the red delivery bag on his back. Then he rode the horse to deliver the customer's order.",
+        "tw": "他有個主意，他可以騎朋友的馬送餐! 他騎著馬、揹著紅色外送袋去送客人訂的餐點。",
+        "time": null
+      },
+      {
+        "en": "The road was busy and noisy. But the horse walked calmly.",
+        "tw": "街道非常吵雜又擁擠，但是馬冷靜地向前走。",
+        "time": null
+      },
+      {
+        "en": "People were amazed to see a delivery driver riding a horse! Some posted pictures online of this unstoppable food delivery driver. He became famous!",
+        "tw": "路人都很驚訝看到外送員騎馬送訂單，有一些人上傳照片到網路上，讓他一炮而紅。",
+        "time": null
+      },
+      {
+        "en": "His scooter was out of gas, but this delivery driver found a cool way to do his job! Giddyap, horsey!",
+        "tw": "他的機車沒油了，但是這位外送員找到了一個很酷的方式來完成他的工作！駕！駕！小馬！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "騎馬送餐去，真是使命必達。",
+      "content": [
+        {
+          "text": "1. famous 著名的\nWhat's that long line for? 那麼長的隊伍在做什麼?\nDon't you know? That's the famous pancake store. 你不知道嗎?那是有名的鬆餅店。",
+          "time": null
+        },
+        {
+          "text": "2. wait 等待\nPeople are lining up for pancakes? 大家為了鬆餅排隊?!\nYeah, I once waited one hour standing there.\n對啊，我有一次站在那兒等了一個鐘頭。",
+          "time": null
+        },
+        {
+          "text": "3. amazed 驚訝的\nI'm amazed you'd do something like that. 我很驚訝你會做那種事。\nWell, you've never tasted their pancakes.\n因為你沒吃過他們的鬆餅。",
+          "time": null
+        },
+        {
+          "text": "4. deliver 運送\nNo, I'm amazed you didn't have it delivered to you. 不，我是驚訝你沒有叫外送。\nFor pancakes, you have to eat it nice and hot.\n鬆餅一定要吃熱呼呼的啊。",
+          "time": null
+        }
+      ],
+      "postscript": "famous著名的\nwait等待\namazed驚訝的\ndeliver運送"
+    },
+    "quiz": [
+      {
+        "question": "1. What is the man's job?",
+        "options": [
+          "a. Camera operator",
+          "b. Horse trainer",
+          "c. Food delivery driver"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How long did the man wait for gas?",
+        "options": [
+          "a. 3 minutes",
+          "b. 30 minutes",
+          "c. 3 hours"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What was the man's idea?",
+        "options": [
+          "a. Order food",
+          "b. Ride a horse",
+          "c. Become famous"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
