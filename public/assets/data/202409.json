@@ -887,5 +887,102 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20240913-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education",
+      "Good Health and Well-Being",
+      "Zero Hunger"
+    ],
+    "title": "Taiwan's Kids Get Free Milk",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20240912NK.mp3",
+    "content": [
+      {
+        "en": "Ahhhh! Milk is good for you. Most of the milk people drink comes from cows. This milk helps your bones and teeth become stronger.",
+        "tw": "牛奶對身體好，喝牛奶可以幫助骨頭跟牙齒強壯。",
+        "time": null
+      },
+      {
+        "en": "Last year, people in Taiwan drank 20 liters of milk each. But that's much less than people in Europe and Australia. Europeans drank 53 liters each. Australians drank 92 liters each!",
+        "tw": "台灣去年每人平均喝20公升的牛奶，比歐洲跟澳洲人少很多。歐洲每個人一年喝掉53公升，澳洲每人喝92公升。",
+        "time": null
+      },
+      {
+        "en": "Taiwan knows that milk is good for kids. So kids from three years old to twelve years old are getting free milk! They're getting it at school. More than one million kids in Taiwan are getting free milk. That's a lot of milk!",
+        "tw": "台灣知道牛奶對兒童的身體好，所以3到12歲，一共超過100萬個兒童可以在學校免費拿牛奶。",
+        "time": null
+      },
+      {
+        "en": "All that milk isn't cheap. Taiwan will pay more than one billion Taiwan dollars every year!",
+        "tw": "這麼多的牛奶並不便宜，每年需要多花超過十億台幣。",
+        "time": null
+      },
+      {
+        "en": "Some kids can't drink milk. But that's okay! They don't have to drink it. They are getting a kind of soy milk. It can also help their bones and teeth become stronger.",
+        "tw": "有一些兒童沒辦法喝牛奶，他們可以得到豆漿，一樣可以強化骨頭跟牙齒。",
+        "time": null
+      },
+      {
+        "en": "Milk helps kids to be strong and healthy. Now kids in Taiwan can drink more milk, for free! Kids here will be stronger and healthier. That's great! Let's drink some milk together. Cheers!",
+        "tw": "牛奶幫助孩子們強壯又健康。現在台灣的孩子們可以免費喝更多的牛奶了！這裡的孩子們將會更強壯、更健康。這真是太棒了！讓我們一起來喝點牛奶吧。乾杯！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "全台灣的小學生，從這學期開始每星期可以喝兩次免費鮮奶。",
+      "content": [
+        {
+          "text": "1. have to 必需。\nWait, will you drink your milk? 等一下，你要喝牛奶吧?\nDo I have to? I'm already full! 一定要喝嗎?我已經飽了。",
+          "time": null
+        },
+        {
+          "text": "2. drink 喝。\nThen just drink half a glass. 那就喝半杯。\nIt'll make you grow taller.會讓你長更高。\nI'm already tall. 我已經很高了。\nThat's true.那倒是真的。",
+          "time": null
+        },
+        {
+          "text": "3. bone 骨頭。\nIt'll give you healthy bones too. 牛奶也會給你健康的骨頭。\nAnd healthy bones let me jump high and run fast. 健康骨頭讓我跳得高，跑得快。\nExactly! 完全正確!",
+          "time": null
+        },
+        {
+          "text": "4. soy milk 豆漿。\nI'm happy you know that! 我真高興你知道。\nHow about soy milk? Is it good too? 那豆漿呢，也很好嗎?\nYeah, as good as milk.對，跟牛奶一樣好。",
+          "time": null
+        }
+      ],
+      "postscript": "Let's all drink more milk and soy milk. 一起來讀單字。have to必需 drink喝 bone骨頭 soy milk豆漿"
+    },
+    "quiz": [
+      {
+        "question": "1. What does milk help become stronger?",
+        "options": [
+          "a. Bones and teeth",
+          "b. Eyes and nose",
+          "c. Hands and feet"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Who will pay for the milk?",
+        "options": [
+          "a. Parents",
+          "b. Kids",
+          "c. Taiwan"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How many kids will get free milk?",
+        "options": [
+          "a. About 1,000",
+          "b. More than one million",
+          "c. About one billion"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
