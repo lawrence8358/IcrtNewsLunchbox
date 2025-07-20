@@ -425,5 +425,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20231026-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "No Poverty",
+      "Decent Work and Economic Growth",
+      "Reduced Inequalities",
+      "Life on Land",
+      "Environmental Education",
+      "Social Studies",
+      "Natural Sciences"
+    ],
+    "title": "Snails Change Vegetable Farmer's Life",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231025NK.mp3",
+    "content": [
+      {
+        "en": "Snails are small animals with a shell. They crawl very slowly. Snails leave silver lines on the ground. They eat fruit, vegetables, and many other things. Gardeners and farmers don't like snails.",
+        "tw": "蝸牛是個很小的動物，牠們吃水果、蔬菜等等，所以園丁跟農夫都不喜歡蝸牛。",
+        "time": null
+      },
+      {
+        "en": "But many people around the world like snails. They like to eat them. Some people pay a lot of money to eat snails! Where are these snails from? Sometimes they're from gardens. Many are from snail farms!",
+        "tw": "但是還是有人喜歡蝸牛，也喜歡吃牠們。那這些蝸牛來自哪裡呢? 這些蝸牛有時候是來自花園，很多是來自養殖場。",
+        "time": null
+      },
+      {
+        "en": "Mr. Chang was a vegetable farmer in Taitung. He grew vegetables for many years. It was hard work. And maybe snails made his work harder.",
+        "tw": "張先生曾經是台東的菜農，種菜很辛苦，菜田裡的蝸牛讓他更辛苦。",
+        "time": null
+      },
+      {
+        "en": "He was getting older. He wanted an easier job. Now Mr. Chang is a snail farmer. He has more than 80,000 snails! The snails need a lot of care. Small changes can kill them! But for Mr. Chang, snail farming is easier than vegetable farming.",
+        "tw": "現在張先生改養蝸牛。蝸牛需要呵護照顧，一點點的改變都會造成牠們的死亡。但是對張先生來說，養蝸牛比種菜簡單多了。",
+        "time": null
+      },
+      {
+        "en": "Mr. Chang also sells snails in cans. He sells sausages made of pork and snails too. He sells them in Taiwan, Hong Kong, and Macau.",
+        "tw": "張先生也賣蝸牛罐頭跟蝸牛香腸。除了國內，他還賣到香港跟澳門。",
+        "time": null
+      },
+      {
+        "en": "Snails changed this vegetable farmer's life. Hmmm....I'm hungry for snails now! Are you too?",
+        "tw": "蝸牛改變了這位菜農的生活。嗯…我現在想吃蝸牛了！你也是嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "不種水稻而去養蝸牛，賺的錢還更多。",
+      "content": [
+        {
+          "text": "1. garden 花園\nWhat a beautiful garden! 好漂亮的花園!\nIt reminds me of my days as a gardener. 讓我想起以前我當園丁的日子。",
+          "time": null
+        },
+        {
+          "text": "2. grow 種植\nWhat did you grow? 妳種什麼呢?\nI grew a lot of tulips.我種很多鬱金香。\nJust flowers? No fruit or vegetables? 只有花嗎? 沒有青菜水果?\nNo, tulips were trouble enough.沒有，鬱子香就夠麻煩了。",
+          "time": null
+        },
+        {
+          "text": "3. vegetable 蔬菜\nYeah, vegetables can be harder. 也對，蔬菜可能更難。\nThere would be snails and insects.會有蝸牛和昆蟲。",
+          "time": null
+        },
+        {
+          "text": "4. older 比較老的\nI may grow cherry trees when I get older.\n我年紀比較大時也許會種櫻桃樹.Cherries are delicious.櫻桃很好吃。",
+          "time": null
+        }
+      ],
+      "postscript": "Let's review these words.\ngarden花園\ngrow種植\nvegetable蔬菜\nolder比較老的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does Mr. Chang live?",
+        "options": [
+          "a. Taitung",
+          "b. Hualien",
+          "c. Yilan"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Why did Mr. Chang start farming snails?",
+        "options": [
+          "a. They need a lot of care.",
+          "b. He loves to eat them.",
+          "c. They're easier than vegetables."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Where does Mr. Chang sell his snails?",
+        "options": [
+          "a. France",
+          "b. Macau",
+          "c. Italy"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
