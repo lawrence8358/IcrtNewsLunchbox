@@ -706,5 +706,106 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230222-01",
+    "type": "國小",
+    "tag": [
+      "Technology",
+      "Education"
+    ],
+    "title": "Elderly Taiwanese Form E-Sports Team",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230221NK.mp3",
+    "content": [
+      {
+        "en": "Online games are my favorite.",
+        "tw": "我最喜歡玩線上遊戲。",
+        "time": null
+      },
+      {
+        "en": "With online games, you can play against gamers from around the world. Some gamers even play on professional e-sports teams.",
+        "tw": "線上遊戲的玩家可以跟世界各地的玩家對戰，有一些玩家甚至加入職業電競隊伍。",
+        "time": null
+      },
+      {
+        "en": "Most e-sports gamers are young. But recently, a new e-sports team was formed in Taiwan. This team is special, because all of its players are over sixty years old.",
+        "tw": "大多數的電競選手都很年輕，但最近，台灣有一支新成立的電競隊很特別，所有的隊員都超過六十歲。",
+        "time": null
+      },
+      {
+        "en": "Mrs. Chiang is one of them. She lives in New Taipei City, and she's 65 years old. A year ago, she knew nothing about computers. She decided to try gaming, and she loved it.",
+        "tw": "其中一個隊員是蔣太太。她住在新北市，今年六十五歲。一年前，她對電腦一無所知。她決定試試看打電動，結果她很喜歡。",
+        "time": null
+      },
+      {
+        "en": "Now, Mrs. Chiang practices for five hours every week. She says gaming is good for her brain, and especially for the use of her hands. She must think and move quickly to control the game.",
+        "tw": "現在，蔣太太每一星期練習五個小時。她說玩遊戲對大腦很好，也讓雙手更加靈活。",
+        "time": null
+      },
+      {
+        "en": "Recently, she played her first E-sports tournament. Her team did not win, but Mrs. Chiang still didn't give up.",
+        "tw": "最近她參加了第一場電競比賽。雖然她的隊伍輸了，但是蔣太太不會放棄。",
+        "time": null
+      },
+      {
+        "en": "For Mrs. Chiang, gaming is a way to learn about technology and keep her mind sharp. As long as she looks after her eyes and hands, she'll be playing video games for years!",
+        "tw": "對蔣太太來說，打電動是一種學習科技並保持頭腦敏銳的方式。只要她好好照顧眼睛和雙手，她就能繼續玩好幾年的電動！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "打電動可不是年輕人的專利，只要學習，一樣可以成為電競玩家。",
+      "content": [
+        {
+          "text": "1. team 隊伍。Hey, you're playing League of Legends! 嘿，你在玩英雄聯盟！Yeah, now please stop talking. 沒錯，現在不要講話。My team has to win this game! 我們隊一定要贏這一場！",
+          "time": null
+        },
+        {
+          "text": "2. practice 練習。Oh, no no no ! 不要啊！So you've lost? 所以你們輸掉了？We did. 沒錯。We didn't practice enough. 我們練習得不夠。",
+          "time": null
+        },
+        {
+          "text": "3. world 世界。But we were up against the best players in the world. 不過我們是對抗全世界最棒的玩家。In the world? 全世界嗎？Of course. 當然啦。",
+          "time": null
+        },
+        {
+          "text": "4. hand 手。Those players moved their hands much more quickly. 那些玩家的手動作快很多。But you guys have a better brain. 但是你們的腦袋比較好。Probably not. 可能沒有。",
+          "time": null
+        }
+      ],
+      "postscript": "你可以試試看用這些單字造句。team 隊伍 practice 練習 world 世界 hand 手"
+    },
+    "quiz": [
+      {
+        "question": "1. What is the name for professional online gaming?",
+        "options": [
+          "A: E-sports",
+          "B: Game sports",
+          "C: Net sports"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "2. How much time does Mrs. Chiang practice each week?",
+        "options": [
+          "A: 1 hour",
+          "B: 5 hours",
+          "C: 10 hours"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "3. What does Mrs. Chiang think gaming is good for?",
+        "options": [
+          "A: Her heart",
+          "B: Her brain",
+          "C: Her mood"
+        ],
+        "time": null,
+        "answer": "B"
+      }
+    ]
   }
 ]
