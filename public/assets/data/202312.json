@@ -852,5 +852,101 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20231219-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education",
+      "International Education"
+    ],
+    "title": "Mysteries of 100,000 Old Coins Found in Japan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231218NK.mp3",
+    "content": [
+      {
+        "en": "Scientists found 100,000 very old coins in Japan! Now they have many mysteries to solve!",
+        "tw": "科學家在日本找到10萬個古老硬幣! 現在他們有很多謎團要解開!",
+        "time": null
+      },
+      {
+        "en": "The owner of the coins is a mystery. But the person who put the coins in the ground is a mystery too. Maybe the owner buried the coins. Or... maybe thieves buried them!",
+        "tw": "這些硬幣的主人是誰，又是誰把它們埋進了土裡? 可能是硬幣的主人，也可能是小偷。",
+        "time": null
+      },
+      {
+        "en": "The reason the coins were buried is a mystery. Maybe the owner was worried about a war or was hiding them from a king. Maybe the coins were too heavy for thieves!",
+        "tw": "為甚麼要埋這些錢呢? 硬幣主人可能擔心戰爭，或是被國王搶走。還是小偷覺得太重了!",
+        "time": null
+      },
+      {
+        "en": "The coins are a mystery. The oldest are 2,000 years old! Why did the owner have these very old coins? Maybe the owner liked old coins. Maybe in the owner's family, the coins went from parent to child many, many, many times!",
+        "tw": "這些硬幣有的可以追溯到2000年前，也許這個人就喜歡收集古錢，也有可能傳了好幾代。",
+        "time": null
+      },
+      {
+        "en": "Many of the coins are Chinese. Maybe Chinese traders came here many times. Maybe Japanese traders went to China.",
+        "tw": "很多硬幣來自中國。也許中國貿易商來過日本很多次，或是日本商人去過中國。",
+        "time": null
+      },
+      {
+        "en": "Can scientists solve all the mysteries about these 100,000 old coins? What do you think?",
+        "tw": "科學家能解開這10萬個古老硬幣的所有謎團嗎？你覺得呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "在日本出土的古老錢幣，讓專家非常好奇。",
+      "content": [
+        {
+          "text": "1. thief 竊賊\nWhy would a thief want to steal coins? 小偷為什麼想偷硬幣?\nThey are heavy and worthless! 它又重又不值錢。\nMaybe he can't find gold.也許他找不黃金?",
+          "time": null
+        },
+        {
+          "text": "2. maybe 也許\nOr maybe he likes the sound of coins. 也或許他喜歡錢幣的聲音。\nThat's a good reason.那是很好的理由。\nI like the sound too. 我也喜歡那個聲音。",
+          "time": null
+        },
+        {
+          "text": "3. old 古老的\nThere's something about old coins. 古老錢幣很特別。\nYou feel you're touching history.你覺得好像在觸摸歷史。\nReally? 真的嗎?",
+          "time": null
+        },
+        {
+          "text": "4. king 君王\nYeah, think about it. 對啊，你想想看。\nKings, traders and common people would all use them.",
+          "time": null
+        }
+      ],
+      "postscript": "Do you collect coins? Let's read these words.\nthief竊賊\nmaybe也許\nold古老的\nking君王"
+    },
+    "quiz": [
+      {
+        "question": "1. How many coins were found?",
+        "options": [
+          "a. 100",
+          "b. 1,100",
+          "c. 100,000"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How old are the oldest coins found?",
+        "options": [
+          "a. 800 years old",
+          "b. 1,000 years old",
+          "c. 2,000 years old"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Where did many of the coins come from?",
+        "options": [
+          "a. South Korea",
+          "b. China",
+          "c. India"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
