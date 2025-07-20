@@ -634,5 +634,113 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20231031-01",
+    "type": "國小",
+    "tag": [
+      "International Education",
+      "Multicultural Education",
+      "Life Education",
+      "Life on Land"
+    ],
+    "title": "Halloween Saved for Dog Lovers",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231030NK.mp3",
+    "content": [
+      {
+        "en": "Hi everyone, Happy Halloween! Halloween is fun. People wear costumes. They are ghosts, witches, monsters, or anything else they want.",
+        "tw": "萬聖節快樂! 萬聖節很好玩，大家裝扮成巫師、巫婆或是怪物，或其他模樣。",
+        "time": null
+      },
+      {
+        "en": "Many kids knock on doors. They say \"trick or treat!\" Some people have Halloween parties and wear costumes.",
+        "tw": "小朋友敲門說:「不給糖就搗蛋」! 也有人會舉辦萬聖節派對跟化裝舞會。",
+        "time": null
+      },
+      {
+        "en": "In New York City, a park has a Halloween Dog Parade every year. People and their dogs line up. Then they walk slowly so everyone can see them. That's a parade!",
+        "tw": "紐約有一個公園每一年都會舉辦萬聖節狗狗變裝遊行，主人可以帶著狗慢慢走，讓大家欣賞。",
+        "time": null
+      },
+      {
+        "en": "People and their dogs wear costumes! Some dogs are dressed like cats, or kings and queens … even hot dogs!",
+        "tw": "人跟狗都精心打扮，有的狗打扮起來像貓咪，有的是狗國王、狗王后，甚至有的打扮成熱狗。",
+        "time": null
+      },
+      {
+        "en": "Last year, 8,000 people came!",
+        "tw": "去年有8000個人參加。",
+        "time": null
+      },
+      {
+        "en": "This parade is 33 years old. But this year, the Halloween Dog Parade almost stopped. The park is too small for 8,000 people. Moving the parade to some streets costs a lot of money.",
+        "tw": "今年第33屆的遊行差一點點被取消，因為公園太小無法容納8000個人。移動到街上遊行很花錢的。",
+        "time": null
+      },
+      {
+        "en": "But many people wanted to see the Halloween Dog Parade. So the parade will be on some streets. And a dog food company is paying for the parade!",
+        "tw": "但是很多人還是想看萬聖節狗狗大遊行，幸好有寵物食品公司提供資金讓他們上街。",
+        "time": null
+      },
+      {
+        "en": "Dog lovers and dogs in the city are happy again. Happy Halloween Dog Parade!",
+        "tw": "城市裡的愛狗人士和狗狗們又再次開心起來了。萬聖節狗狗遊行快樂！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "今天是萬聖節，大家都準備過節。",
+      "content": [
+        {
+          "text": "1. parade 遊行\nA Halloween Parade! 萬聖節遊行!\nThis should be fun. 這應該很好玩!\nI knew you'd like it. 我就知道你會喜歡。",
+          "time": null
+        },
+        {
+          "text": "2. queen 女王、王后\nSo what will you go as? 你要變裝成什麼呢?\nHow about a zombie? 殭屍如何?\nToo common.太普通了。\nQueen Elizabeth? 伊麗莎白女王呢?\nYou're way too young for that. 你太年輕了啦。",
+          "time": null
+        },
+        {
+          "text": "3. wear 穿著\nI know. 我知道了。\nI'll wear a black pointed hat, a black cape and black boots.\n我會戴尖尖的黑帽子，穿黑披風和黑靴子。\nCan you guess what I'll be? 你猜得到我是什麼嗎?",
+          "time": null
+        },
+        {
+          "text": "4. monster 怪物\nYou'll be a monster! 你會是怪物!\nWhat? No, I'm a witch! 什麼？不是，是女巫!",
+          "time": null
+        }
+      ],
+      "postscript": "parade遊行 queen女王 wear穿著 monster怪物"
+    },
+    "quiz": [
+      {
+        "question": "1. How many years ago did the dog parade start?",
+        "options": [
+          "a. 3",
+          "b. 23",
+          "c. 33"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where is this year's parade?",
+        "options": [
+          "a. Nowhere",
+          "b. The park",
+          "c. Some streets"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Who is paying for the parade this year?",
+        "options": [
+          "a. The people of New York",
+          "b. A dog food company",
+          "c. A hot dog company"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
