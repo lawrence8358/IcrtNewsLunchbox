@@ -531,5 +531,101 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20231109-01",
+    "type": "國小",
+    "tag": [
+      "Clean Water and Sanitation",
+      "Industry, Innovation and Infrastructure",
+      "Sustainable Cities and Communities",
+      "Life on Land",
+      "Environmental Education",
+      "Family Education"
+    ],
+    "title": "Wedding Picture Is Full of Garbage",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231108NK.mp3",
+    "content": [
+      {
+        "en": "I am looking at a wedding picture in the newspaper. The bride is so beautiful! Her wedding dress is beautiful too! The groom is so handsome! But - hey! Where are they?",
+        "tw": "我正在看報紙上的結婚照，照片裡的新娘很漂亮、新郎也很帥氣，可是這張照片是在哪裡拍的呢?",
+        "time": null
+      },
+      {
+        "en": "In many wedding pictures, the bride and groom are somewhere nice. Maybe they're at a lake, a park, or a garden. But this bride and groom went to … a dump!?",
+        "tw": "很多新人會在美美的地方拍婚紗照，但是這張照片居然是在一座垃圾場拍的！",
+        "time": null
+      },
+      {
+        "en": "What's a dump? It's where a lot of garbage goes. What's garbage? It's what we throw away: old food, old clothes, and many other things we don't want.",
+        "tw": "Dump 是垃圾場，也就是垃圾garbage集中的地方。",
+        "time": null
+      },
+      {
+        "en": "The bride and groom went to a dump in Nantou. It has a very big mountain of garbage! It gets fifty thousand kilograms of new garbage every day! It's dirty and smells bad!",
+        "tw": "這對新人去南投垃圾場拍照，那裡有一座很大的垃圾山。每天有5萬公斤的垃圾倒入這個垃圾場。",
+        "time": null
+      },
+      {
+        "en": "Taiwan has too much garbage. There is nowhere good to take it. The bride wanted to show their friends this. She wanted them to make less garbage at her wedding.",
+        "tw": "台灣有太多的垃圾，都沒有什麼好地方可以拿去丟。新娘想給她朋友看，讓他們知道她要在她的婚禮上減少垃圾。",
+        "time": null
+      },
+      {
+        "en": "Now a picture of the bride, the groom, and the garbage mountain is on the Internet. Everyone can see it! Now the bride wants everyone to make less garbage. Let's try for Taiwan!",
+        "tw": "現在新娘、新郎和垃圾山的合照已經在網路上傳開了。大家都可以看到！現在新娘希望大家減少製造垃圾。讓我們為台灣努力吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這對新人不惜在垃圾堆上拍結婚照，好提醒大家減少垃圾。",
+      "content": [
+        {
+          "text": "1. garbage 垃圾\nWow, that's quite a lot of garbage! 哇，好多垃圾。\nI know. I don't understand how we can produce so much trash.\n我知道，我也搞不懂我們怎麼會製造這麼多的垃圾。\nYou must cook every day? 你一定每天做菜?\nI do cook a lot. 我是做很多吃的。",
+          "time": null
+        },
+        {
+          "text": "2. throw away 丟掉\nPeople often throw away a lot of things when cooking.\n做飯時常常會扔掉一堆東西。\nThat's true! Plastic wrapping, egg shells, old vegetable leaves…\n是真的，塑膠包裝啦，蛋殼啦，老掉的蔬菜葉....",
+          "time": null
+        },
+        {
+          "text": "3. food 食物\nI throw away food, too. 我也會扔食物。\nEspecially leftover dishes. 特別是剩菜。\nYeah, fresh things are better. 是啊，新鮮的東西比較好。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you throw away many things? 跟我一起讀單字。\ngarbage垃圾\nthrow away扔掉\nfood食物"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did the bride and groom go?",
+        "options": [
+          "a. A lake",
+          "b. A park",
+          "c. A dump"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What is garbage?",
+        "options": [
+          "a. Things we throw away",
+          "b. Things we want",
+          "c. Things we eat"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What does the bride want everyone to do?",
+        "options": [
+          "a. See Nantou's mountains",
+          "b. Make less garbage",
+          "c. Take wedding pictures"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
