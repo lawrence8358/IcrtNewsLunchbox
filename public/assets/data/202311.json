@@ -1254,5 +1254,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20231121-01",
+    "type": "國小",
+    "tag": [
+      "Integrative Activities",
+      "Outdoor Education",
+      "International Education",
+      "Multicultural Education",
+      "Character Education",
+      "Life Education",
+      "Environmental Education",
+      "Life on Land"
+    ],
+    "title": "Man Goes to Every Country without Flying",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231120NK.mp3",
+    "content": [
+      {
+        "en": "Thor, a man from Denmark, went on a long trip. He went to every country in the world! That's 203 countries! Other people who did this used planes. But Thor didn't use planes. He wanted to do something new.",
+        "tw": "來自丹麥的索爾造訪過世界上每一個國家，一共有203個。通常大家是坐飛機環遊世界，但索爾並沒有這麼做。",
+        "time": null
+      },
+      {
+        "en": "Thor had 650 Taiwan dollars to use every day. This money was for a place to sleep, food, and taxis, buses, trains, and boats!",
+        "tw": "索爾每天有650塊台幣，花在住宿、食物、計程車、公車、火車跟船。",
+        "time": null
+      },
+      {
+        "en": "Thor made new friends everywhere. He learned what people eat, what they do, where they go, what they think, and more.",
+        "tw": "索爾到處交朋友，學習不同地方的人吃什麼、做什麼、想什麼、去哪一些地方。",
+        "time": null
+      },
+      {
+        "en": "Thor had some hard times. Because of COVID, he was in Hong Kong for two years! He was on ships in bad weather. Another time, he got very sick. Sometimes he slept outside. But he didn't go home.",
+        "tw": "但是索爾也有困頓的時候。因為疫情，他被困在香港兩年。也曾經在惡劣的天氣下坐船。也有生病的時候，有時候還睡在戶外，但是他都沒有回家。",
+        "time": null
+      },
+      {
+        "en": "Taiwan was Thor's 179th country! He learned how Taiwan cares for both its people and other countries. He said Taiwan has a big heart.",
+        "tw": "台灣是他造訪的第179個國家! 他學到台灣如何照顧人民跟其他的國家，他說台灣很有愛心。",
+        "time": null
+      },
+      {
+        "en": "Thor's trip took ten years. He went 420,000 kilometers. Wow! Going to the moon is shorter!",
+        "tw": "索爾的旅程花了十年。他走了42萬公里。哇！去月球都還比較短！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "索爾環遊全世界，什麼交通工具都用了，就是不曾搭飛機。",
+      "content": [
+        {
+          "text": "1. trip 旅行\nI'm planning a great trip next year! 我正在計畫明年偉大的旅行。\nWhat wild ideas do you have this time? 你這回有什麼異想天開的主意?\nI'll be going to Iraq, Iran and Jordan. 我要去伊拉克，伊朗和約旦。",
+          "time": null
+        },
+        {
+          "text": "2. country 國家\nThey are all Muslim countries. 那些都是回教國家。\nAnd they're also countries with ancient histories. 也是有古老歷史的國家。",
+          "time": null
+        },
+        {
+          "text": "3. train 火車\nSo you'll travel alone? 所以你一個人去?\nBecause I'm certainly not going. 因為我是一定不會去的。\nNo problem.沒問題。\nI'll fly there, and take the train.我會飛去，然後坐火車。",
+          "time": null
+        },
+        {
+          "text": "4. bad 壞的\nYou may end up riding a camel. 結果你可能騎駱駝。\nCome on! It won't be that bad.好啦，不會那麼糟的。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like taking a trip abroad?\ntrip旅行\ncountry國家\ntrain火車\nbad壞的"
+    },
+    "quiz": [
+      {
+        "question": "1. How many countries did Thor visit?",
+        "options": [
+          "a. 203",
+          "b. 420",
+          "c. 650"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Why was Thor in Hong Kong for two years?",
+        "options": [
+          "a. New friends",
+          "b. COVID",
+          "c. Bad weather"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What was Thor's 179th country?",
+        "options": [
+          "a. Thailand",
+          "b. Tanzania",
+          "c. Taiwan"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
