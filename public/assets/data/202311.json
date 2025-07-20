@@ -627,5 +627,110 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20231110-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Life on Land",
+      "Technology",
+      "Arts",
+      "Sustainable Cities and Communities"
+    ],
+    "title": "Scientists Make a Strong and Weak Glue",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231109NK.mp3",
+    "content": [
+      {
+        "en": "What's glue? It's sticky stuff. It holds things together. Glue is useful. When we make something, sometimes we glue things together. When we break something, sometimes we can glue the parts together again.",
+        "tw": "膠水很實用。我們做東西用得到，或是打破東西要黏起來，都用得到。",
+        "time": null
+      },
+      {
+        "en": "But there's one bad thing about glue. It's hard to take things apart again.",
+        "tw": "但是膠水有個缺點，一旦把東西黏在一起就很難再分開。",
+        "time": null
+      },
+      {
+        "en": "Scientists in Japan made a new glue. It's strong. AND it lets us take things apart! We can use it again and again too.",
+        "tw": "日本科學家發明了一種新的膠水。它很黏，但是要拆開也可以，就能反複使用。",
+        "time": null
+      },
+      {
+        "en": "This glue uses two lights. One light makes it strong. Then it holds things together very well. The other light makes it weak. Then we can take things apart.",
+        "tw": "這個膠水利用兩種光，一種可以讓膠水變黏，另一種可以讓它失去黏性。",
+        "time": null
+      },
+      {
+        "en": "Sometimes we can use these things again. Sometimes our city can recycle them! This glue helps us waste less.",
+        "tw": "這樣我們就能重複利用東西，也可以回收，減少浪費。",
+        "time": null
+      },
+      {
+        "en": "This glue makes changes easy too. Maybe you glued your favorite singer's picture onto a wall. But now you have a new favorite! Use one light. Goodbye, old favorite! Use the other light. Hello, new favorite!",
+        "tw": "這種黏膠讓人容易變來變去。你之前可能在牆上貼了某一位歌星的照片，但現在喜歡別的歌手。那就用光照射。再見，舊照片。然後用另外一種光照射，新照片，你好。",
+        "time": null
+      },
+      {
+        "en": "We can change this glue from strong to weak and weak to strong. This helps us to waste less. That's great for the earth!",
+        "tw": "我們可以讓這種膠水從強變弱，從弱變強。這有助於我們減少浪費。這對地球來說太棒了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "神奇的黏膠，該黏的時候黏，也可以讓它不黏。",
+      "content": [
+        {
+          "text": "1. take apart (金屬聲)拆開\nAre you taking that old toy apart? 你在拆那個舊玩具?\nYeah, I'd like to see if I can make something new. 我想看能不能做成新東西。",
+          "time": null
+        },
+        {
+          "text": "2. together 一起\nBut I like that plane very much! 但是我很喜歡那架飛機!\nI'm sorry. I didn't know that. 真抱歉，我不知道。\nI can put it back together again. 我可以再把它黏回去。",
+          "time": null
+        },
+        {
+          "text": "3. glue 膠水、黏\nNo, you can't! It won't be the same. 你做不到，它就是不一樣了。\nYes it will. 是一樣的。\nAll I need to do is glue the wings back.我只需要把翅膀黏回去。",
+          "time": null
+        },
+        {
+          "text": "4. strong 堅固的\nYou see, this glue is strong. 你看，這個膠水很牢。\nI don't think it can hold the wings for long. 我覺得它沒有辦法黏住翅膀多久。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like to take things apart?\ntake apart拆開\ntogether一起\nglue膠水\nstrong堅固的"
+    },
+    "quiz": [
+      {
+        "question": "1. What does glue do?",
+        "options": [
+          "a. Holds things together",
+          "b. Takes things apart",
+          "c. Recycles things"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Who made the new glue in Japan?",
+        "options": [
+          "a. Teachers",
+          "b. Glue companies",
+          "c. Scientists"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What makes the new glue strong?",
+        "options": [
+          "a. A light",
+          "b. Water",
+          "c. A picture"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
