@@ -300,5 +300,100 @@
         "answer": "A"
       }
     ]
+  },
+  {
+    "id": "20230217-01",
+    "type": "國小",
+    "tag": [
+      "Life Education"
+    ],
+    "title": "Samba Steps Boost Brazilian Soccer Skills",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230216NK.mp3",
+    "content": [
+      {
+        "en": "There's a big party in Brazil this week! Called the Rio Carnival. It happens every year, in a city called Rio de Janeiro.",
+        "tw": "里約嘉年華來了！它每年會在里約熱內盧這個城市舉辦。",
+        "time": null
+      },
+      {
+        "en": "The biggest dance in Brazil is the samba. So, at the Rio Carnival, everyone is samba dancing!",
+        "tw": "巴西最熱門的舞蹈是森巴舞，嘉年華的時候大家都在跳森巴！",
+        "time": null
+      },
+      {
+        "en": "Samba is all about the lower body. The legs move really fast, while the upper body stays still. Soccer, or \"football\", is the same. It's mostly played with the feet. Lots of Brazilian players say samba dancing helps them play better soccer!",
+        "tw": "跳森巴舞的時候，下半身跟腿動得很快，但是上半身不動，跟踢足球有一點像！很多巴西的足球員都說，跳森巴舞讓他們的球技更好！",
+        "time": null
+      },
+      {
+        "en": "Brazil's soccer team has won the FIFA World Cup five times, that's more than anyone else. When one of their team scores, Brazilians celebrate with some smooth samba steps!",
+        "tw": "巴西足球隊曾經獲得五次的世界盃冠軍，比其他所有國家還多。只要巴西球隊進球，球迷們就會跳森巴來慶祝！",
+        "time": null
+      },
+      {
+        "en": "What do you think? Could dancing make you better at sports? It's great for keeping you fit and healthy… Could \"Baby Shark\" make you a basketball superstar!? \"Baby Shark, do doo do do dodo…\" Okay, maybe not…",
+        "tw": "你覺得呢？跳舞能讓你更擅長運動嗎？它對保持健康很有益…《Baby Shark》能讓你成為籃球巨星嗎？！「Baby Shark, do doo do do dodo…」好吧，也許不能…",
+        "time": null
+      },
+      {
+        "en": "Why not watch some of the Rio Carnival this week, and learn some smooth samba steps? Who knows, maybe you could be a big soccer star someday!",
+        "tw": "這週何不看看里約嘉年華，學一些流暢的森巴舞步呢？誰知道，也許有一天你也能成為一名足球巨星！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "巴西的森巴舞，對足球員大有幫助。",
+      "content": [
+        {
+          "text": "1. dance 跳舞 I love dancing. 我喜歡跳舞。 Do you do the samba, Nancy? 你跳森巴舞嗎？ I can if you play the music. 你放音樂的話我會跳。 You're a wonderful samba dancer!",
+          "time": null
+        },
+        {
+          "text": "2. healthy 健康的 Dancing keeps me fit and healthy. 跳舞讓我保持身材和健康。 And you can join me.",
+          "time": null
+        },
+        {
+          "text": "3. body 身體 Well, I'm better at line dancing. 我比較會跳排舞。 It's slower. 它比較慢。 I also get to move my whole body.",
+          "time": null
+        },
+        {
+          "text": "4. learn 學習 I have an idea. 我有個主意。 Let's learn belly dancing! 我們來學肚皮舞！ We can't. We don't have big bellies.",
+          "time": null
+        }
+      ],
+      "postscript": "來跳舞吧，不過要先讀單字。dance 跳舞 healthy 健康的 body 身體 learn 學習"
+    },
+    "quiz": [
+      {
+        "question": "1. Which city hosts the Rio Carnival every year?",
+        "options": [
+          "a. Rio Verde",
+          "b. Rio Branco",
+          "c. Rio de Janeiro"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What is the biggest dance in Brazil?",
+        "options": [
+          "a. Salsa",
+          "b. Samba",
+          "c. Rhumba"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many times has Brazil won the FIFA World Cup?",
+        "options": [
+          "a. 3",
+          "b. 4",
+          "c. 5"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
