@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20231101-01",
     "type": "國小",
@@ -104,6 +104,109 @@
           "a. People",
           "b. Earthworms",
           "c. Scientists"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
+    "id": "20231103-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Multicultural Education",
+      "International Education",
+      "Life on Land"
+    ],
+    "title": "Capybaras Run Away",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231102NK.mp3",
+    "content": [
+      {
+        "en": "Do you have a pet? Many people have cats or dogs. These animals are cute and friendly. What other animals are cute and friendly?",
+        "tw": "你有養寵物嗎? 很多人養貓跟狗，牠們很可愛也很友善。還有哪些動物又可愛又友善呢?",
+        "time": null
+      },
+      {
+        "en": "Capybaras are! Do you know about capybaras? They look like small pigs. They're fast runners. They can run up to fifty kilometers an hour!",
+        "tw": "你知道水豚嗎? 牠們看起來像小豬，牠們跑得很快，時速可以到50公里。",
+        "time": null
+      },
+      {
+        "en": "Capybaras like water and wet places. They like to swim. They're peaceful too. So some people have pet capybaras.",
+        "tw": "水豚喜歡水跟濕濕的地方，也喜歡游泳。牠們很溫和，因此很多人養水豚當寵物。",
+        "time": null
+      },
+      {
+        "en": "A man in Nantou had two capybaras. They lived outside in a pen. A fence kept the capybaras in the pen. People used a gate to go in and out of the pen. One day, the gate was open. The two capybaras ran away very fast!",
+        "tw": "南投有個人養了兩隻水豚。他把牠們養在室外的圍欄裡。有一天，圍欄的門沒關，那兩隻水豚飛快地跑走了!",
+        "time": null
+      },
+      {
+        "en": "The man looked for his pets. But he didn't find them. Where did they run to?",
+        "tw": "那個人找不到他的寵物，牠們跑去哪裡呢?",
+        "time": null
+      },
+      {
+        "en": "The man asked people online for help. They helped him find one capybara. She was near a river. Maybe she wanted to swim! But the man cannot find the other capybara.",
+        "tw": "主人在網路上求助，他們在河的附近找到一隻，但是找不到另外一隻水豚。",
+        "time": null
+      },
+      {
+        "en": "Capybaras are cute, friendly, and peaceful. But they're very fast too. So be careful! Don't let them run awayyyyyyyy!",
+        "tw": "水豚可愛、友善又溫和。但牠們也跑得很快，所以要小心！別讓牠們跑掉囉！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "人類熱愛自由，動物似乎也一樣。",
+      "content": [
+        {
+          "text": "1. cute 可愛的 Your dog is so cute! 你的狗好可愛! Yeah, Buddy is a nice dog. 對啊，巴弟是好狗。 Right, Buddy? 對不對，巴弟?",
+          "time": null
+        },
+        {
+          "text": "2. run away 逃走、跑掉 He likes all my friends.我的朋友牠都喜歡。 And he never runs away. 而且牠從來不跑掉。 Yeah, I remember your last dog, what's its name…Bennie! Bennie, ran away.",
+          "time": null
+        },
+        {
+          "text": "3. fast 快速地 Bennie ran away 3 times.班尼逃走三次。 And I finally lost him.最後我失去了牠。 Did you try to find him? 你有試著去找牠嗎? Yes, but he ran too fast. 有，但是牠跑太快了。",
+          "time": null
+        },
+        {
+          "text": "4. pet 寵物 For me, if I want a pet, I'd like to have fish. 我的話，假如我要養寵物，我會養魚。 They don't run. 牠們不會跑。",
+          "time": null
+        }
+      ],
+      "postscript": "一起來讀單字。 cute可愛的 run away逃走、跑掉 fast快速地 pet寵物"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does the man live?",
+        "options": [
+          "a. Taipei",
+          "b. Nantou",
+          "c. Yilan"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What can capybaras do?",
+        "options": [
+          "a. Run fast",
+          "b. Jump high",
+          "c. Climb trees"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many capybaras did the man lose?",
+        "options": [
+          "a. 1",
+          "b. 2",
+          "c. 3"
         ],
         "time": null,
         "answer": "b"
