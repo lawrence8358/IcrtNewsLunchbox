@@ -212,5 +212,110 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20231024-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Life Education",
+      "Social Studies",
+      "Arts",
+      "International Education",
+      "Integrative Activities"
+    ],
+    "title": "Town's Art Project to Finish in 3183",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231023NK.mp3",
+    "content": [
+      {
+        "en": "A small town has a big art project called the Time Pyramid.",
+        "tw": "一座小鎮有個很盛大的藝術計畫，它叫做時間金字塔。",
+        "time": null
+      },
+      {
+        "en": "Pyramids take a long time to make. In Egypt, the Great Pyramid took 20 years. In Germany, the Time Pyramid is taking about 1,200 years!?",
+        "tw": "建金字塔要花很長的時間，埃及吉薩大金字塔花了20年，德國的時間金字塔居然要花1200年才能完成。",
+        "time": null
+      },
+      {
+        "en": "But this pyramid will be about 7 meters tall. That's small! Why is it taking so much time?",
+        "tw": "這個金字塔只有7公尺高，那為什麼需要這麼長的時間呢?",
+        "time": null
+      },
+      {
+        "en": "It's because the pyramid marks the town's 1,200th birthday. And the artist wanted people to think about time long from now - 10 years, 100 years, 1,000 years! So one block goes on this pyramid every 10 years.",
+        "tw": "這麼做是為了慶祝小鎮建立1200周年。藝術家希望人們可以思考遙遠的未來。每十年才會放一塊混擬土。",
+        "time": null
+      },
+      {
+        "en": "The project started 30 years ago. This year, the pyramid has 4 blocks. It needs 116 more blocks!",
+        "tw": "這個計畫從30年前開始，今年時間金字塔擺放了4塊混擬土，離完工還需要116塊。",
+        "time": null
+      },
+      {
+        "en": "Some people like this long art project. Some think it's crazy. But every 10 years, people go to see one new block go on the Time Pyramid. Maybe they think about time too.",
+        "tw": "有一些人喜歡這個長遠的藝術計畫，也有一些人覺得很瘋狂，但是每十年還是有人去見證擺放新的混擬土塊。",
+        "time": null
+      },
+      {
+        "en": "In 1,200 years, how will the world change? How will people change? How will the Time Pyramid change? Nobody knows. What do you think?",
+        "tw": "1200年後，世界會如何改變？人們會如何改變？時間金字塔會如何改變？沒有人知道。你怎麼看？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這個金字塔，還要一千多年才能完成。",
+      "content": [
+        {
+          "text": "1. artist 藝術家\nWhy are you still up? 你怎麼還醒著?\nI'm working on this art project.我正在做這個藝術作品。\nI didn't know you're an artist.我都不知道你是藝術家。",
+          "time": null
+        },
+        {
+          "text": "2. make 做\nI'm not. That's the problem.我不是，這就是問題所在。\nWhat do you plan to make? 你打算做什麼?\nA time machine. 時光機器。",
+          "time": null
+        },
+        {
+          "text": "3. time 時間\nFor people to travel back in time? 是讓人回到過去的時間?\nNo, for them to travel to the year 3000. 不對，是讓他們去西元三千年。",
+          "time": null
+        },
+        {
+          "text": "4. crazy 瘋狂的\nThat sounds….crazy. 這聽起來有點...瘋狂。\nThat's what art is all about! 藝術就是這樣啊!\nUse your imagination! 用一點妳的想像力!\nI am, and your machine looks like a puppy. 我是在用，妳的機器看起來像小狗狗。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like making art?\nartist藝術家\nmake做\ntime時間\ncrazy瘋狂的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the art project's pyramid?",
+        "options": [
+          "a. Egypt",
+          "b. Germany",
+          "c. Mexico"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many years ago did the project start?",
+        "options": [
+          "a. 4",
+          "b. 30",
+          "c. 116"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did the artist want people to think about?",
+        "options": [
+          "a. Time",
+          "b. Blocks",
+          "c. Pyramids"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
