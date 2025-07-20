@@ -1044,5 +1044,112 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20231225-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education",
+      "Integrative Activities",
+      "Arts",
+      "International Education",
+      "Multicultural Education",
+      "Life Education",
+      "Life on Land",
+      "Good Health and Well-Being"
+    ],
+    "title": "Christmas Markets Make You Merry",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231222NK.mp3",
+    "content": [
+      {
+        "en": "At Christmastime, big street markets open in many countries. They're Christmas markets!",
+        "tw": "聖誕節的時候，有很多國家都會辦聖誕市集。",
+        "time": null
+      },
+      {
+        "en": "Every Christmas market has a big, beautiful Christmas tree with twinkling lights. Bright lights are everywhere you look! The lights can give you a happy holiday feeling!",
+        "tw": "每一個聖誕市集都有一顆很大、很漂亮、閃閃發光的聖誕樹。",
+        "time": null
+      },
+      {
+        "en": "You can buy lots of things at Christmas markets! There are delicious Christmas drinks, cookies, and breads.",
+        "tw": "你可以在市集買很多東西! 像是美味的聖誕餅乾、麵包跟飲料。",
+        "time": null
+      },
+      {
+        "en": "There are colorful puzzles, spinning tops, cute dolls, or other toys! There are Christmas stockings, Christmas tree decorations, and …! Whoa, that's a lot of shopping!",
+        "tw": "還有拼圖、陀螺、娃娃等玩具。也有聖誕襪、聖誕樹裝飾，有好多東西可以逛!",
+        "time": null
+      },
+      {
+        "en": "Christmas markets have other fun things to do! At some markets, you can go up high in a Ferris wheel. Or you can go around and around in a merry-go-round!",
+        "tw": "聖誕市集也有好玩的設施，你可以坐摩天輪或是旋轉木馬。",
+        "time": null
+      },
+      {
+        "en": "At one market in Hungary, you can go ice-skating around a twinkling Christmas tree. At another market in Singapore, you can visit a very big gingerbread house! At a market in Taiwan and at many other Christmas markets, you can visit Santa Claus!",
+        "tw": "匈牙利的市集還可以繞著聖誕樹溜冰。新加坡的則是有一個巨大的薑餅屋。台灣跟很多國家的市集還可以遇到聖誕老人。",
+        "time": null
+      },
+      {
+        "en": "Christmas markets are happy places. You can eat, shop, and have a Merry Christmas!",
+        "tw": "聖誕市集是快樂的地方。你可以在那裡吃東西、購物，度過一個快樂的聖誕節！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "耶誕市集世界各地都有，花樣很多。",
+      "content": [
+        {
+          "text": "1. fun 有趣的、好玩的\nDon't you just love Christmas markets? 你很喜歡耶誕市集吧?\nYeah, so many fun things to do. 對啊，可以做好多有趣的事。\nAnd so much food to eat! 好多食物可以吃。",
+          "time": null
+        },
+        {
+          "text": "2. bread 麵包\nI love apple cinnamon bread.我喜歡蘋果肉桂麵包。\nIt smells so wonderful! 它好香!",
+          "time": null
+        },
+        {
+          "text": "3. colorful 色彩繽紛的\nAnd look at those colorful lights! 妳看那些五顏六色的小燈!\nI could stay on the merry-go-round all night.我可以在旋轉木馬上待整晚。",
+          "time": null
+        },
+        {
+          "text": "4. decoration 裝飾\nWow, that's a huge Christmas tree! 哇，好大一棵耶誕樹!\nThe decorations are just beautiful! 上面的裝飾真漂亮!\nI wish everyday was Christmas Day.我希望每天都是耶誕節。",
+          "time": null
+        }
+      ],
+      "postscript": "你有去過任何一種市集嗎?\nfun有趣的、好玩的\nbread麵包\ncolorful色彩繽紛的\ndecoration裝飾"
+    },
+    "quiz": [
+      {
+        "question": "1. What can you see at Christmas markets?",
+        "options": [
+          "a. Bright lights",
+          "b. Movies",
+          "c. A happy feeling"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What can you buy at Christmas markets?",
+        "options": [
+          "a. Toys",
+          "b. Ferris wheels",
+          "c. Merry-go-rounds"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Who can you visit at many Christmas markets?",
+        "options": [
+          "a. Cute dolls",
+          "b. Santa Claus",
+          "c. Gingerbread men"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
