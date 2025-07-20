@@ -314,5 +314,114 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230105-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Responsible Consumption and Production",
+      "Technology Education",
+      "International Education"
+    ],
+    "title": "Making Arms from Plastic Toys",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230104NK.mp3",
+    "content": [
+      {
+        "en": "Do you like to play with plastic bricks? They are fun toys we can use to build things. You can use plastic bricks to build cars, houses, even castles and spaceships.",
+        "tw": "你喜歡玩塑膠積木嗎？我們可以用它蓋很多東西，像是汽車、房屋、城堡，甚至是太空船。",
+        "time": null
+      },
+      {
+        "en": "Now, a man named David is using these toys to build arms.",
+        "tw": "現在，一個名叫 David 的男生用塑膠積木做了一條手臂！",
+        "time": null
+      },
+      {
+        "en": "When David was born, his right arm was much smaller than his left arm. At school, other kids would bully him about his smaller arm. Their words made him feel bad!",
+        "tw": "David 出生的時候，右邊的手臂比左邊的小很多。他在學校常常被霸凌，讓他很難過。",
+        "time": null
+      },
+      {
+        "en": "David's parents wanted to buy him a fake arm, but they were too expensive.",
+        "tw": "他的爸爸媽媽想要幫他買義肢，可是太貴了。",
+        "time": null
+      },
+      {
+        "en": "At home, he loved to play with plastic bricks. One day, he had an idea. Could he use these toys to build an arm?",
+        "tw": "David 喜歡玩塑膠積木。有一天他好奇，塑膠積木能不能做一條手臂？",
+        "time": null
+      },
+      {
+        "en": "First, David built a simple arm. It looked cool, but he knew he could do better. So he built another arm, with fingers that could grab things. His new arm was useful!",
+        "tw": "他一開始做出一條簡單的手臂，後來又做了一個，這一次可以用手指抓住東西。",
+        "time": null
+      },
+      {
+        "en": "People were surprised David used toys to build such a great arm. What's more, his new arm was not expensive.",
+        "tw": "David 的新手臂讓大家都很驚訝。而且新手臂不貴。",
+        "time": null
+      },
+      {
+        "en": "David wants to help people like him. So now he builds arms for other people too! And they're not expensive. All thanks to a few tiny plastic bricks!",
+        "tw": "大衛想幫助像他一樣的人。所以現在他也為其他人建造手臂！而且它們不貴。這一切都歸功於一些小小的塑膠積木！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "聰明的大衛利用玩具來改善他的狀況，還可以幫助別人！",
+      "content": [
+        {
+          "text": "1. build 建造\nYou built a castle with Lego bricks! 你用樂高積木做了古堡!\nDon't you know I'm good at building things? 你不知道我很會建造東西嗎?",
+          "time": null
+        },
+        {
+          "text": "2. spaceship 太空船\nI know you're good, but this is really something.\n我知道你很會，但是這真的不簡單。\nI can even build you a spaceship if you want.\n假如你要，我甚至可以做一艘太空船給你。",
+          "time": null
+        },
+        {
+          "text": "3. house 房屋\nI'd prefer a small house. 我更想要一棟小屋。\nA house? Wow! 一棟房子? 哇！\nYes, with two bedrooms. 對，要有兩個房間。",
+          "time": null
+        },
+        {
+          "text": "4. plastic 塑膠的\nSo you plan to live in it? 所以你打算住在裡面？\nNo, I plan to have my two dogs live there. 不，我打算讓我的兩隻狗狗住。\nOkay, a plastic brick dog house. 一棟塑膠積木狗屋。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like building things?\nbuild 建造\nspaceship 太空船\nhouse 房屋\nplastic 塑膠的"
+    },
+    "quiz": [
+      {
+        "question": "1. Why didn't David's parents buy a fake arm?",
+        "options": [
+          "a. It was too expensive",
+          "b. They couldn't find one",
+          "c. David didn't want one"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What did David use to make an arm?",
+        "options": [
+          "a. Paper toys",
+          "b. Plastic toys",
+          "c. Wooden toys"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How did people feel about David's new arm?",
+        "options": [
+          "a. Sad",
+          "b. Bored",
+          "c. Surprised"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
