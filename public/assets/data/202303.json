@@ -839,5 +839,129 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230315-01",
+    "type": "國際新聞",
+    "tag": [
+      "International Education",
+      "Multicultural Education",
+      "Life Planning Education",
+      "Life Education",
+      "Family Education",
+      "Environmental Education",
+      "Partnerships for the Goals",
+      "Life on Land",
+      "Responsible Consumption and Production",
+      "Sustainable Cities and Communities",
+      "Reduced Inequalities",
+      "Decent Work and Economic Growth",
+      "Quality Education",
+      "Good Health and Well-Being",
+      "Integrative Activities"
+    ],
+    "title": "Government Pays Families to Leave Tokyo",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230314NK.mp3",
+    "content": [
+      {
+        "en": "Do you live in a big city? If you do, you know it is crowded.",
+        "tw": "你住在大城市嗎？如果是，你應該知道它很擁擠。",
+        "time": null
+      },
+      {
+        "en": "More families are moving, and leaving the country for the city all the time. They come from the countryside and from small towns.",
+        "tw": "越來越多家庭移動前往城市， 他們來自鄉下跟小鎮。",
+        "time": null
+      },
+      {
+        "en": "These families are looking for good jobs and good schools. They hope to find these opportunities in big cities.",
+        "tw": "這些家庭希望有更多機會找到好工作跟好學校。",
+        "time": null
+      },
+      {
+        "en": "What's the biggest city in the world? It's Tokyo, Japan.",
+        "tw": "世界上最大的城市在哪裡？在日本東京。",
+        "time": null
+      },
+      {
+        "en": "Tokyo, in Japan, has almost 40 million people.",
+        "tw": "東京擁有近 4000 萬人口。",
+        "time": null
+      },
+      {
+        "en": "This is a problem for Japan. Nobody wants to live in the countryside. But Tokyo is too crowded.",
+        "tw": "沒有人想留在鄉下，但是東京太擁擠了，這已經成為日本的難題。",
+        "time": null
+      },
+      {
+        "en": "Now the Japanese government is paying families to leave Tokyo. Each family will be given one million yen for every child when they move to the countryside.",
+        "tw": "現在日本政府要付錢讓更多家庭離開東京。他們會給每個家庭每個孩子一百萬日元讓他們搬走，相當於22萬台幣。",
+        "time": null
+      },
+      {
+        "en": "Families take that money and move to the countryside. The money is nice, but families understand the countryside has good things too.",
+        "tw": "領到錢的家庭會搬到鄉下，當然除了金錢之外，他們也明白鄉村地區的優點。",
+        "time": null
+      },
+      {
+        "en": "There is more space to live. Plus, children can be closer to their families who never left the countryside. Now, more and more families take the money and leave Tokyo. Would you?",
+        "tw": "有更多的居住空間。此外，孩子們可以更親近那些從未離開鄉下的家人。現在，越來越多的家庭拿了錢離開東京。你會這麼做嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "日本政府為了紓解大都市的人口壓力，付錢讓人搬回鄉下。",
+      "content": [
+        {
+          "text": "1. leave for 前往\nI'm leaving for Japan next week. 我下星期去日本。\nWhere in Japan? 日本哪裡？\nGifu, a little place in the countryside. 岐阜，在鄉下的一個小地方。",
+          "time": null
+        },
+        {
+          "text": "2. crowded 擁擠的\nTaipei is too crowded for you? 台北對你來說太擠了？\nYes, I need space and Gifu has some cute small towns.\n對，我需要空間，岐阜有一些可愛的小鎮。",
+          "time": null
+        },
+        {
+          "text": "3. town 鎮\nWe have many cute small towns here. 這裡也有可愛小鎮啊。\nThere's no such thing here. 這裡沒有那種東西。\nYes, there is! 有啊！",
+          "time": null
+        },
+        {
+          "text": "4. understand 了解\nI understand you're trying to keep me here. 我明白你想讓我留在這裡。\nBut I won't stay. Not for a million NT. 但是就算給我一百萬我也不會留在這裡。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\nleave for 前往\ncrowded 擁擠的\ntown 鎮\nunderstand 了解"
+    },
+    "quiz": [
+      {
+        "question": "Where is the biggest city in the world?",
+        "options": [
+          "Russia",
+          "America",
+          "Japan"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "How many people live in Tokyo?",
+        "options": [
+          "40 thousand",
+          "40 million",
+          "40 billion"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "Where is there more space to live?",
+        "options": [
+          "The city",
+          "The countryside",
+          "The schools"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
