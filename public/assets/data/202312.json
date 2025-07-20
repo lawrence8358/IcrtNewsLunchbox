@@ -1151,5 +1151,124 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20231226-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Quality Education",
+      "Life Education",
+      "Character Education",
+      "Multicultural Education",
+      "Life Planning Education",
+      "Reading Literacy Education",
+      "International Education",
+      "Social Studies",
+      "Integrative Activities"
+    ],
+    "title": "Club Reads One Book for 28 Years",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231225NK.mp3",
+    "content": [
+      {
+        "en": "(Reading) \"… The end. …. Whoa… What a great book!",
+        "tw": "「...完結了。...哇...多棒的一本書啊！」",
+        "time": null
+      },
+      {
+        "en": "Books are adventures! When you read one, you can visit new places, meet cool people, and do amazing things!",
+        "tw": "書本就是一場冒險！當你閱讀時，你可以造訪新地方、認識很酷的人，並做一些令人驚奇的事！",
+        "time": null
+      },
+      {
+        "en": "In a book club, everyone reads the same book. Friends talk about the places, people, things, and more in the book.",
+        "tw": "讀書會是讓每一個人都讀一樣的書，討論書裡的人事物。",
+        "time": null
+      },
+      {
+        "en": "Some book clubs read one book every week. Many read one book every month. One book club read one book... for 28 years!",
+        "tw": "有一些讀書會一周看一本書，或者是一個月一本。但是有個讀書會花了28年才讀完一本書。",
+        "time": null
+      },
+      {
+        "en": "The book is \"Finnegan's Wake.\" People around the world love it! But it's very difficult.",
+        "tw": "這本書叫做《芬尼根的守靈夜》。很多人喜歡這本書，但是這本書不好讀。",
+        "time": null
+      },
+      {
+        "en": "The writer used about 80 languages. He wrote many strange sentences. And he made new words! That's why this book is very difficult!",
+        "tw": "作家用了80種語言，寫了很多奇怪的句子，又創了很多新詞，所以困難重重。",
+        "time": null
+      },
+      {
+        "en": "How difficult is \"Finnegan's Wake\"? Well, the people in the book club read two pages every month! But that was too fast! So they read one page every month! \"Finnegan's Wake\" has more than 600 pages...",
+        "tw": "這本書有多難呢? 這個讀書會每個月只看一頁，這本書超過600頁。",
+        "time": null
+      },
+      {
+        "en": "The people finished \"Finnegan's Wake.\" Then they went back to... page one!",
+        "tw": "他們終於讀完這本書，但是要回到第一頁再看一次。",
+        "time": null
+      },
+      {
+        "en": "A book club read one book for 28 years. And they're reading it again! They're on a great adventure!",
+        "tw": "一個讀書會花了28年讀完一本書。他們現在又再讀一遍！他們正經歷一場偉大的冒險！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一本書讀了28年，這個讀書會的會員很認真。",
+      "content": [
+        {
+          "text": "1. amazing 讓人讚嘆的\nWhat are you reading? 你在讀什麼?\nLord of the Rings. 魔戒。\nThat's an amazing book! 那是一本很棒的書!\nI know. It really is.我知道，真的很棒。",
+          "time": null
+        },
+        {
+          "text": "2. place 地方\nThe writer created different languages for different places.\n作者給不同地方創造了不同的語言。\nYeah, and the actors in the movie talked in those languages!\n沒錯，那部電影的演員也用那些語言講話。",
+          "time": null
+        },
+        {
+          "text": "3. year 年\nBut didn't you read the book last year? 但你不是去年就看過那本書了?\nI did. And I'm re-reading it. 對，我現在再看一遍。",
+          "time": null
+        },
+        {
+          "text": "4. same 同樣的\nWhy read the same book? 為什麼要讀同一本書?\nWhy watch the same movie? 為什麼要看同一部電影?\nBecause you love it! 因為你就是喜歡它啊!",
+          "time": null
+        }
+      ],
+      "postscript": "Do you enjoy reading? Let's read today's vocabulary.\namazing讓人讚嘆的\nplace地方\nyear年\nsame同樣的"
+    },
+    "quiz": [
+      {
+        "question": "1. What are book clubs for?",
+        "options": [
+          "a. Running with friends",
+          "b. Writing with friends",
+          "c. Reading with friends"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Which book took one book club 28 years to finish?",
+        "options": [
+          "a. Finnegan's Cake",
+          "b. Finnegan's Wake",
+          "c. Finnegan's Snake"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many books do many book clubs read every month?",
+        "options": [
+          "a. 1",
+          "b. 28",
+          "c. 52"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
