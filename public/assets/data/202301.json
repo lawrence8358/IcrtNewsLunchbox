@@ -1308,5 +1308,115 @@
         "answer": "A"
       }
     ]
+  },
+  {
+    "id": "20230117-01",
+    "type": "國小",
+    "tag": [
+      "Decent Work and Economic Growth"
+    ],
+    "title": "Young People Share Huge Bucket of Popcorn",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230116NK.mp3",
+    "content": [
+      {
+        "en": "I love eating popcorn! It's so delicious when I add some salt and butter.",
+        "tw": "我喜歡吃爆米花！加一點鹽跟奶油，真是美味。",
+        "time": null
+      },
+      {
+        "en": "I always eat popcorn at the movies.",
+        "tw": "我總是在看電影的時候吃爆米花。",
+        "time": null
+      },
+      {
+        "en": "When my family goes to the movie theater, we get a big bowl of popcorn to share together.",
+        "tw": "我們全家去電影院的時候，總會買一大桶的爆米花來分享。",
+        "time": null
+      },
+      {
+        "en": "In fact, did you hear what happened recently in Kaohsiung?",
+        "tw": "你有聽到最近在高雄發生的事嗎？",
+        "time": null
+      },
+      {
+        "en": "Some young people went to a new movie theater. There, they filled a huge bucket with popcorn. 1600 liters of popcorn! That bucket is so big, you could swim in it.",
+        "tw": "幾個年輕人去一家新開張的電影院，用爆米花裝滿了一個1600 公升的水桶。那個水桶大到可以在裡面游泳。",
+        "time": null
+      },
+      {
+        "en": "How could they get so much popcorn? Since the movie theater was new, they had a special deal. The theater would fill any bowl with popcorn for only 50 NT dollars, no matter how big.",
+        "tw": "他們怎麼能弄到這麼多爆米花呢？因為電影院有開幕特價，只要50元，觀眾拿來的碗不管多大都可以裝滿爆米花。",
+        "time": null
+      },
+      {
+        "en": "The theater did not expect anyone to bring a 1600 liter bucket. But they filled it anyway. The bucket was so huge, they needed a truck to carry it away.",
+        "tw": "電影院沒想到有人會帶1600公升的水桶來，不過還是把它裝滿了，年輕人必須用卡車才能把爆米花運走。",
+        "time": null
+      },
+      {
+        "en": "Did the young people eat all the popcorn? Actually, they shared it with the people of Kaohsiung. They handed out the popcorn to homeless people on the street.",
+        "tw": "最後，年輕人把爆米花分發給街上無家可歸的人。",
+        "time": null
+      },
+      {
+        "en": "Those young people took the chance to help others. As a result, lots of people shared the tasty popcorn!",
+        "tw": "這些年輕人把握機會幫助他人。結果，許多人分享了美味的爆米花！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一群年輕人拿到超大桶的爆米花，讓街上遊民共享。",
+      "content": [
+        {
+          "text": "1. salt 鹽\nLet me get the tickets. 我去買票。\nAnd I will get popcorn and drinks. 我去買爆米花跟飲料。\nA bucket of popcorn for you, right? 你要一桶爆米花對吧？\nRight, with salt and butter. 對，要加鹽跟奶油。",
+          "time": null
+        },
+        {
+          "text": "2. huge 巨大的\nWow, this is a huge bucket! 哇，好大一桶！\nI know. Are you sure you're not eating too much popcorn?\n我知道。你確定你不會吃太多爆米花嗎？",
+          "time": null
+        },
+        {
+          "text": "3. share 分享\nNot if you're sharing it with me. 假如你跟我一起吃就不會。\nThat's the response I'm waiting for. 我就在等妳這句話。",
+          "time": null
+        },
+        {
+          "text": "4. tasty 好吃的\nHmmm, this is really tasty! 這真的很好吃呢！\nNow who's eating too much popcorn? 現在是誰吃太多爆米花？",
+          "time": null
+        }
+      ],
+      "postscript": "一起來讀讀看。\nsalt 鹽\nhuge 巨大的\nshare 分享\ntasty 好吃的"
+    },
+    "quiz": [
+      {
+        "question": "1. How much popcorn did the young people get?",
+        "options": [
+          "A: 6100 liters",
+          "B: 16000 liters",
+          "C: 1600 liters"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "2. How did they carry the popcorn bucket away?",
+        "options": [
+          "A: With their hands",
+          "B: With a truck",
+          "C: With a helicopter"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "3. Who did the young people give the popcorn to?",
+        "options": [
+          "A: Their family",
+          "B: Their classmates",
+          "C: Homeless people"
+        ],
+        "time": null,
+        "answer": "C"
+      }
+    ]
   }
 ]
