@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20231201-01",
     "type": "國小",
@@ -106,6 +106,109 @@
         ],
         "time": null,
         "answer": "b"
+      }
+    ]
+  },
+  {
+    "id": "20231204-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Technology Education",
+      "Information Education",
+      "Arts"
+    ],
+    "title": "The Beatles Make One More Song",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231201NK.mp3",
+    "content": [
+      {
+        "en": "Who are the Beatles? They're a band from the UK. Many people think the Beatles are the best band in the world!",
+        "tw": "你知道披頭四嗎? 那是一個英國樂團。很多人覺得披頭四是世界上最棒的樂團。",
+        "time": null
+      },
+      {
+        "en": "The Beatles had four people: John, Paul, George, and Ringo. But they stopped being a band in nineteen seventy. Sadly, John died ten years later…",
+        "tw": "披頭四有四位成員，約翰、保羅、喬治跟林哥，他們在1970就解散了。十年後約翰不幸地去世。",
+        "time": null
+      },
+      {
+        "en": "But now the Beatles have a new song. What? How can they have a new song? Well, John wrote a song many years ago. It's called \"Now and Then\". He recorded it on a cassette tape.",
+        "tw": "但現在披頭四要發行一首新歌 「這時候那時候」。他們怎麼會有新歌呢? 原來約翰很多年前寫了這首歌，並且錄在卡帶上。",
+        "time": null
+      },
+      {
+        "en": "But the recording was very bad. John's voice was hard to hear.",
+        "tw": "但是錄音品質很糟糕，聽不清楚約翰的聲音。",
+        "time": null
+      },
+      {
+        "en": "After John died, Paul, George, and Ringo took this old song and made it better. But it needed more work. Then George died…",
+        "tw": "約翰死後，保羅、喬治跟林哥拿到這首老歌，提升了它的品質，但還需要修改。喬治後來也過世了。",
+        "time": null
+      },
+      {
+        "en": "This year, the Beatles made John's voice easy to hear. How did they do that? They used AI.",
+        "tw": "今年他們用AI人工智慧，讓約翰的聲音更清楚地呈現。",
+        "time": null
+      },
+      {
+        "en": "All four Beatles worked on this song. Paul and Ringo finished it. \"Now and Then\" is on the radio a lot now. Many people like the song. Many think \"Now and Then\" is a sad song. But they also think it's a beautiful song.",
+        "tw": "披頭四的四位成員都參與了這首歌的製作。保羅和林哥完成了它。「這時候那時候」現在廣泛在電台播放。很多人喜歡這首歌。許多人認為「這時候那時候」是一首悲傷的歌。但他們也認為這是一首美麗的歌。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "所有披頭四的成員先後都參與了這首歌的製作，人工智慧也幫了忙。",
+      "content": [
+        {
+          "text": "1. best 最好的 July Sky is coming to town! 七月的天空要來這兒! July Sky? What's that? 七月的天空? 那是什麼? You've never heard of them? 你沒聽過他們嗎? I think they're the best band in Taiwan. 我認為他們是台灣最好的樂團。",
+          "time": null
+        },
+        {
+          "text": "2. how 如何 How do you know they're coming? 你怎麼知道他們要來? My friend told me. 我朋友告訴我的。 He works in a record company.他在一家唱片公司工作。",
+          "time": null
+        },
+        {
+          "text": "3. hard 困難的 Can he get tickets for you? 他可以幫你弄到票嗎? He said it'll be hard. 他說有困難。 Do you want to go to their show? 你想去看他們表演?",
+          "time": null
+        },
+        {
+          "text": "4. song 歌曲 Sure, I'd like to hear their songs. 當然，我想去聽他們的歌。 You like joining in on the fun, don't you? 你滿喜歡湊熱鬧的嘛。",
+          "time": null
+        }
+      ],
+      "postscript": "來跟我一起讀單字。 best最好的 how如何 hard困難的 song歌曲"
+    },
+    "quiz": [
+      {
+        "question": "1. What country are the Beatles from?",
+        "options": [
+          "a. The UK",
+          "b. Canada",
+          "c. The USA"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What is the name of the new Beatles song?",
+        "options": [
+          "a. \"Here and There\"",
+          "b. \"Today and Yesterday\"",
+          "c. \"Now and Then\""
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How many of the Beatles worked on this song?",
+        "options": [
+          "a. Four",
+          "b. Three",
+          "c. Two"
+        ],
+        "time": null,
+        "answer": "a"
       }
     ]
   }
