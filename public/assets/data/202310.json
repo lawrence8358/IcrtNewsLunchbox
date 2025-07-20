@@ -527,5 +527,112 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20231027-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education",
+      "Natural Sciences",
+      "Social Studies",
+      "International Education",
+      "Technology Education",
+      "Life on Land",
+      "Industry, Innovation and Infrastructure",
+      "Good Health and Well-Being"
+    ],
+    "title": "These Scientists Saved the World",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231026NK.mp3",
+    "content": [
+      {
+        "en": "Katalin Kariko is a scientist. Some people say she saved the world. Maybe she saved your life!",
+        "tw": "Katalin Kariko是一位科學家。有人說她拯救了世界，也許她還救了你一命。",
+        "time": null
+      },
+      {
+        "en": "Vaccines help stop people from getting sick. Dr. Kariko had an idea to make better vaccines. She worked on her idea for many years.",
+        "tw": "疫苗可以防止人類生病。 Kariko博士想出辦法，讓疫苗更加有效。",
+        "time": null
+      },
+      {
+        "en": "Then Dr. Kariko worked with Dr. Drew Weissman. They worked in different ways. He said, \"from A to B you zigzag, zigzag, zigzag, zigzag! I [go]... straight.\"",
+        "tw": "Kariko 博士跟Drew Weissman博士合作。他說Kariko會來來回回的思考，而他是直線前進。",
+        "time": null
+      },
+      {
+        "en": "Here, \"zigzag\" means she studied many kinds of new ideas and information. And she had questions: What's this? How does this work? What's that? What does that do? Can it help my idea? Can we try this?",
+        "tw": "Kariko研究很多新的想法跟資訊，也提出一大堆問題。",
+        "time": null
+      },
+      {
+        "en": "Maybe zigzagging helped! Dr. Kariko and Dr. Weissman found how to make better vaccines using her ideas.",
+        "tw": "或許這種Z型的思考方式，讓他們找出更好的疫苗。",
+        "time": null
+      },
+      {
+        "en": "COVID-19 came. The world needed vaccines! Their work helped scientists make two vaccines fast! It can make other vaccines too.",
+        "tw": "新冠肺炎的到來，讓全世界都需要疫苗，而這兩人的研究加快了疫苗的生產。",
+        "time": null
+      },
+      {
+        "en": "Every year, some people get a Nobel Prize. They did great things for the world. This year, Dr. Kariko and Dr. Weissman got the Nobel Prize for Medicine! They made her idea work and saved the world!",
+        "tw": "每年，有些人會獲得諾貝爾獎。他們為世界做出了偉大的貢獻。今年，卡塔林·卡里科博士和德魯·韋斯曼博士獲得了諾貝爾醫學獎！他們讓她的想法付諸實現，並拯救了世界！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這兩位博士發明了新型的肺炎疫苗，榮獲今年的諾貝爾醫學獎。",
+      "content": [
+        {
+          "text": "1. sick 生病的\nWhen I was a child, I really wanted to be a scientist.我小時候很想當科學家。\nYeah? Because you liked the sound of it? 因為科學家這個詞很好聽?\nBecause scientists can help sick people. 因為他們可以幫助生病的人。",
+          "time": null
+        },
+        {
+          "text": "2. can 能夠\nAnd they understand space and stars. 他們還能懂太空和星星。\nThey can do so many things. 他們可以做好多事。",
+          "time": null
+        },
+        {
+          "text": "3. then 然後\nBut then you decided to study literature. 但是之後你決定讀文學。\nYeah, I found literature much more interesting.對，我覺得文學有趣多了。",
+          "time": null
+        },
+        {
+          "text": "4. life 生命、人生\nIt deals with life.它跟人生有關。\nScience deals with life, too. 科學也跟人生有關。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀今天的單字。\nsick生病的\ncan能夠\nthen然後\nlife生命、人生"
+    },
+    "quiz": [
+      {
+        "question": "1. What did Dr. Kariko do for many years?",
+        "options": [
+          "a. Saved the world",
+          "b. Worked on her idea",
+          "c. Kept getting sick"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What did Dr. Kariko do when she zigzagged?",
+        "options": [
+          "a. Studied many things",
+          "b. Went straight",
+          "c. Took medicine"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. When COVID-19 came, what did the world need fast?",
+        "options": [
+          "a. A Nobel Prize",
+          "b. Vaccines",
+          "c. Questions"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
