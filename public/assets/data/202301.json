@@ -1211,5 +1211,102 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230116-01",
+    "type": "國小",
+    "tag": [
+      "Decent Work and Economic Growth",
+      "Reduced Inequalities",
+      "Peace, Justice and Strong Institutions",
+      "Human Rights Education",
+      "Character Education",
+      "International Education",
+      "Multicultural Education",
+      "Law-related Education"
+    ],
+    "title": "Boston's Brand New Bronze Statue",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230113NK.mp3",
+    "content": [
+      {
+        "en": "Have you ever seen a statue? It can be made of stone, or metal, or all kinds of things!",
+        "tw": "你看過雕像嗎？你可以用各種材料製作雕像。",
+        "time": null
+      },
+      {
+        "en": "Yesterday, In Boston, Massachusetts, they got a brand new very special statue. It's 20 feet tall and 40 feet wide. And it's made of a beautiful shiny metal called bronze.",
+        "tw": "昨天，有一座新雕像在波士頓落成了。這座雕像是用青銅做的，高 20 呎，寬 40 呎！",
+        "time": null
+      },
+      {
+        "en": "It was made for a famous person from history, called Martin Luther King Jr. In fact, today is Martin Luther King Jr. Day! He believed it was wrong to treat someone differently because of how they looked, or what they believed, or where they came from.",
+        "tw": "這座雕像為了紀念馬丁路德金恩博士而製作。其實，今天正好是馬丁路德金恩日！金恩博士認為人們因為外表、信仰，或是生長地而遭到歧視，是錯誤的。",
+        "time": null
+      },
+      {
+        "en": "Lots of people agreed with King. One time, 250,000 people marched with him all the way to Washington D.C., the USA's capital city. There, he gave a very famous speech, called \"I Have a Dream\".",
+        "tw": "很多人贊同金恩博士的看法。有一次在美國首都華府，總共有25萬人跟他一起遊行。當天金恩博士發表了知名的演說，叫做「我有一個夢」。",
+        "time": null
+      },
+      {
+        "en": "The next year, King was given the \"Nobel Peace Prize\" for helping so many people. 60 years later, people still celebrate him!",
+        "tw": "隔年，金恩博士獲得了諾貝爾和平獎，因為他幫助了許多人。60年後，人們仍在紀念他！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "波士頓有一座新的銅像，紀念美國民權運動的領袖金恩博士。",
+      "content": [
+        {
+          "text": "1. famous 著名的\nMichelangelo's David is the most famous statue in the world.\n米蓋朗基羅的大衛像是全世界最有名的雕像。\nReally? I thought it's the Statue of Liberty. 真的嗎？我以為是自由女神像。",
+          "time": null
+        },
+        {
+          "text": "2. metal 金屬\nThey are different. 它們不一樣。\nDavid is made of stone. 大衛像是石頭做的。\nAnd the Statue of Liberty? 自由女神像呢？\nIt's made of metal. 它是金屬做的。",
+          "time": null
+        },
+        {
+          "text": "3. agree 同意\nI think David is more beautiful. 我覺得大衛像比較美。\nI agree. 我同意。\nIt looks very much like a real man. 它看起來很像真人。",
+          "time": null
+        },
+        {
+          "text": "4. history 歷史\nAnd it has a long history of 500 years. 而且它有五百年的歷史了。\nA 500-year-old man? Still very handsome. 五百歲的人？還是很帥呢！",
+          "time": null
+        }
+      ],
+      "postscript": "我們來讀讀單字。\nfamous 著名的\nmetal 金屬\nagree 同意\nhistory 歷史"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is Martin Luther King Jr.'s new statue?",
+        "options": [
+          "A: Boston, Massachusetts",
+          "B: Boston, Ontario",
+          "C: Boston, Lincolnshire"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "2. How big is the new statue?",
+        "options": [
+          "A: 30 feet tall, 20 feet wide",
+          "B: 20 feet tall, 40 feet wide",
+          "C: 40 feet tall, 30 feet wide"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "3. How many people marched with King to Washington DC?",
+        "options": [
+          "A: 250,000",
+          "B: 10,050",
+          "C: 50,200"
+        ],
+        "time": null,
+        "answer": "A"
+      }
+    ]
   }
 ]
