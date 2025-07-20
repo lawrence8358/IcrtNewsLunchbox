@@ -532,5 +532,113 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230107-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Life Planning Education",
+      "Good Health and Well-Being",
+      "Character Education"
+    ],
+    "title": "Strangers Unite After Airplane Cancelled",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230106NK.mp3",
+    "content": [
+      {
+        "en": "Last month in America an airline flight was cancelled.",
+        "tw": "上個月美國有一架班機被取消，不能飛。",
+        "time": null
+      },
+      {
+        "en": "Everyone thought they were going to be late! Until one very clever traveler, called Renee, had a very clever idea…",
+        "tw": "大家都以為他們將會晚到目的地，但名叫 Renee 的旅客想了一個好點子。",
+        "time": null
+      },
+      {
+        "en": "Instead of flying, Renee thought she and her daughter could drive home!",
+        "tw": "Renee 覺得她跟她女兒可以開車回家！",
+        "time": null
+      },
+      {
+        "en": "Just then, Renee had another very clever idea! She knew there were lots of other people who wanted to fly too, but couldn't because the flight was cancelled. So Renee asked them all to drive with them!",
+        "tw": "她知道其他人也因為班機取消不能飛，於是邀請他們一起坐車！",
+        "time": null
+      },
+      {
+        "en": "Lots of people wanted to go, so they had to rent a huge van! One big enough for 15 people!",
+        "tw": "因為很多人要一起，所以他們最後租了一個可以坐15個人的超大廂型車！",
+        "time": null
+      },
+      {
+        "en": "So this big group of total strangers all agreed to travel together, from Orlando to Knoxville. 650 miles… or about one thousand kilometers!",
+        "tw": "他們從奧蘭多開到諾克斯維爾，一共650英里，將近1000公里！",
+        "time": null
+      },
+      {
+        "en": "It took them 10 hours, and they had fun the whole way, talking and laughing and playing silly games! By the time they'd arrived they were all best friends.",
+        "tw": "這趟旅程花了十個鐘頭，一路上玩遊戲聊天，到達目的地時他們都成了好朋友！",
+        "time": null
+      },
+      {
+        "en": "Everyone had a great drive, made lots of new friends, and they all got to Knoxville on time! All thanks to Renee, and her very clever idea.",
+        "tw": "大家開車都很開心，交了很多新朋友，而且都準時到達諾克斯維爾！這一切都要歸功於 Renee 和她非常聰明的想法。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這批乘客原本要從空中飛，卻變成在地上搭車，也順利達到了目的地。",
+      "content": [
+        {
+          "text": "1. cancel 取消\nOh, no! They canceled our flight! 糟糕，他們取消了我們的班機。\nHow could they do that? 他們怎麼可以那樣？\nI can't believe it. 真不敢相信。\nNow we won't make it to the final game. 現在我們趕不上決賽了。",
+          "time": null
+        },
+        {
+          "text": "2. game 比賽\nBut I want to see the final game! 可是我想看決賽！\nI know. Let me ask if we can fly there early tomorrow.\n我知道。我來問問能不能明天一早飛去。",
+          "time": null
+        },
+        {
+          "text": "3. agree 同意\nOkay, they've agreed to let us fly tomorrow. 好了，他們同意讓我們明天飛。\nWill we still be late for the game? 我們看比賽仍然會遲到嗎？",
+          "time": null
+        },
+        {
+          "text": "4. late 遲到\nBetter late than never. 遲到比永遠不到好。\nI guess you're right. 我想你是對的。",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字很簡單喔！\ncancel 取消\ngame 比賽\nagree 同意\nlate 遲到"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of vehicle did the group rent?",
+        "options": [
+          "a. A cancelled airplane",
+          "b. A tall ship",
+          "c. A huge van"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How far is the journey from Orlando to Knoxville?",
+        "options": [
+          "a. 640 miles",
+          "b. 650 miles",
+          "c. 1630 miles"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How long did the journey take?",
+        "options": [
+          "a. 10 hours",
+          "b. 2 hours",
+          "c. 12 hours"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
