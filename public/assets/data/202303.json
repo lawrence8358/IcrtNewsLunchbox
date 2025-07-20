@@ -526,5 +526,98 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230309-01",
+    "type": "國小",
+    "tag": [
+      "International Education",
+      "Environmental Education",
+      "Life on Land",
+      "Natural Sciences"
+    ],
+    "title": "Wildcat Poop Found on Mount Everest",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230308NK.mp3",
+    "content": [
+      {
+        "en": "Whoa! Is that a cat? It looks like a cat. It has a lot more fur, though… And it looks really angry! It looks like a grumpy old man!",
+        "tw": "這個動物長得好像貓，但是毛比較多，而且看起來在生氣，好像一個生氣的老頭子。",
+        "time": null
+      },
+      {
+        "en": "Maybe we would be grumpy too if we lived in the same places as these wildcats… These wildcats are called Pallas's cats. They live in dry, cold, and windy places. But guess what? We now know these cats also live on the tallest mountain in the world! Yep! Scientists found that Pallas's cats live on Mount Everest!",
+        "tw": "這種野貓叫做兔猻，牠們住在很乾燥寒冷、風很大的地方。而且科學家在世界最高峰--聖母峰上也發現牠們的蹤跡！",
+        "time": null
+      },
+      {
+        "en": "The scientists found that the cats live on a part of Mount Everest that's even higher than Taiwan's Jade Mountain! That's amazing! It's very, very cold on Mount Everest, but these cats have found a way to live there!",
+        "tw": "聖母峰比玉山還要高，上面超級寒冷，但是這些野貓卻有辦法活下去！",
+        "time": null
+      },
+      {
+        "en": "Pallas's cats are about the same size as a pet cat, but they look more like leopards. They are very good hunters. Their fur is thick to keep them warm, and it's the perfect color to help them hide in the rocky, snowy mountains.",
+        "tw": "兔猻跟家貓差不多一樣大，但是長得比較像獵豹。牠們很會打獵，還有厚厚的毛可以保暖。毛的顏色也讓他們可以在山上躲起來。",
+        "time": null
+      },
+      {
+        "en": "Wildcats are some of my favorite animals! Now that I know they can live on the tallest mountain in the world, I like them even more! Where does your favorite animal live?",
+        "tw": "野貓是我最喜歡的動物之一！現在我知道牠們能住在世界上最高的山上，我更喜歡牠們了！你最喜歡的動物住在哪裡呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這種厲害的野貓可以在世界最寒冷的地方存活。",
+      "content": [
+        {
+          "text": "1. look like 看起來像\nOh boy, that cat looks like a grumpy old man.\n天哪，那隻貓看起來像個壞脾氣的老頭。\nIt's a stray cat. 那是一隻流浪貓。\nIt lives a hard life. 牠的生活很不容易呢。",
+          "time": null
+        },
+        {
+          "text": "2. windy 多風的\nYeah? It doesn't need to work. 是嗎？牠又不需要工作。\nNo, but it lives on a cold and windy street.\n是不需要，但是牠住在又冷又風大的街上。",
+          "time": null
+        },
+        {
+          "text": "3. warm 溫暖的\nYou feed it every night. 你每天晚上都餵牠。\nNot every night.沒有每晚。\nAnd you also try to keep it warm. 而且你還想辦法讓牠保持溫暖。",
+          "time": null
+        },
+        {
+          "text": "4. maybe 也許\nWhat can I say? 我能說什麼？\nI just love animals. 我就是喜歡動物。\nMaybe you should take it home. 也許你應該把牠帶回家。",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字每天都用得到。\nlook like 看起來像\nwindy 多風的\nwarm 溫暖的\nmaybe 也許"
+    },
+    "quiz": [
+      {
+        "question": "1. What are these wildcats called?",
+        "options": [
+          "A: Pet cats",
+          "B: Leopards",
+          "C: Pallas's cats"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "2. Where did scientists find the cats living?",
+        "options": [
+          "A: At the bottom of the ocean",
+          "B: At the South Pole",
+          "C: On Mount Everest"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "3. Why do these cats need such thick fur?",
+        "options": [
+          "A: To keep cool",
+          "B: To keep warm",
+          "C: To hunt"
+        ],
+        "time": null,
+        "answer": "B"
+      }
+    ]
   }
 ]
