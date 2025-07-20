@@ -1356,5 +1356,109 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20231122-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Industry, Innovation and Infrastructure",
+      "Technology Education",
+      "Safety Education",
+      "Multicultural Education",
+      "Outdoor Education",
+      "International Education",
+      "Technology",
+      "Natural Sciences",
+      "Health and Physical Education"
+    ],
+    "title": "American Astronaut Stuck in Space",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231121NK.mp3",
+    "content": [
+      {
+        "en": "NASA is the USA's space agency. Its job is to learn about space. But space is very big! It has millions and billions of planets, stars, moons, and many other things!",
+        "tw": "美國太空總署NASA的職責是了解外太空。廣闊的太空有億萬顆行星、恆星、衛星，還有很多其他的東西!",
+        "time": null
+      },
+      {
+        "en": "NASA sends people into space. These people are called \"astronauts\". Astronauts help us learn about living in space.",
+        "tw": "NASA會派人到外太空。這些人叫做「太空人」，幫助我們了解太空生活。",
+        "time": null
+      },
+      {
+        "en": "Dr. Rubio is an astronaut. NASA sent him into space for six months. But then … a space rock hit his spaceship!",
+        "tw": "Rubio博士是一名太空人。NASA派他到國際太空站6個月。但是有一顆太空岩石打到了他的太空船。",
+        "time": null
+      },
+      {
+        "en": "After that, his spaceship didn't work well. So Dr. Rubio had no spaceship to fly home in! He had to wait for a new spaceship from NASA. But NASA didn't have a spaceship ready yet. Dr. Rubio had to wait six more months to go home.",
+        "tw": "他的太空船沒有辦法正常運作，無法回到地球。Rubio博士必須等待新的太空船，但是NASA沒有預備好的太空船，他要再多等6個多月才能回家。",
+        "time": null
+      },
+      {
+        "en": "Dr. Rubio said being stuck in space was hard. He wanted to see his family and friends. He was stuck in space for 371 days. That's longer than other US astronauts! He set a new record by accident!",
+        "tw": "Rubio 博士說因為在外太空很辛苦。他想見到家人跟朋友。他被困在外太空371天，比其他的美國太空人都還要久，意外地破了紀錄。",
+        "time": null
+      },
+      {
+        "en": "Dr. Rubio was stuck in space for more than a year! He's back on Earth now. He's safe. Phew! Welcome home, Dr. Rubio!",
+        "tw": "Rubio 博士在外太空被困了一年多！他現在已經回到地球了。他很安全。呼！歡迎回家，Rubio 博士！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "Rubio原本六個月就可以回家，卻在太空站待了一年。",
+      "content": [
+        {
+          "text": "1. job 工作 This poor guy! 可憐的傢伙! Can you imagine living in space for so many days? 你能想像住在太空那麼多天嗎? Well, that's his job.那是他的工作。 And there were other astronauts. 而且還有別的太空人。",
+          "time": null
+        },
+        {
+          "text": "2. star 恆星 If I were him, I would go out and spacewalk every day. 如果我是他，我會每天都出去太空漫步。 And watch the stars and moon? 看著星星月亮嗎? It would be boring after just one week. 一個星期之後你就會厭煩了。",
+          "time": null
+        },
+        {
+          "text": "3. rock 石頭 And there are space rocks, too.而且還有太空碎石。 They may hit you and hurt you. 可能會打到你，讓你受傷。",
+          "time": null
+        },
+        {
+          "text": "4. planet 行星 Come to think of it, planet Earth is the best place to live. 這麼想來，我們的行星地球還是最好的地方。 No doubt about that. 毫無疑問是那樣。",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字很好用。 job工作 star恆星 rock石頭 planet行星"
+    },
+    "quiz": [
+      {
+        "question": "What is the USA's space agency?",
+        "options": [
+          "a. Astronauts",
+          "b. Space rock",
+          "c. NASA"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "How many days was Dr. Rubio stuck in space?",
+        "options": [
+          "a. 173",
+          "b. 371",
+          "c. 731"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "Where is Dr. Rubio now?",
+        "options": [
+          "a. The moon",
+          "b. A new spaceship",
+          "c. Earth"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
