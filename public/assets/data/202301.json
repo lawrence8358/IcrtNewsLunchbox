@@ -1534,5 +1534,106 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230119-01",
+    "type": "國小",
+    "tag": [
+      "International Education",
+      "Multicultural Education"
+    ],
+    "title": "The Year of the Rabbit",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230118NK.mp3",
+    "content": [
+      {
+        "en": "Happy New Year everyone! Next week will be the start of the Year of the Rabbit!",
+        "tw": "新年快樂！下星期就是兔年的開始。",
+        "time": null
+      },
+      {
+        "en": "Last year was the Year of the Tiger. Tigers are big, strong and brave! Rabbits are small, cute and fluffy!",
+        "tw": "老虎高大強壯而勇敢，兔子則嬌小可愛，還毛茸茸的。",
+        "time": null
+      },
+      {
+        "en": "In old Chinese stories, the tiger was the king of all the animals! So, in the Year of the Tiger, people are really brave! They make big choices in their lives. Their choices don't always go super well, but a tiger is never afraid to try!",
+        "tw": "中國傳統故事裡，老虎是百獸之王。所以大家在虎年的時候會很勇敢地做出重大的選擇，不見得是最好的，但是老虎不怕嘗試。",
+        "time": null
+      },
+      {
+        "en": "Just like in real life, the rabbit in those stories was very different from the tiger. It was the gentlest, most thoughtful animal. So, in the Year of the Rabbit, people like to help each other.",
+        "tw": "跟現實生活一樣，那些故事中的兔子跟老虎大不相同。兔子是最溫和、最體貼的動物。所以，在兔年，人們喜歡互相幫助。",
+        "time": null
+      },
+      {
+        "en": "The rabbit's gentle nature calms the tiger's crazy ups and downs!",
+        "tw": "兔子溫柔的天性平息了老虎瘋狂的起伏！",
+        "time": null
+      },
+      {
+        "en": "Even though rabbits are kind and gentle, they are also fast and clever! So this year should be lucky for everyone!",
+        "tw": "雖然兔子生性和善，但牠們動作可快了，並且很聰明，這就是為什麼兔子是最幸運的動物！因此，今年對每一個人來說應該是幸運的一年！",
+        "time": null
+      },
+      {
+        "en": "We'll all be lucky in our lives: at school, at work, and with our friends and family… So, let's all say goodbye to the roaring tiger, and hello to the lucky rabbit! See you next year!",
+        "tw": "我們在學校、工作、與朋友和家人相處都會很幸運…所以，讓我們告別咆哮的老虎，迎接幸運的兔子！明年見！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "我們即將邁入兔年，這跟虎年應該大不一樣。",
+      "content": [
+        {
+          "text": "1. cute 可愛的\nThe Year of the Rabbit is about to start. 兔年就要開始了。\nYeah, I love rabbits! 我喜歡兔子！\nWhy? 為什麼？\nBecause they're cute and gentle. 因為牠們很可愛又很溫和。",
+          "time": null
+        },
+        {
+          "text": "2. fast 快速的\nAnd they don't need to work hard. 而且還不用努力工作。\nBut if a tiger comes after them, they have to run hard!\n但是假如有老虎來追牠們，就得拼命跑。\nThat's okay. They're fast runners. 那又沒關係，牠們跑很快。",
+          "time": null
+        },
+        {
+          "text": "3. crazy 瘋狂的\nI'm thinking of keeping two rabbits. 我在想養兩隻兔子。\nAt home? You're crazy! 養在家裡嗎？你瘋了！",
+          "time": null
+        },
+        {
+          "text": "4. animal 動物\nYou're too busy to care for the animals. 你那麼忙，沒辦法照顧動物的。\nI'll take them to work. 我會帶牠們上班。",
+          "time": null
+        }
+      ],
+      "postscript": "這些都是很常用到的英文字。\ncute 可愛的\nfast 快速的\ncrazy 瘋狂的\nanimal 動物"
+    },
+    "quiz": [
+      {
+        "question": "1. What New Year starts in a few days?",
+        "options": [
+          "a. The Year of the Tiger",
+          "b. The Year of the Rabbit",
+          "c. The Year of the Pigeon"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. In old Chinese stories, what was the tiger?",
+        "options": [
+          "a. King of the jungle",
+          "b. King of the animals",
+          "c. King of the world"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do people like to do in the Year of the Rabbit?",
+        "options": [
+          "a. Help each other",
+          "b. Make big choices",
+          "c. Eat carrots"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
