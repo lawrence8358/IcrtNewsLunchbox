@@ -908,5 +908,117 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230224-01",
+    "type": "國小",
+    "tag": [
+      "Safety Education",
+      "Character Education",
+      "Technology Education"
+    ],
+    "title": "Teen Pilot Lands Plane",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230223NK.mp3",
+    "content": [
+      {
+        "en": "Do you like to fly in planes? They're a great way to travel. Planes can fly in the sky and go much faster than cars or trains.",
+        "tw": "你喜歡坐飛機嗎？飛機比汽車或火車快得多。",
+        "time": null
+      },
+      {
+        "en": "The person who flies the plane is called the pilot. They need to keep everyone on the plane safe.",
+        "tw": "駕駛飛機的人叫做飛行員。他們需要確保每一個旅客的安全。",
+        "time": null
+      },
+      {
+        "en": "Brock is a new pilot from California. He's 18 years old. Recently, Brock had the scare of his life.",
+        "tw": "來自加州的 Brock 只有 18 歲，是一位新手飛行員。最近他經歷了人生的一場驚嚇。",
+        "time": null
+      },
+      {
+        "en": "When his plane had a problem, he had to think fast.",
+        "tw": "當他的飛機發生問題的時候，他必須趕快想辦法解決。",
+        "time": null
+      },
+      {
+        "en": "That morning, Brock took his family up in a small plane. He only finished pilot's school a few months before.",
+        "tw": "那天早上，Brock帶著家人飛上天。他幾個月前才從飛行學校畢業。",
+        "time": null
+      },
+      {
+        "en": "At first, everything was fine. Then, Brock heard a loud noise. The plane's engine had stopped! Brock knew there was big trouble.",
+        "tw": "一開始都很順利，但是 Brock 突然聽到一聲巨響，然後飛機的引擎停了！",
+        "time": null
+      },
+      {
+        "en": "He was scared. Then, he remembered his teacher's words: \"If there is a problem, don't panic.\" Brock stayed calm, and looked for a place to land.",
+        "tw": "他嚇壞了，可是他想起老師說過，碰到問題時不要驚慌，於是他保持冷靜，開始尋找降落地點。",
+        "time": null
+      },
+      {
+        "en": "He saw a road below. It was the only hope. Brock took the plane down, slowly... Finally, they landed. Everybody was okay!",
+        "tw": "他看到下面有一條路，是他們唯一的希望。Brock 讓飛機慢慢地降落，最後大家都安全。",
+        "time": null
+      },
+      {
+        "en": "Brock's landing was amazing! It's not easy to land a plane on a road, but Brock stayed calm and saved the day!",
+        "tw": "布洛克這次的降落真是令人驚嘆！在路上降落飛機並不容易，但布洛克保持冷靜，成功化解了危機！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "男孩駕駛飛機遇上大麻煩，但是他保持冷靜，救了自己和家人。",
+      "content": [
+        {
+          "text": "1. scared 害怕的\nHow was the flight? 這趟航班怎麼樣？\nI was so scared! 我好害怕！\nFirst, the engine made this strange noise. 先是引擎發出奇怪的聲音。",
+          "time": null
+        },
+        {
+          "text": "2. engine 引擎\nThat shouldn't be a big problem. 那應該不是大問題。\nYes, the plane has four engines, right? 沒錯，飛機有四個引擎，對吧？\nBut then the pilot began talking to us. 但是後來機長開始講話。",
+          "time": null
+        },
+        {
+          "text": "3. in the sky 在天上\nHe said there were too many birds in the sky. 他說天上有太多鳥了。\nHe wanted to land in Kaohsiung! 他要降落在高雄。",
+          "time": null
+        },
+        {
+          "text": "4. safe 安全的\nKaohsiung is a nice place. 高雄是個好地方。\nBut I didn't want to go there. 但是我不要去那裏。\nAnd birds scared me! 而且鳥讓我害怕！\nIt's okay. You're safe now. 沒關係，你現在安全了。",
+          "time": null
+        }
+      ],
+      "postscript": "我們來讀讀單字。\nscared 害怕的\nengine 引擎\nin the sky 在天上\nsafe 安全的"
+    },
+    "quiz": [
+      {
+        "question": "1. Who flies a plane?",
+        "options": [
+          "A: A pilot",
+          "B: A doctor",
+          "C: A driver"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "2. Where did Brock come from?",
+        "options": [
+          "A: Canada",
+          "B: California",
+          "C: China"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "3. Where did Brock land the plane?",
+        "options": [
+          "A: At an airport",
+          "B: On a lake",
+          "C: On a road"
+        ],
+        "time": null,
+        "answer": "C"
+      }
+    ]
   }
 ]
