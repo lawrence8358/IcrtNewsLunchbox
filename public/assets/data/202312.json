@@ -1381,5 +1381,110 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20231229-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Life on Land",
+      "Social Studies",
+      "Integrative Activities",
+      "Health and Physical Education"
+    ],
+    "title": "Kaohsiung's Countdown Will Be a Blast!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231228NK.mp3",
+    "content": [
+      {
+        "en": "In Taiwan, people love staying up late on New Year's Eve and watching fireworks. People countdown to midnight and then... kaboom!",
+        "tw": "在台灣，我們很喜歡熬夜跨年看煙火秀。",
+        "time": null
+      },
+      {
+        "en": "Most fireworks shows are not long. Kaohsiung City's 2023 fireworks show was three minutes long.",
+        "tw": "煙火秀通常不會維持很長的時間。高雄2023年煙火秀只有三分鐘長。",
+        "time": null
+      },
+      {
+        "en": "This time, Kaohsiung City is making their fireworks show one minute longer. People will see four minutes of fireworks. Four minutes is short. But in those four minutes, more than 7,000 fireworks will go off!",
+        "tw": "這一次高雄的煙火秀會多一分鐘，大家可以看到四分鐘的煙火秀，會發射超過7000支煙火。",
+        "time": null
+      },
+      {
+        "en": "The Kaohsiung Eye Ferris Wheel's colorful lights will make the show more beautiful! The fireworks will make the Port of Kaohsiung's waters sparkle!",
+        "tw": "高雄之眼摩天輪的燈光讓整個表演更漂亮。煙火將照亮整個高雄港。",
+        "time": null
+      },
+      {
+        "en": "Kaohsiung's mayor is excited. His city will shine! Big stars will be at the New Year's Eve countdown party before the fireworks!",
+        "tw": "高雄市長很期待他的城市發光。眾多明星也會在跨年倒數派對上表演。",
+        "time": null
+      },
+      {
+        "en": "Another fireworks show in Kaohsiung will be 999 seconds long. Kaohsiung's midnight sky will be bright! People are going to have a blast!",
+        "tw": "高雄另一個煙火秀長達999秒。高雄的跨年夜會很明亮，絕對可以享受跨年。",
+        "time": null
+      },
+      {
+        "en": "The New Year's Eve countdown is in two days. I can't wait to see the firework shows. Happy New Year everybody!",
+        "tw": "跨年倒數還有兩天。我等不及要看煙火表演了。大家新年快樂！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "高雄的跨年晚會很精彩，會有燦爛的煙火和各種表演。",
+      "content": [
+        {
+          "text": "1. party 派對\nWhat's your plan for New Year's Eve? 你跨年夜有什麼計畫?\nI'm going to a friend's party. 我要去朋友的派對。",
+          "time": null
+        },
+        {
+          "text": "2. minute 分鐘\nWe can see the Taipei 101 fireworks from her house.\n我們可以從她家看台北101煙火。\nBut that show only lasts three minutes! 但是那場秀只有三分鐘!",
+          "time": null
+        },
+        {
+          "text": "3. watch 看\nThat's good enough for me. 對我來說夠好了。\nI've never been so close to it before.我從來沒有那麼靠近過。\nI always watch it on YouTube, if at all. 我要是要看，都在YouTube上面看。",
+          "time": null
+        },
+        {
+          "text": "4. count down 倒數\nIt's totally different! 那完全不同!\nYou get to count down to the New Year with a lot of people!\n你跟一大群人一起倒數迎新年!\nBut New Year's Day is just like any other day. 但是元旦就跟任何一天一樣。",
+          "time": null
+        }
+      ],
+      "postscript": "一起來讀單字。\nparty派對\nminute分鐘\nwatch看\ncount down倒數"
+    },
+    "quiz": [
+      {
+        "question": "1. How many fireworks will go off in four minutes in Kaohsiung City's show?",
+        "options": [
+          "a. 10",
+          "b. 999",
+          "c. 7,000"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What does the Kaohsiung Eye Ferris Wheel have?",
+        "options": [
+          "a. Colorful fireworks",
+          "b. Colorful lights",
+          "c. A midnight sky"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What will make the Port of Kaohsiung's water sparkle?",
+        "options": [
+          "a. The party",
+          "b. The fireworks",
+          "c. The city"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
