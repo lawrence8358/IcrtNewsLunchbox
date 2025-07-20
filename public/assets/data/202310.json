@@ -317,5 +317,113 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20231025-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Life Below Water",
+      "Life on Land",
+      "Marine Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Technology"
+    ],
+    "title": "Submarine Finds New Golden … Thing",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231024NK.mp3",
+    "content": [
+      {
+        "en": "We live on Earth. Some people call it the \"Blue Planet\". From far away, the earth looks blue. That's because the earth has so much water.",
+        "tw": "地球有很多水，遠看地球是藍色的，因此有人把地球叫做藍色星球。",
+        "time": null
+      },
+      {
+        "en": "Most of the earth's water is in the oceans. Oceans are very big! Many things live in them. There are animals and plants we don't know about.",
+        "tw": "大部分地球上的水都在海洋，廣闊的海洋有很多我們還不知道的生物。",
+        "time": null
+      },
+      {
+        "en": "Some scientists get into submarines. The submarines take the scientists down to the ocean floor. The scientists explore, looking for new animals and plants to study.",
+        "tw": "科學家坐潛水艇到海底，探索新的動植物。",
+        "time": null
+      },
+      {
+        "en": "Scientists in a submarine were exploring the ocean near Alaska. They found something very strange …",
+        "tw": "他們在阿拉斯加的海域到處探索，發現一個奇怪的東西。",
+        "time": null
+      },
+      {
+        "en": "It's smooth, gold, and shiny. And it has a hole. Maybe something came out of it. Is it an egg? But it's soft, like people's skin! And it's very big …",
+        "tw": "這個金黃色的生物又滑又亮，還有一個洞，也許有東西跑出來了，是個蛋嗎? 但是它很軟，像人類的皮膚一樣。",
+        "time": null
+      },
+      {
+        "en": "Scientists don't know what it is! Is it a new kind of egg? Then what kind of animal was inside? How big is it? Is it dangerous? And where is it now …?! Watch out!",
+        "tw": "科學家不知道是什麼東西。是新物種的卵嗎? 那又是什麼樣的新物種呢? 牠多大? 很危險嗎? 牠現在在哪裡?",
+        "time": null
+      },
+      {
+        "en": "There's a lot we don't know about the Earth's animals and plants. We need to keep exploring! Who knows what we'll find …",
+        "tw": "我們對地球上的動植物還有很多不了解的地方。我們需要繼續探索！誰知道我們會發現什麼呢…！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這個新發現的海底物種讓科學家十分困惑。",
+      "content": [
+        {
+          "text": "1. blue 藍色的 Where can I go diving in Taiwan? 台灣哪裡可以潛水? Green Island is my favorite spot. 綠島是我最喜歡的地方。 The water is blue and clean, with lots of sea animals.海水又藍又乾淨，還有很多海洋動物。",
+          "time": null
+        },
+        {
+          "text": "2. find 找到 Can I find sea turtles there? 在那裏可以找到海龜嗎? I've found lots of fish, but no turtles.我有找到很多魚，不過沒有海龜。",
+          "time": null
+        },
+        {
+          "text": "3. far away 很遠 Is Green Island far away? 綠島很遠嗎? It's not far away from Taitung. 它離台東不遠。 A ferry ride takes about 40 minutes. 搭渡輪大約四十分鐘。",
+          "time": null
+        },
+        {
+          "text": "4. look for 尋找 I'm going to look for turtles and sharks.我要去找海龜和鯊魚。 Good luck on that! 祝你好運囉!",
+          "time": null
+        }
+      ],
+      "postscript": "這些英文字簡單好用。blue藍色的 find找到 far away很遠 look for尋找"
+    },
+    "quiz": [
+      {
+        "question": "1. What do some people call the \"Blue Planet\"?",
+        "options": [
+          "a. The ocean",
+          "b. Earth",
+          "c. Alaska"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What were the scientists doing in the submarine?",
+        "options": [
+          "a. Exploring",
+          "b. Flying",
+          "c. Climbing"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What color was the strange thing in the ocean?",
+        "options": [
+          "a. Blue",
+          "b. Green",
+          "c. Gold"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
