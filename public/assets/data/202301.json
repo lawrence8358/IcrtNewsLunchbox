@@ -640,5 +640,118 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230109-01",
+    "type": "國小",
+    "tag": [
+      "Clean Water and Sanitation",
+      "Affordable and Clean Energy",
+      "Industry, Innovation and Infrastructure",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life on Land",
+      "Life Below Water",
+      "Environmental Education",
+      "Technology Education",
+      "Energy Education",
+      "Safety Education",
+      "Disaster Risk Reduction Education",
+      "International Education"
+    ],
+    "title": "The World's Biggest Water Battery",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230107NK.mp3",
+    "content": [
+      {
+        "en": "We can use the power of water to make clean energy, without any smelly smoke or dirty pollution.",
+        "tw": "我們可以用水力製造乾淨的能源，還不會製造汙染跟濃煙！",
+        "time": null
+      },
+      {
+        "en": "That's why, high in the mountains of Switzerland, they've just built the world's biggest water battery!",
+        "tw": "現在瑞士在一座高山上，蓋了世界最大的水電池！",
+        "time": null
+      },
+      {
+        "en": "It's made of two huge lakes, one high above, and one down below. To make electricity, water moves super-fast from the high lake down to the low lake, through big long tunnels!",
+        "tw": "這個電池由兩座湖構成。水會從比較高的湖，通過隧道流到比較低的湖裡面，這樣就可以發電！",
+        "time": null
+      },
+      {
+        "en": "Inside the tunnels are huge turbines. They look like the blades of a fan, but much, much bigger!",
+        "tw": "隧道裡面有很大很大的渦輪，長得很像電風扇的葉片。",
+        "time": null
+      },
+      {
+        "en": "The power of the rushing water makes the turbines spin really fast. As the turbines spin, they make electricity!",
+        "tw": "水沖過渦輪，渦輪會開始高速轉動，就可以產生電力！",
+        "time": null
+      },
+      {
+        "en": "This water battery is so big it took 14 years to build, and it can make enough electricity to power 900,000 homes! That's more than they need in Switzerland, so they want to share it with the rest of Europe.",
+        "tw": "蓋這個水電池一共花了14年，生產的電力可以供應九十萬個家庭使用。因為自己用不完，瑞士打算跟其他國家分享！",
+        "time": null
+      },
+      {
+        "en": "Lots of clean energy for folks all over Europe, for years, all thanks to the world's biggest water battery!",
+        "tw": "歐洲各地的人們將會獲得多年的潔淨能源，這一切都歸功於這個世界上最大的水電池！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "瑞士的水電池，是利用水位的高低差來發電。",
+      "content": [
+        {
+          "text": "1. Switzerland 瑞士\nHave you ever been to Switzerland? 你有沒有去過瑞士？\nNo, have you? 沒有，你去過嗎？\nNo, but I'd sure like to visit. 沒有，很想去看看。",
+          "time": null
+        },
+        {
+          "text": "2. lake 湖泊\nThey have lots of beautiful lakes and high mountains.\n他們有很多漂亮的湖和高山。\nYeah, and lots of snow too. It must be very cold there.\n對，還有很多雪。那裏一定很冷。",
+          "time": null
+        },
+        {
+          "text": "3. biggest 最大的\nAnd Lake Geneva is the biggest high-mountain lake in Europe.\n還有，日內瓦湖是歐洲最大的高山湖。\nBigger than Sun Moon Lake? 比日月潭大嗎？\nMuch bigger. 大多了。",
+          "time": null
+        },
+        {
+          "text": "4. clean 乾淨的\nIt uses clean energy too. 它也用乾淨能源。\nIt all sounds great. 聽起來都很不錯。\nBut I prefer a warm place. 可是我喜歡溫暖的地方。",
+          "time": null
+        }
+      ],
+      "postscript": "今天學到哪些單字？\nSwitzerland 瑞士\nlake 湖泊\nbiggest 最大的\nclean 乾淨的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the world's biggest water battery?",
+        "options": [
+          "A: Sweden",
+          "B: Swaziland",
+          "C: Switzerland"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What's inside the water battery's big long tunnels?",
+        "options": [
+          "A: Smelly smoke",
+          "B: Huge turbines",
+          "C: Dirty pollution"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How long did this water battery take to build?",
+        "options": [
+          "A: 43 years",
+          "B: 14 years",
+          "C: 40 years"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
