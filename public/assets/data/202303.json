@@ -1391,5 +1391,127 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230322-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education",
+      "Outdoor Education",
+      "International Education",
+      "Disaster Risk Reduction Education",
+      "Energy Education",
+      "Environmental Education",
+      "Life on Land",
+      "Climate Action",
+      "Responsible Consumption and Production",
+      "Sustainable Cities and Communities",
+      "Affordable and Clean Energy",
+      "Clean Water and Sanitation",
+      "Natural Sciences"
+    ],
+    "title": "Californians Collect Water From Storms",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230321NK.mp3",
+    "content": [
+      {
+        "en": "Today is World Water Day! What does that mean? Does it mean we should all go take a bath and splash water everywhere?",
+        "tw": "今天是世界水資源日！這是甚麼意思？叫我們去泡澡、到處潑水嗎？",
+        "time": null
+      },
+      {
+        "en": "Not really! In fact, World Water Day is about taking care of our fresh water.",
+        "tw": "不是喔！世界水資源日要我們好好珍惜淡水資源。",
+        "time": null
+      },
+      {
+        "en": "Where does freshwater come from? It can come from the ground, or it can fall from the sky.",
+        "tw": "淡水從哪裡來？它可以來自地下，也可以是從天上。",
+        "time": null
+      },
+      {
+        "en": "How can we take care of our fresh water? To answer that question, let's talk about California. Recently, California has had two big problems with water.",
+        "tw": "我們如何保護我們的淡水？最近，加州碰到了兩個水資源的問題。",
+        "time": null
+      },
+      {
+        "en": "One problem is drought. That means it's too dry. For many years, there has not been enough fresh water in California!",
+        "tw": "一個問題是乾旱。 加州好幾年以來，一直沒有足夠的淡水！",
+        "time": null
+      },
+      {
+        "en": "But this winter, California had the opposite problem. There were huge rainstorms. The water came down too fast, and flooded many places.",
+        "tw": "但今年冬天，加州碰到了相反的問題。今年下了大豪雨，很多地方都淹水了。",
+        "time": null
+      },
+      {
+        "en": "Some Californians looked at these two problems, and had an idea. If they can save the water from the rainstorms, they can use it again later when it gets too dry.",
+        "tw": "加州有一些人想到，如果可以把豪雨的水存起來，以後就可以在乾旱時候用了。",
+        "time": null
+      },
+      {
+        "en": "So, they collected all the water they could. They keep it in barrels and in cans. Later, when the weather is dry again, they can use it to water trees and gardens.",
+        "tw": "他們盡可能把水蒐集起來，存在桶子裡面。當天氣又變乾時，那些水就可以用來澆花。",
+        "time": null
+      },
+      {
+        "en": "Taiwan sometimes has droughts too. Today, on World Water Day, let's remember to use our water well!",
+        "tw": "臺灣有時候也會有乾旱。今天，在世界水資源日，讓我們記得好好利用我們的水！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "水是珍貴資源，需要人類思考如何做最佳利用。",
+      "content": [
+        {
+          "text": "1. bath 洗澡\nI'm going to take a bath. 我要洗個澡。\nTwo baths in one day? 一天洗兩次？\nWhy not? I'll sleep better. 為什麼不呢?我會睡得比較好。",
+          "time": null
+        },
+        {
+          "text": "2. drought 乾旱\nWe're going through a drought, you know. 你知道我們正在鬧旱災。\nI do, and I've already stopped watering my trees.\n我知道，我已經停止給樹澆水了。",
+          "time": null
+        },
+        {
+          "text": "3. save 儲存\nYou can save some of the bath water for that. 你可以存一些洗澡水去澆水。\nThat's too much trouble. 太麻煩了。\nAnd the water may kill my trees. 那些水有可能弄死我的樹。",
+          "time": null
+        },
+        {
+          "text": "4. dry 乾掉\nNo, it won't. 不會的。\nAnd it'll be better than just letting them dry up. 比讓那些樹乾枯好。",
+          "time": null
+        }
+      ],
+      "postscript": "想想看，我們可以如何節省用水？來一起讀單字。\nbath 洗澡\ndrought 乾旱\nsave 儲存\ndry 乾掉"
+    },
+    "quiz": [
+      {
+        "question": "1. What day is today?",
+        "options": [
+          "a. World Whale Day",
+          "b. World Wind Day",
+          "c. World Water Day"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What happened in California this winter?",
+        "options": [
+          "a. Rainstorms",
+          "b. Hurricanes",
+          "c. Tsunamis"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did Californians do with all the water that fell?",
+        "options": [
+          "a. Take a bath",
+          "b. Save it for later",
+          "c. Splash it everywhere"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
