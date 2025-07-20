@@ -211,5 +211,104 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20231205-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education",
+      "Multicultural Education",
+      "Life Education",
+      "Character Education",
+      "Life on Land"
+    ],
+    "title": "Man Will Ride Bike Across the South Pole",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231204NK.mp3",
+    "content": [
+      {
+        "en": "Man Will Ride Bike Across the South Pole What is the loneliest place in the world? It's somewhere very few people live. Maybe it’s Antarctica! That’s the cold, snowy place around the South Pole.",
+        "tw": "這世界上最寂寞的地方在哪裡呢? 應該是南極洲，那裡很冷、而且滿地都是雪。",
+        "time": null
+      },
+      {
+        "en": "Omar Di Felice wants to ride his bike all the way across Antarctica. He tried to do this last year. But he stopped after one week. He felt too lonely. His family needed him too.",
+        "tw": "Omar Di Felice 想騎著單車跨越南極洲。他去年試過一次，但一個星期後就放棄了。他當時覺得太孤單寂寞，他的家人也需要他。",
+        "time": null
+      },
+      {
+        "en": "Now Omar wants to try again. He will start at one side. He will cross the South Pole. Then he will finish at the other side. He will ride two thousand kilometers!",
+        "tw": "Omar 現在想再試一次。他要從南極洲的一端騎車2000公里到另一邊。",
+        "time": null
+      },
+      {
+        "en": "Omar has a special bike. It's called a fatbike. It has wide tires. Omar can ride on snow and ice with this bike. He can carry his tent, clothes, and food on this bike.",
+        "tw": "Omar有一個特別的單車，叫做粗輪自行車。這種腳踏車有很寬的輪胎，可以騎在冰雪地面，也可以搭載帳篷、衣服跟食物。",
+        "time": null
+      },
+      {
+        "en": "Riding a bike across Antarctica will not be easy. It will be very cold and very windy. The bike will be heavy. But Omar wants to do this.",
+        "tw": "騎單車橫越南極洲可不容易，又冷又颳著風。單車也很笨重，但是Omar還是要這麼做。",
+        "time": null
+      },
+      {
+        "en": "Omar will be the first to ride a bike all the way across Antarctica. He knows he will be lonely. But this time, he’s ready!",
+        "tw": "Omar 將會是第一個騎單車橫越南極洲的人。他知道自己會很孤單，但這次他準備好了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "在南極洲騎單車雖然困難重重，Omar仍然決定再接再厲。",
+      "content": [
+        {
+          "text": "1. snowy 下雪的\nIt snowed on Datunshan last night! 昨天晚上大屯山下雪了!\nOh my God! We must go up there! 天哪，我們一定得趕去!\nNow? It could still be snowy and cold. 現在? 可能還在下雪，並且很冷。",
+          "time": null
+        },
+        {
+          "text": "2. ride 騎\nNo worries. 不擔心。\nSee the sun? The snow has stopped. 看到太陽了嗎? 雪已經停了。\nWe can even ride my motorbike up there. 我們甚至可以騎摩托車上去。",
+          "time": null
+        },
+        {
+          "text": "3. across 橫越\nIt’ll be faster than driving a car. 會比開車快。\nYou can count me out. 別把我算進去了。\nI don’t want to ride a motorbike across the mountain.我可不想騎摩托車橫越山區。",
+          "time": null
+        },
+        {
+          "text": "4. lonely 寂寞孤單的\nCome on, Jane! 好啦，珍!\nI would feel too lonely without you. 沒有你我會覺得很寂寞。",
+          "time": null
+        }
+      ],
+      "postscript": "Have you ever seen snow? Let’s read these words.\nsnowy下雪的\nride騎\nacross橫越\nlonely寂寞孤單的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where will Omar ride his bike?",
+        "options": [
+          "a. Australia",
+          "b. Antarctica",
+          "c. Alaska"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many kilometers will Omar ride?",
+        "options": [
+          "a. 1,000",
+          "b. 2,000",
+          "c. 3,000"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What kind of bike will Omar use?",
+        "options": [
+          "a. A fatbike",
+          "b. A fast bike",
+          "c. An electric bike"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
