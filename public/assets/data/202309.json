@@ -1,0 +1,98 @@
+ [
+  {
+    "id": "20230904-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Life on Land"
+    ],
+    "title": "Bees Like to Play",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230901NK.mp3",
+    "content": [
+      {
+        "en": "Hi, students! Have you ever heard of the phrase, \"Busy as a bee?\" If someone is \"Busy as a Bee,\" it means he or she is really busy.",
+        "tw": "你們有聽過「跟蜜蜂一樣忙」這種講法嗎？意思是這個人非常忙。",
+        "time": null
+      },
+      {
+        "en": "Bees are busy insects. They go to many flowers and collect pollen. That's good for flowers. Bees also build hives. The hives are their homes. And, of course, bees make honey. That's good for us.",
+        "tw": "蜜蜂是很忙碌的昆蟲。他們要蒐集花粉，要蓋蜂窩，也就是他們的家。蜜蜂還會做蜂蜜！",
+        "time": null
+      },
+      {
+        "en": "Here's something you probably didn't know about bees. They like to play! Some people at a university in London proved that. They taught bees to roll small balls. How did the researchers teach the bees to roll little balls? They gave them food when they rolled the balls.",
+        "tw": "但你可能不知道，蜜蜂也喜歡玩耍！倫敦一所大學的研究人員教蜜蜂滾小球，只要蜜蜂滾動小球，就給牠們食物。",
+        "time": null
+      },
+      {
+        "en": "But the researchers found something else really interesting. They saw the bees playing with balls even when they didn't get food.",
+        "tw": "但是研究人員發現，就算沒有食物，蜜蜂還是會去玩球。",
+        "time": null
+      },
+      {
+        "en": "Researchers also found that younger bees played with the balls more than adult bees. Hey, that's just like humans. Kids like to play more than their parents, right?",
+        "tw": "他們還發現年輕的蜜蜂更愛玩球。跟人類很像，小孩也比大人愛玩！",
+        "time": null
+      },
+      {
+        "en": "One young bee played with a ball a 117 times. Wow - a 117 times! I guess that bee was having a ball. \"Having a ball\" means to have a good time. I hope you kids are having a ball, too, today!",
+        "tw": "一隻小蜜蜂玩球玩了117次。哇——117次！我想那隻蜜蜂玩得很開心。「玩得很開心」就是指過得愉快。我希望你們這些孩子今天也玩得很開心！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "蜜蜂不是應該整天辛勤工作嗎? 但是有機會時牠們也會玩。",
+      "content": [
+        {
+          "text": "1. hear 聽到。 I've never heard such a thing! 我從來沒有聽過這種事! What? 什麼事? Bees playing with balls? 蜜蜂會玩球嗎? Yeah, bees are insects. 對啊，蜜蜂是昆蟲。 They make honey. 牠們製造蜂蜜。 They don't play.",
+          "time": null
+        },
+        {
+          "text": "2. mean 意思。 You mean insects don't know how to have fun? 你的意思是昆蟲不懂怎麼玩? Right. They must think the ball is food. 對。牠們一定以為球是吃的東西。",
+          "time": null
+        },
+        {
+          "text": "3. food 食物。 No, their food is pollen.不對，牠們的食物是花粉。 Well, to a young bee, balls probably look like pollen. 對小蜜蜂來說，球可能看起來像花粉。",
+          "time": null
+        },
+        {
+          "text": "4. prove 證明。 You can't prove that. 你沒辦法證明。 You're right. I can't. I wish I were a bee.",
+          "time": null
+        }
+      ],
+      "postscript": "來讀讀今天的單字。 hear聽到 mean意思 food食物 prove證明"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the bees play with?",
+        "options": [
+          "A: Flowers",
+          "B: Balls",
+          "C: People"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What is true about young bees?",
+        "options": [
+          "A: They like to play more than adults.",
+          "B: They don't like to play much.",
+          "C: They like to play as much as adults do."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What does the phrase, \"Having a ball,\" mean?",
+        "options": [
+          "A: Being busy",
+          "B: Throwing a ball",
+          "C: Having fun"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  }
+]
