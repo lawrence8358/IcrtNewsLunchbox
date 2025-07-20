@@ -310,5 +310,109 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20231208-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Environmental Education",
+      "Outdoor Education",
+      "International Education",
+      "Multicultural Education"
+    ],
+    "title": "This Planet Has Clouds Made of Sand",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231207NK.mp3",
+    "content": [
+      {
+        "en": "Scientists study planets, stars, and more in space. Space is cool. It has many surprises!",
+        "tw": "科學家研究太空中的行星跟恆星，還有其他很多現象。外太空總是帶給我們各種驚喜。",
+        "time": null
+      },
+      {
+        "en": "WASP-107b is a planet. It's much bigger than Earth. It's much hotter. It's about 500 degrees! It's close to its sun, so one year is six days!",
+        "tw": "行星WASP-107b比地球大很多，也比地球熱。它距離它的太陽很近，所以它一年只有6天。",
+        "time": null
+      },
+      {
+        "en": "WASP-107b is strange. Winds blow 36,000 kilometers per hour. And the planet is very light and fluffy! Some scientists call it a \"cotton candy\" planet.",
+        "tw": "這顆行星很奇怪。它又輕又蓬鬆，風速還高達6000公里，科學家把它叫做「棉花糖行星」。",
+        "time": null
+      },
+      {
+        "en": "WASP-107b's clouds are very strange. They're made of... sand?!? Scientists think the rocks in the sand are very small. They're smaller than the rocks in Earth's sand.",
+        "tw": "它的雲層也很奇怪，是由細沙組成。科學家認為沙子中的顆粒非常小，比地球的沙粒小很多。",
+        "time": null
+      },
+      {
+        "en": "These sand clouds make sand rain! The sand goes down to the planet. It turns into a gas. The gas goes up to the clouds. Water does the same on Earth.",
+        "tw": "這些沙雲會下沙雨! 落到行星的表面就會變成氣體，這些氣體又會上升變成雲，就像地球的水一樣。",
+        "time": null
+      },
+      {
+        "en": "How do scientists know about these sand clouds? A special space telescope showed them. It's helping scientists find out more about space.",
+        "tw": "科學家透過韋伯太空望遠鏡觀察到這些沙雲。這種望遠鏡幫助科學家更了解太空。",
+        "time": null
+      },
+      {
+        "en": "Clouds rain sand onto a cotton candy planet. What a surprise!",
+        "tw": "沙雲下在棉花糖行星上。真是令人驚訝！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這個太陽系外的行星，非常特別。",
+      "content": [
+        {
+          "text": "1. cotton candy 棉花糖\nHey, look, there's a cotton candy stand! 你看，那裏有賣棉花糖的攤子。\nCotton candy! 棉花糖!\nI haven't had it for years. 我好多年沒吃了。\nI loved it when I was little.我小時候好喜歡。",
+          "time": null
+        },
+        {
+          "text": "2. cloud 雲朵\nYeah, it's so fluffy it's like eating clouds.\n對啊，它好鬆軟，吃起來像在吃雲朵。We'd like 2 cotton candies.\n我們要兩支棉花糖。\nSure, that's 60 NT. 好，共六十塊。",
+          "time": null
+        },
+        {
+          "text": "3. made of 做成\nWhat is this made of, do you think? 你覺得這是什麼做的呢?\nSugar, of course. 當然就是糖囉。\nJust sugar? 只有糖嗎?",
+          "time": null
+        },
+        {
+          "text": "4. water 水\nWhy? You think there's something else? 為什麼? 你覺得還有別的嗎?\nI think there's water. 我覺得還有水。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like cotton candy? 來跟我一起讀單字。\ncotton candy棉花糖\ncloud雲朵\nmade of做成\nwater水"
+    },
+    "quiz": [
+      {
+        "question": "1. Which is true about WASP-107b?",
+        "options": [
+          "a. It's smaller than Earth",
+          "b. It's colder than Earth.",
+          "c. It's bigger than Earth."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many degrees is it on WASP-107b?",
+        "options": [
+          "a. About 15",
+          "b. About 50",
+          "c. About 500"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What kind of rain comes from WASP-107b's clouds?",
+        "options": [
+          "a. Sand",
+          "b. Water",
+          "c. Fire"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
