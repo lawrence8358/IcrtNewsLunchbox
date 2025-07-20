@@ -946,5 +946,104 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20231115-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Multicultural Education",
+      "Life Education",
+      "Environmental Education",
+      "Life on Land"
+    ],
+    "title": "Chickens Like Classical Music",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231114NK.mp3",
+    "content": [
+      {
+        "en": "What kind of music is this? It's classical music. Many people like classical music. Some dogs like it too. Do you know what other animals like classical music? Chickens!",
+        "tw": "很多人喜歡古典音樂，有一些狗狗也喜歡。但你知道還有哪一些動物喜歡古典音樂嗎？就是雞！",
+        "time": null
+      },
+      {
+        "en": "New Zealand has a famous group of musicians. They play music in very nice places. Some of these musicians played at a chicken farm! They played classical music outside. They played for thousands of chickens!",
+        "tw": "紐西蘭有一群有名的音樂家。他們多半在富麗堂皇的地方表演，他們之中有一些人在養雞場，對著成千上萬隻的雞演奏古典音樂。",
+        "time": null
+      },
+      {
+        "en": "Did the chickens like classical music? Yes! The musicians started playing. And the chickens came closer to the musicians! They didn't run away! Playing music for them made the musicians happy.",
+        "tw": "雞喜歡聽古典音樂嗎？是的，音樂家開始演奏的時候，雞沒有跑走，還會靠近，音樂家也很開心為牠們演奏。",
+        "time": null
+      },
+      {
+        "en": "This music was written for chickens. They don't like music with loud bangs. They don't like drums. So this music is peaceful.",
+        "tw": "雞不喜歡大聲的音樂，也不喜歡鼓。所以這首為雞寫的曲子很平和。",
+        "time": null
+      },
+      {
+        "en": "Why did the musicians play classical music for these chickens? Well, the farmers wanted their chickens to have a good life. These farmers care about them. Now these farmers will keep playing classical music for them!",
+        "tw": "這些音樂家為什麼要為雞演奏呢？因為雞農希望這些動物過得好，現在雞農會繼續播放音樂給牠們聽。",
+        "time": null
+      },
+      {
+        "en": "Playing classical music is nice for chickens. They like it. How about playing jazz for giraffes … or rock and roll for rabbits?",
+        "tw": "對雞來說，播放古典音樂是件好事。牠們喜歡。那對長頸鹿播放爵士樂…或者對兔子播放搖滾樂呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "動物也喜歡音樂，而這群紐西蘭音樂家，喜歡演奏音樂給雞聽。",
+      "content": [
+        {
+          "text": "1. peaceful 和平的 Hmmmm, very nice music! 真好聽的音樂。 Yes, it makes me feel peaceful every time I listen to it. 對，我每次聽都覺得很安寧。",
+          "time": null
+        },
+        {
+          "text": "2. like 喜歡 So you like classical music? 所以你喜歡古典音樂? I like some of it, not all. 有一些我喜歡，不是全部。 Violin solos make me sleepy. 小提琴獨奏就讓我想睡覺。",
+          "time": null
+        },
+        {
+          "text": "3. kind 種類 How about you? What kind of music do you enjoy? 你呢，你喜歡哪種音樂? I enjoy pop music, like Lady Gaga or Beyonce's songs. 我喜歡流行音樂，比如說女神卡卡或是碧昂絲的歌。",
+          "time": null
+        },
+        {
+          "text": "4. play 播放 I like them, too. 我也喜歡。 Sometimes I play pop songs on YouTube when I'm doing house chores. 有時候我做家事會播YouTube的流行歌曲。",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字? peaceful和平的 like喜歡 kind種類 play播放"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of music do chickens like?",
+        "options": [
+          "a. Peaceful music",
+          "b. Music with loud bangs",
+          "c. Music with drums"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What did the chickens do when they heard the music?",
+        "options": [
+          "a. Ran away",
+          "b. Laid eggs",
+          "c. Came closer"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How did the musicians feel about playing music for chickens?",
+        "options": [
+          "a. Sad",
+          "b. Happy",
+          "c. Angry"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
