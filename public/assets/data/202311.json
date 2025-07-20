@@ -421,5 +421,115 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20231108-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life Below Water",
+      "Life on Land",
+      "Environmental Education",
+      "Marine Education",
+      "Family Education",
+      "Safety Education",
+      "Outdoor Education",
+      "Natural Sciences",
+      "Health and Physical Education",
+      "Integrative Activities"
+    ],
+    "title": "Ocean Takes Family Car",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231107NK.mp3",
+    "content": [
+      {
+        "en": "Do you like beaches? They're fun! You can swim in the ocean. You can relax on the sand. You can watch the sun go down. But be careful! Don't park your car by the ocean!",
+        "tw": "你喜歡海邊嗎?你可以游泳、在沙灘上放鬆、看夕陽。但是要注意喔! 不要把車停在海邊!",
+        "time": null
+      },
+      {
+        "en": "That's what a family did. They drove to Waipu Beach in Miaoli around five p.m. one day. They parked their two cars on the beach. Then they went and had fun!",
+        "tw": "有一天有一個家庭開車到苗栗外埔海灘，他們把兩台車停在海邊，就去玩了!",
+        "time": null
+      },
+      {
+        "en": "They forgot about the ocean tides! At high tide, the ocean's water goes up three or four meters in Miaoli. At low tide, it goes down. A dry place on the beach can be underwater a few hours later.",
+        "tw": "他們忘記海水會漲潮。外埔海攤漲潮的時候會上升3或4公尺。退潮的時候會下降。在短短的幾個小時內，海邊乾燥的地方就會被海水淹沒。",
+        "time": null
+      },
+      {
+        "en": "The family had fun ... and the water went up! Then the cars were IN the ocean!",
+        "tw": "這個家庭玩得很開心，但是不久後海水漲潮，他們的車就泡在海裡。",
+        "time": null
+      },
+      {
+        "en": "The family and other people pushed and pushed the cars. They saved one car. But it was too late for the other car.",
+        "tw": "他們和其他的人一起推車子，但是只來得及救一台車。",
+        "time": null
+      },
+      {
+        "en": "The water didn't go down until the next morning. The family waited to get their car. But it doesn't work now...",
+        "tw": "隔天早上海水才退潮。他們等到退潮後才去牽車，但是車子發不動了。",
+        "time": null
+      },
+      {
+        "en": "So when you go to the beach, be careful about high tide - and your car!",
+        "tw": "所以當你去海邊的時候，請務必小心漲潮——還有你的車！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "汽車停得離大海太近，漲潮時就被海水吞沒了。",
+      "content": [
+        {
+          "text": "1. have 有\nI really miss our time at the beach last week.\n我真想念我們上星期在海灘的時光。\nYeah, we had lots of fun, didn't we? 對啊，我們玩得可開心了。",
+          "time": null
+        },
+        {
+          "text": "2. go down 往下\nI laughed so hard when Tom's car went down in the ocean!\n湯姆的車子掉進海裡時我笑死了!\nAnd he had to go underwater to push it. 他還得到水下面去推車。",
+          "time": null
+        },
+        {
+          "text": "3. forget 忘記\nHe totally forgot about the ocean tides. 他完全忘記了海潮。\nYeah, none of us saw the water coming. 對啊，我們也沒有人看到海水來了。",
+          "time": null
+        },
+        {
+          "text": "4. relax 放鬆\nI'm thinking of going back there next week. 我想下個星期舊地重遊。\nGood idea. We can relax on the sand and watch the sunset.\n好主意。我們可以在沙灘上徜徉看夕陽。",
+          "time": null
+        }
+      ],
+      "postscript": "我們一起來讀單字。\nhave有\ngo down往下\nforget忘記\nrelax放鬆"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is Waipu Beach?",
+        "options": [
+          "a. Hualien",
+          "b. Tainan",
+          "c. Miaoli"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What made the ocean water go up?",
+        "options": [
+          "a. The wind",
+          "b. The tide",
+          "c. A typhoon"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why did the family push the cars?",
+        "options": [
+          "a. To save them",
+          "b. To park them",
+          "c. To have fun"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
