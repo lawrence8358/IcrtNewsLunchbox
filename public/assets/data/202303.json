@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20230301-01",
     "type": "國小",
@@ -89,6 +89,114 @@
           "A: They eat too much",
           "B: They will bite you",
           "C: They get scared very easily"
+        ],
+        "time": null,
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "id": "20230303-01",
+    "type": "國小",
+    "tag": [
+      "Outdoor Education",
+      "International Education",
+      "Life Education",
+      "Marine Education",
+      "Environmental Education",
+      "Life on Land",
+      "Life Below Water",
+      "Climate Action",
+      "Natural Sciences"
+    ],
+    "title": "Satellite Finds New Group of Penguins",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230302NK.mp3",
+    "content": [
+      {
+        "en": "Today is World Wildlife Day. Let's talk about a wild animal that lives in a cold, icy place... the emperor penguin.",
+        "tw": "今天是世界野生動物日。我們來談談生活在冷冰冰地方的野生動物... 皇帝企鵝。",
+        "time": null
+      },
+      {
+        "en": "Emperor penguins live in Antarctica. It is their home, but it is too cold for people. How can we learn more about these wild animals?",
+        "tw": "皇帝企鵝生活在南極洲。這是他們的家，那裡對人類來說太冷了。我們要怎麼樣做才能更了解這些野生動物呢？",
+        "time": null
+      },
+      {
+        "en": "We can use a satellite. A satellite flies high in the sky. It can take photos of Earth.",
+        "tw": "我們可以使用衛星。衛星高飛在天空中，可以拍攝地球的照片。",
+        "time": null
+      },
+      {
+        "en": "Recently, scientists were looking at satellite photos of Antarctica, when they saw something strange. They saw a little dot on the ice. What was it?",
+        "tw": "科學家最近在查看南極洲的衛星照片時，看到一些奇怪的東西。他們在冰上看到一個小黑點，到底是什麼？",
+        "time": null
+      },
+      {
+        "en": "They looked closer, and saw the little dot was actually a big group of penguins. There were a thousand penguins in the group. They were living on the ice together, catching fish to feed their babies.",
+        "tw": "仔細看過之後，發現那個小點其實是一大群企鵝，大約有一千隻。他們一起生活在冰上，捕魚餵養企鵝寶寶。",
+        "time": null
+      },
+      {
+        "en": "The scientists are happy. There are fewer and fewer emperor penguins every year, so it's good news to find more.",
+        "tw": "科學家很高興。皇帝企鵝的數量一年比一年少，所以能找到更多是個好消息。",
+        "time": null
+      },
+      {
+        "en": "Now scientists can study this wildlife, all thanks to the satellite photos!",
+        "tw": "現在科學家可以研究這種野生動物，這都要感謝衛星照片！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "靠著衛星照片，科學家更了解企鵝生態。",
+      "content": [
+        {
+          "text": "1. mountain 山\nThe TV says it's snowing up on Hehuanshan! 電視說合歡山正在下雪！\nCan we go up there now, please? 我們可以現在上去嗎，拜託？\nNow? It's an icy mountain road! 現在？那可是結冰的山路！\nI have to get ready. 我得要準備。",
+          "time": null
+        },
+        {
+          "text": "2. mean 意思\nYou mean we can't go up now? 你的意思是我們現在不能上山？\nI mean we can't do that today. 我意思是我們今天沒辦法上山。",
+          "time": null
+        },
+        {
+          "text": "3. ice 冰\nThere's so much ice on the road! 馬路上好多地方結冰了。\nI know. I told you it's not easy. 我知道。我就跟你說這不容易。",
+          "time": null
+        },
+        {
+          "text": "4. take photos 拍照\nBut it's so beautiful! 但是風景真好！\nI want to take photos of this snow! 我要拍這些雪景！",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學了哪些單字？\nmountain 山\nmean 意思\nice 冰\ntake photos 拍照"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do emperor penguins live?",
+        "options": [
+          "A: Australia",
+          "B: Antarctica",
+          "C: America"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "2. What did scientists use to find the penguins?",
+        "options": [
+          "A: A satellite",
+          "B: A submarine",
+          "C: A soccer ball"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "3. What day is today?",
+        "options": [
+          "A: Icy Cold Day",
+          "B: Happy Penguin Day",
+          "C: World Wildlife Day"
         ],
         "time": null,
         "answer": "C"
