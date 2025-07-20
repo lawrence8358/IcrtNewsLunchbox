@@ -1,0 +1,113 @@
+ [
+  {
+    "id": "20231101-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Life on Land",
+      "Natural Sciences",
+      "Environmental Education"
+    ],
+    "title": "These Blind Farmers Help With Your Rice and Noodles",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231031NK.mp3",
+    "content": [
+      {
+        "en": "Do you like grains? Some grains are rice, corn, and wheat.",
+        "tw": "你喜歡穀物嗎? 譬如說米飯、玉米跟小麥。",
+        "time": null
+      },
+      {
+        "en": "In Taiwan, we use rice to make braised pork rice. We use cornstarch to make egg crepes, sauces, and fried chicken. We use wheat flour to make noodles for beef noodle soup and buns for pork belly buns.",
+        "tw": "在台灣，我們用米飯做滷肉飯，用玉米粉做蛋餅、醬料跟炸雞，還用麵粉做牛肉麵跟割包。",
+        "time": null
+      },
+      {
+        "en": "Scientists say there's a big group of farmers. The farmers help grow 140 BILLION kilograms of grain every year. The biggest grain growers in the world are China, the US, India, and these farmers!",
+        "tw": "科學家說有一大群農夫，每年幫助種植1400億公斤的穀物。種最多糧食的是中國、美國、印度跟這一群農夫。",
+        "time": null
+      },
+      {
+        "en": "Grains grow well in good dirt.",
+        "tw": "穀物需要在肥沃的土壤才能長得好。",
+        "time": null
+      },
+      {
+        "en": "These farmers make holes in dirt. The holes let air and water go into it. They break down leaves and other things in dirt. And they put their poop there!",
+        "tw": "牠們在土壤鑽洞，讓水跟空氣進到土裡。牠們分解樹葉跟其他的東西，也會將牠們的排泄物混入土裡。",
+        "time": null
+      },
+      {
+        "en": "You know WHAT these farmers are, right? They're NOT people. They're earthworms!",
+        "tw": "你知道這些農夫是什麼，對吧? 牠們不是人類喔，是蚯蚓!",
+        "time": null
+      },
+      {
+        "en": "Earthworms live all over the world. They're helping to grow our food and they do everything with no arms or legs. And they do everything with no eyes. They're blind farmers!",
+        "tw": "蚯蚓生活在世界各地，牠們幫助種植糧食，而且牠們沒有手跟腳，也看不到!",
+        "time": null
+      },
+      {
+        "en": "Now let's eat some of the grain these hardworking earthworms helped grow!",
+        "tw": "現在，讓我們來吃一些這些勤奮的蚯蚓幫忙種植的穀物吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "住在泥土裡面的蚯蚓，對於農作物有非常大的幫助。",
+      "content": [
+        {
+          "text": "1. flour 麵粉\nFlour is amazing stuff. 麵粉很神奇呢。\nBecause it feeds so many people? 因為它可以餵飽很多人?\nThat too, but think about the different ways people use it.",
+          "time": null
+        },
+        {
+          "text": "2. noodle 麵條\nYeah, like noodles and bread. 沒錯，比如說麵條、麵包。\nI love noodles.我愛吃麵。\nMe too! And birthday cakes and pizzas. 我也是! 還有生日蛋糕和披薩。",
+          "time": null
+        },
+        {
+          "text": "3. egg 蛋\nYou're right. Cakes are made of flour, eggs and sugar.\n你說得對，蛋糕是用麵粉，雞蛋和糖做的。",
+          "time": null
+        },
+        {
+          "text": "4. pork 豬肉\nAnd when you wrap pork inside flour skin. 而當你把豬肉包進麵皮裡…\nYou get dumplings! 就得到了水餃!\nExactly. 正是。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你可記住了?\nflour麵粉\nnoodle麵條\negg蛋\npork豬肉"
+    },
+    "quiz": [
+      {
+        "question": "1. What are some grains?",
+        "options": [
+          "a. Corn and pork",
+          "b. Eggs and flour",
+          "c. Rice and wheat"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many kilograms of grain do these farmers help grow every year?",
+        "options": [
+          "a. 40 billion",
+          "b. 100 billion",
+          "c. 140 billion"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What are these farmers?",
+        "options": [
+          "a. People",
+          "b. Earthworms",
+          "c. Scientists"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  }
+]
