@@ -753,5 +753,114 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230110-01",
+    "type": "國小",
+    "tag": [
+      "No Poverty",
+      "Zero Hunger",
+      "Industry, Innovation and Infrastructure",
+      "Reduced Inequalities",
+      "Decent Work and Economic Growth",
+      "Human Rights Education",
+      "Environmental Education",
+      "Life Education",
+      "Multicultural Education",
+      "International Education"
+    ],
+    "title": "Indian Man Grows Taiwanese Guava",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230109NK.mp3",
+    "content": [
+      {
+        "en": "Do you like to eat guava? It's a green fruit that grows on a tree. I'm eating some right now. Delicious! Guava is popular in Taiwan, but people in India also eat it.",
+        "tw": "你喜歡吃芭樂嗎？芭樂不只在台灣很有名，印度人也吃芭樂。",
+        "time": null
+      },
+      {
+        "en": "In fact, an Indian farmer named Kapil is thankful for Taiwanese guava. This fruit has made his farm successful.",
+        "tw": "有一位叫 Kapil 的印度農夫很感謝台灣的芭樂，因為芭樂讓他的農場大獲成功。",
+        "time": null
+      },
+      {
+        "en": "Kapil used to work at a big city bank. When COVID-19 came to India, Kapil lost his job. He had to go home to his family's village.",
+        "tw": "Kapil 本來在銀行工作，但是在疫情時丟掉了工作，只好回到家鄉。",
+        "time": null
+      },
+      {
+        "en": "He could not find another job, so he decided to grow fruit. Some people said he couldn't grow fruit, because the weather was too dry. But Kapil wanted to try anyway.",
+        "tw": "他找不到工作，所以決定去種水果。有人說那裡的天氣太乾燥了，沒辦法種水果，但是他還是想試試看。",
+        "time": null
+      },
+      {
+        "en": "He found a company that sold baby guava trees from Taiwan. He learned this kind of fruit tree does not need much water, so it can grow in dry places. It was the perfect choice for Kapil.",
+        "tw": "他找到一間賣台灣芭樂樹苗的公司。他發現這種水果不需要很多水，很適合乾燥的地方。",
+        "time": null
+      },
+      {
+        "en": "He planted the baby trees and watched them grow. Finally, he harvested the guava. His fruit was super tasty! He sold the fruit and made good money.",
+        "tw": "他把樹苗種在土裡，看著它們長大。結果他收成的芭樂超級好吃！他賣掉芭樂，賺了很多錢。",
+        "time": null
+      },
+      {
+        "en": "These days, Kapil is a successful farmer. His guava fruit are popular in that part of India. He says Taiwan guavas changed his life.",
+        "tw": "如今，Kapil 是一位成功的農夫。他的芭樂在印度該地區很受歡迎。他說台灣芭樂改變了他的生活。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "芭樂是一種美味又營養的水果，在印度也能生長。",
+      "content": [
+        {
+          "text": "1. fruit 水果\nI need some green plants in my room. 我房間裡需要一些綠色植物。\nHave you tried fruit trees? 你有試過放果樹嗎？",
+          "time": null
+        },
+        {
+          "text": "2. grow 種植\nNo, are they easy to grow? 沒有，它們好種嗎？\nSome of them are. 有些很好種。\nThey can grow well even in dry places. 就算在乾燥的地方也長得很好。",
+          "time": null
+        },
+        {
+          "text": "3. successful 成功的\nWe're in Taipei. It's usually wet. 我們在台北，經常很潮濕。\nYou're right. 你是對的。\nThen you should be successful in growing them. 那你種果樹應該會成功。",
+          "time": null
+        },
+        {
+          "text": "4. try 嘗試\nHmmm, what should I grow? 種什麼好呢？\nI suggest you try blueberries. 我建議你試試看藍莓。\nBecause you love them. 因為你喜歡藍莓。\nOf course. 當然。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like eating fruit?\nfruit 水果\ngrow 種植\nsuccessful 成功的\ntry 嘗試"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does Kapil live?",
+        "options": [
+          "A: Vietnam",
+          "B: Taiwan",
+          "C: India"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What caused Kapil to lose his bank job?",
+        "options": [
+          "A: Dry weather",
+          "B: COVID-19",
+          "C: His boss"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why did Kapil choose to grow Taiwanese guava?",
+        "options": [
+          "A: They grow faster",
+          "B: They are greener",
+          "C: They need less water"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
