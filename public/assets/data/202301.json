@@ -423,5 +423,114 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230106-01",
+    "type": "國小",
+    "tag": [
+      "Decent Work and Economic Growth",
+      "Industry, Innovation and Infrastructure",
+      "Technology Education",
+      "Reading Literacy Education",
+      "International Education"
+    ],
+    "title": "Printers Help Musicians Save Money",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230105NK.mp3",
+    "content": [
+      {
+        "en": "Ah! The violin. So beautiful, so peaceful, so… expensive!",
+        "tw": "小提琴聲音好好聽，可是好貴！",
+        "time": null
+      },
+      {
+        "en": "The most expensive violin ever made cost 20 million U.S. dollars, that's nearly 615 million NT dollars! A new violin for a beginner costs about 15,000 NT. But that's still a lot of money!",
+        "tw": "世界最貴的小提琴要兩千萬美金，將近六億一千五百萬台幣！初學者的小提琴大概一萬五千元台幣，但這樣還是很貴！",
+        "time": null
+      },
+      {
+        "en": "Do you know what that is? That's the sound of a 3D printer.",
+        "tw": "這個聲音是 3D 印表機。",
+        "time": null
+      },
+      {
+        "en": "They're so cool, they can make anything you like! Toys, tables, tennis rackets… you name it!",
+        "tw": "可以做出任何你想要的東西，像是玩具、桌子、網球拍都可以！",
+        "time": null
+      },
+      {
+        "en": "You type in what you want, and the 3D printer gets to work, shooting liquid plastic into the air! The plastic goes hard really fast, which means it can make lots of different shapes and sizes.",
+        "tw": "只要輸入想要的東西，3D印表機就會噴出液態塑膠，很快就會乾囉。這代表我們可以做出各種形狀、大小的東西！",
+        "time": null
+      },
+      {
+        "en": "Some clever musicians in America are now using 3D printers to make violins, so they're much cheaper!",
+        "tw": "美國有一些音樂家已經在用3D列印機製造小提琴，這樣便宜多了！",
+        "time": null
+      },
+      {
+        "en": "Other instruments have been 3D printed before too, like guitars and saxophones!",
+        "tw": "以前也有人用3D列印機做出吉他跟薩克斯風。",
+        "time": null
+      },
+      {
+        "en": "What instrument would you like to print and play?",
+        "tw": "你想要列印和演奏什麼樂器？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "3D印表機可以做出小提琴，而且聲音還跟真正的小提琴一樣！",
+      "content": [
+        {
+          "text": "1. play 彈奏\nI've never learned to play the guitar. 我從來沒學過彈吉他。\nBut you play so well! 你卻彈得這麼好！\nThank you. I'm still a beginner. 謝謝你，我還是初學者。\nI taught myself how to play last year. 我去年才教我自己怎麼彈。",
+          "time": null
+        },
+        {
+          "text": "2. cost 花費\nMaybe you should take a class. 也許你該去上個課。\nNo, that would cost too much. 不了，那花太多錢了。",
+          "time": null
+        },
+        {
+          "text": "3. clever 聰明的\nHow about letting me help you? 讓我幫你忙如何？\nWhat, for guitar lessons? 什麼忙，上吉他課嗎？\nYeah, you're clever. You can learn it fast. 對啊，你很聰明的，可以學很快。",
+          "time": null
+        },
+        {
+          "text": "4. guitar 吉他\nThen can I have a new guitar? 那我可以有一把新吉他嗎？\nNot worried about the cost now? 現在你就不擔心花費了？",
+          "time": null
+        }
+      ],
+      "postscript": "These are useful words to learn.\nplay 彈奏\ncost 花費\nclever 聰明的\nguitar 吉他"
+    },
+    "quiz": [
+      {
+        "question": "1. How much is 20 million U.S. dollars in NT dollars?",
+        "options": [
+          "A: Over 615 million NT",
+          "B: Exactly 615 million NT",
+          "C: Nearly 615 million NT"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What does a 3D printer shoot into the air?",
+        "options": [
+          "A: Liquid plastic",
+          "B: Solid water",
+          "C: Gassy beans"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What other instrument has been 3D printed before?",
+        "options": [
+          "A: A saxophone",
+          "B: A piano",
+          "C: A church organ"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
