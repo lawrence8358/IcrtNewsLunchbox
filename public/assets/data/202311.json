@@ -838,5 +838,113 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20231114-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Outdoor Education",
+      "Life on Land",
+      "Environmental Education"
+    ],
+    "title": "Hide and Seek with Taiwan's Big Cats",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231113NK.mp3",
+    "content": [
+      {
+        "en": "Let's play hide and seek! I'll count. You hide. Find somewhere I can't see you. Ready? Go!",
+        "tw": "我們一起玩捉迷藏吧！我來當鬼，你去找個我看不到你的地方。",
+        "time": null
+      },
+      {
+        "en": "3 … 2 … 1! Ready or not, here I come! … Hey! Where did you go?! Hmm … I found you! I win! Hide and seek is so fun!",
+        "tw": "3…2…1！不管你準備好了沒，我來了！…嘿！你跑去哪了？！嗯…我找到你了！我贏了！捉迷藏真好玩！",
+        "time": null
+      },
+      {
+        "en": "How about playing hide and seek with an elephant? That's too easy, right? How about playing with a mouse? That's too hard!",
+        "tw": "跟大象一起玩捉迷藏太容易了，但是跟一隻老鼠玩就很困難。",
+        "time": null
+      },
+      {
+        "en": "How about playing hide and seek with a cat? Cats move quietly. They're very good climbers. And their fur helps them hide.",
+        "tw": "那跟貓一起玩躲貓貓呢？牠們很會爬，還有保護色。",
+        "time": null
+      },
+      {
+        "en": "Taiwan has a big cat called the Formosan clouded leopard. It's very good at hiding. People have looked for it for 150 years!",
+        "tw": "台灣有一種大型貓科動物叫做台灣雲豹。牠們很會躲，人們已經花了150年找牠們。",
+        "time": null
+      },
+      {
+        "en": "The National Taiwan Museum made a kids' book. It's about the Formosan clouded leopard. It's written in Taiwanese and Mandarin. Guess what it's called … \"Hide and Seek\"!",
+        "tw": "國立臺灣博物館分別以中文跟台語，製作了一本關於台灣雲豹的繪本，書名就叫做「捉迷藏」。",
+        "time": null
+      },
+      {
+        "en": "Now it's on an important kids' booklist, the \"White Ravens 2023 List\". People around the world use it to find books for kids.",
+        "tw": "這本書入選2023年的白烏鴉獎，很多人都從得獎名單裡面幫小孩找適合的童書。",
+        "time": null
+      },
+      {
+        "en": "Now more kids everywhere will read about Taiwan's Formosan clouded leopard! I can't wait to read this book!",
+        "tw": "現在，世界各地有更多孩子將會讀到關於台灣雲豹的故事！我等不及要讀這本書了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台灣雲豹行蹤隱密，讓人類怎麼也找不到牠。",
+      "content": [
+        {
+          "text": "1. hide 躲藏\nI didn't like playing hide and seek when I was little.\n我小時候不喜歡玩捉迷藏。Neither did I. 我也不喜歡。\nI never knew where to hide. 我都不知道要躲去哪裡。",
+          "time": null
+        },
+        {
+          "text": "2. find 找到\nMe too.我也是。\nWe lived in an old house. 我們住在老房子。\nAll the hiding places were dark. 所有躲藏的地方都很黑。\nBut I didn't want to be found. 但是我不想被找到。",
+          "time": null
+        },
+        {
+          "text": "3. hard 困難的\nOnce I even climbed up a tree. 我有一次甚至爬到樹上。\nThat's hard for a little kid! 對小孩來說太難了!\nIt was okay. 還好。",
+          "time": null
+        },
+        {
+          "text": "4. look for 尋找\nEverybody was looking for me, but I stayed on the tree.\n每個人都在找我，但是我就待在樹上。\nFor a long time? 待了很久嗎?\nYes, because I didn't know how to come down. 對，因為我不知道怎麼爬下樹。",
+          "time": null
+        }
+      ],
+      "postscript": "Have you ever played hide and seek?\nhide躲藏\nfind找到\nhard困難的\nlook for尋找"
+    },
+    "quiz": [
+      {
+        "question": "1. What has been hiding for 150 years?",
+        "options": [
+          "a. The Formosan clouded elephant",
+          "b. The Formosan clouded leopard",
+          "c. The Formosan clouded mouse"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Who made the book \"Hide and Seek\"?",
+        "options": [
+          "a. White Ravens",
+          "b. Taiwan",
+          "c. A museum"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What language is the book \"Hide and Seek\" written in?",
+        "options": [
+          "a. Taiwanese and Mandarin",
+          "b. Mandarin and English",
+          "c. English and German"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
