@@ -1150,5 +1150,109 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20231117-01",
+    "type": "國小",
+    "tag": [
+      "Outdoor Education",
+      "Multicultural Education",
+      "Family Education",
+      "Life on Land",
+      "Sustainable Cities and Communities"
+    ],
+    "title": "Christmasland Is Here",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231116NK.mp3",
+    "content": [
+      {
+        "en": "Christmas is here in New Taipei City! From today until New Year's Day, you can go to Christmasland! At this festival, see Santa Bear and his friends: a snowman, a gingerbread man, a rabbit, and ... macarons!",
+        "tw": "新北市要來迎接聖誕節! 從今天起到元旦，你可以去新北耶誕城喔! 這個活動我們可以看到桑塔熊跟他的夥伴雪人、薑餅人、兔子，還有馬卡龍!",
+        "time": null
+      },
+      {
+        "en": "People love Christmasland's lights. There are sooooo many! The lights go on at 5:30 p.m. Many lights are cute! Many are beautiful!",
+        "tw": "大家都喜歡耶誕城的多種燈飾，很多燈都很可愛也很漂亮，燈飾亮燈的時間從五點半開始。",
+        "time": null
+      },
+      {
+        "en": "New Taipei City Hall Square's lights are about a \"Sweet Xmas Party\". There's a Christmas tree light. It turns into a matcha tea cake! It has a 5-minute light show. The show is every 30 minutes.",
+        "tw": "新北市民廣場燈光主題是「甜蜜耶誕派對」，將耶誕樹打造成抹茶蛋糕。每30分鐘就有5分鐘的燈光秀。",
+        "time": null
+      },
+      {
+        "en": "Banqiao Railway Station's lights are about sweets too. \"Sweets Town\" has a candy house and a big pink donut! There are many cute desserts!",
+        "tw": "板橋車站站前廣場也很甜蜜。主題「甜點小鎮」有一個粉紅色的大甜甜圈，還有其他的可愛的甜點。",
+        "time": null
+      },
+      {
+        "en": "In Wanping Park, there's a famous cat and his friends. They have a fun Christmas party every night.",
+        "tw": "萬坪公園每一個晚上有知名的卡通貓跟他的朋友一起開派對!",
+        "time": null
+      },
+      {
+        "en": "The biggest gingerbread man in Taiwan lights up Fuzhong Plaza's \"Gingerbread World\"! Some streets and footbridges have many, many beautiful lights too!",
+        "tw": "府中廣場的「薑餅樂園」有全台灣最大的薑餅人燈飾，有一些街道跟橋也有很多漂亮燈飾。",
+        "time": null
+      },
+      {
+        "en": "There's so much to see! Let Christmasland in New Taipei City light up your holidays!",
+        "tw": "有很多東西可以看！讓新北市的耶誕城點亮你的假期吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "今年的新北市歡樂耶誕城，耶誕燈飾跟以往都不一樣。",
+      "content": [
+        {
+          "text": "1. dessert 甜點\nHave you tried the macarons at that dessert shop?\n你有吃過那家甜點店的馬卡龍嗎?\nNo. I often find macarons too sweet. 沒有，我經常覺得馬卡龍太甜了。",
+          "time": null
+        },
+        {
+          "text": "2. cake 蛋糕\nThat's true.那是真的。\nWell, then you should try their bitter chocolate cake.\n那你應該嚐嚐他們的苦巧克力蛋糕。\nIt's wonderful! 很棒的。",
+          "time": null
+        },
+        {
+          "text": "3. tea 茶\nSo you've had that too? 那你也吃過了?\nYeah, I have a weakness for dessert.對，我就是愛甜點。\nI like to have it with tea.我喜歡吃甜點配茶。",
+          "time": null
+        },
+        {
+          "text": "4. candy 糖果\nI'd rather just have some simple candies. 我寧願只吃一點簡單的糖果。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡吃甜點嗎?\ndessert甜點\ncake蛋糕\ntea茶\ncandy糖果"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is Christmasland?",
+        "options": [
+          "a. Taipei City",
+          "b. New Taipei City",
+          "c. Tainan City"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do people love at Christmasland?",
+        "options": [
+          "a. The lights",
+          "b. Christmas presents",
+          "c. Santa Claus"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What's at Wanping Park?",
+        "options": [
+          "a. A macaron",
+          "b. A cat",
+          "c. A gingerbread man"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
