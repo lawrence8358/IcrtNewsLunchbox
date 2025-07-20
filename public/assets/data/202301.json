@@ -1090,5 +1090,126 @@
         "answer": "B"
       }
     ]
+  },
+  {
+    "id": "20230113-01",
+    "type": "國小",
+    "tag": [
+      "No Poverty",
+      "Good Health and Well-Being",
+      "Quality Education",
+      "Gender Equality",
+      "Decent Work and Economic Growth",
+      "Reduced Inequalities",
+      "Gender Equality Education",
+      "Peace, Justice and Strong Institutions",
+      "Human Rights Education",
+      "Character Education",
+      "International Education",
+      "Multicultural Education"
+    ],
+    "title": "Radio for Afghan Girls",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230112NK.mp3",
+    "content": [
+      {
+        "en": "Today is Public Radio Broadcasting Day.",
+        "tw": "今天是世界無線電日！",
+        "time": null
+      },
+      {
+        "en": "The radio has many programs: music, news, and education.",
+        "tw": "收音機會播放音樂、新聞，還有教育節目。",
+        "time": null
+      },
+      {
+        "en": "So, let's talk about some radio programs which do an important job in Afghanistan.",
+        "tw": "我們來聊聊阿富汗的廣播節目！",
+        "time": null
+      },
+      {
+        "en": "Afghanistan is a big country in Asia. Recently, that country got a new law. The law says girls can't go to school.",
+        "tw": "最近，阿富汗的新法律規定女孩不能上學。",
+        "time": null
+      },
+      {
+        "en": "Girls want to change this law, but for now they must stay home. If they can't go to school, how can they keep learning?",
+        "tw": "女孩子們想推翻這項法律，但是現在她們必須待在家裡，但如果不去上學，要怎麼學習呢？",
+        "time": null
+      },
+      {
+        "en": "The answer is radio. Some radio stations in Afghanistan now give lessons every day. Students can listen to the radio at home to learn math, science and other subjects.",
+        "tw": "答案是收音機廣播！有一些阿富汗的電台開始每天開課，只要打開收音機就可以學數學、科學等等的科目。",
+        "time": null
+      },
+      {
+        "en": "Sometimes they read books out loud, to teach reading skills. Girls can even call in to the stations to talk about their problems.",
+        "tw": "有時候會在節目中讀課文，教大家閱讀。這些女孩子們還可以打電話到電台問問題。",
+        "time": null
+      },
+      {
+        "en": "The women who run the stations say the future of girls is the future of Afghanistan.",
+        "tw": "管理電台的女士們說，想要給女孩子們一個機會，因為她們的未來就是阿富汗的未來。",
+        "time": null
+      },
+      {
+        "en": "Today, on Public Radio Broadcasting Day, let's remember that radio can make a difference.",
+        "tw": "今天，在世界廣播日，讓我們記住廣播可以帶來改變。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "阿富汗的女子不准上學，還好有一些收音機教學節目，讓她們繼續學習。",
+      "content": [
+        {
+          "text": "1. school 學校\nAren't you going to school today? 你今天不去上學？\nNo, I'm staying at home. 對，我待在家。",
+          "time": null
+        },
+        {
+          "text": "2. math 數學\nWhat about your math lessons? 那你的數學課怎麼辦？\nI can learn math myself. 我可以自己學數學。\nHow? By listening to yourself talk? 怎麼學? 你就自言自語嗎？\nNo, I listen to the radio. 不，我會聽收音機。",
+          "time": null
+        },
+        {
+          "text": "3. program 節目\nThere's no way you can learn math through radio programs!\n你不可能從廣播節目學數學。\nAre you kidding? Of course I can. 開玩笑，當然可以。",
+          "time": null
+        },
+        {
+          "text": "4. learn 學習\nI think it's a bad idea to miss school. 我覺得錯過上學很糟糕。\nDon't worry. I can learn anywhere, anytime. 別擔心，我不論何時何地都可以學習。",
+          "time": null
+        }
+      ],
+      "postscript": "Let's read today's vocabulary.\nschool 學校\nmath 數學\nprogram 節目\nlearn 學習"
+    },
+    "quiz": [
+      {
+        "question": "1. What country does not let girls go to school?",
+        "options": [
+          "A: Australia",
+          "B: Argentina",
+          "C: Afghanistan"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do these radio stations want to give girls?",
+        "options": [
+          "A: A house",
+          "B: An education",
+          "C: A rest"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What day is today?",
+        "options": [
+          "A: Public Radio Broadcasting Day",
+          "B: World Computer Day",
+          "C: Valentine's Day"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
