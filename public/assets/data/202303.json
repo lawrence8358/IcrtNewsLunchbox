@@ -1273,5 +1273,123 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230321-01",
+    "type": "國小",
+    "tag": [
+      "International Education",
+      "Reading Literacy Education",
+      "Outdoor Education",
+      "Multicultural Education",
+      "Information Education",
+      "Life Education",
+      "Life on Land",
+      "Quality Education",
+      "Arts"
+    ],
+    "title": "First Grammy Award for Poetry",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230320NK.mp3",
+    "content": [
+      {
+        "en": "Today is World Poetry Day! It's a great day to read your favorite poetry.",
+        "tw": "今天是世界詩歌日！",
+        "time": null
+      },
+      {
+        "en": "What is poetry? It's a special way of speaking. It is like a song, but you don't need to sing it. You can just say it. That's why poetry is kind of like music.",
+        "tw": "詩歌是一種特別的說話方式。它像一首歌，但你不用唱，只要念就好了。",
+        "time": null
+      },
+      {
+        "en": "In the USA, there's a big award for music. It's called a Grammy. Every year, the people who make the best music get a Grammy.",
+        "tw": "美國有一個音樂大獎，叫做葛萊美獎。每一年，創作最佳音樂的人都會獲得一座葛萊美獎。",
+        "time": null
+      },
+      {
+        "en": "So, can poetry get a Grammy Award? For a long time, it could not. Many people said poetry was not music.",
+        "tw": "詩歌可以得葛萊美獎嗎？以前不行，因為很多人說詩歌不算是音樂。",
+        "time": null
+      },
+      {
+        "en": "But this year, it's different. Now there is a Grammy Award for poetry. The winner was a poet named J. Ivy.",
+        "tw": "但是今年不一樣了，葛萊美頒發了詩歌獎，今年的贏家名叫 J. Ivy。",
+        "time": null
+      },
+      {
+        "en": "J. Ivy felt proud when he won the award. He thanked his high school English teacher, and then he told a story.",
+        "tw": "J. Ivy 覺得很自豪。 他謝謝他的高中英語老師，還說了一個故事。",
+        "time": null
+      },
+      {
+        "en": "When J. Ivy was in high school, he was shy. Still, the teacher saw he was talented. She told him to write a poem and read it to his class.",
+        "tw": "J. Ivy 高中的時候很害羞，但是老師仍然看出他的才華，請他寫一首詩，朗讀給全班聽。",
+        "time": null
+      },
+      {
+        "en": "At first, he was nervous. But when he read his poem, everyone loved it. That was years ago. Now, his poetry has won a Grammy!",
+        "tw": "他原本很緊張，但大家都很喜歡他的詩。現在他的作品獲得了葛萊美獎。",
+        "time": null
+      },
+      {
+        "en": "J. Ivy has shown everyone that poetry is music.",
+        "tw": "J. Ivy 向大家展示了詩歌也是音樂。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "葛萊美獎是音樂獎，卻增加了給詩人的獎項。",
+      "content": [
+        {
+          "text": "1. poem 詩歌\nWhat a beautiful day today! 今天真是美好！\nI must write a poem for it. 我一定得來寫一首詩。\nGreat, let's hear it. 太棒了，我們來聽聽。",
+          "time": null
+        },
+        {
+          "text": "2. proud 驕傲的\n\"A shining sunrise and a new day, good morning for today.\"\n燦爛的日出，嶄新的一天，大家早安。\nThat sounds almost like music! 聽起來幾乎像音樂！\nI know, right? I'm so proud of myself. 我知道，我很自豪呢。",
+          "time": null
+        },
+        {
+          "text": "3. win 贏得\nHave you written poetry before? 你以前有寫過詩嗎？\nIn fact I have. I've even won prizes for it. 確實寫過。我甚至贏過獎品！",
+          "time": null
+        },
+        {
+          "text": "4. ago 以前\nBut that was many years ago. 不過那是很多年前了。\nIt's never too late to begin again. 重新開始從不嫌晚。",
+          "time": null
+        }
+      ],
+      "postscript": "來跟我一起讀讀單字吧！\npoem 詩歌\nproud 驕傲的\nwin 贏得\nago 以前"
+    },
+    "quiz": [
+      {
+        "question": "1. What day is today?",
+        "options": [
+          "a. World Pirate Day",
+          "b. World Poetry Day",
+          "c. World Pancake Day"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What award did J. Ivy win?",
+        "options": [
+          "a. A Grammy",
+          "b. A Tony",
+          "c. An Emmy"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Who did J. Ivy thank?",
+        "options": [
+          "a. His brother",
+          "b. His son",
+          "c. His teacher"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
