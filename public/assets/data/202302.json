@@ -1,0 +1,118 @@
+ [
+  {
+    "id": "20230214-01",
+    "type": "國小",
+    "tag": [
+      "No Poverty",
+      "Zero Hunger",
+      "Good Health and Well-Being",
+      "Quality Education",
+      "Gender Equality",
+      "Peace, Justice and Strong Institutions",
+      "Gender Equality Education",
+      "Environmental Education",
+      "Family Education",
+      "Character Education",
+      "Life Education",
+      "International Education"
+    ],
+    "title": "Charity Shop Finds Mystery Card",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230213NK.mp3",
+    "content": [
+      {
+        "en": "Today is Valentine's Day! A day for love. Some people love chocolate, they want to eat it all the time! Some people love their pets… but they don't want to eat them!",
+        "tw": "愛有很多種，有人愛巧克力，有人愛寵物。",
+        "time": null
+      },
+      {
+        "en": "Some people love helping others. A great way to do that is to donate. That means giving your stuff away for free.",
+        "tw": "還有人愛幫助別人。這些人會去捐東西。",
+        "time": null
+      },
+      {
+        "en": "Charity shops are where you can donate your stuff. They sell it, and use the money to help good causes.",
+        "tw": "你可以把東西捐給慈善商店。他們會把東西賣掉，用賺來的錢幫助其他人。",
+        "time": null
+      },
+      {
+        "en": "In the UK, someone donated an old bag full of stuff to a charity shop. They found a mystery Valentine's Day card!",
+        "tw": "在英國，有一個人捐了滿滿一袋東西給慈善商店，結果他們找到一個神秘的情人節卡片！",
+        "time": null
+      },
+      {
+        "en": "In the card was a beautiful poem, and a photo of a woman and her three children. The end of the poem says: \"From the person that loves you more than anything else in the world\". Awwww!",
+        "tw": "卡片上面有一首詩，還有一個媽媽跟三個小孩的一張照片。詩的結尾寫說：「愛你勝過一切的人敬上」。",
+        "time": null
+      },
+      {
+        "en": "The card was written for the woman in the photo, but no-one knows who she is!",
+        "tw": "這張卡是給照片裡面的媽媽的，但沒有人認識他。",
+        "time": null
+      },
+      {
+        "en": "The photo is black and white, so they know the card must be very old. It will be hard to find the woman, or her family. But it will make her so happy to see the card again!",
+        "tw": "因為照片是黑白的，所以一定是很久以前的，要找到人應該很難，但如果她真的收到了，一定會很開心！",
+        "time": null
+      },
+      {
+        "en": "The things we do for love…",
+        "tw": "這就是我們為愛所做的事⋯⋯",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一張表達深刻愛情的卡片，讓人想追尋它的故事。",
+      "content": [
+        {
+          "text": "1. woman 女子\nThere's an old woman standing there with a bag in her hand.\nHmmm, do you think she needs help? 你覺得她需要幫忙嗎？",
+          "time": null
+        },
+        {
+          "text": "2. donate 捐獻\nI don't know. 不知道。\nMaybe we can donate some food to her. 也許我們可以捐一點食物給她。\nDonating food? 捐食物嗎？\nWhat if she's not hungry? 要是她不餓怎麼辦？",
+          "time": null
+        },
+        {
+          "text": "3. give 給予\nThen we can give her something else. 那我們就給她別的東西。\nWell, you'd better ask her what she needs. 你最好問問她需要什麼。",
+          "time": null
+        },
+        {
+          "text": "4. sell 賣\nShe's just hoping to sell the bag! 她只是想把包包賣掉。\nShe made many different ones. 她做了很多個不同的包。\nWow, silly us! 哇，我們真傻。",
+          "time": null
+        }
+      ],
+      "postscript": "你有捐獻過什麼東西嗎？\nwoman 女子\ndonate 捐獻\ngive 給予\nsell 賣"
+    },
+    "quiz": [
+      {
+        "question": "What word means to give your stuff away for free to help people?",
+        "options": [
+          "a. Donut",
+          "b. Donate",
+          "c. Debate"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "Where can you go to give away your old stuff?",
+        "options": [
+          "a. Clarity stops",
+          "b. Hilarity pops",
+          "c. Charity shops"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "What color was the photo in the card?",
+        "options": [
+          "a. Black and blue",
+          "b. Black and white",
+          "c. Blue and white"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  }
+]
