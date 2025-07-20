@@ -414,5 +414,122 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20231211-01",
+    "type": "國小",
+    "tag": [
+      "Reduced Inequalities",
+      "Life on Land",
+      "Peace, Justice and Strong Institutions",
+      "Partnerships for the Goals",
+      "Human Rights Education",
+      "Indigenous Education",
+      "Character Education",
+      "Life Education",
+      "Law-related Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Arts"
+    ],
+    "title": "Museum to Give Back Important Headdress",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231208NK.mp3",
+    "content": [
+      {
+        "en": "Indigenous people are the first to live in a place. Taiwan has many Indigenous groups: Amis people, Paiwan people, Atayal people, and others.",
+        "tw": "原住民指的是最開始定居在一個地方的族群。台灣有很多原住民族，像是阿美族、排灣族、泰雅族等等。",
+        "time": null
+      },
+      {
+        "en": "Indigenous groups live all over the world. They have sacred traditions and beliefs. These are very, very important things the groups do and think.",
+        "tw": "世界各地都有原住民。他們有神聖的傳統跟信仰，這對他們做事情或是思考的方式非常重要。",
+        "time": null
+      },
+      {
+        "en": "They have sacred things. Some are headdresses. These are beautiful head coverings. They have important meanings.",
+        "tw": "他們有神聖的東西，例如頭飾，也就是戴在頭上的美麗裝飾，這些都有重要的意義。",
+        "time": null
+      },
+      {
+        "en": "The Siksika Nation is an Indigenous group in Canada. About one hundred thirty years ago, a man from the UK took a sacred headdress from them. Then he took it back to the UK. It was in a museum there for more than one hundred years.",
+        "tw": "西格西卡人是加拿大原住民。130年前，一名英國男子拿走族人的頭飾，帶回英國，收藏在博物館裡超過100年。",
+        "time": null
+      },
+      {
+        "en": "The Siksika headdress has eagle and hawk feathers. It has buffalo horns and porcupine quills. Long ago, an important woman wore it to important religious events.",
+        "tw": "這個頭飾有老鷹羽毛、水牛角跟豪豬的刺。很久以前，只有身分重要的女性才能穿戴去宗教場合。",
+        "time": null
+      },
+      {
+        "en": "Now the Siksika Nation wants it back!",
+        "tw": "現在西格西卡人想把它拿回來。",
+        "time": null
+      },
+      {
+        "en": "The museum is sorry they had the headdress. They know it's very important. They're giving it back to the Siksika Nation next year.",
+        "tw": "博物館覺得很抱歉擁有這個頭飾，他們明白它的重要性，也會在明年歸還給西格西卡人。",
+        "time": null
+      },
+      {
+        "en": "Museums everywhere have sacred things. Let's hope these sacred things go home to their people!",
+        "tw": "世界各地的博物館都收藏著神聖的物品。希望這些神聖的物品都能回到他們族人的手中！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "英國的博物館對這個原住民族群很抱歉，準備歸還多年前取得的頭飾。",
+      "content": [
+        {
+          "text": "1. tradition 傳統 Do Taiwanese women wear a white gown…台灣女子穿不穿白色禮服... when they get married? 結婚時嗎? Yeah, they do. It's a tradition.穿啊，那是傳統。",
+          "time": null
+        },
+        {
+          "text": "2. wear 穿著 People here love the color red, too. 這兒的人也喜歡紅色。 They do.是沒錯。 Brides often wear red dresses at the wedding feast.新娘經常在喜宴上穿紅色洋裝。",
+          "time": null
+        },
+        {
+          "text": "3. long ago 很久以前。 Long ago my grandma told me red meant celebration. 很久以前阿嬤告訴我紅色表示慶祝。 That's right. 對。",
+          "time": null
+        },
+        {
+          "text": "4. hope 希望 Everybody hopes to get red envelopes on New Year's Day. 每個人都希望新年拿紅包。 I certainly hope so! 我當然這麼希望。",
+          "time": null
+        }
+      ],
+      "postscript": "請來一起讀單字。 tradition傳統 wear穿著 long ago很久以前 hope希望"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the Siksika Nation?",
+        "options": [
+          "a. The UK",
+          "b. Canada",
+          "c. Taiwan"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What things are on the Siksika Nation's headdress?",
+        "options": [
+          "a. Buffalo horns",
+          "b. Eagle quills",
+          "c. Porcupine feathers"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. When is the museum giving back the headdress?",
+        "options": [
+          "a. This year",
+          "b. Next year",
+          "c. In one hundred years"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
