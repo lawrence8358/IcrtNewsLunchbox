@@ -414,5 +414,117 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230308-01",
+    "type": "國小",
+    "tag": [
+      "International Education",
+      "Technology Education",
+      "Gender Equality Education",
+      "Partnerships for the Goals",
+      "Reduced Inequalities",
+      "Industry, Innovation and Infrastructure",
+      "Gender Equality",
+      "Integrative Activities"
+    ],
+    "title": "Space Commander Wants More Women in Science",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230307NK.mp3",
+    "content": [
+      {
+        "en": "Today is International Women's Day: a day for women and girls everywhere, from your mother, to your sister, to the President of Taiwan!",
+        "tw": "今天是世界婦女節，是給全世界女性的節日！",
+        "time": null
+      },
+      {
+        "en": "So we're going to look at one very special woman. Her name is Dr. Peggy Whitson, and she's an astronaut.",
+        "tw": "今天我們要聊聊 Peggy Whitson 博士，她是一位太空人。",
+        "time": null
+      },
+      {
+        "en": "Did you know only a quarter of all science jobs in the world are done by women right now? That's not very many...",
+        "tw": "目前全球在科學界工作的人，只有四分之一是女性。",
+        "time": null
+      },
+      {
+        "en": "There's a place up in space called the International Space Station. It always needs a \"commander\": a big boss in charge of keeping everyone safe.",
+        "tw": "太空中有個地方叫做國際太空站，這裡需要一位指揮官，確保大家的安全。",
+        "time": null
+      },
+      {
+        "en": "In 2007, Dr. Whitson became the International Space Station's first ever female commander!",
+        "tw": "Whitson 博士在 2007 年成為了國際太空站的第一位女性指揮官！",
+        "time": null
+      },
+      {
+        "en": "So far, she's spent nearly 666 days in space. That's longer than any other woman ever!",
+        "tw": "她在太空中待了 666 天，是待在太空中最久的女性。",
+        "time": null
+      },
+      {
+        "en": "Dr. Whitson wants to help women and girls aim for the moon and reach for the stars! Now, thanks to her hard work, more girls might want to work in science, and maybe even fly to space!",
+        "tw": "Whitson 博士想要幫助女性追求太空夢。也許現在會有更多女生也想要進入科學界工作，甚至上太空去！",
+        "time": null
+      },
+      {
+        "en": "Here's to Dr. Peggy Whitson. Happy International Women's Day, everyone!",
+        "tw": "向佩姬·惠特森博士致敬。祝大家國際婦女節快樂！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這位女博士不光是太空人，還是太空站的指揮官。",
+      "content": [
+        {
+          "text": "1. science 科學。\nPeople seem to believe that boys are better at natural science.\n大家好像都認為男生比較擅長自然科學。\nI don't think that's true. 我覺得不見得。",
+          "time": null
+        },
+        {
+          "text": "2. sister 姊妹。\nBoth of my sisters excel in math and science.\n我的兩個妹妹數理科都很棒。\nDo they plan to be scientists? 她們想當科學家嗎？",
+          "time": null
+        },
+        {
+          "text": "3. space 太空。\nOne of them wants to be an astronaut.\n其中一個想當太空人。\nFlying to space? 飛到太空嗎？\nThat's so cool! 很酷呢！",
+          "time": null
+        },
+        {
+          "text": "4. moon 月球。\nYeah, she'd like to visit the Moon someday.\n對啊，她希望有一天去月球。\nWill she invite us? 她會邀請我們嗎？\nNo, not you. 不會邀請你。\nMe, perhaps. 也許會找我。",
+          "time": null
+        }
+      ],
+      "postscript": "我們來讀讀今天的單字。\nscience 科學\nsister 姊妹\nspace 太空\nmoon 月球"
+    },
+    "quiz": [
+      {
+        "question": "1. Who is International Women's Day for?",
+        "options": [
+          "A: Female astronauts",
+          "B: Women and girls everywhere",
+          "C: The President of Taiwan"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What did the International Space Station finally get in 2007?",
+        "options": [
+          "A: Its first hospital",
+          "B: Its first tooth",
+          "C: Its first female commander"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. So far, how long has Dr. Whitson spent in space?",
+        "options": [
+          "A: 600 days",
+          "B: 666 days",
+          "C: 606 days"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
