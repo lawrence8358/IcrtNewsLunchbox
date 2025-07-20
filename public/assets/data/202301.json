@@ -1418,5 +1418,121 @@
         "answer": "C"
       }
     ]
+  },
+  {
+    "id": "20230118-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Clean Water and Sanitation",
+      "Affordable and Clean Energy",
+      "Industry, Innovation and Infrastructure",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life Below Water",
+      "Life on Land",
+      "Partnerships for the Goals",
+      "Environmental Education",
+      "Marine Education",
+      "Technology Education",
+      "Energy Education",
+      "Disaster Risk Reduction Education",
+      "International Education",
+      "Outdoor Education"
+    ],
+    "title": "A Goal to Protect 30% of Earth",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230117NK.mp3",
+    "content": [
+      {
+        "en": "Do you have a goal? Most people have goals in life. That means they know what they want.",
+        "tw": "你有目標嗎？大部分的人都會有一些人生的目標。這意味著他們對自己想要的東西有想法。",
+        "time": null
+      },
+      {
+        "en": "The best goal is a clear goal. If you know exactly what you want, it is easier to get.",
+        "tw": "最好的目標就是清楚地知道你想要什麼，就更容易得到。",
+        "time": null
+      },
+      {
+        "en": "Recently, all the countries in the world had a big meeting called COP15 (\"cop fifteen\"). Their goal was to solve a problem.",
+        "tw": "一百多個國家的代表最近聚集在一起，參加 COP15聯合國生物多樣性大會。他們的目標是解決一個問題。",
+        "time": null
+      },
+      {
+        "en": "Every year, more kinds of plants and animals are lost forever. It is one of Earth's biggest problems. We need to act soon.",
+        "tw": "每一年都有更多種類的植物跟動物永遠消失。這是地球上最大的問題之一。我們需要盡快採取行動。",
+        "time": null
+      },
+      {
+        "en": "To deal with this problem, the countries set a clearer goal. They call it \"Thirty by Thirty\". That means they want to protect 30% of Earth's nature by the year 2030.",
+        "tw": "為了解決這個問題，各國設定更清楚的目標。他們稱之為「三十乘三十」。意思是他們希望2030年之前保護地球30%的自然環境。",
+        "time": null
+      },
+      {
+        "en": "That sounds like something we can really do! Now we only have a few years to reach the goal, so all the countries on Earth must work together.",
+        "tw": "這聽起來是我們真的可以做的事情！現在我們只有幾年的時間來實現這個目標，所以地球上的所有國家都必須共同努力。",
+        "time": null
+      },
+      {
+        "en": "They have a clear goal... do you have one?",
+        "tw": "他們有一個明確的目標……你有一個嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "保護動植物，也是愛護地球的方法。",
+      "content": [
+        {
+          "text": "1. life 人生。Do you know what you want in life? 你知道你的人生想要什麼嗎？Yes, very clearly. 知道，很清楚。",
+          "time": null
+        },
+        {
+          "text": "2. want 想要。I want to always eat good food, live in a nice house and have lots of clothes. 我想要總是吃美食，住好房子，有很多衣服。You're right. 你說對了。You do know what you want. 你確實知道想要什麼。",
+          "time": null
+        },
+        {
+          "text": "3. easier 比較容易的。How about you? 你呢？Well, I'd like to have an easier job. 我想要有個比較輕鬆的工作。That sounds like a good idea. 聽起來是個好主意。",
+          "time": null
+        },
+        {
+          "text": "4. together 一起。But what kind of job? 但是哪種工作呢？A job like watching TV together with my family. 比如說家人一起看電視。What?! 什麼啊？！You can't make money that way! 這樣賺不到錢！",
+          "time": null
+        }
+      ],
+      "postscript": "你的人生想做什麼呢？life 人生 want 想要 easier 比較容易的 together 一起"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of goal is best?",
+        "options": [
+          "A: A big goal",
+          "B: A clear goal",
+          "C: A fast goal"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What did the countries in COP15 want to protect?",
+        "options": [
+          "A: Cops",
+          "B: Money",
+          "C: Nature"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How much of Earth did they set a goal to protect?",
+        "options": [
+          "A: 15%",
+          "B: 30%",
+          "C: 60%"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
