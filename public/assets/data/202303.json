@@ -725,5 +725,119 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230314-01",
+    "type": "國小",
+    "tag": [
+      "Life Education",
+      "Technology Education",
+      "Industry, Innovation and Infrastructure",
+      "Good Health and Well-Being",
+      "Health and Physical Education"
+    ],
+    "title": "Too Much Screen Time Is Bad for You",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230313NK.mp3",
+    "content": [
+      {
+        "en": "This is my favorite show! I can watch it on my TV, my computer, my phone, my tablet… *gasp* The battery's run out!",
+        "tw": "我可以用電視、電腦、手機，或是我的平板電腦??電池沒電，我就不能看我最愛的節目了！",
+        "time": null
+      },
+      {
+        "en": "Okay, I need to calm down. I know, I know. It's only a TV show. It's not a big deal.",
+        "tw": "好吧，我需要冷靜下來。我知道，我知道。這只是一個電視節目。沒什麼大不了的。",
+        "time": null
+      },
+      {
+        "en": "I have very bad self-control with electronic devices. I spend too much time on them. Do you too? It's really hard to put them down!",
+        "tw": "我花太多時間在電子產品上，但就是忍不住。",
+        "time": null
+      },
+      {
+        "en": "I need to try harder though. Did you know that spending too much time on electronic devices isn't very good for your brain? It's especially bad if you're a kid.",
+        "tw": "你知道用太多電子產品對大腦不好嗎？對兒童的腦袋來說特別不好。",
+        "time": null
+      },
+      {
+        "en": "Some scientists did some research. It showed that when little kids spend too much time staring at screens, it is bad for their brains.",
+        "tw": "一些科學家做了一些研究。研究顯示，當小孩子花太多時間盯著螢幕時，這對他們的大腦有害。",
+        "time": null
+      },
+      {
+        "en": "The kids that used devices too much had a hard time. They couldn't stay focused, remember things, follow instructions, or control themselves well.",
+        "tw": "科學家發現，看太多螢光幕的小孩很難專心、很健忘、不聽指示，也不太會控制自己。",
+        "time": null
+      },
+      {
+        "en": "They were also less alert. That means they weren't very good at noticing things around them.",
+        "tw": "他們對周圍環境也沒有甚麼警覺心。",
+        "time": null
+      },
+      {
+        "en": "Well, that isn't good! I like using all of my devices. But staring at screens too long is bad for my brain. I should probably think of other things to do.",
+        "tw": "嗯，這不好！我喜歡使用我的所有設備。但是盯著螢幕太久對我的大腦不好。我應該想想其他事情來做。",
+        "time": null
+      },
+      {
+        "en": "Hm… maybe I should go outside or read a book instead!",
+        "tw": "嗯...也許我應該出去外面走走，或者讀一本書來代替！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家的研究證明，盯著電腦或是手機太久，對腦子不好！",
+      "content": [
+        {
+          "text": "stare at 盯著 You've been staring at your cellphone for a long time. 你盯著手機好久了。",
+          "time": null
+        },
+        {
+          "text": "watch 注意看 Maybe you should watch it on TV. 也許在電視上看比較好。 My TV is not connected to the internet. 我的電視不能上網。",
+          "time": null
+        },
+        {
+          "text": "spend 花費 I think I've spent 10 hours on it. 我想我花了十個鐘頭看這個節目。 Your brain must be fried. 你的腦袋一定累壞了。",
+          "time": null
+        },
+        {
+          "text": "brain 腦袋 Yeah, and it becomes harder to put the phone down. 對啊，而且越來越難放下手機。 I understand. 我懂。 For a fried brain, we have to have fried chicken. 壞掉的腦袋一定要吃炸雞！ Good idea! 好主意！",
+          "time": null
+        }
+      ],
+      "postscript": "What words have you learned? stare at 盯著 watch 注意看 spend 花費 brain 腦袋"
+    },
+    "quiz": [
+      {
+        "question": "What does it mean if someone is \"less alert\"?",
+        "options": [
+          "A: They don't like devices",
+          "B: They are very good at focusing",
+          "C: They don't notice things around them"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "What is too much screen time bad for?",
+        "options": [
+          "A: Your devices",
+          "B: Your brain",
+          "C: Your hair"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "Which activity does not use a device?",
+        "options": [
+          "A: Watching TV",
+          "B: Playing a video game",
+          "C: Swimming in a pool"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
