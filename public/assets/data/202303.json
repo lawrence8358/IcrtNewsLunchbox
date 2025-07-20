@@ -1637,5 +1637,103 @@
         "answer": "C"
       }
     ]
+  },
+  {
+    "id": "20230325-01",
+    "type": "國小",
+    "tag": [
+      "Decent Work and Economic Growth",
+      "Integrative Activities"
+    ],
+    "title": "Nanliao Uses Fishing Floats as Decorations",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230324NK.mp3",
+    "content": [
+      {
+        "en": "Hm… think… think… think! I'm trying to think of some ways I can do something positive for the planet.",
+        "tw": "嗯…想想…想想！我正在思考一些能為地球做出貢獻的方法。"
+      },
+      {
+        "en": "After all, Earth Hour is tonight. Do you know about Earth Hour?",
+        "tw": "今天晚上是「關燈一小時」活動，你們有聽過嗎？"
+      },
+      {
+        "en": "Every year, many people around the world celebrate Earth Hour. Today, Earth Hour will happen from eight-thirty to nine-thirty p.m. A lot of people turn off their lights during this time. This saves electricity.",
+        "tw": "今年這項活動會從八點半到九點半，很多人會把燈關掉來省電。"
+      },
+      {
+        "en": "But we don't have to wait for Earth Hour to do nice things for the planet. There are a lot of other ways we can help the environment.",
+        "tw": "還有很多其他的方法可以幫助地球。"
+      },
+      {
+        "en": "For example, there is a town in Penghu called Nanliao. There has always been a lot of fishing in Nanliao. But there is a problem. A lot of fishing means a lot of old fishing equipment turns into garbage.",
+        "tw": "澎湖有一個小村落叫南寮。以前這裡很多人是漁夫，但是舊的捕魚設備現在成了垃圾。"
+      },
+      {
+        "en": "The people of Nanliao had a creative idea. They reuse old fishing floats as decorations for the town.",
+        "tw": "南寮的居民有個創意點子。他們把舊的捕魚浮標再利用，作為小鎮的裝飾。"
+      },
+      {
+        "en": "They turned the floats into lanterns. They also cut the floats up to make other beautiful decorations. These are fun ways to reuse old things in new ways. The decorations look very nice. Now more people visit Nanliao.",
+        "tw": "南寮的居民有個好點子，他們把捕魚浮標變成村子裡的燈籠，也把浮標切開做成其他的美麗裝飾。現在有更多人去南寮玩了。"
+      },
+      {
+        "en": "What a fun idea! What are some ways you can help your community and the planet? Earth Hour tonight is a great time to think about ideas!",
+        "tw": "多麼有趣的主意啊！你能用哪些方法幫助你的社區和地球呢？今晚的關燈一小時活動是個思考這些點子的好時機！"
+      }
+    ],
+    "vocabulary": {
+      "preface": "動動腦筋，舊的東西也可以改頭換面，帶來新氣象。",
+      "content": [
+        {
+          "text": "1. tonight 今晚\nLet's meet at 9 tonight. 我們今晚九點見。\nWe can't. 沒辦法。\nWhat do you mean we can't? 沒辦法是什麼意思？\nIt'll be dark everywhere. 到處都會是黑黑的。\nWhat? 什麼？",
+          "time": null
+        },
+        {
+          "text": "2. turn off 關掉\nHaven't you heard? 你沒聽說嗎？\nMany stores are turning off the lights for an hour. 很多商店都會關燈一個鐘頭。\nOh, that's annoying! 有點煩呢！",
+          "time": null
+        },
+        {
+          "text": "3. planet 地球\nWhat's the point? 有什麼意義？\nThe planet won't get better. 地球又不會變好。\nIt's for saving electricity. 是為了省電。",
+          "time": null
+        },
+        {
+          "text": "4. electricity 電力\nElectricity should be used. 電就是要用的。\nOr how about we meet tomorrow morning? 那我們明天早上碰面如何？\nAlright. 好啦。",
+          "time": null
+        }
+      ],
+      "postscript": "跟我一起讀讀單字吧。\ntonight 今晚\nturn off 關掉\nplanet 地球；行星\nelectricity 電力"
+    },
+    "quiz": [
+      {
+        "question": "1. When is Earth Hour today?",
+        "options": [
+          "A: 8:30 - 9:30 a.m.",
+          "B: 8:30 - 9:30 p.m.",
+          "C: It doesn't happen today"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "2. How long does Earth Hour last?",
+        "options": [
+          "A: 1 hour",
+          "B: 1 day",
+          "C: 1 minute"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "3. What does the Nanliao Community reuse as decorations?",
+        "options": [
+          "A: Fishing poles",
+          "B: Fishing floats",
+          "C: Fishing bait"
+        ],
+        "time": null,
+        "answer": "B"
+      }
+    ]
   }
 ]
