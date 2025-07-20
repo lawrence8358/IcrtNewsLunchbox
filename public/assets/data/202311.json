@@ -1562,5 +1562,110 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20231124-01",
+    "type": "國小",
+    "tag": [
+      "Life Below Water",
+      "Peace, Justice and Strong Institutions",
+      "Environmental Education",
+      "Natural Sciences",
+      "Multicultural Education"
+    ],
+    "title": "A Hospital for Seals",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231123NK.mp3",
+    "content": [
+      {
+        "en": "What animal do you hear? Is it a dog? No, it's not a dog. It's a seal.",
+        "tw": "這是什麼動物的叫聲呢?是狗嗎?不是喔!是海豹的聲音。",
+        "time": null
+      },
+      {
+        "en": "Seals are cool animals. They swim very well. Some can make human sounds!",
+        "tw": "海豹是一種很酷的動物。牠們很會游泳，有一些還會發出人類的聲音。",
+        "time": null
+      },
+      {
+        "en": "But some seals get hurt. Sometimes boat motors cut them... Sometimes fishing nets catch them. Poor seals!",
+        "tw": "不過海豹有時候會被漁船的馬達割傷，也會被漁網困住。",
+        "time": null
+      },
+      {
+        "en": "Lizzi lives in the UK. She loves seals. She helps seals that are hurt. She made a hospital for seals... in her house! Two seals were in a room and four seals were in her garage!",
+        "tw": "住在英國的Lizzi 很喜歡海豹。 她甚至把自己家改成海豹醫院，幫助受傷的海豹。",
+        "time": null
+      },
+      {
+        "en": "But many seals get hurt. She needed a bigger hospital to help more seals. So she, her husband, and others built a seal hospital! When these seals are better, people take them back to the ocean.",
+        "tw": "但是還是有很多受傷的海豹，她需要更大的醫院。所以她跟其他人一起打造了海豹醫院。當海豹身體狀況比較好的時候，就會被送回大海。",
+        "time": null
+      },
+      {
+        "en": "Baby seals are called pups. Sometimes pups can't find their mothers. They can't get food. They get weak. Lizzi helps them for a while.",
+        "tw": "海豹寶寶叫做 pups。那些找不到媽媽的小海豹，會因為沒有食物而變得很虛弱。Lizzi也幫助牠們。",
+        "time": null
+      },
+      {
+        "en": "Then she takes them to a bigger place that takes care of pups. When these seals are older, people take them back to the ocean too.",
+        "tw": "她把海豹寶寶帶到更大的地方照顧，等到牠們長大一點就會被送回海裡。",
+        "time": null
+      },
+      {
+        "en": "Lizzi got an award for helping seals. Thank you, Lizzi!",
+        "tw": "Lizzi 因為幫助海豹而獲得獎項。謝謝你，Lizzi！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "Lizzi盡一切力量來幫助受傷的海豹，讓牠們重返大海。",
+      "content": [
+        {
+          "text": "1. catch 捕捉 I wonder if I can raise a pet seal.我在想能不能養海豹當寵物。 In your bathtub like in some movies? 養在你的浴缸裡，像有些電影那樣嗎? Where would you catch one in the first place? 你首先要怎麼抓一隻海豹呢?",
+          "time": null
+        },
+        {
+          "text": "2. take care of 照顧 Yeah, that would be a problem.對，那確實是個問題。 And how do you plan to take care of a baby seal? 而且你要怎麼照顧海豹寶寶? I have no answer to any of your questions.你的問題我都答不出來。",
+          "time": null
+        },
+        {
+          "text": "3. better 比較好的 Maybe I should just call Taipei Zoo and ask them. 也許我應該打電話問台北動物園。 I have a better idea. 我有更好的主意。 Let's go to the zoo tomorrow. 我們明天就去動物園。 To see the seals? Wonderful! 去看海豹嗎? 太好了!",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我一起讀這些單字。catch捕捉 take care of照顧 better比較好的"
+    },
+    "quiz": [
+      {
+        "question": "1. What did Lizzi use her home for?",
+        "options": [
+          "a. A seal playground",
+          "b. A seal school",
+          "c. A seal hospital"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What are baby seals called?",
+        "options": [
+          "a. Cubs",
+          "b. Dogs",
+          "c. Pups"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did Lizzi get for helping seals?",
+        "options": [
+          "a. An award",
+          "b. Lots of money",
+          "c. A free boat"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
