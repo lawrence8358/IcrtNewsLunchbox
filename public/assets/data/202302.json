@@ -807,5 +807,106 @@
         "answer": "B"
       }
     ]
+  },
+  {
+    "id": "20230223-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Outdoor Education"
+    ],
+    "title": "From Golf Course to Public Park",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230222NK.mp3",
+    "content": [
+      {
+        "en": "I love playing golf! It lets you walk outside and enjoy nature while you play.",
+        "tw": "我喜歡打高爾夫球。它讓我可以走出去享受大自然。",
+        "time": null
+      },
+      {
+        "en": "Golf courses are big outdoor spaces, with lots of grass and trees. But only golfers can use them.",
+        "tw": "高爾夫球場在寬廣的戶外，有很多花草樹木，但是只有去打球的人可以用這個場地。",
+        "time": null
+      },
+      {
+        "en": "Frodsham Golf Course in England used to be for golfers only. The golfers had to pay money to play there.",
+        "tw": "英國的 Frodsham 高爾夫球場就是這樣，球員要付錢才能進場。",
+        "time": null
+      },
+      {
+        "en": "Some people think that's not fair. Such a big place should be for everyone to share. So Frodsham Golf Course is now a public park!",
+        "tw": "有一些人覺得這樣子不公平。這麼大的地方應該讓大家共享。後來，Frodsham 球場就變成了一座公園！",
+        "time": null
+      },
+      {
+        "en": "Because of COVID-19 many people had to stay away from the busy city. They started coming to this golf course to relax, walk their dogs, and be in nature.",
+        "tw": "因為疫情，很多人要避開熱門的市區，就來到這個球場放鬆、遛狗、親近大自然。",
+        "time": null
+      },
+      {
+        "en": "It's the perfect place for a park. There are already lots of old trees, and people want to plant more of them. They will also plant wildflowers.",
+        "tw": "這裡原本就有很多樹，這是公園的理想地點。但是大家還要種更多的樹跟花草。",
+        "time": null
+      },
+      {
+        "en": "Around the world, more and more golf courses are becoming public parks. This way, everyone can enjoy these beautiful places.",
+        "tw": "世界各地越來越多的高爾夫球場正在成為公共公園。這樣一來，每個人都可以享受這些美麗的地方。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "高爾夫球場變成公園，讓更多人分享。",
+      "content": [
+        {
+          "text": "1. enjoy 享受\nI'm all stressed out. 我壓力好大！\nI can't seem to enjoy anything. 我好像什麼都沒辦法享受。\nYou really need to relax. 你一定要放輕鬆。",
+          "time": null
+        },
+        {
+          "text": "2. park 公園\nLet's walk the dog tonight at the park.我們今晚去公園裡遛狗吧。\nHow will that help me? 那對我有什麼好處？",
+          "time": null
+        },
+        {
+          "text": "3. grass 草地\nYou'll get to see the stars, feel the breeze, and…\n你可以看星星，感覺到涼風，還有...\nAnd fall asleep? 還有睡著嗎？\nNo, I won't let you sleep on the grass. 不，我不會讓你睡在草地上。",
+          "time": null
+        },
+        {
+          "text": "4. nature 自然\nThat's very kind of you. 你人真好。\nBut I'm staying away from nature. 但是我要遠離大自然。\nWhy?! 為什麼啊？！\nBecause there's no TV out there. 因為那裏沒有電視。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡在公園裡玩嗎？ enjoy 享受 park 公園 grass 草地 nature 自然"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is Frodsham Golf Course?",
+        "options": [
+          "A: Ireland",
+          "B: Scotland",
+          "C: England"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What will the golf course become?",
+        "options": [
+          "A: A swimming pool",
+          "B: A public park",
+          "C: A busy city"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Who can enjoy a public park?",
+        "options": [
+          "A: Everyone",
+          "B: Only golfers",
+          "C: Only dogs"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
