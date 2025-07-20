@@ -963,5 +963,97 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230316-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "International Education",
+      "Multicultural Education"
+    ],
+    "title": "LeBron James Breaks NBA Record",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230315NK.mp3",
+    "content": [
+      {
+        "en": "Yes! I'm such a big basketball fan! My favorite basketball player is a man named Kareem Abdul-Jabbar. You might not know who he is… He stopped playing basketball 34 years ago!",
+        "tw": "我好愛看籃球！我最愛的NBA球員是賈霸，你可能不認識他，因為他已經34年沒有打球了。",
+        "time": null
+      },
+      {
+        "en": "For a long time, Abdul-Jabbar had the NBA all-time scoring record. He scored more points than any other NBA basketball player! Until now…",
+        "tw": "賈霸一直是NBA得分紀錄的保持人，但現在不一樣囉。",
+        "time": null
+      },
+      {
+        "en": "There's another basketball player I like too. He's called LeBron James. He plays for the LA Lakers. This year, James beat Abdul-Jabbar's NBA all-time scoring record. Now he is the new highest scoring NBA basketball player!",
+        "tw": "另外一個我也很喜歡的球員是洛杉磯湖人隊的詹皇，他今年破了賈霸的紀錄！",
+        "time": null
+      },
+      {
+        "en": "When James beat the record, he was so happy! The whole game stopped. Everyone stood up and clapped their hands! And guess who was watching him play, and clapping the most? You guessed it... Kareem Abdul-Jabbar!",
+        "tw": "詹皇破紀錄的那一刻，整場比賽暫停，大家為他起立鼓掌。而拍手最用力的，就是賈霸。",
+        "time": null
+      },
+      {
+        "en": "Many people now call LeBron James the best basketball player ever! Do you agree? Which player do you think is the best?",
+        "tw": "現在許多人稱雷霸龍詹姆士為史上最棒的籃球員！你同意嗎？你覺得哪位球員最棒？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "賈霸在退出籃壇多年之後，高興看到詹皇終於破了他的紀錄。",
+      "content": [
+        {
+          "text": "1. game 比賽\nLet's watch a Lakers' game tonight. 我們今晚來看湖人隊比賽。\nLakers, I love them! 我喜歡湖人隊！\nWho will they play against? 他們要對誰？\nGolden State Warriors. 金州勇士隊。",
+          "time": null
+        },
+        {
+          "text": "2. player 球員\nOh, Stephen Curry, he's a great player! 有史蒂芬·柯瑞，他是很棒的球員。\nNot as great as James, but good enough. 沒有詹皇那麼棒，不過也夠好了。",
+          "time": null
+        },
+        {
+          "text": "3. beat 打敗\nI bet Curry will beat James by scoring 50 points. 我賭柯瑞得50分，打敗詹皇。\nYou're on! I'll buy you a hamburger and drinks if you win.\n好啊，我買漢堡飲料，要是你贏的話。",
+          "time": null
+        },
+        {
+          "text": "4. score 得分\nHe did it! He scored 53! 他做到了，得 53 分！\nI want my hamburger! 我要漢堡！\nJust a little one. 只能一個小的。",
+          "time": null
+        }
+      ],
+      "postscript": "你學到哪些單字？\ngame 比賽\nplayer 球員\nbeat 打敗\nscore 得分"
+    },
+    "quiz": [
+      {
+        "question": "1. When did Kareem Abdul-Jabbar stop playing basketball?",
+        "options": [
+          "A: 54 years ago",
+          "B: 44 years ago",
+          "C: 34 years ago"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "2. Which NBA record did LeBron James beat this year?",
+        "options": [
+          "A: The all-time snoring record",
+          "B: The all-time scoring record",
+          "C: The all-time storing record"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "3. Which NBA team does LeBron James play for now?",
+        "options": [
+          "A: The Cleveland Cavaliers",
+          "B: The Miami Heat",
+          "C: The LA Lakers"
+        ],
+        "time": null,
+        "answer": "C"
+      }
+    ]
   }
 ]
