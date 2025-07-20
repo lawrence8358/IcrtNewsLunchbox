@@ -1159,5 +1159,119 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230320-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Life on Land",
+      "Peace, Justice and Strong Institutions",
+      "Human Rights Education",
+      "Character Education",
+      "Life Education",
+      "Information Education",
+      "Multicultural Education",
+      "International Education",
+      "Reading Literacy Education"
+    ],
+    "title": "70,000 Books Found in Hidden Library",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230317NK.mp3",
+    "content": [
+      {
+        "en": "Today is World Storytelling Day. It's a great day to get out your favorite book and read a story. Where do you keep your favorite books? Most people keep them on a bookshelf at home.",
+        "tw": "今天是世界說故事日，趕快拿一本最愛的書來讀吧。你最愛的書放在哪裡呢？大部分人放在家裡的書架上。",
+        "time": null
+      },
+      {
+        "en": "There's a man in Germany who collected 70,000 books! Where would you keep that many books? No bookshelf is that big!",
+        "tw": "有一個德國人擁有七萬本書！這麼多書要放哪裡？",
+        "time": null
+      },
+      {
+        "en": "Bruno was an engineer who lived in a small village. He was a quiet guy who loved one thing. He loved collecting books. Every day, Bruno would buy a few more.",
+        "tw": "Bruno 是工程師，喜歡收藏書本，每天都會買幾本新書。",
+        "time": null
+      },
+      {
+        "en": "Soon there were too many books. They were everywhere, filling up his whole house! His wife told him to do something.",
+        "tw": "家裡很快就推滿了書，他的太太叫他想想辦法。",
+        "time": null
+      },
+      {
+        "en": "So Bruno used his engineering skills. He built bookshelves everywhere in his home. From down in the basement to up in the attic, every room had books.",
+        "tw": "於是 Bruno 用他的工程師專業，把家裡從地下室到閣樓都做了書架。",
+        "time": null
+      },
+      {
+        "en": "Now there are books on the walls and books on the doors, books by the windows and books on the floor. Bruno even made special shelves. Why? There are books on the ceiling too! His home is like a library!",
+        "tw": "牆上，門上，窗戶邊，地上都有書，Bruno 甚至在天花板上製作了特別的書架來放書！他的家就像一個圖書館。",
+        "time": null
+      },
+      {
+        "en": "Sadly, Bruno has now died. Where should his books go? His wife doesn't want them. He had no kids. Nobody knows what to do with them.",
+        "tw": "可惜Bruno 已經過世了。他的書要怎麼辦？妻子不想要，他也沒有孩子。沒有人知道怎麼辦。",
+        "time": null
+      },
+      {
+        "en": "Do you know anyone who wants 70,000 books?",
+        "tw": "你知道有誰想要這七萬本書嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "Bruno家裡書本堆積如山，造成很大的問題。",
+      "content": [
+        {
+          "text": "1. library 圖書館\nWhere are you going? 你要去哪兒？\nI'm gonna get a book. 我要去弄一本書。\nFrom a library? 從圖書館嗎？\nNo, library books are used. 不是，圖書館的書都用過了。",
+          "time": null
+        },
+        {
+          "text": "2. bookshelf 書架\nWhat's wrong with that? 那有什麼不對？\nNothing, but I like the smell of new books. 沒有不對，不過我喜歡新書的香味。\nYour bookshelves are all filled up. 你的書架都滿了。",
+          "time": null
+        },
+        {
+          "text": "3. room 房間\nI know. I'll get a new shelf tonight. 我知道，我今晚會買個新的。\nYou'll put it in your room, right? 放在你房間，對吧？",
+          "time": null
+        },
+        {
+          "text": "4. wall 牆壁\nNo, by the wall over there. 不，靠著那邊牆壁。\nThen I can buy another 50 new books. 然後我就可以再買50本新書。\nYou can't read so many! 你看不了那麼多！",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡看書嗎？來一起讀單字。\nlibrary 圖書館\nbookshelf 書架\nroom 房間\nwall 牆壁"
+    },
+    "quiz": [
+      {
+        "question": "1. What day is today?",
+        "options": [
+          "A: World Engineering Day",
+          "B: St. Patrick's Day",
+          "C: World Storytelling Day"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where did Bruno live?",
+        "options": [
+          "A: Germany",
+          "B: Japan",
+          "C: Jamaica"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Where did Bruno keep his books?",
+        "options": [
+          "A: His office",
+          "B: His home",
+          "C: His school"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
