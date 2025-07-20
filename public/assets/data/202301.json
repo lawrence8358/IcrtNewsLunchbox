@@ -199,5 +199,120 @@
         "answer": "C"
       }
     ]
+  },
+  {
+    "id": "20230104-01",
+    "type": "國小",
+    "tag": [
+      "Clean Water and Sanitation",
+      "Affordable and Clean Energy",
+      "Industry, Innovation and Infrastructure",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life Below Water",
+      "Environmental Education",
+      "Technology Education",
+      "Energy Education",
+      "Outdoor Education"
+    ],
+    "title": "Saving Fish by Removing Dams",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230103NK.mp3",
+    "content": [
+      {
+        "en": "A river is very strong. It takes water from the mountains to the ocean, and it's always pushing forward. A river is full of power!",
+        "tw": "河流的力量很強，可以把水從山上一路帶到海裡。",
+        "time": null
+      },
+      {
+        "en": "How can people use that power? On many rivers, people build a dam. A dam is a wall across the river. The dam can hold back the water, and use the river's power to make electricity for people.",
+        "tw": "人們會在河川上蓋水壩，把水攔住，用河流的力量發電。",
+        "time": null
+      },
+      {
+        "en": "More dams make more power, and more electricity for us to use. That sounds good... but actually, people have decided to remove the dams from a river in California.",
+        "tw": "越多水壩，就有越多電，聽起來不錯吧？但最近，加州的人決定把他們一條河上的水壩都拆掉。",
+        "time": null
+      },
+      {
+        "en": "That's because people are not the only ones who use the river. Fish also need to live there.",
+        "tw": "因為不只是人類需要河流，魚類也需要生活空間。",
+        "time": null
+      },
+      {
+        "en": "For the salmon, the river is like a road. Every year, the salmon swim up the river to lay their eggs.",
+        "tw": "對鮭魚來說，河流就像一條路。鮭魚每一年都會逆流而上去產卵。",
+        "time": null
+      },
+      {
+        "en": "When the eggs hatch, the baby salmon swim back down the river to reach the ocean. It's the circle of life.",
+        "tw": "卵孵化之後，鮭魚寶寶會順流而下游回大海。",
+        "time": null
+      },
+      {
+        "en": "But those fish can't swim up and down the river if there is a dam! To help the salmon live, people in California will take the dams away.",
+        "tw": "但如果有水壩擋路，那些魚就不能在河裡游上游下，所以人們決定把水壩拆掉。",
+        "time": null
+      },
+      {
+        "en": "Even though dams are useful, they also harm the environment. Let's respect the fish and take those dams down!",
+        "tw": "儘管水壩很有用，它們也會傷害環境。讓我們尊重魚類，並把那些水壩拆除吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "移除水壩，救了鮭魚，而人類最好節約用電。",
+      "content": [
+        {
+          "text": "1. lay eggs 產卵\nMy goldfish has laid many eggs! 我的金魚生了好多蛋！\nCome take a look. 你來看看。\nWow, how wonderful! 哇，好神奇！",
+          "time": null
+        },
+        {
+          "text": "2. hatch 孵化\nWhat are you going to do with them? 你要拿這些蛋怎麼辦？\nI'll just let them hatch. 就讓它們孵化。\nNo, you can't do that. The other goldfish will quickly eat them.",
+          "time": null
+        },
+        {
+          "text": "3. decide 決定\nYou need to decide if you want to see baby goldfish.\n你得決定是不是想看到金魚寶寶。\nAnd if I do? 要是我想呢？\nThen you must take away the other fish.",
+          "time": null
+        },
+        {
+          "text": "4. live 居住\nThey can live in your bathtub for a while. 它們可以在你的澡盆裡住一陣子。\nWhat? No! 什麼啊，我才不要！\nYou have a fish tank, right? 你有水族箱，對吧？",
+          "time": null
+        }
+      ],
+      "postscript": "今天學到哪些單字？\nlay eggs 產卵\nhatch 孵化\ndecide 決定\nlive 居住"
+    },
+    "quiz": [
+      {
+        "question": "1. What is a dam?",
+        "options": [
+          "a. A wall",
+          "b. A boat",
+          "c. A fish"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Why are people removing dams?",
+        "options": [
+          "a. To build even bigger dams",
+          "b. To make more power",
+          "c. To help the fish"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Where are people removing dams?",
+        "options": [
+          "a. Canada",
+          "b. California",
+          "c. Korea"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
