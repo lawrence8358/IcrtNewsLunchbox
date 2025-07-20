@@ -640,5 +640,116 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20231213-01",
+    "type": "國小",
+    "tag": [
+      "Life Education",
+      "Character Education",
+      "Arts",
+      "Health and Physical Education",
+      "International Education",
+      "Multicultural Education",
+      "Life on Land"
+    ],
+    "title": "From Street Cleaner to Ballet Dancer",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231212NK.mp3",
+    "content": [
+      {
+        "en": "Dancing is an art. It's creative. It's beautiful. And it's very, very difficult!",
+        "tw": "跳舞是一種藝術。它很優美但是也很難。",
+        "time": null
+      },
+      {
+        "en": "Liu Ziqing is from a small village in northern China. As a boy, he watched a movie about ballet. He loved it. So he watched it again and again and again… He watched the same movie more than ten times!",
+        "tw": "劉子青來自中國北方的小村落。他小時候看了一部關於芭蕾的電影，他非常喜歡，看了很多次。",
+        "time": null
+      },
+      {
+        "en": "Ziqing had a dream. He wanted to be a ballet dancer. But his family was very poor. They had no money for ballet lessons. So Ziqing forgot about his dream.",
+        "tw": "他夢想成為芭蕾舞者，但是他家太窮了，沒有錢負擔芭蕾舞課。",
+        "time": null
+      },
+      {
+        "en": "Ziqing grew up. He fell in love and got married. He had a family. He became a farmer. He also worked as a street cleaner.",
+        "tw": "劉子青長大成家，而他的工作是農夫跟清道夫。",
+        "time": null
+      },
+      {
+        "en": "Years went by. Then Ziqing was 53 years old. He saw a TV program. It was for ballet lessons!",
+        "tw": "很多年之後，53歲的劉子青看到電視上有芭蕾舞課程。",
+        "time": null
+      },
+      {
+        "en": "That was ten years ago. Ziqing is 63 years old now. And he's living his dream!",
+        "tw": "十年過去了。劉子青現在63歲，他實現了他的夢想!",
+        "time": null
+      },
+      {
+        "en": "Ziqing is now a professional ballet dancer! He's very popular. His story has gone viral online!",
+        "tw": "他現在是專業的芭蕾舞者，非常受大家歡迎。 他的故事也在網路上流傳。",
+        "time": null
+      },
+      {
+        "en": "It took Ziqing many, many years to follow his dream. Now he's very happy! Do you have a dream?",
+        "tw": "劉子青花了很多很多年才追隨他的夢想。現在他非常快樂！你有夢想嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "63歲的芭蕾爺爺，非常高興終於能夠實現夢想。",
+      "content": [
+        {
+          "text": "1. dream 夢想 My dream is to write a book. 我夢想寫一本書。 I didn't know you're a writer.我不知道你是作家。",
+          "time": null
+        },
+        {
+          "text": "2. difficult 困難的 I'm not, and that's why I need time to practice. 我不是，這是為什麼我需要時間練習。 Writing is a difficult art. 寫作是一門困難的藝術。",
+          "time": null
+        },
+        {
+          "text": "3. creative 創造性的 It's a creative art. 它是創作的藝術。 I need to think of something that nobody has written before. 我得想一些沒有人寫過的東西。",
+          "time": null
+        },
+        {
+          "text": "4. online 在網路上 What about runaway lions? 逃走的獅子怎麼樣? But I know nothing about lions! 但是我對獅子一無所知! That's okay. I'm sure it'll go viral online. 沒關係。我敢說一定會在網路上爆紅。",
+          "time": null
+        }
+      ],
+      "postscript": "So what's your dream? dream夢想 difficult困難的 creative創造性的 online在網路上"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the small village Ziqing is from?",
+        "options": [
+          "a. Southern China",
+          "b. Central China",
+          "c. Northern China"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where did Ziqing watch ballet lessons?",
+        "options": [
+          "a. In a movie",
+          "b. On TV",
+          "c. On a bus"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How old is Ziqing now?",
+        "options": [
+          "a. 43",
+          "b. 53",
+          "c. 63"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
