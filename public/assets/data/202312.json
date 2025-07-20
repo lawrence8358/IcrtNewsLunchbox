@@ -751,5 +751,106 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20231218-01",
+    "type": "國小",
+    "tag": [
+      "Safety Education",
+      "Technology"
+    ],
+    "title": "Horse Makes Plane Go Back to Airport",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231215NK.mp3",
+    "content": [
+      {
+        "en": "Do you dream about traveling with your pet? In Taiwan, you can travel by plane with your dog, cat, or rabbit. But in the plane, animals don't sit with people.",
+        "tw": "你有想過跟寵物一起旅行嗎?在台灣，你可以跟寵物貓、狗或兔子一起坐飛機旅行，但是寵物不會跟人坐在一起。",
+        "time": null
+      },
+      {
+        "en": "Animals are in the cargo hold. That's where the suitcases are. Dogs, cats, and other animals are safe in cages there. But sometimes, an animal gets out!",
+        "tw": "寵物會關在籠子裡，待在堆放行李的貨艙。但有時候，寵物會跑出來。",
+        "time": null
+      },
+      {
+        "en": "A plane was taking horses from New York to Europe. A strong wind blew. The plane shook!",
+        "tw": "一架載著馬的飛機要從紐約飛往歐洲。突然颳大風，讓飛機發生震動。",
+        "time": null
+      },
+      {
+        "en": "A horse got out of its cage! No one knows how it got out. But the horse did not go back into its cage!",
+        "tw": "結果有一匹馬跑出了籠子，沒有人知道牠是怎麼出來的，但是也沒有辦法讓牠回到籠子裡。",
+        "time": null
+      },
+      {
+        "en": "The pilot needed help! He turned the plane around. He wanted to go back to New York for help. But the plane was too heavy! It was dangerous to land!",
+        "tw": "飛機的駕駛想要掉頭回紐約尋求幫助，但是飛機的燃油還滿載，太重了，降落的時候會有危險。",
+        "time": null
+      },
+      {
+        "en": "So the pilot let fifty six thousand liters of gas go into the air outside. Then the plane landed safely. An animal doctor helped the horse.",
+        "tw": "所以飛機駕駛在空中放掉5萬6千公升的油，讓飛機安全的降落。獸醫也來檢查馬的狀況。",
+        "time": null
+      },
+      {
+        "en": "This horse got out of his cage. But most animals are safe in planes. When you take your pet on a plane, make sure your pet can stay in its cage!",
+        "tw": "這匹馬跑出了籠子。但大多數動物在飛機上是安全的。當你帶寵物搭飛機時，請確保你的寵物能待在牠的籠子裡！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這匹逃出來的馬讓飛機駕駛緊張，只好回頭降落紐約機場。",
+      "content": [
+        {
+          "text": "1. plane 飛機\nWhy are you packing your cat's stuff? 妳為什麼在打包貓的東西?\nBecause I'm taking him on board a plane.因為我要帶牠搭飛機。",
+          "time": null
+        },
+        {
+          "text": "2. travel 旅行\nWhat?! Are you kidding? 什麼啊，你在開玩笑吧?\nThey won't let you travel with Charlie.他們不會讓你跟查理一起旅行的。\nI know that. He'll be in cargo. 我知道，牠會待在貨艙。",
+          "time": null
+        },
+        {
+          "text": "3. shake 震動\nHe'll be scared when the plane shakes.飛機震動時牠會害怕。\nIt shouldn't be that bad.不會那麼糟糕。\nCharlie is a strong cat. 查理是很堅強的貓。",
+          "time": null
+        },
+        {
+          "text": "4. sometimes 有時候\nSometimes I really don't understand you. 有時候我真搞不懂你。\nWell, I just don't want to leave Charlie. 我就是不想離開查理。",
+          "time": null
+        }
+      ],
+      "postscript": "Please read the vocabulary with me.\nplane飛機\ntravel旅行\nshake震動\nsometimes有時候"
+    },
+    "quiz": [
+      {
+        "question": "1. Which animal can you not take on a plane in Taiwan?",
+        "options": [
+          "a. A dog",
+          "b. A cat",
+          "c. A snake"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Which animal got out of its cage?",
+        "options": [
+          "a. A rabbit",
+          "b. A horse",
+          "c. A cat"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many liters of gas went into the air?",
+        "options": [
+          "a. 560",
+          "b. 5,600",
+          "c. 56,000"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
