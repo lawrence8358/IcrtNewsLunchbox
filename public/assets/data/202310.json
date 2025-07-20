@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20231020-01",
     "type": "國小",
@@ -96,6 +96,117 @@
           "a. The air",
           "b. Mars",
           "c. The USA"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
+    "id": "20231023-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Sustainable Cities and Communities",
+      "Life on Land",
+      "Life Education",
+      "Multicultural Education",
+      "Reading Literacy Education",
+      "International Education"
+    ],
+    "title": "The School With Two Students",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231020NK.mp3",
+    "content": [
+      {
+        "en": "How big is your school? Some schools are small. They are far from cities. They have two or three hundred students.",
+        "tw": "你的學校有多大呢? 有一些離城市遠的學校，有大概兩、三百位的學生。",
+        "time": null
+      },
+      {
+        "en": "And some schools are very small. They are on a mountain, in a forest, or on an island. They have twenty or thirty students.",
+        "tw": "還有一些在山上、森林或離島更小的學校，有二、三十位學生。",
+        "time": null
+      },
+      {
+        "en": "But there are smaller schools! Do you know about the school with two students? That's right! It has two students.",
+        "tw": "但你知道還有更小的學校嗎? 只有兩位學生。",
+        "time": null
+      },
+      {
+        "en": "Where is it? It's on Hujing Island in Penghu. Few families live on this small island.",
+        "tw": "這間學校在澎湖虎井嶼，住在島上的家庭沒剩多少。",
+        "time": null
+      },
+      {
+        "en": "The two students are in sixth grade. They will finish elementary school next year. What happens when there are no students? The school closes.",
+        "tw": "學校的兩位學生都是六年級生，明年就要畢業，到時學校就得關閉。",
+        "time": null
+      },
+      {
+        "en": "The principal is sad about this. He knows the five teachers work hard. He wants to get new students.",
+        "tw": "校長很難過，他知道學校的五位老師認真教學，他希望能有更多的新學生。",
+        "time": null
+      },
+      {
+        "en": "So the school will give free breakfast, lunch, and dinner every day of the school year to new students. It will also give them five plane tickets!",
+        "tw": "所以學校每年將會提供新生免費早餐、中餐、晚餐，也會提供五張返台機票。",
+        "time": null
+      },
+      {
+        "en": "Now there are no new students. But how about you? Do you want to go to school on a small island? Yes? How about the elementary school on Hujing Island?",
+        "tw": "現在沒有新學生。但你呢？你想去小島上的學校讀書嗎？想嗎？虎井嶼上的小學怎麼樣？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "小小學校為了吸引學生，不但贈送三餐，還有機票。",
+      "content": [
+        {
+          "text": "1. breakfast 早餐\nThis school offers students breakfast, lunch and dinner.\n這個學校提供早餐，中飯和晚飯。\nEvery day? 每天嗎?\nEvery day. 每天。\nThat's so generous! 真慷慨!",
+          "time": null
+        },
+        {
+          "text": "2. finish 完成\nI know. Think about how much time it can save you.\n我知道，想想看這可以節省你多少時間。\nBut my youngest kid is about to finish school! 但是我最小的孩子就快畢業了。",
+          "time": null
+        },
+        {
+          "text": "3. how 如何\nHow could he grow so fast? 他怎麼長那麼快?\nI thought he's still 10 years old. 我以為他還是十歲。\nYeah, kids grow much faster than you think.是啊，小孩遠比你想的長得快。",
+          "time": null
+        },
+        {
+          "text": "4. happen 發生\nSo what will happen next? 所以接下來會怎樣?\nI'll be free. 我就自由了。",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學到哪些單字?\nbreakfast早餐\nfinish完成\nhow如何\nhappen發生"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is Hujing Island?",
+        "options": [
+          "a. Matsu",
+          "b. Kinmen",
+          "c. Penghu"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many students go to the elementary school on Hujing Island now?",
+        "options": [
+          "a. 2",
+          "b. 12",
+          "c. 20"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What does the principal want?",
+        "options": [
+          "a. More teachers",
+          "b. New students",
+          "c. Plane tickets"
         ],
         "time": null,
         "answer": "b"
