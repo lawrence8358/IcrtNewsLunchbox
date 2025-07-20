@@ -1,0 +1,105 @@
+ [
+  {
+    "id": "20231020-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Sustainable Cities and Communities",
+      "Life on Land",
+      "Technology Education",
+      "Life Education",
+      "Multicultural Education",
+      "Outdoor Education",
+      "Natural Sciences"
+    ],
+    "title": "Scientists Want to Build Moon Homes",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231019NK.mp3",
+    "content": [
+      {
+        "en": "Do you want to live on the moon? It's very different from here.",
+        "tw": "你想要住在月球嗎? 這跟在地球生活很不一樣喔。",
+        "time": null
+      },
+      {
+        "en": "Here, the air is safe to breathe. On the moon, there is lots of dust. Breathing moondust is very dangerous. It's very sharp! It can kill you!",
+        "tw": "地球的空氣很安全，但月球上有很多的灰塵。吸入這些灰塵很危險，可能會要了你的命。",
+        "time": null
+      },
+      {
+        "en": "Do you still want to live on the moon? Well, maybe you can! Some scientists in the USA think we can live there by 2040. That's 17 years from now!",
+        "tw": "這樣你還想住在月球上嗎? 美國科學家覺得17年後，也就是2040年我們就可以在月球生活。",
+        "time": null
+      },
+      {
+        "en": "These scientists say we can make moon homes from moondust. Moondust and water make moon cement! The moon cement goes into 3-D printers. Then these printers print moon homes!",
+        "tw": "科學家說我們可以用月亮的灰塵做月球住宅。月球的灰塵加水可以混和成月球水泥，再用3D列印機打造月球住宅。",
+        "time": null
+      },
+      {
+        "en": "This is very smart. We don't need to take heavy cement to the moon. That saves a lot of money. One kilogram of anything costs 32 million Taiwan dollars to take to the moon!",
+        "tw": "這樣我們就不需要把笨重的水泥送到月球，還可以省下很多錢。",
+        "time": null
+      },
+      {
+        "en": "Scientists say we can live on Mars next. It's a long way there. But we can go to the moon first and then go to Mars! In 17 years, we can live in moon homes made of moondust! Let's get ready to go!",
+        "tw": "科學家說我們接下來可以住在火星。雖然路途遙遠，但我們可以先到月球，然後再去火星！17年後，我們就可以住在由月塵製成的月球屋裡！準備好出發吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "建造月球房屋可以就地取材，不必遠從地球運過去。",
+      "content": [
+        {
+          "text": "1. live 居住\nWould you like to live in a moon house? 你想住進月球屋裡面嗎?\nYou want to send me there? 你想把我送去?\nI can't send you anywhere even if I want to.",
+          "time": null
+        },
+        {
+          "text": "2. dangerous 危險的\nTrue. But living on the moon? 那是真的。不過住在月球上嗎?\nNo, too dangerous.",
+          "time": null
+        },
+        {
+          "text": "3. Mars 火星\nI could be hit by meteors any time.我可能隨時會被流星打到。\nBut from there you can travel to Mars!",
+          "time": null
+        },
+        {
+          "text": "4. breathe 呼吸\nNothing on Mars attracts me. 火星沒有吸引我的東西。\nI can't even breathe there.",
+          "time": null
+        }
+      ],
+      "postscript": "你想住在月球嗎?\nlive居住\ndangerous危險的\nMars火星\nbreathe呼吸"
+    },
+    "quiz": [
+      {
+        "question": "1. What on the moon is sharp?",
+        "options": [
+          "a. Moondust",
+          "b. Moon cement",
+          "c. Moon homes"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. When do scientists think we can live on the moon?",
+        "options": [
+          "a. 2020",
+          "b. 2030",
+          "c. 2040"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. After the moon, where do scientists say we can live?",
+        "options": [
+          "a. The air",
+          "b. Mars",
+          "c. The USA"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  }
+]
