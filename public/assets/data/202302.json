@@ -598,5 +598,113 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230221-01",
+    "type": "國小",
+    "tag": [
+      "Information Education",
+      "Character Education",
+      "Life Education",
+      "Technology Education"
+    ],
+    "title": "Kids Invent Heated Life Jacket",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230220NK.mp3",
+    "content": [
+      {
+        "en": "Hi students! Today I want to talk about an invention. There have been some great inventions. Almost everything was an invention at one time, like the telephone and the car and the airplane.",
+        "tw": "今天我們來聊聊發明。世界上有很多大發明，像是電話、汽車，還有飛機。",
+        "time": null
+      },
+      {
+        "en": "Most inventions are made by adults. But today, I want to talk about a cool invention made by some kids in Canada. Their names are Liam and Fraser.",
+        "tw": "很多東西都是大人發明的，但是今天我要講兩個加拿大的小孩發明家，叫做 Liam 跟 Fraser。",
+        "time": null
+      },
+      {
+        "en": "One day, Liam was taking sailing lessons and fell into the sea. Luckily, he was wearing a life-jacket. He was safe because of the life jacket, but Liam was really cold in the water.",
+        "tw": "Liam 在帆船課的時候掉進海裡，幸好他有穿救生衣，但是水裡好冷！",
+        "time": null
+      },
+      {
+        "en": "That freezing cold water gave Liam a great idea. He worked with his friend Fraser on an invention. What was their invention? They invented a heated life jacket.",
+        "tw": "這給了 Liam 一個好點子，他跟他的朋友 Fraser 發明了一個發熱救生衣。",
+        "time": null
+      },
+      {
+        "en": "They put a special chemical in the life jacket. When the chemical touches water, it gets hot.",
+        "tw": "救生衣裡面有化學物質，碰到水就會加熱。",
+        "time": null
+      },
+      {
+        "en": "To test their new life jacket, they jumped into the ocean. But they used too much of the chemical the first time, so they got a bit too hot.",
+        "tw": "為了測試他們的發明，他們跳進海裡面，結果因為化學物質太多，衣服變得太燙了。",
+        "time": null
+      },
+      {
+        "en": "So, now they don't use as much of the chemical in their life jackets. And they won a science award for their great invention!",
+        "tw": "他們減少了化學物質的用量，後來贏得了一個發明獎！",
+        "time": null
+      },
+      {
+        "en": "Maybe some of you smart kids will invent something great, too! Good luck!",
+        "tw": "也許你們這些聰明的孩子也會發明一些很棒的東西！祝你們好運！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "十四歲的加拿大少年，發明了可以加熱的救生衣。",
+      "content": [
+        {
+          "text": "1. freezing 冷凍的\nIt's freezing here! 這裡冷死了！\nDon't you feel cold, Jane? 你不覺得冷嗎？\nJust a little. Here, wear this jacket. 我只有一點冷。來，你穿這件夾克。",
+          "time": null
+        },
+        {
+          "text": "2. jacket 夾克\nI don't want to wear your jacket! 我不要穿你的夾克。\nThey've invented a thing called a \"heater\", okay?\n有人已經發明了「暖氣機」這種東西，好不好？\nMy heater broke down last week. 我的暖氣上星期壞了。",
+          "time": null
+        },
+        {
+          "text": "3. hot 熱的\nLet me make some hot tea for you. 我來泡熱茶給你喝。\nI have this teapot that doesn't use gas or fire.\n我有個茶壺既不需要瓦斯也不用火。",
+          "time": null
+        },
+        {
+          "text": "4. invention 發明的東西\nNow that's a great invention! 那倒是個很棒的發明。",
+          "time": null
+        }
+      ],
+      "postscript": "你想發明什麼東西嗎？\nLet's read these words.\nfreezing 冷凍的\njacket 夾克\nhot 熱的\ninvention 發明的東西"
+    },
+    "quiz": [
+      {
+        "question": "1. How did Liam get the idea for his invention?",
+        "options": [
+          "a. His friend Fraser told him about it",
+          "b. He read about it in a science book",
+          "c. He fell into the ocean"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What happened when Liam and Fraser first tried their invention?",
+        "options": [
+          "a. It got too hot",
+          "b. It didn't work at all",
+          "c. It worked perfectly"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did Liam and Fraser win?",
+        "options": [
+          "a. Some money",
+          "b. An award",
+          "c. Some new life jackets"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
