@@ -1,0 +1,112 @@
+ [
+  {
+    "id": "20231201-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life on Land",
+      "Character Education",
+      "Life Education",
+      "Multicultural Education",
+      "International Education"
+    ],
+    "title": "Man With No Arms Can Shoot Bow",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231130NK.mp3",
+    "content": [
+      {
+        "en": "Can you shoot a bow? It's easy. Put the arrow on the string of the bow. Pull the string. Where do you want the arrow to go? That's your target. Point at your target. Let go of the string. Watch the arrow fly!",
+        "tw": "你會射箭嗎? 很簡單，把箭放在弓弦上，然後拉弓。你希望弓箭往哪裡射呢? 瞄準你的目標，然後放箭。",
+        "time": null
+      },
+      {
+        "en": "Shooting a bow for sport is fun! But do we need arms to do it?",
+        "tw": "射箭運動很好玩! 但我們需要手臂才能射箭嗎?",
+        "time": null
+      },
+      {
+        "en": "Ask Matt Stutzman. He was born with no arms. He shoots a bow.",
+        "tw": "問問看Matt Stutzman，他天生沒有手臂，但他會射箭。",
+        "time": null
+      },
+      {
+        "en": "How does Matt do this? He holds his bow with his foot. He pulls the string with his chin.",
+        "tw": "他怎麼做到的呢? 他用腳拿弓，用下巴拉弓。",
+        "time": null
+      },
+      {
+        "en": "Matt can hit any target. He shoots very well. He won a silver medal for the USA at the Paralympics. This big competition is for athletes with disabilities.",
+        "tw": "Matt很會射箭，他代表美國在帕運會拿下銀牌。帕運會是為身障運動員舉辦的比賽。",
+        "time": null
+      },
+      {
+        "en": "Matt wants everyone to know he can do anything. His disability doesn't stop him. Matt wants to win a gold medal at next year's Paralympics.",
+        "tw": "Matt希望每一個人都知道身體的缺陷無法限制他，他可以做任何事。他希望能在明年帕運會上贏得金牌。",
+        "time": null
+      },
+      {
+        "en": "This Sunday is the International Day of Persons with Disabilities. Let's learn about Matt and other people with disabilities. Let's learn what they can do!",
+        "tw": "這個禮拜天是國際身心障礙者日。我們可以從Matt跟其他的身心障礙者身上學習他們可以做到的事。",
+        "time": null
+      },
+      {
+        "en": "Matt uses what he has... and he hits his target!",
+        "tw": "Matt運用他所擁有的…並且達成了他的目標！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "用腳也可以射箭，真是了不起的本領!",
+      "content": [
+        {
+          "text": "1. shoot 射擊 Check this out, Nancy. 你看，南西。 I'm going to shoot the bullseye this time. 我這次要射中紅心。 Sure, just like last time when you hit the teacher's hat. 當然，就跟你上次射中老師的帽子一樣。",
+          "time": null
+        },
+        {
+          "text": "2. point 指著 I wasn't pointing at her hat! 我並沒有瞄準她的帽子! Oh no, I can't believe I missed it! 我不敢相信我沒射中!",
+          "time": null
+        },
+        {
+          "text": "3. target 箭靶 You still hit the target. 你還是射中箭靶啦。 But not the center. 但是不是中心。",
+          "time": null
+        },
+        {
+          "text": "4. let go of 放手 I think I let go of the arrow too late. 我覺得我放箭的時間太晚了。 No worries. You'll get better. 別擔心，你會進步的。 Now let me give it a try.現在讓我來試試。",
+          "time": null
+        }
+      ],
+      "postscript": "你有看過奧運的射箭比賽嗎? shoot射擊 point指出 target箭靶 let go of放手"
+    },
+    "quiz": [
+      {
+        "question": "What is the place where you want your arrow to go?",
+        "options": [
+          "Target",
+          "String",
+          "Bow"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "What does Matt hold his bow with?",
+        "options": [
+          "His chin",
+          "His foot",
+          "His mouth"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "What does Matt want to win next year?",
+        "options": [
+          "A silver medal",
+          "A gold medal",
+          "Lots of money"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  }
+]
