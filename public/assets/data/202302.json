@@ -395,5 +395,101 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230218-01",
+    "type": "國小",
+    "tag": [
+      "Character Education",
+      "Life on Land"
+    ],
+    "title": "Man Makes Stairs to Mountain Temple",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230217NK.mp3",
+    "content": [
+      {
+        "en": "People like to visit a mountain temple because it is peaceful. But to reach that place, they need to climb the mountain first. It's not easy.",
+        "tw": "因為氣氛寧靜，人們喜歡拜訪山上的寺廟，但是要到那裡需要先爬山，這可不容易。",
+        "time": null
+      },
+      {
+        "en": "That was the problem for a village in India. That village had a mountain with a Hindu temple on top. The temple was famous, and many people wanted to visit.",
+        "tw": "印度一個村莊有一座山，山頂上有一座著名的印度教寺廟，很多人想去參觀。",
+        "time": null
+      },
+      {
+        "en": "The problem was, there were no stairs! It took people many hours to climb. Plus, old people and children could not do it. The temple was too hard to reach.",
+        "tw": "問題是這座山沒有階梯，人們要花好幾個小時才能爬上去。老人跟小朋友根本沒辦法到達那座廟。",
+        "time": null
+      },
+      {
+        "en": "A local man named Mr. Paswan wanted to change this. He saw that he could use simple tools to make stone stairs for the people to climb.",
+        "tw": "當地有一位名叫 Paswan 的先生想解決這個問題，他用簡單的工具來製作石頭階梯。",
+        "time": null
+      },
+      {
+        "en": "Mr. Paswan worked every day, cutting the stone into hundreds of stairs. Sometimes he got tired, but he kept thinking of all the people he could help. He never gave up.",
+        "tw": "Paswan每天都在把石頭切割成數百個台階。他也會累，但是想到能幫助許多人，他就沒有放棄。",
+        "time": null
+      },
+      {
+        "en": "He started this work eight years ago. Now, he has finally finished! Many people have come to thank Mr. Paswan for his hard work. Thanks Mr. Paswan!",
+        "tw": "他八年前開始這項工作。現在，他終於完成了！許多人前來感謝Paswan先生的辛勤工作。謝謝你，Paswan先生！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "親手製造石頭階梯的巴斯萬先生，幫了別人大忙。",
+      "content": [
+        {
+          "text": "1. climb 爬\nCherry blossoms on Xiangshan are in full bloom. 象山的櫻花全開了。\nLet's go up Xiangshan on Sunday. 我們星期天去爬象山吧。\nBad idea. I don't like climbing stairs. 壞主意。我不愛爬樓梯。",
+          "time": null
+        },
+        {
+          "text": "2. easy 容易的\nBut the flowers are beautiful! 但是那些花很漂亮！\nAnd the mountain itself is easy. 象山本身也容易爬。",
+          "time": null
+        },
+        {
+          "text": "3. hundreds of 數百個\nNo, it's not. 不容易。\nThere are hundreds of stairs. 它有好幾百個階梯。\nThat shouldn't be a problem. 那應該不是問題。",
+          "time": null
+        },
+        {
+          "text": "4. give up 放棄\nYou can rest on the way. 你途中可以休息。\nNo, I will just give up. 不，我就會放棄。\nOh, come on! You're not 90! 少來了! 你又不是九十歲。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了嗎？\nclimb 爬\neasy 容易的\nhundreds of 數百個\ngive up 放棄"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did Mr. Paswan make the stairs?",
+        "options": [
+          "a. Italy",
+          "b. India",
+          "c. Indonesia"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What place did Mr. Paswan want to help people reach?",
+        "options": [
+          "a. A temple",
+          "b. A school",
+          "c. A shop"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How long did it take to make the stairs?",
+        "options": [
+          "a. Two years",
+          "b. Four years",
+          "c. Eight years"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
