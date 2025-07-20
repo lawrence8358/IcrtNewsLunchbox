@@ -491,5 +491,112 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230220-01",
+    "type": "國小",
+    "tag": [
+      "Affordable and Clean Energy",
+      "Clean Water and Sanitation",
+      "Environmental Education"
+    ],
+    "title": "British River Brought Back to Life",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230218NK.mp3",
+    "content": [
+      {
+        "en": "Hi everyone! You guys know that pollution is a big problem around the world, right? It's in the air. It's on land, and it's in the water. That's bad!",
+        "tw": "環境污染到處都是，空氣、土地、河流都會被污染，很糟糕！",
+        "time": null
+      },
+      {
+        "en": "But, there is also some good news. Many people are working hard to clean up the environment. In England, scientists are helping to make a river called the River Mersey much cleaner.",
+        "tw": "但也有人努力清理環境。英國的科學家想讓一條叫做梅西河的河流變乾淨。",
+        "time": null
+      },
+      {
+        "en": "That river was famous for being one of the most polluted rivers in Europe. Scientists even said the river was \"dead\", because it had so much pollution.",
+        "tw": "梅西河是全歐洲最骯髒的河流之一，科學家甚至說這條河流已經死了。",
+        "time": null
+      },
+      {
+        "en": "Why was the River Mersey so polluted? For a long time, factories put dangerous chemicals into the River Mersey.",
+        "tw": "為什麼它污染這麼嚴重呢？因為工廠一直把廢棄化學物排進河裡。",
+        "time": null
+      },
+      {
+        "en": "Also, the river had a lot of sewage. So, it smelled really, really bad. Yuck!",
+        "tw": "很多下水道也把汙水排進去，所以很臭，很噁心！",
+        "time": null
+      },
+      {
+        "en": "Since 1985, the government has spent lots of money to make the River Mersey cleaner. And it is working!",
+        "tw": "英國政府從 1985 年以來，花了大錢清理梅西河，結果奏效了！",
+        "time": null
+      },
+      {
+        "en": "About 20 years ago, in 2002, there were only 15 kinds of fish in the river. But last year, there were 37! That's a lot more fish!",
+        "tw": "20 年前河裡只有 15 種魚，去年已經有 37 種了！",
+        "time": null
+      },
+      {
+        "en": "That's great, but the scientists aren't finished yet. They want to keep working to make the River Mersey even cleaner. Let's all wish those scientists good luck, it sounds like they are doing a great job!",
+        "tw": "這很棒，但科學家們還沒完成。他們想繼續努力讓梅西河變得更乾淨。 讓我們都祝這些科學家好運，聽起來他們做得很好！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "汙染嚴重的梅西河經過一番努力，已經脫胎換骨。",
+      "content": [
+        {
+          "text": "1. dangerous 危險的\nHmmm, I didn't know that there's a beach nearby. 我不知道這附近有海灘。\nThat's because nobody goes there. 那是因為沒有人去。\nBecause it's dangerous? 因為它很危險嗎？",
+          "time": null
+        },
+        {
+          "text": "2. polluted 受到污染的\nYeah, it's very polluted.對，它汙染得很厲害。\nYuck, that's bad. 好噁喔，真糟糕。\nIt is. 是很糟。",
+          "time": null
+        },
+        {
+          "text": "3. clean up 清理\nWhy didn't anyone try to clean it up? 為什麼沒有人試著清理它？\nAre you kidding? That's a lot of work! 開玩笑，那是多大的工作！\nI don't even want to clean my room! 我甚至不想清我的房間！",
+          "time": null
+        },
+        {
+          "text": "4. year 年\nYou're right, it'll take at least half a year to clean it.\n說得對，打掃你的房間至少需要半年。\nI'd say a year. 我會說要一年。",
+          "time": null
+        }
+      ],
+      "postscript": "我們一起來讀單字。\ndangerous 危險的\npolluted 污染的\nclean up 清理\nyear 年"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the River Mersey?",
+        "options": [
+          "a. America",
+          "b. England",
+          "c. Germany"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why did scientists call the River Mersey \"dead\"?",
+        "options": [
+          "a. It had too much pollution",
+          "b. It was too dry",
+          "c. It had no fish"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many kinds of fish were in the River Mersey last year?",
+        "options": [
+          "a. 15",
+          "b. 37",
+          "c. 55"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
