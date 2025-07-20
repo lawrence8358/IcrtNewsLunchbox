@@ -212,5 +212,110 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20231106-01",
+    "type": "國小",
+    "tag": [
+      "Arts",
+      "Reading Literacy Education",
+      "International Education",
+      "Life Education",
+      "Character Education",
+      "Life on Land"
+    ],
+    "title": "Artist Fights to Save Art on Old Chewing Gum",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231103NK.mp3",
+    "content": [
+      {
+        "en": "Do you like chewing gum? Some sugar-free chewing gums can be healthy! They make your teeth whiter, calm you, and stop bad breath.",
+        "tw": "你喜歡嚼口香糖嗎? 有一些無糖口香糖很健康。它們可以美白牙齒、防止口臭，也可以安撫情緒。",
+        "time": null
+      },
+      {
+        "en": "When you finish chewing your gum, do you eat it? Don't do that! It's CHEWING gum! It isn't EATING gum! It goes in the trash, not in you!",
+        "tw": "嚼完口香糖，你會吞下去嗎? 不可以喔! 你是嚼口香糖，不是吃它! 它應該要進垃圾桶，而不是進到你的身體。",
+        "time": null
+      },
+      {
+        "en": "Some people spit their chewing gum onto the ground. It becomes litter. Old chewing gum is sticky, ugly, and bad for the environment.",
+        "tw": "有一些人把口香糖吐在地上，成了垃圾。嚼過的口香糖又黏又難看，而且破壞環境。",
+        "time": null
+      },
+      {
+        "en": "Ben Wilson is an artist from the UK. He paints old chewing gum! He uses bright colors. His pictures are very small. Some have fun messages. Many people ask for special chewing gum pictures.",
+        "tw": "英國藝術家Ben Wilson 用鮮艷的顏色在口香糖上作畫! 他的作品很小，也很有趣。很多人都跟他要他的藝術作品。",
+        "time": null
+      },
+      {
+        "en": "The Millennium Bridge is in London. Thousands of people use this bridge every day. Hundreds of Wilson's bright chewing gum pictures are on the bridge! Kids like to jump from picture to picture!",
+        "tw": "倫敦有座千禧橋。每天有成千上萬的人使用這座橋。橋上有數百幅威爾遜鮮豔的口香糖畫作！孩子們喜歡在這些畫作之間跳來跳去！",
+        "time": null
+      },
+      {
+        "en": "But the bridge needs cleaning. Many of Wilson's chewing gum pictures will go in the trash! He's fighting to keep them safe.",
+        "tw": "但是千禧橋需要清理，許多Wilson的作品都會被丟進垃圾桶，所以他正在爭取保留。",
+        "time": null
+      },
+      {
+        "en": "Wilson takes ugly litter and makes pictures people love. Let's hope he can save them!",
+        "tw": "威爾遜將難看的垃圾變成了人們喜愛的畫作。希望他能將它們保存下來！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "藝術家用吃過的口香糖，黏在橋面上，然後塗上顏色，變成一幅幅小小的畫作。",
+      "content": [
+        {
+          "text": "1. picture 圖畫\nYou have so many pictures at home! 你家裡有好多畫! \nBelieve it or not, I painted all of them. 信不信由你，它們都是我畫的。\nThat IS hard to believe! 真難以置信。",
+          "time": null
+        },
+        {
+          "text": "2. artist 藝術家\nI never knew you were an artist. 我從不知道你是藝術家。\nNo, I only tried to be one. 沒有啦，我試著做個藝術家而已。",
+          "time": null
+        },
+        {
+          "text": "3. color 顏色\nSo you like bright colors, don't you? 所以你喜歡鮮豔的顏色，對吧?\nYeah, yellow and orange are my favorite colors. 對，黃色跟橘色是我最喜歡的。",
+          "time": null
+        },
+        {
+          "text": "4. every day 每天\nDo you paint every day? 你每天都畫畫嗎?\nNo, I paint when I feel bad. 不，心情不好的時候才畫。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like painting? Let's read the words.\npicture圖畫\nartist藝術家\ncolor顏色\nevery day每天"
+    },
+    "quiz": [
+      {
+        "question": "1. Where should old chewing gum go?",
+        "options": [
+          "a. In you",
+          "b. In the trash",
+          "c. On the ground"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What is the chewing gum painter's name?",
+        "options": [
+          "a. Bright Wilson",
+          "b. Art Wilson",
+          "c. Ben Wilson"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What needs cleaning in this story?",
+        "options": [
+          "a. London Bridge",
+          "b. The Litter Bridge",
+          "c. The Millennium Bridge"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
