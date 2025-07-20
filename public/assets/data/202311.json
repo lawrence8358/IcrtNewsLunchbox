@@ -1885,5 +1885,117 @@
         "answer": "C"
       }
     ]
+  },
+  {
+    "id": "20231129-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Industry, Innovation and Infrastructure",
+      "Reduced Inequalities",
+      "Responsible Consumption and Production",
+      "Life on Land",
+      "Environmental Education",
+      "Technology Education",
+      "Multicultural Education",
+      "Outdoor Education",
+      "Social Studies",
+      "Technology",
+      "Natural Sciences",
+      "Health and Physical Education"
+    ],
+    "title": "Moving Stairs for Mountain Views",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231128NK.mp3",
+    "content": [
+      {
+        "en": "Walking for thirty minutes every day is good for you. It can help you be strong and healthy. It's cheap too. All you need are comfortable shoes. Then you can walk anywhere!",
+        "tw": "每天走30分鐘有益身心健康。而且你只需要一雙舒適的鞋子，就可以到處走走!",
+        "time": null
+      },
+      {
+        "en": "Many people like walking a long way on mountains, in forests, and other natural places. This is called \"hiking\". Taiwan has many beautiful hiking trails. Many of them go up mountains.",
+        "tw": "很多人喜歡爬山，也會在森林或是其他自然景點走路。這叫做健行，台灣有很多健行步道，大多都通往山上。",
+        "time": null
+      },
+      {
+        "en": "But hiking is harder than walking. Some people can't hike. So they can't see beautiful mountain views.",
+        "tw": "但是健行比走路困難，無法健行就看不到美麗的山景。",
+        "time": null
+      },
+      {
+        "en": "Tianyu Mountain in China is beautiful. But it's very hard to hike. Hikers hike three mountains to get there!",
+        "tw": "中國的天嶼山很漂亮，但是它非常難爬。登山客需要翻越三座山才能到達。",
+        "time": null
+      },
+      {
+        "en": "A tour company put long escalators on Tianyu Mountain. These moving stairs take people up the mountain. People stand on them and enjoy the view! These escalators are great for older people, families, and people with disabilities.",
+        "tw": "有一家旅遊公司在天嶼山蓋了一座電動手扶梯，可以直接載人到山上。人們可以搭手扶梯享受美景，對老人、兒童跟身障人士很有幫助。",
+        "time": null
+      },
+      {
+        "en": "But some people don't like them. They say the escalators are ugly. They say enjoying the mountain is not only about the views. It's also about moving your body and feeling healthy.",
+        "tw": "但是也有人不喜歡，他們覺得這個手扶梯很難看。還說爬山不只是享受美景，還包括運動，讓人身體健康。",
+        "time": null
+      },
+      {
+        "en": "Escalators on mountains are good for some visitors, but bad for others!",
+        "tw": "山上的手扶梯對有些遊客來說是好的，但對另一些人來說卻是糟糕的！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "到野外健行，除了賞景，也是讓身體強健。",
+      "content": [
+        {
+          "text": "1. feel 感覺\nI can't sleep well these days.我這幾天都睡不好。\nI feel tired all the time.我總是覺得累。",
+          "time": null
+        },
+        {
+          "text": "2. enjoy 喜歡\nMaybe it's because you watch too much TV? 也許你看太多電視了?\nBut I enjoy watching TV! 可是我很喜歡看電視!\nWell, come hiking with me in the mountains in Keelung Saturday.",
+          "time": null
+        },
+        {
+          "text": "3. mountain 山\nIs it a high mountain? 是高山嗎?\nNo, but it does take some climbing. 不是，但確實需要爬山。\nI don't like climbing. 我不喜歡爬山。\nIt'll help you sleep better.會讓你睡得比較好。",
+          "time": null
+        },
+        {
+          "text": "4. view 景觀\nAnd the view is beautiful! 而且景觀很棒!\nDo we get to see the ocean? 看得到大海嗎?\nThe ocean and vast grasslands. 大海，還有大片綠草。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了幾個?\nfeel感覺\nenjoy喜歡\nmountain山\nview景觀"
+    },
+    "quiz": [
+      {
+        "question": "1. What is \"hiking\"?",
+        "options": [
+          "a. Walking every day",
+          "b. Walking a long way",
+          "c. Walking in Taiwan"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where is Tianyu Mountain?",
+        "options": [
+          "a. Chad",
+          "b. Chile",
+          "c. China"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What are \"escalators\"?",
+        "options": [
+          "a. Comfortable shoes",
+          "b. Mountains",
+          "c. Moving stairs"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
