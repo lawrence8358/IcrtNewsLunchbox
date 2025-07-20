@@ -303,5 +303,116 @@
         "answer": "C"
       }
     ]
+  },
+  {
+    "id": "20230307-01",
+    "type": "國小",
+    "tag": [
+      "International Education",
+      "Multicultural Education",
+      "Energy Education",
+      "Environmental Education",
+      "Life on Land",
+      "Climate Action",
+      "Responsible Consumption and Production",
+      "Sustainable Cities and Communities",
+      "Industry, Innovation and Infrastructure",
+      "Affordable and Clean Energy",
+      "Social Studies"
+    ],
+    "title": "Cows Keep Festival Eco-Friendly",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230306NK.mp3",
+    "content": [
+      {
+        "en": "India is a HUGE country. Many people there live in a state called Uttar Pradesh, and lots of those people are Hindu.",
+        "tw": "印度很大，有很多人住在一個叫做「北方邦」的地方，裡面不少人都是印度教徒。",
+        "time": null
+      },
+      {
+        "en": "Today is the start of an ancient Hindu celebration, called \"Holi\". It's a festival that's famous for having lots of color. People run around throwing paint at each other, it's really fun!",
+        "tw": "今天是印度教侯麗節開始的日子，這是一個色彩繽紛的節日，大家會到處在別人身上潑顏料！",
+        "time": null
+      },
+      {
+        "en": "Today, lots of Hindus use special eco-friendly paint, so they won't harm the planet.",
+        "tw": "現在很多人會用環保顏料，比較不會傷害地球。",
+        "time": null
+      },
+      {
+        "en": "The night before Holi people always light huge fires. They used to burn wood, which meant they had to cut down lots of trees, but that was really bad for the environment.",
+        "tw": "侯麗節的前一個晚上，大家還會升營火，人們以前會砍樹燒柴，但這樣對環境不好。",
+        "time": null
+      },
+      {
+        "en": "This year, in Uttar Pradesh, they're trying something new. They want to burn \"cow wood\" instead. What is cow wood? Don't worry, it isn't made out of cows! Actually, it's made from their poop!",
+        "tw": "今年，他們不燒木柴，改燒「牛柴」。你放心，牛柴不是用牛做的啦！它們其實是牛便便。",
+        "time": null
+      },
+      {
+        "en": "To make cow wood, farmers take some cow poop, shape it into a brick, and let it dry.",
+        "tw": "農夫會把牛便便收集起來，弄成磚塊的形狀，然後晾乾。",
+        "time": null
+      },
+      {
+        "en": "The Uttar Pradesh government wants to have 300 tons of cow wood ready for the huge fires… 300 tons?! That's as heavy as 3 blue whales! That's a lot of poop…",
+        "tw": "政府說，他們想要準備三百噸的牛柴來慶祝侯麗節，有三頭鯨魚這麼重！",
+        "time": null
+      },
+      {
+        "en": "This great idea is helping Hindus in Uttar Pradesh be good to the planet and enjoy their famous festival at the same time! Happy eco-friendly Holi, everybody!",
+        "tw": "這個好主意正在幫助北方邦的印度教徒善待地球，同時也能享受他們著名的節日！大家環保侯麗節快樂！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "不再砍樹，改用牛柴，可以減少對環境的影響。",
+      "content": [
+        {
+          "text": "1. celebration 慶祝 Oh no, is Saturday School Day? 糟糕，星期六是學校日嗎？ Yeah, why? 是啊，為什麼？ Don't you like celebrations? 你不喜歡慶祝嗎？ No, I just don't like the same thing every year.",
+          "time": null
+        },
+        {
+          "text": "2. color 顏色 I'm going to try something new this time. 這次我準備試一點新花樣。 Like what? 比如說什麼？ I'll prepare lots of color paper and cut it into small pieces.",
+          "time": null
+        },
+        {
+          "text": "3. throw 扔 And throw it at each other? 然後互相扔？ Yeah, we'll play a game first, and then throw it. 對，我們先玩遊戲，然後扔。 Sounds great ! Can I join your class? 聽起來真不錯。我可以加入你班上嗎？",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡參加慶典嗎？來讀讀單字。 celebration 慶祝 color 顏色 throw 扔"
+    },
+    "quiz": [
+      {
+        "question": "1. What is Holi famous for?",
+        "options": [
+          "a. Wood",
+          "b. Color",
+          "c. Farmers"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do people throw at each other during Holi?",
+        "options": [
+          "a. Money",
+          "b. Paint",
+          "c. Paper"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What is 300 tons of cow poop as heavy as?",
+        "options": [
+          "a. 33 blue whales",
+          "b. 303 blue whales",
+          "c. 3 blue whales"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
