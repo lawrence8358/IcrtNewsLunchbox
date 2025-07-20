@@ -948,5 +948,101 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20231222-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education",
+      "Family Education"
+    ],
+    "title": "Merry Christmases Around the World!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231221NK.mp3",
+    "content": [
+      {
+        "en": "Christmas is coming in a few days! Are you excited?",
+        "tw": "再過幾天就是耶誕節了!你很期待嗎?",
+        "time": null
+      },
+      {
+        "en": "Some people eat special food for Christmas. In the UK, people eat roasted goose, chicken, or turkey. Some people in Ethiopia eat wat with flatbread. Wat is a thick, spicy chicken soup. It's delicious!",
+        "tw": "耶誕節有些人會準備特別的料理，像是英國人吃烤雞、烤鵝肉或火雞。伊索比亞人吃沃特配薄餅。沃特是一種濃郁辛辣的雞湯，十分美味。",
+        "time": null
+      },
+      {
+        "en": "Some people put up Christmas decorations at home. In the USA and South Korea, people put up Christmas trees, lights, and garlands. Garlands are long, thick lines of leaves. They're beautiful!",
+        "tw": "美國跟南韓也有人會在家裡擺放耶誕裝飾。像是耶誕樹、燈、跟耶誕花環。",
+        "time": null
+      },
+      {
+        "en": "Some people do things outside. In Australia, Christmas Eve is for Christmas songs. That night, people hold candles and sing. It's hot there, so some people have Christmas at the beach! It's great!",
+        "tw": "有一些人是在戶外過聖誕節。澳洲在耶誕之夜會唱耶誕歌曲，這天晚上大家拿著蠟燭唱歌。因為天氣熱，有些人會在海邊慶祝。",
+        "time": null
+      },
+      {
+        "en": "Some people go to festivals. In Mexico, a nine-day festival has a pi?ata every night. The pi?ata is star-shaped. There's something inside! Kids hit the pi?ata with a stick. It opens! Candy falls out! It's fun!",
+        "tw": "也有人參加慶典。墨西哥有個長達9天的耶誕節慶，在那9個晚上都會敲打皮娜塔。小朋友拿著棍子敲打皮娜塔，裡面就會掉出糖果。",
+        "time": null
+      },
+      {
+        "en": "People around the world enjoy Christmas in many ways. Now Santa's on his way. The holiday fun is starting!",
+        "tw": "世界各地的人們以多種方式享受聖誕節。現在聖誕老人正在路上。節日的樂趣即將開始！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "耶誕節有無窮的魅力，世界各地的人都喜歡慶祝這個節日。",
+      "content": [
+        {
+          "text": "1. in many ways 在很多方面\nSanta Claus is a fun person in many ways. 耶誕老公公是個有趣的人。\nFor one thing, he drives a sleigh. 舉例說吧，他駕駛雪撬。",
+          "time": null
+        },
+        {
+          "text": "2. excited 興奮高興的\nYeah, that's true. 對啊，確實是。\nAnd everyone is excited to see him. 而且大家都高興看到他。",
+          "time": null
+        },
+        {
+          "text": "3. toy 玩具\nHe gives away toys and other gifts. 他會送玩具和其他的禮物。\nPeople and parents buy those things, too. 爸爸媽媽或是一般人也會買那些。",
+          "time": null
+        },
+        {
+          "text": "4. inside, outside 裡面外面\nAnd he doesn't stay inside.而且他不待在屋子裡。\nHe's always running around outside.他總是在外面跑來跑去。\nThat's because it's his job! 因為他的工作就是那樣。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\nin many ways在很多方面\nexcited高興的\ntoy玩具\ninside, outside 裡面外面"
+    },
+    "quiz": [
+      {
+        "question": "1. What decorations do people in South Korea put up?",
+        "options": [
+          "a. Garlands",
+          "b. Candles",
+          "c. Pi?atas"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What is a special food in the UK?",
+        "options": [
+          "a. Wat with flatbread",
+          "b. A roasted goose",
+          "c. Candy"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Where do some people in Australia go on Christmas Day?",
+        "options": [
+          "a. The beach",
+          "b. Santa's home",
+          "c. The UK"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
