@@ -984,5 +984,111 @@
         "answer": "C"
       }
     ]
+  },
+  {
+    "id": "20230112-01",
+    "type": "國小",
+    "tag": [
+      "No Poverty",
+      "Good Health and Well-Being",
+      "Zero Hunger",
+      "Affordable and Clean Energy",
+      "Decent Work and Economic Growth",
+      "Reduced Inequalities",
+      "Life on Land",
+      "Environmental Education",
+      "Energy Education",
+      "Character Education",
+      "Life Education",
+      "International Education"
+    ],
+    "title": "Village Oven Bakes Again",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230111NK.mp3",
+    "content": [
+      {
+        "en": "We get most of our heat and light from electricity. The problem is, electricity can be expensive!",
+        "tw": "我們的熱能以及光都是靠電力。但是電費很貴喔！",
+        "time": null
+      },
+      {
+        "en": "Thousands of years ago, in England, owning an oven was expensive too. Most people didn't have one in their home.",
+        "tw": "好幾千年以前，大多數的英國人家裡沒有窯，因為窯太貴了。",
+        "time": null
+      },
+      {
+        "en": "Instead of lots of little ovens, most villages had just one that was really big. They called it the 'village oven'. The baker would use it first. Then, while the oven was still warm, everyone else could use it too!",
+        "tw": "當時村莊裡面會有一座共用的窯。烘焙師傅先用，他烤完之後，其他的村民也趁熱去使用。",
+        "time": null
+      },
+      {
+        "en": "Last year, a baker in England decided to bring the village oven back! He wanted to help people pay their electric bills, so he opened up his huge kitchen for everyone to use, and even offered to cook some things for free!",
+        "tw": "去年有一個英國的烘焙師傅，他想幫大家省電費，所以恢復了這個傳統。他讓大家用他的廚房，還免費烤東西給大家吃！",
+        "time": null
+      },
+      {
+        "en": "They call him Baker Ed. He's helped people in his town lots of times before. He's held free cookery classes and free kid's clubs. And when it's cold he lets people use the heat of his oven to keep warm!",
+        "tw": "大家叫他 Ed 師傅。他以前也常常幫助他的村莊。他會開免費的烘焙課，還有小孩的社團！很冷的時候，他也會讓大家在他的烤箱旁邊取暖！",
+        "time": null
+      },
+      {
+        "en": "His neighbors and friends think he is doing an amazing thing, helping people to eat and keep warm while electricity is so expensive. Bravo Baker Ed!",
+        "tw": "他的鄰居和朋友們都認為他正在做一件很棒的事情，在電費如此昂貴的時候，幫助人們溫飽。艾德師傅，好樣的！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "英國的麵包師傅，把自己的大烤箱開放給他人使用，暖胃又暖心。",
+      "content": [
+        {
+          "text": "1. cook 烹飪.\nIt's so cold here! 這裡好冷喔!\nYou have to cook something, Paz! Anything.",
+          "time": null
+        },
+        {
+          "text": "2. oven 烤箱.\nOkay, let me bake some cookies and bread in the oven.\nGreat idea! 好主意!\nLet's fire up the oven now.",
+          "time": null
+        },
+        {
+          "text": "3. kitchen 廚房.\nNot so fast.不要這麼快。\nI need to prepare the stuff first. 我需要先準備材料。\nWould you like to help me in the kitchen? 你可以來廚房幫我嗎?\nI'd be happy to. 我很樂意。",
+          "time": null
+        },
+        {
+          "text": "4. warm 溫暖的.\nFinally, I'm feeling warm! 我終於覺得暖和了。\nCan you smell that? It's our bread baking. 你聞得出來嗎?我們的麵包正在烤。\nI love warm bread! 我愛熱麵包!",
+          "time": null
+        }
+      ],
+      "postscript": "記得多多使用這些單字!\ncook烹飪\noven烤箱\nkitchen廚房\nwarm溫暖的"
+    },
+    "quiz": [
+      {
+        "question": "1. What can fire not do?",
+        "options": [
+          "A: Light our homes",
+          "B: Keep us tall",
+          "C: Cook our food"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "2. Where did they use village ovens thousands of years ago?",
+        "options": [
+          "A: England",
+          "B: Finland",
+          "C: Legoland"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "3. What do they call the kind baker in this story?",
+        "options": [
+          "A: Baker Jed",
+          "B: Baker Ed",
+          "C: Baker Ted"
+        ],
+        "time": null,
+        "answer": "B"
+      }
+    ]
   }
 ]
