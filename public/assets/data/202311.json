@@ -732,5 +732,111 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20231113-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "International Education",
+      "Multicultural Education",
+      "Safety Education",
+      "Life Education",
+      "Family Education",
+      "Life on Land"
+    ],
+    "title": "Dog Saves Boy",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231110NK.mp3",
+    "content": [
+      {
+        "en": "Are dogs people's best friends? There's a great dog named Axel. He lives with a boy named Gabriel and Gabriel's mom and dad.",
+        "tw": "狗狗是人類的好朋友嗎? 有一隻狗叫Axel，牠跟一個叫Gabriel的小男孩，還有Gabriel的爸爸媽媽住在一起。",
+        "time": null
+      },
+      {
+        "en": "One morning, Axel woke up Gabriel's mom and dad with his paws. Pat, pat, pat, pat! He pawed and pawed them.",
+        "tw": "有一天早上，Axel用腳掌不停地拍Gabriel的爸爸媽媽，要搖醒他們。",
+        "time": null
+      },
+      {
+        "en": "It was five o'clock in the morning! They thought he wanted to go outside. But he didn't want to go out of the house.",
+        "tw": "那時候才早上五點，他們以為Axel 想出去玩，但是牠並不是要出門。",
+        "time": null
+      },
+      {
+        "en": "Axel ran to Gabriel's bedroom. He pawed and pawed Gabriel's bedroom door. He did not leave Gabriel's door.",
+        "tw": "Axel跑到Gabriel的房門前，不肯走。",
+        "time": null
+      },
+      {
+        "en": "Gabriel's mom and dad went into Gabriel's bedroom. Oh, no! Something was the matter with Gabriel! He needed to go to the hospital.",
+        "tw": "Gabriel 的父母進到他的房間，發現兒子不對勁，需要趕緊送醫院。",
+        "time": null
+      },
+      {
+        "en": "Gabriel's parents called the emergency number. They asked for an ambulance. The ambulance took Gabriel to the hospital. Doctors found out what was the matter with Gabriel. They saved his life. But they said Axel also helped save Gabriel's life!",
+        "tw": "醫生找到了原因，把他救了回來。Gabriel 的父母說，Axel幫忙救他們的兒子一命!",
+        "time": null
+      },
+      {
+        "en": "Now Gabriel is getting better every day. And Axel is with Gabriel all the time. So are dogs people's best friends? Well, Axel is Gabriel's best friend! Good boy, Axel!",
+        "tw": "現在Gabriel每天都好轉了。Axel也一直和Gabriel在一起。那麼，狗狗是人類最好的朋友嗎？嗯，Axel是Gabriel最好的朋友！乖孩子，Axel！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "聰明的狗狗，懂得如何替小主人求救。",
+      "content": [
+        {
+          "text": "1. run 跑\nWhat's the matter? 怎麼了?\nYou look so pale! 你看起來臉色蒼白!\nI ran a full marathon this morning. 我今天早上跑了全馬拉松。\nWhat? Why did you do that? 什麼? 你為什麼要那樣?",
+          "time": null
+        },
+        {
+          "text": "2. need 需要\nI needed to exercise. 我需要運動。\nNot that much! 不能運動那麼多!\nAnyway, you should go see a doctor now. 無論如何，你現在應該去看醫生。",
+          "time": null
+        },
+        {
+          "text": "3. hospital 醫院\nNo, no, no. I don't want to go to the hospital. 不要不要，我不要去醫院。\nI'll take you there. 我帶你去。",
+          "time": null
+        },
+        {
+          "text": "4. emergency 緊急\nYou need emergency care.你需要緊急醫療。\nNo, I don't. 我不需要。\nAnd I hate the emergency room! 而且我討厭急診室!\nAll I need is to go to my bedroom and sleep. 我需要的只是去臥室睡覺。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很有用喔!\nrun跑\nneed需要\nhospital醫院\nemergency緊急"
+    },
+    "quiz": [
+      {
+        "question": "1. What time did Axel wake up Gabriel's mom and dad one morning?",
+        "options": [
+          "a. 3 o'clock",
+          "b. 5 o'clock",
+          "c. 7 o'clock"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why did Axel wake up Gabriel's mom and dad?",
+        "options": [
+          "a. To go outside",
+          "b. To help Gabriel",
+          "c. To play"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did Axel do at Gabriel's bedroom door?",
+        "options": [
+          "a. Pawed it",
+          "b. Opened it",
+          "c. Sat down"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
