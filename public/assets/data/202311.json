@@ -1667,5 +1667,113 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20231127-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Reduced Inequalities",
+      "Life on Land",
+      "Good Health and Well-Being",
+      "Health and Physical Education",
+      "Technology",
+      "International Education",
+      "Multicultural Education"
+    ],
+    "title": "Wearable Robot Helps Runners Go Faster",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231124NK.mp3",
+    "content": [
+      {
+        "en": "We use machines all the time. Here are some ways. We drive cars. We send texts on phones. We watch videos on TVs, computers, and tablets.",
+        "tw": "我們隨時都在使用機器。例如說我們開車；我們也用手機傳送簡訊；在電視、電腦跟平板看影片。",
+        "time": null
+      },
+      {
+        "en": "Some machines copy what people do. These machines are called \"robots\".",
+        "tw": "有一些機器可以模仿人類的動作，它們叫做機器人。",
+        "time": null
+      },
+      {
+        "en": "Robots in movies look like people. But most robots look very different! An automatic vacuum cleaner is a robot. It copies how people clean floors. A self-checkout machine in a supermarket is a robot. It copies everything a cashier does.",
+        "tw": "電影裡的機器人看起來很像人類，但是大多數的機器人看起來不像。像是掃地機器人模仿人類清理地板。超級市場的自助收銀台模仿收銀員會做的事。",
+        "time": null
+      },
+      {
+        "en": "Do you know about wearable robots? They help people move. Some wearable robots are for people with disabilities. These robots make their lives easier. Other wearable robots make people's arms or backs stronger. These robots help people lift very heavy things.",
+        "tw": "那你知道穿戴式機器人嗎? 它們幫助人類行動。有一些幫助身障人士，讓他們的生活更輕鬆。也有一些讓人類的手臂跟背更強壯，幫助他們提起重物。",
+        "time": null
+      },
+      {
+        "en": "Scientists in South Korea invented a new wearable robot. It helps people run faster!",
+        "tw": "南韓的科學家發明新的穿戴式機器人，讓人跑得更快!",
+        "time": null
+      },
+      {
+        "en": "Runners wear this robot on their back, hips, and legs. When they take a step, the robot pulls their back leg forward. That makes runners go faster!",
+        "tw": "把它穿在背上、臀部跟腿上。當人跨出步伐的時候，這個機器人會拉著後腳向前動，讓人跑得更快。",
+        "time": null
+      },
+      {
+        "en": "Robots are everywhere! They're in our homes and on our streets. And now they can be on our legs too!",
+        "tw": "機器人無處不在！它們在家裡、街道上，現在甚至可以穿戴在我們的腿上！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "現在的機器人，有各種各樣的形式，出現在許多不同的地方。",
+      "content": [
+        {
+          "text": "1. different 不同的。\nHey, check out this robot I've just got. 你看我剛才買的這個機器人。\nYou call this a robot? 你把這叫做機器人? It sure looks different.看起來真不一樣。",
+          "time": null
+        },
+        {
+          "text": "2. do 做。\nI know, but it's very smart.我知道，不過它很聰明。\nSmarter than your computer? 比你的電腦還聰明?\nYeah, it can do a lot of things.對，它可以做很多事。",
+          "time": null
+        },
+        {
+          "text": "3. faster 比較快的。\nLike what?比如說什麼?\nLike telling me when an earthquake will happen.比如說告訴我地震什麼時候來，faster than anyone else. 比其他人都快。",
+          "time": null
+        },
+        {
+          "text": "4. clean 清掃。\nWow, what else can it do? 哇，它還會做什麼?\nWith its two arms, it can clean up the kitchen for me.\n它還可以用兩隻手臂幫我清理廚房。",
+          "time": null
+        }
+      ],
+      "postscript": "What do you want your robots to do? different不同的 do做 faster比較快的 clean清掃"
+    },
+    "quiz": [
+      {
+        "question": "1. Which machines copy people?",
+        "options": [
+          "A: Cars",
+          "B: TVs",
+          "C: Robots"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "2. What do wearable robots help us do?",
+        "options": [
+          "A: To think",
+          "B: To move",
+          "C: To send texts"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "3. Where was the new wearable robot invented?",
+        "options": [
+          "A: Japan",
+          "B: North Korea",
+          "C: South Korea"
+        ],
+        "time": null,
+        "answer": "C"
+      }
+    ]
   }
 ]
