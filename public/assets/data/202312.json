@@ -531,5 +531,114 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20231212-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life on Land",
+      "Family Education",
+      "Character Education",
+      "Life Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Health and Physical Education"
+    ],
+    "title": "Pets Put On Kimonos for a Special Day in Japan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231211NK.mp3",
+    "content": [
+      {
+        "en": "Japan has special days for kids. There's Girls' Day. There's Children's Day. There's Shichi-Go-San. Kids think New Year's Day is their day too!",
+        "tw": "日本有很多兒童的特殊節日，像是女兒節、兒童節、七五三節，甚至是新年兒童也覺得是他們的節日。",
+        "time": null
+      },
+      {
+        "en": "On some special days, families go to a shrine. They pray for their kids' health and happiness.",
+        "tw": "在特殊節日，父母會帶孩子去神社，祈求孩子健康幸福。",
+        "time": null
+      },
+      {
+        "en": "But Japan doesn't have many kids. Every year, fewer and fewer kids go to shrines.",
+        "tw": "但是日本少子化，去神社參拜的兒童越來越少。",
+        "time": null
+      },
+      {
+        "en": "Many people have dogs and cats. More and more people take their pets to a shrine. They pray for their pet's health and happiness. But Japan has no special days for pets.",
+        "tw": "很多人養寵物貓或是狗，帶寵物去神社的人日漸增多，祈求牠們健康平安。但是日本沒有寵物的特殊節日。",
+        "time": null
+      },
+      {
+        "en": "Now there's a special day at the Dog-Cat Shrine near Tokyo! It's Shichi-Go-San for pets. This shrine makes human mommies and daddies of dogs and cats happy.",
+        "tw": "鄰近東京的神社現在舉辦寵物的七五三節，讓毛小孩主人很開心。",
+        "time": null
+      },
+      {
+        "en": "Kids wear special clothes called kimonos for Shichi-Go-San. So pets wear kimonos too!",
+        "tw": "兒童會在七五三節穿上和服，貓狗也會在這天穿上和服。",
+        "time": null
+      },
+      {
+        "en": "Kids have to be three, five, or seven years old for Shichi-Go-San. So pets have to be three, five, or seven years old too.",
+        "tw": "兒童到了三歲、五歲或七歲就會在七五三節去神社參拜。寵物也是一樣。",
+        "time": null
+      },
+      {
+        "en": "For many people, their pets are their family. Now their pets share in a special kids' day at the Dog-Cat Shrine!",
+        "tw": "對於許多人來說，他們的寵物就是家人。現在他們的寵物也能在狗狗貓貓神社分享一個特別的兒童節！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "寵物很像家人，也有屬於牠們的節日。",
+      "content": [
+        {
+          "text": "1. fewer and fewer 越來越少\nThere are fewer and fewer people keeping birds as pets.\n養鳥當寵物的人越來越少了。\nYou may be right.也許你是對的。\nI guess birds are too noisy. 我猜是鳥太吵鬧了。",
+          "time": null
+        },
+        {
+          "text": "2. clothes 衣服\nWhen I was little, my mom loved to have birds at home.\n我小時候我媽媽喜歡在家裡養鳥。\nOn cold days, she even put little clothes on them!\n天氣冷時她甚至幫鳥穿上小衣服。",
+          "time": null
+        },
+        {
+          "text": "3. children 兒童\nAnd we the children were responsible for feeding the\nbirds.我們這些小孩負責餵鳥。\nDid they sing? 牠們會唱歌嗎?\nOh, yes, their sounds were sweet. 會啊，牠們的歌聲很好聽。\nThey made my family very happy. 讓我的家人很開心。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀一遍今天的單字。\nfewer and fewer越來越少\nclothes衣服\nchildren兒童"
+    },
+    "quiz": [
+      {
+        "question": "1. What are more and more people taking to shrines?",
+        "options": [
+          "a. Their kids",
+          "b. Their pets",
+          "c. Their mommies and their daddies"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where can people take their pets on Shichi-Go-San?",
+        "options": [
+          "a. The Family Shrine",
+          "b. The Dog-Cat Shrine",
+          "c. The Pet Shrine"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Which pet can wear special clothes on Shichi-Go-San?",
+        "options": [
+          "a. A six-year-old dog",
+          "b. A seven-year-old cat",
+          "c. An eight-year-old rabbit"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
