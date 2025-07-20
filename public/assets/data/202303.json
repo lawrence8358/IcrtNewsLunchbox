@@ -202,5 +202,106 @@
         "answer": "C"
       }
     ]
+  },
+  {
+    "id": "20230306-01",
+    "type": "國小",
+    "tag": [
+      "International Education",
+      "Outdoor Education",
+      "Marine Education",
+      "Environmental Education",
+      "Life Below Water",
+      "Life on Land",
+      "Natural Sciences"
+    ],
+    "title": "Girl Finds Huge Shark Tooth on Beach",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230303NK.mp3",
+    "content": [
+      {
+        "en": "The beach is a great place to relax. You can sit on the sand and enjoy the warm sun, or go for a swim in the sea.",
+        "tw": "海灘是放鬆的地方。你可以坐在沙灘上曬太陽，或者去海裡游泳。",
+        "time": null
+      },
+      {
+        "en": "You can also find cool things on the beach. There are animals like crabs and starfish. You can even find seashells. But what would you do if you found an ancient shark tooth?",
+        "tw": "海灘上還可以找到很酷的東西，比如說螃蟹，海星，還有貝殼。但如果你發現了一顆古老的鯊魚牙齒，你會怎麼辦？",
+        "time": null
+      },
+      {
+        "en": "That's what happened to a girl named Molly. She's nine years old, and her family has a special hobby. They like to look for shark teeth on the beach near their home in the USA.",
+        "tw": "Molly 是一位九歲的美國女孩，她們家喜歡在家裡附近的海灘上找鯊魚牙齒。",
+        "time": null
+      },
+      {
+        "en": "On most days, Molly can find a few small teeth. She uses them to make necklaces. But recently, she found a very big tooth. It was special because it was more than three million years old.",
+        "tw": "Molly 平常都能找到幾顆小牙齒，她會把它們做成項鍊。但最近，她找到了一顆超大的牙齒，超過三百萬年。",
+        "time": null
+      },
+      {
+        "en": "When Molly found the tooth, she was excited. Molly loves to study ancient animals, so she knew the tooth was from a Megalodon. A long time ago, that was the biggest shark in the world!",
+        "tw": "Molly 很興奮，她喜歡研究古生物，所以她知道這是巨齒鯊的牙齒。以前，這個鯊魚是世界上最大的鯊魚！",
+        "time": null
+      },
+      {
+        "en": "There are no Megalodons alive today, so it is very unusual to find one of their teeth. That's why Molly was so happy, and why everyone was surprised by the tooth she found!",
+        "tw": "現在巨齒鯊已經絕種了，所以很難找到牠們的牙齒。這就是為什麼Molly這麼高興，以及為什麼每個人都對她找到的牙齒感到驚訝！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "巨齒鯊曾經在地球上漫遊，從牠們留下的牙齒就知道。",
+      "content": [
+        {
+          "text": "1. find 找到\nLook, a shell! 你看，一枚貝殼！\nThis one is cool. 這個很酷呢！\nYou're lucky to find it. 你很幸運找到它。",
+          "time": null
+        },
+        {
+          "text": "2. tooth 牙齒\nI'm actually hoping to find a fish tooth. 我其實希望找到魚的牙齒。\nFish tooth? 魚的牙齒？\nThen it has to be a big fish. 那一定得是大魚。\nYeah, like a great white shark. 對，比如說大白鯊。",
+          "time": null
+        },
+        {
+          "text": "3. sea 海洋\nI hope there are no sharks in the sea here. 我希望這個海域沒有鯊魚。\nI don't think so, but you never know. 我想沒有，不過這很難說。",
+          "time": null
+        },
+        {
+          "text": "4. swim 游泳\nSo can we still swim here? 所以我們還能在這裡游泳嗎？\nWhy not? 為什麼不？\nWe're so skinny. 我們這麼瘦。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡收集貝殼嗎？ Let's read the words.\n\nfind 找到\ntooth 牙齒\nsea 海洋\nswim 游泳"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is Molly's home?",
+        "options": [
+          "A: Ukraine",
+          "B: The USA",
+          "C: Uruguay"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "2. Where did Molly find the tooth?",
+        "options": [
+          "A: On the beach",
+          "B: At the park",
+          "C: In the river"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "3. What animal did the tooth come from?",
+        "options": [
+          "A: A big elephant",
+          "B: A small fish",
+          "C: An ancient shark"
+        ],
+        "time": null,
+        "answer": "C"
+      }
+    ]
   }
 ]
