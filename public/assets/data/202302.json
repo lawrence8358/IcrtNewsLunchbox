@@ -209,5 +209,96 @@
         "answer": "C"
       }
     ]
+  },
+  {
+    "id": "20230216-01",
+    "type": "國小",
+    "tag": [
+      "Life Education",
+      "Character Education"
+    ],
+    "title": "Girl Allowed to Own a Unicorn",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230215NK.mp3",
+    "content": [
+      {
+        "en": "Hey students! Do you have a pet? Maybe you have a dog. Or maybe you have a cat. Or maybe a bird. Or maybe you have a unicorn? What? Unicorns aren't real? Shhh! I know that, and you know that. But don't tell an American girl named Madeline.",
+        "tw": "你們有養寵物嗎？狗狗、貓咪、小鳥，還是獨角獸呢？我們都知道獨角獸不是真的，但可別跟 Madeline 講喔！",
+        "time": null
+      },
+      {
+        "en": "Madeline lives in California. She really wants a unicorn. But she wants to make sure she can own a unicorn if she finds one. So, she wanted to first get a license.",
+        "tw": "Madeline 住在加州，她很想要養一隻獨角獸。為了確定她找到獨角獸之後可以養牠，Madeline 想要先申請一個證照。",
+        "time": null
+      },
+      {
+        "en": "She asked the Los Angeles animal control people to give her a license, and they did! They sent her a license. The license is in the shape of a heart. They also sent her a small stuffed toy unicorn. Ahh, so cute!",
+        "tw": "她跟洛杉磯動物管理局申請，他們也真的給了她證照！證照是愛心形狀的，他們還給了她一個獨角獸娃娃！",
+        "time": null
+      },
+      {
+        "en": "Madeline was really happy to get the license. But, the animal control people said there are some things she must do. Madeline has to take it out of her house sometimes so it can see the sun and the moon and rainbows. Also, she must polish its horn once a month with a soft cloth. Oh, and she has to feed it watermelon once a week.",
+        "tw": "動物管理局人員說 Madeline 必須好好照顧獨角獸，要帶牠出門看看太陽、月亮，跟彩虹。還要每個月一次保養牠的角，並且每星期要餵牠吃西瓜！",
+        "time": null
+      },
+      {
+        "en": "I hope you find your unicorn, Madeline. Good luck!",
+        "tw": "Madeline，我希望妳能找到妳的獨角獸。祝妳好運！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "洛杉磯動物管理局，滿足了一個小女孩對獨角獸的想望。",
+      "content": [
+        {
+          "text": "1. toy 玩具\nI used to have many stuffed animal toys. 我以前有很多絨毛動物玩具。\nMe too. My favorite one was a giraffe.",
+          "time": null
+        },
+        {
+          "text": "2. find 找到\nDid you find it at a store? 你在商店裡找到的？\nNo, my dad gave it to me.\nThat's one reason I loved it so much.",
+          "time": null
+        },
+        {
+          "text": "3. cute 可愛的\nIt's soft and cute and has a long neck.\nDo you still have it?\nNo.",
+          "time": null
+        },
+        {
+          "text": "4. send 送出\nBut I made sure that it has a good home.\nHow? 你怎麼做的？\nI sent it back to my dad.\nYou sent it back? 送回去了？\nYeah, my dad loved it, too!",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字好玩又簡單。\ntoy 玩具\nfind 找到\ncute 可愛的\nsend 送出"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does Madeline live?",
+        "options": [
+          "A: Australia",
+          "B: Canada",
+          "C: The United States"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "2. What shape is the license Madeline got?",
+        "options": [
+          "A: A heart",
+          "B: A unicorn",
+          "C: A watermelon"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "3. What must Madeline do if she finds a unicorn?",
+        "options": [
+          "A: Give it fruit sometimes",
+          "B: Keep it locked in her house",
+          "C: Take it for a walk on Sundays"
+        ],
+        "time": null,
+        "answer": "A"
+      }
+    ]
   }
 ]
