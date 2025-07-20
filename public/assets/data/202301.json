@@ -1,0 +1,105 @@
+ [
+  {
+    "id": "20230102-01",
+    "type": "國小",
+    "tag": [
+      "Reduced Inequalities",
+      "Quality Education",
+      "Family Education",
+      "Life Education",
+      "Character Education",
+      "Law-related Education",
+      "Information Education",
+      "Life Planning Education",
+      "International Education"
+    ],
+    "title": "South Koreans Change Their Age",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20221230NK.mp3",
+    "content": [
+      {
+        "en": "Birthdays are great! I can't wait until my birthday, when I will turn one year older. My birthday is in August. What month is your birthday? On that special day, you can add one year to your age.",
+        "tw": "每過一次生日，我們又大一歲了！我的生日在八月，你的呢？",
+        "time": null
+      },
+      {
+        "en": "Actually, there's one place where everybody gets older on the same day. That place is South Korea. How can this be? In South Korea, there is an old way to count a person's age. On January 1st, every person adds one year to their age.",
+        "tw": "在南韓傳統中，每個人在新年那天都會長一歲！",
+        "time": null
+      },
+      {
+        "en": "That means no matter what day their birthday is, they get one year older on New Year's Day.",
+        "tw": "所以不管他們生日在甚麼時候，每過一次新年就會大一歲。",
+        "time": null
+      },
+      {
+        "en": "Many South Koreans don't like this old way. For one thing, it's hard for the rest of the world to understand. South Koreans don't want to spend too much time explaining their age.",
+        "tw": "很多南韓人不喜歡他們的計算方式，而且因為其他國家的人不太懂，很多南韓人不想花太多時間解釋。",
+        "time": null
+      },
+      {
+        "en": "What's more, the old way makes South Koreans feel too old. They want to get older on their own birthday, not on New Year's Day. After all, everybody loves to celebrate their special birthday!",
+        "tw": "而且這樣感覺比較老！他們想要到自己生日那天才長一歲，而不是新年的那一天。這樣才可以慶祝生日！",
+        "time": null
+      },
+      {
+        "en": "Starting this year, the old way will change. From now on, South Koreans will get older on their birthday, just like the rest of the world. Plus, this new way will make everybody feel a little younger.",
+        "tw": "從今年開始，舊的計歲方式將會改變。從現在起，南韓人將會在他們的生日那天變老，就像世界其他地方的人一樣。此外，這個新方式將會讓大家感覺年輕一點。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "南韓人傳統上一過新年就長一歲，但是他們現在改成過完生日才增加一歲。",
+      "content": [
+        {
+          "text": "1. old 老的\nMy birthday is next week. 我下星期生日。\nAnd you'll still be 25. 而你仍然是25歲。\nYes, I'll stay 25 years old for 10 years. 對，未來十年我都是25歲。",
+          "time": null
+        },
+        {
+          "text": "2. count 數數目\nI'd say you can't count. 我說你不會數數目。\nI'm perfectly able to count. 我完全會數數目。\nI just don't want to get older. 我只是不想變老。",
+          "time": null
+        },
+        {
+          "text": "3. younger 比較年輕的\nYou are getting older whether you want to or not. 你會變老，不管你想不想。\nI know that! I also know that I'm not getting any younger.\n我知道，我也知道我不會變年輕。",
+          "time": null
+        },
+        {
+          "text": "4. age 年齡\nThen why do you want to stay at the age of 25? 那你為什麼要停留在25歲？\nSo that I can remain young at heart. 這樣我才能保持內心年輕。",
+          "time": null
+        }
+      ],
+      "postscript": "這些是很常用的單字。\nold 老的\ncount 數數目\nyounger 比較年輕的\nage 年齡"
+    },
+    "quiz": [
+      {
+        "question": "1. What happens on your birthday?",
+        "options": [
+          "a. You get older",
+          "b. You get younger",
+          "c. You get hungry"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. In the past, when did South Koreans get older?",
+        "options": [
+          "a. New Year's Day",
+          "b. Christmas Day",
+          "c. Saturday"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How did the old way make South Koreans feel?",
+        "options": [
+          "a. Too cold",
+          "b. Too bold",
+          "c. Too old"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  }
+]
