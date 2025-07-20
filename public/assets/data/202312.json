@@ -1270,5 +1270,116 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20231227-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "No Poverty",
+      "Zero Hunger",
+      "Decent Work and Economic Growth",
+      "Reduced Inequalities",
+      "Life on Land",
+      "Partnerships for the Goals",
+      "Peace, Justice and Strong Institutions",
+      "Character Education",
+      "Life Education",
+      "Life Planning Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Health and Physical Education"
+    ],
+    "title": "Town Gets Man's Big Secret",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231226NK.mp3",
+    "content": [
+      {
+        "en": "Are you generous? A generous person gives money or help in a kind way. Maybe you're generous. But are you as generous as Geoffrey Holt was?",
+        "tw": "你是一個慷慨的人嗎?你能像Geoffrey Holt一樣慷慨嗎?"
+      },
+      {
+        "en": "Who was Geoffrey Holt? Geoffrey was a nice, quiet man. People liked him. He lived in a small town in America called Hinsdale.",
+        "tw": "他是誰呢?Geoffrey是個安靜又友善的人，他住在美國一個叫Hinsdale的小鎮。"
+      },
+      {
+        "en": "Geoffrey knew a lot about cars. But he didn't drive a car. He rode a bicycle around town. That's because Geoffrey didn't like to spend much money.",
+        "tw": "Geoffrey很了解車，但是他沒有開車。Geoffrey不喜歡花很多錢，他都在小鎮裡騎腳踏車。"
+      },
+      {
+        "en": "When he was 82, he died. But Geoffrey had a big secret. He kept the secret for a long time.",
+        "tw": "但是Geoffrey有個秘密，大家一直到他在82歲過世的時候才發現。"
+      },
+      {
+        "en": "Geoffrey was rich! He had about four million dollars. Wow! That's more than 125 million Taiwan dollars!",
+        "tw": "他其實很有錢，他有大約400萬美金，超過1億2500萬台幣。"
+      },
+      {
+        "en": "Geoffrey gave all his money to Hinsdale when he died. He wanted to help his town.",
+        "tw": "Geoffrey死後把他所有的錢留給這個小鎮，希望可以有所幫助。"
+      },
+      {
+        "en": "The people of Hinsdale are very happy about the money. They will use Geoffrey's money to help their town. Their schools and other things in their town will be better.",
+        "tw": "Hinsdale的人非常高興，他們打算讓小鎮裡的學校跟其他的設備變得更好。"
+      },
+      {
+        "en": "Geoffrey Holt was a very generous guy!",
+        "tw": "Geoffrey Holt 是一個非常慷慨的人！"
+      }
+    ],
+    "vocabulary": {
+      "preface": "這位低調的富翁，把他所有的財富都留給他所住的地方。",
+      "content": [
+        {
+          "text": "1. die 死亡\nHow do you want to be remembered when you die? 你死的時候希望人們記得你什麼?\nThat's a very big question! 好大的問題!",
+          "time": null
+        },
+        {
+          "text": "2. kind 仁慈的\nNo, I'm serious.我是認真的。\nOkay, I'd like people to say I love my friends.\n好吧，我想要大家說我愛朋友。That I'm nice and kind.人很好很和善。",
+          "time": null
+        },
+        {
+          "text": "3. happy 快樂的\nWhat about you? 你呢?\nI'd like to be remembered as a happy person.我想要別人記得我是個快樂的人。",
+          "time": null
+        },
+        {
+          "text": "4. better 更好的\nAre you happy now? 你現在快樂嗎?\nI try to be.我在努力。\nI believe I can do better.我相信可以做得更好。\nI'll help you. 我會幫你。\nThank you! You are nice and kind. 謝謝，你真的是又好又和善。",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學到哪些字?\ndie死亡\nkind仁慈的\nhappy快樂的\nbetter更好的"
+    },
+    "quiz": [
+      {
+        "question": "1. Which one did Geoffrey do?",
+        "options": [
+          "a. Spent a lot of money",
+          "b. Drove a car",
+          "c. Rode a bicycle"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How old was Geoffrey when he died?",
+        "options": [
+          "a. 62",
+          "b. 82",
+          "c. 102"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How much of Geoffrey's money did Hinsdale get?",
+        "options": [
+          "a. Half of it",
+          "b. Most of it",
+          "c. All of it"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
