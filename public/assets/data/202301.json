@@ -862,5 +862,127 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230111-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Environmental Education",
+      "Outdoor Education"
+    ],
+    "title": "Owl Rescued by Fishing Crew",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230110NK.mp3",
+    "content": [
+      {
+        "en": "Ohhh… I hear an owl.",
+        "tw": "我聽到貓頭鷹的聲音。",
+        "time": null
+      },
+      {
+        "en": "Shhh… let's listen...",
+        "tw": "噓……我們來聽聽看...",
+        "time": null
+      },
+      {
+        "en": "Owls live in the forest, right?",
+        "tw": "貓頭鷹住在森林裡，對吧？",
+        "time": null
+      },
+      {
+        "en": "But did you know they can fly super far? Sometimes owls fly very far away from their home in the forest.",
+        "tw": "但你知道牠們可以飛得很遠嗎？有時候貓頭鷹會飛離牠們在森林裡的家很遠。",
+        "time": null
+      },
+      {
+        "en": "But, one owl in Scotland flew too far!",
+        "tw": "貓頭鷹住在森林裡面，牠們有時候還會飛得離家很遠。但有一隻蘇格蘭的貓頭鷹不小心飛太遠了！",
+        "time": null
+      },
+      {
+        "en": "This owl flew far, far out over the sea. The poor owl was being attacked by seagulls, so it landed on a fishing boat.",
+        "tw": "牠飛過大海，被海鷗攻擊，最後停在一艘漁船上。",
+        "time": null
+      },
+      {
+        "en": "The people on the fishing boat saw the owl and helped it. They took it inside the boat, gave it some meat, and found a warm place for it to rest.",
+        "tw": "漁夫把牠帶進船艙裡面，餵牠吃肉，還給牠溫暖的地方休息。",
+        "time": null
+      },
+      {
+        "en": "The owl quickly became friendly. It sat on the fishermen's arms and almost looked like a pet!",
+        "tw": "貓頭鷹很快變得很親近人，還會坐在漁民的手臂上，像寵物一樣！",
+        "time": null
+      },
+      {
+        "en": "The fishing boat finally took the owl back to Scotland, and now it is back flying and hunting in the forest.",
+        "tw": "這艘船後來把貓頭鷹帶回蘇格蘭，現在牠又回到森林裡面打獵了。",
+        "time": null
+      },
+      {
+        "en": "Owls fly far sometimes, but maybe this owl got caught in some strong wind and couldn't fly home.",
+        "tw": "貓頭鷹有時候飛得很遠，但這隻貓頭鷹可能被強風吹到，回不了家。",
+        "time": null
+      },
+      {
+        "en": "Wow. This owl was pretty lucky! It got away from the seagulls and found a boat. Now it's back in the forest in Scotland!",
+        "tw": "哇。這隻貓頭鷹真是太幸運了！牠從海鷗那裡逃脫並找到了一艘船。現在牠又回到了蘇格蘭的森林裡！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一隻離家太遠的貓頭鷹，被漁民搭救，撿回一條命。",
+      "content": [
+        {
+          "text": "1. fish 釣魚\nI'm going fishing with Tom tomorrow night. 我明天晚上跟湯姆去釣魚。\nFishing at night? 晚上釣魚？\nYeah, Tom will take his boat out, and we'll hunt for squid.",
+          "time": null
+        },
+        {
+          "text": "2. boat 船\nSo you'll be on his boat? 所以你要搭他的船？\nRight. Why do you sound so alarmed? 對，為什麼你聽起來那麼緊張？\nDidn't you know that he has a boat? 你不知道他有船？",
+          "time": null
+        },
+        {
+          "text": "3. fisherman 漁夫\nNo. And I didn't know you're a fisherman. 不知道。而且我也不知道你是漁夫。\nI'm not. 我不是。\nAnd you'll be far away from land. 而且你會距離陸地很遠。",
+          "time": null
+        },
+        {
+          "text": "4. far away 很遠\nNot that far away. Only around Badouzi. 沒有那麼遠，就在八斗子附近。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡釣魚嗎？\nfish 釣魚\nboat 船\nfisherman 漁夫\nfar away 很遠"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does this owl live?",
+        "options": [
+          "A: In Tainan",
+          "B: In South Africa",
+          "C: In Scotland"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "2. What happened to the owl in this story?",
+        "options": [
+          "A: It flew too far",
+          "B: It ate too much",
+          "C: It slept too long"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "3. Who saved the owl?",
+        "options": [
+          "A: Some seagulls",
+          "B: A dolphin",
+          "C: Some fishermen"
+        ],
+        "time": null,
+        "answer": "C"
+      }
+    ]
   }
 ]
