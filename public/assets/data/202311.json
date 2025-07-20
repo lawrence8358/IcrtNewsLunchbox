@@ -1775,5 +1775,115 @@
         "answer": "C"
       }
     ]
+  },
+  {
+    "id": "20231128-01",
+    "type": "中學",
+    "tag": [
+      "Quality Education",
+      "Life Education",
+      "Character Education",
+      "International Education",
+      "Multicultural Education",
+      "Social Studies"
+    ],
+    "title": "Teacher Sets Social Studies Record",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231127NK.mp3",
+    "content": [
+      {
+        "en": "Do you know what \"setting a record\" is? It's doing something the most or the best in the world.",
+        "tw": "你知道什麼是破紀錄嗎?就是將某一件事情做的最多或是最好。",
+        "time": null
+      },
+      {
+        "en": "Paul Durietz is a middle school teacher in the USA. He set a record for teaching social studies the longest.",
+        "tw": "Paul Durietz是一所美國中學的老師。他創下教社會科最久的紀錄。",
+        "time": null
+      },
+      {
+        "en": "What's social studies? It's the study of history, people, and cultures.",
+        "tw": "什麼是社會科呢? 它是包含歷史、人文跟文化的領域。",
+        "time": null
+      },
+      {
+        "en": "And how long has Mr. Durietz taught social studies? Well, when he started he was 23 years old. Now he's 76! Let's see... 76 minus 23 is 53!",
+        "tw": "Durietz先生教了多久的社會科呢?他從23歲開始教書，他現在76歲了。一共教了53年!",
+        "time": null
+      },
+      {
+        "en": "Wow! Mr. Durietz has been a social studies teacher for 53 years! And he has been at one school for all these years!",
+        "tw": "他甚至是在同一間學校教書教了53年!",
+        "time": null
+      },
+      {
+        "en": "Why does Mr. Durietz teach social studies? He loves history. When he was a boy, he listened to his father's stories about World War II.",
+        "tw": "為什麼Durietz 先生喜歡教社會科呢?因為他很喜歡歷史，在他小的時候，他喜歡聽爸爸講第二次世界大戰的故事。",
+        "time": null
+      },
+      {
+        "en": "So when he was 11 years old, he wanted to be a social studies teacher when he grew up. Now one of his old students is a social studies teacher too!",
+        "tw": "所以在他11歲的時候，就立志成為社會科的老師。現在有一位他的學生也成為了社會科老師!",
+        "time": null
+      },
+      {
+        "en": "Mr. Durietz set a world record for teaching social studies. He loves history, and he loves teaching!",
+        "tw": "Durietz 先生創下了教社會科的世界紀錄。他熱愛歷史，也熱愛教學！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這位社會科老師教同一門學科，教了五十多年，樂此不疲。",
+      "content": [
+        {
+          "text": "1. war 戰爭。When did World War II end? 二次世界大戰什麼時候結束的?Let me guess. In the year 1900? 我猜猜看。1900年嗎?",
+          "time": null
+        },
+        {
+          "text": "2. history 歷史。No! Too early. 不對，太早了。Then I don't know. I'm bad at history. 那我就不知道了，我的歷史不好。But history is the most interesting! 但是歷史最有趣了!",
+          "time": null
+        },
+        {
+          "text": "3. most 最。I think soccer is the most interesting. 我覺得足球才是最有趣的。That's because you're a big fan of Messi! 那是因為你是梅西的大球迷。",
+          "time": null
+        },
+        {
+          "text": "4. grow up 長大。What can I say? I grew up watching Messi play. 我能說什麼?我是看梅西踢球長大的。Now tell me when World War II ended.現在告訴我二戰何時結束的。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。war戰爭 history歷史 most最 grow up長大"
+    },
+    "quiz": [
+      {
+        "question": "1. What does \"set a record\" mean?",
+        "options": [
+          "A: Do something the most or best",
+          "B: Teach social studies well",
+          "C: Study history and cultures"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "2. How many years has Mr. Durietz been a social studies teacher?",
+        "options": [
+          "A: 23",
+          "B: 53",
+          "C: 76"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "3. Who made Mr. Durietz interested in history?",
+        "options": [
+          "A: His teacher",
+          "B: His old student",
+          "C: His father"
+        ],
+        "time": null,
+        "answer": "C"
+      }
+    ]
   }
 ]
