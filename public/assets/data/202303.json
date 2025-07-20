@@ -1,0 +1,98 @@
+ [
+  {
+    "id": "20230301-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Natural Sciences"
+    ],
+    "title": "The Smallest Rabbit in the World",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230224NK.mp3",
+    "content": [
+      {
+        "en": "Let me tell you about the smallest rabbit in the world. It can actually fit in the palms of your mom or dad's hands!",
+        "tw": "你知道全世界最小的兔子，比你爸爸媽媽的手掌還要小！",
+        "time": null
+      },
+      {
+        "en": "Scientists say the smallest rabbit in the world lives in just one part of America, and about 20 years ago, scientists thought they were all gone. Yeah! They thought the tiny rabbit was extinct... Like the dinosaurs! Gone, forever!",
+        "tw": "科學家說，美國只有一個地區有這種兔子，而且二十年前，他們就以為這種兔子像恐龍一樣絕種了！",
+        "time": null
+      },
+      {
+        "en": "But, they found 14 of these tiny rabbits, and they took them to a special zoo. The scientists worked very hard, and now these tiny rabbits are back in the wild. Cool, right?",
+        "tw": "後來他們找到14隻這種迷你兔，送到一個特別的動物園。現在這些兔子已經重返野外。",
+        "time": null
+      },
+      {
+        "en": "Some people see this super tiny rabbit and they want to get one, they think it would be a great pet. But actually, this cute little bunny is not a good pet. It is very small, so it gets scared very easily. To this rabbit, a human must look like a scary giant!",
+        "tw": "有一些人想要這種兔子當做寵物，但是牠們太小隻了，很容易被嚇到。對牠們來說，人類就像恐怖的巨人。",
+        "time": null
+      },
+      {
+        "en": "So, no. We shouldn't have them as pets, but we can be very happy that scientists found a way to save them.",
+        "tw": "所以，不。我們不應該把牠們當作寵物，但我們很高興科學家找到了拯救牠們的方法。",
+        "time": null
+      },
+      {
+        "en": "I hope these little bunnies have a happy life in the wild, and that we can see them on earth for a long, long time! Good luck, tiny rabbit!",
+        "tw": "我希望這些小兔子能在野外過著快樂的生活，並能長長久久地在地球上被看到！祝你好運，小兔子！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "全世界最小的兔子並沒有絕種，不過需要保護。",
+      "content": [
+        {
+          "text": "1. actually 實際上\nHow's the zoo? 動物園如何啊？\nIt's big and has lots of animals. 很大，有很多動物。\nAre they cute? 動物可愛嗎？\nActually most of them are not.其實大部分都不可愛。",
+          "time": null
+        },
+        {
+          "text": "2. tiny 很小的\nBut I love those tiny rabbits. 但是我很喜歡那些小兔子。\nThey are even smaller than a mouse. 牠們甚至比老鼠還小。\nIt's just amazing! 滿驚人的。",
+          "time": null
+        },
+        {
+          "text": "3. pet 寵物\nThey could be good pets, too. 牠們也可以當好寵物。\nNo, I'm done keeping pets. 不了，我不養寵物了。",
+          "time": null
+        },
+        {
+          "text": "4. fit 適合\nThey don't fit my lifestyle. 牠們不適合我的生活方式。\nYou're right. Your house is too small. 說得對，你的房子太小了。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字簡短好用。\nactually 實際上\ntiny 很小的\npet 寵物\nfit 適合"
+    },
+    "quiz": [
+      {
+        "question": "1. What is the story about?",
+        "options": [
+          "A: The world's smallest scientist",
+          "B: The world's biggest rabbit",
+          "C: The world's smallest rabbit"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "2. What almost happened to the tiny rabbits?",
+        "options": [
+          "A: They almost went extinct",
+          "B: They almost went to the moon",
+          "C: They almost got much bigger"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "3. Why are tiny rabbits NOT good pets?",
+        "options": [
+          "A: They eat too much",
+          "B: They will bite you",
+          "C: They get scared very easily"
+        ],
+        "time": null,
+        "answer": "C"
+      }
+    ]
+  }
+]
