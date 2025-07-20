@@ -1045,5 +1045,110 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20231116-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Outdoor Education",
+      "International Education",
+      "Multicultural Education",
+      "Environmental Education",
+      "Life on Land"
+    ],
+    "title": "This Island Floats",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231115NK.mp3",
+    "content": [
+      {
+        "en": "We live on an island. Islands have water all around them. Oceans, seas, and many lakes and rivers have islands in them.",
+        "tw": "我們住在島上，島嶼四面環繞著海水。很多的海洋、湖泊跟河流上都有島嶼。",
+        "time": null
+      },
+      {
+        "en": "Do islands float like a boat? Most islands are connected to the earth. They don't float. Does Taiwan float? No, it doesn't. But some small islands float. And some of them float too much!",
+        "tw": "島嶼會跟船一樣浮在水面上嗎？大多數的島嶼都連著地殼，不會浮在水上。台灣島也不會。但是一些小島確實會浮在水面上，還漂浮得很厲害。",
+        "time": null
+      },
+      {
+        "en": "There's a big floating island in a small lake. It's in Wisconsin, a state in the USA. It has trees. The wind in the trees makes the island move. This is a problem.",
+        "tw": "美國威斯康辛州的一座小湖泊有個很大的漂浮島。島上的樹跟風會讓它移動，造成問題。",
+        "time": null
+      },
+      {
+        "en": "Almost every year, the island floats too close to a bridge. Then boats can't go under the bridge. They can't go to the other side of the lake. There isn't another way!",
+        "tw": "幾乎每一年這座島都會太靠近橋，堵住了船隻從橋底下通過的通道。又沒有其他的路線可以到湖的另一邊。",
+        "time": null
+      },
+      {
+        "en": "So about 25 boats come at one time. They push the island away from the bridge!",
+        "tw": "於是25艘船會一起開過來，把漂浮島推開。",
+        "time": null
+      },
+      {
+        "en": "Why don't people make the island into smaller islands? Well, many kinds of animals live there. So Wisconsin says people cannot do this.",
+        "tw": "那為什麼不把這座島弄成多個小島呢？因為島上有很多動物棲息，所以不可以這麼做喔！",
+        "time": null
+      },
+      {
+        "en": "It's a good thing Taiwan doesn't float! We don't have enough boats to push it!",
+        "tw": "還好台灣島不會漂浮！我們可沒有足夠的船來推動它！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一座會漂浮的小島，對當地居民造成了困擾。",
+      "content": [
+        {
+          "text": "1. lake 湖 Could you imagine living on an island? 你能想像住在島上嗎? We are living on an island! 我們是住在島上。 No, a small island in a lake. 不，是湖上的小島。",
+          "time": null
+        },
+        {
+          "text": "2. live 居住 Oh, like Lalu Island in Sun Moon Lake? 像是日月潭的拉魯島嗎? Yeah, you could live there and go swimming whenever you want. 對啊，你可以住在那裏，想游泳隨時都可以。",
+          "time": null
+        },
+        {
+          "text": "3. boat 船 So you have an island for sale? 所以你有一座島要賣? No, I only have a boat.不是，我只有一艘船。",
+          "time": null
+        },
+        {
+          "text": "4. every year 每年。 And you plan to visit me on this island by boat? 而你打算坐船來島上看我? Yeah, but I can only do it once every year. 但是我每年只能看你一次。",
+          "time": null
+        }
+      ],
+      "postscript": "來跟我一起讀單字。 lake湖 live居住 boat船 every year每年"
+    },
+    "quiz": [
+      {
+        "question": "1. Does Taiwan float like a boat?",
+        "options": [
+          "a. No",
+          "b. Yes",
+          "c. Sometimes"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What does the floating island go too close to?",
+        "options": [
+          "a. Other islands",
+          "b. A lake",
+          "c. A bridge"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Why do boats push the island?",
+        "options": [
+          "a. To have fun",
+          "b. To make trees tall and strong",
+          "c. To let boats go to the lake's other side"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
