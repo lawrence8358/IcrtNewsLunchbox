@@ -1460,5 +1460,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20231123-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Natural Sciences",
+      "International Education"
+    ],
+    "title": "Cats Can Make Many Faces",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231122NK.mp3",
+    "content": [
+      {
+        "en": "Do you like cats? Many people like them. Lots of people have a pet cat.",
+        "tw": "你喜歡貓嗎?很多人喜歡貓也把牠們當寵物。",
+        "time": null
+      },
+      {
+        "en": "But when people look at their cat's face, do they know what it's feeling? Is their cat making a happy face? Is it making a sad face? Who knows?",
+        "tw": "但是人們看著貓咪的臉的時候，他們會知道貓有什麼樣的情緒嗎? 牠是在做開心的表情，還是悲傷的表情呢?",
+        "time": null
+      },
+      {
+        "en": "People are still learning how to understand the faces cats make. But now scientists know cats make many kinds of faces.",
+        "tw": "人們還在學習如何了解貓咪的表情，但是現在科學家知道牠們可以做很多種表情。",
+        "time": null
+      },
+      {
+        "en": "How do they know that? Scientists studied 53 cats in a cat cafe. They saw the cats make many faces. The scientists studied the faces the cats made when they were near other cats.",
+        "tw": "他們是怎麼知道的呢?科學家在一間貓咪咖啡廳研究店裡的53隻貓，觀察這些貓互相靠近的時候，有什麼表情。",
+        "time": null
+      },
+      {
+        "en": "Cats can move their eyes, ears and whiskers. They can open their mouths and lick their noses. There are about 20 more ways cats can move the muscles in their faces.",
+        "tw": "貓咪可以動牠們的眼睛、耳朵跟鬍鬚，可以張開嘴巴跟舔鼻子。除了這些之外，貓咪還有快20種的方式動牠們的臉部肌肉。",
+        "time": null
+      },
+      {
+        "en": "Scientists learned cats use these ways to make almost three hundred faces! Most of the faces are friendly. Cats can smile! But cats also make some angry faces. And they make some faces that scientists cannot understand at all.",
+        "tw": "用這些方式科學家發現貓咪可以做出幾乎300種的表情。大多是友善的表情，也有生氣的表情，還有很多科學家還不了解的表情。",
+        "time": null
+      },
+      {
+        "en": "Cats make many faces. Can you understand all of them?",
+        "tw": "貓咪可以做出很多表情。你能理解牠們全部的表情嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家說貓咪表情豐富，但是人類多半不了解那些表情是什麼意思。",
+      "content": [
+        {
+          "text": "1. nose鼻子。Look at that cat. What's it doing? 你看那隻貓在做什麼? I think it's laughing at us. 我覺得牠在嘲笑我們。 Why? 為什麼? Look at its mouth and nose. 你看牠的嘴跟鼻子。",
+          "time": null
+        },
+        {
+          "text": "2. move 移動。See how they move? 你看到牠的嘴跟鼻子怎麼動嗎? That doesn't mean it's laughing.那並不表示牠在笑。",
+          "time": null
+        },
+        {
+          "text": "3. angry 生氣的。You're right. Maybe it's angry. 說得對，也許牠在生氣。 No, when a cat is angry, it would hiss. 不對，貓生氣的時候會發嘶嘶聲。 Since when do you know so much about cats? 你什麼時候這麼懂貓?",
+          "time": null
+        },
+        {
+          "text": "4. feel 感覺。I don't. 我其實不懂。 Cats make me feel uneasy. 貓讓我覺得不安。 牠們好像在監視我。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you have a pet cat? nose鼻子 move移動 angry生氣的 feel感覺"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did scientists study the cats?",
+        "options": [
+          "a. A cat cafe",
+          "b. A pet store",
+          "c. A street"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What can cats lick?",
+        "options": [
+          "a. Their eyes",
+          "b. Their ears",
+          "c. Their noses"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How many faces can cats make?",
+        "options": [
+          "a. Almost 20",
+          "b. Almost 100",
+          "c. Almost 300"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
