@@ -1997,5 +1997,108 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20231130-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Natural Sciences",
+      "International Education"
+    ],
+    "title": "Cat Records World's Loudest Purr",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231129NK.mp3",
+    "content": [
+      {
+        "en": "Sometimes when I'm happy, I like to whistle!",
+        "tw": "我開心的時候，喜歡吹口哨。",
+        "time": null
+      },
+      {
+        "en": "Dogs make many different sounds when they're happy. They pant, bark, or grunt.",
+        "tw": "狗狗開心的時候會發出不同的聲音。牠們會喘氣、會叫、會發出嗚嗚聲。",
+        "time": null
+      },
+      {
+        "en": "Cats purr when they're happy. But they purr at other times too. Some cats purr when they're hungry!",
+        "tw": "貓咪不只是在開心的時候才發出呼嚕聲，有一些貓肚子餓的時候也會。",
+        "time": null
+      },
+      {
+        "en": "Kittens purr when they're a few days old. Then their mom knows they're okay. Some cats purr when they're in pain. Purring makes them feel better!",
+        "tw": "小貓出生沒有幾天就會發出呼嚕聲，貓媽媽就會知道牠們的狀況是好的。有一些貓感到痛的時候也是會發出呼嚕聲，這樣會讓牠們感覺舒服一點。",
+        "time": null
+      },
+      {
+        "en": "Bella is a 14-year-old cat in the UK. She lives with the Spink family. Bella's purrs are very, very loud! Mr. Spink says Bella's purrs are too loud all the time. She's louder than the TV!",
+        "tw": "英國有一隻14歲的貓Bella，牠的呼嚕聲非常大。主人Spink先生說，牠的聲音有時候比電視還大聲。",
+        "time": null
+      },
+      {
+        "en": "The Spinks thought Bella had the loudest purr in the world. They wanted to measure her purr. How loud was it? Someone came to their house with a machine. The machine measured how loud Bella purred.",
+        "tw": "Spink一家覺得Bella的呼嚕聲是全世界最響亮的，他們想要測量牠的聲音，所以請人帶著機器來家裡。",
+        "time": null
+      },
+      {
+        "en": "The Spinks were right! Bella has the loudest purr of all living cats. Her purr measures at almost 55 decibels. That's the same as a boiling kettle!",
+        "tw": "Bella的呼嚕聲接近55分貝，跟水煮開的時候一樣大聲。的確是所有貓咪當中最大聲的。",
+        "time": null
+      },
+      {
+        "en": "Bella is a happy cat with the loudest purr of all. What a \"purrrrrr-fect\" puss!",
+        "tw": "Bella 是一隻快樂的貓，擁有全世界最響亮的呼嚕聲。真是隻「呼嚕嚕完美」的小貓！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "英國這隻貓呼嚕聲超級大，牠的主人覺得很有趣。",
+      "content": [
+        {
+          "text": "1. loud大聲的、 louder 更大聲 Hey, Kitty, Kitty, I know you're hungry. 貓咪貓咪，我知道你餓了。 Does she often make loud sounds like that? 她常常叫那麼大聲嗎? Yeah, and that's not loud. 對，而且那不算大聲。 Really? 真的喔? She can make much louder sounds. 她可以叫得大聲得多。",
+          "time": null
+        },
+        {
+          "text": "2. family 家人、家庭 My family doesn't like it. 我的家人不喜歡。 But I find it fun. 不過我覺得滿好玩的。",
+          "time": null
+        },
+        {
+          "text": "3. house 房屋 How much do you understand your cat? 你有多了解你的貓? I can tell if she's in pain.我可以知道她是不是哪裡痛。 She'll make faces.她會有表情。 And she likes to walk around the whole house. 而且她喜歡在家裡到處走。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like cats? Let's read today's vocabulary. loud大聲的 louder更大聲 family家人、家庭 house房屋"
+    },
+    "quiz": [
+      {
+        "question": "1. Why do some cats purr when they're in pain?",
+        "options": [
+          "a. To feel better",
+          "b. To feel worse",
+          "c. To feel warm"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What family does Bella live with?",
+        "options": [
+          "a. The Swinks",
+          "b. The Spinks",
+          "c. The Shinks"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Which sound measures at almost 55 decibels?",
+        "options": [
+          "a. A whistling man",
+          "b. A boiling kettle",
+          "c. A panting dog"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
