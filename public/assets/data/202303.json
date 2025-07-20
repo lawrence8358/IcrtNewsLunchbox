@@ -1513,5 +1513,129 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230323-01",
+    "type": "國小",
+    "tag": [
+      "International Education",
+      "Multicultural Education",
+      "Energy Education",
+      "Technology Education",
+      "Environmental Education",
+      "Partnerships for the Goals",
+      "Life on Land",
+      "Climate Action",
+      "Responsible Consumption and Production",
+      "Industry, Innovation and Infrastructure",
+      "Decent Work and Economic Growth",
+      "Affordable and Clean Energy",
+      "Good Health and Well-Being",
+      "No Poverty",
+      "Social Studies"
+    ],
+    "title": "Thailand's Tuk-Tuks Go Green",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230322NK.mp3",
+    "content": [
+      {
+        "en": "Have you been to Thailand? It's a great place to visit. Thailand has spicy food, hot weather, and beautiful beaches.",
+        "tw": "你有去過泰國嗎？泰國有辛辣的料理、炎熱天氣，還有美麗的海灘，很適合度假。",
+        "time": null
+      },
+      {
+        "en": "Everywhere in Thailand, there are lots of tuk-tuks. What's a tuk-tuk? It's a little car with only three wheels.",
+        "tw": "泰國到處都有嘟嘟車。嘟嘟車是一種只有三個輪子的小車。",
+        "time": null
+      },
+      {
+        "en": "They're an easy way to go anywhere fast. It's easy to find a tuk-tuk, and the driver will take you anywhere you want.",
+        "tw": "嘟嘟車讓旅客來去方便快速，它很好找，而且司機會帶你去任何你想去的地方。",
+        "time": null
+      },
+      {
+        "en": "Tuk-tuks are super useful. But they have two big problems...",
+        "tw": "嘟嘟車很有用，但它們有兩個大問題。",
+        "time": null
+      },
+      {
+        "en": "One, they're loud! They always make a loud noise, like \"tuk tuk tuk tuk\". That's why they're called \"tuk-tuks\".",
+        "tw": "第一，他們很吵！它們會發出「嘟嘟嘟」的噪音，所以才叫嘟嘟車。",
+        "time": null
+      },
+      {
+        "en": "Two, they make a lot of pollution. The tuk-tuk's gas engines cause these two problems. These engines are noisy and dirty.",
+        "tw": "它們會污染環境。 因為嘟嘟車的引擎又吵又髒，才會有這些問題。",
+        "time": null
+      },
+      {
+        "en": "But now, tuk-tuks are going green. These tuk-tuks use electricity, not gas.",
+        "tw": "但現在嘟嘟車變環保了，它們不再用汽油，而是電動的！",
+        "time": null
+      },
+      {
+        "en": "The green tuk-tuks are cleaner and quieter. Now people enjoy cleaner, fresher air, and they can enjoy the quieter sounds of Thailand, too.",
+        "tw": "有了新的環保嘟嘟車，大家現在可以在泰國享受更新鮮的空氣，以及更安靜的環境了！",
+        "time": null
+      },
+      {
+        "en": "More and more tuk-tuks are going green. If you visit Thailand, give one of their new green tuk-tuks a try!",
+        "tw": "越來越多的嘟嘟車正在變得環保。如果你造訪泰國，務必試試他們的新款綠能嘟嘟車！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "泰國的嘟嘟車是當地特色，改換電動引擎之後更大幅減少汙染。",
+      "content": [
+        {
+          "text": "1. beach 海灘\nWow, sandy beaches, spicy food, parks everywhere…\n哇，沙灘，辛辣的美食，到處都有公園...\nAre you talking about Vietnam? 你在講越南嗎？",
+          "time": null
+        },
+        {
+          "text": "2. problem 問題\nNo, Thailand. I'm looking at this ad about Phuket.\n不，泰國。我在看普吉島的廣告。\nJust go! 你就去吧！\nThe problem is I'm too busy to take time off. 問題是我太忙了，沒時間休假。",
+          "time": null
+        },
+        {
+          "text": "3. air 空氣\nYou're not always busy. 你又不是一直忙。\nThat's true. 這是真的。\nSo go and enjoy the sea air. 所以去享受海風吧。",
+          "time": null
+        },
+        {
+          "text": "4. anywhere 任何地方\nBut I can go anywhere in Taiwan for that. 不過我在台灣可以去任何地方追海風。\nHey, you're right, I'll go with you! 說得對，我跟你一起去。",
+          "time": null
+        }
+      ],
+      "postscript": "你想度假嗎？先來記住單字。\nbeach 海灘\nproblem 問題\nair 空氣\nanywhere 任何地方"
+    },
+    "quiz": [
+      {
+        "question": "1. How many wheels does a tuk-tuk have?",
+        "options": [
+          "A: Two wheels",
+          "B: Three wheels",
+          "C: Four wheels"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "2. What are the new green tuk-tuks like?",
+        "options": [
+          "A: Clean and quiet",
+          "B: Dirty and loud",
+          "C: Big and slow"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "3. What do the new green tuk-tuks use instead of gas?",
+        "options": [
+          "A: Pollution",
+          "B: Spicy food",
+          "C: Electricity"
+        ],
+        "time": null,
+        "answer": "C"
+      }
+    ]
   }
 ]
