@@ -619,5 +619,111 @@
         "answer": "B"
       }
     ]
+  },
+  {
+    "id": "20230310-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life on Land",
+      "Character Education",
+      "Life Education",
+      "Life Planning Education",
+      "International Education",
+      "Multicultural Education"
+    ],
+    "title": "The 101-Year-Old Dancer",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230309NK.mp3",
+    "content": [
+      {
+        "en": "Today I'd like to tell you all about someone very special. She's called Dinkie Flowers. Dinkie lives in a sleepy town in the south of England. All her life, Dinkie has loved to dance. She started dancing when she was just 3 years old, and hasn't stopped!",
+        "tw": "Dinkie Flowers 住在英國南方一個純樸的村莊，她很喜歡跳舞，從3歲就開始，到現在仍然樂此不疲。",
+        "time": null
+      },
+      {
+        "en": "When she grew up, she became a professional dancer. As long as Dinkie was dancing, she was happy.",
+        "tw": "她後來成為職業舞者。她跳舞的時候很快樂！",
+        "time": null
+      },
+      {
+        "en": "She even opened her own school. She teaches people all her best dance moves! She calls it \"The Dinkie Flowers Stage School\".",
+        "tw": "她甚至創辦了自己的學校來教跳舞，叫做 Dinkie Flowers 表演學校。",
+        "time": null
+      },
+      {
+        "en": "A few years ago, Dinkie was on TV! She was in a competition called \"The Greatest Dancer\".",
+        "tw": "幾年前，Dinkie 參加了一個叫做「最偉大的舞者」的電視比賽。",
+        "time": null
+      },
+      {
+        "en": "Incredibly, Dinkie is 101 years old! She's one of the oldest people in the UK! When she was on TV, she was 98!",
+        "tw": "不可思議地，Dinkie 上電視的時候，她是 98 歲，今年已經101歲了！她是英國人瑞的其中一位。",
+        "time": null
+      },
+      {
+        "en": "Her friends and family all say she still looks super young! What's her secret?! She says it's because she loves dancing so much!",
+        "tw": "她說她長壽的祕密就是愛跳舞。",
+        "time": null
+      },
+      {
+        "en": "Her favorite dance is ballet. She practices every day. She believes that as long as you keep on moving, you can live forever! Keep on dancing, Dinkie!",
+        "tw": "她最喜歡的舞蹈是芭蕾。她每天練習。她相信只要持續運動，就能永遠活下去！Dinkie，繼續跳舞吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "很多人都說健康長壽的祕訣是多活動，Dinkie證明了這一點。",
+      "content": [
+        {
+          "text": "1. best 最好的 A dance teacher came to our school today. 今天有一位跳舞老師來我們學校。 What did she do? 她做了什麼呢？ It's he. 他是男生。 He's one of the best hip hop dancers in Taiwan. 他是台灣最棒的嘻哈舞者。",
+          "time": null
+        },
+        {
+          "text": "2. move 動作 Wow ! So he showed you his dance moves? 所以他表演舞步給你們看？ Yeah, and the kids loved him so much! 對啊，孩子們超喜歡他！",
+          "time": null
+        },
+        {
+          "text": "3. keep on 持續 They kept on dancing and moving. 他們一直蹦蹦跳跳。 I wish he could come back and teach us more. 我希望他能再回來教我們更多。",
+          "time": null
+        },
+        {
+          "text": "4. become 變成 And you'll all become cool hip hop dancers! 這樣你們都會變成很酷的舞群！ We may stage a show someday! 我們有一天還會登台演出呢！",
+          "time": null
+        }
+      ],
+      "postscript": "So what words have you learned today? best 最好的 move 動作 keep on 持續 become 變成"
+    },
+    "quiz": [
+      {
+        "question": "1. Where in the south of England does Dinkie Flowers live?",
+        "options": [
+          "a. A sleepy town",
+          "b. A spooky town",
+          "c. A silly town"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What is Dinkie Flowers' school called?",
+        "options": [
+          "a. The Dinkie Flowers Music School",
+          "b. The Dinkie Flowers Dance School",
+          "c. The Dinkie Flowers Stage School"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How old was Dinkie Flowers when she was on TV?",
+        "options": [
+          "a. 96",
+          "b. 97",
+          "c. 98"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
