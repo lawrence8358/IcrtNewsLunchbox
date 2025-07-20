@@ -1055,5 +1055,109 @@
         "answer": "C"
       }
     ]
+  },
+  {
+    "id": "20230317-01",
+    "type": "國小",
+    "tag": [
+      "International Education",
+      "Multicultural Education",
+      "Life Education",
+      "Life on Land",
+      "Social Studies"
+    ],
+    "title": "America's Oldest Parade Goes Online",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230316NK.mp3",
+    "content": [
+      {
+        "en": "Top o' the mornin'! It's St. Patrick's Day!",
+        "tw": "早安！今天是聖派翠克節！",
+        "time": null
+      },
+      {
+        "en": "Today is a very special day for Ireland. Ireland is a small country in Europe.",
+        "tw": "今天是愛爾蘭的大日子，愛爾蘭是歐洲一個小國家。",
+        "time": null
+      },
+      {
+        "en": "Many Americans have Irish grandparents or great-grandparents. Every year, all over America, Irish Americans like to celebrate St. Patrick's Day with big parades and fun parties!",
+        "tw": "很多美國人的祖先來自愛爾蘭。他們每一年都會慶祝聖派翠克節，舉辦盛大的遊行和好玩的派對！",
+        "time": null
+      },
+      {
+        "en": "At some St. Patrick's Day parties, everything is dyed green! All the food is green, all the drinks are green… and in the city of Chicago, even the river is green!",
+        "tw": "在一些聖派翠克節的派對，所有東西都染成綠色。所有食物、飲料，甚至在芝加哥還有一整條河都會變成綠色！",
+        "time": null
+      },
+      {
+        "en": "New York City has America's biggest St. Patrick's Day parade. The parade has big bands playing traditional folk music.",
+        "tw": "紐約有全美國最大型的聖派翠克節遊行。隊伍中有樂隊演奏傳統民間音樂。",
+        "time": null
+      },
+      {
+        "en": "The New York City St. Patrick's Day event is America's oldest parade. It started 261 years ago, in 1762!",
+        "tw": "這是美國最古老的遊行，它在1762年就開始了，已經 261 歲了！",
+        "time": null
+      },
+      {
+        "en": "This year they're putting the whole parade online. For the first time, people all over the world can watch the party and join in!",
+        "tw": "今年的遊行將全程線上直播。全世界的人們首次能線上觀看並參與派對！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "愛爾蘭的節慶，以聖派翠克節最著名，是大家都喜歡參加的節日。",
+      "content": [
+        {
+          "text": "1. celebrate 慶祝\nWow, you're all green today! 哇，你今天全身綠。\nGreen hat, green shirt, even green shoes. 綠色帽子，綠襯衫，綠鞋子。\nBecause I'm celebrating St. Patrick's Day! 因為我在慶祝聖派翠克節。",
+          "time": null
+        },
+        {
+          "text": "2. grandparents 祖父母\nMy grandparents lived in Ireland once. 我的阿公阿嬤住過愛爾蘭。\nThey did? 是嗎？\nYeah, my grandpa studied there. 對，我阿公在那裡讀書。",
+          "time": null
+        },
+        {
+          "text": "3. music 音樂\nHe was a student? 他在當學生？\nRight, he studied music. 對，他學音樂。\nHe was a musician. 他是音樂家。",
+          "time": null
+        },
+        {
+          "text": "4. parade 遊行\nSo will you go to a party? 所以你要參加派對嗎？\nNo, I'll watch New York's parade on TV and dance.",
+          "time": null
+        }
+      ],
+      "postscript": "歡迎參加聖派翠克節！\ncelebrate 慶祝\ngrandparents 祖父母\nmusic 音樂\nparade 遊行"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do Irish people come from?",
+        "options": [
+          "a. America",
+          "b. Ireland",
+          "c. Iceland"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Which American city dyes its river green for St. Patrick's Day?",
+        "options": [
+          "a. Chicago",
+          "b. New York",
+          "c. Europe"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. In what year did America's oldest parade start?",
+        "options": [
+          "a. 1772",
+          "b. 1762",
+          "c. 1672"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
