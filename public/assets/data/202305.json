@@ -2076,5 +2076,109 @@
         "answer": "B"
       }
     ]
+  },
+  {
+    "id": "20230530-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Environmental Education",
+      "Family Education",
+      "International Education",
+      "Outdoor Education"
+    ],
+    "title": "Eagle Thinks Rock is a Baby",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230529NK.mp3",
+    "content": [
+      {
+        "en": "Hi everyone. Do you know what eagles are? They're very big and strong birds.",
+        "tw": "大家好。你們知道老鷹是什麼嗎？牠們是非常大又強壯的鳥類。",
+        "time": null
+      },
+      {
+        "en": "Murphy is an eagle. He is 31 years old. He can't fly, so he lives in a place for injured animals.",
+        "tw": "Murphy 是一隻 31 歲的老鷹。牠飛不起來，住在受傷動物收留所。",
+        "time": null
+      },
+      {
+        "en": "Murphy wanted to be a dad. He made a nice nest for an egg. He sat on the egg every day. No one could come close. Murphy didn't want the egg to break.",
+        "tw": "Murphy 想要當爸爸，牠築了一個巢天天孵蛋。牠害怕蛋破掉，不讓任何人靠近。",
+        "time": null
+      },
+      {
+        "en": "Murphy waited for his egg to open. He waited to see his baby… But there was one problem. Murphy's egg wasn't an egg. It was a rock! People felt sad for Murphy.",
+        "tw": "Murphy 每一天都在期待蛋孵化，但是那枚蛋其實是一顆石頭！",
+        "time": null
+      },
+      {
+        "en": "Then a storm came. A baby eagle fell out of its nest. Some people found the baby eagle. They had an idea to help the baby eagle and Murphy at the same time!",
+        "tw": "一場暴風雨過後，有一隻老鷹寶寶掉出鳥巢外被人發現。他們想到一個主意，可以同時幫助老鷹寶寶跟 Murphy！",
+        "time": null
+      },
+      {
+        "en": "They took Murphy's rock away. Then they put the baby eagle in Murphy's nest. Now Murphy is the baby eagle's dad! Murphy takes care of the baby. He gives food to the baby eagle. Murphy is a good dad!",
+        "tw": "他們把石頭拿走，把孵出來不久的老鷹放進 Murphy 的巢裡面。現在 Murphy 當爸爸了！牠細心照顧寶寶，餵牠食物。Murphy 是個好爸爸！",
+        "time": null
+      },
+      {
+        "en": "Murphy and his baby are very lucky. They have a new family!",
+        "tw": "墨菲和他的寶寶非常幸運。他們有了一個新家庭！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "幸運的 Murphy，終於成為老鷹爸爸。",
+      "content": [
+        {
+          "text": "1. fall 掉落\nWhat's that on the road? 在路上那個是什麼？\nMy God, it's a bird! 天哪，是一隻鳥。\nI think it fell from above. 我想是從上面掉下來的。\nSee the nest? 你看到鳥巢了嗎？",
+          "time": null
+        },
+        {
+          "text": "2. put 放\nPoor little bird! 可憐的小鳥！\nWhat should we do about it? 我們拿牠怎麼辦呢？\nI think we need to put it back.我想得把牠放回去。",
+          "time": null
+        },
+        {
+          "text": "3. take 帶走\nBack in its nest? 放回鳥巢裡？\nAre you kidding? 開玩笑。\nYou're right, the tree is too tall. 你說得對，樹太高了。\nMaybe we should take it to the place for injured wild birds.\n我們也許應該把牠帶去野鳥救傷中心。",
+          "time": null
+        },
+        {
+          "text": "4. fly 飛\nCan the little bird fly? 這隻小鳥會飛嗎？\nYes, it will. 牠以後會的。\nBut not now. 但是現在沒辦法。",
+          "time": null
+        }
+      ],
+      "postscript": "今天學到四個動詞。\nfall 掉落\nput 放\ntake 帶走\nfly 飛"
+    },
+    "quiz": [
+      {
+        "question": "1. What did Murphy think was his egg?",
+        "options": [
+          "A: A nest",
+          "B: A toy",
+          "C: A rock"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did Murphy want to be?",
+        "options": [
+          "A: Injured",
+          "B: Big and strong",
+          "C: A dad"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What made the baby eagle fall out of its nest?",
+        "options": [
+          "A: An idea",
+          "B: A storm",
+          "C: An egg"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
