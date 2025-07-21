@@ -844,5 +844,101 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230614-01",
+    "type": "國小",
+    "tag": [
+      "Life Education",
+      "Character Education"
+    ],
+    "title": "Student Fails to Hide Bad Grades",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230613NK.mp3",
+    "content": [
+      {
+        "en": "The mail's here! A lot of important mail comes to your house. Like birthday cards, or report cards from your school. Report cards show how you're doing at school. They show all of your grades. ALL of them! The good ones and the bad.",
+        "tw": "信箱裡有各種郵件，包括成績單。它上面有你所有好的壞的成績，寄到你家信箱。",
+        "time": null
+      },
+      {
+        "en": "A high school student in Taiwan was getting good grades at school. Until her boyfriend broke her heart. Then her grades got very, very bad…",
+        "tw": "台灣有一個高中生原本成績很好，但在一次失戀後，她的成績跌到谷谷。",
+        "time": null
+      },
+      {
+        "en": "Her mother was waiting at home for the report card. She was going to be very angry! The student wanted to hide her report card from her mother. She didn't want anyone to know. So she hired… a detective!",
+        "tw": "她媽媽在家裡等成績單，但是高中生想要把成績單藏起來，所以雇用了一個偵探！",
+        "time": null
+      },
+      {
+        "en": "Detectives can do things in secret, without anyone knowing. But they cost a lot of money! The student paid the detective. The detective hid the report card.",
+        "tw": "學生給了偵探很多錢，請他幫忙把成績單藏起來，他也照辦了。",
+        "time": null
+      },
+      {
+        "en": "But then, the story got in the news! Her mother saw her bad grades in the paper!",
+        "tw": "結果這件事情上了新聞，她的媽媽也在新聞上看到了她的成績！",
+        "time": null
+      },
+      {
+        "en": "The student lost lots of money. And she failed to hide her bad grades! Don't do what she did! It's better to tell the truth and study hard.",
+        "tw": "這名學生損失了很多錢。她也沒能成功隱藏她的爛成績！不要做她做過的事！最好是說實話並努力學習。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這名高中生不想讓爸媽看成績單，於是用了很特別的辦法。",
+      "content": [
+        {
+          "text": "1. hide 隱藏 Have you ever tried to hide your report card? 你有試過把成績單藏起來嗎？ That would be useless. 沒有用。 Why? 為什麼？ Because we have to get our parents to sign it. 因為我們得讓爸媽簽名。",
+          "time": null
+        },
+        {
+          "text": "2. grade 分數 And return it to your teacher? 然後要還給你的老師？ Right. 對。 Even when you get bad grades? 就算成績很爛也要？ Especially when we get bad grades. 尤其是成績很爛時更要。",
+          "time": null
+        },
+        {
+          "text": "3. angry 生氣的 So your mom would get angry with you? 所以你媽媽會對你生氣？ No, not really. 不會。 But she would be worried. 但是她會擔心。",
+          "time": null
+        },
+        {
+          "text": "4. hire 雇用 She would also hire a tutor for me. 她也會幫我雇一個家教。",
+          "time": null
+        }
+      ],
+      "postscript": "你會擔心成績單不好看嗎? 來讀單字。 hide 隱藏 grade 分數 angry 生氣的 hire 雇用"
+    },
+    "quiz": [
+      {
+        "question": "1. Who sends report cards in the mail?",
+        "options": [
+          "a. Your family",
+          "b. A detective",
+          "c. Your school"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What kind of grades are shown on a report card?",
+        "options": [
+          "a. Bad grades",
+          "b. Good grades",
+          "c. All grades"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How much do detectives cost?",
+        "options": [
+          "a. Not much",
+          "b. Nothing",
+          "c. A lot"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
