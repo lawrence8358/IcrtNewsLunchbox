@@ -1216,5 +1216,116 @@
         "answer": "A"
       }
     ]
+  },
+  {
+    "id": "20230421-01",
+    "type": "國小",
+    "tag": [
+      "Outdoor Education",
+      "Life Education",
+      "Environmental Education",
+      "Life on Land",
+      "Climate Action",
+      "Sustainable Cities and Communities",
+      "Natural Sciences"
+    ],
+    "title": "Kids to Record Roads for Earth Day",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230420NK.mp3",
+    "content": [
+      {
+        "en": "Tomorrow is Earth Day! I'm at the National Museum of Natural Science in Taichung. The museum has lots of stones, plants, animals, and insects.",
+        "tw": "明天就是世界地球日！我現在人在台中科博館，裡面有很多岩石、植物、動物，跟昆蟲。",
+        "time": null
+      },
+      {
+        "en": "There are bees, butterflies, crickets and many more insects…",
+        "tw": "這裡有蜜蜂、蝴蝶、蟋蟀等等。",
+        "time": null
+      },
+      {
+        "en": "Insects help make the earth healthy. We need them! But many insects are dying all over the earth.",
+        "tw": "昆蟲讓我們的地球更健康，但是世界上很多昆蟲正在慢慢地滅亡。",
+        "time": null
+      },
+      {
+        "en": "There's a natural science museum in the UK too. It's called the Natural History Museum. It has a big science project for Earth Day. Kids in the UK can help!",
+        "tw": "英國也有科博館，叫做自然史博物館。這間博物館有一個世界地球日的計畫，讓英國的小孩可以幫忙！",
+        "time": null
+      },
+      {
+        "en": "The project is about insects and noise. Are loud noises bad for insects? Scientists don't know.",
+        "tw": "科學家想知道噪音是不是對昆蟲不好。",
+        "time": null
+      },
+      {
+        "en": "The project is very easy… First, kids pick a road. Some roads are quiet. There's not much noise. Some roads are noisy.",
+        "tw": "要怎麼做呢？很簡單，小孩子可以先挑選一條路，有一些路很安靜，有一些很吵。",
+        "time": null
+      },
+      {
+        "en": "Kids record the noise on their road for five minutes. Next, kids look at 10 meters of their road. They record all the insects they see. Then they send everything to the museum. Scientists will study this information.",
+        "tw": "孩子們要先在路邊錄音五分鐘，然後在路旁十公尺紀錄所有他們看到的昆蟲，再把所有資料送到博物館裡面，然後科學家會負責研究。",
+        "time": null
+      },
+      {
+        "en": "What are you doing for Earth Day?",
+        "tw": "你為地球日做了什麼？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "英國的小學生，幫忙科學家研究昆蟲。",
+      "content": [
+        {
+          "text": "1. butterfly 蝴蝶。We're going on a field trip tomorrow. 我們明天要校外教學。To see butterflies. 去看蝴蝶。Are you going to the Taipei Zoo? 你們要去台北動物園嗎？",
+          "time": null
+        },
+        {
+          "text": "2. insect 昆蟲。They have a good Insect Hall... 他們有很好的昆蟲館...With butterflies and other bugs. 有蝴蝶和其他昆蟲。",
+          "time": null
+        },
+        {
+          "text": "3. natural 自然的。No, we want a more natural environment. 不是，我們要更自然的環境。We'll be going to Yangmingshan. 我們要上陽明山。",
+          "time": null
+        },
+        {
+          "text": "4. quiet 安靜的。That's a nice and quiet place. 那是很安靜的好地方。No, it's never quiet on holidays. 不，陽明山假日的時候並不安靜。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡看蝴蝶嗎? 我們一起來讀今天的單字。\nbutterfly 蝴蝶\ninsect 昆蟲\nnatural 自然的\nquiet 安靜的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the National Museum of Natural Science?",
+        "options": [
+          "a. Tainan",
+          "b. Taichung",
+          "c. Taipei"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What are some insects?",
+        "options": [
+          "a. Stones and plants",
+          "b. Bees and butterflies",
+          "c. Cars and people"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do kids record for the project?",
+        "options": [
+          "a. Noise and insects on a road",
+          "b. Museums and scientists",
+          "c. Earth Day in the UK"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
