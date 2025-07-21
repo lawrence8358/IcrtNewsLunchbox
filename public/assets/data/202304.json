@@ -1535,5 +1535,98 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230426-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Family Education",
+      "Life Education",
+      "International Education"
+    ],
+    "title": "Couple Weds at Taylor Swift Concert",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230425NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: Hi! I'm at a wedding! The bride! She's so beautiful! Voice: You may now kiss the bride… Narrator: What a beautiful wedding!",
+        "tw": "旁白：嗨！我在一場婚禮上！新娘！她真美！聲音：你現在可以親吻新娘了… 旁白：多麼美麗的婚禮啊！",
+        "time": null
+      },
+      {
+        "en": "Every couple wants something different for their wedding. Some couples want a small wedding. Some couples want a big wedding. And some couples want a very, very different wedding!",
+        "tw": "每一對新人都想要不一樣的婚禮，有人喜歡小型婚禮，有人期待盛大的結婚儀式，也有人希望有很特別的婚禮！",
+        "time": null
+      },
+      {
+        "en": "Rene and Max are a couple. First they wanted a small wedding. But then Rene had a crazy idea… Rene is a \"Swiftie\". A Swiftie is a Taylor Swift superfan! Is Taylor Swift your favorite singer? Do you love her more than all other singers? Yeah? Then you're a Swiftie too!",
+        "tw": "Rene 跟 Max 原本只想舉辦小型婚禮，但 Rene 是一個 \"Swiftie\"，也就是泰勒絲的粉絲。",
+        "time": null
+      },
+      {
+        "en": "Rene and Max went to a Taylor Swift concert. Max was wearing a nice black suit. Rene was wearing a beautiful white dress. They waited and waited… Then Taylor Swift began to sing Rene's favorite song. Rene walked slowly to Max. They were in front of the stage.",
+        "tw": "新郎穿著西裝，新娘穿著婚紗參加泰勒絲的演唱會，當泰勒絲唱到 Rene 最愛的歌曲時，Rene 在舞台前面緩緩地走向 Max。",
+        "time": null
+      },
+      {
+        "en": "Rene and Max were having their wedding at a Taylor Swift concert! They kissed. Thousands of Swifties cheered! There's a video for their wedding. It's on the Internet. People have watched it over 6 million times!",
+        "tw": "兩個人在泰勒絲的演唱會完婚，在好幾千位 Swiftie 歡呼聲中接吻。這部影片在網路上點閱超過六百萬次！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這對新人選擇在演唱會中結婚，是不是很浪漫？",
+      "content": [
+        {
+          "text": "1. crazy 瘋狂的\nHave you ever thought about your wedding? 你有想過你的婚禮嗎？\nI have. 想過。\nWill you do something crazy? 會不會做一些瘋狂的事？\nProbably not. 大概不會。",
+          "time": null
+        },
+        {
+          "text": "2. favorite 最喜歡的\nBut I do want to get married outdoors. 不過我是想在戶外結婚。\nLike in the mountains? 比如說在山上？\nYeah, one of my favorite places is Sun Moon Lake.\n對，我最喜歡的地方之一是日月潭。",
+          "time": null
+        },
+        {
+          "text": "3. first 首先\nFirst I'll invite all my friends there. 首先我會邀請所有的朋友去。\nAnd then I'll have someone sing for us. 然後請人為我們唱歌。",
+          "time": null
+        },
+        {
+          "text": "4. wear 穿著\nAnd wear a beautiful white dress. 然後穿上美麗的白色洋裝。\nSure, white is pretty. 當然，白色很好看。",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學到哪些單字？\ncrazy 瘋狂的\nfavorite 最喜歡的\nfirst 首先\nwear 穿著"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did Rene and Max have their wedding?",
+        "options": [
+          "a. At home",
+          "b. At a concert",
+          "c. At a 7-11"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many times have people watched their wedding video?",
+        "options": [
+          "a. 6 million times",
+          "b. 6 billion times",
+          "c. 6 trillion times"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What is a \"Swiftie\"?",
+        "options": [
+          "a. A nice black suit",
+          "b. A beautiful white dress",
+          "c. A Taylor Swift superfan"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
