@@ -1148,5 +1148,111 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230617-01",
+    "type": "國小",
+    "tag": [
+      "Outdoor Education",
+      "International Education",
+      "Environmental Education",
+      "Sustainable Cities and Communities",
+      "Affordable and Clean Energy",
+      "Natural Sciences",
+      "Integrative Activities"
+    ],
+    "title": "Iraqis Plant Trees to Stop Deserts",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230616NK.mp3",
+    "content": [
+      {
+        "en": "Phew! It's very dry! Are we in a desert? I need water...",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "A desert is a place without water. It gets very little rain. It's hard to find plants in a desert. Plants need water to grow.",
+        "tw": "沙漠裡面很少下雨，水很少，也沒有甚麼植物。",
+        "time": null
+      },
+      {
+        "en": "Good soil needs plants. Without plant roots, the soil can't hold water. The soil gets hard and dry. No plants can grow. The place becomes a desert.",
+        "tw": "少了植物的根，土壤很難留住水分，很快就會變乾、變硬。最後這片土地就會變成沙漠。",
+        "time": null
+      },
+      {
+        "en": "Iraq has two big deserts. This country has long, hot, and dry summers. Now the earth is getting hotter. And Iraq is getting less water from rain and rivers. More places there are becoming desert.",
+        "tw": "伊拉克有兩個大沙漠。伊拉克的夏天又長又熱，現在因為全球暖化，伊拉克的水越來越少，更多地方變成了沙漠。",
+        "time": null
+      },
+      {
+        "en": "People want good soil again. So some people planted trees. Then more people planted trees! Now Iraq wants to plant 5 million trees!",
+        "tw": "伊拉克希望改善土壤品質，決定開始種樹。他們決心要種五百萬顆樹！",
+        "time": null
+      },
+      {
+        "en": "The tree roots will help the soil hold water. Then more plants can grow. Their roots will help the soil. Then more plants can grow. Their roots will help the soil. Then more…",
+        "tw": "樹根可以幫助土壤留住水分，這樣就可以種更多植物，留住更多水分，變成一個正向循環！",
+        "time": null
+      },
+      {
+        "en": "The earth needs our help! Can you plant a tree today?",
+        "tw": "地球需要我們的幫助！你今天能種一棵樹嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "伊拉克希望多種樹，把沙漠變成綠洲。",
+      "content": [
+        {
+          "text": "1. grow 種植.\nI'm trying to grow roses, but it's a lot of work.我正在種玫瑰，但是它需要做好多事.\nRoses? You can't even grow cucumbers! 玫瑰? 你甚至不會種小黃瓜!",
+          "time": null
+        },
+        {
+          "text": "2. soil 泥土.\nThat's why I'm using the soil for roses. 這是為什麼我用這些泥土來種玫瑰.",
+          "time": null
+        },
+        {
+          "text": "3. root 根部.\nBut roses have deep roots. 但是玫瑰的根很深.\nYour pots are not big enough. 你的花盆不夠大.\nSince when did you know so much about roses? 你什麼時候開始這麼懂我玫瑰?",
+          "time": null
+        },
+        {
+          "text": "4. more 更多.\nI read about it. 我有看書.\nBut I learned more from my mom. 但是我從我媽媽那裏學到更多.\nShe plants roses every year. 她每年都種玫瑰.",
+          "time": null
+        }
+      ],
+      "postscript": "你有種過任何植物嗎? 一起來讀今天的單字。\ngrow種植\nsoil泥土\nroot根部\nmore更多"
+    },
+    "quiz": [
+      {
+        "question": "1. What is a desert?",
+        "options": [
+          "A: A place without water",
+          "B: A plant",
+          "C: Good soil"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What can grow when tree roots help the soil hold water?",
+        "options": [
+          "A: Strong winds",
+          "B: No plants",
+          "C: More plants"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How many trees do they plan to plant in Iraq?",
+        "options": [
+          "A: 5",
+          "B: A million",
+          "C: 5 million"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
