@@ -1046,5 +1046,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230616-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Life Education",
+      "Life on Land"
+    ],
+    "title": "Scientists Learn How Butterflies Began",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230615NK.mp3",
+    "content": [
+      {
+        "en": "Guys! There's a butterfly on my nose! *giggle* It tickles! *sneeze* Aa… aa… AAA-CHOO!",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "How many kinds of butterflies are there? Scientists say there are more than 19,000 kinds! Butterflies have lots of beautiful colors.",
+        "tw": "科學家說，世界上的蝴蝶種類超過一萬九千種！蝴蝶有各種繽紛的色彩。",
+        "time": null
+      },
+      {
+        "en": "Where did the first butterfly come from? Scientists wanted to know. They went back 100 million years. That's back to dinosaur times…",
+        "tw": "科學家想知道，世界上第一隻蝴蝶出現在甚麼時候？他們一路找回到一億年前，也就是恐龍的時代。",
+        "time": null
+      },
+      {
+        "en": "Many kinds of animals were not living yet. There were no dogs. There were no cats. And there were no butterflies. But there were lots and lots of moths.",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "Moths and butterflies are in the same family. But they are very different. Butterflies have lots of bright colors: yellow, blue, green, and more. Most moths do not. That's because moths fly at night. Many are black, brown, or gray. These dark colors help them keep safe.",
+        "tw": "蛾跟蝴蝶是親戚，但牠們其實大不相同。蝴蝶有很多鮮豔顏色，蛾沒有，這是因為蛾是夜行性的，暗沉的顏色比較安全。",
+        "time": null
+      },
+      {
+        "en": "Scientists think a moth didn't like the dark 100 million years ago. It liked the light! It wanted to fly in the bright sunlight! Flying in the sun made the moth's dark colors brighter. Now scientists think that's where the first butterfly came from!",
+        "tw": "科學家認為一億年前，有一隻蛾不喜歡晚上，牠喜歡光亮的地方！在陽光下飛讓這隻蛾的顏色變亮了，科學家認為這就是第一隻蝴蝶的起源！",
+        "time": null
+      },
+      {
+        "en": "A dark moth gave the world beautiful bright butterflies, thanks to the sun!",
+        "tw": "一隻深色的蛾為世界帶來了美麗鮮豔的蝴蝶，這都歸功於太陽！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一億年前的陽光，讓蛾類開始演化成蝴蝶。",
+      "content": [
+        {
+          "text": "1. bright 光亮的\nWow, look at these paintings! 哇，你看這些畫。\nThe colors are so bright and beautiful! 顏色好鮮明，真好看！",
+          "time": null
+        },
+        {
+          "text": "2. sunlight 陽光\nYeah, it's like they come alive under the sunlight.\n對啊，在陽光下好像變成活的。\nHow many butterflies are there in this painting? 這幅畫裡有幾隻蝴蝶？",
+          "time": null
+        },
+        {
+          "text": "3. dark 黑暗的\nI guess at least one hundred. 我猜至少一百隻。\nIt would look good on a dark wall. 掛在黑暗的牆上可能不錯。",
+          "time": null
+        },
+        {
+          "text": "4. night 夜晚\nThe dark wall of our house? 我們家那面黑暗牆壁嗎？\nAre you thinking of buying it? 你想買這幅畫？\nMaybe. It would look even better at night. 也許。它晚上看起來可能更好。",
+          "time": null
+        }
+      ],
+      "postscript": "來讀讀單字。\nbright 光亮的\nsunlight 陽光\ndark 黑暗的\nnight 夜晚"
+    },
+    "quiz": [
+      {
+        "question": "1. How many kinds of butterflies are there?",
+        "options": [
+          "A: 19",
+          "B: 1,000",
+          "C: 19,000"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Which animals have lots of beautiful, bright colors?",
+        "options": [
+          "A: Moths",
+          "B: Butterflies",
+          "C: Dinosaurs"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why do most moths have dark colors?",
+        "options": [
+          "A: To keep safe",
+          "B: To fly",
+          "C: To look cool"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
