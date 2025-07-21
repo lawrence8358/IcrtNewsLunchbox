@@ -1136,5 +1136,115 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230517-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Industry, Innovation and Infrastructure",
+      "Life on Land",
+      "Technology Education",
+      "Information Education",
+      "International Education"
+    ],
+    "title": "The 500-Million-Year-Old Social Network",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230516NK.mp3",
+    "content": [
+      {
+        "en": "Hey there! Can you hear me? Am I on the Internet?",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "We are very lucky in Taiwan. The Internet is easy to get for many people. We can get it at home, at school, and in convenience stores! Plus, it's cheap!",
+        "tw": "台灣很幸運，在台灣要上網很容易，家裡、學校，還有便利商店都有便宜的網路！",
+        "time": null
+      },
+      {
+        "en": "Some countries are not so lucky. The Internet is hard to get for many people. And it isn't cheap.",
+        "tw": "有一些國家就沒有這麼幸運了。網路又貴又不容易取得。",
+        "time": null
+      },
+      {
+        "en": "The Internet has social networks. People talk on these social networks. They talk with family and friends. This is great! But people with no Internet cannot join and talk. Life with no Internet is hard.",
+        "tw": "網路上有社群網站，可以讓我們跟家人朋友聊天，但是沒有網路就不能這樣做了。",
+        "time": null
+      },
+      {
+        "en": "Even animals talk! They talked 500 million years ago! Animals called 'rangeomorphs' lived in the ocean then. They looked like tree leaves!",
+        "tw": "不只我們會聊天，動物也會！有一種叫做「葉狀型態生物」的古老動物，存活在五億多年前的海裡，長得橡樹葉！",
+        "time": null
+      },
+      {
+        "en": "Rangeomorphs had no mouths, arms, or legs. How did they talk with their family and friends? They talked with a kind of string.",
+        "tw": "這種動物沒有嘴巴，也沒有手腳。這樣牠們怎麼聊天呢？牠們用一種特殊的線。",
+        "time": null
+      },
+      {
+        "en": "Some strings were four meters long! The strings joined them with other rangeomorphs. They talked to each other with these strings. The strings were their Internet!",
+        "tw": "這些動物被這些線連在一起，有一些線甚至有四公尺長！牠們用這種線溝通，就像牠們的網路一樣！",
+        "time": null
+      },
+      {
+        "en": "Today is a special day. It's about making the Internet easy to get for everyone! Let's make a new social network! Let's get the whole world talking!",
+        "tw": "今天是個特別的日子。這是關於讓網路更容易讓所有人獲得！ 讓我們建立一個新的社交網絡！ 讓全世界都開始交流吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "人類喜歡交談，科學家發現五億年前有一種古生物也是這樣。",
+      "content": [
+        {
+          "text": "1. each other 彼此 Hey, Paz, how are you? 你好嗎？ I'm fine. It's been a while since we last saw each other!",
+          "time": null
+        },
+        {
+          "text": "2. talk 談話 Right, we only talked via Line. 你說得對，我們只有用賴說話。 That's not real talking. 那不是真正的交談。 No, it's not. If you want, we can chat using Line, too. 確實不是。你要的話我們也可以用賴聊天。 Okay. 好啊。",
+          "time": null
+        },
+        {
+          "text": "3. friend 朋友 Speaking of Line, did you see any messages from Kevin? 說到賴,你有沒有看到凱文的訊息？ No, he's not my friend. 沒有，他不是我的朋友。",
+          "time": null
+        },
+        {
+          "text": "4. arm 手臂 Oh, I thought he was. 我以為他是。 He broke his arms in a crash. 他在車禍中手臂骨折。 Oh no! 真糟糕。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。 each other 彼此 talk 談話 friend 朋友 arm 手臂"
+    },
+    "quiz": [
+      {
+        "question": "1. Where can you get the Internet in Taiwan?",
+        "options": [
+          "A: Strings",
+          "B: Social networks",
+          "C: Schools"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did a 'rangeomorph' look like?",
+        "options": [
+          "A: A mouth",
+          "B: A tree",
+          "C: A leaf"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What joined all the rangeomorphs together?",
+        "options": [
+          "A: The Internet in Taiwan",
+          "B: A kind of string",
+          "C: Arms and legs"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
