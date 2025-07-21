@@ -219,5 +219,106 @@
         "answer": "B"
       }
     ]
+  },
+  {
+    "id": "20230606-01",
+    "type": "國小",
+    "tag": [
+      "Life Education",
+      "Outdoor Education"
+    ],
+    "title": "Dog Walked 250 Kilometers Across Sea Ice",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230605NK.mp3",
+    "content": [
+      {
+        "en": "Ugh… I'm tired of walking. Why did I want to walk home? My legs are very tired.",
+        "tw": "走路回家好累人，我的腳好酸。",
+        "time": null
+      },
+      {
+        "en": "How many kilometers can you walk? One kilometer? Five kilometers? Ten kilometers?",
+        "tw": "你們可以連續走幾公里呢？一公里、五公里、還是十公里呢？",
+        "time": null
+      },
+      {
+        "en": "How about more than two hundred fifty kilometers? That's a very long walk. But somebody did it. Oh wait! Not somebody… some dog did it. His name is Nanuq.",
+        "tw": "如果要走兩百五十公里呢？有一隻狗狗做到了！牠叫做 Nanuq。",
+        "time": null
+      },
+      {
+        "en": "Nanuq went out with some other dogs one day. The other dogs came back. But he didn't come back. His family could not find him. They were very worried. Was Nanuq okay?",
+        "tw": "Nanuq 有一天跟一群狗狗出去玩，但是其他的狗狗都回來了，Nanuq 卻沒有回來。牠的主人找不到牠，非常擔心。",
+        "time": null
+      },
+      {
+        "en": "Nanuq was gone for more than a month! Then his family found him. Nanuq was in a place across the sea! The place was two hundred fifty kilometers away! How did Nanuq walk across that many kilometers of seawater?",
+        "tw": "牠失蹤了四十多天，結果在海的另一邊被找到了。牠走了兩百五十公里！牠是怎麼越過大海的呢？",
+        "time": null
+      },
+      {
+        "en": "Nanuq and his family live in a very, very cold place. The sea is icy. Nanuq's family thinks he walked on sea ice. Nanuq was very lucky. He was okay! And he was home!",
+        "tw": "Nanuq 跟牠的主人住在很冷的地方，海面都結冰了。Nanuq 的家人認為牠是走在冰上面過去的。Nanuq 非常地幸運，牠現在終於回家了！",
+        "time": null
+      },
+      {
+        "en": "No one knows how Nanuq crossed two hundred fifty kilometers of seawater! What do you think?",
+        "tw": "沒有人知道 Nanuq 是如何跨越兩百五十公里的海水！你覺得呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一隻牧羊犬是如何越過白令海峽? 牠的主人很好奇。",
+      "content": [
+        {
+          "text": "1. tired of 厭倦\nI'm looking forward to winter. 我很期待冬天。\nI'm tired of summer. 我厭倦夏天了。\nToo bad. 糟糕了。\nSummer is just beginning. 夏天才剛開始呢。",
+          "time": null
+        },
+        {
+          "text": "2. gone 離開，消失\nI wish it was already gone. 我希望它已經走了。\nWhy do you hate summer so much? 你為什麼那麼討厭夏天?\nIt's too hot. I miss the cold days. 太熱了。我想念冷天氣。",
+          "time": null
+        },
+        {
+          "text": "3. cold 冷的\nWinter in Taipei is too cold for me. 台北的冬天對我來說太冷了。\nIn Canada, it's icy everywhere in winter. 加拿大的冬天，到處都結冰。",
+          "time": null
+        },
+        {
+          "text": "4. worried 擔心的\nPeople would be worried about too much snow. 大家會擔心雪太多了。",
+          "time": null
+        }
+      ],
+      "postscript": "Are you tired of summer?\ntired of 厭倦\ngone 離開，消失\ncold 冷的\nworried 擔心的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does this story take place?",
+        "options": [
+          "a. A very hot place",
+          "b. A very dry place",
+          "c. A very cold place"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What is Nanuq?",
+        "options": [
+          "a. A cat",
+          "b. A dog",
+          "c. A bird"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What does Nanuq's family think he walked across?",
+        "options": [
+          "a. Fire",
+          "b. Air",
+          "c. Ice"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
