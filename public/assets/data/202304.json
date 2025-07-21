@@ -1108,5 +1108,113 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230420-01",
+    "type": "國小",
+    "tag": [
+      "Life Education",
+      "Life on Land",
+      "Good Health and Well-Being",
+      "Health and Physical Education"
+    ],
+    "title": "Take Care of Your Teeth!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230419NK.mp3",
+    "content": [
+      {
+        "en": "Oh, excuse me. I'm brushing my teeth. There! I'm finished. Sorry about that.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "It's important to take care of your teeth. It's easy. You need a toothbrush, toothpaste, floss, and… your teeth!",
+        "tw": "照顧牙齒很重要，也很簡單，你只需要一支牙刷、一條牙膏、一捲牙線，還有你的牙齒！",
+        "time": null
+      },
+      {
+        "en": "How many times do you brush your teeth every day? Do you brush them two times? Three times? But toothbrushes can't brush between your teeth. Floss can. Do you floss your teeth?",
+        "tw": "你每天刷幾次牙？牙刷刷不進的牙縫，可以用牙線，你會用牙線嗎？",
+        "time": null
+      },
+      {
+        "en": "It's important to take care of your gums too. Do you know what gums are? Open your mouth. Look! Your gums hold your teeth. Brushing and flossing make gums healthy too.",
+        "tw": "照顧牙齦也很重要，牙齦就是固定你的牙齒的部分。",
+        "time": null
+      },
+      {
+        "en": "Some people get gum disease. Their gums hurt. Ouch! What? No, chewing gum does not cause gum disease. Go ahead and chew gum. Not brushing or flossing causes gum disease.",
+        "tw": "有一些人會有牙周病，牙齦會很痛！不過嚼口香糖不會造成牙周病，不刷牙跟不用牙線才會。",
+        "time": null
+      },
+      {
+        "en": "Gum disease can make chewing hurt. It can make teeth fall out! Now scientists think gum disease can make other parts of the body hurt too.",
+        "tw": "牙周病讓牙齒咀嚼的時候很痛，還有可能會掉牙。科學家認為，牙周病也有可能會傷害身體的其他的部位。",
+        "time": null
+      },
+      {
+        "en": "Hmm... let's see. I brush and floss my teeth every day. And later, I won't get gum disease. Chewing won't hurt. My teeth won't fall out. Other parts of my body, like my hands and knees, won't hurt. Great!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "I take good care of my teeth. I hope you do, too!",
+        "tw": "我好好照顧我的牙齒。我希望你也一樣！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "健康的牙齒，對身體有極大的幫助。",
+      "content": [
+        {
+          "text": "1. toothbrush 牙刷 For our trip this weekend… 我們這周的旅行... Yeah? 怎麼樣？ 我想只帶一隻牙刷。",
+          "time": null
+        },
+        {
+          "text": "2. time 次數 Bad idea. 這主意不好。 我們會住五星級飯店。 他們什麼都有。 你住過這種飯店幾次？ 一次也沒有。",
+          "time": null
+        },
+        {
+          "text": "3. need 需要 你還是需要換洗衣服。 好吧，那很容易。",
+          "time": null
+        },
+        {
+          "text": "4. chew 咀嚼 What else? 還有什麼？ 身體乳液，口香糖... 你怎麼知道我需要口香糖？ 你不是正在吃？",
+          "time": null
+        }
+      ],
+      "postscript": "請注意，讀單字時間。 toothbrush 牙刷 time 次數 need 需要 chew 咀嚼"
+    },
+    "quiz": [
+      {
+        "question": "1. What do you need to brush your teeth?",
+        "options": [
+          "A: Knees",
+          "B: Scientists",
+          "C: Toothpaste"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "2. What causes gum disease?",
+        "options": [
+          "A: Chewing gum",
+          "B: Not brushing your teeth",
+          "C: Flossing too much"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "3. What do scientists think gum disease can do?",
+        "options": [
+          "A: Make other parts of the body hurt",
+          "B: Make chewing easy",
+          "C: Make teeth healthy"
+        ],
+        "time": null,
+        "answer": "A"
+      }
+    ]
   }
 ]
