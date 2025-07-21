@@ -1562,5 +1562,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230523-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Industry, Innovation and Infrastructure",
+      "Life on Land"
+    ],
+    "title": "Athlete Spends 500 Days Alone",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230522NK.mp3",
+    "content": [
+      {
+        "en": "There's an athlete from Spain who really likes to be alone …",
+        "tw": "西班牙有個運動員喜歡自己一個人。",
+        "time": null
+      },
+      {
+        "en": "The athlete's name is Beatriz Flamini. She's a mountain climber. Beatriz had a question. What does being alone for a long time do to someone?",
+        "tw": "她叫做 Beatriz Flamini，是一位登山家。她想知道長時間一個人會有什麼影響。",
+        "time": null
+      },
+      {
+        "en": "She spent almost a year and a half by herself! Underground! In a cave!",
+        "tw": "她獨自在地下洞穴裡面住了將近一年半！",
+        "time": null
+      },
+      {
+        "en": "Beatriz went underground in November 2021. She was all alone. But Beatriz had lots to do in the cave. She exercised. She read books, drew pictures, and … she knitted lots of woolly hats!",
+        "tw": "Beatriz 在 2021 年 11 月開始單獨住在地洞裡面，她做運動、讀書、畫畫，還織了很多毛線帽！",
+        "time": null
+      },
+      {
+        "en": "Far, far away, some scientists were watching Beatriz. They could not talk to her. And she could not talk to them. They were watching Beatriz to make sure she was safe.",
+        "tw": "科學家在外面監測 Beatriz，確保 Beatriz 的安危。但是 Beatriz 沒辦法跟他們溝通，他們也沒有辦法跟她溝通。",
+        "time": null
+      },
+      {
+        "en": "Beatriz came out of her cave last month. She had been alone for 500 days! She said she really needed a shower. She had not washed for nearly a year and a half! Eww … 500 days is a very long time. But Beatriz loved it! She said she didn't want to leave!",
+        "tw": "Beatriz 在上個月離開洞穴，她在裡面待了 500 天！她說她想好好洗個澡，因為她已經 500 天都沒洗過，也說喜歡單獨一個人的生活，不想要離開。",
+        "time": null
+      },
+      {
+        "en": "Could you be alone for 500 days?",
+        "tw": "你能一個人待500天嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這名女子獨自在洞穴裡過了一年半。",
+      "content": [
+        {
+          "text": "1. spend 花費.\nCan you imagine being alone for such a long time? 你能想像自己一人那麼久嗎?\nSpending time with yourself only? 只有跟自己消磨時間?\nI have no problem talking to myself. 自言自語對我不是問題.",
+          "time": null
+        },
+        {
+          "text": "2. question 問題，answer 回答.\nUhm, I've heard you asking and answering questions all by yourself.\n我有聽過你自問自答.\nThat's not crazy, right? 那不算瘋狂，對吧?",
+          "time": null
+        },
+        {
+          "text": "3. find 認為.\nNot if it makes sense.只要聽得懂就不算.\nReally, why do people find living alone strange?\n說真的，為什麼大家覺得獨居很奇怪?",
+          "time": null
+        },
+        {
+          "text": "4. read 閱讀.\nNot me. 我不會.\nI enjoy reading and drawing.我愛閱讀，畫畫.\nI prefer to be alone. 我喜歡獨處.",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了幾個?\nspend花費\nquestion問題\nanswer回答\nfind認為\nread閱讀"
+    },
+    "quiz": [
+      {
+        "question": "1. What is Beatriz's job?",
+        "options": [
+          "a. Mountain climber",
+          "b. Picture drawer",
+          "c. Book reader"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. In what month did Beatriz go underground?",
+        "options": [
+          "a. October",
+          "b. November",
+          "c. December"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did Beatriz need when she left the cave?",
+        "options": [
+          "a. A scientist",
+          "b. A woolly hat",
+          "c. A shower"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
