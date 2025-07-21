@@ -877,5 +877,129 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230418-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Human Rights Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies"
+    ],
+    "title": "Italy Wants to Keep its Food Safe",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230417NK.mp3",
+    "content": [
+      {
+        "en": "Ah! Italy…",
+        "tw": "啊！義大利…",
+        "time": null
+      },
+      {
+        "en": "Italy is a country. It's in Europe. It has a long history. It has a great culture.",
+        "tw": "義大利是一個國家。它位於歐洲，擁有悠久的歷史和偉大的文化。",
+        "time": null
+      },
+      {
+        "en": "The Romans lived there two thousand years ago. They made beautiful statues, temples, and other things.",
+        "tw": "義大利是歐洲一個歷史悠久的國家。羅馬人兩千年前在義大利創造了美麗的雕像還有聖殿。",
+        "time": null
+      },
+      {
+        "en": "We can see many of these things in Italy today. They are very, very old! But Italy keeps them safe. They are important to Italian people. These things are part of their heritage.",
+        "tw": "現在到義大利還能看到這些東西，它們歷史悠久，對義大利人來說意義重大，所以要好好保存。這是他們的文化遺產。",
+        "time": null
+      },
+      {
+        "en": "We all have a heritage. It is important. Heritage comes from our family. It comes from the history and culture of our family's country.",
+        "tw": "我們都有遺產，有時候是家庭遺產，有時候是國家的歷史跟文化。",
+        "time": null
+      },
+      {
+        "en": "Where is your family from? Taiwan? Then you have Taiwanese heritage.",
+        "tw": "你的家人來自哪裡？台灣嗎？那麼你就有台灣的文化遺產。",
+        "time": null
+      },
+      {
+        "en": "Italians love their heritage. They share Italy's history and culture.",
+        "tw": "義大利人熱愛他們的文化遺產。他們分享著義大利的歷史和文化。",
+        "time": null
+      },
+      {
+        "en": "It's important for countries to keep their heritage safe. So there is a list.",
+        "tw": "保存國家的文化遺產很重要，所以有人列了一張名單。",
+        "time": null
+      },
+      {
+        "en": "Some very famous things are on this list. The Taj Mahal in India and the Great Wall of China are on the list.",
+        "tw": "上面有印度的泰姬瑪哈陵，還有中國的萬里長城。",
+        "time": null
+      },
+      {
+        "en": "Now Italy wants to put something new on this list. It's not a statue or a temple… It's their food!",
+        "tw": "現在義大利想要在這個名單加上新的東西，不是雕像也不是聖殿，而是他們的食物。",
+        "time": null
+      },
+      {
+        "en": "Everyone loves Italian food! Pizza, pasta, ice cream… YUM! Italians want to keep their food safe. Then everyone can enjoy their heritage for many, many years! Today is World Heritage Day. What is your heritage?",
+        "tw": "大家都愛義大利食物！披薩、義大利麵、冰淇淋…真好吃！義大利人想要保護他們的食物，這樣大家就能長久地享受他們的文化遺產！今天是世界遺產日。你的文化遺產是什麼？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "義大利有豐富的文化遺產，還有美味的義大利菜。",
+      "content": [
+        {
+          "text": "1. culture 文化\nI love Italian food! 我愛義大利菜！\nMe too. 我也是。\nItalian people must have a happy culture. 義大利人一定有快樂的文化。\nEven their food is good for celebrations. 連他們的食物也很適合慶祝。",
+          "time": null
+        },
+        {
+          "text": "2. history 歷史\nLike pizza? 比如說披薩嗎？\nLike pizza. 比如說披薩。\nYou just have to share when eating it. 吃披薩一定要大家分享。\nI agree. 我同意。\nI also like reading about the history of the Romans. 我也喜歡讀羅馬人的歷史。",
+          "time": null
+        },
+        {
+          "text": "3. thousand 千\nTwo thousand years of history. 兩千年的歷史。\nRight, isn't that amazing? 對，很驚人吧？\nIt's almost as long as Chinese history. 幾乎跟中國歷史一樣長。",
+          "time": null
+        },
+        {
+          "text": "4. old 老的\nBoth countries are old. 兩個國家都很老。\nVery old. 非常老。",
+          "time": null
+        }
+      ],
+      "postscript": "Please read the words with me.\nculture 文化\nhistory 歷史\nthousand 千\nold 老的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does our heritage come from?",
+        "options": [
+          "A: Our family",
+          "B: Our friends",
+          "C: Our phone"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "2. Where did the ancient Romans live?",
+        "options": [
+          "A: India",
+          "B: China",
+          "C: Italy"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "3. What does Italy want to put on the list?",
+        "options": [
+          "A: A Roman statue",
+          "B: Italian history",
+          "C: Italian food"
+        ],
+        "time": null,
+        "answer": "C"
+      }
+    ]
   }
 ]
