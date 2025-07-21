@@ -524,5 +524,108 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230609-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Industry, Innovation and Infrastructure",
+      "Affordable and Clean Energy",
+      "Natural Sciences"
+    ],
+    "title": "Making Houses from Seaweed",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230608NK.mp3",
+    "content": [
+      {
+        "en": "I love the beach! Let's swim! Wait! What's all that brown stuff? It smells like bad eggs!",
+        "tw": "我喜歡海邊，我們去游泳吧！等一下，海灘上那個咖啡色的東西是甚麼？它聞起來好像臭掉的雞蛋。",
+        "time": null
+      },
+      {
+        "en": "That brown stuff is seaweed. Seaweed grows in the ocean. Ocean waves push it to the beach.",
+        "tw": "原來是海帶。海帶生長在海裡，被海浪推到沙灘上。",
+        "time": null
+      },
+      {
+        "en": "Some beaches have a lot of smelly seaweed! People don't want to go to those beaches.",
+        "tw": "有的海灘會有很多臭臭的海帶，讓人根本不想去。",
+        "time": null
+      },
+      {
+        "en": "What can we do with this seaweed? Well, we can make houses!",
+        "tw": "這些海帶可以拿來做什麼呢？可以用來蓋房子！",
+        "time": null
+      },
+      {
+        "en": "A gardener in Mexico is making houses from seaweed. His company cleans the seaweed from the beach. He mixes the seaweed with other materials.He makes the blocks. He dries them under Mexico's hot sun. Then the gardener builds houses with the blocks. He makes a little money by selling some of the houses. He gave 14 houses to people in need.",
+        "tw": "墨西哥的一個園丁用海帶來建造房屋。他的公司清理海灘上的海帶，然後把海帶混合其他的材料，製造成磚塊，用這些磚塊來蓋房子，賣掉這些房子可以賺一點錢。他也曾經把十四棟房子送給需要的人。",
+        "time": null
+      },
+      {
+        "en": "Are the seaweed blocks safe? Researchers say they are good for 120 years.",
+        "tw": "這些海帶磚安全嗎？研究人員說它們還可以維持一百二十年。",
+        "time": null
+      },
+      {
+        "en": "Lots of seaweed on beaches is a problem. Making houses from this seaweed is a great idea!",
+        "tw": "海灘上有很多海帶是個問題。用這些海帶蓋房子是個好主意！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "海帶可以用來當作房屋的建材，沒有想到吧？",
+      "content": [
+        {
+          "text": "1. make 做\nLet's have some sushi tonight. 我們今晚來吃壽司。\nI'll make them myself. 我自己來做。\nGood. Then I'll make seaweed pork rib soup. 好啊，那我做個海帶排骨湯。",
+          "time": null
+        },
+        {
+          "text": "2. smelly 有臭味\nWhy is sushi so delicious? 為什麼壽司這麼好吃？\nBecause I'm a good cook? 因為我是很棒的廚師？\nOf course. But I sometimes find sushi a little smelly.\n當然啦，不過我有時候覺得它有點臭。",
+          "time": null
+        },
+        {
+          "text": "3. egg 蛋\nBut it's just rice and some fish. 但它只是米飯加一點魚。\nAnd some eggs. 還有一些蛋。",
+          "time": null
+        },
+        {
+          "text": "4. mix with 混合\nYou like eggs, right? 你喜歡蛋，對吧？\nYeah, especially when they're mixed with onions. 對，特別是它混搭洋蔥的時候。",
+          "time": null
+        }
+      ],
+      "postscript": "請注意，來一起讀單字。\nmake 做\nsmelly 有臭味\negg 蛋\nmix with 混和"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does the gardener live?",
+        "options": [
+          "a. America",
+          "b. Canada",
+          "c. Mexico"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What's bad about seaweed on the beach?",
+        "options": [
+          "a. It's clean",
+          "b. It's smelly",
+          "c. It looks good"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many years are the seaweed blocks good?",
+        "options": [
+          "a. 20",
+          "b. 120",
+          "c. 220"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
