@@ -1553,5 +1553,93 @@
         "answer": "A"
       }
     ]
+  },
+  {
+    "id": "20230626-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Character Education",
+      "Responsible Consumption and Production",
+      "Integrative Activities"
+    ],
+    "title": "Girl Fights Plastic on Food",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230623NK.mp3",
+    "content": [
+      {
+        "en": "Hi, everyone! Today's news is about a 10-year-old girl. Her name is Maya. Maya wants to help the world. She wants less plastic pollution in the world.",
+        "tw": "今天我們要來講一個十歲的小女孩 Maya 的故事。Maya 希望可以減少地球上的塑膠汙染。",
+        "time": null
+      },
+      {
+        "en": "How is Maya helping the world? She is in a group. The group helps the environment. It wants stores to stop using plastic stickers. The plastic stickers are on fruits and vegetables.",
+        "tw": "Maya 要怎麼幫忙呢？她加入了一個環境保護團體，這個團體希望店家可以停止使用貼在蔬菜和水果上的塑膠貼紙。",
+        "time": null
+      },
+      {
+        "en": "Why do stores use these stickers? The stickers make it easy to find the price of a fruit or vegetable. Then customers can pay the right price. The stickers are small. But stores have lots and lots of fruits and vegetables! So the stickers make a lot of plastic pollution. Maya doesn't want stores to use plastic stickers. But stores don't want to stop using them.",
+        "tw": "這些貼紙讓客人可以找到蔬果的價格。雖然貼紙很小，但蔬菜水果那麼多！這些貼紙會造成塑膠污染，Maya 希望這些店家可以停止使用，但是店家不願意。",
+        "time": null
+      },
+      {
+        "en": "Can stores use paper stickers? Paper is better for the environment. But plastic is stronger. So stores like plastic stickers. Maya wants everyone to know about these plastic stickers. She wants everyone to know these small stickers make a lot of plastic pollution. Then maybe stores will stop using plastic stickers. Maya is great! She's 10. And she's trying to help the world!",
+        "tw": "商店可以使用紙質貼紙嗎？紙對環境更好，但塑膠更堅固。所以商店喜歡塑膠貼紙。Maya希望每個人都知道這些塑膠貼紙。她希望每個人都知道這些小貼紙會造成大量的塑膠污染。這樣或許商店就會停止使用塑膠貼紙。Maya太棒了！她才10歲，卻正在努力幫助世界！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "減少塑膠汙染，可以從很小的地方開始。",
+      "content": [
+        {
+          "text": "1. customer 顧客\nHow's your first day of work at 7-11? 你第一天在Seven工作如何？\nWell, a customer came up to me. 有一個顧客來找我。",
+          "time": null
+        },
+        {
+          "text": "2. help 幫忙\nAnd? 然後呢?\nShe said she wanted half a sandwich. 她說她要半個三明治。\nSo what did you say? 所以你怎麼說？\nI said I couldn't help her.我說我幫不上忙。",
+          "time": null
+        },
+        {
+          "text": "3. girl 女孩\nThe girl came back later. 這個女孩後來又回來。\nThis time she asked another worker. 這次她問了另外一個店員。\nFor half a sandwich? 要買半個三明治？\nYeah. 是的。",
+          "time": null
+        },
+        {
+          "text": "4. want 要\nHe asked her, \"Do you want the left or the right half?\"\n他問，你要左半邊還是右半邊？\nShe just left. 她就走了。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很簡單。\ncustomer 顧客\nhelp 幫忙\ngirl 女孩\nwant 要"
+    },
+    "quiz": [
+      {
+        "question": "1. What does Maya's group help?",
+        "options": [
+          "A: Stores",
+          "B: Plastic stickers",
+          "C: The environment"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "2. What is true about the plastic stickers?",
+        "options": [
+          "A: They're big",
+          "B: They're paper",
+          "C: They're small"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "3. Why do stores like the plastic stickers?",
+        "options": [
+          "A: They're strong",
+          "B: They're colorful",
+          "C: They're pretty"
+        ],
+        "time": null,
+        "answer": "A"
+      }
+    ]
   }
 ]
