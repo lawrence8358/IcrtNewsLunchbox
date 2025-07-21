@@ -1628,5 +1628,104 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230427-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Life on Land",
+      "Character Education",
+      "Life Planning Education",
+      "Reading Literacy Education"
+    ],
+    "title": "Man Gets Degree 52 Years After Beginning",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230426NK.mp3",
+    "content": [
+      {
+        "en": "Yay! I'm finished studying! I went to college. I studied for two years. I got a degree in cooking! My degree shows I can cook well.",
+        "tw": "唸了兩年，我終於從廚藝學校畢業了！",
+        "time": null
+      },
+      {
+        "en": "Some people go to college or university. They want a degree. A degree shows they studied something. Some degrees take two years. Some take four or five years. But guess what? One man's degree took fifty-two years! That's a very long time!",
+        "tw": "有一些人去讀大學，想要拿學位。學位是他們學習的證明，有一些學位需要兩年時間，有些要四到五年。但有一個人花了五十二年！",
+        "time": null
+      },
+      {
+        "en": "Nick wanted a Ph.D. A Ph.D is one of the highest degrees. Ph.D. students think of new ideas. They study their new ideas. Nick studied his math idea. It was 1970. He was 23 years old.",
+        "tw": "Nick 想要讀博士，是最高的學位。博士生需要構思新點子，並且做研究。Nick 在1970 年，也就是他 23 歲的時候，開始攻讀數學博士學位。",
+        "time": null
+      },
+      {
+        "en": "He studied for five years. But… he did not finish his degree! Nick did not study for a long time. His idea was big. He wanted to think about it. He did other things. He worked. He had a family.",
+        "tw": "過了五年，他仍然沒有獲得博士學位，因為他的點子太龐大了，需要好好思考。所以他先去工作，也有了自己的家庭。",
+        "time": null
+      },
+      {
+        "en": "Then he went to university again. He was 69 years old! Some people stop studying. They do not study again. But Nick did. Nick finished studying his math idea. He got his Ph.D. He was 75 years old!",
+        "tw": "等到他重回大學，已經 69 歲了! 他繼續鑽研數學， 75 歲那年終於完成了研究，得到了博士學位！",
+        "time": null
+      },
+      {
+        "en": "Nick shows us we can study and learn at any time in our lives!",
+        "tw": "尼克向我們展示了，我們可以在人生的任何時候學習和成長！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "活到老學到老，尼克並沒有因為年齡而限制自己。",
+      "content": [
+        {
+          "text": "1. study 讀書\nJoin our party Friday night, Paz. 來參加我們星期五晚上的派對吧。\nThere will be barbecue and music.會有烤肉，還有音樂。\nOh, I wish I could! 我真希望我能去！\nBut I need to study. 但是我要讀書。",
+          "time": null
+        },
+        {
+          "text": "2. year 年\nYou've already studied for two years! 你已經讀了兩年了。\nI know, and I still have two more years to go. 我知道，還要再讀兩年呢。",
+          "time": null
+        },
+        {
+          "text": "3. get 獲得\nBefore getting your doctorate degree? 之後就拿到博士學位嗎？\nYeah. It feels like a long time. 對，感覺還要好久。",
+          "time": null
+        },
+        {
+          "text": "4. finish 完成\nBut after you finish, you can get a good job. 但是完成之後，就可以找到好工作。\nIf I am lucky. 要是我運氣好的話。",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字簡單好用。\nstudy 讀書\nyear 年\nget 獲得\nfinish 完成"
+    },
+    "quiz": [
+      {
+        "question": "1. What did Nick study?",
+        "options": [
+          "a. English",
+          "b. Math",
+          "c. Chinese"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How long did it take Nick to get a degree?",
+        "options": [
+          "a. 5 years",
+          "b. 50 years",
+          "c. 52 years"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How old was Nick when he got his degree?",
+        "options": [
+          "a. 23 years old",
+          "b. 69 years old",
+          "c. 75 years old"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
