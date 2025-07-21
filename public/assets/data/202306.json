@@ -1845,5 +1845,104 @@
         "answer": "B"
       }
     ]
+  },
+  {
+    "id": "20230629-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Life on Land",
+      "Good Health and Well-Being",
+      "Technology",
+      "Natural Sciences"
+    ],
+    "title": "Hi-tech Knitting Stops Mosquitoes",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230628NK.mp3",
+    "content": [
+      {
+        "en": "Taiwan is a tropical country. Tropical countries are where the sun is the hottest. Southeast Asia is tropical too.",
+        "tw": "台灣跟東南亞都是熱帶地區。熱帶國家太陽又大又熱，還很潮濕。潮濕的天氣很悶。",
+        "time": null
+      },
+      {
+        "en": "Tropical countries are perfect for mosquitoes. Mosquitoes love wet places! They live on water. They love hot, humid weather too. It makes people sweat. Mosquitoes like sweaty people. They smell very tasty to mosquitoes!",
+        "tw": "熱帶國家是蚊子生活的完美環境。蚊子喜歡又熱又潮濕的天氣，這種天氣會讓人流汗，蚊子喜歡流汗的人，對牠們來說這是美味的氣味！",
+        "time": null
+      },
+      {
+        "en": "Mosquitoes bite people all day. They drink lots of blood. Mosquitoes carry many diseases. People can get very sick from a mosquito bite.",
+        "tw": "蚊子整天叮人吸血，還會帶來傳染病，被蚊子咬到有可能會生重病！",
+        "time": null
+      },
+      {
+        "en": "Scientists want to stop mosquitoes from making people sick. They made a new kind of fabric. Clothes are made of fabric. Mosquitoes can bite through most clothes. But they can't bite through this fabric!",
+        "tw": "科學家想要阻止蚊子傳染疾病。蚊子可以隔著大部分的衣服叮人，所以他們製造了一種特殊布料，讓蚊子沒有辦法叮！",
+        "time": null
+      },
+      {
+        "en": "This new fabric is made with a hi-tech knitting machine. The machine knits the fabric very tightly! A mosquito's very thin mouth can't get through!",
+        "tw": "他們用高科技的紡織機做了這種非常細密的布料，讓蚊子細長的口器沒有辦法穿過去。",
+        "time": null
+      },
+      {
+        "en": "This new fabric is perfect for tropical countries. It's light and comfortable in hot weather. And it stops mosquito bites! Not as many people will get sick! Hooray for science!",
+        "tw": "這種新布料非常適合熱帶國家。它在炎熱的天氣裡輕盈舒適。而且它能阻止蚊子叮咬！這樣就不會有那麼多人會生病了！科學萬歲！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家想出了好辦法對付愛吸血蚊子。",
+      "content": [
+        {
+          "text": "1. humid 潮濕的\nCome over tonight for my barbecue.\nOn a hot and humid day like this?\nYeah, why not?",
+          "time": null
+        },
+        {
+          "text": "2. bite 叮咬\nThere'll be lots of mosquitos!\nI'm not afraid of them.\nOf course you're not. They never bite you!",
+          "time": null
+        },
+        {
+          "text": "3. tasty 美味的\nYou mean they'll bite you?\nOh yeah, apparently I'm very tasty.",
+          "time": null
+        },
+        {
+          "text": "4. comfortable 舒服的\nOkay, no barbecue.\nA light and comfortable dinner inside the house.\nHurray!",
+          "time": null
+        }
+      ],
+      "postscript": "你常被蚊子叮嗎? 來讀單字。\nhumid 潮濕的\nbite 叮咬\ntasty 美味的\ncomfortable 舒服的"
+    },
+    "quiz": [
+      {
+        "question": "1. What is the weather in tropical countries?",
+        "options": [
+          "a. Sunny and cold",
+          "b. Sunny and wet",
+          "c. Cold and wet"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do mosquitoes drink?",
+        "options": [
+          "a. Water",
+          "b. Blood",
+          "c. Sweat"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What are clothes made of?",
+        "options": [
+          "a. Plants",
+          "b. Animals",
+          "c. Fabric"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
