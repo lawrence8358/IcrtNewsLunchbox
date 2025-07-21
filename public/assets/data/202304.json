@@ -207,5 +207,109 @@
         "answer": "C"
       }
     ]
+  },
+  {
+    "id": "20230410-01",
+    "type": "國小",
+    "tag": [
+      "International Education",
+      "Multicultural Education",
+      "Life Education",
+      "Family Education",
+      "Life on Land"
+    ],
+    "title": "Siblings Meet After 50 Years",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230407NK.mp3",
+    "content": [
+      {
+        "en": "We celebrate mothers on Mother's Day, and fathers on Father's Day. So, we celebrate brothers and sisters on Siblings Day. Siblings Day is on April 10th, which is today!",
+        "tw": "你有兄弟姊妹嗎？我們會慶祝父親節跟母親節，今天，我們要慶祝兄弟姐妹節。",
+        "time": null
+      },
+      {
+        "en": "Most people know their siblings. But some people don't!",
+        "tw": "我們都知道自己的兄弟姊妹是誰，但有人可能不知道喔。",
+        "time": null
+      },
+      {
+        "en": "Dacina and Traian are a sister and brother. They are from Romania. They did not have a mother or father. One family took Dacina. She was their new baby daughter. Another family took Traian. He was their new baby son. Dacina did not know Traian, and Traian did not know Dacina.",
+        "tw": "Dacina 跟 Traian 是一對羅馬尼亞的姊弟，他們是孤兒，被不同的家庭領養，所以不認識彼此。",
+        "time": null
+      },
+      {
+        "en": "That was fifty years ago. This year, Dacina took a DNA test. Traian took a DNA test too. Their tests said \"You have a sibling\"!",
+        "tw": "50 多年後，他們兩個人剛好做了一次DNA測試，發現自己原來有兄弟姊妹。",
+        "time": null
+      },
+      {
+        "en": "Traian wrote Dacina a message. It said, \"I think you're my sister!\"",
+        "tw": "Traian 傳訊息給 Dacina 說：「你好像是我姊姊！」",
+        "time": null
+      },
+      {
+        "en": "They are excited. Some things are the same! Dacina lives in Canada. Traian lives in Canada too! Dacina has a son. Traian has a son too! Dacina's son's name is Victor. And… Traian's son's name is Victor too!",
+        "tw": "他們之間有好多巧合，兩個人都在加拿大，兩個人也各有一個兒子，而且兩個兒子都叫做 Victor！",
+        "time": null
+      },
+      {
+        "en": "They are happy. Dacina has a new brother. Traian has a new sister. They are siblings! Happy Siblings Day!",
+        "tw": "他們很開心。Dacina 有了新弟弟，Traian 有了新妹妹。他們是兄弟姊妹！兄弟姊妹節快樂！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "有的人因為從小就分開，並不認識自己的兄弟姊妹。",
+      "content": [
+        {
+          "text": "1. family 家庭\\nDo you come from a big family, Jane? 你來自大家庭嗎？\\nYes, I think so. My mom had four children. 我想是，我媽媽有四個孩子。",
+          "time": null
+        },
+        {
+          "text": "2. sister 姊妹\\nMy older sister and brother went to the U.S. years ago.\\n我姊姊和哥哥很多年前就去了美國。\\nSo you don't know them well. 所以你跟他們不太熟。\\nIndeed I don't. 確實不熟。",
+          "time": null
+        },
+        {
+          "text": "3. father 父親\\nCome to think of it, I didn't know my father well either.\\n仔細想來，我跟我爸爸也不熟。\\nEven though you lived together? 即使你們住在一起？\\nEven though I had lived with him for 25 years. 即使我跟他住了25年。",
+          "time": null
+        },
+        {
+          "text": "4. say 說\\nI have to say some fathers are hard to get close to.\\n我必須說有的爸爸很難親近。\\nMine was like that. 我爸就是那樣。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很常用。\\nfamily 家庭\\nsister 姊妹\\nfather 父親\\nsay 說"
+    },
+    "quiz": [
+      {
+        "question": "1. What are siblings?",
+        "options": [
+          "A: Parents and children",
+          "B: Mothers and fathers",
+          "C: Brothers and sisters"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "2. Where do Dacina and Traian live now?",
+        "options": [
+          "A: Romania",
+          "B: Canada",
+          "C: Colombia"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "3. How do Dacina and Traian know they are siblings?",
+        "options": [
+          "A: They took a DNA test",
+          "B: They are from Romania",
+          "C: Their sons told them"
+        ],
+        "time": null,
+        "answer": "A"
+      }
+    ]
   }
 ]
