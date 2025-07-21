@@ -1763,5 +1763,101 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230525-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education",
+      "International Education",
+      "Life on Land",
+      "Responsible Consumption and Production",
+      "Sustainable Cities and Communities",
+      "Industry, Innovation and Infrastructure",
+      "Natural Sciences"
+    ],
+    "title": "Town Builds Houses Under Big Rock",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230524NK.mp3",
+    "content": [
+      {
+        "en": "Do you like to look at buildings? There are many interesting buildings in the world. Taipei 101 is interesting. It is so tall! One small town in Spain has some very cool buildings. This small town is called Setenil de las Bodegas. It is home to 3000 people. They have houses built in caves! And some houses have been built under very, very big rocks. Why did people build them?",
+        "tw": "西班牙有一個有三千個人的小鎮，那裏的建築很特別，鎮上有一些房子蓋在洞穴裡面，而且有一些房子蓋在很大很大的石頭下面。為甚麼他們要這麼做呢？",
+        "time": null
+      },
+      {
+        "en": "First, the houses did not take much money to build. Rock is a big part of each house, it's the walls and the roof! People didn't need to buy much wood and other material. They made the caves bigger. They made some walls for new rooms.",
+        "tw": "首先，這種房子的屋頂跟牆壁都已經是石頭，不用買太多的木材或其他的材料，所以很便宜，不需要花太多的錢。如果要增加房間，只要建隔間牆。",
+        "time": null
+      },
+      {
+        "en": "Second, rock makes the houses comfortable. Comfortable?! Yes! It makes the houses cool in the summer… and warm in the winter.",
+        "tw": "第二，石頭讓房子冬暖夏涼，住起來很舒服！",
+        "time": null
+      },
+      {
+        "en": "Third, rock makes the houses safe. Rock doesn't catch on fire. It is also very strong. The houses won't fall down in an earthquake.",
+        "tw": "第三，石頭不會著火，地震的時候也不會倒塌，石頭房很安全！",
+        "time": null
+      },
+      {
+        "en": "What do you think? These houses don't cost a lot of money to build. They're not too hot. They're not too cold. They're safe. And they're very interesting! Do you want to live in a house built in a cave?",
+        "tw": "你覺得呢？這些房子建造費用不高。它們不怎麼熱。它們不怎麼冷。它們很安全。而且它們非常有趣！你想要住在洞穴建造的房子裡嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "西班牙這些石頭房屋有各種優點，而且很便宜呢。",
+      "content": [
+        {
+          "text": "1. rock 石頭 We went on an outing yesterday and walked through this lovely rock tunnel. 我們昨天去郊遊，走過一條可愛的石頭隧道。 Rock tunnel? Where? 石頭隧道? 在哪裡？",
+          "time": null
+        },
+        {
+          "text": "2. roof 屋頂 It's in Rui-fang, New Taipei. 在新北市的瑞芳。 It's an old railway tunnel. 它是個舊的鐵路隧道。 The roof and walls are all stone. 屋頂跟牆壁都是石頭。",
+          "time": null
+        },
+        {
+          "text": "3. warm 溫暖的 They give such a warm and cozy feeling! 它們有種很溫暖舒服的感覺！ Is it long? 很長嗎？ Yeah, about 3,000 meters long. 很長，大約三千公尺。",
+          "time": null
+        },
+        {
+          "text": "4. cool 涼爽的 It was hot under the sun, but cool inside the tunnel. 外面太陽底下很熱，但是隧道裡面很涼快。 Sounds really nice! 聽起來真不錯！",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字？ rock 石頭 roof 屋頂 warm 溫暖的 cool 涼爽的"
+    },
+    "quiz": [
+      {
+        "question": "1. Which planet has the most moons?",
+        "options": [
+          "a. Saturn",
+          "b. The largest planet",
+          "c. Earth"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What is true about the houses in the summer?",
+        "options": [
+          "a. They're hot",
+          "b. They're cool",
+          "c. They're not comfortable"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What happens to the houses in an earthquake?",
+        "options": [
+          "a. They fall down",
+          "b. They are safe",
+          "c. They catch on fire"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
