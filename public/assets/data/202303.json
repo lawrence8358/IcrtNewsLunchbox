@@ -1735,5 +1735,114 @@
         "answer": "B"
       }
     ]
+  },
+  {
+    "id": "20230329-01",
+    "type": "國小",
+    "tag": [
+      "International Education",
+      "Technology Education",
+      "Life on Land",
+      "Industry, Innovation and Infrastructure",
+      "Natural Sciences"
+    ],
+    "title": "Laser Can Control Lightning",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230328NK.mp3",
+    "content": [
+      {
+        "en": "Have you ever seen a lightning storm? It's weather that can be very scary.",
+        "tw": "你看過雷暴嗎？這種天氣感覺很恐怖。",
+        "time": null
+      },
+      {
+        "en": "First, you see dark clouds in the sky and lots of rain. Then the clouds make loud noises. This noise is thunder.",
+        "tw": "你會先看到烏雲密布、然後下起大雨，雲裡面還會有轟隆隆的雷聲。",
+        "time": null
+      },
+      {
+        "en": "Before you hear the thunder, you see a very fast white light. It comes down from the sky to the earth. This light is lightning.",
+        "tw": "在聽到雷聲之前，你會先看到閃電。",
+        "time": null
+      },
+      {
+        "en": "Lightning is electricity. In your home, you need electricity. It is safe. As lightning, it's dangerous. It can hit trees, buildings, or even people.",
+        "tw": "閃電是一種電，就像家裡用的電，不過閃電很危險，可能會打到樹、房屋，或是人。",
+        "time": null
+      },
+      {
+        "en": "Is there a way to control lightning? We don't want it to hurt anybody. Scientists in Europe found how to control it. They use lasers!",
+        "tw": "歐洲的科學家找到了一種可以控制閃電的方法，那就是雷射！",
+        "time": null
+      },
+      {
+        "en": "They went to a mountain in Switzerland. When a storm came, the scientists shot a laser into the clouds.",
+        "tw": "他們跑到瑞士的山上，暴風雨來的時候，他們對著烏雲發射雷射。",
+        "time": null
+      },
+      {
+        "en": "The lightning did not hit any buildings or people. It followed the laser.",
+        "tw": "結果閃電跟著雷射跑，沒有打到任何房屋或是人。",
+        "time": null
+      },
+      {
+        "en": "The scientists are happy. Their test went so well! Lasers can control lightning. They hope lasers will make the world safer. In the future, we won't fear dangerous lightning. When a lightning storm comes, we can use a laser to control lightning!",
+        "tw": "科學家們很高興。他們的測試進行得非常順利！雷射可以控制閃電。他們希望雷射能讓世界更安全。未來，我們將不再害怕危險的閃電。當雷暴來臨時，我們可以用雷射來控制閃電！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家用雷射做實驗，引導閃電避開地面。",
+      "content": [
+        {
+          "text": "1. sky 天空。Where are we going this weekend? 我們這周末去哪裡？To the beach, to swim under the blue sky. 去海灘，在藍天下游泳。",
+          "time": null
+        },
+        {
+          "text": "2. weather 天氣。Are you sure we'll get a blue sky? 你確定會有藍天嗎？That's what the weatherman said. 氣象員是這麼說的。Sunny skies and high temperatures. 艷陽天，高溫。",
+          "time": null
+        },
+        {
+          "text": "3. cloud 雲層。We're getting nothing but rain and clouds, Jane! 什麼都沒有，只有雨跟雲！And thunder! 還有打雷！",
+          "time": null
+        },
+        {
+          "text": "4. safe 安全的。At least we're safe here in this beachside cafe. 至少我們在海邊咖啡館很安全。But what about our swim? 那我們的游泳呢？The storm should pass in no time. 風暴很快就過去的。",
+          "time": null
+        }
+      ],
+      "postscript": "下次閃電時你要注意看看喔！sky 天空 weather 天氣 cloud 雲層 safe 安全的"
+    },
+    "quiz": [
+      {
+        "question": "1. What is the loud noise in a storm?",
+        "options": [
+          "a. Thor",
+          "b. Thunder",
+          "c. Thursday"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What will scientists use to control lightning?",
+        "options": [
+          "a. A laser",
+          "b. A fan",
+          "c. A tree"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Where did scientists try to control lightning?",
+        "options": [
+          "a. On a mountain",
+          "b. In a forest",
+          "c. On the ocean"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
