@@ -1455,5 +1455,112 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230522-01",
+    "type": "國小",
+    "tag": [
+      "Character Education",
+      "Life Education",
+      "Multicultural Education",
+      "International Education",
+      "Good Health and Well-Being",
+      "Industry, Innovation and Infrastructure",
+      "Decent Work and Economic Growth",
+      "Arts"
+    ],
+    "title": "From Old Prison to Comics Museum",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230519NK.mp3",
+    "content": [
+      {
+        "en": "People all over the world like comics. In the USA, they like superhero comics. Some of these comics are now big Hollywood movies!",
+        "tw": "你喜歡看漫畫嗎？美國人喜歡超級英雄漫畫，有一些漫畫還被改編成電影。",
+        "time": null
+      },
+      {
+        "en": "In Europe they like comics too. Belgium has streets named after famous comic artists. Art schools in Belgium even teach comic art!",
+        "tw": "歐洲人也喜歡漫畫，比利時還有一些街道以漫畫家命名，藝術學校還會教畫漫畫！",
+        "time": null
+      },
+      {
+        "en": "The most famous comics in Asia are from Japan and Korea. But Taiwanese artists have been making comics for 100 years.",
+        "tw": "亞洲最有名的漫畫是日本跟韓國漫畫，但是台灣的漫畫已經有超過100年的歷史。",
+        "time": null
+      },
+      {
+        "en": "Taiwan's government wants people all over the world to like Taiwanese comics too. So they're making a national comics museum!",
+        "tw": "政府希望大家認識台灣漫畫，所以設立了台灣漫畫博物館！",
+        "time": null
+      },
+      {
+        "en": "The museum will be in a big arts space in Taichung. They do lots of art there. They do painting and tea-making. They do martial arts too, like kendo!",
+        "tw": "這個博物館設在台中的一個藝文空間，還提供茶道、劍道等活動！",
+        "time": null
+      },
+      {
+        "en": "The Taichung arts space is in an old Japanese building. Long ago, it was a prison! People were sent there for breaking the law. Now it's a happy place. People learn how to draw and paint there!",
+        "tw": "這個藝文空間是以前的日式建築，曾經是一座監獄，但現在是個有趣的地方。",
+        "time": null
+      },
+      {
+        "en": "Taiwan's national comics museum will open soon in Taichung. I can't wait!",
+        "tw": "台灣漫畫博物館即將在台中開幕。我等不及了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "漫畫博物館讓人可以進一步認識台灣的漫畫作品。",
+      "content": [
+        {
+          "text": "1. comic book 漫畫書。\nReading Japanese manga, Paz? 在看日本漫畫嗎？\nYeah, this one is really good. 這本真的很好看。\nBetter than the comic book you read yesterday? 比你昨天看的漫畫書還好？",
+          "time": null
+        },
+        {
+          "text": "2. artist 藝術家\nThey are very different. 他們很不一樣。\nBut both artists draw very well. 但是兩個藝術家都畫得很好。",
+          "time": null
+        },
+        {
+          "text": "3. art 藝術\nOh, I've never thought about it as art. 我從沒想過漫畫是藝術。\nI just read the story. 我只讀故事。\nYou should. Don't you find the drawings attractive?\n你應該想想。你不覺得這些圖畫很吸引人？",
+          "time": null
+        },
+        {
+          "text": "4. draw 畫圖\nI don't draw. That's probably why. 我不畫圖。這也許是原因。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡漫畫嗎? 我們來讀今天的單字。\ncomic book 漫畫書\nartist 藝術家\nart 藝術\ndraw 畫圖"
+    },
+    "quiz": [
+      {
+        "question": "1. Which country teaches comic art in art schools?",
+        "options": [
+          "a. Japan",
+          "b. The USA",
+          "c. Belgium"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How long have Taiwanese artists been making comics?",
+        "options": [
+          "a. 100 years",
+          "b. 100 months",
+          "c. 100 days"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What are people sent to prison for?",
+        "options": [
+          "a. Learning to draw",
+          "b. Breaking the law",
+          "c. Making tea"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
