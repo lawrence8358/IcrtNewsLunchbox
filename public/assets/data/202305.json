@@ -511,5 +511,112 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230509-01",
+    "type": "國小",
+    "tag": [
+      "Information Education",
+      "Safety Education",
+      "Life Education",
+      "Character Education",
+      "Life on Land",
+      "Good Health and Well-Being",
+      "Integrative Activities",
+      "Technology"
+    ],
+    "title": "Don't Look at Your Cell Phone So Much!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230508NK.mp3",
+    "content": [
+      {
+        "en": "Do you like cell phones? I think they're great. We can use them anywhere! We can do many things with cell phones. We can call people. We can text our friends. We can take pictures.",
+        "tw": "手機可以幫我們打電話，傳簡訊，還有拍照。",
+        "time": null
+      },
+      {
+        "en": "The first cell phone was super big. It was heavy. It weighed one kilogram! People could only talk for 25 minutes. That is very short!",
+        "tw": "史上第一台手機有一公斤重，超級大又超級重！而且只能講25分鐘的電話。",
+        "time": null
+      },
+      {
+        "en": "Martin Cooper is called the 'father of the cell phone.' He made the world's first cell phone. He made it in 1973. That was 50 years ago!",
+        "tw": "Martin Cooper 在 1973 年，也就是 50 年前，發明了世界上第一支手機，所以又被叫做「手機之父」。",
+        "time": null
+      },
+      {
+        "en": "Mr Cooper's cell phone was about 5,000 US dollars. That's over 150,000 NT dollars.",
+        "tw": "當時他製造的手機要賣5000美元左右，超過15萬台幣！",
+        "time": null
+      },
+      {
+        "en": "Mr. Cooper is 94 years old now. He has a brand new cell phone. He is happy that people use cell phones. Mr. Cooper likes them. He uses lots of APPS! But he thinks people look at their cell phones way too much!",
+        "tw": "Cooper 今年已經94歲了，他有一支新的手機，他很開心大家都在用手機，但他覺得大家用太久了！",
+        "time": null
+      },
+      {
+        "en": "Some people eat dinner and look at their cell phones. They cross the street and look at their cell phones. That isn't good. A car can hit them.",
+        "tw": "有些人連吃飯跟過馬路的時候都在看手機，這樣很危險。",
+        "time": null
+      },
+      {
+        "en": "What do you think? Do people look at their cell phones too much?",
+        "tw": "你覺得呢？人們看手機的時間是不是太多了？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "手機已經有很多年的歷史，現代手機跟以前的大不一樣。",
+      "content": [
+        {
+          "text": "1. brand new 嶄新的\nCome see my brand new bike. 你來看我全新的腳踏車。\nWow, it looks great! 哇，看起來很棒呢！",
+          "time": null
+        },
+        {
+          "text": "2. pay for 付錢\nHow much did you pay for it? 你花了多少錢買？\nAbout 40,000 NT. 大約四萬塊。\nThat's a lot of money for a bike. 以腳踏車來說很貴。\nI know, but I'll make the most out of it. 我知道，不過我會儘量多用。",
+          "time": null
+        },
+        {
+          "text": "3. anywhere 任何地方\nI'll take it anywhere I go. 我不管去哪裡都會騎。\nAnywhere? It's quite heavy! 不管去哪裡? 它很重呢！\nBut it's super easy to ride. 不過超好騎的。",
+          "time": null
+        },
+        {
+          "text": "4. think 想\nI'm thinking of riding it up Yangmingshan. 我想騎上陽明山。\nI'll go with you. In my car. 我跟你去。坐我的車去。",
+          "time": null
+        }
+      ],
+      "postscript": "我們來讀單字。\nbrand new 嶄新的\npay for 付錢\nanywhere 任何地方\nthink 想"
+    },
+    "quiz": [
+      {
+        "question": "1. What is Mr. Cooper called?",
+        "options": [
+          "a. Brother of the cell phone",
+          "b. Father of the cell phone",
+          "c. Uncle of the cell phone"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many kilograms was the first cell phone?",
+        "options": [
+          "a. 1",
+          "b. 25",
+          "c. 50"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did Mr. Cooper say about cell phones?",
+        "options": [
+          "a. People look at them too much",
+          "b. He doesn't have one",
+          "c. People like them"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
