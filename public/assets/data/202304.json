@@ -1436,5 +1436,104 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230425-01",
+    "type": "國小",
+    "tag": [
+      "Technology Education",
+      "Life on Land",
+      "Industry, Innovation and Infrastructure",
+      "Good Health and Well-Being",
+      "Technology"
+    ],
+    "title": "Scientists Test New 'Smart Bandages'",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230424NK.mp3",
+    "content": [
+      {
+        "en": "Ouch! A cut! It's so small… It's tiny! But this tiny wound hurts so much! I need a bandage.",
+        "tw": "我割傷了！傷口好小，可是好痛！我需要一條 OK 繃。",
+        "time": null
+      },
+      {
+        "en": "Do you know about the new \"smart bandages\"? The smart bandages are stretchy. These stretchy bandages are easy to use. You can put one on any wound.",
+        "tw": "你有聽過「智慧繃帶」嗎？這種繃帶可以拉很長，包覆在各種傷口上。",
+        "time": null
+      },
+      {
+        "en": "These smart bandages have tiny computers. These tiny computers look for heat and germs. They look for changes too. Good changes mean the wound is healing. Bad changes mean it needs more help. The tiny computers send this information to a big computer.",
+        "tw": "這種繃帶具備細小的電腦，偵測傷口是否發熱、有細菌或是有變化。好的變化代表傷口正在癒合，如果變壞，代表需要更多治療。小電腦會把資料傳送到大電腦上。",
+        "time": null
+      },
+      {
+        "en": "Tiny bits of electricity help wounds heal faster. The tiny computers can give wounds tiny bits of electricity! Medicine is also in these smart bandages. Does a wound need more help? A smart bandage can put medicine on it!",
+        "tw": "小電腦還會釋放微量電流，讓傷口更快癒合，甚至可以幫傷口上藥！",
+        "time": null
+      },
+      {
+        "en": "My tiny wound doesn't need a smart bandage. It can heal quickly with no help. These smart bandages are for big wounds. Some people get big wounds from fires. These bandages can help big wounds a lot.",
+        "tw": "我的傷口很小，不用智慧繃帶，這種智慧繃帶是給燒傷的那種大傷口用的。",
+        "time": null
+      },
+      {
+        "en": "Scientists are testing these smart bandages now. The bandages are not ready yet. Many people have big wounds. These are the people who need smart bandages. The smart bandages are pretty cool. But I don't want to need one!",
+        "tw": "科學家正在測試這些智慧繃帶。這些繃帶還沒有準備好。許多人都有大傷口。這些人需要智慧繃帶。智慧繃帶很酷。但我不想用到！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科技進步，簡單的繃帶現在能做許多事。",
+      "content": [
+        {
+          "text": "1. hurt 痛 Hey, what happened to you? 發生了什麼事？ It must hurt a lot! 一定很痛吧！ You're telling me. 還用你說。",
+          "time": null
+        },
+        {
+          "text": "2. look for 尋找 How did you get hurt? 你是怎麼受傷的？ I fell down the stairs looking for my glasses. 我找眼鏡時摔下樓梯。 You really need your glasses to see the stairs. 你真的需要眼鏡來看樓梯。 I know that! 我也知道！",
+          "time": null
+        },
+        {
+          "text": "3. wound 傷口 Okay, okay, but you should cover the wound. 好啦，不過你應該把傷口蓋起來。 No, I'm fine. 不用，我很好。 Here, let me put this bandage on it. 來吧，我把這個OK繃貼上去。",
+          "time": null
+        },
+        {
+          "text": "4. heal 癒合 Will it help me heal? 它會讓我癒合嗎？ That's what the ad said. 廣告是這麼說的。",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學到哪些單字？ hurt 痛 look for 尋找 wound 傷口 heal 癒合"
+    },
+    "quiz": [
+      {
+        "question": "1. Which do the smart bandage's tiny computers look for?",
+        "options": [
+          "A: Heat and germs",
+          "B: Scientists",
+          "C: Some medicine"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What can the smart bandage give a wound?",
+        "options": [
+          "A: Fire",
+          "B: Tiny bits of electricity",
+          "C: Tiny computers"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What kind of wounds are the smart bandages for?",
+        "options": [
+          "A: Tiny wounds",
+          "B: Big wounds",
+          "C: Smart wounds"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
