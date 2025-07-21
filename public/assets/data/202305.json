@@ -618,5 +618,103 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230510-01",
+    "type": "國小",
+    "tag": [
+      "Sustainable Cities and Communities",
+      "Climate Action",
+      "Responsible Consumption and Production",
+      "Environmental Education"
+    ],
+    "title": "No More Plastic Cups at New Taipei City Drink Shops",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230509NK.mp3",
+    "content": [
+      {
+        "en": "Ah, that tastes good! Hey! Do you like soda? How about some cold milk tea? Drinks are great on a hot day!",
+        "tw": "你們喜歡喝甚麼飲料呢？汽水嗎？還是冰奶茶？",
+        "time": null
+      },
+      {
+        "en": "But there is a problem. Many drink shops use plastic cups. People use these plastic cups just once. Then they throw the cups away. Plastic is very bad for the earth. Lots of plastic gets into the ocean. It hurts the animals there.",
+        "tw": "很多飲料店都用塑膠杯，用一次之後就會丟掉。塑膠對環境有害，流進海裡也會傷害到海洋動物。",
+        "time": null
+      },
+      {
+        "en": "That's why New Taipei City has a new rule. It started on May 1st. Drink shops can't sell drinks in plastic cups! This is a big change! There are 2,700 drink shops in New Taipei City. Now 368 million plastic cups won't be used there every year!",
+        "tw": "所以，新北市政府規定從五月一日開始，飲料店禁止用塑膠杯。新北市有 2700 間飲料店，這樣每一年會少用三億六千多萬個塑膠杯！",
+        "time": null
+      },
+      {
+        "en": "New Taipei City is the second city in Taiwan to have this rule. Which city was the first? Taipei. Yes, Taipei was the first to ban selling drinks in plastic cups.",
+        "tw": "新北市是第二個推行這個規定的城市，第一個是台北市。",
+        "time": null
+      },
+      {
+        "en": "What do drink shops in New Taipei City and Taipei use now? They use paper cups. Paper is better for the earth.",
+        "tw": "現在新北跟台北的飲料店都用紙杯，紙杯對環境的危害比較少。",
+        "time": null
+      },
+      {
+        "en": "I'm happy to drink from paper cups. I hope you are too!",
+        "tw": "我很樂意使用紙杯喝飲料。希望你也是！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "為了環保，許多飲料店都已經停用塑膠杯。",
+      "content": [
+        {
+          "text": "1. drink shop 飲料店。 Time to go, Paz. 該走了。 Okay, let me get my water bottle.好，我來拿水壺。 Why bother? 幹嘛那麼麻煩? There are drink shops everywhere.到處都有飲料店。",
+          "time": null
+        },
+        {
+          "text": "2. better than 比別的好。 No, I prefer water. 不，我比較喜歡水。 Water tastes better than most soft drinks.水比大部分飲料好喝。 Does it? I like tea.會嗎? 我喜歡茶。",
+          "time": null
+        },
+        {
+          "text": "3. first 第一。 First, some tea drinks have too much sugar. 首先，有些茶放太多糖。 Second, it now costs some 50 NT a cup. 第二，現在一杯茶要五十塊。",
+          "time": null
+        },
+        {
+          "text": "4. cup 杯子。 That's not a lot. 那沒多少。 No, but you will save one cup. 對，但你省下一個杯子。 That's just one in a billion. 那只是十億個裡面的一個。 You're hopeless, Jane. 你沒救了。",
+          "time": null
+        }
+      ],
+      "postscript": "你常喝飲料嗎? 來讀單字。 drink shop飲料店 better than比別的好 first第一 cup杯子"
+    },
+    "quiz": [
+      {
+        "question": "What kind of cups are very bad for the earth?",
+        "options": [
+          "a. Paper cups",
+          "b. Glass cups",
+          "c. Plastic cups"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "How many drink shops are in New Taipei City?",
+        "options": [
+          "a. 368",
+          "b. 2,700",
+          "c. 368 million"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "What will drink shops in New Taipei use now?",
+        "options": [
+          "a. Plastic cups",
+          "b. Glass cups",
+          "c. Paper cups"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
