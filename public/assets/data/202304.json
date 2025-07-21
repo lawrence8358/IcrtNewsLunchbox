@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20230406-01",
     "type": "國小",
@@ -100,6 +100,111 @@
         ],
         "time": null,
         "answer": "b"
+      }
+    ]
+  },
+  {
+    "id": "20230407-01",
+    "type": "國小",
+    "tag": [
+      "International Education",
+      "Outdoor Education",
+      "Technology Education",
+      "Life on Land",
+      "Industry, Innovation and Infrastructure",
+      "Technology"
+    ],
+    "title": "Balloon Will Take People High Above Earth",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230406NK.mp3",
+    "content": [
+      {
+        "en": "Hey, students! Do you want to fly in a rocket? You can do that!",
+        "tw": "你們想要搭火箭嗎？",
+        "time": null
+      },
+      {
+        "en": "There is a new way to fly high. A Japanese company is making a balloon. The balloon can take people very high.",
+        "tw": "有一家日本公司製造了可以飛很高的氣球。",
+        "time": null
+      },
+      {
+        "en": "Some rockets go up to 400 kilometers. The balloon doesn't go up 400 kilometers. Space is 100 kilometers up, but the balloon doesn't go up 100 kilometers.",
+        "tw": "不過這顆氣球飛不到那麼高。",
+        "time": null
+      },
+      {
+        "en": "So… how high can the balloon fly? It can fly up to 22 kilometers. That's higher than jets fly. Twenty-two kilometers up… People can see the Earth!",
+        "tw": "它只能飛到 22 公里，但這樣已經比噴射機還要高，可以看到地球！",
+        "time": null
+      },
+      {
+        "en": "The balloon takes two hours to fly up 22 kilometers. It flies high for one hour. It takes one hour to come down.",
+        "tw": "這顆氣球上升到 22 公里的高度需要兩個小時。一小時之後，還要花一個鐘頭降落。",
+        "time": null
+      },
+      {
+        "en": "Two people can sit in the balloon. One person is the pilot. The other person is the passenger. The balloon ride is $175,000 US dollars, about 5 million NT dollars.",
+        "tw": "它可以搭載一位駕駛跟一位乘客，飛一趟大概要五百萬台幣。",
+        "time": null
+      },
+      {
+        "en": "The first trip is in October. That's very soon!",
+        "tw": "第一次旅程在十月。很快就到了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這枚特殊的氣球，可以讓人滿足太空夢。",
+      "content": [
+        {
+          "text": "1. high 高的\nHave you ever flown in a hot air balloon? 你有坐過熱氣球嗎？\nNo. How high do they go up? 沒有。 它可以飛多高？",
+          "time": null
+        },
+        {
+          "text": "2. kilometer 公里\nSome can go up to a few kilometers. 有的可以飛到好幾公里高。\nWow, that's pretty high! 哇，那很高呢！\nHow many kilometers can a rocket go up? 火箭可以飛幾公里高呢？\nA rocket can fly much higher. 火箭就高得多了。",
+          "time": null
+        },
+        {
+          "text": "3. Earth 地球\nSome rockets can go up to thousands of kilometers.\n有的火箭可以飛到好幾千公里高。\nThat's crazy! 好狂喔！",
+          "time": null
+        },
+        {
+          "text": "4. trip 旅行\nIt would be amazing to see the Earth from there. 從那裏看地球會很棒！\nYeah, that'd be a real space trip. 對，那是真正的太空旅行。",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學到哪些單字？\nhigh 高的\nkilometer 公里\nearth 地球\ntrip 旅行"
+    },
+    "quiz": [
+      {
+        "question": "1. How high will the balloon fly?",
+        "options": [
+          "A: 22 kilometers",
+          "B: 100 kilometers",
+          "C: 400 kilometers"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "2. How long will the balloon take to fly up?",
+        "options": [
+          "A: 1 hour",
+          "B: 2 hours",
+          "C: 4 hours"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "3. Who can ride in the balloon?",
+        "options": [
+          "A: One pilot and two passengers",
+          "B: Three passengers",
+          "C: One pilot and one passenger"
+        ],
+        "time": null,
+        "answer": "C"
       }
     ]
   }
