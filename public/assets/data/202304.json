@@ -410,5 +410,115 @@
         "answer": "B"
       }
     ]
+  },
+  {
+    "id": "20230412-01",
+    "type": "國小",
+    "tag": [
+      "Climate Action",
+      "Life on Land",
+      "Environmental Education",
+      "Character Education",
+      "International Education",
+      "Safety Education"
+    ],
+    "title": "Taiwan Man Runs Arctic Race",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230411NK.mp3",
+    "content": [
+      {
+        "en": "A marathon is a long running race. It is 42 kilometers long!",
+        "tw": "一場馬拉松要跑42 公里。",
+        "time": null
+      },
+      {
+        "en": "What about an ultramarathon? An ultramarathon is hundreds of kilometers long.",
+        "tw": "超級馬拉松怎麼樣呢？ 要跑好幾百公里！",
+        "time": null
+      },
+      {
+        "en": "What about an ultramarathon in the cold, icy Arctic?",
+        "tw": "如果是辦在冰天雪地的北極超級馬拉松呢？",
+        "time": null
+      },
+      {
+        "en": "The Yukon Arctic Ultra is in the cold, icy Arctic. It's an ultramarathon in Canada. It's 700 kilometers long. Tommy Chen ran this ultramarathon. Tommy is from Taiwan!",
+        "tw": "加拿大的育空極地超馬賽有 700 公里，來自台灣的陳彥博是參賽選手之一！",
+        "time": null
+      },
+      {
+        "en": "At the start of the race, Tommy had lots of energy. He was confident. This was his second Yukon Arctic Ultra. He knew the way.",
+        "tw": "比賽一開始，陳彥博精力充沛。這是他第二次參加這場比賽，對路很熟，他很有信心。",
+        "time": null
+      },
+      {
+        "en": "Tommy wore a heavy jacket and warm pants. He did not feel very cold. At night, he slept in a tent.",
+        "tw": "他穿著厚重衣褲保暖，晚上就睡在帳篷裡。",
+        "time": null
+      },
+      {
+        "en": "For ten days, Tommy ran... and ran... and ran some more... He got tired. The winter sky was dark. He was lonely. Near the end of the race, he almost got lost.",
+        "tw": "他一跑就是十天，跑得好累。冬天黑暗的天空也讓他覺得寂寞。快結束的時候，還差一點迷路。",
+        "time": null
+      },
+      {
+        "en": "Then Tommy was on the trail again. And…he finished the race! He was in fourth place! He did a celebration dance! Nothing can stop him! Good job, Tommy Chen.",
+        "tw": "然後，陳彥博再次回到賽道上。他完成了比賽！他獲得了第四名！他還跳了慶祝舞！沒有什麼能阻止他！做得好，陳彥博。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台灣選手參加北極超級馬拉松比賽，挑戰自己的極限。",
+      "content": [
+        {
+          "text": "1. run 跑步. Do you run, Nancy? 你跑步嗎? Not every day. 不是每天跑. I run three or four times a week. 我一個星期跑三四次. Do you? 你呢? No, not really. 我不大跑.",
+          "time": null
+        },
+        {
+          "text": "2. cold 冷的. Running is not fun, and it's often too cold outside. You'll get warm when you run. 你跑就會覺得暖和. I'll get tired too.我會累.",
+          "time": null
+        },
+        {
+          "text": "3. lost 迷路. And I may get lost. 而且還可能迷路. How can you get lost? 你怎麼會迷路? You're just running near your house! 你只是在家附近跑.",
+          "time": null
+        },
+        {
+          "text": "4. night 夜晚. I can only run at night. 我只能晚上跑. That's why. 這是理由. I'll join you next time.下次我跟你一起跑.",
+          "time": null
+        }
+      ],
+      "postscript": "慢跑是非常好的運動. run跑步 cold冷的 lost迷路 night夜晚"
+    },
+    "quiz": [
+      {
+        "question": "1. At the start of the race, how did Tommy feel?",
+        "options": [
+          "A: Confident",
+          "B: Scared",
+          "C: Tired"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "2. How far did Tommy run?",
+        "options": [
+          "A: 42 kilometers",
+          "B: 300 kilometers",
+          "C: 700 kilometers"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "3. At the end of the race, what did Tommy do?",
+        "options": [
+          "A: Cry",
+          "B: Sing",
+          "C: Dance"
+        ],
+        "time": null,
+        "answer": "C"
+      }
+    ]
   }
 ]
