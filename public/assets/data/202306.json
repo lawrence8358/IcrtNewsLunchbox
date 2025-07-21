@@ -1641,5 +1641,106 @@
         "answer": "A"
       }
     ]
+  },
+  {
+    "id": "20230627-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Natural Sciences"
+    ],
+    "title": "Scientists Drill Into the Earth for Answers",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230626NK.mp3",
+    "content": [
+      {
+        "en": "Do you know where volcano lava comes from?",
+        "tw": "你知道火山的岩漿從哪裡來嗎？",
+        "time": null
+      },
+      {
+        "en": "It comes from the earth's mantle. The mantle is the earth's middle layer. It has lots of very hot rock.",
+        "tw": "岩漿在地函裡面。地函位在地殼的下面，是地球的中間層，裡面有很多滾燙的岩石。",
+        "time": null
+      },
+      {
+        "en": "What's in this mantle rock? What can we learn from it? Scientists say we can learn more about volcanoes and earthquakes. We can learn more about how life started on earth and many other things too!",
+        "tw": "這些岩石裡面有甚麼呢？我們又可以從這些岩石學到甚麼？科學家說，我們可以更了解火山跟地震，還有生命的起源！",
+        "time": null
+      },
+      {
+        "en": "But mantle rock is deep in the earth. It is not easy to get. Scientists first tried 62 years ago!",
+        "tw": "但是地函很深，這些石頭不容易取得，科學家 62 年前就試過了！",
+        "time": null
+      },
+      {
+        "en": "Mantle rock is closest to the ocean floor. So scientists are working on a ship. They have a big drill.",
+        "tw": "離地函岩石層最近的地方是海床，於是科學家在船上工作，他們有一台巨大鑽頭！",
+        "time": null
+      },
+      {
+        "en": "The drill is making a very deep hole. The drill takes the rock from the hole. Now scientists have one kilometer of mantle rock!",
+        "tw": "這個鑽頭鑽了一個很深很深的洞，把裡面的石頭取出來，現在科學家有超過一公里這麼多的地函岩石層！",
+        "time": null
+      },
+      {
+        "en": "This is great news for scientists everywhere. It's the deepest mantle rock we have! And every day, the drill goes deeper and gets more mantle rock! We can learn more about the earth and life from this mantle rock. The earth's mantle has a lot to teach us! Keep drilling!",
+        "tw": "這對世界各地的科學家來說是個好消息。這是我們目前擁有的最深的地函岩石！而且鑽頭每天都在鑽得更深，獲得更多的地函岩石！我們可以從這些地函岩石中學到更多關於地球和生命的東西。地球的地函有很多東西可以教導我們！繼續鑽探！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家從海床鑽洞，把地殼下面的岩石取出來研究。",
+      "content": [
+        {
+          "text": "deep 很深的。\nThe earth seems to keep a lot of secrets.\n地球好像藏著很多秘密。\nThat's deep. 很深奧呢。\nNo, I mean it.不，我是說真的。",
+          "time": null
+        },
+        {
+          "text": "volcano 火山。\nWe see volcanoes erupt. 我們看到火山爆發。\nBut we don't really know why. 卻並不懂為什麼。\nYeah, and we never know when earthquakes will happen.\n對啊，而且我們完全不知道什麼時候會地震。",
+          "time": null
+        },
+        {
+          "text": "learn 學習。\nExactly. 正是這樣。\nLuckily, scientists are learning new things every day.\n幸運的是，科學家每天都在學新東西。",
+          "time": null
+        },
+        {
+          "text": "easy 容易的。\nBut there are no easy answers.但是沒有簡單的答案。\nMaybe your questions are too hard! 也許你的問題太難了。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀讀單字吧\ndeep很深的 volcano火山 learn學習 easy容易的"
+    },
+    "quiz": [
+      {
+        "question": "1. What does a drill make?",
+        "options": [
+          "A: Fire",
+          "B: Rock",
+          "C: Holes"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What is mantle rock closest to?",
+        "options": [
+          "A: Mountains",
+          "B: The moon",
+          "C: The ocean floor"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What can we learn more about from mantle rocks?",
+        "options": [
+          "A: Ships",
+          "B: Big drills",
+          "C: The earth"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
