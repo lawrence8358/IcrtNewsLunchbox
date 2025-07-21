@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20230601-01",
     "type": "國小",
@@ -100,6 +100,123 @@
         ],
         "time": null,
         "answer": "A"
+      }
+    ]
+  },
+  {
+    "id": "20230605-01",
+    "type": "國小",
+    "tag": [
+      "Life Education",
+      "Technology Education",
+      "Natural Sciences"
+    ],
+    "title": "Robots Find Salt Water on Mars",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230602NK.mp3",
+    "content": [
+      {
+        "en": "What does \"environment\" mean?",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Go outside. Look around. Lie on the grass. Look at the sky.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Our environment is the natural things around us. It is the air, plants, animals, the clouds in the sky…",
+        "tw": "什麼是環境呢？出去走走，到處看看，躺在草皮上，望向天空。我們的環境就是空氣、植物、動物跟天空中的雲。",
+        "time": null
+      },
+      {
+        "en": "The Earth's environment keeps us alive. We have air to breathe. We have water to drink and food to eat.",
+        "tw": "地球的環境讓我們有空氣可以呼吸，我們有水可以喝，有食物可以吃。",
+        "time": null
+      },
+      {
+        "en": "But our planet has 8 billion people! It needs help.",
+        "tw": "但地球有八十億人口！它需要幫助。",
+        "time": null
+      },
+      {
+        "en": "We can help. But can another planet help too? Can people live there one day?",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Hmmm...which planet? Some planets are too hot or too cold. Some are okay. But do they have water?",
+        "tw": "我們幫得上忙。但另一個星球也可以幫忙嗎?有一些星球太熱，有一些星球太冷。有一些星球還可以的，但它們有水嗎？",
+        "time": null
+      },
+      {
+        "en": "The planet Mars is not too hot or too cold. Scientists are learning more about its environment. They sent robots to look around.",
+        "tw": "火星不會太熱或太冷。科學家派機器人去了解。",
+        "time": null
+      },
+      {
+        "en": "Guess what one robot found?! Salt water! Mars had salt water a long time ago. Maybe Mars has water now!",
+        "tw": "他們找到了甚麼呢？一台機器人找到鹽水。火星很久以前有鹽水，或許現在有淡水了！",
+        "time": null
+      },
+      {
+        "en": "Can people live on Mars one day? Scientists need to find out more. For now, let's help our environment here on Earth!",
+        "tw": "人類有朝一日能住在火星上嗎？科學家需要進一步了解。目前，讓我們從地球開始幫助我們的環境吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "有水的地方可能就有生命，科學家很想知道別的行星是否有水。",
+      "content": [
+        {
+          "text": "1. sky 天空\nHey, you're back! 你回來了！\nHow's Hehuanshan? 合歡山如何啊？\nIt was great! The air was fresh and the sky seemed bigger.",
+          "time": null
+        },
+        {
+          "text": "2. cloud 雲\nThere were no clouds at night so we watched the stars.\nThat's wonderful! 太棒了！",
+          "time": null
+        },
+        {
+          "text": "3. grass 草地\nSo you just laid on the ground outside? 所以你們就躺在外面地上？\nYeah, we laid on the grass until midnight. 對，躺在草地上到半夜。",
+          "time": null
+        },
+        {
+          "text": "4. long time ago 很久以前\nI love stargazing. 我喜歡觀星。\nI saw many shooting stars on Taipingshan a long time ago.",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很好記。sky 天空 cloud 雲 grass 草地 long time ago 很久以前"
+    },
+    "quiz": [
+      {
+        "question": "1. What does the Earth's environment do?",
+        "options": [
+          "A: Makes us special",
+          "B: Keeps us alive",
+          "C: Learns about Mars"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "2. What did scientists send to Mars?",
+        "options": [
+          "A: Air",
+          "B: Robots",
+          "C: Clouds"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "3. What did Mars have a long time ago?",
+        "options": [
+          "A: Animals",
+          "B: Salt water",
+          "C: Plants"
+        ],
+        "time": null,
+        "answer": "B"
       }
     ]
   }
