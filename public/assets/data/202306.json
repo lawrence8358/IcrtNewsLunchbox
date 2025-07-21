@@ -1,0 +1,106 @@
+ [
+  {
+    "id": "20230601-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Marine Education",
+      "Life Below Water",
+      "Clean Water and Sanitation",
+      "Natural Sciences"
+    ],
+    "title": "Scientists Grow Gardens Underwater",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230531NK.mp3",
+    "content": [
+      {
+        "en": "Happy World Reef Day! The world's most famous coral reef is the Great Barrier Reef in Australia. It's the world's biggest reef too.",
+        "tw": "全世界最大的珊瑚礁在澳洲的大堡礁。",
+        "time": null
+      },
+      {
+        "en": "Coral reefs are very important for life underwater. Many kinds of fish live in them. They're like apartment buildings for fish! Some people fish there. They sell or eat the fish.",
+        "tw": "很多魚類住在珊瑚礁裡面，牠們就像魚的公寓。有一些人會捕魚來自己吃或拿去賣。",
+        "time": null
+      },
+      {
+        "en": "Taiwan's biggest coral reef is by Lamay Island. But more than half of Lamay Island's reef died in 2020. This is because the ocean is getting warmer. It's sometimes too warm for coral reefs.",
+        "tw": "台灣最大的珊瑚礁在小琉球，但是 2020 年，小琉球的珊瑚死了一半以上。因為海洋溫度升高。",
+        "time": null
+      },
+      {
+        "en": "Coral reefs are made of millions of very small coral animals. Reefs take thousands of years to grow. But we need them now.",
+        "tw": "珊瑚礁是由數百萬極小的珊瑚蟲組成，要好幾千年才形成。",
+        "time": null
+      },
+      {
+        "en": "Scientists are working to save coral reefs. Last year, they tried a new idea. They planted new coral on reefs. These scientists are underwater gardeners!",
+        "tw": "科學家正在努力拯救珊瑚礁，他們在珊瑚礁上種新的珊瑚，他們是海底的園藝師！",
+        "time": null
+      },
+      {
+        "en": "The idea worked! The new coral grew. More fish came every day!",
+        "tw": "這個計畫成功了！新的珊瑚長了出來，更多魚來到珊瑚礁附近！",
+        "time": null
+      },
+      {
+        "en": "Scientists gardening underwater, saving reefs and protecting ocean life! Far out, dude!",
+        "tw": "科學家在水下園藝，拯救珊瑚礁並保護海洋生物！太棒了，老兄！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "氣候暖化造成很多地方的珊瑚礁大量死亡，科學家忙著搶救。",
+      "content": [
+        {
+          "text": "1. underwater 在水下\nIt's so hot today! 今天好熱喔！\nYeah, I wish I could go diving underwater. 對啊，真希望潛到水裡。",
+          "time": null
+        },
+        {
+          "text": "2. ocean 海洋\nIn the ocean? 潛到海裡？\nIn the ocean, with colorful fish, turtles and coral reefs around me.\n在海裡，四周都是繽紛的魚、烏龜和珊瑚礁。\nWhere can you find such a place? 哪裡可以找到這種地方？\nXiao-liu-qiu. 小琉球。",
+          "time": null
+        },
+        {
+          "text": "3. warmer 更溫暖的\nBut it's in Pingtung. 不過那在屏東。\nIt maybe even warmer there. 那裡可能更熱。",
+          "time": null
+        },
+        {
+          "text": "4. die 死亡\nYou're right. 你說得對。\nBut I'd die if I didn't go swimming somewhere.\n但是假如我不去哪裡游泳我就會熱死。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你可記住了？\nunderwater 在水下\nocean 海洋\nwarmer 更溫暖的\ndie 死亡"
+    },
+    "quiz": [
+      {
+        "question": "1. What is the world's most famous coral reef?",
+        "options": [
+          "A: The Belize Barrier Reef",
+          "B: The Great Florida Reef",
+          "C: The Great Barrier Reef"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "2. Where is Taiwan's biggest coral reef?",
+        "options": [
+          "A: Orchid Island",
+          "B: Green Island",
+          "C: Lamay Island"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "3. What is making coral reefs die?",
+        "options": [
+          "A: Warmer oceans",
+          "B: Too many fish",
+          "C: New coral"
+        ],
+        "time": null,
+        "answer": "A"
+      }
+    ]
+  }
+]
