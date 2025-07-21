@@ -1001,5 +1001,112 @@
         "answer": "C"
       }
     ]
+  },
+  {
+    "id": "20230419-01",
+    "type": "國小",
+    "tag": [
+      "Zero Hunger",
+      "No Poverty",
+      "Good Health and Well-Being",
+      "Decent Work and Economic Growth",
+      "Industry, Innovation and Infrastructure",
+      "Reduced Inequalities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life on Land",
+      "Life Below Water",
+      "Environmental Education",
+      "Multicultural Education",
+      "International Education"
+    ],
+    "title": "Cook Makes Cricket Ice Cream",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230418NK.mp3",
+    "content": [
+      {
+        "en": "I'm at an ice cream shop. I want one small scoop of ice cream. There are many flavors! There's chocolate… strawberry… vanilla… WAIT! What is that?! Crickets?! In ice cream?!",
+        "tw": "我在冰淇淋店裡面，有好多種口味可以選，有巧克力、草莓，還有... 蟋蟀？",
+        "time": null
+      },
+      {
+        "en": "That's right! That's a strange flavor. Thomas is a cook. He makes strange ice cream flavors. He made liver sausage and cheese ice cream! One time, Thomas put gold on ice cream! It was 130 NT dollars for one scoop!",
+        "tw": "Thomas 是個廚師。他做過很多奇怪口味的冰淇淋，像是豬肝香腸口味跟起司口味。還有一次 Thomas 把黃金放在冰淇淋上，一球要 130 元台幣！",
+        "time": null
+      },
+      {
+        "en": "Now he makes cricket ice cream! How does Thomas make this strange ice cream? He uses cream, vanilla, honey, and flour. Flour is in cookies and noodles too. But this flour is cricket flour. You can't see these crickets.",
+        "tw": "這款冰淇淋是用奶油、香草、蜂蜜，跟麵粉做的。做餅乾跟麵條也會用到麵粉。但是這款冰淇淋用的麵粉是蟋蟀麵粉，你看不到裡面的蟋蟀。",
+        "time": null
+      },
+      {
+        "en": "Thomas also puts dried crickets on each scoop. You can see these crickets. Yummy…",
+        "tw": "但Thomas也會在每一球冰淇淋上放一隻蟋蟀乾，你可以吃掉牠！",
+        "time": null
+      },
+      {
+        "en": "Some people don't like his cricket ice cream. They think it looks nasty! But Thomas says most people love it!",
+        "tw": "有一些人不喜歡，不想吃蟋蟀冰淇淋，但 Thomas 說很多人都很愛。",
+        "time": null
+      },
+      {
+        "en": "What do you think? Would you eat cri… Ah! It's in my hair! Get it off me!",
+        "tw": "你覺得呢？你會吃蟋蟀…啊！牠在我頭髮上！把它弄掉！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "冰淇淋口味千變萬化，連蟋蟀都可以包括進去。",
+      "content": [
+        {
+          "text": "1. chocolate 巧克力\nHave you tried the new ice cream place over there? 你去過那裡的冰淇淋店嗎？\nNo, is it good? 沒有，好吃嗎？\nYeah, their chocolate ice cream is unbelievable!",
+          "time": null
+        },
+        {
+          "text": "2. flavor 味道\nBut my favorite flavor is vanilla. 但是我最喜歡的味道是香草。\nThey have that, too. 他們也有。\nVanilla with honey. 香草加蜂蜜.",
+          "time": null
+        },
+        {
+          "text": "3. strange 奇怪的\nThat sounds a little strange. 聽起來有一點兒奇怪。\nMaybe, but I heard it's very good. 也許吧，不過我聽說很好吃.",
+          "time": null
+        },
+        {
+          "text": "4. noodle 麵條\nI'm in the mood for some noodles, though. 不過我現在想吃麵。\nGreat idea! Who wants ice cream on a rainy day? 好主意! 誰要下雨天吃冰淇淋？",
+          "time": null
+        }
+      ],
+      "postscript": "你愛吃冰淇淋嗎？\nchocolate 巧克力\nflavor 味道\nstrange 奇怪的\nnoodle 麵條"
+    },
+    "quiz": [
+      {
+        "question": "1. Which strange ice cream was 130 NT dollars for a scoop?",
+        "options": [
+          "a. Liver sausage",
+          "b. Gold",
+          "c. Cheese"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What does Thomas use for his new ice cream?",
+        "options": [
+          "a. Noodles",
+          "b. Crickets",
+          "c. Cookies"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why don't some people want to try Thomas' new ice cream?",
+        "options": [
+          "a. It looks nasty",
+          "b. It looks tasty",
+          "c. It looks cold"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
