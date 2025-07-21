@@ -427,5 +427,102 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230608-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Industry, Innovation and Infrastructure",
+      "Outdoor Education"
+    ],
+    "title": "Greece 'Ramps Up' Its Beaches",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230607NK.mp3",
+    "content": [
+      {
+        "en": "Hello from sunny Greece! I'm here on vacation. Today is World Oceans Day, so I'm relaxing at the beach!",
+        "tw": "今天是世界海洋日，而我正在希臘的海邊逍遙！",
+        "time": null
+      },
+      {
+        "en": "The beaches in this country are great. The sand is soft and the sea is beautiful! For me, swimming at the beach is easy. I can just stand up and walk into the sea!",
+        "tw": "只要站起來，走進海裡，就可以游泳。",
+        "time": null
+      },
+      {
+        "en": "But how about people who can't move easily? Sand makes walking hard for them. And some people can't walk. They use wheelchairs. But wheels don't work well on sand…",
+        "tw": "但是對於有行動障礙的人，沙子很不好走，輪椅在沙灘上也難行動。",
+        "time": null
+      },
+      {
+        "en": "Greece has the answer: special ramps to the sea! Greece is putting these ramps on 287 beaches! The ramps are free and easy to use. People press a button. The ramp carries them into the water. Then they can swim!",
+        "tw": "希臘想出了辦法! 他們在 287 座海灘搭建了坡道，只要坐上坡道的椅子，按一下按鈕，椅子往下到海邊，就可以游泳了！",
+        "time": null
+      },
+      {
+        "en": "What happens when they get tired? No problem! The ramp carries them from the sea to the beach! Now people who can't move easily can go in and out of the water!",
+        "tw": "玩累了怎麼辦呢？很簡單，爬上坡道的椅子，電動椅會把他們送回岸上。這樣行動不便的人也可以盡情玩水了！",
+        "time": null
+      },
+      {
+        "en": "These special ramps make swimming in the sea easy for everyone. Great job, Greece!",
+        "tw": "這些特殊的坡道讓每個人都能輕鬆地在海中游泳。希臘做得好！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "希臘的海灘坡道，讓身體有障礙的人也能享受海泳的樂趣。",
+      "content": [
+        {
+          "text": "1. sand 沙子\nIt feels so good to walk on sand barefoot. 打光腳走在沙灘上真舒服。\nSuch cool and soft sand! 這麼涼快柔軟的沙子！",
+          "time": null
+        },
+        {
+          "text": "2. relax 放鬆\nWe should come here every weekend. 我們應該每個周末都來。\nIt'll make me more relaxed. 會讓我放鬆得多。",
+          "time": null
+        },
+        {
+          "text": "3. hard 困難的\nYou don't have a hard life, Nancy. 你的生活並不難啊。\nOh, but I do. 很難的。\nI have to get up every day. 我得每天起床。\nAnd feed three cats and one dog. 餵三隻貓和一隻狗。",
+          "time": null
+        },
+        {
+          "text": "4. vacation 假期\nDon't tell me you need a vacation. 別跟我說你需要度假。\nThat's what I was about to say! 我正要說呢！",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了幾個？sand 沙子 relax 放鬆 hard 困難的 vacation 假期"
+    },
+    "quiz": [
+      {
+        "question": "1. What special day is today?",
+        "options": [
+          "A: World Problem Day",
+          "B: World Open Day",
+          "C: World Oceans Day"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many beaches in Greece will have these ramps?",
+        "options": [
+          "A: 287",
+          "B: 200",
+          "C: 87"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What does it cost to use the special ramp?",
+        "options": [
+          "A: They're free",
+          "B: €1 euro",
+          "C: $1 dollar"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
