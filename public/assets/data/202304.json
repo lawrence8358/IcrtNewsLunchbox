@@ -520,5 +520,103 @@
         "answer": "C"
       }
     ]
+  },
+  {
+    "id": "20230413-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies"
+    ],
+    "title": "Thailand Goes Big For Songkran",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230412NK.mp3",
+    "content": [
+      {
+        "en": "Today is the start of the traditional New Year in Thailand! The Thai New Year is called Songkran. It is in April every year. It's Thailand's most famous festival. There's a lot of music and dancing!",
+        "tw": "今天是泰國傳統新年--潑水節！潑水節在每一年四月，是泰國最有名的慶典，大家會在這一天唱唱跳跳。",
+        "time": null
+      },
+      {
+        "en": "There's a lot of water too. Water is very important for Songkran. There are lots of big water fights! People throw water at each other. They shoot water guns! Everyone has fun. And everyone gets very, very wet!",
+        "tw": "潑水節大家還會打水仗！他們會互相潑水、射水槍，全身都會溼答答。",
+        "time": null
+      },
+      {
+        "en": "There are lots of competitions at Songkran. There are cool drum competitions. The drums are very big! The drummers can use any part of their body. They use their hands, their feet, their elbows… or their heads!",
+        "tw": "潑水節還有很多不同的比賽。有個很酷的打鼓比賽，參賽者可以用身體的任何部位去打一面大鼓！",
+        "time": null
+      },
+      {
+        "en": "In Thailand, Songkran is very important for Buddhists. They go to a temple. They pour water on images of the Buddha. They also pour water on the hands of Buddhist monks. This is a sign of respect.",
+        "tw": "潑水節對泰國的佛教徒來說也很重要。他們會去寺廟，澆水在釋迦摩尼佛的神像上，也會澆水在和尚的手上。這是他們表達尊重的方式。",
+        "time": null
+      },
+      {
+        "en": "Thailand wants Songkran to be more famous. They want everyone to know about Songkran. They want more people to visit Thailand.",
+        "tw": "泰國希望大家認識他們的潑水節，也希望更多人來泰國玩。",
+        "time": null
+      },
+      {
+        "en": "Today is an exciting day in Thailand. There is music, dancing, competitions, and lots and lots of water! Songkran ends on Saturday. Happy Songkran, everyone!",
+        "tw": "今天是泰國令人興奮的一天。有音樂、舞蹈、比賽，還有很多很多水！潑水節在週六結束。大家潑水節快樂！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "名聞遐邇的泰國潑水節，充滿熱帶國家風情。",
+      "content": [
+        {
+          "text": "1. wet 潮濕的\nSongkran in Thailand sounds so much fun! 泰國潑水節聽起來真有趣！\nYeah, I'd sure like to go. 對啊，我好想去。\nI've heard that you get wet from head to toe. 我聽說你會從頭到腳濕透透。",
+          "time": null
+        },
+        {
+          "text": "2. everyone 每個人\nAnd people carry big water guns for a nice water fight. 大家會拿著水槍打水仗。\nWith strangers on the street? 跟路上的陌生人打？\nWith everyone on the street! 跟路上每個人打！",
+          "time": null
+        },
+        {
+          "text": "3. fight 搏鬥\nThat's so cool! 太酷了！\nI would pick children to fight with. 我會找小孩子來打水仗。\nThey may be much better than you. 他們可能比你強得多呢。",
+          "time": null
+        },
+        {
+          "text": "4. April 四月\nSo we're going next April? 所以我們明年四月去？\nAbsolutely! 一定要的。",
+          "time": null
+        }
+      ],
+      "postscript": "我們來讀今天的單字。\nwet 潮濕的\neveryone 每個人\nfight 搏鬥\nApril 四月"
+    },
+    "quiz": [
+      {
+        "question": "1. What is Songkran?",
+        "options": [
+          "A. A Thai song",
+          "B. A Thai dance",
+          "C. The Thai New Year"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do people throw at Songkran?",
+        "options": [
+          "A: Water guns",
+          "B: Big drums",
+          "C: Lots of water"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Where do Buddhists go for Songkran?",
+        "options": [
+          "A: A mosque",
+          "B: A church",
+          "C: A temple"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
