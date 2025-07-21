@@ -747,5 +747,102 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230613-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Technology Education"
+    ],
+    "title": "This Machine Sells Eggs",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230612NK.mp3",
+    "content": [
+      {
+        "en": "Hi there! Today's news is about a vending machine. Vending means selling. So a vending machine is a 'selling machine'.",
+        "tw": "\"Vending\" 的意思就是賣。今天的新聞跟自動販賣機有關。",
+        "time": null
+      },
+      {
+        "en": "You put money in the vending machine. You push the number of the thing you want to buy. Then it drops down. You can buy candy, chips, or drinks from vending machines. You can buy other things too.",
+        "tw": "你只要投錢，按按鈕選你要的商品，它就會掉下來。你可以在販賣機買到糖果、洋芋片、飲料，還有很多其他的東西。",
+        "time": null
+      },
+      {
+        "en": "There is a special vending machine in Tainan. It doesn't sell candy, chips, or drinks. It just sells one thing: eggs! People love to see this egg vending machine. They love to take pictures of it.",
+        "tw": "台南有一台特別的販賣機，只賣一種東西，那就是雞蛋！這台販賣機吸引了很多人來參觀跟拍照。",
+        "time": null
+      },
+      {
+        "en": "How much are the eggs? One egg is 25 NT. That's a lot of money!",
+        "tw": "裡面一顆雞蛋要賣 25 塊錢，好貴！",
+        "time": null
+      },
+      {
+        "en": "Do eggs break in the vending machine? No, they don't break. That's good. No one wants to buy a broken egg. But some eggs get stuck. They don't come out of the vending machine. That's because the eggs are different sizes. But this can be fixed.",
+        "tw": "販賣機裡面的雞蛋不會破掉，但因為雞蛋的大小不同，有可能會卡在機器裡面，不過這個問題很好處理。",
+        "time": null
+      },
+      {
+        "en": "Do you want to buy eggs from a vending machine? I think I'll save my money and go to a supermarket!",
+        "tw": "你想從自動販賣機買雞蛋嗎？我想我會省下錢去超市！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "自動販賣機的商品五花八門，甚至還有雞蛋。",
+      "content": [
+        {
+          "text": "1. candy 糖果. A vending machine? Wow, I'm saved! There are only candy bars and chips here.",
+          "time": null
+        },
+        {
+          "text": "2. how much 多少. Are you sure you want to eat this? Let me see how much they cost first.",
+          "time": null
+        },
+        {
+          "text": "3. machine 機器. Hmmmm, everything costs 30 NT in the machine. That's more money than at the supermarket.",
+          "time": null
+        },
+        {
+          "text": "4. buy 買. So do you still want to buy them? Yeah, I'm too hungry to wait.",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了幾個？\ncandy 糖果\nhow much 多少\nmachine 機器\nbuy 買"
+    },
+    "quiz": [
+      {
+        "question": "1. What is a vending machine?",
+        "options": [
+          "a. A washing machine",
+          "b. A selling machine",
+          "c. A computer"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many dollars is one egg?",
+        "options": [
+          "a. 5",
+          "b. 15",
+          "c. 25"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Why do some eggs get stuck?",
+        "options": [
+          "a. They're different sizes",
+          "b. They're too heavy",
+          "c. They break"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
