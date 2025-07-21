@@ -1254,5 +1254,103 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230619-01",
+    "type": "國小",
+    "tag": [
+      "Outdoor Education",
+      "Life Education",
+      "Responsible Consumption and Production",
+      "Good Health and Well-Being"
+    ],
+    "title": "Pair Makes Tropical Fruit Farm With One Tree",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230617NK.mp3",
+    "content": [
+      {
+        "en": "Mmm… I love wax apples. It's my favorite fruit. I want wax apple trees in my garden. Then I can pick wax apples when I want them. I can eat them all the time!",
+        "tw": "我好愛吃蓮霧！好希望能夠在我的花園種一顆蓮霧樹，讓我想吃就可以摘。",
+        "time": null
+      },
+      {
+        "en": "Farmers in Taiwan grow a lot of wax apples. We can get them at fruit stands and supermarkets here. But sometimes we can't get wax apples in other countries.",
+        "tw": "在台灣買到蓮霧很容易，不過在其他國家就不一定了。",
+        "time": null
+      },
+      {
+        "en": "A husband and wife from Taiwan live in the USA. He wanted to eat wax apples there. But he didn't find any. Then someone gave him a wax apple tree. The pair made a tropical fruit farm... with that one tree!",
+        "tw": "有一對住在美國的台灣夫妻，老公想要吃蓮霧，但是在美國找不到。後來有人給了他們一棵蓮霧樹，這對夫妻就用一棵樹，種出了一整座熱帶水果園！",
+        "time": null
+      },
+      {
+        "en": "\"Uncle Happy Farmer\" and his wife made the farm 40 years ago. Now their farm has more than 40 kinds of tropical fruits and vegetables. His wife grows the fruit trees. Uncle Happy Farmer grows the vegetables.",
+        "tw": "「快樂農夫叔叔」跟他的老婆四十年前建了這座農場，現在農場裡面已經有四十多種蔬果。老婆種水果，老公種蔬菜。",
+        "time": null
+      },
+      {
+        "en": "A chicken helps them! Her name is Lucy. Her poop is good for the trees.",
+        "tw": "還有一隻雞 Lucy 會幫忙！牠的便便對樹木很好。",
+        "time": null
+      },
+      {
+        "en": "Maybe I can make a fruit farm too. And maybe I can get a chicken to help me! Then I'll have all the wax apples I can eat!",
+        "tw": "也許我也能建一個水果農場。也許我能找隻雞來幫忙！這樣我就能想吃多少蓮霧就吃多少了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "快樂農夫叔叔農場有各種蔬菜水果。",
+      "content": [
+        {
+          "text": "1. fruit stand 水果攤。\nDon't you just love fruit stands? 你會不會很喜歡水果攤?\nThey are so pretty to look at. 它們真好看。",
+          "time": null
+        },
+        {
+          "text": "2. farm 農場。\nYou're right. 你說得對。\nRed apples, yellow bananas and green guavas. 紅蘋果，黃香蕉，綠芭樂。\nMy cousin owns a fruit farm in Taitung. 我表哥在台東有一個農場。",
+          "time": null
+        },
+        {
+          "text": "3. pick 採摘。\nWe sometimes go there to pick the fruit. 我們有時候會去那裏採果子。\nHow nice! 真好!\nYeah, it's wonderful! 對啊，是很棒。",
+          "time": null
+        },
+        {
+          "text": "4. chicken 雞。\nHe raises chickens, too. 他也養雞。\nSo you would have chicken soup after the hard work. 所以你們辛苦工作之後就喝雞湯。\nNo! He never wanted to kill the chickens. 沒有，他從來不肯殺雞。",
+          "time": null
+        }
+      ],
+      "postscript": "你最喜歡什麼水果呢?\nfruit stand水果攤\nfarm農場\npick採摘\nchicken雞"
+    },
+    "quiz": [
+      {
+        "question": "1. What is the husband known as?",
+        "options": [
+          "a. Mr. Joy Planter",
+          "b. Uncle Happy Farmer",
+          "c. Grandpa Fun Rancher"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where do the husband and wife live?",
+        "options": [
+          "a. The USA",
+          "b. Taiwan",
+          "c. Malaysia"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did the pair start their fruit farm with?",
+        "options": [
+          "a. Wax apple seeds",
+          "b. A wax apple tree",
+          "c. Tropical vegetables"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
