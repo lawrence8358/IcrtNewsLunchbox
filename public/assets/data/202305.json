@@ -813,5 +813,110 @@
         "answer": "A"
       }
     ]
+  },
+  {
+    "id": "20230512-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Affordable and Clean Energy",
+      "Decent Work and Economic Growth",
+      "Industry, Innovation and Infrastructure",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life on Land",
+      "Life Below Water",
+      "Environmental Education",
+      "Marine Education",
+      "Technology Education",
+      "Energy Education",
+      "Disaster Risk Reduction Education",
+      "Outdoor Education",
+      "International Education"
+    ],
+    "title": "Scientists Study Seabird Safety",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230511NK.mp3",
+    "content": [
+      {
+        "en": "I'm eating lunch at the beach! Now, where are my sandwiches? ..... Hey!!!! That seabird took my lunch! It's very smart! Now scientists want to see just how smart seabirds are, to keep them safe.",
+        "tw": "海鳥偷走了我的午餐，牠們好聰明。科學家想要知道海鳥到底有多聰明，好保護牠們。",
+        "time": null
+      },
+      {
+        "en": "Scientists want to keep seabirds safe from wind farms. Wind farms make electricity from the wind. They have big machines called 'turbines'. Turbines have three blades. The wind spins the blades around and around. There's lots of wind at sea. Turbines make the most electricity there. So companies put wind farms there.",
+        "tw": "海邊風很強，所以風力發電渦輪機都蓋在海邊，上面有三片葉片，風會吹動扇葉來發電。",
+        "time": null
+      },
+      {
+        "en": "Scientists are worried about seabirds. Seabirds might fly into a turbine's blades and die. So scientists studied seabird safety at a wind farm.",
+        "tw": "科學家擔心海鳥會飛進發電機轉動的扇葉而死亡，於是開始研究風力發電場的海鳥安全。",
+        "time": null
+      },
+      {
+        "en": "The study took two years. They watched 10,000 videos of the turbines. They saw four kinds of seabirds come and go. And they found … nothing! Zero seabirds flew into the turbine blades. Zero seabirds died! They all flew far away from the spinning blades. Scientists don't know why. But those seabirds are very smart indeed!",
+        "tw": "科學家研究了兩年，看了一萬多支發電機的監視器影片，發現有四種海鳥來來去去，但是這些海鳥就是很聰明，沒有一隻海鳥被撞死，科學家也不知道為甚麼。",
+        "time": null
+      },
+      {
+        "en": "Scientists need to study other kinds of seabirds. Maybe now they will find how to save thousands of other seabirds too! Bravo birdies!",
+        "tw": "科學家需要研究其他種類的海鳥。或許現在他們也能找到如何拯救成千上萬其他海鳥的方法了！鳥兒們真棒！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "海鳥跟風力發電渦輪機相安無事，讓科學家有些意外。",
+      "content": [
+        {
+          "text": "1. fly 飛翔。\nFly, kite, fly! 飛呀，風箏，飛吧。\nLook how high it is! 你看它飛得多高!\nYeah, it's beautiful against the blue sky.對啊，襯著藍天真好看。",
+          "time": null
+        },
+        {
+          "text": "2. spin 轉圈。\nOh no, it's spinning around. 糟了，它在轉圈圈。\nIt's just the wind. 只是風的關係。\nIt'll steady once the wind weakens. 風變小就穩定了。",
+          "time": null
+        },
+        {
+          "text": "3. far away 很遠的。\nNow it's flying too far away. 現在它飛得太遠了。\nIt'll take an hour to bring it back. 要一個鐘頭才收得回來。\nThat's okay. We have a lot of time. 沒關係，我們有的是時間。",
+          "time": null
+        },
+        {
+          "text": "4. beach 海灘。\nThis is really a nice beach. 這真是個美好的海灘。\nIt is. We should come back more often. 真的，我們應該常回來。",
+          "time": null
+        }
+      ],
+      "postscript": "你有在海邊放風箏過嗎?\nfly飛翔\nspin轉圈\nfar away很遠的\nbeach海灘"
+    },
+    "quiz": [
+      {
+        "question": "1. What are wind farms for?",
+        "options": [
+          "A: Studying seabirds",
+          "B: Watching videos",
+          "C: Making electricity"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "2. What machines have three spinning blades?",
+        "options": [
+          "A: Videos",
+          "B: Scientists",
+          "C: Turbines"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "3. How many seabirds flew into the machines?",
+        "options": [
+          "A: Zero",
+          "B: Two",
+          "C: Four"
+        ],
+        "time": null,
+        "answer": "A"
+      }
+    ]
   }
 ]
