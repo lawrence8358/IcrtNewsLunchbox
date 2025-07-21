@@ -716,5 +716,102 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230511-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education",
+      "Character Education",
+      "Life on Land"
+    ],
+    "title": "Biggest Belly Wins",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230510NK.mp3",
+    "content": [
+      {
+        "en": "Some people think big bellies aren't healthy. But some think big bellies are great.",
+        "tw": "我們身邊的人，高矮胖瘦都有。有一些人覺得大肚子不健康，但有一些人就欣賞大肚子。",
+        "time": null
+      },
+      {
+        "en": "The Bodi people live in Ethiopia. Ethiopia is a country in Africa.The Bodi people like men with big bellies. They have a contest every year. The man with the biggest belly wins!",
+        "tw": "博迪人住在非洲的衣索比亞，他們喜歡大肚子的男生，每一年還會舉辦比賽，肚子最大的人勝利！",
+        "time": null
+      },
+      {
+        "en": "A big belly isn't easy to get. It can take six months. The men eat and drink all day. Do they eat hamburgers and pizza? No. They eat honey. What do they drink? They drink a lot of milk and cow blood. The men want to have the biggest belly very much. The men don't exercise. They sit all day.",
+        "tw": "要有大肚子其實不簡單，每天要吃蜂蜜，喝牛奶跟牛血，而且整天坐著不運動。",
+        "time": null
+      },
+      {
+        "en": "The contest day comes. The men walk around. They show their big bellies. What does the winner get? Money? A car? No. He wins respect. That means everyone thinks the winner is great!",
+        "tw": "比賽當天，男士們會走秀，展示自己的腹圍，贏的人得到什麼呢? 沒有獎品，但是會得到大家的尊重！",
+        "time": null
+      },
+      {
+        "en": "After the contest, the men get thin. Next year, they'll try to get the biggest belly again!",
+        "tw": "比賽後呢？他們會開始減肥，直到隔年再次養大肚子！",
+        "time": null
+      },
+      {
+        "en": "Big or small, you are great! Let's celebrate Eat What You Want Day today!",
+        "tw": "不論大小，你都很棒！讓我們今天一起慶祝「愛吃什麼就吃什麼日」吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "衣索匹亞這項比賽，是選出肚子最大的男士，認為這是榮譽。",
+      "content": [
+        {
+          "text": "1. exercise 運動。I really need to exercise during summer vacation.我真的得在暑假時運動。Why wait until summertime? 為什麼要等到暑假? 還有一個月呢。",
+          "time": null
+        },
+        {
+          "text": "2. month 月份。Summer vacation is 2 months long.暑假有兩個月。I know that. 我知道啊。So I can try to walk two hours every morning.所以我可以試著每天早上走兩個鐘頭。",
+          "time": null
+        },
+        {
+          "text": "3. walk 走路。You can walk 20 minutes every day now. 你可以現在每天走二十分鐘。That's different. 那不一樣。I need to walk off my belly fat.我需要走路甩腹部脂肪。",
+          "time": null
+        },
+        {
+          "text": "4. fat 脂肪。Belly fat is tough.腹部脂肪很麻煩。And I have loads of it.而我有一大堆呢。",
+          "time": null
+        }
+      ],
+      "postscript": "你有沒有每天運動的習慣?exercise運動month月份walk走路fat脂肪"
+    },
+    "quiz": [
+      {
+        "question": "1. What do the Bodi men eat to get big bellies?",
+        "options": [
+          "A: Hamburgers",
+          "B: Honey",
+          "C: Pizza"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "2. Why do the men walk around on the contest day?",
+        "options": [
+          "A: To get bigger bellies",
+          "B: To get smaller bellies",
+          "C: To show their bellies"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "3. What do the Bodi people think of the winner?",
+        "options": [
+          "A: He's great.",
+          "B: He's tall.",
+          "C: He's hungry."
+        ],
+        "time": null,
+        "answer": "A"
+      }
+    ]
   }
 ]
