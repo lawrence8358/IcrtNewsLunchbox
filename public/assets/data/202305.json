@@ -1664,5 +1664,104 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230524-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Environmental Education",
+      "Marine Education",
+      "Life Below Water",
+      "Outdoor Education"
+    ],
+    "title": "Even Turtles Make Sounds",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230523NK.mp3",
+    "content": [
+      {
+        "en": "Hi everyone! Do you… I'm at… Hey, guys! QUIET!!!\n\n...Thank you! All those animals are so noisy!",
+        "tw": "大家好！你們…我在…嘿，各位！安靜！！！\n\n…謝謝你們！那些動物真是吵死了！",
+        "time": null
+      },
+      {
+        "en": "Every different animal makes a different sound. Even turtles! Many people\nthink turtles don't make sounds. But they do! How do I know? A scientist\nnamed Gabriel found out.",
+        "tw": "很多人以為烏龜不會發出聲音，但有一位叫 Gabriel 的科學家發現牠們其實會叫。",
+        "time": null
+      },
+      {
+        "en": "Gabriel was doing a study. It was not about turtles. The study was in the\nAmazon rainforest.\n\nHe heard turtles make sounds there! He wanted to know more. Why? Well,\nscience says turtles do not make sounds.",
+        "tw": "Gabriel 原本在亞馬遜雨林做其他的研究，他聽到那裡的烏龜會叫！",
+        "time": null
+      },
+      {
+        "en": "Gabriel went home. He listened to his pet turtle. He heard his turtle make\nsome sounds! Then he did a new study. He listened to 50 kinds of turtles.\nThat's a lot of turtles!\n\nAll 50 kinds of turtles made sounds! So why didn't scientists know about\nturtle sounds?",
+        "tw": "他回家後聽自己養的寵物烏龜，發現牠也會叫。Gabriel\n決定展開研究，聽了50種不同種類的烏龜，發現他們都會叫！為什麼科學家之前都不知道呢？",
+        "time": null
+      },
+      {
+        "en": "Gabriel first heard turtles in the Amazon rainforest. Indigenous people have\nlived there for a very long time.\n\nDo they know about turtle sounds? Scientists have not asked them. Maybe they\ncan ask. Maybe they can learn from indigenous people.",
+        "tw": "亞馬遜雨林的原住民在那裏住了很長時間。他們知道烏龜會叫嗎？科學家或許可以去問問。",
+        "time": null
+      },
+      {
+        "en": "Gabriel found out something new. You can too. Go outside. Listen. What\nanimals can you hear?",
+        "tw": "Gabriel 發現了一些新事物。你也可以。走到外面，仔細聆聽。你能聽到哪些動物的聲音？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "烏龜行動緩慢，讓人誤以為牠們沒有聲音，其實不是。",
+      "content": [
+        {
+          "text": "1. loud 大聲的\nGuess which animal is the loudest in the world. 猜猜看哪種動物是世界最大聲的。\nThe loudest, hmmm… Lions? Elephants? 最大聲的，獅子嗎? 大象？\nNo, it's the whale! 不，是鯨魚！",
+          "time": null
+        },
+        {
+          "text": "2. hear 聽到\nBut they are in the sea! 但是牠們在海裡！\nYou don't need to hear them. 你不需要聽到牠們。\nBut their family does. 但是牠們的家人需要。",
+          "time": null
+        },
+        {
+          "text": "3. kind 種類\nWhat kind of whales? 哪一種鯨魚？\nThe sperm whale. 抹香鯨。\nTheir sounds can travel a long way. 牠們的聲音可以傳很遠。",
+          "time": null
+        },
+        {
+          "text": "4. know 知道\nI know that blue whales sing. 我知道藍鯨會唱歌。\nThey do. They sing all day long. 會，牠們會唱一整天。",
+          "time": null
+        }
+      ],
+      "postscript": "你聽過烏龜的聲音嗎？來讀讀單字。\nloud 大聲的\nhear 聽到\nkind 種類\nknow 知道"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of animal did Gabriel listen to?",
+        "options": [
+          "a. Dogs",
+          "b. Turtles",
+          "c. Frogs"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where did Gabriel first hear these animals?",
+        "options": [
+          "a. In a rainforest",
+          "b. At home",
+          "c. At a pet store"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Who has lived in the Amazon for a long time?",
+        "options": [
+          "a. Gabriel",
+          "b. Gabriel's pet",
+          "c. Indigenous people"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
