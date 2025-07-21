@@ -618,5 +618,132 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230414-01",
+    "type": "國小",
+    "tag": [
+      "International Education",
+      "Outdoor Education",
+      "Multicultural Education",
+      "Environmental Education",
+      "Human Rights Education",
+      "Life Below Water",
+      "Life on Land",
+      "Reduced Inequalities",
+      "Industry, Innovation and Infrastructure",
+      "Clean Water and Sanitation",
+      "Good Health and Well-Being",
+      "No Poverty",
+      "Technology"
+    ],
+    "title": "Floating Toilets for Floating Villages",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230413NK.mp3",
+    "content": [
+      {
+        "en": "Ahh! That's better… now I need to wash my hands!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Toilets are great! They take our germs away. That helps us to be healthy.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Without toilets, people can get very sick. But toilets cost money. Some people don't have money for a toilet.",
+        "tw": "抽水馬桶可以帶走細菌，讓我們保持健康。但有一些人買不起抽水馬桶。",
+        "time": null
+      },
+      {
+        "en": "In Cambodia, there's a big lake. It's called the Tonle Sap. It's the biggest fishing lake in the world!",
+        "tw": "柬埔寨的洞里薩湖，是全世界最大的漁業湖泊。",
+        "time": null
+      },
+      {
+        "en": "About 100,000 people live on the Tonle Sap. They live in floating villages. They have houses and schools. But they do not have toilets. The lake water is very dirty.",
+        "tw": "洞里薩湖上住了大約十萬人，他們住在漂浮村落，村子裡有房屋跟學校，但是沒有抽水馬桶，所以湖水很髒。",
+        "time": null
+      },
+      {
+        "en": "The people there are very poor. They use the lake water for everything. They use it for cleaning.They use it for cooking.Some use it for drinking. That can make them very sick.",
+        "tw": "當地居民十分貧困，他們用湖水洗衣服、煮飯，有一些人還會喝，這讓他們很容易生病。",
+        "time": null
+      },
+      {
+        "en": "A company wants to help these people. It wants them to use floating toilets!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "These floating toilets are called \"HandyPods\". HandyPods clean the dirty toilet water. They help make the lake water safe.",
+        "tw": "有一家公司想要幫助這些人，製造出「方便飄浮馬桶」。這種馬桶可以處理排泄物，讓湖水比較安全。",
+        "time": null
+      },
+      {
+        "en": "Now there are 100 HandyPods on the Tonle Sap. The company wants 200 more HandyPods there by 2025. That's 300 HandyPods!",
+        "tw": "現在洞里薩湖上面有100個方便漂浮馬桶，公司希望2025年以前再多設置200個。",
+        "time": null
+      },
+      {
+        "en": "Floating toilets for floating villages, to help people stay healthy! What a great idea!",
+        "tw": "漂浮村莊的漂浮廁所，幫助人們保持健康！真是個好主意！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "柬埔寨的水上房屋現在有了更好的廁所。",
+      "content": [
+        {
+          "text": "1. floating 漂浮的 Have you heard of a floating house? 你有聽過漂浮房屋嗎？ Yes, I have. They are homes that float on the water. 有啊，就是浮在水面上的家。",
+          "time": null
+        },
+        {
+          "text": "2. in the world 世界上 That's right. 沒錯。 There are many floating houses in the world. 世界上有很多漂浮房屋。 Like in the Netherlands. 就像荷蘭。 Exactly. 正是。",
+          "time": null
+        },
+        {
+          "text": "3. people 人們 I can imagine why the Dutch people like them. 我可以想像為什麼荷蘭人喜歡它。 Oh, why? 為什麼呢？ They can just float away if they don't like their neighbors. 要是他們不喜歡鄰居，就可以漂走。",
+          "time": null
+        },
+        {
+          "text": "4. fish 釣魚 Or it's because they can go fishing anytime they want. That too. 也是。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很有趣。 floating 漂浮的 in the world 世界上 people 人們 fish 釣魚"
+    },
+    "quiz": [
+      {
+        "question": "1. What is the world's biggest fishing lake?",
+        "options": [
+          "a. The Tonle Pod",
+          "b. The Tonle Sap",
+          "c. The Toilet Sap"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where are these floating villages?",
+        "options": [
+          "a. On the water",
+          "b. In the sky",
+          "c. In trees"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many HandyPods are on the lake now?",
+        "options": [
+          "a. 100",
+          "b. 200",
+          "c. 300"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
