@@ -1456,5 +1456,102 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230621-01",
+    "type": "國小",
+    "tag": [
+      "Family Education",
+      "Quality Education",
+      "Arts"
+    ],
+    "title": "Music Festival Pays for Classes for Kids",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230620NK.mp3",
+    "content": [
+      {
+        "en": "Summer's here! That means… it's music festival time! Music festivals are big events. Lots of musicians sing and play music.",
+        "tw": "夏天是音樂節的時候！很多歌手會在音樂節唱歌表演。",
+        "time": null
+      },
+      {
+        "en": "Are you a music fan? You can have lots of fun at a music festival! There are pop festivals, hip-hop festivals, jazz festivals, rock festivals, classical music festivals, folk festivals, blues festivals, reggae festivals...",
+        "tw": "音樂節有好多種，流行音樂、嘻哈、爵士樂、搖滾、古典音樂、民謠、藍調、雷鬼音樂節等等...",
+        "time": null
+      },
+      {
+        "en": "There's a very special music festival this summer. It's called Ossyfest. Ossyfest is in Oswaldtwistle, a town in the UK. This year's festival will have forty musicians. The musicians play for free. But people pay to go to Ossyfest…",
+        "tw": "英國一個小鎮 Oswaldtwistle 舉辦了特別的音樂節，叫做 Ossyfest。今年有 40 個音樂家會表演。他們免費表演，但是觀眾要付費。",
+        "time": null
+      },
+      {
+        "en": "Where does the money from Ossyfest go? All the money pays for music classes for local kids! Last year, Ossyfest paid for music classes for 400 kids! Ossyfest saved their parents thousands of dollars.",
+        "tw": "這些錢去哪裡呢？都幫當地的孩子付了音樂課的學費，去年有 400 位小朋友免費上音樂課，幫爸爸媽媽省了好多錢！",
+        "time": null
+      },
+      {
+        "en": "Ossyfest and its musicians hope these local kids will make their own songs. Maybe the kids will play at Ossyfest someday!",
+        "tw": "Ossyfest 的音樂家希望這些孩子以後也可以自己創作音樂，說不定還可以回來 Ossyfest 表演！",
+        "time": null
+      },
+      {
+        "en": "Today is Make Music Day. Ossyfest's musicians make music because they hope kids will make music someday. So how about making some music yourself? Maybe you'll play at a music festival someday too!",
+        "tw": "今天是音樂日。Ossyfest 的音樂家們製作音樂，因為他們希望有一天孩子們也能製作音樂。那麼，你自己也來製作一些音樂怎麼樣？也許有一天你也能在音樂節上表演！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "英國小鎮這個音樂節，門票收入讓兒童學音樂。",
+      "content": [
+        {
+          "text": "1. music 音樂 I've never been to a music festival. 我從來沒有去過音樂節。 Really? That's too bad. 真的喔，真可惜。 It's a lot of fun.它很好玩的。",
+          "time": null
+        },
+        {
+          "text": "2. musician 音樂家 What's it like? 它是什麼樣子？ A music festival? 音樂節嗎？ Lots of musicians would sing on different stages. 很多音樂家在不同的舞台上唱歌。 You can choose the one you like. 你可以選喜歡的。",
+          "time": null
+        },
+        {
+          "text": "3. pay 付錢 How much do I have to pay? 我需要付多少錢？ It depends. 不一定。 From about 500 to thousands of NT. 從五百塊左右到好幾千台幣。",
+          "time": null
+        },
+        {
+          "text": "4. someday 有一天 I want to go to a festival someday. 我有一天也要去音樂節。 Yeah, you should. 你是該去。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like music? music 音樂 musician 音樂家 pay 付費 someday 有一天"
+    },
+    "quiz": [
+      {
+        "question": "1. Where in the UK is Ossyfest?",
+        "options": [
+          "A: Fizzel Wizzel",
+          "B: Oswaldtwistle",
+          "C: Lethal Bizzle"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "2. How many music classes did Ossyfest pay for last year?",
+        "options": [
+          "A: 40",
+          "B: 400",
+          "C: 440"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "3. What day is today?",
+        "options": [
+          "A: Make Music Day",
+          "B: Christmas Day",
+          "C: Monday"
+        ],
+        "time": null,
+        "answer": "A"
+      }
+    ]
   }
 ]
