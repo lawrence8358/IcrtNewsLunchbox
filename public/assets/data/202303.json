@@ -1844,5 +1844,115 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230330-01",
+    "type": "國小",
+    "tag": [
+      "International Education",
+      "Character Education",
+      "Multicultural Education",
+      "Life on Land",
+      "Good Health and Well-Being",
+      "Social Studies"
+    ],
+    "title": "Sports Tournament for Bald Men Returns to Japan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230329NK.mp3",
+    "content": [
+      {
+        "en": "Japan is great for art, food, science… and sports too!",
+        "tw": "日本在藝術、美食、科學……還有運動方面都很棒！",
+        "time": null
+      },
+      {
+        "en": "There's a town in Japan called Tsuruta. It's very small. Only about 10,000 people live there. That's not very many. About two and a half million people live in Taipei City!",
+        "tw": "日本有一個小鎮叫做鶴田，居民很少，只有一萬人。台北市有兩百五十萬人喔！",
+        "time": null
+      },
+      {
+        "en": "Every year before the COVID pandemic, Tsuruta hosted a very special sports tournament: the National Sucker Tug of War Tournament. It was only for men who have no hair or not much hair: bald men!",
+        "tw": "在疫情之前，鶴田都會舉辦很特別的比賽，叫做全國吸盤拔河大賽。",
+        "time": null
+      },
+      {
+        "en": "Maybe you play Tug of War too. You need a rope. There are two teams. Each team pulls on one end of the rope.",
+        "tw": "你可能也玩過拔河。你需要一條繩子，有兩支隊伍。每支隊伍拉住繩子的一端。",
+        "time": null
+      },
+      {
+        "en": "This tournament is the same. But it is also not the same. To play, you need a string, two bald men… and two suction cups!",
+        "tw": "拔河需要一條繩子，兩支隊伍各拉一邊。吸盤拔河跟那種拔河有一點像，又有一點不像，它需要一條線，兩名光頭男子，跟兩個吸盤。",
+        "time": null
+      },
+      {
+        "en": "The suction cups are at the ends of the string. Each bald man sticks a suction cup on his head. The men are face-to-face.",
+        "tw": "吸盤在繩子的兩端。每個光頭男子把吸盤黏在頭上。他們面對面站著。",
+        "time": null
+      },
+      {
+        "en": "Then both men pull back as much as they can! They want to pull off the other man's suction cup first!",
+        "tw": "參賽選手要把吸盤黏在頭上，面對面往後拉，誰先把對方的吸盤拉下來，誰就贏了！",
+        "time": null
+      },
+      {
+        "en": "This year, the tournament returned! People came from all over Japan for it. Would you go to a sports tournament for bald men?",
+        "tw": "今年，這項比賽又回來了！人們從日本各地前來參加。你會去參加光頭男子的運動錦標賽嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這個日本小鎮的光頭拔河活動，是不是很有趣呢？",
+      "content": [
+        {
+          "text": "1. team 隊伍 Come on! It's time for Tug-of-War! 快來，拔河時間到了！ Can we play? 我們可以玩嗎？ No, you have to join the team first. 不行，你得先加入一個隊。 It takes a lot of practice. 需要很多練習呢。",
+          "time": null
+        },
+        {
+          "text": "2. pull 拉 I thought you just need to pull the rope. 我以為你只要拉繩子就好了。 Of course, everyone has to pull hard. 每個人當然都要用力拉。",
+          "time": null
+        },
+        {
+          "text": "3. sport 運動 But it's also a special sport. 不過它也是很特別的運動。 Skills are important. 技巧很重要。",
+          "time": null
+        },
+        {
+          "text": "4. man 男人 Hey, it looks the women's team will win! 嘿，看起來女子隊會贏！ Woohoo! They did win! 她們真的贏了！ What's going on with the men's team? 男生隊是怎麼回事？",
+          "time": null
+        }
+      ],
+      "postscript": "你有參加過拔河比賽嗎？ team 隊伍 pull 拉 sport 運動 man 男人"
+    },
+    "quiz": [
+      {
+        "question": "1. What do bald men have?",
+        "options": [
+          "a. No hair",
+          "b. Lots of hair",
+          "c. Long hair"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where is the bald men's tournament held?",
+        "options": [
+          "a. Tokyo",
+          "b. Tsuruta",
+          "c. Tsuruga"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do bald men need to play this sport?",
+        "options": [
+          "a. Hair",
+          "b. Two teams and a rope",
+          "c. Two suction cups and string"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
