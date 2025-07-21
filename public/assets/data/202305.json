@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20230501-01",
     "type": "國小",
@@ -103,6 +103,95 @@
           "A: Blossom's new wife",
           "B: Blossom's new husband",
           "C: Blossom's new mate"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
+    "id": "20230503-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life on Land",
+      "Family Education",
+      "Multicultural Education",
+      "International Education"
+    ],
+    "title": "Dogs Ride a Bus Like Kids",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230502NK.mp3",
+    "content": [
+      {
+        "en": "Bye, buddy! Be good! See you later! I want to be with my dog all day. But I can't take him everywhere. Is he okay at home all day? He can't have fun. He can't go for a walk. Is he bored? Does he want to play with other dogs?",
+        "tw": "我不能每天都把狗狗帶在身邊，牠在家會不會很無聊？牠會想跟其他狗狗玩嗎？",
+        "time": null
+      },
+      {
+        "en": "Many people are busy. They can't walk their dogs. What do they do? They get a dog walker. Mo is a dog walker. She loves her job. Mo walks many dogs.",
+        "tw": "很多人太忙，沒有空遛狗，他們會請「遛狗人」幫忙。Mo 就是一位遛狗人。",
+        "time": null
+      },
+      {
+        "en": "Mo has a bus. Kids don't ride it. Dogs ride Mo's bus! Mo picks up the dogs. The dogs sit on their own seats. They wear seat belts. Are the dogs good in the bus? I think all the dogs are good! Why? It's because good dogs get dog treats. Dogs love to eat treats!",
+        "tw": "Mo 還有一台狗狗專用的巴士！牠們上車坐好，還要繫安全帶。表現好的狗狗有零嘴可以吃，所以牠們在車上都很乖！",
+        "time": null
+      },
+      {
+        "en": "The bus goes to a walking trail. The dogs get off the bus. Mo takes them on a long walk. They play. They have so much fun! These dogs are happy! They aren't at home all day. They aren't bored. They ride a bus! Do you love dogs? I do! Hmm … maybe I can be a dog walker too! Then I can play with dogs all day!",
+        "tw": "巴士開到了一條步道。狗狗們下車，Mo帶著牠們走了很長一段路。牠們玩得很開心！這些狗狗都很開心！牠們不再一整天待在家裡，也不再無聊。牠們搭巴士！你喜歡狗狗嗎？我喜歡！嗯……也許我也能成為一名遛狗人！那我就可以一整天都和狗狗玩了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這名專業遛狗人要照顧的狗太多，需要一輛小巴士來裝載。",
+      "content": [
+        {
+          "text": "pick up 接起來. I've got to go. 我得走了. I need to pick up my dog.我得去接我的狗. Just like picking up a child. 就跟接小孩一樣.",
+          "time": null
+        },
+        {
+          "text": "seat belt 安全帶. Yeah, only a child would wear a seat belt. 對，但是小孩會扣上安全帶. But not your dog? 你的狗不用嗎? No, he likes to play with a ball in the back seat. 不用，他喜歡在後座玩球. Just take away the ball.把球拿走啊.",
+          "time": null
+        },
+        {
+          "text": "bored 無聊的. I can't. He'll be bored and bark at me all the way home.不行，他會覺得無聊，回家路上對著我叫.",
+          "time": null
+        },
+        {
+          "text": "all day 一整天. Maybe you should just walk him home. 也許你應該就跟他走路回家. That will take all day. 那要花一整天.",
+          "time": null
+        }
+      ],
+      "postscript": "同學們，來一起讀單字。pick up接起來 seat belt安全帶 bored無聊的 all day一整天"
+    },
+    "quiz": [
+      {
+        "question": "What is Mo's job?",
+        "options": [
+          "a. dog talker",
+          "b. dog washer",
+          "c. dog walker"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "What do the dogs do on the bus?",
+        "options": [
+          "a. Sit with a kid",
+          "b. Sit on their own seats",
+          "c. Sit under the seats"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "Why do the dogs go to the trail?",
+        "options": [
+          "a. To be bored",
+          "b. To wear a seat belt",
+          "c. To go on a walk"
         ],
         "time": null,
         "answer": "c"
