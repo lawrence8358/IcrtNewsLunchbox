@@ -1344,5 +1344,116 @@
         "answer": "C"
       }
     ]
+  },
+  {
+    "id": "20230519-01",
+    "type": "國小",
+    "tag": [
+      "No Poverty",
+      "Good Health and Well-Being",
+      "Reduced Inequalities",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life on Land",
+      "Environmental Education",
+      "Life Education",
+      "Outdoor Education",
+      "International Education",
+      "Multicultural Education"
+    ],
+    "title": "The 'Nest Man of India'",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230518NK.mp3",
+    "content": [
+      {
+        "en": "Have you ever been to Delhi? Delhi is in India. Lots and lots of people live in Delhi!",
+        "tw": "你有去過印度的德里嗎？很多人住在那裡。",
+        "time": null
+      },
+      {
+        "en": "Many years ago, there were lots of sparrows in Delhi too. Rakesh Khatri gave food to sparrows. He was a kid then.",
+        "tw": "德里很久以前有很多麻雀，Rakesh Khatri 小時候常常餵麻雀。",
+        "time": null
+      },
+      {
+        "en": "Sparrows are little brown birds. They like to live in cities. But sparrows are leaving Delhi. They don't have many places to live. People are not making space for sparrows in the city.",
+        "tw": "麻雀喜歡在城市裡生活，但是很多都飛走了，因為德里人口增加，留給麻雀的空間也一直縮水。",
+        "time": null
+      },
+      {
+        "en": "Rakesh Khatri wants to help sparrows live in Delhi. He has been making nests for a long time. A nest is a bird's home. Sparrows live in nests. He puts the nests all over the city. People call him the 'Nest Man of India'.",
+        "tw": "Rakesh Khatri 想要幫助麻雀，他特別為麻雀做鳥巢，放在城市每一個角落，人們都叫他「印度鳥巢人」。",
+        "time": null
+      },
+      {
+        "en": "He makes nests from coconut shells, cotton, or other natural things. He recycles too. Sometimes he makes nests from old juice boxes.",
+        "tw": "他會用椰子殼、棉花等等的自然界物品做鳥巢。他也回收，有時候他用舊的果汁盒來做。",
+        "time": null
+      },
+      {
+        "en": "Rakesh Khatri has made 250,000 nests! He made them with no help! Now he teaches students how to make nests too. He has been to 3,500 schools! Now 100,000 students can make nests!",
+        "tw": "他一個人做了 25 萬個鳥巢！他還拜訪過 3500 間學校，教學生怎麼做鳥巢，已經有十萬個學生學會了這個技巧。",
+        "time": null
+      },
+      {
+        "en": "Today is a day for helping animals. So thanks, Rakesh Khatri, the Nest Man of India!",
+        "tw": "今天是幫助動物的日子。謝謝你，印度鳥巢人 Rakesh Khatri！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "為了讓更多麻雀留在德里，這位印度人做了25萬個鳥巢。",
+      "content": [
+        {
+          "text": "1. little 小的\\nLook at those birds! 你看那些鳥！\\nYeah, aren't they beautiful? 可不是，很美吧？\\nThey're little egrets. 牠們是小白鷺。",
+          "time": null
+        },
+        {
+          "text": "2. nest 鳥巢\\nThey come here in the spring, build a nest and breed. 他們春天來築巢繁殖。\\nAnd then they fly away? 然後就飛走了？",
+          "time": null
+        },
+        {
+          "text": "3. leave 離開\\nRight, they often leave in the summer or autumn.\\n對，通常在夏天或是秋天就走了。\\nWhere do they go? 去了哪裡呢？\\nI'm not sure. 我不確定。",
+          "time": null
+        },
+        {
+          "text": "4. place 地方\\nA place that's cooler than Taipei, I guess. 我想是去比台北涼快的地方。\\nSo you've watched them for a long time? 所以你觀察牠們很久了？\\nYeah, I come here once a month. 對，我每個月來一次。",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字？\\nlittle 小的\\nnest 鳥巢\\nleave 離開\\nplace 地方"
+    },
+    "quiz": [
+      {
+        "question": "1. What color are sparrows?",
+        "options": [
+          "A: Blue",
+          "B: Brown",
+          "C: Black"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What is the Nest Man of India's name?",
+        "options": [
+          "A: Rakesh Khatri",
+          "B: Delhi",
+          "C: Nest Man"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many students can make nests now?",
+        "options": [
+          "A: 250,000",
+          "B: 3,500",
+          "C: 100,000"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
