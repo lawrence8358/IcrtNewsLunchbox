@@ -408,5 +408,108 @@
         "answer": "C"
       }
     ]
+  },
+  {
+    "id": "20230508-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Technology Education",
+      "Information Education",
+      "Safety Education"
+    ],
+    "title": "Five Boys Saved from Tunnel",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230505NK.mp3",
+    "content": [
+      {
+        "en": "That's the sound of a fire truck. Someone needs help! Firefighters are going to help!",
+        "tw": "這是消防車的聲音，有人需要幫忙囉！",
+        "time": null
+      },
+      {
+        "en": "Firefighters help in emergencies. It can be a fire or a car crash. It's when something bad happens.",
+        "tw": "消防隊員會幫助有緊急狀況的人，像是火災或是車禍。",
+        "time": null
+      },
+      {
+        "en": "Five boys had an emergency. They needed help from firefighters. It wasn't because of a fire… They were in a sewer! Sewers are under roads. They are for dirty water. Sewers have many tunnels. The boys walked in the tunnels. They walked for 400 meters. Then they were lost! Boys: Where are we?! HELP!",
+        "tw": "有五個男孩困在下水道裡面。他們跑進下水道，走了400公尺，卻在裡面迷路了！",
+        "time": null
+      },
+      {
+        "en": "One boy had a cell phone. He called for help. Firefighter: Hello? This is the fire department… Boy: Help! Firefighter: Where are you boys? Boy: We don't know where we are right now! Firefighter: Okay, don't worry boys, we're on our way… Boy: Please hurry!",
+        "tw": "其中一個人有手機，他打電話給消防隊員，但是他們都不知道自己在哪裡。",
+        "time": null
+      },
+      {
+        "en": "The firefighters drove very fast! Then they went down into the sewer. The firefighters needed help. They did not see the boys.",
+        "tw": "消防隊員飛快地趕到下水道之後，找不到這些小男孩。",
+        "time": null
+      },
+      {
+        "en": "Firefighter: Call for help guys! We're looking for you. We want you to scream and yell! It worked! The firefighters found the boys! The boys were lucky. No one was hurt. And the cell phone worked in the tunnel!",
+        "tw": "結果成功了！消防隊員找到了這些小男孩，沒有人受傷，而且很幸運的是，下水道裡面還可以用手機！",
+        "time": null
+      },
+      {
+        "en": "Do you know the emergency phone number in Taiwan? It's 1-1-9. Stay safe out there!",
+        "tw": "你知道台灣的緊急電話號碼嗎？是119。出門在外請注意安全！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "在下水道裡面迷路的五個小男孩，靠著手機通訊獲救。",
+      "content": [
+        {
+          "text": "1. lost 迷路的 Hey, didn't we pass this store just 10 minutes ago? 我們不是十分鐘前才經過這家店？ We did! Now I'm sure we're lost. 沒錯，現在我確定我們迷路了。",
+          "time": null
+        },
+        {
+          "text": "2. help 幫助 We need to get help. 我們得找人幫忙。 Don't look at me. 你別看我。 I didn't want to come.我本來就不想來。",
+          "time": null
+        },
+        {
+          "text": "3. emergency 緊急狀況 Let me call the emergency number. 我來打緊急電話號碼。 But this is not an emergency! 可是我們現在並不緊急！ We're not in danger. 我們又沒有危險。",
+          "time": null
+        },
+        {
+          "text": "4. go down 往下走 Then any smart ideas? 那你有什麼聰明主意？ Let's just go down there. 我們就從那裏走下去吧。 Maybe it's a subway station. 也許是個地鐵站。 Hurray, it is! 萬歲，真的是耶！",
+          "time": null
+        }
+      ],
+      "postscript": "你有迷路過嗎？ lost 迷路的 help 幫助 emergency 緊急情況 go down 往下走"
+    },
+    "quiz": [
+      {
+        "question": "1. What do firefighters do?",
+        "options": [
+          "A: Help people",
+          "B: Make fires",
+          "C: Fight people with fire"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where were the boys?",
+        "options": [
+          "A: A car",
+          "B: A sewer",
+          "C: A fire truck"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What is the emergency phone number in Taiwan?",
+        "options": [
+          "A: 911",
+          "B: 191",
+          "C: 119"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
