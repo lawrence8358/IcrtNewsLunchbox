@@ -197,5 +197,113 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230504-01",
+    "type": "國小",
+    "tag": [
+      "Life Education",
+      "Character Education",
+      "Life on Land",
+      "Good Health and Well-Being"
+    ],
+    "title": "Man Lost at Sea Eats Only Ketchup for 24 Days",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230503NK.mp3",
+    "content": [
+      {
+        "en": "I love ketchup. I put it on everything I eat. I eat it on hot dogs, hamburgers, rice. That's right. I sometimes put it on rice. Yum!",
+        "tw": "我好愛番茄醬，我會把它放在熱狗或是漢堡上，有時候還會配白飯吃！",
+        "time": null
+      },
+      {
+        "en": "I love ketchup very much. But I don't eat only ketchup. I need some food to eat it with. Ketchup on French fries, on pizza, on… Oh, now I'm hungry!",
+        "tw": "但是我不會光吃番茄醬，得要跟其他東西一起吃，像是薯條，披薩等等。講一講我又餓了！",
+        "time": null
+      },
+      {
+        "en": "But, did you hear the news? A man ate only ketchup for many days!",
+        "tw": "但是有一個人光吃番茄醬吃了好多天！",
+        "time": null
+      },
+      {
+        "en": "This man was working on a boat. It was not his boat. No one was with him. The boat went out to sea. Then it was too late. He was lost at sea!",
+        "tw": "這名男子在船上工作，身邊沒有人，結果船飄到外海去。",
+        "time": null
+      },
+      {
+        "en": "The engine didn't work. The radio didn't work. He looked for food. He found a bottle of ketchup.",
+        "tw": "引擎發動不了，無線電也不能用，他到處找食物，只找到一瓶番茄醬。",
+        "time": null
+      },
+      {
+        "en": "He was lost at sea for 24 days. He had ketchup to eat. He had some dirty water to drink. He had no other food! He made soup with ketchup and water. He ate it every day.",
+        "tw": "他在海上漂流了 24 天，只有番茄醬可以吃，另外還有一點骯髒的水。他用番茄醬跟水做成湯，每天都喝。",
+        "time": null
+      },
+      {
+        "en": "One day he had no more ketchup. But a ship found him that day! Whew, that's good news!",
+        "tw": "番茄醬用完的那天，剛好有一艘船找到他了！真是好險。",
+        "time": null
+      },
+      {
+        "en": "I love ketchup. But can I eat it for 24 days? I'm not sure. How about you?",
+        "tw": "我愛番茄醬，但我能吃24天嗎？我不確定。你呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "靠著番茄醬，這名男子撿回一條命。",
+      "content": [
+        {
+          "text": "1. hungry 飢餓的\nI'm so hungry! 我餓死了！\nDid you eat everything in the fridge again? 你又把冰箱裡的東西都吃了？\nNo, I didn't. There's some leftover pizza from yesterday.",
+          "time": null
+        },
+        {
+          "text": "2. work 有用\nUgh, I guess that will have to work. 好吧，只好那樣。\nCan you make me a sandwich, too? 你也可以幫我做個三明治嗎？\nSure, I'll make you one.",
+          "time": null
+        },
+        {
+          "text": "3. soup 湯\nSince I'm already on it, let me make a soup, too.\nOh, you're the best!",
+          "time": null
+        },
+        {
+          "text": "4. for days 好幾天\nWow, you look like you haven't eaten for days. 哇，你看起來好幾天沒吃飯了。\nSorry, I can't help it. 真抱歉，我忍不住。",
+          "time": null
+        }
+      ],
+      "postscript": "Are you hungry right now?\nhungry 飢餓的\nwork 有用\nsoup 湯\nfor days 好幾天"
+    },
+    "quiz": [
+      {
+        "question": "1. Where was the man lost?",
+        "options": [
+          "A: In a desert",
+          "B: At sea",
+          "C: In a jungle"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "2. What did he have to eat?",
+        "options": [
+          "A: Ketchup",
+          "B: Rice",
+          "C: Hamburgers"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "3. How long was he lost?",
+        "options": [
+          "A: 24 days",
+          "B: 4 days",
+          "C: 20 days"
+        ],
+        "time": null,
+        "answer": "A"
+      }
+    ]
   }
 ]
