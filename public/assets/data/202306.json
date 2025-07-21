@@ -940,5 +940,111 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230615-01",
+    "type": "國小",
+    "tag": [
+      "Life Education",
+      "Good Health and Well-Being"
+    ],
+    "title": "Man Lives on Soda for 17 Years",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230614NK.mp3",
+    "content": [
+      {
+        "en": "That tastes sooooo good! But one glass is all I want. A 58-year-old man from Iran likes soda a lot. He drinks three large bottles of soda every day!",
+        "tw": "我喜歡汽水，不過喝一小杯就夠了。但是在伊朗，有一個 58 歲的男子很愛喝汽水。他每天喝三大罐汽水！",
+        "time": null
+      },
+      {
+        "en": "How much does the man like soda? He likes it so much, he doesn't eat food! He only drinks soda. He says that's all he needs.",
+        "tw": "他有多愛喝汽水呢？他喜歡到只喝汽水不吃飯！",
+        "time": null
+      },
+      {
+        "en": "The man stopped eating food in 2006.",
+        "tw": "這個男子從 2006 年之後就沒有吃過飯了。",
+        "time": null
+      },
+      {
+        "en": "He woke up one night with a very strange feeling in his mouth. He went to many doctors. Why did he have that strange feeling? The doctors did not know.",
+        "tw": "他某一天半夜起床，覺得嘴巴裡面有一種怪怪的感覺，看了好多醫生都沒有用。",
+        "time": null
+      },
+      {
+        "en": "Going to the doctors did not help the man. And looking at food made him feel sick. So he stopped eating. That was 17 years ago!",
+        "tw": "他去看醫生也沒有什麼幫助，他只要看到食物就全身不舒服，於是停止吃飯，那是 17 年前的事了。",
+        "time": null
+      },
+      {
+        "en": "The man says soda gives him energy. He does not feel hungry. His family does not eat in front of him now. They know looking at food makes him feel sick.",
+        "tw": "這個男子說，汽水讓他有精神，不覺得餓，他的家人現在也不在他面前吃飯了，他們知道看著食物會讓他感到噁心。",
+        "time": null
+      },
+      {
+        "en": "It's not a good idea to stop eating food! Most doctors say we should eat three meals a day. That's breakfast, lunch, and dinner.",
+        "tw": "但是不吃飯對身體不好，醫生建議一天應該要吃三餐。",
+        "time": null
+      },
+      {
+        "en": "Just soda? And no food? For 17 years?! No, thanks… Uh-oh, now I'm hungry!",
+        "tw": "只有汽水？沒有食物？長達17年？！不，謝謝… 噢，現在我餓了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "有人沒辦法吃東西，只能喝汽水維生。",
+      "content": [
+        {
+          "text": "1. drink 喝 Why do we have to eat and drink every day? 我們為什麼每天都得吃吃喝喝? Because we like to stay alive? 因為我們想要活著?",
+          "time": null
+        },
+        {
+          "text": "2. sick 生病的 No. 不對。 So what's your answer? 那你的答案是什麼? We need food because we don't want to be sick.",
+          "time": null
+        },
+        {
+          "text": "3. strange 奇怪的 That's a strange thing to say. 這是很奇怪的說法。 I mean it. 真的啊。",
+          "time": null
+        },
+        {
+          "text": "4. doctor 醫生 I tried to stop eating for 2 days. 我試著兩天不吃飯。 I had to see a doctor. 就得去看醫生。 Then why did you do it? 那你為什麼不吃? I just wanted to see how it felt. 我只是想看看是什麼感覺。",
+          "time": null
+        }
+      ],
+      "postscript": "你每天吃三餐嗎? 來一起讀單字。 drink 喝 sick 生病的 strange 奇怪的 doctor 醫生"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the 58-year-old man from?",
+        "options": [
+          "a. Pakistan",
+          "b. Iran",
+          "c. Iraq"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. When did the man stop eating food?",
+        "options": [
+          "a. 2006",
+          "b. 2007",
+          "c. 2017"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many meals should we eat every day?",
+        "options": [
+          "a. 1",
+          "b. 2",
+          "c. 3"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
