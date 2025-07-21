@@ -1,0 +1,112 @@
+ [
+  {
+    "id": "20230830-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Gender Equality Education",
+      "Human Rights Education",
+      "Character Education",
+      "Life Education",
+      "Social Studies"
+    ],
+    "title": "Superhero Kids Are Saving the Earth",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230829NK.mp3",
+    "content": [
+      {
+        "en": "The Earth needs a lot of help. Who can help? One man says kids can help the Earth!",
+        "tw": "有個人說小朋友可以幫助地球!",
+        "time": null
+      },
+      {
+        "en": "The man made a game for kids. The game helps them save the Earth! In this game, kids are superheroes.",
+        "tw": "他為小朋友設計了一個救地球的遊戲，在遊戲裡，他們都是超級英雄。",
+        "time": null
+      },
+      {
+        "en": "How do kids play the game? First, they make a superhero group. Superheroes are stronger together.",
+        "tw": "這個遊戲該怎麼玩呢? 首先小朋友們要組成超級英雄聯盟。",
+        "time": null
+      },
+      {
+        "en": "Then they look at their neighborhood. Can they help the Earth there? Are the parks dirty? Are there no trees or gardens?",
+        "tw": "他們找找看家裡附近有沒有可以幫助地球的，公園乾不乾淨，是不是沒有樹或花園。",
+        "time": null
+      },
+      {
+        "en": "The superheroes talk to people in their neighborhood. They learn a lot. Some people give them more help.",
+        "tw": "超級英雄和鄰居聊過，他們學到很多，有一些鄰居還給他們很多幫助。",
+        "time": null
+      },
+      {
+        "en": "The superheroes have many ideas. They make a plan and then … the superheroes have fun!",
+        "tw": "孩子們有很多的想法。他們訂了一個計劃。",
+        "time": null
+      },
+      {
+        "en": "The superheroes make parks clean and green! They plant trees! They make neighborhood gardens! They have fun together and help save the Earth!",
+        "tw": "孩子們綠化了公園，也把它變乾淨! 他們玩得很開心還幫助了地球!",
+        "time": null
+      },
+      {
+        "en": "The Earth needs many superheroes. You and your friends can be superheroes too! Play the game together.",
+        "tw": "地球需要很多超級英雄。你和你的朋友也可以成為超級英雄！一起玩這個遊戲吧。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一個好玩的遊戲，讓兒童幫地球的忙。",
+      "content": [
+        {
+          "text": "1. dirty 髒的。\nWow, this beach is really dirty! 哇，這個海灘真是髒!\nYeah… It was not like this when I was little. 是啊，我小時候不是這樣的。",
+          "time": null
+        },
+        {
+          "text": "2. look at 看，注視。\nLook at all these bottles and bags! 你看這些瓶子袋子。\nShould we help clean this beach? 我們應該幫忙清理這個海灘嗎?",
+          "time": null
+        },
+        {
+          "text": "3. neighborhood 鄰近的區域。\nNo! What we should do is get everyone in this neighborhood to help out.\n不，我們應該做的，是讓這個地方每個人都來幫忙清理。\nThat's too hard. 那太難了。",
+          "time": null
+        },
+        {
+          "text": "4. together 一起。\nI know. But it's the only way. 我知道，不過這是唯一的辦法。\nAnd it can be fun when people do it together. 而且大家一起做，還會很好玩呢!",
+          "time": null
+        }
+      ],
+      "postscript": "一起來讀今天的單字。\ndirty髒的 look at注視 neighborhood鄰近的區域 together一起"
+    },
+    "quiz": [
+      {
+        "question": "1. What did one man make to help save the Earth?",
+        "options": [
+          "a. a park",
+          "b. a game",
+          "c. a lot of money"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why do the kids make a superhero group?",
+        "options": [
+          "a. to clean parks",
+          "b. to plant trees",
+          "c. to be stronger together"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Where do the superheroes help the Earth?",
+        "options": [
+          "a. the supermarket",
+          "b. their neighborhood",
+          "c. their friends' homes"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  }
+]
