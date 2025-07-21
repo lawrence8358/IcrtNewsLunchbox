@@ -1,0 +1,106 @@
+ [
+  {
+    "id": "20230406-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Reading Literacy Education",
+      "International Education",
+      "Multicultural Education",
+      "Information Education"
+    ],
+    "title": "8th Grader Wins Spelling Bee with 'Taiwan'",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230331NK.mp3",
+    "content": [
+      {
+        "en": "How do you spell the word \"Taiwan\"?",
+        "tw": "你知道「台灣」用英文要怎麼拼嗎？",
+        "time": null
+      },
+      {
+        "en": "One girl spelled Taiwan, and… she won a spelling bee! What's a spelling bee? It's a contest in American schools. Many students like it. Winners can go to state and national spelling bees.",
+        "tw": "拼字比賽在美國很受歡迎，學校比賽的冠軍可以參加全國拼字比賽。有一個女生因為拼出台灣，得到了冠軍！",
+        "time": null
+      },
+      {
+        "en": "In this contest, students try to spell words. They say the letters. But some English words are hard to spell.",
+        "tw": "參賽的學生需要說出單字的正確拼法，但有一些英語單字很難拼。",
+        "time": null
+      },
+      {
+        "en": "Kayla is an 8th grader. She is from Idaho. She went to a big spelling bee in Idaho. Kayla is a very good speller. But she didn't think she would win.",
+        "tw": "愛達荷州的國二學生 Kayla 參加了這項比賽，她覺得自己不會贏。",
+        "time": null
+      },
+      {
+        "en": "The words got harder and harder. One by one, students made spelling mistakes. Finally, there was only Kayla… and one more student. Kayla had one more word to spell. If she spelled it right, she would win.",
+        "tw": "但是單字越來越難，競爭對手一個一個被淘汰，剩下 Kayla 跟另外一個學生，Kayla 只要拼對最後一個字就會獲勝。",
+        "time": null
+      },
+      {
+        "en": "Kayla took a deep breath and said three letters: \"T-A-I\"... Then she said three more letters: \"W-A-N\". It was Taiwan! She was right! Kayla was the winner! She won $1000 dollars. And now she can go to the national spelling bee.",
+        "tw": "她答對了！Kayla 獲得冠軍，有一千美元獎金！現在她可以參加全國拼字大賽了。",
+        "time": null
+      },
+      {
+        "en": "Good luck at the national spelling bee, Kayla!",
+        "tw": "祝 Kayla 在全國拼字比賽中好運！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台灣這個字的英文其實很簡單，而Kayla拼對了。",
+      "content": [
+        {
+          "text": "1. hard 困難的\nI find these math problems really hard. 我發現這些數學題真的好難。\nDon't look at me. I can't help you there. 別看我。我幫不上忙。\nI didn't even ask. 我都還沒問呢。\nI know. I'm just saying. 我知道，我只是說說。",
+          "time": null
+        },
+        {
+          "text": "2. harder 更困難\nBut it feels like it's getting harder and harder every day.\n但是我覺得它一天比一天難。\nThat's because you're learning something new. 那是因為你在學新的東西。",
+          "time": null
+        },
+        {
+          "text": "3. mistake 錯誤\nBut I keep making mistakes. 但是我一直犯錯。\nOf course. How else can you learn? 當然啦，要不然怎麼學？",
+          "time": null
+        },
+        {
+          "text": "4. contest 比賽\nYou sound like you've won math contests before. 你聽起來以前贏過數學比賽。\nNot at all. 完全沒有。",
+          "time": null
+        }
+      ],
+      "postscript": "拼字比較難還是數學？\nhard 困難的\nharder 更困難\nmistake 錯誤\ncontest 比賽"
+    },
+    "quiz": [
+      {
+        "question": "1. Which U.S. state is Kayla from?",
+        "options": [
+          "a. Iowa",
+          "b. Texas",
+          "c. Idaho"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where can Kayla go next?",
+        "options": [
+          "a. The Iowa State Spelling Bee",
+          "b. The National Spelling Bee",
+          "c. The World Spelling Bee"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. At spelling bees, how do students spell words?",
+        "options": [
+          "a. They write letters",
+          "b. They say letters",
+          "c. They read letters"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  }
+]
