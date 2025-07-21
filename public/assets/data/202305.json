@@ -1977,5 +1977,104 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230529-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Clean Water and Sanitation",
+      "Responsible Consumption and Production",
+      "Life on Land",
+      "Life Education",
+      "Safety Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies"
+    ],
+    "title": "A Water Festival in Taiwan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230526NK.mp3",
+    "content": [
+      {
+        "en": "Hi there! Have you ever been to a water festival? People throw lots of water. Everyone gets very wet! It sounds like fun!",
+        "tw": "你參加過潑水節嗎？大家都會全身濕淋淋的，很好玩！",
+        "time": null
+      },
+      {
+        "en": "There is a water festival in a country called Myanmar. The festival is called Thingyan. It celebrates Myanmar's New Year. Their New Year is in April.",
+        "tw": "緬甸的潑水節在四月舉辦，叫做 Thingyan，是緬甸的新年。",
+        "time": null
+      },
+      {
+        "en": "Many people from Myanmar live in Taiwan. Many of them live in New Taipei City. New Taipei City has a \"Little Myanmar\". Little Myanmar has many shops and restaurants.",
+        "tw": "很多緬甸僑胞住在台灣的新北市，新北有個地區綽號叫做小緬甸，有很多商店跟餐廳。",
+        "time": null
+      },
+      {
+        "en": "Every year, people from Myanmar have a big water festival there. But this year, there was a problem. There wasn't much rain. And now it is important to save water in Taiwan. What happened to the water festival this year?",
+        "tw": "每一年，緬甸人都會在小緬甸舉辦潑水節，但今年台灣的雨太少了，需要節約用水，怎麼辦呢？",
+        "time": null
+      },
+      {
+        "en": "They still had the festival. They celebrated their culture and traditions. They shared them with festival visitors too. But they used very little water! They sprinkled some drops of water on people. Their tradition says this water washes away bad luck.",
+        "tw": "他們還是舉辦了潑水節，慶祝傳統文化，不過只撒一點點水在身上。他們相信潑水可以洗去厄運。",
+        "time": null
+      },
+      {
+        "en": "People from Myanmar had their water festival with very little water! Let's help Taiwan save water too!",
+        "tw": "緬甸人以極少的水量舉辦了他們的潑水節！我們也一起來幫助台灣節約用水吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "新北市的小緬甸，每年都會慶祝潑水節。",
+      "content": [
+        {
+          "text": "1. celebrate 慶祝\nMy friend has just returned from Thailand. 我的朋友剛從泰國回來。\nHe says he had the best time celebrating the Water Festival there.\n他說他在那裏的潑水節玩得非常開心。",
+          "time": null
+        },
+        {
+          "text": "2. everyone 每個人\nWhat did they do? 他們做了什麼？\nHe and his friends bought big water guns… 他跟他的朋友買了大水槍...\nAnd they shot water at each other? 然後互相射擊？\nYeah, and everyone they saw on the street. 對，並且也針對路上看到的每個人。",
+          "time": null
+        },
+        {
+          "text": "3. year 年\nThat does sound like a lot of fun! 聽起來真好玩！\nYeah, I want to go, but it's too late now. 我很想去，但是現在太遲了。\nYou can go next year. 你可以明年去啊。\nThey have this festival every year. 他們每年都有這個節日。",
+          "time": null
+        }
+      ],
+      "postscript": "你想慶祝潑水節嗎？\ncelebrate 慶祝\neveryone 每個人\nyear 年"
+    },
+    "quiz": [
+      {
+        "question": "1. When is Myanmar's water festival?",
+        "options": [
+          "A: January",
+          "B: April",
+          "C: August"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "2. What do people do at water festivals?",
+        "options": [
+          "A: Make other people wet",
+          "B: Swim",
+          "C: Drink a lot of water"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "3. How much water did this year's water festival use?",
+        "options": [
+          "A: A lot",
+          "B: Very little",
+          "C: No water"
+        ],
+        "time": null,
+        "answer": "B"
+      }
+    ]
   }
 ]
