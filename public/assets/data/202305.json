@@ -918,5 +918,113 @@
         "answer": "A"
       }
     ]
+  },
+  {
+    "id": "20230515-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life on Land",
+      "Character Education",
+      "Safety Education"
+    ],
+    "title": "Guide Dogs Wanted",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230512NK.mp3",
+    "content": [
+      {
+        "en": "Look at that beautiful dog! All that long, gold hair… I think it's a Golden Retriever!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "That dog is great! I want to say hello! But I can't. That dog is a guide dog.",
+        "tw": "那裏有一隻好漂亮的狗狗，我想是黃金獵犬，真希望摸摸牠說哈囉，但是不行，因為牠是導盲犬。",
+        "time": null
+      },
+      {
+        "en": "Guide dogs are working dogs. Their job is to help blind people or anyone who cannot see very well. Guide dogs keep them safe.",
+        "tw": "導盲犬有工作要做，負責保護視障人士的安全。",
+        "time": null
+      },
+      {
+        "en": "Most sidewalks in Taiwan are busy! There are people and steps and signs and scooters… Close your eyes. Imagine you are blind! You can get hurt on a busy sidewalk.",
+        "tw": "台灣的人行道人很多，還有階梯、招牌，跟機車。想像你是個盲人，在忙碌的人行道上會容易受傷。",
+        "time": null
+      },
+      {
+        "en": "A blind person can be safe with a guide dog. A guide dog will stop them from getting hurt.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "In Taiwan, 60,000 people are blind or cannot see very well. But there are only 42 working guide dogs in this country! Most other countries have more guide dogs.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "It is not easy to get a guide dog. A dog needs training for 2 to 3 years. There are not many trainers in Taiwan. And one dog costs more than 32,000 NT$!",
+        "tw": "一隻狗狗要經過兩三年的訓練，才可以成為導盲犬，而且國內的訓練師不多，一隻導盲犬的訓練費用可能要花三萬兩千台幣！",
+        "time": null
+      },
+      {
+        "en": "Taiwan needs lots more guide dogs. So come on! Let's train those doggies!",
+        "tw": "台灣需要更多導盲犬。所以，來吧！讓我們來訓練這些狗狗！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "導盲犬對於視障人士有極大的幫助，卻不容易得到。",
+      "content": [
+        {
+          "text": "1. beautiful 美麗的。\nWhat a beautiful dog! 好漂亮的狗!\nWhat's his name? 他叫什麼名字?\nHer name is Tracy.她的名字是崔西。\nHi, Tracy! 嗨，崔西。",
+          "time": null
+        },
+        {
+          "text": "2. can 能夠。\nCan I pet her? 我可以摸摸她嗎?\nSure, go ahead. 當然，你摸吧。\nOh, you're a nice dog, aren't you? 你真是一條好狗，是吧?",
+          "time": null
+        },
+        {
+          "text": "3. train 訓練。\nYeah, she's well-trained. 對，她受過良好的訓練。\nDid you send her to a dog school? 你是送她去狗學校嗎?\nNo, a dog trainer helped me out. 不是，有一位狗訓練師來幫我忙。",
+          "time": null
+        },
+        {
+          "text": "4. safe 安全的。\nTracy keeps me safe on the sidewalk. 崔西會在人行道上保護我的安全。\nWow, how does she do that? 哇，她怎麼做?\nShe stops bikers from hitting me. 她不讓腳踏車撞到我。",
+          "time": null
+        }
+      ],
+      "postscript": "我們來一起讀單字。\nbeautiful美麗的\ncan能夠\ntrain訓練\nsafe安全的"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of dog has long, gold hair?",
+        "options": [
+          "A: Golden Bell",
+          "B: Golden Horse",
+          "C: Golden Retriever"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Who do guide dogs keep safe?",
+        "options": [
+          "A: Working people",
+          "B: Blind people",
+          "C: Beautiful people"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many people in Taiwan are blind or can't see very well?",
+        "options": [
+          "A: 33",
+          "B: 32,000",
+          "C: 60,000"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
