@@ -1954,5 +1954,113 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230331-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Family Education",
+      "International Education",
+      "Integrative Activities"
+    ],
+    "title": "Asian Moms Thanked at 95th Oscars",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230330NK.mp3",
+    "content": [
+      {
+        "en": "Did you watch the Oscars? They're the biggest movie awards in the world! This year's Oscars were great! There was a movie called \"Everything Everywhere All at Once\". It won seven awards!",
+        "tw": "你會看奧斯卡頒獎典禮嗎？這是全世界最大的電影獎項，今年有一部電影叫做「媽的多重宇宙」贏了七項大獎！",
+        "time": null
+      },
+      {
+        "en": "An actress called Michelle Yeoh is in the movie. She plays a laundromat owner who gets superpowers!",
+        "tw": "這部片的女主角是楊紫瓊，她飾演一個有超能力的洗衣店老闆娘。",
+        "time": null
+      },
+      {
+        "en": "Michelle Yeoh is from Malaysia. This year, she won the Oscar for Best Actress. She's the first actor from Asia to win the Best Actress award.",
+        "tw": "楊紫瓊來自馬來西亞，她今年榮獲最佳女主角獎，是第一個得到這個獎的亞洲演員。",
+        "time": null
+      },
+      {
+        "en": "Michelle Yeoh said thank you to her mother for her Oscar. She said \"all moms in the world\" were the real superheroes!",
+        "tw": "楊紫瓊感謝她的媽媽，她說全世界的每一個媽媽都是超級英雄。",
+        "time": null
+      },
+      {
+        "en": "In Malaysia, her mother watched Michelle Yeoh on TV. Her mother cried with happiness for her \"little princess\"!",
+        "tw": "她的母親在馬來西亞看電視轉播的時候喜極而泣。",
+        "time": null
+      },
+      {
+        "en": "The same movie had an actor from Vietnam in it. He also won an Oscar. He said thank you to his mother too.",
+        "tw": "這部電影另一個越南演員也獲得奧斯卡最佳男配角，他也向媽媽道謝。",
+        "time": null
+      },
+      {
+        "en": "One of the people who made the movie is from Taiwan. He won an Oscar too. Who do you think he thanked? That's right, his mother!",
+        "tw": "這部電影其中一個導演，母親是台灣人。他和夥伴得到最佳導演獎，所以他感謝誰呢? 你答對了！是他的媽媽 。",
+        "time": null
+      },
+      {
+        "en": "If I won an Oscar, I'd thank my mom too. Who would you thank?",
+        "tw": "如果我贏得奧斯卡，我也會感謝我媽媽。你會感謝誰呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "榮獲今年奧斯卡最佳影片的電影，是在講一位擁有超能力的媽媽。",
+      "content": [
+        {
+          "text": "1. cry 哭泣\nDo you sometimes cry when watching a movie? 你看電影時會不會哭？\nOh, I cry so loud I have to stop myself. 會，我哭得太大聲，還要自己克制。",
+          "time": null
+        },
+        {
+          "text": "2. actor 演員\nMe too. Usually it's not because of the actors.\n我也是。通常都不是因為演員的關係。\nThen why do you cry? 那你為什麼哭？\nIt's the story. 是故事。",
+          "time": null
+        },
+        {
+          "text": "3. biggest 最大的\nI know. Some films have the biggest stars but no real power.\n我知道，有些電影有最大咖，但是沒有真正的力量。\nLike Batman v. Superman. 比如說蝙蝠俠對超人。",
+          "time": null
+        },
+        {
+          "text": "4. movie 電影\nBut I love that movie! 可是我很愛那部電影！\nOh, so much for liking a good story. 講了半天只喜歡好故事...",
+          "time": null
+        }
+      ],
+      "postscript": "來讀單字。\ncry 哭泣\nactor 演員\nbiggest 最大的\nmovie 電影"
+    },
+    "quiz": [
+      {
+        "question": "1. Which movie won seven Oscars this year?",
+        "options": [
+          "A: Avatar: The Way of Water",
+          "B: Everything Everywhere All at Once",
+          "C: Top Gun: Maverick"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Which Oscar did Michelle Yeoh win?",
+        "options": [
+          "A: Best Actor",
+          "B: Best Actress",
+          "C: Best Supporting Actress"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Where is Michelle Yeoh from?",
+        "options": [
+          "A: Malaysia",
+          "B: Mongolia",
+          "C: Myanmar"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
