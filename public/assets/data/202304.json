@@ -311,5 +311,104 @@
         "answer": "A"
       }
     ]
+  },
+  {
+    "id": "20230411-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Life Education",
+      "International Education",
+      "Multicultural Education"
+    ],
+    "title": "The Pet Crocodile That Loves a Cuddle",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230410NK.mp3",
+    "content": [
+      {
+        "en": "Hey there! Today is International Pet Day. I'm at my local pet store. I want a new pet! Let's see… They have dogs… cats… and birds… Hi! Oh, and they have… crocodiles?",
+        "tw": "今天是國際寵物日，我在寵物店裡面，這裡有狗狗、貓咪、小鳥，還有... 鱷魚？",
+        "time": null
+      },
+      {
+        "en": "A man named Jonathan has a pet crocodile! Jonathan lives in Mexico. He went to a pet store there. He bought a small, green, and angry crocodile! Jonathan named her Gamora. Gamora is the angry alien in the Guardians of the Galaxy movies!",
+        "tw": "Jonathan 住在墨西哥，他去寵物店買了一隻小小、綠綠，還很兇的鱷魚！Jonathan 叫牠 Gamora，Gamora 就是星際異攻隊裡面那個生氣的外星人。",
+        "time": null
+      },
+      {
+        "en": "Crocodiles can be very scary! They have the strongest bite in the world. A crocodile bite might be stronger than a T. rex bite!",
+        "tw": "鱷魚的咬合力是世界上最強的，有可能比暴龍還強，很恐怖！",
+        "time": null
+      },
+      {
+        "en": "Jonathan is lucky. Gamora isn't scary. She loves cuddles. Gamora acts like a dog! She sleeps in Jonathan's bed. She poses for photos too!",
+        "tw": "不過 Jonathan 很幸運，因為 Gamora 不恐怖，牠喜歡抱抱，就像狗狗一樣！牠還睡在 Jonathan 的床上，還會擺姿勢拍照！",
+        "time": null
+      },
+      {
+        "en": "Gamora swims in a pool. She has a nice, dry place too. She sunbathes there.",
+        "tw": "Gamora 可以在池子裡游泳，也可以在外面做日光浴。",
+        "time": null
+      },
+      {
+        "en": "Gamora eats lots of meat. Jonathan has two pet Chihuahuas too. They are lucky. Gamora hasn't eaten them! Yet…",
+        "tw": "Gamora 吃很多肉， Jonathan 還有兩隻吉娃娃，幸好 Gamora 還沒有把他們吃掉...",
+        "time": null
+      },
+      {
+        "en": "Hmm… Maybe I'll get a goldfish instead!",
+        "tw": "嗯... 也許我還是養隻金魚吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "鱷魚真的能當寵物嗎? 墨西哥這隻小鱷魚好像可以。",
+      "content": [
+        {
+          "text": "1. swim 游泳\nI often feel lonely. 我常常覺得寂寞。\nI think you need a pet. 我覺得你需要養寵物。\nWhat can it do? 寵物能做什麼？\nIt'll love you and swim with you. 牠會愛你，跟你一起游泳。\nYou mean a dolphin? 你是說海豚嗎？"
+        },
+        {
+          "text": "2. bite 咬\nDon't be silly; you can't buy a dolphin. 別傻了，你買不到海豚。\nMost dogs can swim. 大部分狗狗都會游泳。\nBut I don't want a pet that bites. 但是我不要會咬人的寵物。"
+        },
+        {
+          "text": "3. scary 讓人害怕\nThen maybe you'd like rabbits. 那你也許會喜歡兔子。\nRabbits are not scary. 兔子不會讓人害怕。"
+        },
+        {
+          "text": "4. pet store 寵物店\nNo, no rabbits. 不要兔子。\nHow about goldfish? 金魚怎麼樣？\nLet's go to a pet store first. 我們先去寵物店吧。"
+        }
+      ],
+      "postscript": "你有沒有寵物呢？\nswim 游泳\nbite 咬\nscary 讓人害怕\npet store 寵物店"
+    },
+    "quiz": [
+      {
+        "question": "1. What is Jonathan's pet crocodile's name?",
+        "options": [
+          "A: Galaxy",
+          "B: Gamora",
+          "C: Guardian"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "2. Where does Jonathan live?",
+        "options": [
+          "A: Mexico",
+          "B: Monaco",
+          "C: Morocco"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "3. What other pets does Jonathan have?",
+        "options": [
+          "A: Cheetahs",
+          "B: Chihuahuas",
+          "C: Chimpanzees"
+        ],
+        "time": null,
+        "answer": "B"
+      }
+    ]
   }
 ]
