@@ -1727,5 +1727,104 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230428-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life Education",
+      "Character Education",
+      "Multicultural Education",
+      "International Education"
+    ],
+    "title": "The World's Biggest Dance Marathon",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230427NK.mp3",
+    "content": [
+      {
+        "en": "Tomorrow is International Dance Day! Dancing is cool. We can feel good, have fun, and listen to great music!",
+        "tw": "明天是世界舞蹈日！跳舞很好玩，還可以聽音樂！",
+        "time": null
+      },
+      {
+        "en": "A university in the USA has a marathon.",
+        "tw": "美國有一所大學，都會辦馬拉松比賽。",
+        "time": null
+      },
+      {
+        "en": "There are marathons all over the world. In many marathons, people run a long, long way. They run for 42 kilometers. Most run to get money for others. They give the money to people who need help.",
+        "tw": "全世界都有馬拉松，參賽者要跑42公里。很多人跑那麼累是為了募款，好捐獻給需要的人。",
+        "time": null
+      },
+      {
+        "en": "At Penn State University's marathon, students don't run. They dance! It's a dance marathon! Students dance for a long, long time. Penn State University has the world's biggest dance marathon.",
+        "tw": "賓州大學辦的這場馬拉松，不用跑步，而是要跳舞！這是全世界最大的跳舞馬拉松！",
+        "time": null
+      },
+      {
+        "en": "Students dance for 46 hours. That's nearly two days! No-one can sit or sleep! There is live music. There are DJs and dance crews. These help tired students to dance, dance, dance!",
+        "tw": "學生們連續跳舞46 個小時，不能坐下，也不能睡覺。現場 DJ 會放音樂，讓大家不停地跳！",
+        "time": null
+      },
+      {
+        "en": "This year over 707 students danced. They got 15 million US dollars! That's 458 million NT dollars! The money is helping very sick kids.",
+        "tw": "今年有超過707名學生跳舞。他們籌集到1500萬美元！相當於4.58億新台幣！這些錢正在幫助患有重病的孩子們。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一群大學生連續跳舞將近兩天兩夜，替罹患重病的兒童募款。",
+      "content": [
+        {
+          "text": "1. tired 疲倦的\nOh, My God! I'm so tired! 天哪，我好累！\nUh hm, you've danced for three hours! 對啊，你跳了三個鐘頭了！\nReally? That long? 真的？有那麼久喔？",
+          "time": null
+        },
+        {
+          "text": "2. sit 坐著\nNow I must sit for a while. 現在我得坐一下了。\nHow come you're not dancing? 你怎麼沒有跳舞？\nI was, but I'm listening to the music now. 我剛剛有跳，現在我在聽音樂。",
+          "time": null
+        },
+        {
+          "text": "3. music 音樂\nOh no, this is salsa, my favorite dance! 糟糕，這是騷沙，我最喜歡的舞曲！\nI'd have to do this one! 這我一定要跳！",
+          "time": null
+        },
+        {
+          "text": "4. help 幫忙\nCome on, let's dance together! 來吧，我們一起跳！\nAlright, but you have to help me. 好吧，但是你得幫我。",
+          "time": null
+        }
+      ],
+      "postscript": "來讀讀單字。\ntired 疲倦的\nsit 坐\nmusic 音樂\nhelp 幫忙"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is Penn State University?",
+        "options": [
+          "a. The UK",
+          "b. The UAE",
+          "c. The USA"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many hours is the world's biggest dance marathon?",
+        "options": [
+          "a. 426 hours",
+          "b. 4 to 6 hours",
+          "c. 46 hours"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How much money did the students get this year?",
+        "options": [
+          "a. 15 million US dollars",
+          "b. 707 million US dollars",
+          "c. 458 million US dollars"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
