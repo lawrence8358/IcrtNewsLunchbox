@@ -1327,5 +1327,114 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230424-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Life on Land",
+      "Technology Education",
+      "International Education"
+    ],
+    "title": "What Time Is It on the Moon?",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230421NK.mp3",
+    "content": [
+      {
+        "en": "What time is it in New York? I know that's a hard question.",
+        "tw": "你知道現在紐約幾點嗎？",
+        "time": null
+      },
+      {
+        "en": "New York is 12 hours behind Taiwan. When it's noon here, it's midnight in New York. You're eating lunch. But kids in New York are sleeping.",
+        "tw": "紐約比台灣慢 12 個小時，現在這裡是中午，所以紐約那裡是半夜。你吃午餐的時候，紐約的小孩在睡覺。",
+        "time": null
+      },
+      {
+        "en": "Japan is one hour ahead of Taiwan. It's noon here. But it's 1 PM there. Kids in Japan are finished with lunch.",
+        "tw": "日本比台灣早一個小時，那裡現在是下午一點，日本的小孩已經吃完午餐了。",
+        "time": null
+      },
+      {
+        "en": "New York, Japan, and Taiwan are in different time zones. The world has 24 time zones. Here's a very hard question. What time is it on the moon?",
+        "tw": "紐約、日本跟台灣都在不同的時區，全球有24個時區。但你知道月球上現在幾點嗎？",
+        "time": null
+      },
+      {
+        "en": "Well, no one knows. Different countries say different times! Astronauts from different countries want to work together. But they need to use the same time.",
+        "tw": "不同國家的太空人要一起工作，但是他們需要一致的時間。",
+        "time": null
+      },
+      {
+        "en": "There is a problem. The moon's gravity and the earth's gravity are different. Clocks are faster there.",
+        "tw": "這是個大問題，因為月球上的重力跟地球不一樣，時鐘在月球上跑得比較快。",
+        "time": null
+      },
+      {
+        "en": "Scientists want to make a moon time zone. Then everyone will know what time it is on the moon.",
+        "tw": "科學家想要創造一個月球時區，這樣大家就知道月球上現在幾點了。",
+        "time": null
+      },
+      {
+        "en": "A moon time zone is a great idea!",
+        "tw": "月球時區是個很棒的主意！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "月球時間要怎麼計算? 科學家正在研究。",
+      "content": [
+        {
+          "text": "1. midnight 半夜\nYou should go to bed. 你應該上床了。\nIt's already midnight. 已經半夜三更了。\nMidnight is still early, you know. 半夜其實很早，你知道。",
+          "time": null
+        },
+        {
+          "text": "2. finish 結束\nYeah, for people across the Pacific. 是啊，對太平洋那一頭的人來說。\nI mean it. 真的啊。\nSome people are just starting their day, but I have finished my work.\n有的人才剛開始一天，我卻已經結束工作了。",
+          "time": null
+        },
+        {
+          "text": "3. work 工作\nI want more time to sleep and less time at work.\n我要的是多一點時間睡覺，少一點工作。\nSame here. 我也一樣。",
+          "time": null
+        },
+        {
+          "text": "4. hard 困難的\nBut what about more money for more work? 但是多工作就多賺錢如何？\nThat's a hard one. 這個問題有點難。",
+          "time": null
+        }
+      ],
+      "postscript": "來讀讀單字。\nmidnight 半夜\nfinish 結束\nwork 工作\nhard 困難的"
+    },
+    "quiz": [
+      {
+        "question": "1. It is 1:30 p.m. in Taiwan. What time is it in New York?",
+        "options": [
+          "a. 1:30 AM",
+          "b. 1:30 PM",
+          "c. 2:30 PM"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What is the problem with time on the moon?",
+        "options": [
+          "a. Gravity",
+          "b. Too many astronauts",
+          "c. Slow clocks"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What do scientists want to make?",
+        "options": [
+          "a. A moon time zone",
+          "b. More gravity",
+          "c. A new moon"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
