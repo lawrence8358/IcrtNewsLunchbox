@@ -1246,5 +1246,103 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230518-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education",
+      "Life Education",
+      "Life on Land",
+      "Good Health and Well-Being"
+    ],
+    "title": "Kids Do Dragon Dance on Skates",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230517NK.mp3",
+    "content": [
+      {
+        "en": "Hi everyone! Do you know what that sound is? I think you do. It's the dragon dance. This dance is great! It's one of Taiwan's traditions.",
+        "tw": "你知道這是甚麼聲音嗎？這是舞龍表演，是台灣的傳統之一。",
+        "time": null
+      },
+      {
+        "en": "Dragon dancing is very old. It started a long time ago in China. You can see the dragon dance in many countries now. People do dragon dances during special times like Chinese New Year.",
+        "tw": "舞龍表演起源於古時候的中國，現在很多國家都可以看到，有一些人會用舞龍來慶祝新年。",
+        "time": null
+      },
+      {
+        "en": "There is an interesting dragon dance in Taiwan. Kids at a school in Taoyuan do a different dragon dance. What's different? They do the dance on skates! Yes, on roller skates. That is a fast dragon dance!",
+        "tw": "桃園一所國小的學生，一邊溜直排輪一邊舞龍！",
+        "time": null
+      },
+      {
+        "en": "The kids make their dragon. It is 40 meters long! It is red, white, blue, yellow, and black. It has many teeth. It looks fierce!",
+        "tw": "他們自己做了一條長40公尺的龍，有紅色、白色、藍色、黃色、黑色，還有很多牙齒，看起來很兇惡！",
+        "time": null
+      },
+      {
+        "en": "The kids are proud of their dragon. They are proud of their dance. They carry the dragon over their heads. They make it move. And they do this on skates! Cool!",
+        "tw": "他們對這條龍，還有他們的舞龍表演很自豪。",
+        "time": null
+      },
+      {
+        "en": "People love this interesting dragon dance. The kids go to different places to do their dragon dance. They go to temples. They go to festivals. The kids have fun dancing! People have fun watching! Let's go and watch them!",
+        "tw": "人們很喜歡這個有趣的舞龍表演。這些孩子們會去不同的地方表演他們的舞龍。他們會去廟宇。他們會去節慶活動。孩子們跳舞玩得很開心！人們也看得很開心！我們一起去看看他們吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一邊溜直排輪一邊舞龍，這個表演可不簡單！",
+      "content": [
+        {
+          "text": "1. festival 節日\nThere's a flower festival next week. 下星期有個花卉節。\nI love flower festivals, but is it in Taipei? 我喜歡花卉節，不過在台北嗎？\nNo, in Miaoli. 不是，在苗栗。",
+          "time": null
+        },
+        {
+          "text": "2. long 長的\nThat's a long drive from here. 從這裡要開很長一段路呢。\nNo, it's okay, I'll do the driving. 還好啦，我來開車。",
+          "time": null
+        },
+        {
+          "text": "3. white 白色，blue 藍色\nThey have your favorite flowers-white, pink, and blue hydrangea.\n他們有你最喜歡的花，白色粉紅色跟藍色的繡球花。\nOh, those are pretty! 那是很漂亮的花！",
+          "time": null
+        },
+        {
+          "text": "4. fun 樂趣\nYeah, we can see the flowers and eat delicious Hakka food.\n我們可以賞花，吃客家美食。\nThat does sound like a lot of fun. 聽起來確實很好玩。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡各種節日嗎？\nfestival 節日\nlong 長的\nwhite 白色\nblue 藍色\nfun 樂趣"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did the dragon dance start?",
+        "options": [
+          "A: China",
+          "B: Taiwan",
+          "C: Japan"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "2. Why is the dragon dance in Taoyuan different?",
+        "options": [
+          "A: Kids use different animals",
+          "B: Kids do it on skates",
+          "C: Kids ride bicycles"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "3. Who made the dragon at the Taoyuan school?",
+        "options": [
+          "A: The teachers",
+          "B: The parents",
+          "C: The kids"
+        ],
+        "time": null,
+        "answer": "C"
+      }
+    ]
   }
 ]
