@@ -1352,5 +1352,109 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230620-01",
+    "type": "國小",
+    "tag": [
+      "Outdoor Education",
+      "Environmental Education",
+      "Life on Land",
+      "Sustainable Cities and Communities",
+      "Natural Sciences"
+    ],
+    "title": "Big Dogs Save Little Penguins",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230619NK.mp3",
+    "content": [
+      {
+        "en": "Australia has some very cool animals. It has the world's smallest penguins! They're called little penguins. They're 35 centimeters tall!",
+        "tw": "澳洲有世界上最小的企鵝，叫做小企鵝，牠只有 35 公分高！",
+        "time": null
+      },
+      {
+        "en": "Foxes were eating the little penguins. So they moved to small islands near Australia. The water around the islands kept the foxes away.",
+        "tw": "狐狸會獵捕小企鵝，後來小企鵝遷移到澳洲附近的小島，狐狸過不來。",
+        "time": null
+      },
+      {
+        "en": "One island had 600 little penguins. But foxes found a way to the island! The foxes ate and ate the little penguins. Then there were only 10 little penguins left.",
+        "tw": "原本島上有 600 隻小企鵝，結果狐狸找到方法登陸，吃掉了好多小企鵝，後來島上只剩下 10 隻小企鵝了。",
+        "time": null
+      },
+      {
+        "en": "Local people worried about saving these little penguins. Then a local farmer had an idea…",
+        "tw": "當地居民擔心如何拯救這些小企鵝。後來一位當地農夫想出了一個主意...",
+        "time": null
+      },
+      {
+        "en": "His farm has thousands of chickens. The farmer's dogs keep his chickens safe from foxes. The dogs are big. They have a very deep bark. They bark to keep the foxes away. But the dogs are kind to the chickens. So the farmer wanted his dogs to keep the little penguins safe too!",
+        "tw": "當地居民想要拯救小企鵝。有一個農夫養了好幾千隻雞，也養了狗來保護牠們。要是狐狸靠近，狗會狂吠，把狐狸嚇走。這位農夫希望狗狗也可以保護小企鵝的安全！",
+        "time": null
+      },
+      {
+        "en": "The farmer's idea worked! The dogs kept the foxes away. The dogs are kind to the penguins too. And there are more little penguins every year.",
+        "tw": "結果成功了！狗狗嚇走了狐狸，現在島上的小企鵝越來越多了。",
+        "time": null
+      },
+      {
+        "en": "Now the island has hundreds of little penguins. Thanks to the farmer's great idea, big dogs are saving little penguins!",
+        "tw": "現在島上有數百隻小企鵝。多虧了農夫的好主意，大狗正在拯救小企鵝！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "友善的狗既保護養雞場，也保護小企鵝。",
+      "content": [
+        {
+          "text": "1. keep away 離遠一點\nIs that your dog? 那是你的狗嗎？\nKeep it away from me! 讓牠離我遠點！\nSorry, but Buddy doesn't bite. Don't worry. 抱歉，不過巴弟不會咬人，別擔心。",
+          "time": null
+        },
+        {
+          "text": "2. safe 安全的\nNo, I don't feel safe when it barks like that. 牠那樣叫我覺得不安全。\nThere, you're safe now. 好了，你現在安全了。",
+          "time": null
+        },
+        {
+          "text": "3. big 大的\nWhy do you keep such a big dog? 你為什麼養那麼大的狗？\nBuddy is not that big。巴弟沒有那麼大。\nAnd he's cool.而且牠很酷。",
+          "time": null
+        },
+        {
+          "text": "4. island 島嶼\nHe can swim fast. 牠可以游泳游很快。\nWe sometimes swim to that island together. 我們有時候一起游到那個小島。\nWow, that's far away! 哇，很遠呢！",
+          "time": null
+        }
+      ],
+      "postscript": "我們來讀單字。\nkeep away 離遠一點\nsafe 安全的\nbig 大的\nisland 島嶼"
+    },
+    "quiz": [
+      {
+        "question": "1. Which planet has the most moons?",
+        "options": [
+          "a. Farmers",
+          "b. Local people",
+          "c. Foxes"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do the dogs do to keep the penguins safe?",
+        "options": [
+          "a. Bite",
+          "b. Bark",
+          "c. Eat"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What does the farm have?",
+        "options": [
+          "a. An idea",
+          "b. Chickens",
+          "c. Little penguins"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
