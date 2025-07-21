@@ -305,5 +305,108 @@
         "answer": "A"
       }
     ]
+  },
+  {
+    "id": "20230505-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Life on Land",
+      "Information Education"
+    ],
+    "title": "Man Makes a \"Drone Call\"",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230504NK.mp3",
+    "content": [
+      {
+        "en": "Hi! Today, I… Oh, excuse me… \"Hello. Sorry, I can't talk right now. I'm very busy. Bye.\" Sorry, I just had a phone call. Speaking of phone calls, let me tell you all about the world's first \"drone call\".",
+        "tw": "不好意思，我剛剛在講電話。說到電話，讓我告訴你世界上第一個用無人機打電話的故事。",
+        "time": null
+      },
+      {
+        "en": "Drones are small machines that fly. Some drones have cameras.",
+        "tw": "無人機是會飛的小機器。有些無人機有攝影機。",
+        "time": null
+      },
+      {
+        "en": "A man called Casey lives in Oregon. It snows there in the winter. One day, he drove his car into the mountains. There was so much snow, his car couldn't move. Casey: Oh no!",
+        "tw": "Casey 住在奧勒岡州，那裏冬天會下雪。有一天，他在山上開車的時候，被積雪困住了。",
+        "time": null
+      },
+      {
+        "en": "Casey tried to use his cellphone. He wanted to send a text message. But his cellphone wouldn't work! There was too much snow!",
+        "tw": "Casey 想要用手機傳簡訊，但是發不出去。",
+        "time": null
+      },
+      {
+        "en": "Casey is a photographer. His job is taking pictures. This means he has a camera drone in his car. He tied his cellphone to the drone.",
+        "tw": "Casey 是專業攝影師，他的車上有一台空拍機。他把手機綁在空拍機上。",
+        "time": null
+      },
+      {
+        "en": "His drone flew high into the sky! Casey's plan worked! His cellphone was sending texts again!",
+        "tw": "結果成功了！他的空拍機飛上天空，發出了簡訊。",
+        "time": null
+      },
+      {
+        "en": "People quickly came to help him. Casey was saved.",
+        "tw": "人們很快就來幫助他了。Casey 得救了。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "手機簡訊被積雪擋住發不出去，把手機送上天就解決了這個問題。",
+      "content": [
+        {
+          "text": "1. message 訊息\nDid you read my message? 你有看我的簡訊嗎？\nNo, I don't think I got any messages from you. 沒有，我好像沒收到你的簡訊。",
+          "time": null
+        },
+        {
+          "text": "2. send 發送\nBut I sent it to you last night. 但是我昨晚發送的。\nIt should be in your cellphone.應該在你的手機裡。\nMy cellphone was out of power for a while. 我的手機有一段時間沒電。",
+          "time": null
+        },
+        {
+          "text": "3. tell 告訴\nWhat did you want to tell me, anyway? 不管怎樣，你想跟我講什麼？\nDon't drive up the mountain. 不要開車上山。\nThere'll be snow on the road. 路上會有積雪。",
+          "time": null
+        },
+        {
+          "text": "4. snow 下雪\nI'd love to see the snow! 我很想看到雪！\nDon't worry, I'll drive carefully. 別擔心，我會小心開車。",
+          "time": null
+        }
+      ],
+      "postscript": "今天學到哪些單字？\nmessage 訊息\nsend 發送\ntell 告訴\nsnow 下雪"
+    },
+    "quiz": [
+      {
+        "question": "1. What is a drone?",
+        "options": [
+          "A: A new cellphone",
+          "B: A kind of car",
+          "C: A machine that can fly"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "2. Where does Casey live?",
+        "options": [
+          "A: Origin",
+          "B: Oregon",
+          "C: Oregano"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "3. What is Casey's job?",
+        "options": [
+          "A: Mountain climber",
+          "B: Driver",
+          "C: Photographer"
+        ],
+        "time": null,
+        "answer": "C"
+      }
+    ]
   }
 ]
