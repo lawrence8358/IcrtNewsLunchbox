@@ -1859,5 +1859,123 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230526-01",
+    "type": "國小",
+    "tag": [
+      "No Poverty",
+      "Good Health and Well-Being",
+      "Clean Water and Sanitation",
+      "Reduced Inequalities",
+      "Sustainable Cities and Communities",
+      "Life on Land",
+      "Environmental Education",
+      "Safety Education",
+      "International Education"
+    ],
+    "title": "New York City Versus Rats",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230525NK.mp3",
+    "content": [
+      {
+        "en": "Hey! Do you hear that? That's the sound of too many rats!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Wild rats are mean! They fight other animals. They eat trash. They run in very dirty water… which means they carry lots of germs and diseases. They're dangerous, they can make you very sick. Stay away from wild rats!",
+        "tw": "野生老鼠會咬垃圾，在下水道亂鑽，身上細菌很多，可能讓人生病！",
+        "time": null
+      },
+      {
+        "en": "New York City has many, many rats. They're everywhere!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "The mayor of New York City says that everyone who knows him knows one thing: he hates rats! Now the mayor wants to fight the rats. He wants them out of his city!",
+        "tw": "紐約到處都有老鼠，紐約市長決心跟老鼠宣戰，把牠們趕出城市！",
+        "time": null
+      },
+      {
+        "en": "The mayor gave Kathleen Corradi a new job. Her job is to get rid of rats.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Kathleen Corradi has helped nearly 120 schools get rid of rats before. Can she help a big city now?",
+        "tw": "市長找來專家 Kathleen Corradi，她之前成功幫助120 所學校除掉老鼠。",
+        "time": null
+      },
+      {
+        "en": "First, Kathleen Corradi is taking away the rats' food. She's getting garbage trucks to pick up people's trash earlier. Then the rats can't eat it all.",
+        "tw": "首先，Kathleen Corradi 請垃圾車早一點去收垃圾，讓老鼠沒有東西吃。",
+        "time": null
+      },
+      {
+        "en": "She also wants people to fix all the holes and cracks in their homes. That stops the rats from getting inside. No food and no homes mean no rats!",
+        "tw": "她也請民眾把家中屋頂或是牆壁破洞修補好，老鼠就不能亂鑽。沒有食物、沒有地方住，就不會有老鼠了！",
+        "time": null
+      },
+      {
+        "en": "So, it's New York City versus the rats!",
+        "tw": "所以，這是紐約市與老鼠的戰爭！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "紐約市長下定決心，要把老鼠趕出紐約市。",
+      "content": [
+        {
+          "text": "1. get rid of 除掉\nMosquitos! I hate mosquitos! 蚊子，我討厭蚊子！\nI'll get rid of them. 我來消滅牠們。\nYou missed, I can't believe it! 你沒打到，真不敢相信！\nNo, I got one. 不，我打死了一隻。",
+          "time": null
+        },
+        {
+          "text": "2. fight 對抗\nThere are two more. 還有兩隻。\nHow can we sleep tonight? 今晚怎麼睡啊？\nWe have to keep fighting them. 我們只有繼續跟牠們大戰。",
+          "time": null
+        },
+        {
+          "text": "3. stop from 阻止\nLet's put up a mosquito net. 來把蚊帳掛起來。\nYeah, that should stop them from coming at us. 對，讓牠們沒辦法咬我們。",
+          "time": null
+        },
+        {
+          "text": "4. hole 破洞\nHey, how come I still got three mosquito bites? 為什麼我還是有三個蚊子包？\nMaybe there's a hole in the net? 也許蚊帳有破洞？",
+          "time": null
+        }
+      ],
+      "postscript": "一起來讀讀單字跟片語吧。\nget rid of 除掉\nfight 對抗\nstop from 阻止\nhole 破洞"
+    },
+    "quiz": [
+      {
+        "question": "1. Does the mayor of New York City like rats?",
+        "options": [
+          "a. Yes",
+          "b. No",
+          "c. Maybe"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Who has the job of getting rid of rats in New York City?",
+        "options": [
+          "a. The mayor",
+          "b. Kathleen Corradi",
+          "c. Wild rats"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What should you do if you see a wild rat?",
+        "options": [
+          "a. Kiss it",
+          "b. Fight it",
+          "c. Stay away"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
