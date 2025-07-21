@@ -1742,5 +1742,108 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230628-01",
+    "type": "國小",
+    "tag": [
+      "Life Education",
+      "Outdoor Education",
+      "International Education",
+      "Social Studies"
+    ],
+    "title": "American Students Visit Taiwan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230627NK.mp3",
+    "content": [
+      {
+        "en": "In today's news, nine American high school students visited Taiwan! What did these students learn in one week?",
+        "tw": "有九個美國高中生來到台灣！他們在這一個禮拜中學到了什麼呢？",
+        "time": null
+      },
+      {
+        "en": "One: Taiwan's cities like nature! A student saw a big tree at her hotel window. It was growing freely.",
+        "tw": "第一，台灣的城市喜歡大自然。學生從飯店窗戶看到外面自由生長的大樹。",
+        "time": null
+      },
+      {
+        "en": "She said this kind of tree is cut down in their city. She says Taiwan lets nature be. Their city has trees and trees and grass. But they're in parks, gardens, and along streets.",
+        "tw": "她說在他們的城市，樹都砍掉了，只有公園、花園，跟道路兩邊才有樹木。",
+        "time": null
+      },
+      {
+        "en": "Two: Taiwanese people do big things in small spaces! The students learned motorcycle repair shops and many other businesses don't need big spaces.",
+        "tw": "第二，台灣人在小小的空間裡做很多事！這些學生看到摩托車修理廠，還有很多小小的店家。",
+        "time": null
+      },
+      {
+        "en": "The students' city has a lot of space. So people use lots of space!",
+        "tw": "這些學生的家鄉有很大的空間，所以人們就使用很多空間。",
+        "time": null
+      },
+      {
+        "en": "Three: Taiwanese people are kind! They shared their homes and their daily lives. They talked with the students in Chinese. Everyone helped them.",
+        "tw": "第三，台灣人很友善！他們招待學生住進自己家，跟他們一起生活，還跟學生講中文。大家都會幫他們忙。",
+        "time": null
+      },
+      {
+        "en": "The students said Taiwan was very interesting. They learned about nature, spaces, and Taiwanese people. And they feel stronger speaking Chinese now!",
+        "tw": "學生們說台灣非常有趣。他們學習了關於大自然、空間和台灣人。他們現在說中文也感覺更有自信了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "小小的空間裡可以做很多事！",
+      "content": [
+        {
+          "text": "1) hotel 旅館\nNow this is really a small room! 這真是個小房間。\nIt's a small hotel. 這是一家小旅館。",
+          "time": null
+        },
+        {
+          "text": "2) space 空間\nCan I put my bag here? 我可以把行李箱放在這裡嗎？\nNo, this is my personal space. 不行，這是我的個人空間。\nYour personal space? 你的個人空間？\nIt's one meter away from your bed! 這離你的床有一公尺呢！",
+          "time": null
+        },
+        {
+          "text": "3) a lot of 很多\nI know, I just need a lot of space. 我知道，我就是需要很多空間。\nNext time let's stay at a big hotel. 我們下次住大旅館。",
+          "time": null
+        },
+        {
+          "text": "4) share 分享\nOr we can have two rooms. 或者我們可以要兩間房。\nThen we don't need to share. 那樣就不用分享。\nNo, that would be too lonely. 不要，那太寂寞了。",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學到哪些英文字？\nhotel 旅館\nspace 空間\na lot of 許多\nshare 分享"
+    },
+    "quiz": [
+      {
+        "question": "1. How many American students came to Taiwan?",
+        "options": [
+          "A: 9",
+          "B: 19",
+          "C: 90"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "2. What made the students think Taiwan's cities like nature?",
+        "options": [
+          "A: Tall buildings",
+          "B: Trees growing freely",
+          "C: Parks"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "3. What did people do when a student made a mistake in Chinese?",
+        "options": [
+          "A: Got angry",
+          "B: Helped the student",
+          "C: Said it wasn't okay"
+        ],
+        "time": null,
+        "answer": "B"
+      }
+    ]
   }
 ]
