@@ -1026,5 +1026,115 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230516-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life on Land",
+      "Peace, Justice and Strong Institutions",
+      "Human Rights Education",
+      "Safety Education",
+      "Outdoor Education"
+    ],
+    "title": "Taiwan's Newest Rescue Team",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230515NK.mp3",
+    "content": [
+      {
+        "en": "Guess what?! I have a new bike! I love it! It's shiny and new, and purple and blue! I can't wait to go ride my bike!",
+        "tw": "我有了一輛新的腳踏車，我等不及要去騎騎看了！",
+        "time": null
+      },
+      {
+        "en": "Taiwan has many beautiful cycle routes. They let you see mountains and forests and the ocean… They have made Taiwan famous all over the world for cycling! Route 是路線的意思，你也可以唸做 route.",
+        "tw": "台灣有很多美麗的自行車道，可以看到高山、森林，或是大海。這讓台灣的自行車旅遊世界聞名！",
+        "time": null
+      },
+      {
+        "en": "New Taipei City has lots of cycle routes. Many of them are by a river. People in the city can go cycling and feel healthy!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "But cycling can be dangerous too. Some people cycle very fast and crash. They sometimes get badly injured. Also, many cycle routes are far from big roads. It isn't easy for ambulances to get there.",
+        "tw": "新北市有很多河邊的自行車道，但是騎車是有風險的，有人騎太快而撞車受傷。而且很多自行車道距離馬路很遠，救護車很難到達。",
+        "time": null
+      },
+      {
+        "en": "New Taipei City had a great idea. They made a special team of cyclists. These cyclists help people!",
+        "tw": "新北市有個好點子，他們組織了特別的自行車隊伍來幫助人！",
+        "time": null
+      },
+      {
+        "en": "These cyclists have first aid kits on their bikes. The kits have everything they need to help injured people.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "The team rides up and down the cycle routes. The cyclists look for people who need help. They can get to people faster than an ambulance. And they're eco-friendly too!",
+        "tw": "這個隊伍的自行車上有急救箱，還在自行車道上巡邏，幫助有需要的人。這樣不只可以比救護車快，也更環保！",
+        "time": null
+      },
+      {
+        "en": "Taiwan's newest rescue team, cycling for safety!",
+        "tw": "台灣最新的救援隊，為安全而騎！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "腳踏車急救隊，可以及時幫助受傷的人。",
+      "content": [
+        {
+          "text": "1. ride 騎車\nLet's go for a bike ride today. 我們今天去騎車吧。\nOn a rainy day like this? Are you sure? 在下雨天喔？你確定嗎？",
+          "time": null
+        },
+        {
+          "text": "2. injure 受傷\nFor a good cyclist like you, it shouldn't be a problem.\n對你這樣很會騎的人，應該不是問題。\nI am good at biking, but I don't like getting injured.\n我確實很行，但是我不喜歡受傷。",
+          "time": null
+        },
+        {
+          "text": "3. up and down 上上下下\nLet's just ride in the Jing-mei Riverside Park. 我們就只在景美河濱公園騎好了。\nThat way we don't need to go up and down. 這樣就不用上下坡。",
+          "time": null
+        },
+        {
+          "text": "4. route 路線\nYeah, they have a nice bike route along the little river.\n好，那裏沿著小河有很好的自行車道。\nAnd the rain seems to have stopped. 而且雨似乎停了。",
+          "time": null
+        }
+      ],
+      "postscript": "你會騎腳踏車嗎？我們來讀單字。\nride 騎車\ninjure 受傷\nup and down 上上下下\nroute 路線"
+    },
+    "quiz": [
+      {
+        "question": "Why are Taiwan's cycle routes famous?",
+        "options": [
+          "a. They're shiny",
+          "b. They're beautiful",
+          "c. They're new"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "Where is the special team of cyclists?",
+        "options": [
+          "a. Taipei",
+          "b. New Taipei City",
+          "c. Taoyuan"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "Where are many of New Taipei City's cycle routes?",
+        "options": [
+          "a. In the mountains",
+          "b. On the ocean",
+          "c. By a river"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
