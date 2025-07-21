@@ -1,4 +1,103 @@
- [
+[
+  {
+    "id": "20230901-01",
+    "type": "國小",
+    "tag": [
+      "Responsible Consumption and Production",
+      "Life on Land",
+      "Environmental Education",
+      "Life Education",
+      "Arts"
+    ],
+    "title": "Yangmingshan Has Music!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230831NK.mp3",
+    "content": [
+      {
+        "en": "Yangmingshan National Park is in Taipei and New Taipei City. It's beautiful! It has many mountains. There are waterfalls and hot springs.",
+        "tw": "陽明山國家公園位於台北和新北市。它很美麗！它有許多山脈。有瀑布和溫泉。",
+        "time": null
+      },
+      {
+        "en": "There are flowers in the spring and summer. There's a musical flower clock. It has many kinds of flowers! Trees are everywhere. In autumn, some have red and gold leaves.",
+        "tw": "春季和夏季，公園繁花盛開。到了秋天，有紅色跟金色的落葉。",
+        "time": null
+      },
+      {
+        "en": "There are many things to do. You can hike. You can see great views! You can smell sulfur's bad egg smell!",
+        "tw": "你可以在公園裡健行，欣賞風景，還會聞到硫磺的味道。",
+        "time": null
+      },
+      {
+        "en": "You can visit the USA! You-- What? Oh, yeah! There's an American village in Yangmingshan! It has many old American houses. Some are now restaurants or cafes. And something fun is happening there now! It's a music festival called \"Unplugged\"!",
+        "tw": "在陽明山有個美國村，裡面有很多美式的老房子。大部分都變成餐廳或咖啡廳。而且現在正在舉辦音樂節!",
+        "time": null
+      },
+      {
+        "en": "The festival started with a traditional African drum show! And now you can listen to local bands and singers! You can sing in a contest! You can take dance classes!",
+        "tw": "這個音樂節從非洲傳統鼓開始。你可以聽到本地樂團和歌手的表演，也可以參加歌唱比賽或是上舞蹈課。",
+        "time": null
+      },
+      {
+        "en": "You can--oops, time's up! Hey! They're going to unplug my mic! Hey! Unplugged ends on September 10th. Go and listen to some great music. Have fun in the American village in Yangmingshan National Par-",
+        "tw": "哎呀，時間到了！嘿！他們要拔我的麥克風了！嘿！不插電音樂節在9月10日結束。去聽聽美妙的音樂吧。在陽明山國家公園的美國村玩得開心！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "陽明山不插電音樂會每個周末都有，持續到九月十號。",
+      "content": [
+        {
+          "text": "1. flower 花朵\nI love flower festivals! They're so pretty. 我好喜歡花季，真漂亮!\nLike the one on Yangmingshan? 就像陽明山花季嗎?\nExactly! There are azaleas and cherry blossoms.正是。他們有杜鵑跟櫻花。",
+          "time": null
+        },
+        {
+          "text": "2. mountain 山\nI think Yangmingshan is a perfect mountain. 我覺得陽明山是一座完美的山。\nRight, a very friendly mountain.沒錯，它很友善。",
+          "time": null
+        },
+        {
+          "text": "3. restaurant 餐廳\nAnd there are many fine restaurants up there. 上面還有很多家好餐館。\nFree-range chicken and bamboo soup, so nice! 放山雞跟竹筍湯，真好!",
+          "time": null
+        },
+        {
+          "text": "4. hot spring 溫泉\nI especially enjoy the hot springs. 我尤其喜歡溫泉。\nOh, yes, how could I forget it? 對喔，我怎麼會忘了它?",
+          "time": null
+        }
+      ],
+      "postscript": "來讀單字。\nflower花朵\nmountain山\nrestaurant餐廳\nhot spring溫泉"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is Yangmingshan National Park?",
+        "options": [
+          "a. Taipei and New Taipei",
+          "b. Taitung and Pingtung",
+          "c. Taichung and Changhua"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What are some of the old American houses now?",
+        "options": [
+          "a. flower clocks",
+          "b. restaurants and cafes",
+          "c. local bands"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What is Unplugged?",
+        "options": [
+          "a. music festival",
+          "b. An American village",
+          "c. An African drum show"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  },
   {
     "id": "20230904-01",
     "type": "國小",
