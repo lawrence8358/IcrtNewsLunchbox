@@ -320,5 +320,112 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230607-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Character Education",
+      "Reading Literacy Education"
+    ],
+    "title": "Reading Books Is a Sport",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230606NK.mp3",
+    "content": [
+      {
+        "en": "Some people like to exercise on their own. Maybe they like jogging, or going to the gym. Some people like to play team sports, like baseball or basketball. They play with their friends on a team.",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "There's a fun new team sport! It's reading!",
+        "tw": "有一些人喜歡自己去運動，像是慢跑或去健身房。有一些人喜歡團隊運動，像是棒球或籃球。但現在有一種新的團隊運動，就是閱讀！",
+        "time": null
+      },
+      {
+        "en": "At some schools, students can make teams. The teams read 10 books to get ready for a game. They talk about the books. Who are the writers? What are the names of the books? What are the books about? Who are the people in the books? Students study the books. Then the teams are ready.",
+        "tw": "學生可以組隊，一起閱讀十本書。然後討論作者、書名、書的內容、角色等等。",
+        "time": null
+      },
+      {
+        "en": "The teams play against other teams at their school. The winners play against teams from other schools.",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "One team played against another school's team. Their families, friends, and other students were watching. The teams answered 20 questions. But there was no winner yet!",
+        "tw": "校內比賽的贏家會跟其他的學校比賽，家人朋友都來看比賽！但是回答了 20 題，贏家還沒有出爐。",
+        "time": null
+      },
+      {
+        "en": "The teams answered eight more questions. They gave good answers again and again! Which team was going to win the game?",
+        "tw": "比賽隊伍又回答了 8 題，通通答對了，到底最後會獎落誰家？",
+        "time": null
+      },
+      {
+        "en": "Then... there was a winner!",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "Reading on a team and playing against other teams is fun! Could reading be a sport in Taiwan?",
+        "tw": "團隊閱讀並與其他隊伍比賽很有趣！閱讀在台灣也能成為一項運動嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "閱讀這種靜態活動，也可以當成團隊運動項目來比賽呢。",
+      "content": [
+        {
+          "text": "1. gym 健身房\nHeading out for the gym? 去健身房嗎？\nRight, I really need to work out. 對，我真的需要運動。\nI've been lazy for two weeks. 我已經偷懶兩個星期。",
+          "time": null
+        },
+        {
+          "text": "2. jog 慢跑\nGym is boring. 健身房很無聊。\nYou can try some outdoor sports. 你可以試試看戶外運動。\nLike jogging or biking? 像是跑步或是騎車嗎？\nNo, thank you. 不，謝了。",
+          "time": null
+        },
+        {
+          "text": "3. exercise 運動\nI'd rather exercise indoors. 我寧願在室內運動。\nIt's no fun when you're alone.自己一個人不好玩。",
+          "time": null
+        },
+        {
+          "text": "4. talk about 說到\nYou can talk about things when you jog with someone. 你跟別人一起跑可以聊天。\nNo, I don't want to wait for others. 不，我不想等別人。",
+          "time": null
+        }
+      ],
+      "postscript": "Let's read the vocabulary.\ngym 健身房\njog 慢跑\nexercise 運動\ntalk about 說到"
+    },
+    "quiz": [
+      {
+        "question": "1. Which of these is not a team sport?",
+        "options": [
+          "A: Basketball",
+          "B: Jogging",
+          "C: Baseball"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How do students get ready to read as a sport?",
+        "options": [
+          "A: Throw books",
+          "B: Study books",
+          "C: Kick books"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many books did the teams have to read?",
+        "options": [
+          "A: 8",
+          "B: 20",
+          "C: 10"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
