@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20230830-01",
     "type": "國小",
@@ -106,6 +106,115 @@
         ],
         "time": null,
         "answer": "b"
+      }
+    ]
+  },
+  {
+    "id": "20230831-01",
+    "type": "國小",
+    "tag": [
+      "Climate Action",
+      "Life on Land",
+      "Environmental Education",
+      "Outdoor Education",
+      "Natural Sciences"
+    ],
+    "title": "Scientist Studies Hippie Monkeys for 40 Years",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230830NK.mp3",
+    "content": [
+      {
+        "en": "Do you like animals? Cats? Dogs? How about... monkeys?",
+        "tw": "你喜歡動物嗎？貓咪？狗狗？那猴子呢？",
+        "time": null
+      },
+      {
+        "en": "One scientist likes northern muriqui monkeys. She likes their cinnamon smell too! She likes to study these monkeys.",
+        "tw": "有一位科學家喜歡北絨毛蛛猴，也喜歡研究牠們。",
+        "time": null
+      },
+      {
+        "en": "Northern muriquis are the biggest monkeys in North and South America. They're about 150 centimeters tall. They're about 15 kilograms. Their tails are long and very strong. Their tails help them go from tree to tree.",
+        "tw": "這種猴子是美洲最大的猴子。身高150公分、體重15公斤。長長的尾巴讓牠們可以從一棵樹盪到另外一棵樹。",
+        "time": null
+      },
+      {
+        "en": "Most monkeys fight. But northern muriquis are very peaceful. They don't fight. They hug each other a lot! People call them \"hippie monkeys\".",
+        "tw": "這種猴子非常溫和。牠們不會吵架，會互相抱抱。",
+        "time": null
+      },
+      {
+        "en": "The scientist studies these muriquis. But she is trying to save them too. They're in very big danger!",
+        "tw": "這位科學家也努力拯救牠們，因為牠們現在瀕臨絕種。",
+        "time": null
+      },
+      {
+        "en": "One million northern muriquis lived in forests a long time ago. But people cut down many trees. They wanted to make farms. The forests became smaller and smaller. There are only 1,000 northern muriquis now. People still cut down trees.",
+        "tw": "很久以前，森林裡有100萬隻北絨毛蛛猴。但人類砍了很多樹，森林變得越來越小，現在只剩下1,000隻。",
+        "time": null
+      },
+      {
+        "en": "When forests are too small, there can be no northern muriquis.",
+        "tw": "森林變太小就會沒有牠們了。",
+        "time": null
+      },
+      {
+        "en": "The scientist has been helping the northern muriquis for 40 years now. She doesn't want to stop. There is a lot to do. Good luck!",
+        "tw": "這位科學家已經幫助北絨毛蛛猴40年了。她不想停下來。還有很多事情要做。祝好運！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "美洲最大的猴子，因為棲息地縮小而面臨絕種。",
+      "content": [
+        {
+          "text": "1. small 小的，smaller 更小的\nWhat a cute monkey! 好可愛的猴子!\nYeah, it's a cotton-top tamarin. 對啊，牠叫做棉頭絹猴。\nThey're so small! Even smaller than a cat.",
+          "time": null
+        },
+        {
+          "text": "2. hug 擁抱\nDon't you just want to hug them? 你不覺得很想抱抱牠們嗎?\nNo! I would never hug a monkey.",
+          "time": null
+        },
+        {
+          "text": "3. fight 打架\nHey, look, they're about to fight! 你看，牠們快要打架了!\nWow, this should be interesting to watch.",
+          "time": null
+        },
+        {
+          "text": "4. peaceful 和平的\nI thought monkeys were peaceful animals. 我以為猴子是很和平的動物。Obviously\nthese two are not. 顯然這兩隻不是。",
+          "time": null
+        }
+      ],
+      "postscript": "我們來讀今天的單字。\nsmaller更小的\nhug擁抱\nfight打架\npeaceful和平的"
+    },
+    "quiz": [
+      {
+        "question": "1. What do people call the northern muriquis?",
+        "options": [
+          "a. Happy monkeys",
+          "b. Hoppy monkeys",
+          "c. Hippie monkeys"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many northern muriquis are there now?",
+        "options": [
+          "a. One million",
+          "b. One thousand",
+          "c. One hundred fifty"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do the northern muriquis' tails help them to do?",
+        "options": [
+          "a. go from tree to tree",
+          "b. hug each other",
+          "c. fight other monkeys"
+        ],
+        "time": null,
+        "answer": "a"
       }
     ]
   }
