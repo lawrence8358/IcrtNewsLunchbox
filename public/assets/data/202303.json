@@ -1737,6 +1737,107 @@
     ]
   },
   {
+    "id": "20230327-01",
+    "type": "國小",
+    "tag": [
+      "Character Education",
+      "Indigenous Education",
+      "Quality Education",
+      "International Education",
+      "Multicultural Education",
+      "Life on Land",
+      "Social Studies"
+    ],
+    "title": "Ancient Bows and Arrows Found",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230325NK.mp3",
+    "content": [
+      {
+        "en": "Let's pretend… It is 50,000 years ago. You are in Europe. You are a hunter! You are looking for food. You want to catch a deer. You need meat for your family.",
+        "tw": "想像一下你是五萬年前的歐洲獵人，想要獵一頭鹿來餵飽家人。",
+        "time": null
+      },
+      {
+        "en": "But deer are fast! What can you do? Throw a rock? No, that wouldn't work.",
+        "tw": "但是鹿跑得飛快，丟石頭也沒用，怎麼辦呢？",
+        "time": null
+      },
+      {
+        "en": "Ah! How about a bow and arrow? That would work, right?",
+        "tw": "用弓箭怎麼樣？",
+        "time": null
+      },
+      {
+        "en": "Bows and arrows are amazing. They are strong! You can shoot arrows super far! Bows and arrows are perfect for hunters. Scientists think bows and arrows were used a long, long time ago. But how long ago? Well, some arrowheads in Europe are older than 50,000 years old! That was a long time ago! But wait! Scientists also think bows and arrows are even older. People used them in Africa first! Scientists think people from Africa took bows and arrows to Europe.",
+        "tw": "科學家認為弓箭在更早以前就有了，是非洲人先開始用，再帶到歐洲去的。",
+        "time": null
+      },
+      {
+        "en": "And yes, people used bows and arrows to fight too. All over the world, they used bows and arrows for hundreds and hundreds of years… until there were guns. But the first use for bows and arrows was hunting food.",
+        "tw": "人類發明槍之前，打仗也是使用弓箭，但是弓箭最一開始是打獵用的。",
+        "time": null
+      },
+      {
+        "en": "And now we know bows and arrows are super old! Older than 50,000 years old! Wow!",
+        "tw": "現在我們知道弓箭非常古老！比五萬年還要更老！哇！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "弓箭最早用於打獵，後來也用來格鬥或是打仗。",
+      "content": [
+        {
+          "text": "1 hunter 獵人\nI think hunters today should use bows and arrows. 我覺得現在的獵人應該用弓箭。\nTo catch what? 抓什麼呢？\nFish, maybe. 也許去抓魚。",
+          "time": null
+        },
+        {
+          "text": "2. shoot 發射\nShooting an arrow at fish? 對著魚射箭？\nThat would be too hard. 那太難了。\nIf the hunter is strong and fast, it should work.\n假如獵人很強壯又動作快，應該可以。",
+          "time": null
+        },
+        {
+          "text": "3. hundreds of 好幾百\nPerhaps for big animals like a whale. 也許對付像鯨魚那樣的大動物可以。\nPeople hunted whales for hundreds of years. 人類獵捕鯨魚好幾百年了。",
+          "time": null
+        },
+        {
+          "text": "4. want 想要\nTrue. But why bows and arrows now? 確實是，但為什麼現在要弓箭呢？\nWell, we want to protect the ocean, right? 我們不是要保護海洋？",
+          "time": null
+        }
+      ],
+      "postscript": "你有見過獵人打獵嗎？\nhunter 獵人\nshoot 發射\nhundreds of 好幾百\nwant 想要"
+    },
+    "quiz": [
+      {
+        "question": "1. What was perfect for deer hunters long ago?",
+        "options": [
+          "A: Rocks",
+          "B: Cats",
+          "C: Bows and arrows"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "2. Why were bows and arrows perfect for hunters?",
+        "options": [
+          "A: They were powerful",
+          "B: Deer liked them",
+          "C: They looked cool"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "3. Where were bows and arrows used first?",
+        "options": [
+          "A: Asia",
+          "B: Africa",
+          "C: Europe"
+        ],
+        "time": null,
+        "answer": "B"
+      }
+    ]
+  },
+  {
     "id": "20230328-01",
     "type": "國小",
     "tag": [
