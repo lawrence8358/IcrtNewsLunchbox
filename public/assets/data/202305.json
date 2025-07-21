@@ -1,0 +1,112 @@
+ [
+  {
+    "id": "20230501-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life on Land",
+      "Family Education",
+      "Character Education",
+      "Life Education",
+      "Outdoor Education"
+    ],
+    "title": "How Blossom Met Frankie",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230428NK.mp3",
+    "content": [
+      {
+        "en": "Today is Mother Goose Day in the USA.",
+        "tw": "今天是美國的鵝媽媽節。",
+        "time": null
+      },
+      {
+        "en": "Blossom is a goose. She lives on a pond.",
+        "tw": "Blossom 是一隻住在池塘裡的鵝。",
+        "time": null
+      },
+      {
+        "en": "Animals don't have wives or husbands. They have mates. Geese have the same mate all their lives. Blossom's mate was Bud. But Bud died last year.",
+        "tw": "動物沒有所謂的老婆或老公，動物的夫妻叫做配偶，鵝一生只會有一個配偶。Blossom 的配偶 Bud 去年過世了。",
+        "time": null
+      },
+      {
+        "en": "Blossom went to an office near the pond. She went many times. She looked at the office windows. But Blossom didn't see the office. What did she see? She saw a goose in the windows. Was it Bud? No, it wasn't. Blossom was looking at...Blossom. Blossom was sad without Bud. She was lonely.",
+        "tw": "Blossom 常常去附近一間辦公室的門口，看著窗戶反射的自己。沒有 Bud，Blossom 好難過又好寂寞。",
+        "time": null
+      },
+      {
+        "en": "Dorie worked in the office. She saw Blossom at the windows. Then Dorie had an idea. She sent a letter to a newspaper. The letter said Blossom wanted a new mate.",
+        "tw": "在辦公室工作的 Dorie 看到了 Blossom，然後寄了一封信給報社，說 Blossom 想要一個新配偶。",
+        "time": null
+      },
+      {
+        "en": "Two people read about Blossom in the newspaper. They had a pet named Frankie. Frankie was lonely. His mate was dead. And... he was a goose!",
+        "tw": "有兩個人在報紙上讀到 Blossom 的故事。他們有一隻叫做 Frankie 的鵝，他的配偶也過世了。",
+        "time": null
+      },
+      {
+        "en": "Now Blossom and Frankie are mates. They go to the pond together.",
+        "tw": "現在 Blossom 跟 Frankie 變成配偶了。他們會一起去池塘划水！",
+        "time": null
+      },
+      {
+        "en": "Happy Mother Goose Day, Blossom and Frankie!",
+        "tw": "鵝媽媽節快樂，Blossom 和 Frankie！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "鵝假如失去終身伴侶，是很大的打擊。這個故事裡的鵝，找到了第二春。",
+      "content": [
+        {
+          "text": "1. sad 悲傷的。\nWhy does your dog look so sad? 你的狗怎麼看起來這麼悲傷?\nBuddy just lost his mate. 巴弟才剛剛失去牠的伴侶。\nOh, no, poor Buddy! 糟糕了，可憐的巴弟!",
+          "time": null
+        },
+        {
+          "text": "2. lonely 寂寞的。\nYeah, he's sad and lonely. 對啊，他好難過，又很寂寞。\nHow did his mate die? 牠的伴怎麼死的?\nShe got hit by a truck.被卡車撞的。\nThat's terrible! 真可怕!",
+          "time": null
+        },
+        {
+          "text": "3. die 死亡。\nNo dog should die that way. 狗狗不該那樣完蛋。\nI know. But trucks and cars drive very fast here.\n我知道，但是這裡的卡車汽車都開很快。",
+          "time": null
+        },
+        {
+          "text": "4. look at 看著。\nNow Buddy just sits there and looks at the door. 現在巴弟就坐在那裏看著門。\nHe's waiting for his mate to come back? 他在等他的伴侶回來嗎?\nYup.是的。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你可記住了?\nsad悲傷的\nlonely寂寞的\ndie死亡\nlook at看著"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does Blossom live?",
+        "options": [
+          "A: On a pond",
+          "B: In an office",
+          "C: At a window"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Who sent a letter to a newspaper?",
+        "options": [
+          "A: Blossom",
+          "B: Dorie",
+          "C: Frankie"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Who is Frankie?",
+        "options": [
+          "A: Blossom's new wife",
+          "B: Blossom's new husband",
+          "C: Blossom's new mate"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  }
+]
