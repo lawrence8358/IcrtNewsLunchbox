@@ -1737,6 +1737,122 @@
     ]
   },
   {
+    "id": "20230328-01",
+    "type": "國小",
+    "tag": [
+      "International Education",
+      "Multicultural Education",
+      "Life Education",
+      "Character Education",
+      "Life on Land",
+      "Responsible Consumption and Production",
+      "Sustainable Cities and Communities",
+      "Reduced Inequalities",
+      "Good Health and Well-Being",
+      "Quality Education",
+      "No Poverty",
+      "Integrative Activities"
+    ],
+    "title": "People Give Teddy Bears to Kids in Turkey",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230327NK.mp3",
+    "content": [
+      {
+        "en": "Hi students! Do you have a teddy bear? Teddy bears are really cute.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Maybe you don't have a teddy bear. Maybe you have a stuffed animal like a rabbit or dog. Maybe it makes a sound when you touch it.",
+        "tw": "你有泰迪熊嗎？也許你沒有，也許你有其他的動物玩偶，像兔子或是狗狗？有的動物玩偶按下去還會發出聲音。",
+        "time": null
+      },
+      {
+        "en": "Teddy bears and other stuffed animals make kids feel happy. They make kids feel safe, too.",
+        "tw": "泰迪熊或是動物玩偶可以讓孩子們高興，也給他們安全感。",
+        "time": null
+      },
+      {
+        "en": "There is a country named Turkey. In February, many people went to a soccer game there. These people did something very, very nice.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "They threw teddy bears and other stuffed animals onto the soccer field. They also threw toys on the field. There were so many! It looked like it was raining teddy bears and toys.",
+        "tw": "今年二月，在土耳其的一場足球比賽，好多人把泰迪熊跟動物玩偶丟到球場上，好像在下娃娃雨一樣！",
+        "time": null
+      },
+      {
+        "en": "Why did people do that? They did it to help kids in Turkey. The teddy bears and other toys were given to many kids.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Why did these kids get teddy bears and toys? There was a very big earthquake in Turkey on February 6th. Many people died. Many homes were destroyed too.",
+        "tw": "二月六日當天，土耳其發生強烈大地震，好多人罹難，也有很多房屋倒塌。",
+        "time": null
+      },
+      {
+        "en": "This made many kids feel sad. The stuffed animals made these kids feel a little happy. That is so nice!",
+        "tw": "這讓許多孩子感到悲傷。這些填充動物讓這些孩子感到有些開心。真是太棒了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "土耳其人捐贈大量玩具，給地震受災的兒童。",
+      "content": [
+        {
+          "text": "1. toy 玩具\nWhat a cute giraffe! 好可愛的長頸鹿。\nYeah, I had it since I was a kid. 對，我小時候就有它了。\nSo it's very old now. 所以它很老了。\nNot that old! 也沒有那麼老！\nI saved it from my mom. 我從我媽手裡救了它。",
+          "time": null
+        },
+        {
+          "text": "2. throw 扔掉\nFrom your mom? 從你媽媽那裏？\nExactly. My mom threw away a lot of my toys. 正是。我媽丟掉了我好多玩具。\nI moved away, and she didn't want them. 我搬走了，而她不要那些玩具。",
+          "time": null
+        },
+        {
+          "text": "3. sad 悲傷的\nThat's too bad. 這有點糟糕。\nIt made me sad. 讓我很難過呢。\nI felt part of my childhood was destroyed. 我覺得童年的一部份都毀了。",
+          "time": null
+        },
+        {
+          "text": "4. give 給予\nGee, let me give you some of my toys. 我給你一些我的玩具吧。",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字我們每天都用得到。\ntoy 玩具\nthrow 扔掉\nsad 悲傷的\ngive 給予"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did people throw teddy bears?",
+        "options": [
+          "A: At a soccer game",
+          "B: At a baseball game",
+          "C: At home"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Why did people throw the teddy bears?",
+        "options": [
+          "A: To exercise",
+          "B: To help kids",
+          "C: To make a new game"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What else did people throw?",
+        "options": [
+          "A: Food",
+          "B: Money",
+          "C: Toys"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20230329-01",
     "type": "國小",
     "tag": [
