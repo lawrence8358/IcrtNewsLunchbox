@@ -745,5 +745,137 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230417-01",
+    "type": "國小",
+    "tag": [
+      "No Poverty",
+      "Zero Hunger",
+      "Good Health and Well-Being",
+      "Quality Education",
+      "Affordable and Clean Energy",
+      "Decent Work and Economic Growth",
+      "Industry, Innovation and Infrastructure",
+      "Life on Land",
+      "Human Rights Education",
+      "Peace, Justice and Strong Institutions",
+      "Life Education",
+      "Multicultural Education",
+      "International Education"
+    ],
+    "title": "Taiwan Ranked Happiest Country in East Asia",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230414NK.mp3",
+    "content": [
+      {
+        "en": "",
+        "tw": "你好！",
+        "time": null
+      },
+      {
+        "en": "Good morning! That woman is so happy! Hmmm... How happy is everyone in Taiwan?",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "There is a big group of countries. It is called the United Nations. Some people call the United Nations \"the UN\".",
+        "tw": "United Nations 聯合國，它是一個由很多國家組成的組織，英文縮寫是 \"UN\"。",
+        "time": null
+      },
+      {
+        "en": "The UN makes a list. It shows how happy countries are. This list is the \"World Happiness Report\".",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "The UN makes the list every year. It takes a long time. The list is not easy to make. The UN has to be fair.",
+        "tw": "聯合國每一年都會製作一份「世界幸福報告」，看看每個國家的人有多幸福。",
+        "time": null
+      },
+      {
+        "en": "The UN looks at many things. Do people feel good? Do they have a family? Do they have friends? Do people have jobs? Do they have money? Do they feel free? Can people get help? Do they think their country is good?",
+        "tw": "這份報告是看人們開不開心、有沒有家庭或是朋友、有沒有工作和金錢、是否覺得很自由、能夠獲得協助，還有是否認為自己的國家很棒。",
+        "time": null
+      },
+      {
+        "en": "This year's World Happiness Report lists 137 countries.",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "The report says Taiwan is the happiest country in East Asia! The three happiest countries in East Asia are Taiwan, Japan, and South Korea.",
+        "tw": "137個國家排名下來，東亞第一名是台灣！前三名是台灣、日本，還有南韓。",
+        "time": null
+      },
+      {
+        "en": "Finland is the happiest country in the world. Finland has been the happiest country for six years!",
+        "tw": "芬蘭已經連續六年蟬聯全世界最幸福的國家！",
+        "time": null
+      },
+      {
+        "en": "The three happiest countries in the world are Finland, Denmark, and Iceland. They are in Europe.",
+        "tw": "世界前三名就是芬蘭、丹麥，還有冰島，這三個國家都在北歐。",
+        "time": null
+      },
+      {
+        "en": "Which country will be the happiest next year? Good luck, Taiwan! We can do it!",
+        "tw": "哪個國家明年會是最幸福的呢？台灣，祝你好運！我們做得到！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "聯合國的報告說，台灣是個幸福國家。",
+      "content": [
+        {
+          "text": "1. feel 感覺\nThis is something I really don't understand. 這我就真的不懂了。",
+          "time": null
+        },
+        {
+          "text": "2. country 國家\nIt's a northern country. 它是個北方國家。\nIt's so cold and dark there! 那兒又冷又陰暗！\nWinter lasts five months in Finland. 芬蘭的冬季有五個月。",
+          "time": null
+        },
+        {
+          "text": "3. family 家人\nMaybe it's because they have a loving family and many friends.\n也許是因為他們有親愛的家人和很多朋友。\nFamily and friends are important, I know. 我知道家人朋友很重要。",
+          "time": null
+        },
+        {
+          "text": "4. look at 看著\nBut so is sunshine. 但是陽光也很重要。\nI guess people can look at the sun online. 我想大家可以上網看太陽。",
+          "time": null
+        }
+      ],
+      "postscript": "你的日子過得好不好呢？來讀單字。\nfeel 感覺\ncountry 國家\nfamily 家人\nlook at 看著"
+    },
+    "quiz": [
+      {
+        "question": "1. What is another name for \"the UN\"?",
+        "options": [
+          "a. The Unity Nations",
+          "b. The Union Nations",
+          "c. The United Nations"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many countries are in this year's report?",
+        "options": [
+          "a. 137",
+          "b. 37",
+          "c. 107"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What is the happiest country in the world?",
+        "options": [
+          "a. Iceland",
+          "b. Finland",
+          "c. Taiwan"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
