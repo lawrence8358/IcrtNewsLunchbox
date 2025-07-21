@@ -2180,5 +2180,108 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230531-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Reduced Inequalities",
+      "Life on Land",
+      "Family Education",
+      "Character Education",
+      "Life Education",
+      "Multicultural Education",
+      "Outdoor Education",
+      "International Education"
+    ],
+    "title": "Grandpas in Japan Play Soccer",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230530NK.mp3",
+    "content": [
+      {
+        "en": "My grandpa watches soccer on TV. But some grandpas in Japan play soccer!",
+        "tw": "我的阿公會在家裡看足球比賽。但在日本，有一些阿公卻出門踢足球！",
+        "time": null
+      },
+      {
+        "en": "Japan has a new soccer league. It's called Soccer For Life. The league has three teams. They are called White Bears, Red Star, and Blue Hawaii. All of the players are 80 years old... and older!",
+        "tw": "日本有一個新的足球聯盟，叫做「終身足球隊」，聯盟有三支球隊，分別叫做白熊、紅星，還有藍色夏威夷，裡面的球員年紀都超過80歲！",
+        "time": null
+      },
+      {
+        "en": "Mr. Shiozawa is the oldest player. He's 93! Mr. Shiozawa loves to play soccer. He's the goalkeeper for White Bears.",
+        "tw": "最老的球員是Shiozawa先生，已經93歲了！他是白熊隊的守門員。",
+        "time": null
+      },
+      {
+        "en": "Mr. Shiozawa has a big job! He tries to stop the ball from going into the goal. He uses his body to stop the ball. He can use his hands to stop it too! When he stops the ball, the other team cannot get a point!",
+        "tw": "Shiozawa 是用身體或是手阻擋球踢進球門，阻止對手得分。",
+        "time": null
+      },
+      {
+        "en": "Mr. Shiozawa needs a lot of energy for soccer. Energy lets him run, play, and kick. Mr. Shiozawa wanted more energy. How did he get it? He stopped smoking! Now Mr. Shiozawa runs in his office and he runs on the soccer field. He plays practice matches. He plays matches with the other teams. He has a lot of energy!",
+        "tw": "當守門員需要很多體力，為此他決定戒菸，在自己的辦公室跟球場練跑，還會參加練習賽！",
+        "time": null
+      },
+      {
+        "en": "Mr. Shiozawa plays soccer at 93 years old! Good for you, Mr. Shiozawa! Soccer for life!",
+        "tw": "Shiozawa 先生93歲了還在踢足球！Shiozawa 先生，你真棒！終身踢足球！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "銀髮族踢足球，一樣玩得很開心！",
+      "content": [
+        {
+          "text": "1. soccer match 足球賽\nI can't wait for the next World Cup. 我等不及下一屆世界盃了。\nIt's more than 3 years away, Paz! 要等三年多呢！\nI know. Don't you miss those fun soccer matches?",
+          "time": null
+        },
+        {
+          "text": "2. player 球員\nI miss all the handsome players. 我想念那些帥哥球員。\nJane, you have to see how they play the game. 你得看他們怎麼打球。\nI did! 我有啊！",
+          "time": null
+        },
+        {
+          "text": "3. goalkeeper 守門員\nI like watching the goalkeeper doing his job. 我喜歡看守門員守球門。",
+          "time": null
+        },
+        {
+          "text": "4. star 明星\nRight, and he's often the team's star. 對，而且他通常是全隊的明星。\nThat's why I like him. 這是為什麼我喜歡他。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡看足球比賽嗎？\nsoccer match 足球賽\nplayer 球員\ngoalkeeper 守門員\nstar 明星"
+    },
+    "quiz": [
+      {
+        "question": "1. What team is Mr. Shiozawa on?",
+        "options": [
+          "a. White Bears",
+          "b. Red Star",
+          "c. Blue Hawaii"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How old are the soccer players on these teams?",
+        "options": [
+          "a. 20 to 25",
+          "b. 80 and older",
+          "c. 90 to 140"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How did Mr. Shiozawa get more energy?",
+        "options": [
+          "a. He stopped smoking",
+          "b. He used his hands",
+          "c. He watched TV"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
