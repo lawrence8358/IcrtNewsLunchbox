@@ -1,9 +1,10 @@
-import { Component, OnInit, inject } from '@angular/core';
+import { Component, OnInit, OnDestroy, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { NgbActiveModal } from '@ng-bootstrap/ng-bootstrap';
 import { VocabularyService } from '../../services/vocabulary.service';
 import { NotificationService } from '../../services/notification.service';
+import { AndroidBackButtonService } from '../../services/android-back-button.service';
 import { VocabularyWord, VocabularySource } from '../../models/vocabulary.model';
 import { VocabularyLevelUtils } from '../../models/vocabulary-level.constants';
 
@@ -13,7 +14,7 @@ import { VocabularyLevelUtils } from '../../models/vocabulary-level.constants';
   templateUrl: './add-word-dialog.component.html',
   styleUrl: './add-word-dialog.component.less'
 })
-export class AddWordDialogComponent implements OnInit {
+export class AddWordDialogComponent implements OnInit, OnDestroy {
   activeModal = inject(NgbActiveModal);
 
   // 輸入資料
@@ -33,13 +34,27 @@ export class AddWordDialogComponent implements OnInit {
   translationError = false;
   levelError = false;
 
+  // Android 返回按鈕處理
+  private androidBackButtonCleanup?: () => void;
+
   constructor(
     private readonly vocabularyService: VocabularyService,
-    private readonly notificationService: NotificationService
+    private readonly notificationService: NotificationService,
+    private readonly androidBackButtonService: AndroidBackButtonService
   ) { }
 
   ngOnInit(): void {
     this.initializeDialog();
+
+    // 處理 Android 返回按鈕
+    this.androidBackButtonCleanup = this.androidBackButtonService.setupBackButtonHandler(this.activeModal);
+  }
+
+  ngOnDestroy(): void {
+    // 清理 Android 返回按鈕處理
+    if (this.androidBackButtonCleanup) {
+      this.androidBackButtonCleanup();
+    }
   }
 
   /**

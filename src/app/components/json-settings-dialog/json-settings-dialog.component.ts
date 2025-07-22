@@ -1,4 +1,4 @@
-import { Component, OnInit, inject } from '@angular/core';
+import { Component, OnInit, inject, OnDestroy } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { NgbActiveModal } from '@ng-bootstrap/ng-bootstrap';
@@ -13,7 +13,7 @@ import { VocabularyWord } from '../../models/vocabulary.model';
   templateUrl: './json-settings-dialog.component.html',
   styleUrl: './json-settings-dialog.component.less'
 })
-export class JsonSettingsDialogComponent implements OnInit {
+export class JsonSettingsDialogComponent implements OnInit, OnDestroy {
   activeModal = inject(NgbActiveModal);
 
   jsonContent = '';
@@ -22,13 +22,42 @@ export class JsonSettingsDialogComponent implements OnInit {
   isValidJson = true;
   jsonError = '';
 
+  // Android 返回按鈕處理
+  private readonly boundPopStateHandler = this.handlePopState.bind(this);
+  private hasAddedHistoryState = false;
+
   constructor(
     private readonly vocabularyService: VocabularyService,
     private readonly notificationService: NotificationService
   ) { }
 
-  async ngOnInit(): Promise<void> {
-    await this.loadCurrentData();
+  ngOnInit(): void {
+    this.loadCurrentData();
+
+    // 設定 PopState 事件處理
+    window.addEventListener('popstate', this.boundPopStateHandler);
+    this.hasAddedHistoryState = true;
+    history.pushState(null, '');
+  }
+
+  ngOnDestroy(): void {
+    // 移除 PopState 事件處理
+    if (this.hasAddedHistoryState) {
+      window.removeEventListener('popstate', this.boundPopStateHandler);
+    }
+  }
+
+  /**
+   * 處理 PopState 事件
+   */
+  private handlePopState(event: PopStateEvent): void {
+    // 只在前進歷史紀錄時關閉對話框
+    if (event.state) {
+      this.activeModal.dismiss();
+    } else {
+      // 否則重新推送狀態以防止關閉
+      history.pushState(null, '');
+    }
   }
 
   /**

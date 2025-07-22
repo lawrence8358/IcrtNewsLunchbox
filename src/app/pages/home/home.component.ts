@@ -9,7 +9,6 @@ import { FilterService } from '../../services/filter.service';
 import { NotificationService } from '../../services/notification.service';
 import { UtilsService } from '../../services/utils.service';
 import { Topic, AppSettings } from '../../models/topic.model';
-import { AddWordDialogComponent } from '../../components/add-word-dialog/add-word-dialog.component';
 import { TopicDetailDialogComponent } from '../../components/topic-detail-dialog/topic-detail-dialog.component';
 import { SettingConfig } from '../../config/setting.config';
 
@@ -85,9 +84,12 @@ export class HomeComponent implements OnInit, OnDestroy {
       this.monthsData = SettingConfig.months;
       this.tagsData = SettingConfig.tags;
 
+      // 如果沒有設定的月份，使用第一個月份作為預設
+      const lastMonth = this.settings.lastMonth || this.monthsData[0];
+
       // 設定預設值
-      if (this.settings.lastMonth && this.monthsData.includes(this.settings.lastMonth)) {
-        this.selectedMonth = this.settings.lastMonth;
+      if (lastMonth && this.monthsData.includes(lastMonth)) {
+        this.selectedMonth = lastMonth;
         this.searchText = this.settings.lastSearch;
         this.selectedType = this.settings.lastType;
         this.selectedTag = this.settings.lastTag;

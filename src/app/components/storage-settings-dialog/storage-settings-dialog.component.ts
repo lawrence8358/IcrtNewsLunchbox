@@ -1,4 +1,4 @@
-import { Component, OnInit, inject } from '@angular/core';
+import { Component, OnInit, inject, OnDestroy } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { NgbActiveModal } from '@ng-bootstrap/ng-bootstrap';
@@ -11,12 +11,16 @@ import { NotificationService } from '../../services/notification.service';
   templateUrl: './storage-settings-dialog.component.html',
   styleUrl: './storage-settings-dialog.component.less'
 })
-export class StorageSettingsDialogComponent implements OnInit {
+export class StorageSettingsDialogComponent implements OnInit, OnDestroy {
   activeModal = inject(NgbActiveModal);
 
   currentStorageType: 'localStorage' | 'indexedDB' = 'localStorage';
   isIndexedDBSupported = false;
   isSaving = false; // 加入載入狀態
+
+  // Android 返回按鈕處理
+  private readonly boundPopStateHandler = this.handlePopState.bind(this);
+  private hasAddedHistoryState = false;
 
   constructor(
     private readonly vocabularyService: VocabularyService,
@@ -26,6 +30,12 @@ export class StorageSettingsDialogComponent implements OnInit {
   ngOnInit(): void {
     this.checkIndexedDBSupport();
     this.currentStorageType = this.vocabularyService.getStorageType();
+    this.addHistoryState();
+    window.addEventListener('popstate', this.boundPopStateHandler);
+  }
+
+  ngOnDestroy(): void {
+    window.removeEventListener('popstate', this.boundPopStateHandler);
   }
 
   /**
@@ -73,5 +83,22 @@ export class StorageSettingsDialogComponent implements OnInit {
       this.notificationService.showWarning('此瀏覽器不支援 IndexedDB，將使用 LocalStorage');
       this.currentStorageType = 'localStorage';
     }
+  }
+
+  /**
+   * 處理 Android 返回按鈕
+   */
+  private handlePopState(event: PopStateEvent): void {
+    if (this.hasAddedHistoryState) {
+      this.activeModal.dismiss();
+    }
+  }
+
+  /**
+   * 添加歷史狀態
+   */
+  private addHistoryState(): void {
+    history.pushState(null, '', window.location.href);
+    this.hasAddedHistoryState = true;
   }
 }

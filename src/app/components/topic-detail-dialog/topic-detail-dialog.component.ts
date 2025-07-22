@@ -6,6 +6,7 @@ import { Subject } from 'rxjs';
 import { Topic } from '../../models/topic.model';
 import { NotificationService } from '../../services/notification.service';
 import { UtilsService } from '../../services/utils.service';
+import { AndroidBackButtonService } from '../../services/android-back-button.service';
 import { AddWordDialogComponent } from '../add-word-dialog/add-word-dialog.component';
 import { VocabularyListComponent } from '../vocabulary-list/vocabulary-list.component';
 
@@ -52,11 +53,15 @@ export class TopicDetailDialogComponent implements OnInit, OnDestroy {
   private readonly boundGlobalTouchMove = this.handleGlobalTouchEnd.bind(this);
   private readonly boundGlobalDoubleClick = this.handleGlobalDoubleClick.bind(this);
 
+  // Android 返回按鈕處理
+  private androidBackButtonCleanup?: () => void;
+
   constructor(
     public readonly activeModal: NgbActiveModal,
     private readonly notificationService: NotificationService,
     private readonly utilsService: UtilsService,
-    private readonly modalService: NgbModal
+    private readonly modalService: NgbModal,
+    private readonly androidBackButtonService: AndroidBackButtonService
   ) { }
 
   ngOnInit(): void {
@@ -73,6 +78,9 @@ export class TopicDetailDialogComponent implements OnInit, OnDestroy {
 
     // 綁定全域事件
     this.bindGlobalEvents();
+
+    // 處理 Android 返回按鈕
+    this.androidBackButtonCleanup = this.androidBackButtonService.setupBackButtonHandler(this.activeModal);
   }
 
   ngOnDestroy(): void {
@@ -86,6 +94,11 @@ export class TopicDetailDialogComponent implements OnInit, OnDestroy {
     document.removeEventListener('touchcancel', this.boundGlobalTouchCancel);
     document.removeEventListener('touchmove', this.boundGlobalTouchMove);
     document.removeEventListener('dblclick', this.boundGlobalDoubleClick);
+
+    // 清理 Android 返回按鈕處理
+    if (this.androidBackButtonCleanup) {
+      this.androidBackButtonCleanup();
+    }
   }
 
   /**
