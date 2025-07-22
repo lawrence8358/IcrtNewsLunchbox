@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20240830-01",
     "type": "國小",
@@ -12,42 +12,42 @@
       {
         "en": "The Toucheng Ghost Grappling Competition is in Yilan. It's in the seventh month of the lunar year.",
         "tw": "頭城搶孤儀式會在農曆七月的時候，在宜蘭舉行。",
-        "time": null
+        "time": "0:19"
       },
       {
         "en": "In Taiwan, the seventh month of the lunar year is Ghost Month. During Ghost Month, ghosts can come and visit. This old ghost grappling competition feeds the ghosts and shows them respect.",
         "tw": "在台灣，農曆七月就是鬼月。鬼魂在這個期間來人間拜訪。這個古老的搶孤儀式會提供鬼魂食物並表示尊敬。",
-        "time": null
+        "time": "0:33"
       },
       {
         "en": "Teams of five people climb a tall tower. There's lots of food on it for the ghosts. The teams want to get the flag and the gold medal at the top. But it's not easy…",
         "tw": "五個人一組的隊伍會努力爬上棚架，在棚台上有很多給鬼魂的食物。隊伍要爬到頂端拿到旗子跟金牌，不過這可不簡單......",
-        "time": null
+        "time": "1:02"
       },
       {
         "en": "The poles at the bottom of the tower are 33 meters tall. There's lots of grease on them! They're super slippery!",
         "tw": "棚架的柱子大概有33公尺高 ! 而且上面塗滿了油，所以超級滑!",
-        "time": null
+        "time": "1:33"
       },
       {
         "en": "This competition is at night. The tower has beautiful lights. The climb is very exciting! Many people come to watch!",
         "tw": "這場比賽會在晚上舉辦。棚架上會有漂亮的燈光，再加上整個比賽非常刺激，吸引很多人來看!",
-        "time": null
+        "time": "1:52"
       },
       {
         "en": "The teams climb as fast as they can. Teammates climb on top of each other. They slip and slide! The poles are so greasy!",
         "tw": "參加隊伍必須用最快的速度向上爬，隊員要爬到隊友的頭上，他們可能會滑倒，甚至滑下來，因為柱子真的太滑了!",
-        "time": null
+        "time": "2:14"
       },
       {
         "en": "The first team to get the flag and the gold medal wins!",
         "tw": "第一個爬到頂端拿到旗子跟金牌的隊伍，就能贏得比賽!",
-        "time": null
+        "time": "2:41"
       },
       {
         "en": "Soon the ghosts will be full and happy. They can go home!",
         "tw": "很快地，鬼魂就會飽足又快樂了。他們可以回家了！",
-        "time": null
+        "time": "2:53"
       }
     ],
     "vocabulary": {
@@ -55,19 +55,19 @@
       "content": [
         {
           "text": "1. watch 觀看\nThis competition looks like a lot of fun. 這個比賽看起來很好玩。\nThinking about going there to watch? 你想去那裏看嗎?",
-          "time": null
+          "time": "3:05"
         },
         {
           "text": "2. exciting 精彩的、讓人興奮的\nI'd really like to! 我很想去! It's an exciting event! 那是很精彩的活動。\nBut it's at midnight next Monday. 可是它在下星期一的午夜。",
-          "time": null
+          "time": "3:16"
         },
         {
           "text": "3. as fast as一樣快\nThat's even better. 那更好。\nWe can go after work. 我們可以下班之後去。\nThen you'd have to drive as fast as you can.那你得儘量開快車。\nNo, Toucheng is not that far away.頭城沒有那麼遠。",
-          "time": null
+          "time": "3:33"
         },
         {
           "text": "4. slip and slide 滑倒摔跤\nYou really like to see people slip and slide, don't you?\n你就是喜歡看人滑倒摔跤，對吧?\nI sure do. 真的。",
-          "time": null
+          "time": "3:51"
         }
       ],
       "postscript": "watch觀看 exciting精彩的 as fast as一樣快 slip and slide滑倒摔跤"
@@ -80,7 +80,7 @@
           "b. The seventh month",
           "c. The 45th month"
         ],
-        "time": null,
+        "time": "4:23",
         "answer": "b"
       },
       {
@@ -90,7 +90,7 @@
           "b. Yilan",
           "c. Yingge"
         ],
-        "time": null,
+        "time": "4:37",
         "answer": "b"
       },
       {
@@ -100,7 +100,7 @@
           "b. Food",
           "c. Ghosts"
         ],
-        "time": null,
+        "time": "4:46",
         "answer": "a"
       }
     ]
