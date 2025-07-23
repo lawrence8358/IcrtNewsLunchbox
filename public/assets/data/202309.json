@@ -311,5 +311,116 @@
         "answer": "B"
       }
     ]
+  },
+  {
+    "id": "20230906-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Sustainable Cities and Communities",
+      "Climate Action",
+      "Life on Land",
+      "Outdoor Education",
+      "Natural Sciences"
+    ],
+    "title": "Leather from Mushrooms",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230905NK.mp3",
+    "content": [
+      {
+        "en": "Mushrooms are part of a group of amazing living things that are not really an animal and not really a plant.",
+        "tw": "香菇不是動物也不是植物，它們是菇類！"
+      },
+      {
+        "en": "You can eat some mushrooms, and they're super yummy. But you can also make leather from them.",
+        "tw": "它們不只很好吃，還可以做成皮革！"
+      },
+      {
+        "en": "We use leather for many things. I have a leather belt and leather shoes.",
+        "tw": "皮革可以做成很多東西，像是我自己有皮帶或跟皮鞋。"
+      },
+      {
+        "en": "But some people say we should try to stop making things with leather.",
+        "tw": "有人說我們不應該再用皮革做東西。"
+      },
+      {
+        "en": "Why? Well, two big reasons …",
+        "tw": "為什麼呢？有兩大原因…"
+      },
+      {
+        "en": "One, to make leather you need a lot of chemicals. Those chemicals can be bad for people, and they are bad for the earth - they cause pollution.",
+        "tw": "第一個原因是，做皮革要用很多化學藥劑，對人跟地球都不好。"
+      },
+      {
+        "en": "And number two: Leather comes from animals - mostly cows. Many people think we need to stop eating so much meat and stop using things made from animals.",
+        "tw": "第二個原因是，很多皮革都是用牛做的。有人覺得我們不要再吃這麼多肉，也不要再用動物做東西！"
+      },
+      {
+        "en": "That's why scientists are making leather from mushrooms! It looks almost exactly like leather from animals, and it's strong too.",
+        "tw": "所以科學家要用菇類做皮革！它很像用動物做的皮革，也是很堅固！"
+      },
+      {
+        "en": "Using mushroom leather means we can say goodbye to bad chemicals, and it means we don't need to use animals.",
+        "tw": "這樣子我們可以遠離化學藥劑，也不用動物做東西。"
+      },
+      {
+        "en": "Many companies are interested in this new mushroom leather.",
+        "tw": "許多公司都對這種新的蘑菇皮革很感興趣。"
+      }
+    ],
+    "vocabulary": {
+      "preface": "生活中有哪些東西是皮革做的，你可知道?",
+      "content": [
+        {
+          "text": "1. leather 皮革。I don't wear leather shoes any more.我不再穿皮鞋了。Why not? 為什麼不呢?Because I'm wearing cotton shoes now. 因為我現在都穿棉布鞋。They are light and comfortable. 它們很輕，又很舒服。",
+          "time": null
+        },
+        {
+          "text": "2. strong 堅固耐用。But they are not as strong as leather. 但是它們沒有皮革堅固。That's true. So I don't wear them on rainy days. 這是真的，所以我雨天不穿。",
+          "time": null
+        },
+        {
+          "text": "3. use 使用。You use cotton for your bags too? 你也用棉布做包包嗎?Yeah, look at my book bag. 對啊，你看我的書包。Very cute! 很可愛呢!Yeah, I use cotton for many things. 我用棉布做很多東西。",
+          "time": null
+        },
+        {
+          "text": "4. company 公司。A lot of companies are making these products. 很多公司也在做這些產品I know. But I prefer to do it myself. 我知道，不過我喜歡自己動手。",
+          "time": null
+        }
+      ],
+      "postscript": "這些字簡單好用，來一起讀一遍。leather皮革strong堅固耐用use使用company公司"
+    },
+    "quiz": [
+      {
+        "question": "1. How does animal leather hurt the earth?",
+        "options": [
+          "a. Making it uses bad chemicals.",
+          "b. Making it takes 100 years",
+          "c. Making it means bigger typhoons"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What are scientists using to make new leather?",
+        "options": [
+          "a. Mushrooms",
+          "b. Fried rice",
+          "c. Frogs"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Where does leather come from?",
+        "options": [
+          "a. Mostly cows.",
+          "b. Mostly clouds.",
+          "c. Mostly clowns."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
