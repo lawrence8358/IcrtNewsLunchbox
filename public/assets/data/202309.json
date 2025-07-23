@@ -737,5 +737,114 @@
         "answer": "A"
       }
     ]
+  },
+  {
+    "id": "20230912-01",
+    "type": "國小",
+    "tag": [
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life on Land",
+      "Environmental Education",
+      "Technology Education",
+      "Life Education",
+      "Outdoor Education",
+      "Natural Sciences"
+    ],
+    "title": "Bird Spikes Help Birds Make More Birds",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230911NK.mp3",
+    "content": [
+      {
+        "en": "Birds are beautiful in the sky! They have beautiful colors! They make beautiful songs!",
+        "tw": "天上的鳥很漂亮! 牠們的叫聲也很優美!",
+        "time": null
+      },
+      {
+        "en": "Many birds live in cities. And every year, they make a nest. But some people don't like birds. Why?",
+        "tw": "很多鳥類都會在城市築巢，但有一些人不喜歡牠們。為甚麼呢?",
+        "time": null
+      },
+      {
+        "en": "Well, birds are loud in the morning and at night. And they make places dirty.",
+        "tw": "嗯，鳥兒在早上和晚上都很吵。而且牠們會把地方弄髒。",
+        "time": null
+      },
+      {
+        "en": "People keep birds away with bird spikes. A spike is long and thin. The spike end is sharp. OUCH!",
+        "tw": "人們用長而細的防鳥刺趕走鳥類，哎喔! 那些刺很尖銳。",
+        "time": null
+      },
+      {
+        "en": "People put bird spikes on top of walls and buildings. Birds can't sit on spikes. They can't make nests on them.",
+        "tw": "人們在牆壁和屋頂上放防鳥刺，鳥類就不會在上面築巢。",
+        "time": null
+      },
+      {
+        "en": "Crows and magpies are strong birds. Some of these birds take spikes! They like shiny things. Metal spikes are shiny.",
+        "tw": "烏鴉和喜鵲是強壯的鳥類。其中一些鳥會拿走尖刺！牠們喜歡閃亮的東西。金屬尖刺很閃亮。",
+        "time": null
+      },
+      {
+        "en": "But, that's not why they take them. Crows and magpies are smart. Scientists say the birds use the spikes. They put the sharp ends outside their nests. These bird spikes stop other birds and animals.",
+        "tw": "但是這不是烏鴉和喜鵲叼走的原因。牠們很聰明，會用防鳥刺築巢，阻止其他鳥類和動物靠近。",
+        "time": null
+      },
+      {
+        "en": "Taiwan has crows and magpies. They're strong and smart. Maybe you'll see a nest with spikes one day!",
+        "tw": "台灣有烏鴉和喜鵲。牠們既強壯又聰明。也許有一天你會看到一個帶有尖刺的鳥巢！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這些喜鵲自己不怕尖刺，有夠神奇!",
+      "content": [
+        {
+          "text": "1. in the morning 在早上\nI really need a vacation! 我真的需要度假!\nI'd like to hear birds in the morning, and frogs at night.\n我想要早上聽到鳥鳴，晚上聽到青蛙叫。",
+          "time": null
+        },
+        {
+          "text": "2. on top of 在上面。\nWhere can you find a place like that? 你哪裡可以找到那種地方?\nA homestay in Taitung, perhaps. 也許台東的一家民宿吧?\nI stayed one before. Next to the cafe?, on top of the hill.",
+          "time": null
+        },
+        {
+          "text": "3. smart 聰明的\nYou can just sit in a cafe here and listen to birds and frogs on your cell\nphone. 你可以就坐在這裡的咖啡館，聽手機上的鳥叫青蛙叫。\nThat's a smart idea, you know. 真是聰明主意呢。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字和片語都很好用喔。\nIn the morning在早上\non top of在上面。\nsmart聰明的"
+    },
+    "quiz": [
+      {
+        "question": "1. Why don't some people like birds?",
+        "options": [
+          "a. They're loud.",
+          "b. They're strong.",
+          "c. They're smart."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Why do some people use bird spikes?",
+        "options": [
+          "a. They're shiny.",
+          "b. They keep birds away.",
+          "c. They keep nests safe."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What birds use bird spikes?",
+        "options": [
+          "a. Ducks and magpies",
+          "b. Crows and geese",
+          "c. Crows and magpies"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
