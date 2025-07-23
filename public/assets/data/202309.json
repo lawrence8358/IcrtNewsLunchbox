@@ -1814,5 +1814,103 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230925-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies",
+      "Life Education",
+      "Character Education",
+      "Good Health and Well-Being"
+    ],
+    "title": "Taichung Man Gets Lots of Money Back",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230923NK.mp3",
+    "content": [
+      {
+        "en": "Where are my keys? Did I lose them again? Do you lose things? Sometimes people lose important things. That feels bad!",
+        "tw": "你有弄丟過東西嗎？有時候人們搞丟重要的東西。那種感覺很糟糕！",
+        "time": null
+      },
+      {
+        "en": "How does it feel when you find the thing you lost? Ask Mr. Li. He was on a scooter. Mr. Li was bringing money to someone in Taichung. But when he got there, the money was gone! (SFX: Mr. Li: \"Oh no! My money!\") It was somewhere on the road!",
+        "tw": "那麼…當你找回遺失的東西的時候，感覺怎麼樣？問李先生就知道了。李先生帶著錢去台中，但他發現錢掉在路上。",
+        "time": null
+      },
+      {
+        "en": "How much money did Mr. Li lose? He lost 180,000 NT$! That's a lot of money!",
+        "tw": "李先生損失了多少錢呢？ 答案是18萬台幣！",
+        "time": null
+      },
+      {
+        "en": "Mr. Li looked for the money. But he could not find it. So he went to the police. He said he lost a bag of money. Then the police said something amazing!",
+        "tw": "李先生找不到錢，只好去報警，但是警察說的話讓他大吃一驚！",
+        "time": null
+      },
+      {
+        "en": "Two people found the bag! And they did not keep the money! They gave it to the police! The police made sure the money was Mr. Li's. Then they gave it back to him. (SFX: Mr. Li: \"Thank you! Thank you!\") Mr. Li said \"thank you\" to the two people and the police.",
+        "tw": "有兩個人發現了這一袋錢，不但沒有自己留著，還交給了警方。李先生向他們兩個人以及警察道謝。",
+        "time": null
+      },
+      {
+        "en": "He felt thankful to get it back! Mr. Li was lucky!",
+        "tw": "他很高興能找回錢！李先生很幸運！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "搞丟了18萬，最後卻失而復得，這不是太高興了?",
+      "content": [
+        {
+          "text": "1. again 再一次。\nOh no, I lost my money again! 糟糕，我又搞丟錢了!\nDidn't you say it won't happen again? 你不是說不會再這樣?",
+          "time": null
+        },
+        {
+          "text": "2. how much 多少。\nI know. But I keep losing more. 我知道，但是我繼續搞丟。\nHow much did you lose this time? 你這次損失了多少?\nFive hundred, I think.我想是五百塊。",
+          "time": null
+        },
+        {
+          "text": "3. lose 遺失。\nThat's not a lot. 不算多。\nMaybe not for you, but it's a lot for me. 對你也許不多，對我很多。\nBut how did you lose it? 但是你怎麼丟的? What happened? 出了什麼事?",
+          "time": null
+        },
+        {
+          "text": "4. look for 尋找。\nI don't know. But now I must look for it. 我也不知道，但是現在我得去找了。\nMake sure you check every pocket. 你要確定每個口袋都看看。",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字?\nagain再一次 how much多少 lose遺失 look for尋找"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did Mr. Li lose the money?",
+        "options": [
+          "A: At the park",
+          "B: On the road",
+          "C: At the police station"
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "2. How much money did Mr. Li lose?",
+        "options": [
+          "A: 180,000 NT",
+          "B: 18,000 NT",
+          "C: 800,000 NT"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "3. How did Mr. Li feel when he got the money back?",
+        "options": [
+          "A: Angry",
+          "B: Scared",
+          "C: Thankful"
+        ],
+        "time": null,
+        "answer": "C"
+      }
+    ]
   }
 ]
