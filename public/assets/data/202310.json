@@ -1339,6 +1339,114 @@
     ]
   },
   {
+    "id": "20231018-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Character Education",
+      "Multicultural Education",
+      "International Education"
+    ],
+    "title": "A Lazy Game from a Silly Saying",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231017NK.mp3",
+    "content": [
+      {
+        "en": "Do you hear people say \"all Taiwanese like stinky tofu\"? Saying this is silly, right?!",
+        "tw": "你聽過別人說: 「所有台灣人都喜歡吃臭豆腐」嗎? 這聽起來很傻，對吧?",
+        "time": null
+      },
+      {
+        "en": "It's silly because it's wrong. Do all Taiwanese like stinky tofu? Of course not! Everyone, in every country, is different. And everyone likes different things.",
+        "tw": "因為這是錯誤的說法，不管哪個國家，每一個人都不一樣，喜歡的東西也不同。",
+        "time": null
+      },
+      {
+        "en": "Montenegro is a country in Europe. Some people say \"all Montenegrins are lazy\". This is wrong too. And it's very silly.",
+        "tw": "蒙特內哥羅是個歐洲的國家，有人說: 「蒙特內哥羅人都很懶惰。」 這樣也是不對喔!",
+        "time": null
+      },
+      {
+        "en": "Most Montenegrins know this is silly. They think it's so silly that it's funny! So they made a lazy game from this silly saying!",
+        "tw": "這個國家大部分的人知道這聽起來很傻，但他們也覺得好笑，就舉辦了懶惰比賽。",
+        "time": null
+      },
+      {
+        "en": "What's the aim of this lazy game? It's to stay in bed the longest. The last player in bed wins lots of money!",
+        "tw": "誰躺在床上越久，就可以贏得獎金。",
+        "time": null
+      },
+      {
+        "en": "One year, a player worked hard to win. She stayed in bed for 117 hours!",
+        "tw": "有一年，有一位參賽者躺在床上117個小時!",
+        "time": null
+      },
+      {
+        "en": "The rules are easy. Players can't sit or stand! They have to lie down the whole time. Players can go to the bathroom one time every 8 hours!",
+        "tw": "規則很簡單，參賽者不可以坐或站! 他們需要躺著一整天，每八小時可以上一次廁所。",
+        "time": null
+      },
+      {
+        "en": "Now people around the world are talking about this game! Sometimes it's best to take something silly and make something great!",
+        "tw": "現在全世界的人都在討論這個遊戲！有時候，把一些愚蠢的事情變成偉大的東西是最好的！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "懶惰比賽的規則也許很簡單，但是不容易遵守。",
+      "content": [
+        {
+          "text": "1. stay 停留 Are you up yet? 你起床了嗎? It's a beautiful day outside! 今天外面天氣很棒呢! Nope, I'm going to stay in bed the whole day.",
+          "time": null
+        },
+        {
+          "text": "2. lazy 懶惰的 Seriously? You don't want to be lazy on such a day! 這麼好的一天你不會想要偷懶。 But I really don't feel like working today.",
+          "time": null
+        },
+        {
+          "text": "3. hard 辛苦地 You know, you need to work hard to win in life. 你需要努力工作才能在人生贏得勝利。 What if I don't want to win?",
+          "time": null
+        },
+        {
+          "text": "4. funny 好笑的 That's a funny thing to say. 這話好笑了。 Everybody wants to win. 每個人都想贏。 No, not everybody.",
+          "time": null
+        }
+      ],
+      "postscript": "Would you like to be lazy all the time? stay停留 lazy懶惰的 hard辛苦地 funny好笑的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is Montenegro?",
+        "options": [
+          "a. Africa",
+          "b. South America",
+          "c. Europe"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many hours did a winner stay in bed one year?",
+        "options": [
+          "a. 170",
+          "b. 117",
+          "c. 70"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What can players do once every 8 hours?",
+        "options": [
+          "a. Sit",
+          "b. Stand",
+          "c. Go to the bathroom"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20231020-01",
     "type": "國小",
     "tag": [
