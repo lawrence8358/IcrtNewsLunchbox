@@ -309,6 +309,112 @@
     ]
   },
   {
+    "id": "20231206-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Life on Land",
+      "Technology Education",
+      "Character Education",
+      "Multicultural Education",
+      "International Education",
+      "Technology"
+    ],
+    "title": "12-Year-Old Engineer Finds Fires Faster",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231205NK.mp3",
+    "content": [
+      {
+        "en": "Engineering is about inventing things. Thanks to engineers, we have all kinds of inventions: trains, computers, ovens, radios, light bulbs...!",
+        "tw": "工程這種專業跟發明有關。多虧有工程師，我們才有火車、電腦、烤箱、廣播、燈泡!"
+      },
+      {
+        "en": "There's a contest in the USA. It's for middle school students who love science, technology, engineering, and math.",
+        "tw": "美國有一個競賽，讓喜歡科學、科技、工程和數學的學生參加。"
+      },
+      {
+        "en": "This year's winner is Shanya Gill. She's a 12-year-old engineer! Shanya won 25,000 US dollars. That's about 800,000 Taiwan dollars!",
+        "tw": "今年的冠軍是Shanya Gill，她是一位年僅12歲的工程師! Shanya贏得2萬5美金，相當於80萬台幣。"
+      },
+      {
+        "en": "A restaurant by Shanya's house had a big fire. Nobody was hurt. But it gave Shanya a great idea…",
+        "tw": "Shanya家附近的餐廳之前發生火災。沒有人受傷，但是這給了Shanya一個靈感。"
+      },
+      {
+        "en": "Most fire alarms find smoke in the air. Then these smoke alarms make a very loud sound. People know there's danger after a fire starts.",
+        "tw": "大多的煙霧警報器偵測到煙才會發出聲音。人們要等到火燒起來後才知道有危險。"
+      },
+      {
+        "en": "Shanya's fire alarm has a special camera. The camera sees heat. People know there's danger before a fire starts.",
+        "tw": "Shanya的警報器則是找出熱源。它有個特別的攝影機。攝影機拍到熱源就會在火燒起來之前警告大家。"
+      },
+      {
+        "en": "Shanya says her fire alarm is faster, cheaper, and better than smoke alarms. And she's making it better!",
+        "tw": "Shanya說她的火災警報器更快、更便宜、也比煙霧警報好，而且她還在繼續改善它。"
+      },
+      {
+        "en": "Shanya's invention can save lives, houses, and more. Bravo, Engineer Shanya!",
+        "tw": "Shanya的發明可以拯救生命、房屋等等。Shanya工程師，太棒了！"
+      }
+    ],
+    "vocabulary": {
+      "preface": "12歲的女孩，發明了可以拯救性命的預防火災裝置。",
+      "content": [
+        {
+          "text": "1. invent 發明\nI wish a robot could do grocery shopping for me.我希望有機器人幫我買菜。\nIt's already been invented. 那已經發明了。\nIt's called \"delivery service\".叫做「外送」。",
+          "time": null
+        },
+        {
+          "text": "2. restaurant 餐廳\nI wish the robot could cook for me. 我希望機器人替我煮飯。\nFor that you can call a restaurant. 你可以打電話給餐廳叫菜。",
+          "time": null
+        },
+        {
+          "text": "3. why 為什麼\nI also wish I had talking glasses. 我也希望有會講話的眼鏡。\nNow why do you want your glasses to talk? 為什麼你要眼鏡講話呢?\nTo tell me where they are.好告訴我它在哪裡。",
+          "time": null
+        },
+        {
+          "text": "4. alarm 警報\nYour glasses are right there by the alarm clock. 你的眼鏡就在鬧鐘旁邊。\nWhat would I do without you? 沒有你我怎麼辦?",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字每天都用得到。\ninvent發明\nrestaurant餐廳\nwhy為什麼\nalarm警報"
+    },
+    "quiz": [
+      {
+        "question": "1. What is engineering about?",
+        "options": [
+          "a. Winning",
+          "b. Inventing",
+          "c. Saving trees"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many US dollars did Shanya win?",
+        "options": [
+          "a. 12,000",
+          "b. 25,000",
+          "c. 800,000"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do most fire alarms find?",
+        "options": [
+          "a. Heat",
+          "b. Smoke",
+          "c. Sounds"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20231208-01",
     "type": "國小",
     "tag": [
