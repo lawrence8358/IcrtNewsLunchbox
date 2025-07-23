@@ -1390,5 +1390,104 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230920-01",
+    "type": "國小",
+    "tag": [
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life on Land",
+      "Industry, Innovation and Infrastructure",
+      "Technology"
+    ],
+    "title": "A Robot Sweats to Help People",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230919NK.mp3",
+    "content": [
+      {
+        "en": "Oh, it's hot! Hot weather makes us sweat. Sweat comes out on our faces, under our arms, and on our backs. Sweat helps us to cool down. But in very hot weather, we need more help to cool down.",
+        "tw": "天氣熱的時候，我們會流汗來讓身體降溫。",
+        "time": null
+      },
+      {
+        "en": "But many people don't have air conditioners. Many don't have electric fans. They can't cool down. When they're too hot, they can get very sick.",
+        "tw": "可是很多人沒有冷氣，也沒有電風扇。他們的身體無法降溫，就會容易生病。",
+        "time": null
+      },
+      {
+        "en": "How do people feel heat in very hot weather? Scientists are studying this. But it's dangerous for people to be too hot. So the scientists made a robot. It breathes! It sweats!",
+        "tw": "人們天氣熱的時候會感到多熱呢? 科學家也在做研究，他們做了一個機器人，它會呼吸，還會流汗。",
+        "time": null
+      },
+      {
+        "en": "When the weather is hot and dry, hot and wet, or hot and windy, how does the robot feel heat? The scientists can change the robot's settings. Young, older, sick, or healthy - how does it feel heat?",
+        "tw": "這個機器人還可以切換不同設定，來感受天氣多熱，是不是很乾燥、有沒有風。",
+        "time": null
+      },
+      {
+        "en": "What can we learn from this robot's sweat? We can learn what to do in very hot weather. We can make clothes that keep us cooler. Our cities can learn how to keep people safe.",
+        "tw": "這個機器人能讓我們知道天氣很熱的時候應該要怎麼做。",
+        "time": null
+      },
+      {
+        "en": "One sweaty robot can help us live safely in a hotter world! Cool!",
+        "tw": "一個會流汗的機器人能幫助我們在更熱的世界中安全生活！酷！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "能夠感覺到天氣變化的機器人，可以教我們怎麼克服炎熱。",
+      "content": [
+        {
+          "text": "1. sweat 流汗\nWow, you're sweating all over! 哇，你滿身大汗!\nI am. I walk too fast. 確實，我走太快了。\nIt's so hot out there! 外面好熱!",
+          "time": null
+        },
+        {
+          "text": "2. heat 熱度\nLet me turn on the fan for you. 我來替你開電扇。\nThank you! Exactly what I need. 謝謝，正是我需要的。\nThis heat is killing me! 這種熱氣真要命!",
+          "time": null
+        },
+        {
+          "text": "3. change 改變\nIt's about to change. 天氣就要變了。\nChange? A typhoon is coming? 變了? 有颱風要來嗎?\nYeah, the CWB says it will hit Taiwan soon.對，氣象局說很快就會侵襲台灣。",
+          "time": null
+        },
+        {
+          "text": "4. dangerous 危險的\nBut I'm traveling to Taipingshan tomorrow. 但是我明天要上太平山。\nDriving on the mountain road will be dangerous. 在山路上開車會危險。",
+          "time": null
+        }
+      ],
+      "postscript": "Can you remember these words?\nsweat流汗\nheat熱氣\nchange改變\ndangerous危險的"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of weather makes us sweat?",
+        "options": [
+          "a. Cold weather.",
+          "b. Hot weather.",
+          "c. Wet weather."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What can help people cool down?",
+        "options": [
+          "a. Heat.",
+          "b. Danger.",
+          "c. An electric fan."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What can the robot do?",
+        "options": [
+          "a. Eat.",
+          "b. Sweat.",
+          "c. Sleep."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
