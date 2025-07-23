@@ -1,5 +1,112 @@
 [
   {
+    "id": "20231002-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life on Land",
+      "Environmental Education",
+      "Life Education",
+      "Multicultural Education",
+      "International Education",
+      "Outdoor Education",
+      "Social Studies",
+      "Natural Sciences",
+      "Health and Physical Education"
+    ],
+    "title": "These Forests Are Very Small",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230929NK.mp3",
+    "content": [
+      {
+        "en": "Forests are great. They have many trees. The air is clean. You can hear birds. And forests are very big, right?",
+        "tw": "森林有很多樹，空氣也很新鮮，還能聽到鳥叫聲，而且森林都很大對吧?",
+        "time": null
+      },
+      {
+        "en": "Well, many forests are big. But some are small. How small? Some are the size of a basketball court! They're very small!",
+        "tw": "很多森林都很大一片。但也有迷你的小森林。有多小呢? 居然只有一個籃球場這麼大。",
+        "time": null
+      },
+      {
+        "en": "The idea of very small forests is from Japan. Japan has thousands of these forests! People in many countries like this idea. Now there are many of these forests in Asia, Europe, Africa, North and South America - hey, that's almost everywhere!",
+        "tw": "迷你森林的概念來自日本。其他國家的人也喜歡這個想法，現在世界各地都有迷你森林。",
+        "time": null
+      },
+      {
+        "en": "These forests are great for cities. They make places cooler in the summer. They make the air cleaner. That's important in cities. Some of the forests are also nice to walk in.",
+        "tw": "這種森林很重要，它可以讓都市在夏天的時候涼快一點，也能讓空氣更新鮮。",
+        "time": null
+      },
+      {
+        "en": "The forests are very small, but they're full of life. All of them have many local trees and plants. Geckos, frogs, and other small animals live in the forests. There are butterflies and other insects too!",
+        "tw": "雖然迷你森林面積很小，卻充滿生機。不但有原生的樹木花草，也有動物跟昆蟲棲息。",
+        "time": null
+      },
+      {
+        "en": "These very small forests help cities, people, animals, and insects. Does Taiwan have any of these forests? I want one near my home. Do you?",
+        "tw": "這些非常小的森林有助於城市、人類、動物和昆蟲。台灣有這些森林嗎？我想要我家附近有一個。你呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "迷你森林對於動物植物和人類，都很有貢獻。",
+      "content": [
+        {
+          "text": "1. hear 聽到\nDid you hear that? 你聽到了嗎?\nYeah, some kind of bird? 有啊，是某種鳥類嗎?\nNo, they're squirrels. 不是，是松鼠。\nI see them in this park all the time. 我經常在這公園裡看到牠們。",
+          "time": null
+        },
+        {
+          "text": "2. tree 樹木\nSo they like this park? 所以牠們喜歡這個公園?\nVery much. 很喜歡。\nThere, can you see one in that tree? 在那裡，你看到有一隻在樹上嗎?\nYeah, so cute! 有啊，好可愛!",
+          "time": null
+        },
+        {
+          "text": "3. city 城市\nSquirrels are very common in Taipei City, right? 松鼠在台北市很常見吧?\nThey are. In parks big and small. 沒錯，大小公園裡都有。",
+          "time": null
+        },
+        {
+          "text": "4. bird 鳥類\nBut I like birds better. 不過我比較喜歡鳥類。\nLike sparrows? 比如說麻雀?\nSparrows and Japanese white-eyes. 麻雀和綠繡眼。",
+          "time": null
+        }
+      ],
+      "postscript": "一起來讀單字。\nhear聽到\ntree樹木\ncity城市\nbird鳥類"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the idea for very small forests from?",
+        "options": [
+          "a. Europe",
+          "b. Japan",
+          "c. Africa"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where are these forests?",
+        "options": [
+          "a. Many countries",
+          "b. Two or three countries",
+          "c. Only one country"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How do these forests help cities?",
+        "options": [
+          "a. They're warm in the winter.",
+          "b. They use basketball courts.",
+          "c. They make the air cleaner."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20231020-01",
     "type": "國小",
     "tag": [
