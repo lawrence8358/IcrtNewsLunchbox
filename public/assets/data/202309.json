@@ -636,5 +636,106 @@
         "answer": "A"
       }
     ]
+  },
+  {
+    "id": "20230911-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education",
+      "Social Studies",
+      "Life Education",
+      "Character Education",
+      "Family Education",
+      "Life on Land",
+      "Good Health and Well-Being"
+    ],
+    "title": "A Short Walk Can Keep You Healthy",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230908NK.mp3",
+    "content": [
+      {
+        "en": "What do you usually do after you eat? Sit down and read a book? Or maybe you take a short nap. Well guess what? Doctors say taking a short walk after eating helps your body control your blood sugar.",
+        "tw": "醫生說，吃飽後走走路可以降低血糖。",
+        "time": null
+      },
+      {
+        "en": "When most people think about sugar, they think about candy or ice cream or cake. -Sweet things have lots of sugar in them, right? Well, actually, many foods have sugar in them. There is sugar in milk, in tomatoes, in carrots, and even in onions!",
+        "tw": "不只是糖果蛋糕，牛奶、番茄、紅蘿蔔，還有洋蔥裡面也有糖！",
+        "time": null
+      },
+      {
+        "en": "Sugar from food gives us energy. We need sugar. But, too much sugar can be bad for our blood.",
+        "tw": "我們需要糖分，但太多糖對身體不好。",
+        "time": null
+      },
+      {
+        "en": "Too much sugar in your blood can give you diabetes.",
+        "tw": "\"Diabetes\" 就是糖尿病，太多糖很容易造成糖尿病。",
+        "time": null
+      },
+      {
+        "en": "Doctors say people should take a short walk after eating, because it will help control their blood sugar. Doctors say you only need a short walk, it could be only 2 minutes! Just 2 minutes of walking around after you eat can help you stay healthy.",
+        "tw": "醫生說，只要吃飽後走兩分鐘就可以控制血糖，保持健康！",
+        "time": null
+      },
+      {
+        "en": "I think I'm going to try it! I'm going to take a 2-minute walk after I finish my lunch today!",
+        "tw": "我想我會試試看！我今天午餐後會去走個兩分鐘！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "醫生說吃飽了不要坐著，要走一走。",
+      "content": [
+        {
+          "text": "1. control 控制。\nI'd love to walk around after lunch. 我很樂意吃過午飯後走走。\nBut sometimes I can't control work. 但有時候我沒辦法控制工作。\nI can't control my life. 我還沒辦法控制人生呢。",
+          "time": null
+        },
+        {
+          "text": "2. minute 分鐘。\nBesides, it only takes 2 minutes.\nRight, I can at least stand up for 2 minutes.",
+          "time": null
+        },
+        {
+          "text": "3. blood 血液。\nWhat did your doctor say?\nHe will take my blood first.\nAnd run some tests.",
+          "time": null
+        },
+        {
+          "text": "4. healthy 健康的。\nDon't worry. You're strong and healthy.\nI'm only worried if I can still climb Jade Mountain.\n我只擔心是否還能去爬玉山。",
+          "time": null
+        }
+      ],
+      "postscript": "So let's get up and walk! 來讀讀單字。\ncontrol控制\nminute分鐘\nblood血液\nhealthy健康的"
+    },
+    "quiz": [
+      {
+        "question": "1. What is a good idea after eating?",
+        "options": [
+          "A: Jumping on the bed",
+          "B: Swimming in Sun Moon Lake",
+          "C: Taking a short walk"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "2. What does sugar do for our body?",
+        "options": [
+          "A: It gives us energy",
+          "B: It makes us cry",
+          "C: It makes us hungry."
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "3. How long do you need to walk after eating?",
+        "options": [
+          "A: Maybe just 2-minutes!",
+          "B: Maybe 4 or 5 hours",
+          "C: About 90 minutes"
+        ],
+        "time": null,
+        "answer": "A"
+      }
+    ]
   }
 ]
