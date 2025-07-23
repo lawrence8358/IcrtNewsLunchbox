@@ -519,5 +519,122 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230908-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Clean Water and Sanitation",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life on Land",
+      "Environmental Education",
+      "Technology Education",
+      "Energy Education",
+      "Safety Education",
+      "Disaster Risk Reduction Education",
+      "Technology",
+      "Natural Sciences"
+    ],
+    "title": "Scientists Zap Clouds with Electricity",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230907NK.mp3",
+    "content": [
+      {
+        "en": "Summers in Taiwan can be very hot! When the sun comes out, everyone feels warm. And sometimes, it's too dry. Isn't there any way to make it rain?!",
+        "tw": "台灣的夏天很熱，有時候也很乾！有沒有甚麼方法可以讓天空下雨呢？",
+        "time": null
+      },
+      {
+        "en": "In the past, we could not change the weather. But scientists have had an idea. They have found a way to make it rain, using electricity.",
+        "tw": "現在，科學家發現一種用電讓天空下雨的方法。",
+        "time": null
+      },
+      {
+        "en": "We know where rain comes from. It falls from clouds in the sky.",
+        "tw": "我們知道雨水是從天上的雲落下來。",
+        "time": null
+      },
+      {
+        "en": "Clouds are made of water. When the water gets too heavy, the clouds start to rain.",
+        "tw": "雲是水構成的，當這些水太重，就會開始下雨。",
+        "time": null
+      },
+      {
+        "en": "Sometimes there is not enough rain. That is not good. When the rain is too little, people have no water to drink, and plants become too dry. So how can we make it rain more?",
+        "tw": "如果雨水太少，我們就會沒有水喝，植物也會乾枯。",
+        "time": null
+      },
+      {
+        "en": "Recently, scientists did a test. They used a little robot to zap a cloud with electricity. (SFX: electric zap) The electricity made the drops of water stick together.",
+        "tw": "科學家做了一個實驗，他們電擊一朵雲，讓雲層中的水滴黏在一起。",
+        "time": null
+      },
+      {
+        "en": "When the drops of water come together, they get heavier. Then they fall to earth. So when the cloud is zapped with electricity, it turns into rain.",
+        "tw": "水結成大水滴之後會變得更重，然後變成雨，落到地面。",
+        "time": null
+      },
+      {
+        "en": "What a useful idea. Scientists think it can help people. When the weather is too hot or dry, people can use this technology to make rain. (SFX: heavy rain) All it takes is a cloud and a little electricity.",
+        "tw": "這真是個有用的想法。科學家認為這能幫助人們。當天氣太熱或太乾時，人們可以使用這項技術來造雨。(音效: 大雨) 所需要的只是一朵雲和一點點電力。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "給雲層通上電，就有可能製造出雨水。",
+      "content": [
+        {
+          "text": "1. cloud 雲。\nHow's the weather? 天氣怎麼樣?\nA gray sky with lots of thick clouds. 灰色天空，有很多厚厚的雲。\nUh oh, that doesn't sound good. 糟糕，聽起來很不好。\nNo. I think it's going to rain very soon. 是不好，我想很快就會下雨。",
+          "time": null
+        },
+        {
+          "text": "2. rain 下雨。\nIt rained all day yesterday. 昨天就下了一整天的雨。\nBut it's better than a hot and dry day. 但是總比又熱又乾好。\nI prefer a dry day. 我比較喜歡乾燥的天氣。",
+          "time": null
+        },
+        {
+          "text": "3. electricity 電力。\nWhat's happening? 怎麼回事?\nThe light won't come on. 電燈不亮。\nBecause there's no electricity. 因為停電了。",
+          "time": null
+        },
+        {
+          "text": "4. in the past 從前。\nWhat should we do? 我們怎麼辦?\nIn the past we would light candles. 以前我們會點蠟燭。\nNo, I don't want to stay here. 不了，我不要待在這裡。",
+          "time": null
+        }
+      ],
+      "postscript": "一起來讀讀單字吧。\ncloud雲\nrain下雨\nelectricity電力\nin the past從前"
+    },
+    "quiz": [
+      {
+        "question": "Where does rain come from?",
+        "options": [
+          "A: The sun",
+          "B: The moon",
+          "C: The clouds"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "How can we make clouds rain?",
+        "options": [
+          "A: Burn them with fire",
+          "B: Tell them \"more rain please\"",
+          "C: Zap them with electricity"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "When do clouds become rain?",
+        "options": [
+          "A: When they get too heavy",
+          "B: When they get too light",
+          "C: When they get too sad"
+        ],
+        "time": null,
+        "answer": "A"
+      }
+    ]
   }
 ]
