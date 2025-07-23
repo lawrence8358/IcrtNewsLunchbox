@@ -1912,5 +1912,102 @@
         "answer": "C"
       }
     ]
+  },
+  {
+    "id": "20230926-01",
+    "type": "國小",
+    "tag": [
+      "Clean Water and Sanitation",
+      "Climate Action",
+      "Life Below Water",
+      "Environmental Education",
+      "Marine Education",
+      "Life Education",
+      "Outdoor Education",
+      "Natural Sciences"
+    ],
+    "title": "Octopuses Use Hot Water For Eggs",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230925NK.mp3",
+    "content": [
+      {
+        "en": "Hi everyone. Do you know what an octopus is? It's an animal. It has a big head and eight long arms. It lives in the ocean. Scientists say octopuses are smart.",
+        "tw": "你知道章魚嗎? 這是一種住在海裡的動物，科學家說牠們很聰明。",
+        "time": null
+      },
+      {
+        "en": "A scientist wanted to study other animals. She went to the ocean near California. But she got a big surprise. There were thousands of octopuses there. It was the biggest octopus group in the world! Many were keeping their eggs safe.",
+        "tw": "有一位科學家在加州附近的海域，發現世界最大群的章魚! 這些章魚正在保護牠們的卵。",
+        "time": null
+      },
+      {
+        "en": "Another scientist saw the octopuses later. He had a question. Why were so many octopuses there? Scientists studied the octopuses. They studied the eggs. They studied the water. They found the answer!",
+        "tw": "科學家疑惑那裡為什麼有那麼多章魚? 他們研究章魚、章魚卵和海水，他們找到了答案!",
+        "time": null
+      },
+      {
+        "en": "Hot springs are there! They're small openings in the earth. Warm water comes out. So... are the octopuses looking for food? Are they relaxing? Nope! They're using the warm water to help their eggs!",
+        "tw": "那裡有溫泉從海底冒出來，章魚利用這些溫泉的水幫助牠們孵化卵。",
+        "time": null
+      },
+      {
+        "en": "Oceans are cold … *brrrrr*! Octopus eggs take five to ten years to open in cold water. But they take about two years to open in warm water! Wow! That's fast! These octopuses use hot springs for their eggs. See? Octopuses are very smart!",
+        "tw": "海洋很冷… *冷吱吱*！章魚卵在冷水中需要五到十年才能孵化。但在溫暖的水中大約只需要兩年！哇！真是快！這些章魚利用溫泉來孵蛋。看吧？章魚非常聰明！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "聰明的章魚，懂得利用海底溫泉來孵蛋。",
+      "content": [
+        {
+          "text": "1. octopus 章魚\nWho will win the next World Cup? 下次世界盃足球賽誰會贏?\nI have no idea. 這我不知道。\nYou can ask an octopus. 你可以問問章魚。\nThey usually have the right answer. 牠們通常有正確答案。",
+          "time": null
+        },
+        {
+          "text": "2. surprise 驚奇\nAn octopus is for eating, not for answering questions.\n章魚是拿來吃的，不會回答問題。\nYou're right. But they are full of surprises. 你說的對，但是牠們會讓人很驚訝。",
+          "time": null
+        },
+        {
+          "text": "3. arm 手臂\nThey can use tools, you know. 牠們會用工具呢。\nI know they can use their arms to open a jar. 我知道牠們會用觸手打開罐子。",
+          "time": null
+        },
+        {
+          "text": "4. use 使用\nThey also use coconut shells as their home. 牠們還會用椰子殼當作自己家。\nI prefer cooking them with soy sauce. 我比較喜歡用醬油來煮章魚。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡吃章魚嗎?\noctopus章魚\nsurprise驚奇\narm手臂\nuse使用"
+    },
+    "quiz": [
+      {
+        "question": "1. Which planet has the most moons?",
+        "options": [
+          "a. Saturn",
+          "b. The largest planet",
+          "c. Earth"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What are the octopuses doing at the hot springs?",
+        "options": [
+          "a. Looking for food",
+          "b. Relaxing in hot water",
+          "c. Helping their eggs"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What takes about two years to open?",
+        "options": [
+          "a. Openings in the earth",
+          "b. Octopuses at hot springs",
+          "c. Octopus eggs in warm water"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
