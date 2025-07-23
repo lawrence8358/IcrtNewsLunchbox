@@ -1367,6 +1367,108 @@
     "postscript": "Do you collect coins? Let's read these words.\nthief竊賊\nmaybe也許\nold古老的\nking君王"
   },
   {
+    "id": "20231220-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Outdoor Education",
+      "Natural Sciences"
+    ],
+    "title": "Chick Makes Zoo Happy",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231219NK.mp3",
+    "content": [
+      {
+        "en": "There are many kinds of penguins. Some of them live in a very cold place called Antarctica. The Emperor penguin lives there.",
+        "tw": "世界上有很多種不同的企鵝。南極洲就有皇帝企鵝。",
+        "time": null
+      },
+      {
+        "en": "Mother Emperor penguins lay an egg once a year. They give the egg to the father. The father emperor penguin sits on it. He keeps it warm 24 hours a day... for 65 days! This helps the penguin chick grow inside the egg.",
+        "tw": "每一年皇帝企鵝媽媽只下一顆蛋。然後交給企鵝爸爸孵蛋65天，讓企鵝寶寶長大。",
+        "time": null
+      },
+      {
+        "en": "Some Emperor penguins live in a zoo. One day, workers found an egg. A baby Emperor penguin was coming! This egg was special!",
+        "tw": "動物園裡也有皇帝企鵝。有一天，工作人員找到一顆皇帝企鵝蛋，有一隻企鵝寶寶要誕生了。",
+        "time": null
+      },
+      {
+        "en": "The workers kept the egg warm. The chick grew safely inside the egg. Then it was ready to come out!",
+        "tw": "工作人員讓蛋保持溫暖，企鵝寶寶才能在蛋裡平安長大，準備孵化。",
+        "time": null
+      },
+      {
+        "en": "But the egg was too hard for the chick! The workers made a small hole in the egg. For two days, they helped the chick come out!",
+        "tw": "但是蛋殼對企鵝寶寶來說太硬了!工作人員在蛋上鑽了一個小洞。花了兩天的時間幫助企鵝寶寶鑽出來。",
+        "time": null
+      },
+      {
+        "en": "The workers were very happy. Almost no Emperor penguins are born in zoos. This zoo waited 13 years for this Emperor penguin chick!",
+        "tw": "工作人員很高興，動物園整整等了13年才第一次迎接皇帝企鵝寶寶的誕生!",
+        "time": null
+      },
+      {
+        "en": "The zoo asked everyone to pick the new baby chick's name. They picked the name \"Pearl.\" Pearl's a special chick!",
+        "tw": "動物園請大家為這隻新的企鵝寶寶取名字。他們選了「珍珠」這個名字。珍珠是一隻特別的企鵝寶寶！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這座動物園歡喜迎接一隻皇帝企鵝寶寶。",
+      "content": [
+        {
+          "text": "1. name 名字\nWhat's a good name for an anteater? 食蟻獸叫什麼名字好?\nAnteaters? 食蟻獸?\nThe new baby anteater born in the zoo? 那隻生在動物園的食蟻獸寶寶?\nRight, that's the one.對，就是那隻。",
+          "time": null
+        },
+        {
+          "text": "2. ask 問、請求\nHow about \"Snuffle?\" \"聞聞看\"怎麼樣?\nOh, that's a good one! 很棒的名字!\nThe zoo asks people to offer names? 動物園要大家提供名字嗎?\nYeah, isn't it fun? 對，不是很好玩嗎?",
+          "time": null
+        },
+        {
+          "text": "3. come out 出來\nI'd like to see the animal.我想看看那隻動物。\nDo you think it will come out? 你覺得牠會出來嗎?\nThat I don't know.這我就不知了。",
+          "time": null
+        },
+        {
+          "text": "4. warm 溫暖的\nTomorrow is a very warm day.明天天氣很溫暖。\nIt'll be a nice day to visit the zoo. 是去動物園玩的好天氣。",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字很常用到。\nname名字\nask問，請求\ncome out出來\nwarm溫暖的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do Emperor penguins live?",
+        "options": [
+          "a. The USA",
+          "b. China",
+          "c. Antarctica"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many days do father Emperor penguins sit on an egg?",
+        "options": [
+          "a. 2",
+          "b. 24",
+          "c. 65"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How many years did the zoo wait for a new chick?",
+        "options": [
+          "a. 3 years",
+          "b. 13 years",
+          "c. 30 years"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20231222-01",
     "type": "國小",
     "tag": [
