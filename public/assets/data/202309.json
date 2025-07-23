@@ -1601,5 +1601,122 @@
         "answer": "B"
       }
     ]
+  },
+  {
+    "id": "20230922-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Affordable and Clean Energy",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life on Land",
+      "Environmental Education",
+      "Technology Education",
+      "Energy Education",
+      "Multicultural Education",
+      "Outdoor Education",
+      "Technology",
+      "Integrative Activities"
+    ],
+    "title": "Kaohsiung Students Build a Car That Runs on Sunlight",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230921NK.mp3",
+    "content": [
+      {
+        "en": "In Australia, there's a race. It's very tough.",
+        "tw": "澳洲有一場艱難的比賽。",
+        "time": null
+      },
+      {
+        "en": "The drivers drive 3,000 kilometers. They cross a hot desert. Not all cars can do it. Only the toughest cars try.",
+        "tw": "賽車手要開3000公里跨越炎熱的沙漠，只有最堅固的汽車才有辦法。",
+        "time": null
+      },
+      {
+        "en": "A Taiwanese team is racing this year. They're National Kaohsiung University of Science and Technology students!",
+        "tw": "台灣有一支團隊會參加今年的比賽。他們是國立高雄科技大學的學生。",
+        "time": null
+      },
+      {
+        "en": "These students want to help change the world. They built a special car. It's called Apollo IX. (\"nine\")",
+        "tw": "這些學生想要改變世界。他們打造一台特別的車子，叫做阿波羅九號。",
+        "time": null
+      },
+      {
+        "en": "It's an electric car. That's nothing special, right? Most cars run on gas, but some cars run on electricity. Well, this car has solar panels. It runs on sunlight!",
+        "tw": "這是一台電動車，並不特別，對不對? 但它可是一台用太陽能發動的車子。",
+        "time": null
+      },
+      {
+        "en": "Apollo IX's hood and roof have solar panels. In sunny weather, they take in sunlight. The solar panels turn sunlight into electricity. The electricity fills the car's battery.",
+        "tw": "這台車的車頂跟前面的引擎蓋有太陽能板。晴天的時候，它可以吸收陽光轉化成電力。",
+        "time": null
+      },
+      {
+        "en": "The race is a big test for Apollo IX. It can go 518 kilometers with a full battery. But it needs sunlight. The car needs to go 3,000 kilometers! In bad weather, can Apollo IX win the race?",
+        "tw": "如果天氣不好，阿波羅九號能贏得比賽嗎?",
+        "time": null
+      },
+      {
+        "en": "These students are doing important work. Cars that run on sunlight can change the world. Let's hope they win!",
+        "tw": "這些學生正在做重要的工作。使用太陽能的汽車可以改變世界。讓我們希望他們贏得比賽！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台灣學生製造的賽車，是否經得起澳洲沙漠的考驗?",
+      "content": [
+        {
+          "text": "1. desert 沙漠\nWhy would anyone want to drive a car across the desert?\n為什麼有人會想開車橫越沙漠?\nWhy not? 為什麼不呢?\nDidn't you want to challenge yourself when you were younger?\n難道你年少時沒想過挑戰自己?",
+          "time": null
+        },
+        {
+          "text": "2. sunlight 陽光\nI did try to stay in bed for 24 hours.我有嘗試躺在床上24小時。\nAway from the sunlight.並且遠離陽光。\nWow. That's…uh, that's really something. 那真不簡單。",
+          "time": null
+        },
+        {
+          "text": "3. change 改變\nIt didn't change the world, I know.我知道那沒有改變世界。\nBut it helped me win a race. 不過有幫我贏得比賽。",
+          "time": null
+        },
+        {
+          "text": "4. race 比賽\nThe race of who can sleep longer? 看誰睡得比較久的比賽?\nYes! How did you know? 對啊，你怎麼知道的?",
+          "time": null
+        }
+      ],
+      "postscript": "Let's read today's vocabulary.\ndesert沙漠\nsunlight陽光\nchange改變\nrace比賽"
+    },
+    "quiz": [
+      {
+        "question": "1. How many kilometers in this race?",
+        "options": [
+          "a. 9",
+          "b. 518",
+          "c. 3,000"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did the students name their car?",
+        "options": [
+          "a. Sunny IX",
+          "b. Solar IX",
+          "c. Apollo IX"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What does the car run on?",
+        "options": [
+          "a. Gas",
+          "b. Sunlight",
+          "c. Australia"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
