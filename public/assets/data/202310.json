@@ -1017,6 +1017,117 @@
     ]
   },
   {
+    "id": "20231013-01",
+    "type": "國小",
+    "tag": [
+      "Sustainable Cities and Communities",
+      "Life on Land",
+      "Environmental Education",
+      "Life Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies"
+    ],
+    "title": "More Important Old Places Protected",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231012NK.mp3",
+    "content": [
+      {
+        "en": "People are amazing. We live all over the world, in hot jungles, snowy mountains, and busy cities…",
+        "tw": "人類生活在世界各地，有的在熱帶叢林、下雪的高山和繁忙的城市。",
+        "time": null
+      },
+      {
+        "en": "It's easy to see where people lived. We always leave something there. In Egypt, we left pyramids. In Europe, we left castles.",
+        "tw": "我們可以看出哪裡有人生活過，因為人類都會留下痕跡。埃及有金字塔，歐洲則是有城堡。",
+        "time": null
+      },
+      {
+        "en": "Here in Taiwan, people left many kinds of things: temples, forts, hiking trails and more!",
+        "tw": "台灣也有留下廟宇、堡壘、登山步道等等。",
+        "time": null
+      },
+      {
+        "en": "Very old places are important. They tell us stories. They tell us how people lived. We need to protect these places. Then people can see and enjoy them many years from now.",
+        "tw": "古老遺產告訴我們前人如何生活，我們需要保護這些地方，讓人們在很多年後還可以欣賞它們。",
+        "time": null
+      },
+      {
+        "en": "UNESCO is a group. They help countries to protect important places. They help over 1,000 places around the world! And now they're protecting more!",
+        "tw": "聯合國教科文組織幫助國家保護超過1000個重要遺產。",
+        "time": null
+      },
+      {
+        "en": "One new place is in Canada. Around 100,000 people went there once, digging for gold! Another place is in Denmark. It's an old Viking fort!",
+        "tw": "加拿大有個地方，曾經有10萬人一同去那裡挖金。丹麥則有個古老的維京人堡壘。",
+        "time": null
+      },
+      {
+        "en": "There are many more new places. There's an old tea forest in China and a Roman temple in France!",
+        "tw": "還有很多新的重要遺產，有中國的古茶林和法國的羅馬神殿。",
+        "time": null
+      },
+      {
+        "en": "Let's protect all our old, important places and their stories. Let's do it for all of us, now and many years from now!",
+        "tw": "讓我們保護所有古老、重要的地方及其故事。為了我們所有人，為了現在和未來很多年，讓我們這樣做吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "很多國家都有著名的古蹟，值得去參觀。",
+      "content": [
+        {
+          "text": "1. old 古老的\nWhen I travel, I like to see old things. 我旅行時喜歡看看老東西。\nWhat kind of old things? 什麼樣的老東西?",
+          "time": null
+        },
+        {
+          "text": "2. story 故事\nLike temples and castles. 比如說廟宇或是城堡。\nThings that have stories. 有故事的東西。\nI see what you mean.我懂你的意思。",
+          "time": null
+        },
+        {
+          "text": "3. forest 森林\nI once went to this forest in France.我有一次去到法國的森林。\nWe had to walk down a long hiking trail first. 我們必須先走一條很長的步道。",
+          "time": null
+        },
+        {
+          "text": "4. live 居住\nThen what did you see? 然後你們看到什麼?\nWe saw a cave where people used to live. 我們看到以前的人住的山洞。\nIt was really amazing! 真的很精彩!",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字很簡單喔。\nold老的\nstory故事\nforest森林\nlive居住"
+    },
+    "quiz": [
+      {
+        "question": "1. What are some important places in Taiwan?",
+        "options": [
+          "a. Pyramids",
+          "b. Forts",
+          "c. Denmark"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What group helps to protect important places?",
+        "options": [
+          "a. UNESCO",
+          "b. Vikings",
+          "c. Cities"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What important place in China is now protected?",
+        "options": [
+          "a. A Roman temple",
+          "b. An old tea forest",
+          "c. A castle"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20231020-01",
     "type": "國小",
     "tag": [
