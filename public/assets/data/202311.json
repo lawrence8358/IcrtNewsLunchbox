@@ -1352,6 +1352,116 @@
     ]
   },
   {
+    "id": "20231120-01",
+    "type": "國小",
+    "tag": [
+      "Character Education",
+      "Life Education",
+      "Life Planning Education",
+      "Life on Land",
+      "Safety Education",
+      "Multicultural Education"
+    ],
+    "title": "Stuck on Eiffel Tower, Man Says Marry Me",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231117NK.mp3",
+    "content": [
+      {
+        "en": "Do you know what the Eiffel Tower is? It's a very tall tower in Paris, France. Millions of people visit it every year. Many visitors take the glass elevators to the top floor. It is 276 meters up! Visitors can see beautiful views of Paris.",
+        "tw": "你知道什麼是艾菲爾鐵塔嗎?它是在法國巴黎的一座高塔。每一年都有上百萬人參觀，遊客會搭玻璃電梯到高達276公尺的觀景台，俯瞰巴黎的景色。",
+        "time": null
+      },
+      {
+        "en": "One day, a man named Amir and a woman named Kat were on the top floor.",
+        "tw": "有一天，一對情侶Amir跟Kat在鐵塔上的觀景台。",
+        "time": null
+      },
+      {
+        "en": "On the outside of the tower, another man started climbing up! That's very dangerous! Climbers can fall!",
+        "tw": "有另外一個人在鐵塔外攀爬，這非常危險，他很有可能會掉下去!",
+        "time": null
+      },
+      {
+        "en": "This climber did not fall. But people were very worried. So the Eiffel Tower closed until the climber was safe. The elevators stopped.",
+        "tw": "幸好攀爬的人沒有掉下去，但是很擔心，所以艾菲爾鐵塔關閉，電梯也停了，直到攀爬的人安全。",
+        "time": null
+      },
+      {
+        "en": "Amir and Kat and the other visitors were stuck on the top floor! They waited for the elevators to start. Then Amir had an idea.",
+        "tw": "Amir跟 Kat還有其他的旅客被困在觀景台。在等待電梯恢復使用的時候，Amir有一個想法。",
+        "time": null
+      },
+      {
+        "en": "He asked Kat to marry him. And she said yes! That's so romantic!",
+        "tw": "Amir向 Kat 求婚，Kat也答應了！ 真是太浪漫了！",
+        "time": null
+      },
+      {
+        "en": "And what happened to the climber? Firefighters came. They made him stop climbing. The police took him away.",
+        "tw": "那攀爬的人後來怎麼樣呢?消防員阻止他繼續攀爬，而警察把他帶走。",
+        "time": null
+      },
+      {
+        "en": "It's a bad idea to climb the outside of the Eiffel Tower. But being stuck at the top gave Amir a good idea!",
+        "tw": "攀爬艾菲爾鐵塔外部是個壞主意。但被困在塔頂卻給了Amir一個好主意！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "在舉世聞名的艾菲爾鐵塔上求婚，真是太浪漫了!",
+      "content": [
+        {
+          "text": "1. elevator 電梯。\nOh, no, what's happening? 糟了，出了什麼事? Why isn't the elevator moving? 為什麼電梯不動了?\nLet me press some buttons. 我來按一些按鈕。No, that didn't work. 沒有用。",
+          "time": null
+        },
+        {
+          "text": "2. fall 掉落。\nWhat should we do? 我們怎麼辦?\nJust wait, I think.我想就等等吧。\nWhat if nobody comes to rescue us? 要是沒人來救我們呢? What if we fall? 要是我們掉下去呢?",
+          "time": null
+        },
+        {
+          "text": "3. people 人們。\nDon't panic. People will come. 別慌張，會有人來的。\nBut we're stuck here now. 但是我們現在被困在這裡了。",
+          "time": null
+        },
+        {
+          "text": "4. idea 主意。\nI have an idea. Let's call 119. 我有個主意，我們來打119。\nRight! Why didn't I think of that earlier? 對啊，我怎麼剛剛沒有想到?",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字很好記。elevator電梯 fall掉落 people人們 idea主意"
+    },
+    "quiz": [
+      {
+        "question": "1. What is true about the Eiffel Tower?",
+        "options": [
+          "A: It's short.",
+          "B: It has many visitors.",
+          "C: It's in China."
+        ],
+        "time": null,
+        "answer": "B"
+      },
+      {
+        "question": "2. What did Amir do at the tower?",
+        "options": [
+          "A: Asked Kat to marry him",
+          "B: Climbed the tower",
+          "C: Said yes to Kat"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "3. What made the tower close?",
+        "options": [
+          "A: Elevators",
+          "B: Too many people",
+          "C: A climber"
+        ],
+        "time": null,
+        "answer": "C"
+      }
+    ]
+  },
+  {
     "id": "20231121-01",
     "type": "國小",
     "tag": [
