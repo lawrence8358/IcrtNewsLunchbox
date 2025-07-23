@@ -1066,6 +1066,110 @@
     ]
   },
   {
+    "id": "20231215-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Sustainable Cities and Communities",
+      "Technology Education",
+      "Technology"
+    ],
+    "title": "New York City's Flying Taxis",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231214NK.mp3",
+    "content": [
+      {
+        "en": "Nobody likes sitting in traffic! Cars, buses, and trucks move very slowly. They make lots of bad smells, dirty air, and noise! People get angry. They honk their horns.",
+        "tw": "沒有人喜歡塞車。塞車的時候，車輛很緩慢地移動。這樣會製造很多噪音、廢氣。駕駛也容易生氣，一直按喇叭。",
+        "time": null
+      },
+      {
+        "en": "How can we get away from all that slow, stinky, noisy traffic?",
+        "tw": "我們如何避免慢吞吞，臭烘烘，而且吵鬧的塞車呢?",
+        "time": null
+      },
+      {
+        "en": "There's great news! New taxis are coming to New York City. They're electric, so they don't make bad smells or dirty air. And they never sit in traffic… Why? Because these taxis can fly!",
+        "tw": "好消息! 紐約有新的電動計程車，沒有廢氣，還不會塞車。為什麼呢?因為這些計程車會飛ㄟ!",
+        "time": null
+      },
+      {
+        "en": "Electric air taxis look like very big drones with car seats! They fly with six small propellers. These make flying easier.",
+        "tw": "空中計程車看起來像大型的無人機，裡面有汽車座椅，還有六個螺旋槳。",
+        "time": null
+      },
+      {
+        "en": "Electric air taxis can fly in all directions. They can go up and down, left and right, to the front and to the back!",
+        "tw": "空中計程車可以飛上下、左右、往前、還往後。",
+        "time": null
+      },
+      {
+        "en": "Electric air taxis can carry a pilot and four passengers. These air taxis are fast. They take seven minutes to fly from the airport to the middle of the city. That's much, much faster than driving!",
+        "tw": "空中計程車可以搭載一名駕駛跟四位乘客。從機場到市中心只需要7分鐘，比汽車快得多。",
+        "time": null
+      },
+      {
+        "en": "Do you want to fly an electric air taxi in New York City one day? It will be love at first flight!",
+        "tw": "你有一天想在紐約市搭乘電動空中計程車嗎？這將會是一見鍾情！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "空中計程車可能成為未來最受歡迎的交通工具。",
+      "content": [
+        {
+          "text": "1. fly 飛\nI can't wait for these taxis to come here! 我簡直等不及這些計程車來這裡了。\nYeah, imagine seeing them flying outside the office window.\n對啊，想像一下它們就在辦公室外面飛。",
+          "time": null
+        },
+        {
+          "text": "2. electric 電力的\nThey look just like helicopters. 它們很像直升機。\nBut they're electric, so very quiet. 不過是用電力，所以很安靜。",
+          "time": null
+        },
+        {
+          "text": "3. up and down 上上下下\nThere will be traffic jams in the air! 會發生空中塞車!\nNo, because they can go up and down, left and right.\n不會，因為它們可以上上下下，左左右右。",
+          "time": null
+        },
+        {
+          "text": "4. easier 比較容易的\nYou really like to take a flying taxi, don't you?\n你真的會很想搭空中計程車，對吧?\nI do. It will make my life so much easier! 對啊，會讓我的生活輕鬆得多。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like the idea of flying taxis? Fly飛 electric 電力的 up and down上上下下 easier 比較容易的"
+    },
+    "quiz": [
+      {
+        "question": "1. What's slow, stinky, and noisy?",
+        "options": [
+          "a. Traffic",
+          "b. The new taxis",
+          "c. Car seats"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Why don't these taxis sit in traffic?",
+        "options": [
+          "a. They drive fast.",
+          "b. They fly.",
+          "c. They go left and right."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many passengers can these taxis carry?",
+        "options": [
+          "a. Four",
+          "b. Five",
+          "c. Seven"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  },
+  {
     "id": "20231218-01",
     "type": "國小",
     "tag": [
