@@ -2181,6 +2181,111 @@
     ]
   },
   {
+    "id": "20231030-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life on Land",
+      "Health and Physical Education",
+      "Life Education",
+      "International Education",
+      "Multicultural Education"
+    ],
+    "title": "Groups Move \"In Time\" to Music",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231027NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: How do soldiers march? They march together. Sergeant Major: \"Left! Right! Left! Right! Left! Right! …\" (cont.) Narrator: They're moving \"in time\". Together, they step with their left foot. Together, they step with their right foot. Then their left, then their right, then … ah! You get the idea!",
+        "tw": "他們同時做一樣的動作，一起同時踏出左腳，然後右腳。",
+        "time": null
+      },
+      {
+        "en": "When people walk with friends, sometimes they walk in time. \"Left! Right! Left! Right!\" No one tells them to move in time! They don't think about it! It's natural.",
+        "tw": "當人們跟朋友走在一起，有時候會很自然地踏出相同步伐。",
+        "time": null
+      },
+      {
+        "en": "When you dance, you move in time to the music. That's natural too. You don't think about it … you dance, baby!",
+        "tw": "跳舞的時候，你也會自然地跟著音樂的旋律跳。",
+        "time": null
+      },
+      {
+        "en": "Scientists in Switzerland had some questions. How does music make people in big groups move? Does music make these people move together, in time?",
+        "tw": "瑞士科學家想知道，為甚麼音樂會讓一群人動作同步呢?",
+        "time": null
+      },
+      {
+        "en": "They did a study. But they didn't want to study people dancing! They wanted to look for smaller natural movements. So they used classical music.",
+        "tw": "他們做了研究，為了捕捉到更小的動作，他們使用古典音樂。",
+        "time": null
+      },
+      {
+        "en": "They found some amazing things! Groups moved together, in time, without thinking about it! Their hearts beat in time! They breathed in time!",
+        "tw": "他們發現音樂會讓一群人下意識同步動作，連心跳跟呼吸頻率也一樣!",
+        "time": null
+      },
+      {
+        "en": "Music moves us! We move together, in time! We do this naturally! How cool is that?!",
+        "tw": "音樂感動著我們！我們同步行動，自然而然！這是不是很酷？！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "人在走路或是舞蹈時，很自然地會跟同行的人或是音樂同樣節奏。",
+      "content": [
+        {
+          "text": "1. group 團體.\nAre you going to the party tomorrow? 你去不去明天的派對? No, it's my line dancing group's night. 不了，明天是我的排舞團體之夜。",
+          "time": null
+        },
+        {
+          "text": "2. dance 跳舞.\nWhen did you join that group? 你幾時參加那個團體的? A month ago. 一個月前。 I need to exercise more, and I like dancing.我需要運動，又喜歡跳舞。",
+          "time": null
+        },
+        {
+          "text": "3. music 音樂.\nBut what's line dancing? 但是排舞是什麼? Well, people dance to music facing the same direction.",
+          "time": null
+        },
+        {
+          "text": "4. want 想要.\nI want to learn it, too.我也要學。 Come with me tomorrow. 明天跟我一起來。 It's a lot of fun.",
+          "time": null
+        }
+      ],
+      "postscript": "Do you love dancing? 一起來讀單字。 group團體 dance跳舞 music音樂 want想要"
+    },
+    "quiz": [
+      {
+        "question": "1. What is moving \"in time\"?",
+        "options": [
+          "a. Moving fast",
+          "b. Moving clocks",
+          "c. Moving together"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where was this study done?",
+        "options": [
+          "a. Switzerland",
+          "b. Scotland",
+          "c. Sweden"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did this study look for?",
+        "options": [
+          "a. Dance movements",
+          "b. Walking in time",
+          "c. Small natural movements"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20231031-01",
     "type": "國小",
     "tag": [
