@@ -2242,5 +2242,105 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230929-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Environmental Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Natural Sciences"
+    ],
+    "title": "A Zoo's Bears: Bears or People?",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230928NK.mp3",
+    "content": [
+      {
+        "en": "There are different kinds of bears. There are brown bears, polar bears, panda bears, and more.",
+        "tw": "熊有很多不同的種類。有棕熊、北極熊、熊貓等等。",
+        "time": null
+      },
+      {
+        "en": "Brown bears are brown. Polar bears are white. Panda bears are black and white. Different bears look different. But all bears share some things.",
+        "tw": "不同的熊，外觀上有不同的顏色。但是所有的熊還是有共通點。",
+        "time": null
+      },
+      {
+        "en": "Bears have short, thick hair called fur. They are furry! Bears have long noses and small, round ears. They have short tails. Bears have four paws. Most bears have short, wide legs.",
+        "tw": "熊身上有厚厚的短毛，也有長長的鼻子，圓圓的小耳朵跟短短的尾巴。熊有四個熊掌，牠們的腿多半又粗又短。",
+        "time": null
+      },
+      {
+        "en": "People have long, thin legs. We have two feet. We can stand up. Bears can stand up too. But they can only stand for a very short time. In China, there's a zoo. This zoo has a kind of bear. They're sun bears. They stand. Okay, sometimes bears do that. But their legs look long and thin! Are they bears? Or... are they people?",
+        "tw": "中國一座動物園裡面有馬來熊。牠們的腿看起來長又細，也會站起來。牠們是熊，還是人類?",
+        "time": null
+      },
+      {
+        "en": "What? Yes, some people think these bears are people. That's strange... Do they think they see furry people? No, they think they see people dressed as bears!",
+        "tw": "沒有錯，有一些人覺得這些熊是人類扮演的。",
+        "time": null
+      },
+      {
+        "en": "The zoo says sun bears look different from other bears. They aren't people. They're bears! They are! They are!",
+        "tw": "動物園表示馬來熊與其他熊類不同。牠們不是人。牠們是熊！牠們就是！牠們是！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "熊和人類應該不像吧，但是馬來熊卻不一樣。",
+      "content": [
+        {
+          "text": "1. look 看起來\nNancy, come here. 南西，你來一下。\nWhat's that strange-looking cat on the roof? 屋頂上看起來很奇怪的貓是什麼?\nThat doesn't look like a cat to me. 我看不像貓。",
+          "time": null
+        },
+        {
+          "text": "2. fur 毛\nIt looks more like a bear to me. 我看像一頭熊。\nYou're kidding, right? 你開玩笑吧?\nNo, look at its fur. 不，你看牠的毛。",
+          "time": null
+        },
+        {
+          "text": "3. stand up 站起來\nA bear in Taipei city? Come on! Nancy. 一頭熊跑來台北? 別鬧了!\nOh my God, now it's standing up! 老天爺，牠站起來了!\nShould we call the police? 我們應該打電話給警察吧?",
+          "time": null
+        },
+        {
+          "text": "4. dress 穿衣服\nWait, it's a man! 等一下，那是個人!\nA man dressed like a bear! 那人穿衣服像熊。\nLet me call the police. 我來叫警察。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字有哪些?\nlook看起來\nfur毛\nstand up站起來\ndress穿衣服"
+    },
+    "quiz": [
+      {
+        "question": "1. Which bears are white?",
+        "options": [
+          "a. Brown bears",
+          "b. Polar bears",
+          "c. Sun bears"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do all bears have?",
+        "options": [
+          "a. Big ears",
+          "b. Long tails",
+          "c. Short legs"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What do some people think the zoo's bears are?",
+        "options": [
+          "a. Furry people",
+          "b. Baby polar bears",
+          "c. People dressed as bears"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
