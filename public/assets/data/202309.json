@@ -955,5 +955,113 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230914-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Outdoor Education",
+      "Life Education",
+      "Environmental Education",
+      "Life on Land",
+      "Life Below Water",
+      "Climate Action",
+      "Responsible Consumption and Production",
+      "Clean Water and Sanitation"
+    ],
+    "title": "This Shop Turns Into a Turtle Tunnel",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230913NK.mp3",
+    "content": [
+      {
+        "en": "Many turtles live in a pond. There's a busy street next to the pond. Every summer, female turtles cross the street.",
+        "tw": "池塘裡住著很多烏龜，旁邊有一條繁忙的馬路。每一年夏天，母龜都會穿越這條馬路。",
+        "time": null
+      },
+      {
+        "en": "There's a shop across the street. Some turtles walk into the shop. What?! Why?",
+        "tw": "街道對面有一間店，這些烏龜會爬進店裡。",
+        "time": null
+      },
+      {
+        "en": "They want to go to a wet, grassy marsh. It's great for turtle nests. It's behind the shop.",
+        "tw": "因為那間店的後方有一片沼澤，適合烏龜棲息。",
+        "time": null
+      },
+      {
+        "en": "The shop workers are kind. They open the front door and back door all day. The shop turns into a turtle tunnel! The turtles in the shop can walk to the marsh.",
+        "tw": "店員會把前後門打開，讓這些烏龜能夠直接走到沼澤。",
+        "time": null
+      },
+      {
+        "en": "Every fall, baby turtles come from the marsh. Some walk into the shop. They're the size of NT$10 coins. The workers walk very carefully! They pick up the turtles.",
+        "tw": "每年秋天，烏龜寶寶會從沼澤裡爬出來。牠們只有十元硬幣大，店員都會注意不要踩到。",
+        "time": null
+      },
+      {
+        "en": "The turtles want to go to the pond. But the busy street is bad for baby turtles. Drivers cannot see them. So the workers take them across the street. They put the baby turtles down by the pond.",
+        "tw": "烏龜寶寶想要穿越馬路，但是這非常危險，所以店員會直接送牠們到池塘旁邊。",
+        "time": null
+      },
+      {
+        "en": "Pond to marsh, marsh to pond: that's what the turtles want. The kind workers help the turtles safely go where they want. Great job, workers! Go, turtles!",
+        "tw": "從池塘到沼澤，再從沼澤到池塘：這就是烏龜想要的。善良的店員幫助烏龜安全地到達牠們想去的地方。店員們做得好！烏龜加油！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "烏龜過馬路，人類來幫忙。",
+      "content": [
+        {
+          "text": "1. pond 池塘\nIsn't this a perfect spot for a summer picnic? 這可不是夏日野餐的完美地點?\nThe pond, the grass, and it's all so quiet.",
+          "time": null
+        },
+        {
+          "text": "2. carefully 小心的\nYeah, but what about mosquitoes and the heat? 是沒錯，但是蚊子跟熱氣呢?\nIt couldn't be that bad. 不會那麼糟的。\nI'll plan carefully. 我會有縝密計畫。",
+          "time": null
+        },
+        {
+          "text": "3. next to 在旁邊\nWe can come here in the late afternoon. 我們可以下午晚一點來。\nI'll bring bug spray. 我會帶防蚊噴液。\nAnd we can sit next to this big tree.我們可以坐在這棵大樹旁邊。",
+          "time": null
+        },
+        {
+          "text": "4. want 想要\nYeah. 對啊!\nOh, I'm so excited! 我好興奮。\nI want to invite everyone in my family to the picnic! 我要邀請所有家人來野餐!",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字很好用，你記住了嗎?\npond池塘\ncarefully小心的\nnext to在旁邊\nwant想要"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do the female turtles want to go?",
+        "options": [
+          "a. the pond",
+          "b. the shop",
+          "c. the marsh"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where do the baby turtles want to go?",
+        "options": [
+          "a. the pond",
+          "b. the shop",
+          "c. the marsh"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Why is the street bad for baby turtles?",
+        "options": [
+          "a. Drivers pick them up.",
+          "b. Drivers cannot see them.",
+          "c. Drivers can see them."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
