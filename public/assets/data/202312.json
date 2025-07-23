@@ -961,6 +961,111 @@
     ]
   },
   {
+    "id": "20231214-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "International Education",
+      "Outdoor Education",
+      "Multicultural Education",
+      "Environmental Education",
+      "Life on Land"
+    ],
+    "title": "Animal Video Surprises Scientists",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231213NK.mp3",
+    "content": [
+      {
+        "en": "Sir David's echidnas lived when dinosaurs lived. That was two hundred million years ago! These animals were living sixty years ago. After that, scientists didn't see any alive. They thought these echidnas were extinct…",
+        "tw": "艾登堡針鼴鼠從2億年前恐龍還沒滅絕的時候就存在。牠們消失了60年。科學家以為牠們絕種了。",
+        "time": null
+      },
+      {
+        "en": "But last month, scientists found a Sir David's echidna! It was on a mountain in Indonesia. They weren't looking for it. They put video cameras outside. The cameras took videos of animals. The scientists looked at the videos later. Then they saw the echidna! They were very surprised!",
+        "tw": "但是在上個月，科學家在印尼山上拍到艾登堡針鼴鼠。他們非常驚訝!",
+        "time": null
+      },
+      {
+        "en": "Sir David's echidnas are cool. Their nose is twenty centimeters long! These echidnas blow bubbles from their nose to cool down.",
+        "tw": "艾登堡針鼴鼠很特別。牠們的鼻子長達20公分，還會從鼻子噴泡泡來降溫。",
+        "time": null
+      },
+      {
+        "en": "They make holes in soft dirt with their nose. They make holes to find food.",
+        "tw": "牠們還會在土裡挖洞覓食。",
+        "time": null
+      },
+      {
+        "en": "Sir David's echidnas don't have teeth. Their long, sticky tongue gets food fast! They eat ants and earthworms.",
+        "tw": "牠們沒有牙齒，但是有又長又黏的舌頭吃螞蟻跟蚯蚓。",
+        "time": null
+      },
+      {
+        "en": "These echidnas have quills. Quills are sharp and spiky. When an echidna is scared, it rolls into a spiky ball! No animals want to touch a spiky ball!",
+        "tw": "這些針鼴鼠身上也有尖銳的刺。如果牠們受到驚嚇，身體會縮成一顆球，防止其他的動物靠近。",
+        "time": null
+      },
+      {
+        "en": "These cool Sir David's echidnas aren't extinct. They're living! That's great for them - and us!",
+        "tw": "這些酷酷的艾登堡針鼴鼠沒有滅絕。牠們還活著！這對牠們來說太棒了——對我們也是！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這種奇特的動物原本以為已經絕種，不料卻重新露面。",
+      "content": [
+        {
+          "text": "look at 注視\nHey, look at what I found! 你看我找到的東西!\nWow, so cool! 哇，真酷!\nBut are they bones? 但這些是骨頭嗎?\nMaybe, I'm not sure. 也許吧，我不確定。",
+          "time": null
+        },
+        {
+          "text": "teeth 牙齒\nThey look like teeth, right? 它們看起來像牙齒，對不對?\nThey could be, but you should show them to scientists.\n有可能，不過你應該拿給科學家看。",
+          "time": null
+        },
+        {
+          "text": "ago 以前\nYeah, scientists should be able to answer my questions.\n對，科學家應該可以回答我的問題。\nThey can tell you how long ago these animals\nlived.他們會告訴你這些動物生活在多久以前。",
+          "time": null
+        },
+        {
+          "text": "look for 尋找\nLet's look for more bones here. 我們在這裡多找找骨頭。\nRight, we may find a big dinosaur! 對啊，我們可能找到一隻大恐龍!",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了嗎?\nlook at注視\nteeth牙齒\nago以前\nlook for尋找"
+    },
+    "quiz": [
+      {
+        "question": "1. What animals are extinct?",
+        "options": [
+          "a. Sir David's echidnas",
+          "b. Dinosaurs",
+          "c. Earthworms"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What kind of tongue does the animal in the story have?",
+        "options": [
+          "a. Long and sticky",
+          "b. Short and fast",
+          "c. Thin and strong"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What does the animal in the story have?",
+        "options": [
+          "a. Long hair",
+          "b. A long nose",
+          "c. Teeth"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20231218-01",
     "type": "國小",
     "tag": [
