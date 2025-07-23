@@ -322,6 +322,106 @@
     ]
   },
   {
+    "id": "20231005-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Human Rights Education",
+      "Character Education",
+      "Life Education",
+      "Multicultural Education",
+      "International Education"
+    ],
+    "title": "Town Stops Clock Bell After 500 Years",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231004NK.mp3",
+    "content": [
+      {
+        "en": "Do you like going to see people and places? I do! I try to be a good visitor. Sometimes it's not easy, but I keep trying.",
+        "tw": "你喜歡到處走走、看看風景嗎? 我想當一個好旅客，但是並不容易。",
+        "time": null
+      },
+      {
+        "en": "In Italy, many visitors go to a beautiful town. It has a 500-year old clock. All visitors see and hear it. The clock bell rang every hour. All morning, afternoon, and evening, visitors liked hearing the bell.",
+        "tw": "很多旅客喜歡到義大利一個漂亮的小鎮，那裡有一座500多年歷史的時鐘，每一個整點都會敲響一次。",
+        "time": null
+      },
+      {
+        "en": "But late at night, they didn't like hearing the bell. Visitors: \"Mmph. What's that?!\" \"Don't cry, shhhh! Go to sleep!\" \"Uggghhh. What time is it?\" \"Uh! Again?!?\" \"Oooohhh! Please! Let me sleep!\" Many visitors were tired in the morning. Some were angry too. They said, \"The bell is too loud! Stop ringing it at night!\"",
+        "tw": "但是到了晚上，遊客都被吵得無法睡覺，生氣的說要讓鐘響停下來。",
+        "time": null
+      },
+      {
+        "en": "So this summer, the town stopped ringing the bell at night. But now the local people can't sleep! The bell rang at night for 500 years! Now the night is too quiet…",
+        "tw": "從這個夏天開始，晚上不會再有鐘響。但是當地的居民覺得太安靜了，他們反而睡不著。",
+        "time": null
+      },
+      {
+        "en": "Those angry visitors didn't think about the local people and the town. Those visitors went home. They don't think about the clock now.",
+        "tw": "這些旅客都沒有顧慮到城鎮和當地的居民。",
+        "time": null
+      },
+      {
+        "en": "Do you think they were good visitors? I don't! Let's be good visitors everywhere we go!",
+        "tw": "你認為他們是好遊客嗎？我不這麼認為！讓我們去哪裡都當個好遊客吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "遊客跟當地居民，經常想要不同的東西。",
+      "content": [
+        {
+          "text": "1. stop 停止\nWill you stop that? 可以讓它停嗎?\nIt's too loud! 太大聲了!\nDo you have to use an alarm clock? 你一定要用鬧鐘?",
+          "time": null
+        },
+        {
+          "text": "2. morning 早上\nJust this morning. 只有今天早上。\nI won't do it tomorrow.明天不會了。",
+          "time": null
+        },
+        {
+          "text": "3. night 夜晚\nDidn't you go to bed early last night? 你昨晚不是很早睡?\nI did, but it's not enough. 是，但是不夠。\nI'm still tired. 我還是好累。",
+          "time": null
+        },
+        {
+          "text": "4. afternoon 下午\nI was too busy yesterday afternoon.我昨天下午太忙了。\nNow I'm going back to sleep.現在我要回去睡覺了。\nHey, you should get up now! 嘿，你應該起床了!",
+          "time": null
+        }
+      ],
+      "postscript": "Do you use an alarm clock? Let's read the vocabulary.\nstop停止\nmorning早上\nnight夜晚\nafternoon下午"
+    },
+    "quiz": [
+      {
+        "question": "1. When did the visitors like to hear the bell?",
+        "options": [
+          "a. All morning, afternoon, and evening",
+          "b. All morning and night",
+          "c. All night"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What made some visitors angry?",
+        "options": [
+          "a. Loud people",
+          "b. A loud bell",
+          "c. Local people"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why can't the local people sleep now?",
+        "options": [
+          "a. It's loud.",
+          "b. It's quiet.",
+          "c. They're angry."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20231020-01",
     "type": "國小",
     "tag": [
