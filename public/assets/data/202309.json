@@ -1063,5 +1063,117 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230915-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life on Land",
+      "Environmental Education",
+      "Life Education",
+      "Outdoor Education",
+      "International Education",
+      "Health and Physical Education",
+      "Natural Sciences"
+    ],
+    "title": "Massages Help Elephants Move",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230914NK.mp3",
+    "content": [
+      {
+        "en": "In the UK, there's an elephant called Anne. She worked in a circus. She did circus tricks there.",
+        "tw": "英國有一頭大象叫做Anne，牠之前在馬戲團表演特技。",
+        "time": null
+      },
+      {
+        "en": "The tricks are not good for elephants. They make the elephants' bodies hurt.",
+        "tw": "但是這種表演會傷害大象的身體。",
+        "time": null
+      },
+      {
+        "en": "Now Anne lives in a safari park. People drive their cars in safari parks. They look at the animals there. Anne doesn't do circus tricks in this park. Her knees and hips hurt from the circus.",
+        "tw": "Anne現在住在野生動物園裡面，不用再表演特技了。牠的膝蓋跟臀部都會痛。",
+        "time": null
+      },
+      {
+        "en": "A doctor wants Anne to feel better. So every month, he comes to see her. He gives Anne a massage!",
+        "tw": "有個醫生希望Anne可以好起來，所以他每個月來動物園幫牠按摩。",
+        "time": null
+      },
+      {
+        "en": "This doctor is very good at massages. But elephants are very big and strong! Massaging an elephant is hard work!",
+        "tw": "這個醫生很會按摩，但大象又大又強壯，幫大象按摩很不容易。",
+        "time": null
+      },
+      {
+        "en": "The massages help Anne. But many other elephants need massages. So now the doctor is a teacher too. He teaches massage - elephant massage! He goes all over the world to teach.",
+        "tw": "按摩讓Anne好起來，但是還有很多大象也需要幫助。所以這名醫生到世界各地教大家怎麼幫大象按摩。",
+        "time": null
+      },
+      {
+        "en": "His students massage their elephants. After one week, the elephants stand taller. They walk better! The massages help the elephants move!",
+        "tw": "他的學生也幫他們的大象按摩。按摩讓大象站得更直，也走得更穩!",
+        "time": null
+      },
+      {
+        "en": "The doctor began helping one elephant. Now his massage helps elephants all over the world! What a smart and kind doctor!",
+        "tw": "這位醫生從幫助一頭大象開始，現在他的按摩幫助了世界各地的大象！真是個聰明又善良的醫生！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這位充滿愛心的醫生，替大象按摩好減輕牠們的痛苦。",
+      "content": [
+        {
+          "text": "1. hurt 痛\nGosh, my knees hurt so much!\nFrom all that running, right?\nI only ran 10 kilometers.\nIt shouldn't be that bad.",
+          "time": null
+        },
+        {
+          "text": "2. walk 走路\nI guess it's because I also walked three hours.\nWalking after running?\nThat's not smart.",
+          "time": null
+        },
+        {
+          "text": "3. feel 感覺\nI didn't feel tired at the time.\nBut now my knees are killing me!",
+          "time": null
+        },
+        {
+          "text": "4. better 比較好\nMaybe you'd feel better lying down.\nMaybe I'd feel better skipping school.",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了嗎?\nhurt痛\nwalk走路\nfeel感覺\nbetter比較好"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does Anne live now?",
+        "options": [
+          "a. A circus",
+          "b. A safari park",
+          "c. All over the world"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where does Anne hurt?",
+        "options": [
+          "a. Her nose and ears",
+          "b. Her knees and hips",
+          "c. Her tail and feet"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What is the doctor very good at?",
+        "options": [
+          "a. Massages",
+          "b. Driving",
+          "c. Tricks"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
