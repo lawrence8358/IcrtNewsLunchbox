@@ -1128,6 +1128,116 @@
     ]
   },
   {
+    "id": "20231016-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Clean Water and Sanitation",
+      "Reduced Inequalities",
+      "Zero Hunger",
+      "No Poverty",
+      "Sustainable Cities and Communities",
+      "Partnerships for the Goals",
+      "Human Rights Education",
+      "Life Education",
+      "Multicultural Education",
+      "International Education"
+    ],
+    "title": "Water is Life, Water is Food",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231013NK.mp3",
+    "content": [
+      {
+        "en": "Today is World Food Day. This year, it's all about water.",
+        "tw": "今天是世界糧食日。今年的重點是水。",
+        "time": null
+      },
+      {
+        "en": "But, wait … we don't eat water, we drink it! Why are we talking about water on World Food Day?",
+        "tw": "但……我們不吃水、我們喝水! 為什麼要在世界糧食日講到水呢?",
+        "time": null
+      },
+      {
+        "en": "Every living thing on Earth needs water. Animals need it to live. Plants need water too. They need it to grow and to make their own food.",
+        "tw": "地球上所有生物都需要水。動植物都需要水才能生長。",
+        "time": null
+      },
+      {
+        "en": "Think about all the food you eat. Meat comes from animals. Animals need water. Fruit and vegetables come from plants. Plants need water too! So without water, there is no food.",
+        "tw": "想想看所有吃過的食物。我們吃的肉跟蔬果，都是來自動物跟植物。所以沒有水，就沒有食物。",
+        "time": null
+      },
+      {
+        "en": "Don't worry. Everyone knows that water isn't REALLY food! It's a drink, … right? There's a new street snack in China. It's called \"grilled ice\" … That's what I said! Grilled ice!",
+        "tw": "在中國有個新的路邊小吃，叫烤冰塊，沒有錯! 真的叫做烤冰塊!",
+        "time": null
+      },
+      {
+        "en": "The ice is cooked over a hot flame. It's not cooked for long. It doesn't all melt away! It's cooked with lots of tasty sauces and flavors.",
+        "tw": "把冰塊放到烤爐上烤，但是不會烤太久，再撒上很多醬料。",
+        "time": null
+      },
+      {
+        "en": "It was made as a joke. But people really like it, especially on hot days! Maybe it's tasty, but we all cannot eat ice! We need water for food, so let's protect it!",
+        "tw": "這只是個玩笑，但人們真的很喜歡，尤其是在炎熱的天氣！也許它很美味，但我們都不能吃冰！我們需要水來獲取食物，所以讓我們保護它吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "水是重要資源，沒有水就沒有生物。",
+      "content": [
+        {
+          "text": "1. grill 火烤\nKevin and Bob are coming tomorrow. 凱文和鮑勃明天來。\nSo you're planning for dinner? 所以你在計畫晚餐?\nYeah, I'm thinking of grilled pork chops. 對，我想做烤豬排。",
+          "time": null
+        },
+        {
+          "text": "2. meat 肉類\nThat's a lot of meat, don't you think? 好多肉，你不覺得嗎?\nThey love meat. 他們喜歡吃肉。\nYou're right. But fruit and vegetables would be\nnice.你說得對，不過蔬菜水果也很好。",
+          "time": null
+        },
+        {
+          "text": "3. flavor 味道\nOkay, then I'll make some apple salad too. 好吧，那我也做個蘋果沙拉。\nI'll add a special sauce on it. 加上特別的醬料。\nIt'll be full of flavors. 會有豐富的滋味。",
+          "time": null
+        },
+        {
+          "text": "4. eat 吃\nI can't wait to eat it. 我等不及要吃了。",
+          "time": null
+        }
+      ],
+      "postscript": "Let's read today's vocabulary together.\ngrill火烤\nmeat肉類\nflavor味道\neat吃"
+    },
+    "quiz": [
+      {
+        "question": "1. What day is today?",
+        "options": [
+          "a. World Fruit Day",
+          "b. World Food Day",
+          "c. World Water Day"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What is China's new street snack called?",
+        "options": [
+          "a. Grilled water",
+          "b. Grilled ice",
+          "c. Grilled plants"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What does every living thing on Earth need?",
+        "options": [
+          "a. Meat",
+          "b. Vegetables",
+          "c. Water"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20231020-01",
     "type": "國小",
     "tag": [
