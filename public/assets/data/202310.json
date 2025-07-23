@@ -422,6 +422,113 @@
     ]
   },
   {
+    "id": "20231006-01",
+    "type": "國小",
+    "tag": [
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Life Below Water",
+      "Life on Land",
+      "Environmental Education",
+      "International Education",
+      "Character Education",
+      "Life Education"
+    ],
+    "title": "Boy Gives Back Big Catch",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231005NK.mp3",
+    "content": [
+      {
+        "en": "Hi everyone! Do you like fishing?",
+        "tw": "你喜歡釣魚嗎?",
+        "time": null
+      },
+      {
+        "en": "Connor likes fishing. He's 13 years old. This summer, Connor and his dad went to a big lake. They fished from a boat. Connor caught something. But he didn't catch a fish. He caught a wallet. It had a lot of money in it!",
+        "tw": "這個夏天，13歲的Connor跟他的爸爸去釣魚，但是他沒有釣到魚，卻釣到了一個錢包。",
+        "time": null
+      },
+      {
+        "en": "How much money was in the wallet? There was about 2,000 US dollars. That's almost 65,000 Taiwan dollars!",
+        "tw": "錢包裡面有多少錢呢? 居然有將近6萬5千塊台幣。",
+        "time": null
+      },
+      {
+        "en": "What did Connor do with the money? Did he keep it? Did he buy something big? No. Connor is honest. Connor found a card in the wallet. The card had a man's name and phone number on it. The man's name was Jim. Connor phoned Jim.",
+        "tw": "Connor很誠實，他在錢包裡找到主人的名字跟電話，並且打電話給他。",
+        "time": null
+      },
+      {
+        "en": "Jim was happy. One year ago, he went fishing and lost the wallet. Jim wanted to give Connor money to thank him.",
+        "tw": "錢包的主人Jim很開心，一年前他去釣魚的時候弄丟了。他想要拿錢給Connor表示感謝。",
+        "time": null
+      },
+      {
+        "en": "But Connor said no. He didn't want any money. Wow! Connor is a very nice boy. Jim thinks that too.",
+        "tw": "但是Connor不想要錢。他真是一個好孩子。",
+        "time": null
+      },
+      {
+        "en": "Connor found a lot of money. He gave it back to Jim. If you find money, what will you do?",
+        "tw": "Connor找到很多錢。他把錢還給了Jim。如果你找到錢，你會怎麼做呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "沒有釣到魚，卻釣到錢包的男孩，找到了錢包主人。",
+      "content": [
+        {
+          "text": "1. find 找到\nUh oh, where's my wallet? 糟糕，我的錢包呢?\nIt must be in your bag. 一定在你的袋子裡。\nNo, I can't find it now. 不在，我現在找不到。",
+          "time": null
+        },
+        {
+          "text": "2. buy 買\nDid you buy anything on your way here? 你來的路上有沒有買東西?\nYeah, I bought a cup of tea. 有，買了一杯茶。",
+          "time": null
+        },
+        {
+          "text": "3. give 給\nNo wait. I also gave some money to Santa Claus.\n不對，等一等。我也給了耶誕老公公一些錢。\nSanta in October? 十月就有耶誕老公公?\nThat's so weird! 這可奇怪了!",
+          "time": null
+        },
+        {
+          "text": "4. think 思想、認為\nDo you think Santa took my wallet? 你覺得他拿了我的錢包?\nNo, no. I think you dropped the wallet somewhere near him.\n不，我覺得你在他附近掉了錢包。",
+          "time": null
+        }
+      ],
+      "postscript": "這些字都是很常用的動詞。\nfind找到\nbuy買\ngive給\nthink思考、認為"
+    },
+    "quiz": [
+      {
+        "question": "1. What was Connor doing when he found the wallet?",
+        "options": [
+          "a. Phoning Jim",
+          "b. Buying something big",
+          "c. Fishing"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where was Connor when he found the wallet?",
+        "options": [
+          "a. On a beach",
+          "b. On a boat",
+          "c. In the mountains"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How much money was in the wallet?",
+        "options": [
+          "a. $20",
+          "b. $200",
+          "c. $2000"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20231020-01",
     "type": "國小",
     "tag": [
