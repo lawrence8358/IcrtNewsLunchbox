@@ -193,5 +193,123 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230905-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Industry, Innovation and Infrastructure",
+      "Technology Education",
+      "Technology"
+    ],
+    "title": "Teaching Robots How to Laugh",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230904NK.mp3",
+    "content": [
+      {
+        "en": "Hi students! Today I'm gonna start with a joke … are you ready?",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "Why can't elephants use computers?",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "Because they are afraid of the mouse!",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "Do you get it?",
+        "tw": "你懂嗎？",
+        "time": null
+      },
+      {
+        "en": "\"Mouse\" has two meanings. It can mean a small animal, but it also means a computer mouse!",
+        "tw": "Mouse 有兩個意思，老鼠跟滑鼠！",
+        "time": null
+      },
+      {
+        "en": "If you are a human, you should be able to understand that joke. But for a robot, a joke like that is super hard to understand!",
+        "tw": "我們人類聽得懂笑話，但是機器人可能很難聽懂。",
+        "time": null
+      },
+      {
+        "en": "In the future, scientists say people will use robots for many things. Robots will even be our friends and help take care of us.",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "So, scientists are teaching robots how to laugh - at the right things!",
+        "tw": "現在，科學家在教機器人怎麼笑，還有甚麼時候可以笑！",
+        "time": null
+      },
+      {
+        "en": "This isn't easy! But scientists say that one-day robots will be able to learn to laugh at the right time and that robots will be able to have fun, funny, and interesting conversations with people.",
+        "tw": "但是科學家說，有一天機器人會學會笑，也可以跟人類聊有趣、好玩的東西！",
+        "time": null
+      },
+      {
+        "en": "Ok, before we go: one last joke: What kind of witch likes to go to the beach? A SAND-wich!! Get it? Witches and sandwiches are completely different, but they both have the same sound at the end - so that's why the joke is funny. A 'sand' witch! Do you think a robot could understand the Sand-wich joke? Hmmm…maybe not now…but one day they will!",
+        "tw": "好的，在我們離開前：最後一個笑話：什麼樣的巫婆喜歡去海灘？一個「三明治」(A SAND-wich)！懂了嗎？巫婆和三明治完全不同，但它們結尾的發音相同——所以這就是為什麼這個笑話很有趣。一個「沙」巫婆！你認為機器人能理解這個三明治笑話嗎？嗯……也許現在還不行……但有一天他們會的！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "能夠聽懂笑話並且還會講笑話，這樣的機器人可有趣了。",
+      "content": [
+        {
+          "text": "1. joke 笑話.\nI want a robot that can tell jokes. 我想要個會講笑話的機器人.\nThen I won't feel bored all the time.這樣我就不會總是覺得無聊.\nI can tell you jokes. 我可以講給你聽.",
+          "time": null
+        },
+        {
+          "text": "2. understand 了解.\nI also want my robot to understand my jokes. 我也想要機器人聽懂我的笑話.\nThat would be hard.這就有點難了.\nEven I don't get your jokes sometimes. 連我有時候都聽不懂你的笑話",
+          "time": null
+        },
+        {
+          "text": "3. laugh 笑.\nYou don't have to. 你不用懂啊.\nYou just laugh.你只要笑就好了.\nYeah, maybe I'll laugh at you. 好，也許我就嘲笑你.",
+          "time": null
+        },
+        {
+          "text": "4. take care of 照顧.\nCould you take care of my dogs for one day? 你能幫我照顧狗狗一天嗎?\nSure. 當然.",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like to tell jokes?\njoke笑話\nunderstand了解\nlaugh笑\ntake care of照顧"
+    },
+    "quiz": [
+      {
+        "question": "1. What are scientists teaching robots?",
+        "options": [
+          "A: How to laugh at the right things",
+          "B: How to eat elephants",
+          "C: How to do your homework"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "2. Why is it hard to understand jokes?",
+        "options": [
+          "A: Because words have many different meanings",
+          "B: Because sandwiches are yummy",
+          "C: Because the chicken crossed the road"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "3. What will robots be in the future?",
+        "options": [
+          "A: Our food",
+          "B: Our friends and helpers",
+          "C: They will be witches"
+        ],
+        "time": null,
+        "answer": "B"
+      }
+    ]
   }
 ]
