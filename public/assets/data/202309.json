@@ -1718,5 +1718,101 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230923-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Reduced Inequalities",
+      "Life on Land",
+      "Human Rights Education",
+      "Character Education",
+      "Life Education",
+      "Health and Physical Education",
+      "International Education"
+    ],
+    "title": "Powerlifter with Down Syndrome Has 5 Gold Medals",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230922NK.mp3",
+    "content": [
+      {
+        "en": "Dan is a powerlifter. Powerlifting is a sport. Powerlifters lift very heavy weights. In competitions, the lifter of the heaviest weight wins.",
+        "tw": "舉重是一項運動，比賽中能夠舉起最重的就是贏家。"
+      },
+      {
+        "en": "Dan is a very good powerlifter. He wins competitions all over the world. This summer, Dan won a gold medal in France. But becoming a powerlifter was not easy for him. Dan has Down Syndrome. Down Syndrome",
+        "tw": "是唐氏症。Dan是一個厲害的舉重選手，贏得很多場比賽。但這對他來說很不容易，因為Dan有唐氏症。"
+      },
+      {
+        "en": "Because of Down Syndrome, Dan can't hear in one ear. And because of Down Syndrome, when Dan was very young, he had a heart problem. He even had heart surgery … two times!",
+        "tw": "因為唐氏症的關係，Dan有一邊的耳朵聽不見，他小時候還有心臟問題。"
+      },
+      {
+        "en": "For a short time, Dan did not walk well. He used a wheelchair. But then he started to lift weights. He wanted to be healthy and strong.",
+        "tw": "有一段時間，Dan需要坐輪椅。但是他希望能夠變得健康強壯，所以開始練習舉重。"
+      },
+      {
+        "en": "Dan lifted weights every day. He worked very hard. He became healthy and very strong! The weights were heavier and heavier: seventy, eighty, ninety, one hundred kilograms and more! Dan was a powerlifter! Then he tried a powerlifting competition.",
+        "tw": "Dan每天努力練習，舉重的功力一直增加，他也嘗試參加比賽。"
+      },
+      {
+        "en": "Now, Dan is one of the best powerlifters in the world! He has 5 gold medals. Maybe he can win more! Good luck, Dan!",
+        "tw": "現在，丹是世界上最棒的舉重選手之一！他有5枚金牌。也許他可以贏得更多！祝你好運，丹！"
+      }
+    ],
+    "vocabulary": {
+      "preface": "有先天性疾病的Dan,在舉重這項運動表現卓越。",
+      "content": [
+        {
+          "text": "1. lift 舉起\nHey, have you been lifting weights? 嘿，你都在練舉重嗎?\nYou've got a six-pack! 你有六塊肌耶!\nReally? I'm so happy to hear that! 真的嗎，太高興了!\nIt's hard work. 很辛苦呢。",
+          "time": null
+        },
+        {
+          "text": "2. because 因為。\nSo you go to the gym every day? 所以你每天上健身房?\nYeah, but not because I want a six-pack.對，不過不是為了要六塊肌。\nMy doctor told me to work out. 我的醫生叫我做運動。",
+          "time": null
+        },
+        {
+          "text": "3. heart 心臟。\nHe says I have heart problems and need to get stronger.\n他說我有心臟問題，需要變強壯一點。\nWhat kind of heart problems? 哪一種心臟問題?",
+          "time": null
+        },
+        {
+          "text": "4. surgery 手術。\nThe kind that might need surgery. 可能需要動手術的那種。\nGee, that's tough. 這可麻煩了。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you do weightlifting?\nlift舉起\nbecause因為\nheart心臟\nsurgery手術"
+    },
+    "quiz": [
+      {
+        "question": "1. What is powerlifting?",
+        "options": [
+          "a. A wheelchair",
+          "b. A weight",
+          "c. A sport"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many gold medals does Dan have?",
+        "options": [
+          "a. 1",
+          "b. 5",
+          "c. 8"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why can't Dan hear in one ear?",
+        "options": [
+          "a. He has Down Syndrome.",
+          "b. The weights are heavy.",
+          "c. He is a powerlifter."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
