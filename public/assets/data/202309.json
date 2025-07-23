@@ -2120,5 +2120,127 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230928-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences",
+      "Arts",
+      "Social Studies",
+      "International Education",
+      "Reading Literacy Education",
+      "Multicultural Education",
+      "Life Education",
+      "Peace, Justice and Strong Institutions",
+      "Partnerships for the Goals",
+      "Life on Land",
+      "Reduced Inequalities",
+      "Decent Work and Economic Growth",
+      "Quality Education"
+    ],
+    "title": "President Gives Awards to Teachers in India",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230927NK.mp3",
+    "content": [
+      {
+        "en": "Hey, guess what?! Today is Teachers' Day!",
+        "tw": "你知道嗎?今天是教師節!",
+        "time": null
+      },
+      {
+        "en": "I know … You love this day! Because you love your teacher sooooo much, right?",
+        "tw": "我知道今天是教師節，大家都很愛你們的老師，對不對?",
+        "time": null
+      },
+      {
+        "en": "Let's give teachers everywhere a great big clap!",
+        "tw": "請為世界各地的老師用力鼓掌。",
+        "time": null
+      },
+      {
+        "en": "Wow! That was loud! You must love your teacher very much! In Taiwan, Teachers' Day is on September 28th. Other countries have Teachers' Days too. But they're on different days.",
+        "tw": "台灣的教師節在9月28號。其他的國家也有教師節，但是慶祝的日期不同。",
+        "time": null
+      },
+      {
+        "en": "In India, Teachers' Day is on September 5th. This year, India's president gave awards to 75 teachers. These teachers worked hard for their students. They did amazing things!",
+        "tw": "印度的教師節在9月5號。今年印度總統頒獎給75位老師，讚賞他們的努力。",
+        "time": null
+      },
+      {
+        "en": "One teacher made an online drama. It helps kids learn. They have fun watching it at home!",
+        "tw": "其中一位老師在線上演戲，幫助小朋友學習，讓他們在家也看得開心。",
+        "time": null
+      },
+      {
+        "en": "Another teacher loves his job. He comes to school every day. He hasn't missed a day of school... for eleven years!",
+        "tw": "有一位老師很愛他的工作，他每天都到學校，11年都沒有缺席。",
+        "time": null
+      },
+      {
+        "en": "One teacher loves his school so much, he cleans it every day! He cleans the toilets too! He even uses his own money to help the school!",
+        "tw": "另外一位老師也非常愛護他的學校。他每天打掃學校以及廁所，還捐錢幫助學校。",
+        "time": null
+      },
+      {
+        "en": "The 75 teachers in India help their students in many ways. Maybe your teacher does too. What can you give your teacher an award for?",
+        "tw": "印度的75位老師以多種方式幫助他們的學生。也許你的老師也是如此。你可以為你的老師頒發什麼獎項呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "老師們辛苦了!",
+      "content": [
+        {
+          "text": "1. award 獎項\nI can't believe it! 真不敢相信!\nThey gave me an award! 他們給了我一個獎 !\nCongratulations! What is the award for? 恭喜你，是什麼獎呢?",
+          "time": null
+        },
+        {
+          "text": "2. job 工作\nFor being a wonderful teacher! 因為我是很棒的老師。\nOh wow. But you don't even like your job! 哇，可是你甚至不喜歡你的工作。",
+          "time": null
+        },
+        {
+          "text": "3. every day 每天\nI'm beginning to like it now. 我現在開始喜歡了。\nIt's a good job, you know. 這是個好工作。\nSure, you get to help children every day. 當然了，每天都可以幫助小朋友。",
+          "time": null
+        },
+        {
+          "text": "4. learn 學習\nAnd I'm learning something new every day. 我每天也在學習新東西。\nLike how to have fun when working. 比如說怎麼在工作時玩樂。",
+          "time": null
+        }
+      ],
+      "postscript": "Let's learn something new every day! 一起來讀單字。\naward獎項\njob工作\nevery day每天\nlearn學習"
+    },
+    "quiz": [
+      {
+        "question": "1. When is Teachers' Day in Taiwan?",
+        "options": [
+          "a. September 28th",
+          "b. September 5th",
+          "c. Every day"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Who gave teachers in India their awards this year?",
+        "options": [
+          "a. The President",
+          "b. The Prime Minister",
+          "c. The kids"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many teachers in India were given awards this year?",
+        "options": [
+          "a. 28",
+          "b. 5",
+          "c. 75"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
