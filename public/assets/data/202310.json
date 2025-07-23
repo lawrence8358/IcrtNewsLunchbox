@@ -529,6 +529,110 @@
     ]
   },
   {
+    "id": "20231009-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Good Health and Well-Being",
+      "Life on Land",
+      "Family Education",
+      "Character Education",
+      "Life Education",
+      "Multicultural Education",
+      "Reading Literacy Education",
+      "International Education",
+      "Social Studies"
+    ],
+    "title": "What One USA School Is Like for Kids from Taiwan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231006NK.mp3",
+    "content": [
+      {
+        "en": "Lots of families from Taiwan go to live in the USA. The father or mother works there. And their kids go to school there.",
+        "tw": "很多台灣家庭搬到美國生活。父母親在那邊工作，他們的小孩在那裡上學。",
+        "time": null
+      },
+      {
+        "en": "Arizona is a state in the USA. A Taiwanese company is building a big factory there. Many people from Taiwan work at the factory. Their children go to local schools.",
+        "tw": "美國亞利桑那州有一個台灣工廠。很多台灣人在那裡上班，他們的小孩就在當地上學。",
+        "time": null
+      },
+      {
+        "en": "One school has one hundred new students from Taiwan. How is the school? One student says the kids in her class are very friendly. She says her teachers are nice.",
+        "tw": "有一間學校來了一百位台灣學生，新學校怎麼樣呢? 有一位學生說同學跟老師都很友善。",
+        "time": null
+      },
+      {
+        "en": "All the new students' classes are in English. It's not easy for them. But the school has two English teachers. They help the new students learn English. They help the students understand what to do.",
+        "tw": "所有的課程都是用英語授課，所以學校的兩位英文老師會幫助新學生學習英文。",
+        "time": null
+      },
+      {
+        "en": "The new students learn a lot. But the other students learn too. They learn about Taiwan's culture. They saw lion dancers at school for the Lunar New Year!",
+        "tw": "新學生學到了很多，但是其他學生也能學到台灣的文化。",
+        "time": null
+      },
+      {
+        "en": "The students from Taiwan are making new friends. Nice teachers help them. The new students are part of the school now. They love their new school in Arizona! And their school loves them!",
+        "tw": "台灣學生正在結交新朋友。友善的老師們幫助他們。這些新學生現在是學校的一份子。他們熱愛亞利桑那州的新學校！而他們的學校也愛他們！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台積電到美國設廠，台灣員工的孩子們就上當地的學校。",
+      "content": [
+        {
+          "text": "1. children 兒童\nDo children like going to school in Taiwan? 台灣的小孩喜歡上學嗎?\nI don't know. You'd have to ask them. 我不知道，你得問他們。\nI myself loved it when I was young. 我自己小時候很喜歡上學。",
+          "time": null
+        },
+        {
+          "text": "2. friendly 友善的\nWas your teacher friendly? 你的老師友善嗎?\nNot at all. She was mean. 一點也不，她很壞。\nWe were afraid of her. 我們都怕她。",
+          "time": null
+        },
+        {
+          "text": "3. friend 朋友\nBut I enjoyed being with my friends. 但我喜歡跟朋友一起。\nWe played so much that we forgot about class. 我們玩到忘要上課。",
+          "time": null
+        },
+        {
+          "text": "4. student 學生\nWere you a good student? 你是不是好學生?\nI guess I was okay. 我覺得還好。",
+          "time": null
+        }
+      ],
+      "postscript": "We can use these words every day.\nchildren兒童\nfriendly友善的\nfriend朋友\nstudent學生"
+    },
+    "quiz": [
+      {
+        "question": "1. Why do kids' parents go to the USA?",
+        "options": [
+          "a. To work",
+          "b. To see friends",
+          "c. To build a school"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What state did the kids move to?",
+        "options": [
+          "a. California",
+          "b. Arizona",
+          "c. New York"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How are the kids in the new student's class?",
+        "options": [
+          "a. Boring",
+          "b. Angry",
+          "c. Friendly"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20231020-01",
     "type": "國小",
     "tag": [
