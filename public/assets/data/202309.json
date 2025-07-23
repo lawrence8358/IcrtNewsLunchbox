@@ -1279,5 +1279,116 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230919-01",
+    "type": "國中",
+    "tag": [
+      "Quality Education",
+      "Good Health and Well-Being",
+      "Reduced Inequalities",
+      "Life on Land",
+      "Family Education",
+      "Indigenous Education",
+      "Character Education",
+      "Life Education",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Arts"
+    ],
+    "title": "Taiwan Can Sing!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230918NK.mp3",
+    "content": [
+      {
+        "en": "Oh, hello, everyone! Do you like to sing? Do you sing in a group at school? That group is a choir. Taiwan has many great choirs!",
+        "tw": "你喜歡唱歌嗎？你知道台灣有很多很棒的合唱團嗎？",
+        "time": null
+      },
+      {
+        "en": "The Bao Lai Junior High School Choir is from Kaohsiung. The choir has many indigenous Bunun children. It has students from Jianshan and Laonong Elementary Schools and the Nibun Chorus. There are one hundred twenty students in the choir!",
+        "tw": "高雄的寶來國中合唱團有120個團員，有尼布恩合唱團的團員，還有建山國小跟荖濃國小的小朋友，他們很多都來自布農族。",
+        "time": null
+      },
+      {
+        "en": "This year, the singers sang one song again and again. They danced that one song again and again. They sang and danced on Saturdays and Sundays. They sang and danced on holidays and hot days.",
+        "tw": "週末和假日他們都沒有休息，一直練習。",
+        "time": null
+      },
+      {
+        "en": "They sang Pasibutbut. It's a very important Bunun song. It's beautiful. But it's not easy. It's a long song with eight parts. Why did the choir want this song?",
+        "tw": "布農族的八部合音很優美但不好唱。",
+        "time": null
+      },
+      {
+        "en": "They wanted the world to see a beautiful part of Taiwan!",
+        "tw": "他們想讓世界看到台灣美麗的一面！",
+        "time": null
+      },
+      {
+        "en": "The choir got on a plane. They went to the World Choir Games. Choirs from forty-six countries came. The Bao Lai Choir sang and danced Pasibutbut there.",
+        "tw": "合唱團搭上了飛機。他們前往世界合唱大會。來自四十六個國家的合唱團都來了。寶來合唱團在那裡演唱並表演了八部合音。",
+        "time": null
+      },
+      {
+        "en": "The world saw Taiwan. And the choir won a gold medal! Great job, Bao Lai Choir!",
+        "tw": "世界看到了台灣。合唱團獲得了金牌！寶來合唱團，做得好！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "寶來國中合唱團把悅耳的原住民歌聲，帶到世界各地。",
+      "content": [
+        {
+          "text": "1. again and again. 一遍又一遍\nWhy are you singing the song again and again? 為什麼你一再地唱那首歌?\nOh, was I too loud?",
+          "time": null
+        },
+        {
+          "text": "2. song 歌曲\nNo, I just wondered why you love the song so much.\n不會，我只是想知道為什麼你那麼愛那首歌。\nBecause I'll be joining a singing contest on Sunday.",
+          "time": null
+        },
+        {
+          "text": "3. sing 唱歌\nSo you'll sing in front of people? 所以你在大家面前唱?\nYes, a LOT of people!\n對，很多人。\nWow, I can't do that. I'll be so nervous.",
+          "time": null
+        },
+        {
+          "text": "4. win 贏得\nI believe you will win. 我相信你會贏。\nYou sing beautifully!\n你唱得真美!\nThank you! I hope so.",
+          "time": null
+        }
+      ],
+      "postscript": "我們來讀單字。\nagain再一次\nsong歌曲\nsing唱歌\nwin贏得"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the Bao Lai Junior High School Choir from?",
+        "options": [
+          "a. Keelung",
+          "b. Taichung",
+          "c. Kaohsiung"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did the choir do on Saturdays?",
+        "options": [
+          "a. saw Taiwan",
+          "b. sang Pasibutbut",
+          "c. went to the World Choir Games"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many countries' choirs were at the World Choir Games?",
+        "options": [
+          "a. 8",
+          "b. 46",
+          "c. 120"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
