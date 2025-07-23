@@ -1175,5 +1175,109 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230918-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Reduced Inequalities",
+      "Quality Education",
+      "Reading Literacy Education",
+      "Life Education"
+    ],
+    "title": "Barbershops Stop Boredom with Books",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230915NK.mp3",
+    "content": [
+      {
+        "en": "Barbers cut people's hair. They work in barbershops.",
+        "tw": "理髮師剪顧客的頭髮。他們在理髮店工作。",
+        "time": null
+      },
+      {
+        "en": "Many people like barbershops. They talk with the barber. They see their friends. They relax and have fun. Oh, and they get a haircut!",
+        "tw": "很多人喜歡理髮店，可以跟師傅聊天，見見朋友，當然也是為了剪頭髮。",
+        "time": null
+      },
+      {
+        "en": "One day, a teacher went to his barbershop. One of his students came in. But his student didn't have fun. He had nothing to do. He was very bored. He wanted to go!",
+        "tw": "有一天，一位老師去剪頭髮。他的學生也在那裡。但是這個學生覺得很無聊，想要離開。",
+        "time": null
+      },
+      {
+        "en": "The teacher knew his student. He needed a good book to stop his boredom. Then the teacher had a great idea!",
+        "tw": "老師知道他的學生需要看書才不會無聊。他想到一個好點子!",
+        "time": null
+      },
+      {
+        "en": "The teacher gave his barbershop many good kids' books. The books were free - and fun! He wanted kids to read at the barbershop. He wanted kids to like reading. And great news! His idea worked very well!",
+        "tw": "他捐了很多童書給理髮店，希望小朋友可以在理髮店看書，也從此喜歡看書。",
+        "time": null
+      },
+      {
+        "en": "Now he helps over two hundred barbershops! He gives them fun kids' books. The barbers talk with kids about reading too. They ask \"Do you like to read?\" and \"How is that book?\" Kids like reading and talking about books there!",
+        "tw": "現在他幫助了兩百多家理髮店！他為他們提供了有趣的童書。理髮師們也會和小朋友們談論閱讀。他們會問「你喜歡閱讀嗎？」和「那本書怎麼樣？」孩子們喜歡在那裡閱讀和談論書籍！",
+        "time": null
+      },
+      {
+        "en": "That's thousands of kids' reading books, getting a haircut, and having fun!",
+        "tw": "這代表著成千上萬的孩子在剪頭髮的同時閱讀書籍，並享受樂趣！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "到理髮店剪頭髮，順便看故事書，很棒的主意!",
+      "content": [
+        {
+          "text": "1. haircut 剪頭髮\nHey, you got a new haircut! 嘿，你剪了新髮型!\nLooks great on you! 很好看呢!\nReally? I did it yesterday. 真的喔? 我昨天剪的。\nI'm still not sure if I like it. 我還不確定喜不喜歡。",
+          "time": null
+        },
+        {
+          "text": "2. bored 厭煩\nSo you were just bored with your old look? 所以你就是厭煩了老樣子?\nYeah, I got all sweaty with my long hair. 對啊，長頭髮讓我流好多汗。",
+          "time": null
+        },
+        {
+          "text": "3. free 免費的\nBut the best thing is my haircut was free! 最棒的是，我剪頭髮是免費的!\nHow is that possible? 怎麼可能?\nA free haircut in Taipei? 在台北免費剪頭髮?",
+          "time": null
+        },
+        {
+          "text": "4. great 很棒的\nIt's true! 真的啊。Isn't it great? 不是很棒嗎?\nI won a gift voucher in a lucky draw.我在幸運抽獎時抽中了禮券。",
+          "time": null
+        }
+      ],
+      "postscript": "還記得今天學到哪些單字嗎?\nhaircut剪頭髮\nbored厭煩\nfree免費的\ngreat很棒的"
+    },
+    "quiz": [
+      {
+        "question": "1. Who works in a barbershop?",
+        "options": [
+          "a. Teachers",
+          "b. Students",
+          "c. Barbers"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did the student need to stop his boredom?",
+        "options": [
+          "a. Nothing",
+          "b. A haircut",
+          "c. A good book"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How many barbershops is the teacher helping?",
+        "options": [
+          "a. Under 200",
+          "b. Around 200",
+          "c. Over 200"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
