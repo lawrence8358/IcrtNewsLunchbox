@@ -107,6 +107,119 @@
     ]
   },
   {
+    "id": "20231003-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Clean Water and Sanitation",
+      "Decent Work and Economic Growth",
+      "Reduced Inequalities",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Life Below Water",
+      "Life on Land",
+      "Environmental Education",
+      "Marine Education",
+      "Life Education",
+      "Character Education",
+      "Multicultural Education",
+      "Outdoor Education",
+      "International Education",
+      "Social Studies",
+      "Natural Sciences",
+      "Health and Physical Education"
+    ],
+    "title": "Friends Clean Up Rivers",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231002NK.mp3",
+    "content": [
+      {
+        "en": "Wow, this park is nice. What's that?! And that?! Oh no, it's trash ... Yuck. Hey, did you hear what five friends in Indonesia did? They saw lots of trash. So they cleaned it up!",
+        "tw": "哇，這個公園真漂亮。那是什麼？！還有那是什麼？！噢不，是垃圾…真噁心。嘿，你聽說過印尼有五個朋友做了什麼嗎？他們看到很多垃圾，所以他們把它清理乾淨了！",
+        "time": null
+      },
+      {
+        "en": "They cleaned up a river, but we can clean up this park!",
+        "tw": "你聽說過印尼一群朋友他們的事蹟嗎? 他們看到河裡有很多垃圾，就把河川清理乾淨。",
+        "time": null
+      },
+      {
+        "en": "The trash in this park is not very bad. But the trash in the river was a big problem. It was dirty. It smelled bad. There were plastic bags, water bottles, and old clothes. The trash stopped the river!",
+        "tw": "河川裡的垃圾很多，而且又髒又臭，還有塑膠袋、寶特瓶還有舊衣服阻塞了整條河!",
+        "time": null
+      },
+      {
+        "en": "The friends wanted to help the river. So they made a group. The group cleaned up the river. They took away many bags of trash. Then they cleaned up more rivers! They cleaned up beaches!",
+        "tw": "這群朋友組成的小組清理出很多袋的垃圾，他們也繼續清理別的河流跟海灘。",
+        "time": null
+      },
+      {
+        "en": "The group made many videos of their work. They shared their videos online. Millions of people saw the videos! Now many people help the group. They clean up rivers and beaches all over Indonesia!",
+        "tw": "很多人看到他們的影片，也加入他們一起清理印尼的河川跟海攤。",
+        "time": null
+      },
+      {
+        "en": "Five friends cleaned up one river. Now they clean up many rivers and beaches with their new friends. Oh, look! Our park is clean. What's next?",
+        "tw": "五個朋友清理了一條河流。現在他們和新朋友一起清理了更多的河流和海灘。噢，看！我們的公園很乾淨了。接下來要做什麼？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這群朋友不但清理家附近的河川，也擴大到其他地方。",
+      "content": [
+        {
+          "text": "1. trash 垃圾\nWhat smells so awful? 什麼東西這麼難聞?\nSorry, I forgot to take out the trash. 真抱歉，我忘了倒垃圾。",
+          "time": null
+        },
+        {
+          "text": "2. bag 袋子\nYou have 5 bags of trash? 你有五袋垃圾?\nThat's a lot for one person! 一個人有這麼多垃圾!\nI know. I can't wait to get rid of them. 我知道，我也等不及要把它們扔掉了。",
+          "time": null
+        },
+        {
+          "text": "3. friend 朋友\nSome of my friends came here on the weekend.一些朋友周末來這裡。\nThey brought lots of food. 他們帶了一堆吃的。",
+          "time": null
+        },
+        {
+          "text": "4. share 分享\nWe shared 6 pizzas, 3 bottles of coke and lots of\nfruit.我們分享六個披薩，三瓶可樂還有好多水果。\nHmmm, why was I not invited? 怎麼沒有邀請我?",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學到哪些單字?\ntrash垃圾\nbag袋子\nfriend朋友\nshare分享"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do the friends clean up rivers?",
+        "options": [
+          "a. Indonesia",
+          "b. India",
+          "c. Japan"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where did the friends share their videos?",
+        "options": [
+          "a. At school",
+          "b. In a river",
+          "c. Online"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How many people saw the videos?",
+        "options": [
+          "a. Hundreds",
+          "b. Millions",
+          "c. Billions"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20231020-01",
     "type": "國小",
     "tag": [
