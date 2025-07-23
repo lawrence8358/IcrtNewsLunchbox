@@ -1489,5 +1489,117 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20230921-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life on Land",
+      "Life Below Water",
+      "Environmental Education",
+      "Character Education",
+      "Life Education",
+      "Multicultural Education",
+      "Outdoor Education",
+      "International Education",
+      "Social Studies",
+      "Natural Sciences",
+      "Health and Physical Education",
+      "Integrative Activities"
+    ],
+    "title": "Man Takes Little Boat for Big Ride",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230920NK.mp3",
+    "content": [
+      {
+        "en": "It's fun to go to a lake. You can swim or ride in a boat. Some people use kayaks. A kayak is a very small boat. Only one person can use it.",
+        "tw": "去湖邊玩可以游泳、坐船。有一些人會划獨木舟，kayak這種獨木舟，只能容納一個人。",
+        "time": null
+      },
+      {
+        "en": "Do kayaks go far? No, they usually don't. Most people use them for a few hours.",
+        "tw": "獨木舟可以划得很遠嗎？ 不會，大多數人只會划幾個小時。",
+        "time": null
+      },
+      {
+        "en": "But one young man likes to go to new places. Zane and his kayak went very, very, VERY far. He used his kayak for many, many, MANY hours. What?!? Zane had a big idea. He wanted to ride his kayak around a lake. He went to one of the biggest lakes in the world, Lake Superior!",
+        "tw": "Zane有個很棒的想法，他想要划著獨木舟繞湖一圈，他去了蘇必略湖，是世界最大湖之一。",
+        "time": null
+      },
+      {
+        "en": "Zane used a paddle to move the kayak. It was hard work. His kayak moved slowly around the lake.",
+        "tw": "他用槳來划獨木舟，慢慢地繞湖一圈。",
+        "time": null
+      },
+      {
+        "en": "He saw many beautiful things. He saw islands, trees, and many birds and fish.",
+        "tw": "一路上他看到很多漂亮的風景，島嶼、樹木、還有許多鳥跟魚。",
+        "time": null
+      },
+      {
+        "en": "Zane came back two months later. How far did his kayak go? It went 1,900 kilometers! How many hours did he use his kayak? Hmmm ... 63 days is… about 1,500 hours!",
+        "tw": "Zane兩個月後回來了，Zane坐獨木舟划了多遠呢? 一共划了一千九百公里!一千五百個小時!",
+        "time": null
+      },
+      {
+        "en": "Zane was happy. He went a long way in a little kayak!",
+        "tw": "Zane很高興。他用一艘小獨木舟划了很長的路！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "Zane喜歡划船，他花了兩個月的時間划獨木舟。",
+      "content": [
+        {
+          "text": "1. month 月。\nWhat's our plan for tomorrow? 我們明天的計劃是什麼?\nFor your first free day in one month? 你一個月來的第一天自由日嗎?",
+          "time": null
+        },
+        {
+          "text": "2. kayak 獨木舟。\nLet's go kayaking on Sun Moon Lake. 我們去日月潭划獨木舟吧。\nWhat a wonderful idea! 真棒的主意! That lake is beautiful! 那個湖很美呢!",
+          "time": null
+        },
+        {
+          "text": "3. hour 小時。\nSo we'll kayak for about 3 hours in the morning, and\nthen….所以我們上午划獨木舟三個鐘頭，然後....\nWait, 3 HOURS? 等一下，三個鐘頭嗎?",
+          "time": null
+        },
+        {
+          "text": "4. long 長的。\nWhy? Is that too long for you? 為什麼? 太長了嗎?\nYeah, I was thinking half an hour. 對啊，我想的是半個鐘頭。\nYou can't go anywhere in half an hour. 半個鐘頭你哪裡都去不了。",
+          "time": null
+        }
+      ],
+      "postscript": "我們一起讀今天的單字。month月 kayak獨木舟 hour小時 long長的"
+    },
+    "quiz": [
+      {
+        "question": "What is a kayak?",
+        "options": [
+          "A boat",
+          "A car",
+          "A lake"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "How far did Zane's kayak go?",
+        "options": [
+          "1,000 kilometers",
+          "1,500 kilometers",
+          "1,900 kilometers"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "How many days did Zane use his kayak?",
+        "options": [
+          "16 days",
+          "63 days",
+          "630 days"
+        ],
+        "time": null,
+        "answer": "B"
+      }
+    ]
   }
 ]
