@@ -415,6 +415,111 @@
     ]
   },
   {
+    "id": "20231207-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Natural Sciences",
+      "International Education",
+      "Multicultural Education",
+      "Character Education",
+      "Life Education"
+    ],
+    "title": "Sleeping Seal Stops Woman from Working",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231206NK.mp3",
+    "content": [
+      {
+        "en": "What's that sound? Oh, there's a seal in the water! What a cute animal!",
+        "tw": "原來是有一隻海豹在水裡，牠好可愛!",
+        "time": null
+      },
+      {
+        "en": "Seals swim in the ocean to find fish to eat. They don't have arms or feet. They have flippers. They use their front flippers to come onto land to rest.",
+        "tw": "海豹在海裡游泳尋找魚類。牠們沒有手跟腳，但是有鰭。牠們用前鰭爬上岸休息。",
+        "time": null
+      },
+      {
+        "en": "Amber lives near a beach in Australia. One morning, a loud noise woke her up. Was someone taking her car?",
+        "tw": "Amber住在澳洲海邊附近，有一天早上，很大的噪音把她吵醒，是有人要偷走她的車子嗎?",
+        "time": null
+      },
+      {
+        "en": "Amber went to a window. She looked outside. A big seal was sleeping next to her car!",
+        "tw": "Amber到窗邊往外看，一頭很大的海豹睡在她的車子旁邊。",
+        "time": null
+      },
+      {
+        "en": "Amber knew about this seal. The people in her town call him Neil. They see Neil on beaches. But this was the first time Neil visited someone's house!",
+        "tw": "Amber認得這頭海豹，這附近的人都叫這隻海豹Neil。他們在海灘上看過牠，但是這是第一次看到Neil造訪別人家。",
+        "time": null
+      },
+      {
+        "en": "Amber had to go to work. But Neil was too close to her car. There was no way to move him. Neil weighs six hundred kilograms! So Amber waited for Neil to wake up and move. She called her boss.",
+        "tw": "Amber得去上班，但是Neil太靠近她的車子。牠重達600公斤，根本沒有辦法移動牠。Amber要等到Neil睡醒之後才能離開，她只好打電話給老闆。",
+        "time": null
+      },
+      {
+        "en": "Amber's boss laughed about the sleeping seal. Amber sent pictures to show her story was real. A sleeping seal named Neil stopped Amber from going to work. What a cute story!",
+        "tw": "Amber的老闆嘲笑了這隻睡著的海豹。Amber傳了照片證明她的故事是真的。一隻名叫Neil的睡著的海豹阻止了Amber去上班。這真是個可愛的故事！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一頭海豹擋住了車子，讓Amber沒辦法開車上班。",
+      "content": [
+        {
+          "text": "1. cute 可愛的\nA litter of kittens are under my car! 我的車子底下有一窩小貓!\nWow, they are so cute! 哇，好可愛!\nThat's not the point! 那不是重點。\nHow can I drive now? 現在我怎麼開車?",
+          "time": null
+        },
+        {
+          "text": "2. eat 吃\nDon't drive! You'll hurt them. 不要開，你會傷害牠們。\nSo how do I get to work? 那我怎麼上班?\nYou can give them something to eat. 你可以給牠們一點吃的。",
+          "time": null
+        },
+        {
+          "text": "3. fish 魚\nUsing food to lure them out? 用食物吸引牠們出來?\nGood idea! I have a can of fish at home.好主意。我家裡有魚罐頭。",
+          "time": null
+        },
+        {
+          "text": "4. car 汽車\nThere you are. Nice kittens. 好了，好乖的小貓。\nNow you can move your car. 現在你可以移車了。\nYeah, I certainly don't want to be a cat killer. 是啊，我可不想當貓咪殺手。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很好記。\ncute可愛的\neat吃\nfish魚\ncar汽車"
+    },
+    "quiz": [
+      {
+        "question": "1. What do seals do on land?",
+        "options": [
+          "a. Eat fish",
+          "b. Rest",
+          "c. Laugh"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many kilograms does this seal weigh?",
+        "options": [
+          "a. Two hundred",
+          "b. Six hundred",
+          "c. One thousand"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What is this seal's name?",
+        "options": [
+          "a. Nelly",
+          "b. Ned",
+          "c. Neil"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20231208-01",
     "type": "國小",
     "tag": [
