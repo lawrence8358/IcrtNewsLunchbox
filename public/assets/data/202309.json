@@ -846,5 +846,114 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230913-01",
+    "type": "國小",
+    "tag": [
+      "Climate Action",
+      "Life on Land",
+      "Environmental Education",
+      "Natural Sciences",
+      "Health and Physical Education"
+    ],
+    "title": "Cactuses Can't Stand the Heat",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230912NK.mp3",
+    "content": [
+      {
+        "en": "Scientists say climate change is making this year hot. This July was the planet's hottest month in 120,000 years!",
+        "tw": "科學家說氣候改變讓今年變得很熱，今年七月是地球12萬年來最熱的月份!",
+        "time": null
+      },
+      {
+        "en": "Cactuses like hot weather. They don't need much water. They live in deserts. Deserts are hot and dry.",
+        "tw": "仙人掌喜歡熱的天氣，也不需要很多水分，它們長在沙漠裡。",
+        "time": null
+      },
+      {
+        "en": "Phoenix is a city in a desert. This July, Phoenix was the hottest city in the USA. Phoenix was very hot in August and it's hot now in September too.",
+        "tw": "今年七月鳳凰城是美國最熱的城市，八月和九月的天氣也非常炎熱。",
+        "time": null
+      },
+      {
+        "en": "Phoenix has many saguaro cactuses. Some are 12 meters tall! They have branches called arms. These cactuses can live for 200 years!",
+        "tw": "鳳凰城有很多巨人柱，這種仙人掌可以長到12公尺高，它們還可以活兩百年!",
+        "time": null
+      },
+      {
+        "en": "But in Phoenix, saguaro cactuses are getting sick! They're turning yellow. Their arms are falling off! Some cactuses are falling down!",
+        "tw": "但是鳳凰城的巨人柱生病了! 它們開始變黃，也開始倒塌。",
+        "time": null
+      },
+      {
+        "en": "People worry about their sick saguaro cactuses. What do these cactuses need? They need water! The cactuses can't stand the heat!",
+        "tw": "連仙人掌都熱得受不了!它們需要水!",
+        "time": null
+      },
+      {
+        "en": "Heavy rain comes to Phoenix every year. People hope the rain can save the cactuses. But can it?",
+        "tw": "鳳凰城每一年都會下大雨，人們希望這些雨可以拯救仙人掌。",
+        "time": null
+      },
+      {
+        "en": "It's too hot for cactuses! Now we need to do more than hope. We need to fight climate change together. We need to save the planet!",
+        "tw": "天氣太熱，連仙人掌都受不了！現在我們需要做的，不僅僅是希望。我們需要一起對抗氣候變遷。我們需要拯救地球！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "天氣太熱，連沙漠植物仙人掌都快活不下去了。",
+      "content": [
+        {
+          "text": "1. fall 掉落\nI'm going to try riding a unicycle tomorrow. 我明天要試著騎獨輪車。\nWhat? You'll fall off and hurt yourself.什麼啊，你會掉下來受傷。",
+          "time": null
+        },
+        {
+          "text": "2. arm 手臂\nNo, I won't. I'm good at riding a bike. 才不會，我很會騎腳踏車的。\nA unicycle is different. 獨輪車不一樣。\nYou need to stretch out your arms. 你的手臂要伸出去。",
+          "time": null
+        },
+        {
+          "text": "3. hottest 最熱的\nWouldn't that be fun? 那不是很好玩?\nYou just like to do crazy things. 你就是喜歡瘋狂的事。Remember when you ate chili in the hottest weather? 你記得你在天氣最熱的時候吃辣椒吧?",
+          "time": null
+        },
+        {
+          "text": "4. water 水\nYeah, my tongue felt like it was burning! 記得，我的舌頭好像燒起來了。\nI had to drink tons of water. 不得不喝大量的水。",
+          "time": null
+        }
+      ],
+      "postscript": "我們來讀今天的單字。\nfall掉落\narm手臂\nhottest最熱的\nwater水"
+    },
+    "quiz": [
+      {
+        "question": "1. When was the planet's hottest month in 120,000 years?",
+        "options": [
+          "a. This July",
+          "b. This August",
+          "c. This September"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "What is Phoenix?",
+        "options": [
+          "a. A kind of cactus",
+          "b. A city in a desert",
+          "c. Heavy rain"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "What do the sick cactuses need?",
+        "options": [
+          "a. Arms",
+          "b. Water",
+          "c. Climate change"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
