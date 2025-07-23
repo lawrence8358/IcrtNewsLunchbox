@@ -1238,6 +1238,107 @@
     ]
   },
   {
+    "id": "20231017-01",
+    "type": "國小",
+    "tag": [
+      "Life Below Water",
+      "Life on Land",
+      "Environmental Education",
+      "Marine Education",
+      "Multicultural Education",
+      "Outdoor Education",
+      "Natural Sciences"
+    ],
+    "title": "Dolphins Saved Near Tainan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231016NK.mp3",
+    "content": [
+      {
+        "en": "Look! There's a dolphin! Look at it jump! Dolphins are beautiful, aren't they? And they love to swim and play all day in the ocean!",
+        "tw": "你看，那裏有海豚! 牠們很漂亮對吧! 牠們喜歡在海裡游一整天。",
+        "time": null
+      },
+      {
+        "en": "But dolphins need help when they leave the ocean. How can people help?",
+        "tw": "但海豚離開海洋就需要幫助，我們可以怎麼幫忙呢?",
+        "time": null
+      },
+      {
+        "en": "Near Tainan, strong waves pushed two dolphins onto a beach. The dolphins were scared. They didn't know what was happening. People saw the dolphins and did something very smart. They called the coast guard and firefighters for help!",
+        "tw": "在台南有兩隻海豚被強浪推上岸，人們看到趕緊打電話給海巡人員跟消防隊。",
+        "time": null
+      },
+      {
+        "en": "The coast guard and firefighters know how to save dolphins. First, they made the dolphins calm. How? They stayed next to the dolphins.",
+        "tw": "海巡人員和消防隊員在海豚身邊安撫牠們。",
+        "time": null
+      },
+      {
+        "en": "Next, they kept the dolphins safe on the beach. They stopped water from going into the dolphins' blowholes. This let the dolphins breathe. They put wet towels on the dolphins. The towels kept the dolphins safe from the wind and the sun.",
+        "tw": "他們讓海豚安全地待在沙灘，防止牠們的噴氣孔進水，還把濕毛巾放在牠們身上以免風吹日曬。",
+        "time": null
+      },
+      {
+        "en": "Finally, they took the dolphins to a safer place. So how can people help dolphins on a beach? Calling 118 for the coast guard is the best way! That's how the people near Tainan saved the dolphins.",
+        "tw": "最後，他們把海豚帶到一個更安全的地方。那麼人們如何才能在海灘上幫助海豚呢？撥打118給海巡署是最好的方法！這就是台南附近的人們拯救海豚的方式。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台灣外海有很多可愛的海豚，我們要保護牠們。",
+      "content": [
+        {
+          "text": "1. ocean 海洋\nI'm taking 3 days off next month.我下個月放三天的假。\nLet's go sailing in the ocean. 我們去大海玩帆船吧。\nThat sounds exciting! 聽起來真讓人興奮!",
+          "time": null
+        },
+        {
+          "text": "2. beach 海灘\nIn Keelung or Hualien? 基隆還是花蓮？\nHualien. We can also go swimming at the beach.\n花蓮，我們也可以去海灘游泳。And go whale watching. 還有去賞鯨。",
+          "time": null
+        },
+        {
+          "text": "3. sun 太陽\nI'm already feeling the sun on my face. 我已經可以感覺到陽光在我的臉上了。\nAnd the wind and the blue skies…還有微風和藍天...",
+          "time": null
+        },
+        {
+          "text": "4. leave 離開\nWhen should we leave? 我們什麼時候出發?\nHow about November 19th? 十一月十九號如何?\nSounds good. 聽起來很不錯。\nI'll need to buy new swimsuits. 我需要買新的泳裝。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like swimming in the ocean?\nocean海洋\nbeach海灘\nsun太陽\nleave離開"
+    },
+    "quiz": [
+      {
+        "question": "1. Where were the dolphins?",
+        "options": [
+          "a. Taipei",
+          "b. Tainan",
+          "c. Taitung"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many dolphins were there?",
+        "options": [
+          "a. Two",
+          "b. Three",
+          "c. Four"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did the coast guard and firefighters put on the dolphins?",
+        "options": [
+          "a. Some toys",
+          "b. Blowholes",
+          "c. Wet towels"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20231020-01",
     "type": "國小",
     "tag": [
