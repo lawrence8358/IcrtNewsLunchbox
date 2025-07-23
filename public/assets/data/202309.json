@@ -422,5 +422,102 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20230907-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life on Land",
+      "Health and Physical Education"
+    ],
+    "title": "Sports Make You Tough",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230906NK.mp3",
+    "content": [
+      {
+        "en": "Hi, students! Do you play sports like basketball? Or maybe you like to play baseball, tennis, or bowling.",
+        "tw": "你喜歡打籃球、棒球、網球，或保齡球嗎？",
+        "time": null
+      },
+      {
+        "en": "If you do like to play sports, I have good news for you! Playing sports makes people tougher. It also makes them try harder. And it makes them braver.",
+        "tw": "運動可以讓人更堅強、更勇敢！",
+        "time": null
+      },
+      {
+        "en": "How do I know that? Well, some scientists at an American university told us. First, they asked people about themselves. They asked them some questions to see if they are hard workers. They also asked them if they are brave and if they easily give up.",
+        "tw": "美國科學家問了一些人覺得自己有多用功、有多勇敢、多不容易放棄。",
+        "time": null
+      },
+      {
+        "en": "Then, the scientists looked at the answers to see which people were tough. After that, they asked them if they play sports. They found that people who play sports are tougher than those who don't play sports.",
+        "tw": "他們發現有在運動的人比沒有運動的人還更堅強。",
+        "time": null
+      },
+      {
+        "en": "Some people think sports aren't important. But, now you know they are! Sure, sports help you to be healthy. But they also help you to be tougher and braver. And they make you more hard-working. If you play sports, you won't give up easily. All of that is important in life.",
+        "tw": "運動不只讓你更健康，也讓你更勇敢、認真，這些在生活中都很重要。",
+        "time": null
+      },
+      {
+        "en": "So, I think sports could help you be more successful in life, too!",
+        "tw": "所以，我認為運動也能幫助你在生活中取得更大的成功！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "運動，特別是比賽型的運動，好處多多!",
+      "content": [
+        {
+          "text": "1. work hard 努力工作。\nIt's late.很晚了。\nI know, but I have to get this done. 我知道，但是我一定要把這個做完。\nYou work too hard. 你太用力工作了。",
+          "time": null
+        },
+        {
+          "text": "2. give up 放棄。\nNo, I just don't want to give up. 不是，我只是不想放棄。\nBut you've got to know when to stop. 但是你得知道什麼時候要叫停",
+          "time": null
+        },
+        {
+          "text": "3. Brave 勇敢的，braver 更勇敢。\nPlaying basketball makes me braver.打籃球讓我更勇敢。\nHow so? 為什麼呢?\nI can push and shove other people. 我可以推擠別人。\nThat's not being brave! 那不是勇敢。",
+          "time": null
+        },
+        {
+          "text": "4. ask 詢問。\nWhere are we now? 我們現在在哪裡?\nI have no idea.我不知道。\nLet's ask that woman.我們來問問那位女士。",
+          "time": null
+        }
+      ],
+      "postscript": "So what kind of sports do you like? 來讀讀單字。Brave勇敢的 braver更勇敢 work hard努力工作 give up放棄 ask詢問"
+    },
+    "quiz": [
+      {
+        "question": "What is this story about?",
+        "options": [
+          "a. The hardest sport to play",
+          "b. How sports make people tough",
+          "c. Why people like to play sports"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "Where did the scientists work?",
+        "options": [
+          "a. A German restaurant",
+          "b. An American university",
+          "c. A Nigerian caf?"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "What does give up mean?",
+        "options": [
+          "a. To quit",
+          "b. To be generous",
+          "c. To work harder"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
