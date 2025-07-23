@@ -633,6 +633,136 @@
     ]
   },
   {
+    "id": "20231010-01",
+    "type": "國小",
+    "tag": [
+      "Peace",
+      "Justice and Strong Institutions",
+      "Life on Land",
+      "Multicultural Education",
+      "Social Studies"
+    ],
+    "title": "A New Logo for Double Ten Day",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231009NK.mp3",
+    "content": [
+      {
+        "en": "One … Two … Three … Four …",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Oh hi, everyone! Happy Double Ten Day! Today is for Taiwan and Taiwan's people!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "So... we're doing something new! First, let's stand! Yep, everybody stand up!",
+        "tw": "雙十節快樂! 今天是台灣重要的日子! 我們要做點不一樣的，請大家站起來!",
+        "time": null
+      },
+      {
+        "en": "Put your arms out to the left and right. This is \"ten\" in Chinese!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Now stand next to someone. Work in pairs. Put your arms out to the left and right again. Look! You made the old Double Ten Day logo!",
+        "tw": "兩個人一起張開雙臂，互相站在對方的旁邊，這樣是兩個中文字「十」，是雙十節舊的標誌。",
+        "time": null
+      },
+      {
+        "en": "This year, Double Ten Day has a new logo. So let's change your pose.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Stand on your left foot. Point your right leg out to the right.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Point your left arm out to the left. Raise your right arm! Can you stand?",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Yes! You made the new logo! Don't move!",
+        "tw": "用你的左腳單腳站立，右腳往右邊伸，左手向左邊伸，右手舉起來。不要動，這就是新的標誌。",
+        "time": null
+      },
+      {
+        "en": "The logo is blue, red, and white. Where are these colors from? They're from Taiwan's flag!",
+        "tw": "標誌有藍色、紅色和白色。這些就是台灣國旗上的顏色!",
+        "time": null
+      },
+      {
+        "en": "Hey, you're still standing! You're strong! This logo shows Taiwan's people are strong!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "You are strong when change comes. You don't give up. You try to make things good again.",
+        "tw": "欸，你還站在那裡，你很強喔! 這個標誌也代表台灣人很堅強，就算面對改變，也不會放棄。",
+        "time": null
+      },
+      {
+        "en": "Stand strong with your friends and family. Stand strong for Taiwan. Make today a great Double Ten Day!",
+        "tw": "與你的朋友和家人堅定站在一起。為台灣堅定站穩。讓今天成為一個偉大的雙十節！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "新的雙十節標誌用動作來表示，你學會了嗎?",
+      "content": [
+        {
+          "text": "1. left and right 左邊和右邊\\nNo, Jane, put your left arm out! 不對，你要伸出左手臂。\\nNot your right arm. 不是右手臂。\\nLeft and right… How can I get it right? 左邊右邊，我要怎樣才能搞對?",
+          "time": null
+        },
+        {
+          "text": "2. stand 站立\\nStand still and let me show you. 站著別動，我來教你。\\nYou see, the hand you use for chopsticks is the right hand.\\n你看，拿筷子的手就是右手。\\nSo this is the right arm. 所以這就是右手臂。",
+          "time": null
+        },
+        {
+          "text": "3. move 動作\\nYes, you got it. 對，你說對了。\\nJane, you're moving the wrong arm again! 你又動了錯的那隻手!\\nOh no, I thought I finally got this move right.糟糕，我以為我終於做對了。\\nI give up on this dance, Nancy. 我放棄這支舞，Nancy.",
+          "time": null
+        }
+      ],
+      "postscript": "Do you know right and left? Let's read the words.\\nleft左邊\\nright右邊\\nstand站立\\nmove動作"
+    },
+    "quiz": [
+      {
+        "question": "1. What is Double Ten Day for?",
+        "options": [
+          "a. Taiwan and Taiwan's people",
+          "b. Logos",
+          "c. Taiwan's flag"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What does the new logo show about Taiwan's people?",
+        "options": [
+          "a. They give up.",
+          "b. They are standing.",
+          "c. They are strong."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What color is not on Taiwan's flag?",
+        "options": [
+          "a. Blue",
+          "b. Brown",
+          "c. Red"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20231020-01",
     "type": "國小",
     "tag": [
