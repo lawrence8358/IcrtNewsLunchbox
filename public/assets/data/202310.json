@@ -763,6 +763,145 @@
     ]
   },
   {
+    "id": "20231011-01",
+    "type": "國小",
+    "tag": [
+      "Sustainable Cities and Communities",
+      "Life on Land",
+      "Environmental Education",
+      "Outdoor Education",
+      "Natural Sciences"
+    ],
+    "title": "Millions of Bees Fall Off Truck",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231010NK.mp3",
+    "content": [
+      {
+        "en": "Do you like bees? I think you said \"no!\" What about five million bees?",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "That's a lot of bees!",
+        "tw": "你喜歡蜜蜂嗎? 那五百萬隻蜜蜂呢?",
+        "time": null
+      },
+      {
+        "en": "These bees were in wooden boxes. The boxes were on a big truck.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "But the boxes fell off the truck and onto the road!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "The bees flew out of the boxes! One man said the bees made the sky black.",
+        "tw": "那些蜜蜂都裝在木箱裡，放在一輛大卡車上。但是卡車開到半路，木箱掉出車外，裡面的蜜蜂通通都飛了出來，甚至遮蔽了天空。",
+        "time": null
+      },
+      {
+        "en": "The police didn't know how to help! They sat in their cars to stay safe.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "They called beekeepers for help.",
+        "tw": "警察不知道該怎麼辦，他們躲在車子裡，打電話請養蜂人幫忙。",
+        "time": null
+      },
+      {
+        "en": "Many beekeepers came. They put on beekeeper clothing. It helps to stop bee stings.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Then they fixed the wooden boxes. The boxes were the bees' homes. The bees saw their homes again. The beekeepers helped five million bees fly into the boxes.",
+        "tw": "養蜂人穿上防護衣，把木箱修好，那是蜜蜂的家。在養蜂人幫忙之下，蜜蜂通通飛回了木箱裡。",
+        "time": null
+      },
+      {
+        "en": "No one was badly hurt. But one beekeeper got sixty bee stings! Ouch!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Some people don't like bees. They think bees are scary. But bees are important.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Honey bees are very important. These bees were honeybees.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Honey bees help flowers and other plants grow. And they make honey for us!",
+        "tw": "有一些人不喜歡蜜蜂，但蜜蜂很重要，牠們幫忙傳播花粉，也會做蜂蜜。",
+        "time": null
+      },
+      {
+        "en": "Five million bees fell off a truck. Beekeepers saved them! Sweet!",
+        "tw": "五百萬隻蜜蜂從卡車上掉下來。養蜂人救了牠們！真棒！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "五百萬隻蜜蜂在空中飛舞，這個景象一定很壯觀!",
+      "content": [
+        {
+          "text": "1. honey 蜂蜜\nLook at those bees… They're collecting nectar! 你看那些蜜蜂，牠們正在吸花蜜!\nAnd they'll turn nectar into honey. 牠們會把花蜜變成蜂蜜。\nHow very clever! 真是聰明!",
+          "time": null
+        },
+        {
+          "text": "2. scary 讓人害怕的\nOh, they're coming my way. 牠們往我這裡來了。\nI'd better stay away.我最好躲開。\nBees are a little scary to me. 蜜蜂有點兒讓我害怕。",
+          "time": null
+        },
+        {
+          "text": "3. sting 叮咬\nYou've gotten bee stings before? 你有被蜂螫過嗎?\nYeah, I got stung when I was little. 有，我小時候被蜜蜂叮過。\nI cried and cried. 我哭了又哭。",
+          "time": null
+        },
+        {
+          "text": "4. sweet 甜的\nThen you should eat more honey now. 那你現在應該多吃蜂蜜。\nOh, yes, my favorite sweet stuff is honey cake.\n沒錯，我最愛的甜食就是蜂蜜蛋糕。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like honey?\nhoney蜂蜜\nscary讓人害怕的\nsting叮咬\nsweet甜的"
+    },
+    "quiz": [
+      {
+        "question": "1. Which planet has the most moons?",
+        "options": [
+          "a. 1",
+          "b. 5",
+          "c. 10"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What did the bees do?",
+        "options": [
+          "a. Sat in cars",
+          "b. Made the sky dark",
+          "c. Called beekeepers"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did the beekeepers do first?",
+        "options": [
+          "a. Fixed the boxes",
+          "b. Put on beekeeper clothing",
+          "c. Helped the bees fly home"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20231020-01",
     "type": "國小",
     "tag": [
