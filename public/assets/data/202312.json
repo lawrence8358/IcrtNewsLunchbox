@@ -1469,6 +1469,114 @@
     ]
   },
   {
+    "id": "20231221-01",
+    "type": "國小",
+    "tag": [
+      "Life Below Water",
+      "Marine Education",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Dangerous Dragons Seen in Ocean Near Keelung",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231220NK.mp3",
+    "content": [
+      {
+        "en": "Villager: DRAGON!",
+        "tw": "村民：龍！",
+        "time": null
+      },
+      {
+        "en": "Narrator: In some stories, dragons are very scary. They're huge lizards with wings! They blow fire from their mouths! They eat people! They tear down buildings!",
+        "tw": "龍在一些故事裡是很可怕的動物。牠們很像長翅膀的大蜥蜴，會噴火、吃人，還會推倒建築物。",
+        "time": null
+      },
+      {
+        "en": "Dragons aren't so bad. Look at dragonflies. They fly, but they don't blow fire! And they're too small to tear down buildings…",
+        "tw": "但也不是所有的龍都很可怕。像是dragonfly...蜻蜓...會飛但是不會噴火。",
+        "time": null
+      },
+      {
+        "en": "Blue sea dragons sometimes come to the ocean around Taiwan. They're smaller than dragonflies. The biggest are three centimeters long!",
+        "tw": "海底有一種生物叫「藍龍」有時候會靠近台灣附近海域，牠們只有3公分長。",
+        "time": null
+      },
+      {
+        "en": "They're bright blue on one side and gray on the other. This hides them from birds and fish. They have long, flat bodies with... dragon wings! These are small parts with many long fingers.",
+        "tw": "牠們長長的身體一邊是亮藍色，另一邊是灰色，還有觸角，看起來就像龍的翅膀。",
+        "time": null
+      },
+      {
+        "en": "Blue sea dragons are called \"the most beautiful killers in the ocean.\" That's because they're very poisonous! If you see a blue sea dragon, stay far, far away!",
+        "tw": "藍龍被稱為「大海最美的殺手」。因為牠們有毒，要記得離牠們遠一點。",
+        "time": null
+      },
+      {
+        "en": "Seven blue sea dragons were seen in the ocean near Keelung. It's rare to see so many at one time!",
+        "tw": "在基隆附近海域看到七隻藍龍，很少能一次看到這麼多隻!",
+        "time": null
+      },
+      {
+        "en": "Seven poisonous blue sea dragons are near Keelung... Why are we here?! RUN!!!",
+        "tw": "七隻有毒的藍龍在基隆附近...我們為什麼在這裡？！快跑！！！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "住在海裡的藍龍不是童話故事裡的龍，而是真正的有毒生物。",
+      "content": [
+        {
+          "text": "1. lizard 蜥蜴\nDragons are lizards, right?\nNo, well, yes.\nI mean, dragons are not real.",
+          "time": null
+        },
+        {
+          "text": "2. scary 嚇人的\nI want my dragons to fly and fight.\nIn the story you're writing?\nYeah, my dragons will be very scary.",
+          "time": null
+        },
+        {
+          "text": "3. hide 躲藏\nIf I see your dragon, I'll run and hide.\nThat will be useless because my dragon can find you.",
+          "time": null
+        },
+        {
+          "text": "4. tear down 破壞、拆掉\nIt will tear down your hiding place and eat you!",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很好玩喔！\nlizard蜥蜴\nscary嚇人的\nhide躲藏\ntear down破壞、拆掉"
+    },
+    "quiz": [
+      {
+        "question": "1. What do dragonflies do?",
+        "options": [
+          "a. Fly",
+          "b. Blow fire",
+          "c. Tear down buildings"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What are called \"the most beautiful killers in the ocean\"?",
+        "options": [
+          "a. Dragons",
+          "b. Dragonflies",
+          "c. Blue sea dragons"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How long are the biggest blue sea dragons?",
+        "options": [
+          "a. 1 centimeter",
+          "b. 3 centimeters",
+          "c. 7 centimeters"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20231222-01",
     "type": "國小",
     "tag": [
