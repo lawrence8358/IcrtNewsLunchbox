@@ -2010,6 +2010,111 @@
     ]
   },
   {
+    "id": "20231228-01",
+    "type": "國小",
+    "tag": [
+      "Technology Education",
+      "Industry, Innovation and Infrastructure",
+      "Safety Education",
+      "Multicultural Education",
+      "Technology",
+      "Natural Sciences"
+    ],
+    "title": "A Bag Is Floating in the Sky",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231227NK.mp3",
+    "content": [
+      {
+        "en": "What can you see in the sky? You can see the moon and the stars. But now, with binoculars, you can also see a bag.",
+        "tw": "抬頭看天空可以看到月亮跟星星，但現在用雙筒望遠鏡你也可以看到一個包包。",
+        "time": null
+      },
+      {
+        "en": "What? A bag in the sky? How did that get there?",
+        "tw": "什麼？一個包包在天上？它是怎麼跑到那裡的？",
+        "time": null
+      },
+      {
+        "en": "It started with two astronauts in space. They were fixing a space station. They wore space suits and worked with special tools. They kept their tools in a tool bag. Then one of the astronauts lost her tool bag.",
+        "tw": "起因是有兩個太空人穿著太空衣，拿著工具包，修理太空站。但是其中一人沒有抓緊她的工具包。",
+        "time": null
+      },
+      {
+        "en": "You know, everything floats in space. The big white bag floated away. The astronaut could not catch it! The bag is floating up there now.",
+        "tw": "在太空中所有的東西都會飄浮，那個白色大工具包就這樣飄走了。",
+        "time": null
+      },
+      {
+        "en": "Another astronaut in space saw the bag. It was floating over Japan. People on Earth can see the bag too. The bag is big and white, so it is very bright.",
+        "tw": "另一個太空人看到工具包飄過日本，它很大，因為是白色的，所以也很亮，人們從地球上都看得到。",
+        "time": null
+      },
+      {
+        "en": "Scientists say the bag will stay up in the sky for a few months. Then it will start falling to Earth.",
+        "tw": "科學家說這個包包會飄在太空中幾個月才會掉到地球。",
+        "time": null
+      },
+      {
+        "en": "Can you see something white in the sky? Maybe it's a star. Or maybe it's the lost tool bag!",
+        "tw": "你有在天空中看到白色的東西嗎？也許是星星。或者也許是那個丟失的工具包！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一個昂貴的工具包，現在正環繞地球軌道飛行。",
+      "content": [
+        {
+          "text": "1. float 飄浮\nHave you heard about this bag floating in the sky?\n你聽說了那個飄在天上的包包嗎?\nYeah, I'd really love to see it.有，我真想看。",
+          "time": null
+        },
+        {
+          "text": "2. star 星星\nMe too! Do you think it will fly by very fast? 我也是! 你想它會不會飛得很快?\nLike a shooting star? 像流星那樣嗎?\nNo, I don't think so. 我覺得不會。",
+          "time": null
+        },
+        {
+          "text": "3. binoculars 望遠鏡\nIt should go by slowly like a satellite.它應該像衛星一樣慢慢走。\nThen I'll bring my binoculars with me. 那我要帶著望遠鏡。",
+          "time": null
+        },
+        {
+          "text": "4. stay 停留\nTo get a better look at the bag? 好把工具包看得更清楚嗎?\nOf course. 當然。\nWhen should we go? 我們應該什麼時候去看?\nDon't worry. It will stay up there for months.\n別擔心，它會待在天上好幾個月呢。",
+          "time": null
+        }
+      ],
+      "postscript": "你平常會觀看星象嗎?\nfloat飄浮\nstar星星\nbinoculars望遠鏡\nstay停留"
+    },
+    "quiz": [
+      {
+        "question": "1. What color is the lost bag?",
+        "options": [
+          "a. White",
+          "b. Red",
+          "c. Green"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where is the bag now?",
+        "options": [
+          "a. In Japan",
+          "b. On the moon",
+          "c. In the sky"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. When will the bag start to fall?",
+        "options": [
+          "a. In a few weeks",
+          "b. In a few months",
+          "c. In a few years"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20231229-01",
     "type": "國小",
     "tag": [
