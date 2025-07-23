@@ -2009,5 +2009,116 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20230927-01",
+    "type": "國小",
+    "tag": [
+      "Climate Action",
+      "Life on Land",
+      "Environmental Education",
+      "Family Education",
+      "Character Education",
+      "Life Education",
+      "Multicultural Education",
+      "Outdoor Education",
+      "International Education",
+      "Social Studies",
+      "Natural Sciences",
+      "Health and Physical Education"
+    ],
+    "title": "Mr. Fritz Flies to Teach Birds",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230926NK.mp3",
+    "content": [
+      {
+        "en": "Can you teach birds where to fly? One man in Europe does that. But why does he do that?",
+        "tw": "你能教鳥類往哪裡飛嗎? 歐洲有個人就這麼做，為什麼呢?",
+        "time": null
+      },
+      {
+        "en": "Mr. Fritz worries about one kind of bird. There are not many of them. They live in Europe in the spring and summer. But the winter is cold there. So the birds fly to warm countries in the fall.",
+        "tw": "Fritz先生很擔心一種數量不多的鳥類。這種鳥在春天跟夏天住在歐洲，秋天會飛往溫暖的國家避冬。",
+        "time": null
+      },
+      {
+        "en": "But Europe is getting hotter. The birds stay one month longer. Then they fly to warm countries. They fly over tall mountains.",
+        "tw": "但歐洲現在越來越熱。那些鳥會多待一個月才會越過高山，飛往溫暖的國家。",
+        "time": null
+      },
+      {
+        "en": "But winter is coming. There's snow on the mountains. The birds can't find much food in the snow.",
+        "tw": "但冬天就快到了。高山上都是雪，牠們沒辦法找到足夠的食物。",
+        "time": null
+      },
+      {
+        "en": "The birds need to fly to warm countries. But they need to eat too! So Mr. Fritz teaches them where to fly. How does he do that? He flies a very small plane. The birds fly after him. But why do they do that?",
+        "tw": "牠們需要到溫暖的國家，但也需要食物! 所以Fritz先生開著一台小飛機，讓這些鳥跟著他。",
+        "time": null
+      },
+      {
+        "en": "Well, these birds know Mr. Fritz. They think he's their dad! The new way is long. But it doesn't go over mountains. The birds can find food!",
+        "tw": "這些鳥把Fritz先生當作鳥爸爸。雖然新的飛行路線很長，但不需要飛過高山。牠們就可以找到食物了!",
+        "time": null
+      },
+      {
+        "en": "Mr. Fritz flies to teach birds where to fly! Good job!",
+        "tw": "Fritz 先生飛行是為了教鳥類飛往何處！做得好！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "Fritz先生當鳥爸爸，帶領稀有鳥類飛越不同的路線。",
+      "content": [
+        {
+          "text": "1. winter 冬天\nWinter is the best season for traveling! 冬天是旅行最好的季節。\nThat's true if you're going to warm countries. 真的，假如你是去溫暖國家的話。\nLike Thailand. 比如說泰國。",
+          "time": null
+        },
+        {
+          "text": "2. snow 雪\nWhy? I like to see snow up on the mountains. 為什麼? 我喜歡在山上賞雪。\nIt's fun to dress in warm clothes in cold weather. 在冷天氣穿厚衣服很好玩。",
+          "time": null
+        },
+        {
+          "text": "3. Europe 歐洲\nSo you're thinking about Europe? 所以你在考慮歐洲?\nMaybe. I've always wanted to see Iceland. 也許吧，我一直想去看看冰島。",
+          "time": null
+        },
+        {
+          "text": "4. cold 寒冷的\nIceland is too cold! 冰島太冷了!\nIt would be a good place to be in summertime. 它夏天時會是個好地方。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like winter? Let's read the words.\nwinter冬天\nsnow雪\nEurope歐洲\ncold寒冷的"
+    },
+    "quiz": [
+      {
+        "question": "1. What does Mr. Fritz teach the birds?",
+        "options": [
+          "a. How to fly",
+          "b. Where to fly",
+          "c. When to fly"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Which is true about Mr. Fritz?",
+        "options": [
+          "a. He doesn't like birds.",
+          "b. He lives in the U.S.A.",
+          "c. He flies a small plane."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What is true about the new way?",
+        "options": [
+          "a. It is long.",
+          "b. It goes over mountains.",
+          "c. It has no food for birds to find."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
