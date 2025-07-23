@@ -902,6 +902,121 @@
     ]
   },
   {
+    "id": "20231012-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Peace, Justice and Strong Institutions",
+      "Law-related Education",
+      "Multicultural Education",
+      "Arts",
+      "Social Studies"
+    ],
+    "title": "Judge Says Artist Can't Take the Money and Run",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231011NK.mp3",
+    "content": [
+      {
+        "en": "Hey, news fans! Two years ago we told you about an artist named Haaning.",
+        "tw": "嘿，新聞迷們！兩年前我們告訴過你們一位名叫Haaning的藝術家。",
+        "time": null
+      },
+      {
+        "en": "Do you remember?",
+        "tw": "大家還記得藝術家 Haaning嗎?",
+        "time": null
+      },
+      {
+        "en": "You don't!? That's okay. Two years is a long time! Here, I'll help … A museum asked Haaning to make art. It wanted the art to show people's feelings about work.",
+        "tw": "你不記得嗎？！沒關係，兩年是很長的時間！來，我來幫你…一家博物館要求Haaning創作藝術。他們希望這件藝術品能展現人們對工作的感受。",
+        "time": null
+      },
+      {
+        "en": "People work to make money. So Haaning wanted money in his art. He didn't want to use paint or pencils. He wanted to use real money!",
+        "tw": "人們工作是為了賺錢。所以Haaning想在他的作品中使用錢。他不想使用顏料或鉛筆。他想用真的錢！",
+        "time": null
+      },
+      {
+        "en": "The museum lent Haaning money for his art. He got almost two and a half million Taiwan dollars!",
+        "tw": "博物館為他的藝術作品借給Haaning錢。他拿到了將近兩百五十萬台幣！",
+        "time": null
+      },
+      {
+        "en": "Then Haaning gave the museum his art. It showed... nothing! Where was the money?!",
+        "tw": "接著Haaning把他的作品交給了博物館。它什麼都沒展示！錢都到哪裡去了？",
+        "time": null
+      },
+      {
+        "en": "Haaning called his art \"Take the Money and Run\". That's what he did! He took the money and ran!",
+        "tw": "Haaning把他的作品命名為「拿了錢就跑」。他確實這麼做了！他拿了錢就跑了！",
+        "time": null
+      },
+      {
+        "en": "The museum put Haaning's art in a show. But it wanted its money back too. This year, a judge said Haaning has to give the money back. Haaning doesn't want to. He says taking the money was the art!",
+        "tw": "博物館展出了Haaning的作品。但他們也想要回他們的錢。今年，一位法官表示Haaning必須把錢還回去。Haaning不願意。他說拿走錢就是藝術本身！",
+        "time": null
+      },
+      {
+        "en": "Is the judge right? What do you think? Whose money is it? Haaning's or the museum's?",
+        "tw": "法官是對的嗎？你怎麼看？這是誰的錢？是Haaning的還是博物館的？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "拿錢就跑的藝術家，算不算是騙人?",
+      "content": [
+        {
+          "text": "1. art 藝術。\nI went to this art show last night… 我昨晚去看了藝術展。\nDid you buy any artwork? 有沒有買藝術作品?\nNo, but I did talk with some artists. 不過我有跟一些藝術家聊天。",
+          "time": null
+        },
+        {
+          "text": "2. make money 賺錢。\nThat's nice. 真不錯。\nYeah, and some of them told me they were making good money. 對，而且有些跟我說他們賺得不少。",
+          "time": null
+        },
+        {
+          "text": "3. dollar 元。\nI thought most artists were poor. 我以為大部分藝術家都很窮。\nI know, right? 我知道。But some could sell a painting at 500-thousand NT dollars. 但是他們有人一幅畫可以賣到五十萬台幣。\nWow!",
+          "time": null
+        },
+        {
+          "text": "4. tell 告訴。\nOne artist told me she got one million NT. 一位藝術家告訴我她賺了一百萬。\nOh, why did I stop my drawing lessons? 我怎麼會停止我的畫畫課?",
+          "time": null
+        }
+      ],
+      "postscript": "一起來讀單字。art藝術 make money賺錢 dollar元 tell告訴"
+    },
+    "quiz": [
+      {
+        "question": "1. What did Haaning want to make his art with?",
+        "options": [
+          "a. Paint",
+          "b. Pencils",
+          "c. Money"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did Haaning call his art?",
+        "options": [
+          "a. \"Lots of Money\"",
+          "b. \"Real Money\"",
+          "c. \"Take the Money and Run\""
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Who said Haaning had to give the money back?",
+        "options": [
+          "a. News fans",
+          "b. A judge",
+          "c. An artist"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20231020-01",
     "type": "國小",
     "tag": [
