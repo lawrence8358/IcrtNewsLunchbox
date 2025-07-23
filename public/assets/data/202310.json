@@ -1447,6 +1447,104 @@
     ]
   },
   {
+    "id": "20231019-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Multicultural Education",
+      "International Education",
+      "Natural Sciences"
+    ],
+    "title": "Bears Have Breakfast in Van",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20231018NK.mp3",
+    "content": [
+      {
+        "en": "Do you know that bears like sweet food? Bears like fruit and honey. What other sweet foods do bears like? They like donuts!",
+        "tw": "你知道熊喜歡吃甜食嗎?牠們喜歡吃水果跟蜂蜜，還有甜甜圈!",
+        "time": null
+      },
+      {
+        "en": "One morning, a mother bear and a baby bear were looking for food. They saw a van. The van was by a store. The van doors were open. No one was in the van. That's because the driver was taking donuts to the store.",
+        "tw": "有一天早上，一隻熊媽媽帶著小熊覓食。牠們看到一台裝著甜甜圈的貨車，不僅車門沒關也沒有人在車上，那是因為司機正在把甜甜圈拿進店裡。",
+        "time": null
+      },
+      {
+        "en": "There were more donuts in the van. The hungry bears smelled the sweet donuts. What happened next? That's right - the bears went into the van. They saw the donuts! The bears opened the donut boxes. They started to eat.",
+        "tw": "熊媽媽跟小熊爬進了貨車，打開盒子，開始吃甜甜圈。",
+        "time": null
+      },
+      {
+        "en": "Some people tried to make the bears go away. These people hit the van. But the bears didn't go. They ate more donuts! How many did they eat?",
+        "tw": "有一些人敲打貨車，試著趕走牠們，但是牠們沒有離開繼續吃甜甜圈。牠們吃了多少呢?",
+        "time": null
+      },
+      {
+        "en": "In 20 minutes, they ate about 100 small donuts and 36 big donuts! They had a big, sweet breakfast.",
+        "tw": "短短的20分鐘，牠們吃了100個小甜甜圈跟36個大甜甜圈，牠們吃了一頓大大的甜早餐。",
+        "time": null
+      },
+      {
+        "en": "The mother bear and the baby bear ate many donuts in the van. Will they go back for more sweet donuts? What do you think?",
+        "tw": "熊媽媽和小熊在貨車裡吃了許多甜甜圈。牠們會回去吃更多甜甜圈嗎？你覺得呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "飢餓的媽媽熊和寶寶，吃掉了一百多個甜甜圈。",
+      "content": [
+        {
+          "text": "1. breakfast 早餐\nOh, I'm so hungry now! 我現在好餓!\nI need something sweet for breakfast. 我需要吃點甜食當早餐。",
+          "time": null
+        },
+        {
+          "text": "2. store 商店\nI know just the place. 我知道恰好的地方。\nThis food store has delicious donuts.這家食品店有好吃的甜甜圈。\nDonuts! That's exactly what I want! 甜甜圈! 正是我想要的。",
+          "time": null
+        },
+        {
+          "text": "3. box 盒子\nIt also has boxes of cupcakes.它也有盒裝的杯子蛋糕。\nNo, cupcakes are too sweet.不，杯子蛋糕太甜了。\nI prefer donuts. 我比較喜歡甜甜圈。",
+          "time": null
+        },
+        {
+          "text": "4. go 去\nThere are honey, or chocolate, or strawberry donuts…\nStop! What are we waiting for? 停，我們在等什麼?\nLet's go! 走吧!",
+          "time": null
+        }
+      ],
+      "postscript": "Do you have breakfast every day?\nbreakfast早餐\nstore商店\nbox盒子\ngo去"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the bears eat in the van?",
+        "options": [
+          "a. Berries",
+          "b. Donuts",
+          "c. Honey"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many minutes did the bears eat?",
+        "options": [
+          "a. 20",
+          "b. 40",
+          "c. 60"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How did some people try to make the bears go away?",
+        "options": [
+          "a. They went into the van.",
+          "b. They ate donuts.",
+          "c. They hit the van."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20231020-01",
     "type": "國小",
     "tag": [
