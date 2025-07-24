@@ -1836,6 +1836,117 @@
     ]
   },
   {
+    "id": "20230324-01",
+    "type": "國小",
+    "tag": [
+      "Outdoor Education",
+      "Disaster Risk Reduction Education",
+      "Life Education",
+      "Energy Education",
+      "Environmental Education",
+      "Life on Land",
+      "Climate Action",
+      "Responsible Consumption and Production",
+      "Clean Water and Sanitation",
+      "Affordable and Clean Energy",
+      "Good Health and Well-Being",
+      "Natural Sciences"
+    ],
+    "title": "Ozone Layer Getting Better",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230323NK.mp3",
+    "content": [
+      {
+        "en": "Hi, students! I want to ask you a question. Do you know about pollution? Pollution means things like air or water are dirty. We get air pollution from many things, like cars.",
+        "tw": "Pollution 就是汙染。很多東西都會汙染空氣，像是汽車。",
+        "time": null
+      },
+      {
+        "en": "Pollution is bad. It causes a lot of problems. One problem is big: air pollution hurts the ozone layer. The ozone layer is above the earth and the clouds. You can't see it, but it helps us a lot.",
+        "tw": "空氣汙染會破壞臭氧層。臭氧層是在比雲還要高的地方，我們看不到它，但是它幫了我們很大的忙。",
+        "time": null
+      },
+      {
+        "en": "The ozone layer keeps us safe from the sun. We would be in big trouble without the ozone layer! We would have more problems with our skin. We would have more problems with our eyes too.",
+        "tw": "臭氧層幫我們抵擋太陽，沒有它，我們的皮膚跟眼睛都會受到傷害。",
+        "time": null
+      },
+      {
+        "en": "Air pollution made a hole in the ozone layer. That is very bad. But there is some good news. The ozone layer is getting better!",
+        "tw": "空氣汙染讓臭氧層破了一個洞，不過好消息是，它的情況正在好轉！",
+        "time": null
+      },
+      {
+        "en": "Think of it like this. You fall down. You get a cut on your skin. Then your skin gets better. It heals. The cut goes away.",
+        "tw": "有的時候你跌倒，皮膚會擦傷。然後它會慢慢地復原，傷口也就不見了。",
+        "time": null
+      },
+      {
+        "en": "Like your skin, the ozone layer is healing. The hole in the ozone layer is getting smaller.",
+        "tw": "臭氧層的狀況就像人類的皮膚，它的洞也在慢慢地變小。",
+        "time": null
+      },
+      {
+        "en": "That is great news! It's healing because the air is cleaner. Maybe one day, the hole in the ozone layer will go away.",
+        "tw": "這真是個好消息！它正在癒合是因為空氣更乾淨了。也許有一天，臭氧層的破洞會完全消失。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "大氣的臭氧層可以阻擋部分紫外線，保護地球上的生物。",
+      "content": [
+        {
+          "text": "1. heal 癒合\nYour wound is healing. 你的傷口正在癒合。\nIt looks smaller now. 它現在看起來比較小了。\nYeah, it hurt like crazy yesterday. 是啊，昨天還痛得要命。\nBut now it's getting better. 現在就好些了。",
+          "time": null
+        },
+        {
+          "text": "2. fall 跌倒\nI still can't believe you fell down the stairs. 我還是不相信你會從樓梯摔下來。\nI know, and hit my head on the cabinet. 我知道，並且還撞到櫃子。",
+          "time": null
+        },
+        {
+          "text": "3. help 幫忙\nI'm lucky to still have two eyes. 我很幸運還有兩隻眼睛。\nYou're lucky to have me help you with cooking. 你很幸運有我幫你做飯。",
+          "time": null
+        },
+        {
+          "text": "4. safe 安全的\nHow can I stay safe? 我怎樣才能保持安全？\nBy staying upstairs…? 就待在樓上嗎？",
+          "time": null
+        }
+      ],
+      "postscript": "今天學到哪些單字？\nheal 癒合\nfall 跌倒\nhelp 幫忙\nsafe 安全的"
+    },
+    "quiz": [
+      {
+        "question": "1. What does the ozone layer do?",
+        "options": [
+          "A: It makes the air dirty",
+          "B: It makes problems with our skin",
+          "C: It keeps us safe from the sun"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What made the hole in the ozone layer?",
+        "options": [
+          "A: Pollution",
+          "B: The sun",
+          "C: Clouds"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What is the great news about the ozone layer?",
+        "options": [
+          "A: It is getting bigger",
+          "B: It is not changing",
+          "C: It is healing"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20230325-01",
     "type": "國小",
     "tag": [
