@@ -104,6 +104,117 @@
     ]
   },
   {
+    "id": "20230602-01",
+    "type": "國小",
+    "tag": [
+      "Reading Literacy Education",
+      "Character Education"
+    ],
+    "title": "Kids in Jail in the USA",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230601NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: Guys! Listen up! Two kids were arrested! The police put them in jail!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "The kids were fighting in the street. They were running into each other. They were fighting with their heads!",
+        "tw": "有兩個小孩在路上用頭互撞的方式打架，被警察逮捕了！",
+        "time": null
+      },
+      {
+        "en": "Some people saw the fight. One person said the kids had \"been fighting all weekend\".",
+        "tw": "有人說那兩個小孩整個周末都在打架。",
+        "time": null
+      },
+      {
+        "en": "Some people were worried. They didn't want the kids to get hurt. So they called the police.",
+        "tw": "有人很擔心他們受傷，所以叫了警察。",
+        "time": null
+      },
+      {
+        "en": "The police came and pulled the kids apart. Police: Come on, you two!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Narrator: The kids were very angry! They wanted to keep fighting!",
+        "tw": "警察把他們拉開，但他們還是很生氣，想要繼續打架！",
+        "time": null
+      },
+      {
+        "en": "The police took them to the police station. The kids spent a night in jail.",
+        "tw": "他們被帶到警察局，在監獄裡面待了一個晚上。",
+        "time": null
+      },
+      {
+        "en": "The next day, their owner came and took them home. Wait! Their owner?! Kids don't have owners, do they? They have mothers and fathers and teachers… but no one owns them. Right?! Well, these kids have an owner. You see, they aren't people like you and me. These kids are goats! Yep! A 'kid' is a young goat…like a puppy is a young dog, and a kitten is a young cat!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "So, two young goats went to jail for fighting. Those are some baaaaaaad kids!",
+        "tw": "所以，兩隻小山羊因為打架進了監獄。這些是些很壞的小山羊！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "兩隻小山羊被關起來了，免得繼續打架。",
+      "content": [
+        {
+          "text": "1. get hurt 受傷\nCome on, boys, knock it off! 好啦，孩子們，該停止了！\nYou may get hurt! 你們可能會受傷。",
+          "time": null
+        },
+        {
+          "text": "2. fight 打架\nWhy do boys like fighting? 為什麼男生喜歡打架？\nI don't know. 我不知道。\nGirls fight too, but not with their fists. 女生也會，只是不用拳頭。\nYeah, girls fight with words. 對，女生用語言。",
+          "time": null
+        },
+        {
+          "text": "3. listen 注意聽\nThey say things to hurt each other. 她們說一些話傷害對方。\nSometimes people just need to listen. 有時候大家只要聆聽就好了。",
+          "time": null
+        },
+        {
+          "text": "4. angry 生氣的\nThey can't if they're very angry. 假如他們很生氣就做不到。\nRight, I can't when I'm angry. 對，我生氣的時候就沒辦法。",
+          "time": null
+        }
+      ],
+      "postscript": "大家一起來讀單字。\nget hurt 受傷\nfight 打架\nlisten 注意聽\nangry 生氣的"
+    },
+    "quiz": [
+      {
+        "question": "1. What do we call a young goat?",
+        "options": [
+          "a. A puppy",
+          "b. A kitten",
+          "c. A kid"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How long did the goats spend in jail?",
+        "options": [
+          "a. A weekend",
+          "b. A night",
+          "c. A month"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What were the goats fighting with?",
+        "options": [
+          "a. Their heads",
+          "b. Their hands",
+          "c. Their teachers"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  },
+  {
     "id": "20230605-01",
     "type": "國小",
     "tag": [
