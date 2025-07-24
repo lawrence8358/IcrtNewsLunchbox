@@ -110,6 +110,102 @@
     ]
   },
   {
+    "id": "20230502-01",
+    "type": "國小",
+    "tag": [
+      "Integrative Activities",
+      "Marine Education",
+      "Environmental Education",
+      "Life Below Water",
+      "Responsible Consumption and Production",
+      "Sustainable Cities and Communities",
+      "Industry, Innovation and Infrastructure"
+    ],
+    "title": "A New Tuna to Save Tuna Fish",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230501NK.mp3",
+    "content": [
+      {
+        "en": "I love tuna! My favorite food is tuna sushi. Tuna tastes good. It's a healthy food too.",
+        "tw": "我喜歡吃鮪魚壽司。鮪魚好吃又健康。",
+        "time": null
+      },
+      {
+        "en": "Many of us eat tuna. Fishermen catch the tuna we eat. They catch seven billion kilograms every year! That's a lot of tuna!",
+        "tw": "很多人都吃鮪魚，漁民每一年捕撈70億公斤的鮪魚！",
+        "time": null
+      },
+      {
+        "en": "But that's too much tuna. The number of tuna fish is smaller every year. That's not good. What happens when the number is too small? The number of fish cannot get big again. Restaurants and supermarkets won't have much tuna. Then one day there will be no tuna fish.",
+        "tw": "鮪魚的數量每一年都在減少，假如太少，鮪魚將沒有辦法再恢復到從前。未來世界上就沒有鮪魚了。",
+        "time": null
+      },
+      {
+        "en": "A new company wants to help tuna fish. How does it help? It makes tuna! How does it make tuna? The company uses plants! It uses peas, algae, and other food from plants. It doesn't use fish. It is plant-based tuna.",
+        "tw": "有一家公司想要幫助鮪魚，他們決定製作鮪魚肉！他們用豌豆、藻類，還有其他植物來製造素的鮪魚肉。",
+        "time": null
+      },
+      {
+        "en": "Maybe many of us can eat plant-based tuna. Then we can stop eating tuna fish. The number of tuna fish can get big again. Do you want to try this plant-based tuna? You can help save tuna fish too!",
+        "tw": "或許我們很多人都可以吃素鮪魚。這樣我們就能停止食用鮪魚。鮪魚的數量就能再次增加。你想試試這種素鮪魚嗎？你也可以幫助拯救鮪魚！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "鮪魚過度捕撈，有可能再也無法恢復。",
+      "content": [
+        {
+          "text": "1. eat 吃\nAre you eating potato chips again? 你又在吃洋芋片？\nJust a couple of pieces. 只吃兩片。\nYou know better than that. 你應該知道不該吃的。",
+          "time": null
+        },
+        {
+          "text": "2. healthy 健康的\nWell, I don't like healthy snacks. 我就不愛健康零食。\nAre you kidding? 開什麼玩笑? A lot of healthy food tastes great.\n很多健康食物很好吃的。",
+          "time": null
+        },
+        {
+          "text": "3. supermarket 超市\nYeah, like what? 是嘛，比如說什麼？\nLike pineapple. 比如說鳳梨。\nI don't see any pineapple here. 我在這兒沒看到鳳梨。\nThe supermarket is right next door! 隔壁超市就有啊！",
+          "time": null
+        },
+        {
+          "text": "4. try 嘗試\nIt's raining. I'll try going tomorrow. 現在下雨，我明天去試試看。\nOkay. Can I have some of your chips? 好吧。我可以吃一點你的洋芋片嗎？",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡吃什麼零食呢？\neat 吃\nhealthy 健康的\nsupermarket 超市\ntry 嘗試"
+    },
+    "quiz": [
+      {
+        "question": "1. How much tuna do fishermen catch every year?",
+        "options": [
+          "a. Seven billion kilograms",
+          "b. Seven billion tuna fish",
+          "c. Seven billion grams"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What happens when the number of tuna fish gets too small?",
+        "options": [
+          "a. It is healthy",
+          "b. It can't get big again",
+          "c. We can eat more tuna"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What kind of tuna does the new company make?",
+        "options": [
+          "a. Fish-based",
+          "b. Plant-based",
+          "c. Tuna-based"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20230503-01",
     "type": "國小",
     "tag": [
