@@ -1,5 +1,105 @@
 [
   {
+    "id": "20230213-01",
+    "type": "國小",
+    "tag": [
+      "Life Education"
+    ],
+    "title": "Years of Historic Radio Saved",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230210NK.mp3",
+    "content": [
+      {
+        "en": "Today is World Radio Day! The first radios were made over 100 years ago!",
+        "tw": "今天是世界收音機日！世界上第一個收音機出現在一百多年前！",
+        "time": null
+      },
+      {
+        "en": "Radios meant that, for the first time, people could sit in their homes and listen to someone talk miles away. We're used to it now with TV and the internet, but at the time it was all cool and new!",
+        "tw": "有收音機代表大家可以坐在家，就可以聽到遠方的人們在講話，這在當時是很新奇的發明。",
+        "time": null
+      },
+      {
+        "en": "In the old days radio shows were kept on \"tapes\": long, thin lines of plastic. When they broke, the shows were gone forever. Today radio shows are kept on computers, so they can be kept safe.",
+        "tw": "以前的收音機節目都保存在錄音磁帶上，如果壞掉，節目就永遠不見了。現在的收音機節目都好好地存在電腦裡面。",
+        "time": null
+      },
+      {
+        "en": "In New Mexico, USA, they've been working super hard, taking old radio shows from tapes and putting them on computers.",
+        "tw": "美國的新墨西哥州，有人努力把以前存在磁帶上的節目轉存到電腦裡面。",
+        "time": null
+      },
+      {
+        "en": "They're special shows, because they tell us about how people in New Mexico used to live. We can hear all about what they liked, where they went… all kinds of things! They help us learn the history of New Mexico.",
+        "tw": "這些節目很特別，可以讓我們知道當地人以前都怎麼樣過生活，也可以學習當地的歷史。",
+        "time": null
+      },
+      {
+        "en": "They also tell us about who lived there. Not just American folk, but people from other countries too. They've put so many great shows online, full of old music, stories, funny jokes, cool chats, and lots, lots more!",
+        "tw": "節目還有音樂、故事、笑話、聊天等有趣的內容。",
+        "time": null
+      },
+      {
+        "en": "Why not check some out for yourself, and hear the history of New Mexico!",
+        "tw": "何不自己去查查，聽聽新墨西哥州的歷史呢！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "富有歷史價值的廣播節目，現在可以轉存進電腦裡。",
+      "content": [
+        {
+          "text": "1. listen 聆聽\nAre you listening to podcasts? 你在聽播客嗎？\nNo, I'm listening to the radio. 不是，我在聽廣播。\nWow, I didn't know people still do that. 哇，我不知道現在還有人聽廣播。",
+          "time": null
+        },
+        {
+          "text": "2. joke 笑話\nI do. 我聽。\nAnd this show is great! 而且這個節目很棒。\nThe host tells all kinds of jokes. 主持人會講各種笑話。\nHmmm, I love jokes. 我很喜歡笑話。",
+          "time": null
+        },
+        {
+          "text": "3. check out 試試看\nI'll tell you one I just heard. 我說一個剛剛聽到的。\nWhat's my dog's favorite radio station? 我的狗狗最喜歡哪一家廣播電台？\nW-A-L-K. 散步。\nSee? You have to check it out. 你一定要聽聽看。",
+          "time": null
+        },
+        {
+          "text": "4. computer 電腦\nOkay, I'll find it on my computer. 好，我會在我的電腦上找到它。",
+          "time": null
+        }
+      ],
+      "postscript": "你現在聽的，就是廣播喔。\nlisten 聆聽\njoke 笑話\ncheck out 試試看\ncomputer 電腦"
+    },
+    "quiz": [
+      {
+        "question": "1. When were the first radios made?",
+        "options": [
+          "A: Over 100 years ago",
+          "B: Under 100 years ago",
+          "C: Around 100 years ago"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "2. Where were radio shows kept in the old days?",
+        "options": [
+          "A: On computers",
+          "B: On TV",
+          "C: On tapes"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "3. Which U.S. state has been saving old radio shows?",
+        "options": [
+          "A: New Mexico",
+          "B: New York",
+          "C: New Jersey"
+        ],
+        "time": null,
+        "answer": "A"
+      }
+    ]
+  },
+  {
     "id": "20230214-01",
     "type": "國小",
     "tag": [
