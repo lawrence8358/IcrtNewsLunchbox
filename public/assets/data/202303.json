@@ -96,6 +96,121 @@
     ]
   },
   {
+    "id": "20230302-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Life on Land",
+      "Character Education",
+      "Life Education",
+      "Reading Literacy Education",
+      "International Education"
+    ],
+    "title": "Boy Hopes to Have Book Published",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230301NK.mp3",
+    "content": [
+      {
+        "en": "Oh, hey there! Let me get out of here first so I don't bother anybody.",
+        "tw": "我先離開這裡，才不會吵到人家。",
+        "time": null
+      },
+      {
+        "en": "Okay, now I can speak more loudly. I was just in the library reading a book. Reading is one of my favorite things to do to pass the time. It's my favorite hobby.",
+        "tw": "我剛剛在圖書館看書，這是我最大的嗜好。",
+        "time": null
+      },
+      {
+        "en": "I love reading fantasy stories and imagining the characters' adventures in my head.",
+        "tw": "奇幻故事是我最喜歡的。",
+        "time": null
+      },
+      {
+        "en": "I have always wanted to write my own book, but writing is hard!",
+        "tw": "我也想自己寫書，但是寫作好難喔！",
+        "time": null
+      },
+      {
+        "en": "It's not so hard for a talented little boy named Jayce though. Jayce was only three years old when he started writing. That's impressive!",
+        "tw": "不過對於 Jayce 來說，寫作不難，他三歲就開始寫了。",
+        "time": null
+      },
+      {
+        "en": "Now, Jayce is four years old, and he has already written two books!",
+        "tw": "現在他才四歲，已經寫了兩本書耶！",
+        "time": null
+      },
+      {
+        "en": "These books are being published this March. They are called \"A Beach With No Sea\" and \"Jayce's Sweet Tooth\". The stories are about Jayce's trips to the park, museum and zoo.",
+        "tw": "這兩本書叫做「沒有海的海灘」跟「Jayce 愛吃糖」，講的是他去公園、博物館，跟動物園的故事，三月會出版。",
+        "time": null
+      },
+      {
+        "en": "Those sound like fun books to read! I don't think I have ever read a book written by a four year old boy before.",
+        "tw": "聽起來很有趣！我以前從來沒有看過四歲小孩寫的書。",
+        "time": null
+      },
+      {
+        "en": "And, great news: today is World Book Day! So grab a book and start reading! Or maybe you could write one yourself!",
+        "tw": "好消息是：今天是世界圖書日！所以拿起一本書開始閱讀吧！或者你也可以自己寫一本！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "四歲小孩已經是兩本書的作者，夠厲害了！",
+      "content": [
+        {
+          "text": "1. adventure 探險\nI want to write a book for children. 我要寫一本童書。\nReally? What's it about? 真的喔，講什麼呢？\nAbout a crocodile going on an adventure in Paris. 講一隻鱷魚在巴黎探險。",
+          "time": null
+        },
+        {
+          "text": "2. fun 好玩的\nHmmm, that sounds like a lot of fun! 聽起來很好玩！\nIt is. It's a fun book. 是很好玩。是一本好玩的書。\nBut I feel I've read it before. 可是我覺得我以前看過。",
+          "time": null
+        },
+        {
+          "text": "3. start 開始\nImpossible. 不可能。\nI haven't started writing it. 我還沒開始寫呢。\nPerhaps someone else has? 也許別人寫過了？",
+          "time": null
+        },
+        {
+          "text": "4. story 故事\nAnyway, the story was called \"Mr. Crocodile in Paris.\"\nWow, that should be my story. 哇，那應該是我的故事。\nIt's already written. 已經寫出來了。",
+          "time": null
+        }
+      ],
+      "postscript": "請注意，要讀單字了。\nadventure 探險\nfun 好玩的\nstart 開始\nstory 故事"
+    },
+    "quiz": [
+      {
+        "question": "1. How old is the boy in this story?",
+        "options": [
+          "a. Three",
+          "b. Four",
+          "c. Five"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What does he like to do?",
+        "options": [
+          "a. Write",
+          "b. Sing",
+          "c. Run"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many books has he written?",
+        "options": [
+          "a. Two",
+          "b. Three",
+          "c. None"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  },
+  {
     "id": "20230303-01",
     "type": "國小",
     "tag": [
