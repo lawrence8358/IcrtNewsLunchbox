@@ -842,6 +842,88 @@
     ]
   },
   {
+    "id": "20230313-01",
+    "type": "國小",
+    "tag": [
+      "Family Education",
+      "Life on Land",
+      "Natural Sciences"
+    ],
+    "title": "How Do Dogs Use Their Tails?",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20230310NK.mp3",
+    "content": [
+      {
+        "en": "This dog looks happy. He is wagging his tail. But I wonder... Why do dogs have a tail? What does the tail do?",
+        "tw": "這隻狗狗正在搖尾巴，牠看起來很開心。 但為什麼狗狗有尾巴呢？ 尾巴有什麼功能？",
+        "time": null
+      },
+      {
+        "en": "Recently, some scientists in Germany asked the same question. They wanted to know what a dog's tail is for. They saw how other animals use their tails. Lizards use their tails to jump. Cats use their tails to turn quickly.",
+        "tw": "德國科學家最近也在問這個問題。他們看到蜥蜴用尾巴來跳躍，貓用尾巴快速轉身。",
+        "time": null
+      },
+      {
+        "en": "In other words, many animals use their tails to help them move.",
+        "tw": "換句話說，很多動物用它們的尾巴來幫助它們移動。",
+        "time": null
+      },
+      {
+        "en": "After that, the scientists came up with an idea. The scientists thought dogs may also use their tails this way.",
+        "tw": "科學家們認為狗狗也是這樣。",
+        "time": null
+      },
+      {
+        "en": "Next, they had to see if their idea was right. To do this, the scientists studied many dogs to see how they move. Then they used what they learned to make a computer model of a dog.",
+        "tw": "然後，他們研究了許多狗狗的移動方式，用那些資訊做出狗狗的電腦模擬。",
+        "time": null
+      },
+      {
+        "en": "They studied the computer model, and in the end they had an answer... Their idea was wrong! Dogs' tails do not help dogs move.",
+        "tw": "結果科學家發現他們的假設錯了！狗尾巴不是用來協助牠們動作。",
+        "time": null
+      },
+      {
+        "en": "Who's a good boy? You're a good boy! So why do dogs have tails? Maybe dogs use their tails to show their feelings. The scientists are still not sure, but now they are closer to finding out!",
+        "tw": "誰是個乖孩子？你是個乖孩子！那為什麼狗狗有尾巴呢？也許狗狗用牠們的尾巴來表達牠們的感受。科學家們仍然不確定，但現在他們離找到答案更近了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "狗尾巴應該有多重用途，科學家正在研究。",
+      "content": [
+        {
+          "text": "1. question 問題\nA student of mine asked me a question. 我一個學生問了我一個問題。\nShe said, \"What are jokes for?\" 她說，笑話是做什麼用的？",
+          "time": null
+        },
+        {
+          "text": "2. come up with 提出，想出來\nThat's a very good question! 那是個很好的問題！\nSo what answer did you come up with? 所以你提出什麼答案呢？",
+          "time": null
+        },
+        {
+          "text": "3. find out 尋找\nWell, I said to her, \"Let's find out.\" 我跟她說，我們來找答案。\nThen I told her a joke. 然後我講了一個笑話。\nAnd she laughed so hard that in the end she needed to sit down.",
+          "time": null
+        },
+        {
+          "text": "4. happy 快樂的\nNow she knows what jokes are for. 現在她知道笑話的功用了。\nShe does. She said it's for making people happy. 對，她說笑話是讓大家高興的。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like jokes? 來讀單字。 question 問題 come up with 提出 find out 尋找 happy 快樂的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where were the scientists?",
+        "options": [
+          "A: Japan",
+          "B: Taiwan",
+          "C: Germany"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20230314-01",
     "type": "國小",
     "tag": [
