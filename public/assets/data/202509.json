@@ -1,0 +1,94 @@
+ [
+  {
+    "id": "20250901-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Quality Education",
+      "Health and Physical Education"
+    ],
+    "title": "Good Health for Back to School",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250829NK.mp3",
+    "content": [
+      {
+        "en": "It's back to school for you! But! It's also back to catching colds... More sneezing and coughing are around you! But there are many ways to stay healthy.",
+        "tw": "嘿!該是你們回學校上課的時候囉! 但是隨著開學，越來越多身邊的人咳嗽和打噴嚏，你們也更加容易感冒，不過，有很多保持健康的好方法哦。",
+        "time": null
+      },
+      {
+        "en": "Listen up! What's the first thing to do before you eat? Well, you wash your hands! Using soap is important. You can't see the germs and viruses on your hands. But germs and viruses can make you sick. Water doesn't kill them... Soap kills them! When there's no soap and water, find some hand sanitizer.",
+        "tw": "聽著，吃飯前該做的第一件事情是什麼呢? 就是用肥皂洗手! 你看不到讓你生病的細菌和病毒，所以要用肥皂或是乾洗手消滅它們!",
+        "time": null
+      },
+      {
+        "en": "Next, eat healthy foods! Vegetables, fruits, and whole grains are good for you. Don't be picky! Take a bite of broccoli. One bite is better than no broccoli!",
+        "tw": "下一步就是要吃健康的食物! 蔬菜、水果還有全榖根莖類都會幫助你，不要挑剔唷! 咬一口花椰菜吧! 總比都沒有吃花椰菜來的好。",
+        "time": null
+      },
+      {
+        "en": "Finally, at the end of the day, it's bedtime. Thirty minutes before bedtime, turn off your TV and your computer. Put away your phone. That can help you sleep better. Get lots of sleep. Your body needs to rest and get ready for a new day!",
+        "tw": "最後，到了睡覺時間! 睡前 30 分鐘要關上電視、電腦，還有把手機拿開，這可以幫助你睡得更好，讓身體休息並為隔天做準備。",
+        "time": null
+      },
+      {
+        "en": "Wash your hands, eat healthy foods, and get lots of sleep, okay? Stay healthy out there, kids! Now, with clean hands, eat lunch!",
+        "tw": "洗手、吃健康的食物，並獲得充足的睡眠，好嗎？ 孩子們，保持健康！ 現在，洗乾淨手，吃午餐吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "開學了，正是培養健康生活習慣的好時機。",
+      "content": [
+        {
+          "text": "1. bite 咬。 Wow, what's this? 哇，這是什麼? Shrimp cooked with peas.蝦仁炒豌豆。 Here, take a bite. 來吃一口。 Hmmm, this is really tasty! 這真好吃! Yeah? You like it? 是嗎? 你很喜歡?",
+          "time": null
+        },
+        {
+          "text": "2. healthy 健康的。 I sure do.我很喜歡。 Good! It's easy to cook, and very healthy too. 真好，它很容易做，又很健康。 Low in calories.熱量又低。",
+          "time": null
+        },
+        {
+          "text": "3. better than 比什麼好。 Can I have more? 我可以再多吃一點嗎? Of course, you can have half of it.當然，你可以吃一半。 This is definitely better than hamburgers. 這絕對比漢堡好。",
+          "time": null
+        },
+        {
+          "text": "4. picky 挑剔的。 You're not picky, are you? 你不挑剔，對吧? Not at all. I'll eat whatever dishes you make. 一點也不，你做什麼我都吃。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you eat vegetables every day? 來一起讀單字。 bite咬 healthy健康的 better than比什麼好 picky挑剔的"
+    },
+    "quiz": [
+      {
+        "question": "1. When is washing your hands the first thing to do?",
+        "options": [
+          "a. Before you eat",
+          "b. When you eat",
+          "c. After you eat"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What is good for you to eat?",
+        "options": [
+          "a. Hand sanitizer",
+          "b. Vegetables",
+          "c. Viruses"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What is good to do thirty minutes before bedtime?",
+        "options": [
+          "a. Put away your phone",
+          "b. Eat lots of fruit",
+          "c. Wash your hands"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  }
+]
