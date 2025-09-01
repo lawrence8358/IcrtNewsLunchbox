@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20250901-01",
     "type": "國小",
@@ -85,6 +85,109 @@
           "a. Put away your phone",
           "b. Eat lots of fruit",
           "c. Wash your hands"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  },
+  {
+    "id": "20250902-01",
+    "type": "國小",
+    "tag": [],
+    "title": "The Smartest Orangutan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250901NK.mp3",
+    "content": [
+      {
+        "en": "Orangutans are smart apes. Sadly, there aren't many of them. Their rainforest homes are getting too small. They live in Indonesia and Malaysia. These countries are south of Taiwan.",
+        "tw": "紅毛猩猩是聰明的人猿。可惜牠們越來越少，因為居住的雨林越來越小。牠們住在東南亞國家印尼跟馬來西亞。",
+        "time": null
+      },
+      {
+        "en": "Did you know orangutan means \"forest person\"? They live in trees. Their long arms help them go from tree to tree!",
+        "tw": "orangutan 的意思是「森林裡的人」。牠們就住在森林裡，長長的手臂可以讓牠們在樹跟樹之間擺盪。",
+        "time": null
+      },
+      {
+        "en": "One day, two orangutans had a fight. One orangutan's cheek got a big wound. Ouch!",
+        "tw": "有一天，兩隻紅毛猩猩打架，其中一隻的臉頰上出現很大的傷口。",
+        "time": null
+      },
+      {
+        "en": "Scientists saw him get some leaves. He chewed them. But he didn't eat them. He made juice... in his mouth!",
+        "tw": "科學家看到這隻紅毛猩猩採了葉子，牠沒有吃下去而是咀嚼，把葉子的汁液留在嘴巴裡。",
+        "time": null
+      },
+      {
+        "en": "He put the juice on his wound. Then he put the chewed leaves on the wound. The leaves were like a bandage!",
+        "tw": "牠把汁液敷在傷口上，再把嚼過的葉子當繃帶保護傷口。",
+        "time": null
+      },
+      {
+        "en": "The next day, the scientists saw him get new leaves. He put juice and chewed leaves on his wound again. His wound got better!",
+        "tw": "隔天科學家又看到牠做同樣的事，而且牠的傷口好多了。",
+        "time": null
+      },
+      {
+        "en": "The scientists were surprised! They had watched orangutans for twenty years. But they did not see other orangutans do this. How did this orangutan learn? The scientists don't know.",
+        "tw": "科學家很驚訝，他們觀察紅毛猩猩20年，從來沒有看過這種行為。那這隻紅毛猩猩從哪裡學的呢? 他們也不知道。",
+        "time": null
+      },
+      {
+        "en": "But the scientists are happy. Maybe people will care about orangutans now! How about you?",
+        "tw": "但科學家很高興。或許現在人們會關心紅毛猩猩了！你呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "紅毛猩猩懂得用植物來醫治傷口，這可聰明了!",
+      "content": [
+        {
+          "text": "1. country 國家.\nWhich country has the most orangutans? 哪個國家有最多紅毛猩猩?\nLet's see… Brazil? 我想想看。巴西嗎?\nIt has the biggest rainforest. 它有最大的雨林.",
+          "time": null
+        },
+        {
+          "text": "2. forest 森林.\nNope. Guess again. 不對，再猜。\nThey do live in forests, right? 牠們確實住在森林裡吧?\nThat's right. 對。\nThen Thailand. 那是泰國.",
+          "time": null
+        },
+        {
+          "text": "3. smart 聰明的.\nNo, no. But you're getting closer.不對，不過靠近了。\nOkay, this is my last try. Myanmar. 好吧，這是最後一次猜。緬甸。\nYou're smart, but still no. 真聰明，但還是錯了.",
+          "time": null
+        },
+        {
+          "text": "4. ape 猿猴.\nTell me.告訴我。\nI'll let you find it out. 我讓你自己找。\nThose apes…Where can they go? 那些猿猴能去哪兒?",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記得嗎? country國家 forest森林 smart聰明的 ape猿猴"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do orangutans live?",
+        "options": [
+          "a. Indonesia",
+          "b. India",
+          "c. England"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How did the orangutan's cheek get a wound?",
+        "options": [
+          "a. He fell from a tree.",
+          "b. He ate too much.",
+          "c. He was in a fight."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did the orangutan do with the leaves?",
+        "options": [
+          "a. He chewed them.",
+          "b. He ate them.",
+          "c. He drank them."
         ],
         "time": null,
         "answer": "a"
