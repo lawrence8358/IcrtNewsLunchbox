@@ -193,5 +193,128 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20250903-01",
+    "type": "國小",
+    "tag": [
+      "Safety Education",
+      "Character Education",
+      "Family Education",
+      "Responsible Consumption and Production"
+    ],
+    "title": "Boy Gets Stuck in Claw Machine",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250902NK.mp3",
+    "content": [
+      {
+        "en": "I'm at an arcade!",
+        "tw": "我人在遊樂場！",
+        "time": null
+      },
+      {
+        "en": "They have lots of driving games! But they make me carsick.",
+        "tw": "我人在遊樂場，這裡有好多賽車遊戲，但我會暈車。",
+        "time": null
+      },
+      {
+        "en": "Look! Over there! They have fighting games! Ugh… they're too scary for me!",
+        "tw": "還有槍戰遊戲，但我覺得有一點恐怖。",
+        "time": null
+      },
+      {
+        "en": "I know! I'm going over there to the claw machines!",
+        "tw": "我知道了！我要去那邊玩夾娃娃機！",
+        "time": null
+      },
+      {
+        "en": "Do you know what a claw machine is? Taiwan has lots!",
+        "tw": "你知道夾娃娃機是什麼嗎？台灣有很多！",
+        "time": null
+      },
+      {
+        "en": "A claw machine looks like a big glass box. There's always a prize in it! The prize can be a toy, candy, or sometimes something expensive! Players can win a cell phone from some claw machines!",
+        "tw": "我要去玩夾娃娃機。它像個大玻璃櫃，獎品有玩具、糖果，還可能有很貴的東西，像是手機！",
+        "time": null
+      },
+      {
+        "en": "To win a prize, a player picks it up with a claw. The claw is a metal robot hand. Picking up the prize sounds easy doesn't it? But it's very hard!",
+        "tw": "你需要控制金屬爪子去夾獎品，聽起來很簡單，其實不容易。",
+        "time": null
+      },
+      {
+        "en": "A boy played a claw machine. But he didn't win. What did he do then? He climbed inside it. He wanted to take the prize!",
+        "tw": "一個男孩玩夾娃娃機，但他沒有夾到。然後他做了什麼？他爬了進去，他想要拿走獎品！",
+        "time": null
+      },
+      {
+        "en": "But then the boy got stuck in the claw machine!",
+        "tw": "有一個男孩夾不到獎品，就爬進娃娃機裡面，結果卡在裡面出不來！",
+        "time": null
+      },
+      {
+        "en": "Some people got him out safely. But now he cannot play that claw machine for one whole year!",
+        "tw": "後來大家把他安全救出來，但是他一整年不能再玩夾娃娃機了。",
+        "time": null
+      },
+      {
+        "en": "Hmm … I want a prize too. But I won't climb inside! I'll play the right way… wish me luck!",
+        "tw": "嗯…我也想要一個獎品。但我不會爬進去！我會用正確的方式玩…祝我好運！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "夾不到獎品的小男孩，乾脆爬進夾娃娃機的玻璃櫃裡。",
+      "content": [
+        {
+          "text": "1. prize 獎品。\nWait, I want to play this one. 等一下，我要玩這個。\nYou're such a child, Paz. 你真是個小孩。\nLook at all these prizes. 你看這些獎品。\nThey are so much fun! 都很好玩呢.",
+          "time": null
+        },
+        {
+          "text": "2. toy 玩具。\nThey are just cheap toys. 它們都只是些便宜玩具。\nYou're not still playing with toys, are you? 你沒有在玩玩具了吧?",
+          "time": null
+        },
+        {
+          "text": "3. pick up 撿起來。\nI am. And I like cheap toys. 我有，我喜歡便宜玩具。\nNow I have to pick up this car. 現在我一定要夾這個汽車.",
+          "time": null
+        },
+        {
+          "text": "4. over there 在那裏。\nOh no! Why is it so hard? 糟糕，怎麼這麼難?\nCome on. Let me buy you ice cream at the store over there.\n來吧，我請你到那邊店裡吃冰淇淋.",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡玩夾娃娃機嗎?\nprize獎品\ntoy玩具\npick up撿起來\nover there在那裏"
+    },
+    "quiz": [
+      {
+        "question": "1. What does a claw machine look like?",
+        "options": [
+          "A: A driving game",
+          "B: Some candy",
+          "C: A big glass box"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What is always inside a claw machine?",
+        "options": [
+          "A: A boy",
+          "B: A prize",
+          "C: An arcade"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. When can the boy play the claw machine again?",
+        "options": [
+          "A: One week",
+          "B: One month",
+          "C: One year"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
