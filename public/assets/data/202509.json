@@ -316,5 +316,105 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20250904-01",
+    "type": "國小",
+    "tag": [
+      "Natural Sciences"
+    ],
+    "title": "Mercury's Diamonds",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250903NK.mp3",
+    "content": [
+      {
+        "en": "Space looks empty! What's out there? Well, there are planets, moons, stars, and more. Are there aliens? Hmmmm ... Are there diamonds? Yes, you heard that right: diamonds!",
+        "tw": "太空看起來空蕩蕩的，有些什麼東西呢? 有行星、衛星、恆星等等。會有外星人嗎?還是鑽石?",
+        "time": null
+      },
+      {
+        "en": "Scientists are studying Mercury. Mercury is the closest planet to the sun. It has a lot of carbon. It's gray because of carbon. There's carbon inside Mercury too.",
+        "tw": "科學家研究離太陽最近的水星，發現它有很多碳，地底下也有，所以水星是灰色的。",
+        "time": null
+      },
+      {
+        "en": "What happens when carbon is pressed very hard in a very hot place? Diamonds are made!",
+        "tw": "碳在溫度極高的地方被緊緊擠壓，會發生什麼事? 會變成鑽石。",
+        "time": null
+      },
+      {
+        "en": "Billions of years ago, Mercury was very hot. The carbon inside Mercury was pressed very hard. So scientists think maybe diamonds were made. They think the diamonds are in a layer.",
+        "tw": "幾十億年前，水星的溫度非常高，碳又在高壓狀態。科學家認為水星的一個地層裡面可能蘊藏了很多鑽石。",
+        "time": null
+      },
+      {
+        "en": "The diamond layer is very thick. Scientists think it is fifteen to eighteen kilometers thick! That's a lot of diamonds! But don't get too excited! We can't wear these diamonds.",
+        "tw": "鑽石層非常厚，科學家認為大約有15到18公里的厚度，那可是很多很多的鑽石哦。但是先別高興，我們沒辦法佩戴這些鑽石。",
+        "time": null
+      },
+      {
+        "en": "These diamonds are five hundred kilometers deep down inside Mercury. We can't get them.",
+        "tw": "因為這些鑽石埋在水星地底下深達500公里，我們拿不到。",
+        "time": null
+      },
+      {
+        "en": "Learning about Mercury's diamonds helps scientists learn about other planets. What more will they find?",
+        "tw": "了解水星的鑽石有助於科學家了解其他行星。他們還會發現什麼呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "水星上也許有數不清的鑽石，但是距離地球人太遙遠了",
+      "content": [
+        {
+          "text": "1. wear 穿戴。\nThat's a beautiful ring! 好漂亮的戒指!\nThis is the first time I see you wearing it. 這是我第一次看你戴。\nYeah, it's from my boyfriend. 是啊，我男朋友送的。",
+          "time": null
+        },
+        {
+          "text": "2. excited 興奮的。\nA diamond ring from him?! 他送鑽戒?!\nYeah, I got very excited when he gave it to me. 對啊，他送我時我好興奮呢!",
+          "time": null
+        },
+        {
+          "text": "3. think 想。\nSo did he propose? 所以他有求婚嗎?\nNot yet. 還沒有。\nWhat's he waiting for? 他在等什麼?\nI think he wants to buy a house first. 我想他要先買房子。",
+          "time": null
+        },
+        {
+          "text": "4. carbon 碳。\nWell, a diamond is a diamond. 鑽石總是鑽石。\nYeah, although it's just hard-pressed carbon. 對，雖然它只是被用力擠壓的碳。",
+          "time": null
+        }
+      ],
+      "postscript": "請注意，來一起讀今天的單字。wear穿戴 excited興奮的 think想 carbon碳"
+    },
+    "quiz": [
+      {
+        "question": "1. What is Mercury closest to?",
+        "options": [
+          "a. The earth",
+          "b. The sun",
+          "c. Mars"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What are diamonds made from?",
+        "options": [
+          "a. Stars",
+          "b. Air",
+          "c. Carbon"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Why can't we get the diamonds inside Mercury?",
+        "options": [
+          "a. They're fifty centimeters deep.",
+          "b. They're fifteen meters deep.",
+          "c. They're five hundred kilometers deep."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
