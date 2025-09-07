@@ -519,5 +519,107 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20250908-01",
+    "type": "國小",
+    "tag": [
+      "智慧型手機",
+      "科技",
+      "高齡學習"
+    ],
+    "title": "Learning How to Use a Phone",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250905NK.mp3",
+    "content": [
+      {
+        "en": "What did you do when you got your first smartphone? Did you read about how to use it? Did you ask someone for help?",
+        "tw": "第一次有智慧型手機時，你做了什麼？有人教你嗎?",
+        "time": null
+      },
+      {
+        "en": "Or, maybe you didn't need any help! Maybe you saw your mom or dad use their phones and learned.",
+        "tw": "還是你看爸媽怎麼用就學會了呢?",
+        "time": null
+      },
+      {
+        "en": "But many older people don't know how to use smartphones. They don't know about apps. Their children and grandchildren can't text or video call them. This makes them sad.",
+        "tw": "但是，很多長輩不知道怎麼使用手機。不會用手機講話或跟家人視訊，讓他們很難過。",
+        "time": null
+      },
+      {
+        "en": "But India has a program. It teaches people how to use smartphones.",
+        "tw": "印度現在有一堂課在教大家怎麼用手機！",
+        "time": null
+      },
+      {
+        "en": "The oldest student is 105 years old. He started one year ago. Before, he read the news in newspapers. And he could not video call his family.",
+        "tw": "有一位學生已經105歲了！他一年前才開始上這堂課，他以前沒辦法在手機上看新聞或是跟家人視訊。",
+        "time": null
+      },
+      {
+        "en": "Now he watches the news online. And he knows how to video call his family! This makes him happy!",
+        "tw": "上了這堂課之後，他不但能跟家人視訊，也會上線看新聞！",
+        "time": null
+      },
+      {
+        "en": "It's International Literacy Day today! Literacy is about reading. It's about using smartphones to read and do other things too! Using a smartphone helps this man. Can you teach someone how to use one? Share what you know and help them!",
+        "tw": "今天是國際掃盲日！掃盲是關於閱讀。它也關乎使用智慧型手機閱讀和做其他事情！使用智慧型手機對這位男士很有幫助。你能教別人如何使用它嗎？分享你所知道的並幫助他們！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "智慧型手機功能眾多，其實大家都需要學習。",
+      "content": [
+        {
+          "text": "1. newspaper 報紙。\nMy newspapers didn't arrive this morning. 我的報紙今天早上沒來。\nYou're still reading print newspapers?! 你還在看紙本的報紙喔?\nYeah, it's easier for me. 是，對我來說比較簡單。",
+          "time": null
+        },
+        {
+          "text": "2. online 線上。\nBut you can read news online. 但是你可以上網看新聞。\nJust get an app. 下載一個應用程式。",
+          "time": null
+        },
+        {
+          "text": "3. need 需要。\nI tried but I needed help from my children. 我有試，但是需要孩子幫忙。Did they help? 他們有幫上忙嗎?\nNo, they said I could ask my grandchildren. 沒有，他們說我可以去問孫子孫女。",
+          "time": null
+        },
+        {
+          "text": "4. learn 學習。\nYou know you can learn from AI, right? 你知道可以跟AI學吧?\nWill it teach me step by step? 會一步一步教我嗎?\nYeah, it will. 會。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很簡單。\nnewspaper報紙 online線上 need需要 learn學習"
+    },
+    "quiz": [
+      {
+        "question": "1. How old is the oldest student in India's program?",
+        "options": [
+          "a. 75",
+          "b. 100",
+          "c. 105"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. When did the man start the program?",
+        "options": [
+          "a. One week ago",
+          "b. One month ago",
+          "c. One year ago"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Where does the man get the news from now?",
+        "options": [
+          "a. Newspapers",
+          "b. Online",
+          "c. Radio"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
