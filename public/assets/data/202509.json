@@ -621,5 +621,118 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20250909-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Environmental Education",
+      "Safety Education",
+      "Outdoor Education"
+    ],
+    "title": "Killer Frog Cancelled in North Carolina",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250908NK.mp3",
+    "content": [
+      {
+        "en": "Guys! Be careful… That’s an African clawed frog! That thing’s a killer! RUN!!! …",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "Phew! Those frogs are very scary! They eat any animal they can. ANY animal!",
+        "tw": "這是非洲爪蛙，牠們很恐怖，什麼動物都吃。",
+        "time": null
+      },
+      {
+        "en": "Listen to this scientist… Scientist: “I haven’t found anything they won’t eat… bugs and snails, tadpoles, other frogs, small fish… anything! Left alone… they would kill everything until you’d only find the clawed frog left. Then they’d begin eating each other.”",
+        "tw": "科學家說，非洲爪蛙什麼都吃，包括昆蟲、蝸牛、蝌蚪、其他的青蛙、小魚等等。如果你把非洲爪蛙放在一起，牠們會把所有的動物殺光，然後開始吃同類！",
+        "time": null
+      },
+      {
+        "en": "African clawed frogs have long, sharp claws.They use them to rip up other animals!",
+        "tw": "非洲爪蛙有又長又尖銳的爪子，可以撕開獵物的身體。",
+        "time": null
+      },
+      {
+        "en": "In just 4 months this killer frog can lay thousands of eggs. The eggs turn into tadpoles. Some tadpoles become frog food…",
+        "tw": "這種青蛙四個月之內就可以生下好幾千顆卵，這些卵會孵化成蝌蚪，再變成更多非洲爪蛙！",
+        "time": null
+      },
+      {
+        "en": "These frogs smell very bad! They taste bad too. So no other animals eat them.",
+        "tw": "牠們又難聞又難吃，所以沒有動物會吃。",
+        "time": null
+      },
+      {
+        "en": "They’re hard to catch. They’re really fast swimmers. They can hold their breath for a loooong time. And they can swim backwards!",
+        "tw": "牠們游得很快，憋氣可以憋很久，還會倒退游，所以很難抓！",
+        "time": null
+      },
+      {
+        "en": "North Carolina is a state in the USA. It thinks this frog is very, very scary. It’s illegal to have an African clawed frog in North Carolina.",
+        "tw": "美國的北卡羅萊納州覺得這種青蛙太恐怖了，決定立法禁止人們養這種青蛙。",
+        "time": null
+      },
+      {
+        "en": "So if you live in North Carolina, or anywhere, stay away from African clawed frogs!",
+        "tw": "所以如果你住在北卡羅來納州，或任何地方，都請遠離非洲爪蛙！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這種青蛙侵略性太強，已經成為禍害。",
+      "content": [
+        {
+          "text": "1) African 非洲的。\nAfrica… I’ve only read about it in books. 非洲，我只在書本裡面讀過。\nYeah? There are many African countries worth a visit. 是嗎?\n有很多非洲國家值得一遊。",
+          "time": null
+        },
+        {
+          "text": "2) animal 動物。\nHow many have you been to? 你去過幾個?\nJust three. 只有三個。\nAnd I think I saw hundreds of animals. 我想我看到了好幾百個動物。",
+          "time": null
+        },
+        {
+          "text": "3) careful 小心的。\nThat's amazing! 真驚人!\nYeah, but you have to be very careful. 對，不過要很小心。\nWild animals can be dangerous.野生動物會危險。",
+          "time": null
+        },
+        {
+          "text": "4) swimmer 游泳者。\nDid you know that tigers are good swimmers? 你可知老虎很會游泳?\nNo, I didn’t. 我不知。\nThey are. 真的。\nA tiger once almost caught me in the river. 有一次一頭老虎差點在河裡抓到我。",
+          "time": null
+        }
+      ],
+      "postscript": "這些英文字你記住了嗎? African非洲的 animal動物 careful小心的 swimmer游泳者"
+    },
+    "quiz": [
+      {
+        "question": "1. What will African clawed frogs eat?",
+        "options": [
+          "A: Eggs",
+          "B: Swimmers",
+          "C: Anything!"
+        ],
+        "time": null,
+        "answer": "C"
+      },
+      {
+        "question": "2. What do these frogs use their claws for?",
+        "options": [
+          "A: Ripping",
+          "B: Breathing",
+          "C: Tasting"
+        ],
+        "time": null,
+        "answer": "A"
+      },
+      {
+        "question": "3. How many eggs can these frogs lay?",
+        "options": [
+          "A: Hundreds",
+          "B: Thousands",
+          "C: Millions"
+        ],
+        "time": null,
+        "answer": "B"
+      }
+    ]
   }
 ]
