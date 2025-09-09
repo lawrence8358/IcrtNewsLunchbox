@@ -734,5 +734,107 @@
         "answer": "B"
       }
     ]
+  },
+  {
+    "id": "20250910-01",
+    "type": "國小",
+    "tag": [
+      "Food Waste",
+      "South Korea",
+      "Recycling"
+    ],
+    "title": "South Korea Doesn't Waste Food",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250909NK.mp3",
+    "content": [
+      {
+        "en": "Oh no! The kids didn't eat all their lunch! Did you know that food that is not eaten is called \"food waste\"?",
+        "tw": "糟了，這些孩子們沒有把午餐吃完，你知道剩下的食物就會變成廚餘了嗎!",
+        "time": null
+      },
+      {
+        "en": "We make a lot of food waste! All the world's food waste in one day can make one billion meals! Wow!",
+        "tw": "我們每天製造很多廚餘，全世界一天的廚餘量相當於十億份餐點!",
+        "time": null
+      },
+      {
+        "en": "We throw away a lot of food. When it goes to landfills, it makes gases that make the Earth hotter.",
+        "tw": "廚餘被丟到垃圾掩埋場，會產生溫室氣體，讓地球的溫度升高。",
+        "time": null
+      },
+      {
+        "en": "But in South Korea, people don't throw away food waste. The country recycles 98 percent of it. That's five million tons of food recycled every year!",
+        "tw": "但是在南韓，人們不會把食物丟掉，這個國家回收百分之 98 的廚餘，一年回收 500 萬噸的食物!",
+        "time": null
+      },
+      {
+        "en": "Families pay to recycle their food waste. They pay about 200 Taiwan dollars a month. They put the food in food waste bags or cans. If they don't, they may have to pay up to twenty-five thousand Taiwan dollars!",
+        "tw": "南韓的家庭一個月會付相當於台幣 200 元的費用，回收廚餘，他們把廚餘放到專用的袋子或桶子裡，如果不這麼做，最高可能會被罰相當於兩萬五千台幣的罰款!",
+        "time": null
+      },
+      {
+        "en": "What happens to this waste? Some feeds animals. Some becomes fertilizer. It helps vegetables grow better. A lot makes biogas. Biogas helps make electricity.",
+        "tw": "這些廚餘有什麼用處呢? 有一些用來當作動物飼料，有一些變成種蔬菜的肥料，還有一些用來製造沼氣，沼氣可以發電。",
+        "time": null
+      },
+      {
+        "en": "South Korea is making good things with its food waste! That makes less bad gases for the Earth. Can Taiwan do this too?",
+        "tw": "南韓正在用廚餘做很多好事！這樣地球產生的有害氣體就更少了。台灣也能這樣做嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "在南韓，吃剩的東西不會進垃圾桶，必須回收。",
+      "content": [
+        {
+          "text": "1) throw away 扔掉.\nEvery time I cook, I throw away a lot of stuff. 我每次做菜都扔掉好多東西.\nSo do I. Things like vegetable leaves and eggshells.",
+          "time": null
+        },
+        {
+          "text": "2) eaten 被吃掉.\nYeah, they can't be eaten, but I still feel bad about it.\n那些不能吃，不過我還是不開心.\nFor producing too much food waste? 因為製造太多食物垃圾嗎?\nYeah. 對啊.",
+          "time": null
+        },
+        {
+          "text": "3) month 月份.\nMaybe we shouldn't cook that much. 也許我們不應該太常做菜.\nOh, I only do it once a month. 我每個月只做一次.\nOnce a month?! 一個月一次?",
+          "time": null
+        },
+        {
+          "text": "4) percent 百分比.\nThen don't worry.\n那你不用擔心.\nThe waste you produce is less than 1 percent of mine.\n你製造的垃圾不到我的百分之一.",
+          "time": null
+        }
+      ],
+      "postscript": "來一起來讀單字.\nthrow away扔掉 eaten被吃掉 month月份 percent百分比"
+    },
+    "quiz": [
+      {
+        "question": "1. When food is not eaten, what is it called?",
+        "options": [
+          "a. Food trash",
+          "b. Food garbage",
+          "c. Food waste"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How much do South Koreans pay a month to recycle food?",
+        "options": [
+          "a. $25 Taiwan dollars",
+          "b. $98 Taiwan dollars",
+          "c. $200 Taiwan dollars"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What does South Korea recycle food into?",
+        "options": [
+          "a. Biogas",
+          "b. Bad gases",
+          "c. Landfills"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
