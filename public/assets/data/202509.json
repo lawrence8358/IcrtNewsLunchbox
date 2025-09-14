@@ -1042,5 +1042,112 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20250915-01",
+    "type": "國小",
+    "tag": [
+      "Climate Change",
+      "Taiwan",
+      "Summer"
+    ],
+    "title": "Will Taiwan Have Longer, Hotter Summers?",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250912NK.mp3",
+    "content": [
+      {
+        "en": "Oh boy, it's so hot. Let's go for a drive to cool down.",
+        "tw": "天啊，真的好熱。我們去開車兜風。",
+        "time": null
+      },
+      {
+        "en": "Ugh. There are so many cars on the road. Hey, we need to get some gas!",
+        "tw": "路上有好多車，而且我們還需要加油！",
+        "time": null
+      },
+      {
+        "en": "Summers are hot in Taiwan. We turn on air conditioners to cool down. Maybe we go for drives and use gas. When we do these things, we use fossil fuels.",
+        "tw": "台灣的夏天真的很熱，我們都會開冷氣或是開車出去兜風，都會用到化石燃料。",
+        "time": null
+      },
+      {
+        "en": "What happens if our fossil fuel use doesn't change? Climate change will make Taiwan's summers hotter and longer.",
+        "tw": "如果我們不減少化石燃料的使用，氣候變遷會讓台灣的夏天又長又熱。",
+        "time": null
+      },
+      {
+        "en": "By the year 2100, our summers will be 210 days long! Noooooo! Do you like 36-degree days? There will be 75 more!",
+        "tw": "到了2100年，台灣的夏天會長達210天！36度的天氣會多75天喔！",
+        "time": null
+      },
+      {
+        "en": "Climate change will also bring more heavy rain. More floods will happen. There will be fewer typhoons. But... they'll be stronger!",
+        "tw": "氣候變遷還會帶來強降雨，就會更常淹水。颱風雖然會變少，但是颱風的強度會更強。",
+        "time": null
+      },
+      {
+        "en": "Longer, hotter summers, more floods, and stronger typhoons will make life harder for everyone.",
+        "tw": "又長又熱的夏天、很多的水災以及強颱都會讓我們的日子不好過。",
+        "time": null
+      },
+      {
+        "en": "We need to do more to slow down climate change. We don't want longer, hotter summers, right? Let's find ways to use less fossil fuels. Seven months of summer is too long!",
+        "tw": "我們需要採取更多行動來減緩氣候變遷。我們不希望夏天變得更長、更熱，對吧？讓我們尋找減少使用化石燃料的方法。七個月的夏天實在太長了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "又熱又潮濕的夏天，讓人很難受，而這種日子以後會更多。",
+      "content": [
+        {
+          "text": "1. longer 比較長的\nWorking late today? 今天晚下班?\nI'm not working. 我沒有在工作。\nI just want to stay at the office longer. 我只想在辦公室待久一點。",
+          "time": null
+        },
+        {
+          "text": "2. hotter 比較熱的\nTo enjoy air conditioning? 享受冷氣嗎?\nExactly! 正是!\nIt's too hot at home. 家裡太熱了。\nIt feels like every summer is hotter than the last.\n感覺起來每年夏天都比以前熱。",
+          "time": null
+        },
+        {
+          "text": "3. harder 更困難\nThat's so true! 真的是那樣!\nAnd when it rains, it makes daily life harder. 下雨時也讓日常生活更麻煩。",
+          "time": null
+        },
+        {
+          "text": "4. change 改變\nI used to love summer a lot. 我以前很喜歡夏天。\nNot anymore. 現在不了。\nBecause summer has changed. 因為夏天變了。\nYeah, it has. 對啊，是變了。",
+          "time": null
+        }
+      ],
+      "postscript": "Summertime is getting longer... 來一起讀單字。\nlonger 比較長的\nhotter 比較熱的\nharder 更困難\nchange 改變"
+    },
+    "quiz": [
+      {
+        "question": "1. If our fossil fuel use doesn't change, how long will Taiwan's summers be?",
+        "options": [
+          "a. 7 months",
+          "b. 9 months",
+          "c. 12 months"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. When will summers become that long?",
+        "options": [
+          "a. 2075",
+          "b. 2100",
+          "c. 2121"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How will typhoons change?",
+        "options": [
+          "a. They'll be weaker.",
+          "b. They'll be shorter.",
+          "c. They'll be stronger."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
