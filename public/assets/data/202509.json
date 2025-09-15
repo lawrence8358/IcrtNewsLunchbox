@@ -1149,5 +1149,105 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20250916-01",
+    "type": "國小",
+    "tag": [
+      "節慶"
+    ],
+    "title": "A VERY Hungry Ghost Festival",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250915NK.mp3",
+    "content": [
+      {
+        "en": "Every year, Taiwan has many Hungry Ghost festivals. It's a very big, very old festival. Some say it's more than two thousand years old! People honor the ghosts of family and friends who died.",
+        "tw": "台灣很多地方都會過中元節。他大概有超過兩千多年的歷史。每年的中元節，大家會緬懷過世的親人。",
+        "time": null
+      },
+      {
+        "en": "People don't want these ghosts to be hungry. During the year, people give them the foods they love.",
+        "tw": "為了不讓那些亡靈餓肚子，親人都會定期祭拜。",
+        "time": null
+      },
+      {
+        "en": "There are other ghosts. Maybe they have no family or friends. So nobody gives them food during the year. They are called \"Hungry Ghosts.\" The festival is for them too.",
+        "tw": "但有一些亡靈在世上沒有親人，一年中沒有人給他們食物，只能挨餓，被稱為「餓鬼」。中元普渡這個節日也是為他們而設的。",
+        "time": null
+      },
+      {
+        "en": "This year, the festival started later than usual. So the ghosts are hungrier than usual! It's a very, very Hungry Ghost Festival!",
+        "tw": "今年的中元節來得比較晚，孤魂野鬼特別餓!",
+        "time": null
+      },
+      {
+        "en": "Taiwan's biggest Hungry Ghost Festival is in Keelung. People make lots of food for all ghosts. They also give the ghosts other things to make them happy.",
+        "tw": "台灣最盛大的中元節祭典在基隆。為了讓鬼魂高興，人們會準備各種食物和禮物。",
+        "time": null
+      },
+      {
+        "en": "When it's time for the ghosts to go home, people light lanterns. People take the lanterns to the ocean and put them on the water. The lanterns help the ghosts go home.",
+        "tw": "祭典結束時，還會在港口邊放水燈，照亮好兄弟回家的路！",
+        "time": null
+      },
+      {
+        "en": "This year, you can also honor the ghosts during the Hungry Ghost Festival.",
+        "tw": "今年，你也可以在中元節期間祭拜鬼魂。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "中元節是重要的民俗節日，今年落在九月六號。",
+      "content": [
+        {
+          "text": "1. die 死亡。\nI'm so hungry I could die. 我快餓死了。\nCareful, if you die, you'll come back as a ghost.\n小心哦，你假如真的死了，會變成鬼回來。\nAt least ghosts don't get hungry. 至少做鬼不挨餓。",
+          "time": null
+        },
+        {
+          "text": "2. hungry 飢餓的。\nFrom what I heard, they do. 我聽到的是他們也會餓。\nThat's why we have the Hungry Ghost Festival. 這是為什麼我們有餓鬼節。\nThat's the English name. 那是英文名字。",
+          "time": null
+        },
+        {
+          "text": "3. food 食物。\nIt's called the Zhongyuan Festival in Chinese. 中文叫做中元節。\nBut you offer food to the spirits that day, right?\n但是那一天你會拿食物祭拜亡靈，對吧?",
+          "time": null
+        },
+        {
+          "text": "4. friend 朋友。\nYes. Rice, fruit and chicken. 對，有米飯，水果，還有雞。\nGhosts have friends, too. 鬼也是有朋友的。",
+          "time": null
+        }
+      ],
+      "postscript": "我們一起來讀單字。die死亡 hungry飢餓的 food食物 friend朋友"
+    },
+    "quiz": [
+      {
+        "question": "1. How old do some say the Hungry Ghost Festival is?",
+        "options": [
+          "a. More than 200 years old",
+          "b. More than 2,000 years old",
+          "c. More than 200,000 years old"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where is Taiwan's biggest Hungry Ghost Festival?",
+        "options": [
+          "a. Keelung",
+          "b. Chiayi",
+          "c. Jiadong"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What helps the Hungry Ghosts go home?",
+        "options": [
+          "a. Time",
+          "b. Food",
+          "c. Lanterns"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
