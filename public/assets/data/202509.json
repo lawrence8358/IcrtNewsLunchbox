@@ -1249,5 +1249,106 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20250917-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education",
+      "Multicultural Education"
+    ],
+    "title": "Arizona Baseball Team Will Have a Taiwan Day",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250916NK.mp3",
+    "content": [
+      {
+        "en": "Do you know someone who lives in Arizona? It's in the U.S. Thirty thousand people from Taiwan live in Arizona. And Arizona loves them!",
+        "tw": "你可聽過美國的亞利桑那州?台積電在美國的工廠就設在那裡，有三萬多名台灣人住在那裡。",
+        "time": null
+      },
+      {
+        "en": "Arizona has a baseball team. This month, the team is having a Taiwan Day! Forty-eight thousand people can go! Many will learn more about Taiwan. Everyone will have lots of fun!",
+        "tw": "亞利桑那州的職棒隊伍是響尾蛇隊，他們九月20號比賽當天要舉行[台灣日]，會有四萬八千名觀眾一起同歡。",
+        "time": null
+      },
+      {
+        "en": "Fans can buy baseball shirts for Taiwan Day. The shirts have \"Taiwan\" and \"8\" on the back.",
+        "tw": "粉絲可以買上面寫著台灣和8這個數字的球衣。",
+        "time": null
+      },
+      {
+        "en": "Fans can watch a pop group sing and dance! The six young women are cool! Five are from Taiwan!",
+        "tw": "來自台灣的流行樂團「幻藍小熊」也會表演，六名團員中有五個是來自台灣。",
+        "time": null
+      },
+      {
+        "en": "Then fans can watch the game. A Taiwanese man will throw the first ball. He was a great baseball player in Taiwan!",
+        "tw": "比賽將由台灣的棒球名人張泰山開球!",
+        "time": null
+      },
+      {
+        "en": "Many fans will look for player number seven. That's Corbin Carroll. His mom is from Taiwan! Corbin is very fast! He's great at stealing bases! And he hits lots of home runs!",
+        "tw": "很多粉絲也會尋找背號是七號的外野手卡洛爾，他的母親是台灣人，他很會盜壘，也打出過好多次全壘打!",
+        "time": null
+      },
+      {
+        "en": "The team had a Taiwan Day last year. People wanted a Taiwan Day this year too. Baseball is helping Taiwan and Arizona be good friends!",
+        "tw": "該隊去年舉辦了台灣日。人們今年也希望有台灣日。棒球正在幫助台灣和亞利桑那州成為好朋友！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "很多台灣人移居美國亞利桑那州，那裏的棒球隊也注意到這一點。",
+      "content": [
+        {
+          "text": "1. home run 全壘打.\nI hope we can see three home runs tonight! 我希望今天看到三支全壘打.\nI'm sure we can. 一定可以.",
+          "time": null
+        },
+        {
+          "text": "2. fast 快速的.\nHe was so fast the last time he hit one! 他上次打到時速度超快的!",
+          "time": null
+        },
+        {
+          "text": "3. player 選手.\nHave you ever thought of being a baseball player? 你有想過當棒球選手嗎?\nMe? Half of the time I didn't know where the ball was! 我?\n一半的時間我都不知道球在哪裡!",
+          "time": null
+        },
+        {
+          "text": "4. look for 尋找.\nThat makes two of us. 我跟你一樣.\nI'm often looking for the ball. 我經常都在找球.",
+          "time": null
+        }
+      ],
+      "postscript": "Do you enjoy baseball games? 來一起讀單字.\nhome run全壘打 fast快速的 player選手 look for尋找"
+    },
+    "quiz": [
+      {
+        "question": "1. How many people from Taiwan live in Arizona?",
+        "options": [
+          "a. 30,000",
+          "b. 40,000",
+          "c. 48,000"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What can fans buy for Taiwan Day?",
+        "options": [
+          "a. A pop group",
+          "b. A baseball shirt",
+          "c. The first ball"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Who is Corbin?",
+        "options": [
+          "a. A baseball player from Taiwan",
+          "b. Player number 7",
+          "c. Player number 8"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
