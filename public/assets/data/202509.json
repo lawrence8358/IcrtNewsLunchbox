@@ -1445,5 +1445,102 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20250919-01",
+    "type": "國小",
+    "tag": [
+      "Environment",
+      "AI",
+      "Ocean Cleanup"
+    ],
+    "title": "Cleaning Up the Ocean with AI",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250918NK.mp3",
+    "content": [
+      {
+        "en": "The Pacific Ocean is Earth's biggest ocean. But there is something big and bad there. It is the Great Pacific Garbage Patch. It has a lot of trash. It is as big as forty-four Taiwans!",
+        "tw": "太平洋是世界上最大的海域，垃圾也特別多。垃圾形成的大片漂流物，有四十四個台灣那麼大！",
+        "time": null
+      },
+      {
+        "en": "This trash has plastic bags, plastic bottles, plastic toys, and more in it. It catches fish and birds.",
+        "tw": "這些垃圾包括各種塑膠製品，也會困住經過的鳥類跟魚類。",
+        "time": null
+      },
+      {
+        "en": "Sunlight and ocean waves break the plastic. The plastic doesn't go away. But the plastic pieces get smaller and smaller. Fish and birds eat them. They think they are eating food.",
+        "tw": "塑膠被海浪分解後不會消失。塑膠會變成很小的微粒，然後被鳥跟魚當成食物吃下肚。",
+        "time": null
+      },
+      {
+        "en": "Some people are cleaning ocean trash. They use boats. The boats use big nets. The nets catch the trash. Then the boats bring the trash back to land.",
+        "tw": "有些人會用船和魚網清理海上的垃圾。這些被撈起來的垃圾會被帶回岸上。",
+        "time": null
+      },
+      {
+        "en": "These people want to catch more trash. So they are using AI now! It looks at lots of information about the ocean. It finds trash. It tells the boats where the trash is. Now the boats can clean up more trash. They can make the ocean safer for animals.",
+        "tw": "現在，他們開始用AI偵測垃圾在海中的位置。有了這個資訊，船隻可以更快的清理垃圾，確保海洋生物的安全！",
+        "time": null
+      },
+      {
+        "en": "Maybe one day, the ocean will be clean again! Tomorrow is World Cleanup Day. Let's help the ocean become cleaner!",
+        "tw": "或許有一天，海洋會再次變得乾淨！明天是世界清潔日。讓我們一起幫助海洋變得更乾淨！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "海洋垃圾越來越多，對動物和人類都有影響。",
+      "content": [
+        {
+          "text": "1. garbage 垃圾。\nLook at all that garbage on the beach! 你看看海灘上的垃圾! It's awful !\n真恐怖 !\nAt least it's on land, not in the ocean. 至少它在陸地上，不在海裡。",
+          "time": null
+        },
+        {
+          "text": "2. trash 垃圾。\nIf there are big waves, it'll get in the water. 假如有大浪，它就在水裡了。\nAnd then it becomes ocean trash. 就變成了海洋垃圾。",
+          "time": null
+        },
+        {
+          "text": "3. smaller 比較小。\nI know. 我知道啊。\nAnd all those bottles will get smaller and smaller 那些瓶子越變越小…\nAnd eaten by fish! 然後被魚吃掉!\nWe eat fish… 我們把魚吃下肚...",
+          "time": null
+        },
+        {
+          "text": "4. clean up 清理。\nIt'll be like we're eating a lot of microplastic. 就好像在吃一堆塑膠微粒。\nLet's clean up the trash. 先清這些垃圾吧。\nYou're right. 你說對了。",
+          "time": null
+        }
+      ],
+      "postscript": "今天學到哪些單字? garbage垃圾 trash垃圾 smaller比較小 clean up清理"
+    },
+    "quiz": [
+      {
+        "question": "1. What is the big bad thing in the Pacific Ocean?",
+        "options": [
+          "a. The Giant Pacific Garbage Pile",
+          "b. The Great Pacific Garbage Patch",
+          "c. The Great Pacific Trash Pile"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What breaks the plastic in the ocean?",
+        "options": [
+          "a. Sunlight and waves",
+          "b. Sunlight and fish",
+          "c. Sunlight and salt"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What can AI do?",
+        "options": [
+          "a. Find trash",
+          "b. Catch trash",
+          "c. Catch fish"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
