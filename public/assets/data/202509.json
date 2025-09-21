@@ -1542,5 +1542,108 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20250922-01",
+    "type": "國小",
+    "tag": [],
+    "title": "One Hundred Dogs Run in Shopping Mall",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250919NK.mp3",
+    "content": [
+      {
+        "en": "PA System: \"Attention shoppers. One hundred dogs are running everywhere in the mall! We're very sorry. We're catching them as fast as we can!\"",
+        "tw": "PA系統：「各位顧客請注意。一百隻狗狗正在購物中心裡到處亂跑！我們非常抱歉。我們正在盡快捕捉牠們！」",
+        "time": null
+      },
+      {
+        "en": "Narrator: Huh? Where did the dogs come from? Well, in this shopping mall in China, there's a pet cafe?. That's where one hundred friendly huskies work. But one day, someone forgot to close the door!",
+        "tw": "這些狗從哪裡來的呢?這座中國的購物中心有一間寵物咖啡廳，裡面有100隻喜歡跟人親近的哈士奇。但是有一天，咖啡廳的門忘了關。",
+        "time": null
+      },
+      {
+        "en": "The dogs left their jobs! They ran out of the pet cafe?!",
+        "tw": "那些狗狗居然就翹班了，跑出咖啡廳。",
+        "time": null
+      },
+      {
+        "en": "The huskies were very happy! They wagged their fluffy tails! They woofed. They jumped! Some of them got snacks... without paying!",
+        "tw": "哈士奇非常開心，牠們搖著尾巴、跳來跳去，有的還免費拿到零食。",
+        "time": null
+      },
+      {
+        "en": "The mall became a doggy playground. The shoppers were surprised! Some shoppers were happy to see the huskies. But other shoppers were scared of them.",
+        "tw": "購物中心變成狗狗的遊樂場。民眾都嚇了一跳，有一些人很開心看到這些狗狗，但有人會害怕。",
+        "time": null
+      },
+      {
+        "en": "The huskies played and played! The pet cafe? workers tried to catch them. Kind shoppers helped too. But the dogs ran here and there. It took one hour to catch them!",
+        "tw": "咖啡廳的員工試著把牠們抓回去，也有熱心的民眾幫忙，花了一個小時才抓完。",
+        "time": null
+      },
+      {
+        "en": "Phew! Good doggie.",
+        "tw": "呼！乖狗狗。",
+        "time": null
+      },
+      {
+        "en": "PA System: \"Good afternoon shoppers, you can enjoy shopping again. The dogs had fun, but now they're all back at work! Hey! Aaaaahhhhh!\"",
+        "tw": "PA系統：「各位顧客午安，您可以再次享受購物樂趣。狗狗們玩得很開心，但現在牠們都回去工作了！嘿！啊啊啊啊啊！」",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "購物商場裡面有許多哈士奇亂跑，是不是很有趣的景象?",
+      "content": [
+        {
+          "text": "1. friendly 友善的\nI think huskies are the most beautiful dogs! 我覺得哈士奇是最漂亮的狗狗!\nI find their eyes not so friendly. 牠們的眼睛不那麼友善。",
+          "time": null
+        },
+        {
+          "text": "2. scared 害怕\nAre you kidding? Their eyes are pretty! 你在開玩笑吧? 牠們的眼睛很美!\nThey are icy blue, and I'm scared of them. 牠們的眼睛是冰冷的藍色，我很害怕。",
+          "time": null
+        },
+        {
+          "text": "3. fluffy 蓬鬆的\nBut look at their fluffy coats and white legs.\n但是你看牠蓬鬆的皮毛跟雪白的腿。\nDon't you think they are cute? 你不覺得牠們很可愛嗎?",
+          "time": null
+        },
+        {
+          "text": "4. jump 跳\nI do like their puppies. 我是喜歡小狗。\nI enjoy seeing them jumping around. 我喜歡看牠們跳來跳去。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like huskies? Let's read today's vocabulary.\nfriendly 友善的\nscared 害怕\nfluffy 蓬鬆的\njump 跳"
+    },
+    "quiz": [
+      {
+        "question": "1. Where were the huskies?",
+        "options": [
+          "a. A shopping mall",
+          "b. A restaurant",
+          "c. A dog park"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How did the huskies get out?",
+        "options": [
+          "a. Open windows",
+          "b. A big hole",
+          "c. An open door"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How long did it take to catch the huskies?",
+        "options": [
+          "a. One hour",
+          "b. One day",
+          "c. One hundred hours"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
