@@ -1645,5 +1645,107 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20250923-01",
+    "type": "國小",
+    "tag": [
+      "Radio",
+      "History",
+      "Culture"
+    ],
+    "title": "Every Day Is a Radio Day",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250922NK.mp3",
+    "content": [
+      {
+        "en": "Long ago, people had no cellphones. There was no social media. There was no Internet! In Taiwan, there were no TV stations!",
+        "tw": "很久以前，人們沒有手機、網路跟社交媒體。那時候，台灣也沒有電視台。",
+        "time": null
+      },
+      {
+        "en": "How did the news travel to people far away? There was radio then. And there's radio now!",
+        "tw": "那要怎麼讓在很遠地方的人知道新聞呢？當時就是用收音機，現在也是！",
+        "time": null
+      },
+      {
+        "en": "Radio is free! It's on every day, 24 hours a day. Radio stations broadcast news, talk shows, music, stories, and more.",
+        "tw": "廣播不僅免費而且每天24小時都有。廣播電台播送新聞、談話節目、音樂、故事等等。",
+        "time": null
+      },
+      {
+        "en": "We hear voices and sounds on the radio. We imagine how people, places, and things look or what people are doing. That's why radio is called the \"theater of the mind.\"",
+        "tw": "我們聽收音機，想像人、事、物的畫面或者人們在做什麼。",
+        "time": null
+      },
+      {
+        "en": "Radio broadcasts big news because radios are reliable. No Internet? No electricity? No problem! Radios can still work! In emergencies, we hear about what's happening and learn what to do.",
+        "tw": "即使缺電、沒有網路，廣播還是可以運作，所以利用它播送重大新聞。緊急的時候，我們還是可以知道發生了什麼事以及該如何應對。",
+        "time": null
+      },
+      {
+        "en": "Radio brings us all kinds of music. Listening to many songs lets us find out what we like. Some songs become part of our memories!",
+        "tw": "我們也可以從收音機聽到各種音樂，找到自己喜歡的歌曲。有一些歌曲還會成為我們的回憶！",
+        "time": null
+      },
+      {
+        "en": "Every day is a radio day! Radio broadcasts all the news. Radio gives music to our daily lives. Radio is for all of us!",
+        "tw": "每天都是廣播日！廣播傳播所有新聞。廣播為我們的日常生活帶來音樂。廣播屬於我們所有人！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "廣播曾經是生活重要的一部份。",
+      "content": [
+        {
+          "text": "1. music 音樂\nWhat's that music? 那是什麼音樂?\n\"A Summer Place,\" from the 1970s.〈夏日地方〉，1970年代的。\nIt's very nice. 很好聽。\nYeah, we used to listen to music on the radio. 對，我們以前都從收音機聽音樂。",
+          "time": null
+        },
+        {
+          "text": "2. song 歌曲\nNot vinyl records? 不是黑膠唱片?\nThose came later. 那些以後才出現。\nRadio was the thing for Western pop songs. 收音機才有西洋流行歌曲。",
+          "time": null
+        },
+        {
+          "text": "3. talk show 談話節目\nWere there talk shows? 有談話節目嗎?\nNo, but there were radio dramas of ghost stories. 沒有，不過有鬼故事話劇。",
+          "time": null
+        },
+        {
+          "text": "4. every day 每天\nI was glued to my radio every day. 我每天都黏著我的收音機。\nFor the ghost stories? 聽鬼故事?\nFor those and more. 聽那些跟其他的。",
+          "time": null
+        }
+      ],
+      "postscript": "Have you ever listened to music on the radio?\nMusic音樂\nsong歌曲\ntalk show談話節目\nevery day每天"
+    },
+    "quiz": [
+      {
+        "question": "1. What do radio stations broadcast?",
+        "options": [
+          "a. Internet",
+          "b. News",
+          "c. Places"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How much does it cost to listen to the radio?",
+        "options": [
+          "a. It's free!",
+          "b. Four dollars",
+          "c. Twenty dollars"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What is radio called?",
+        "options": [
+          "a. Words in our minds",
+          "b. Songs in the wind",
+          "c. Theater of the mind"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
