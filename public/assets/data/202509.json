@@ -1747,5 +1747,100 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20250924-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land"
+    ],
+    "title": "From Wild Goats to Pet Goats?",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250923NK.mp3",
+    "content": [
+      {
+        "en": "A small Italian island has about 100 people. It also has about 600 wild goats!",
+        "tw": "義大利的一座小島有差不多100位居民跟600多隻的野生山羊。",
+        "time": null
+      },
+      {
+        "en": "That's too many wild goats! They are a 'biiiig' problem. There isn't enough food for them! Now they go into people's gardens. They eat breakfast, lunch, and dinner there! Goodbye, beautiful flowers, fruits, and vegetables…",
+        "tw": "野生山羊真的太多了，島上沒有足夠的食物，牠們只好跑進居民的後院吃三餐，漂亮的花、蔬菜水果都沒了。",
+        "time": null
+      },
+      {
+        "en": "The mayor is asking for help! He wants people to take 500 goats from the island. Maybe these wild goats can become their pet goats!",
+        "tw": "市長希望大家可以幫助他把500隻山羊帶離這座島，或許這些山羊可以成為他們的寵物。",
+        "time": null
+      },
+      {
+        "en": "Getting a goat is easy. People email the mayor. They say they want a goat. The mayor says okay. Then they go and catch a goat!",
+        "tw": "要領養山羊很簡單，寄電子郵件給市長說想要一隻，市長同意就可以去抓山羊。",
+        "time": null
+      },
+      {
+        "en": "Wait a minute... The island is one tall mountain. It has no roads! It has no cars! It has many, MANY steps. Donkeys carry things up and down. And... goats are VERY good at running up and down mountains.",
+        "tw": "等等，這座島是一座高山，山上沒有路也沒有車，只有很多的階梯。驢子可以載物品上下樓梯，山羊也很會爬山。",
+        "time": null
+      },
+      {
+        "en": "The mayor gives people fifteen days to catch a wild goat. Why? Hmmm... Maybe getting a pet goat here isn't easy!",
+        "tw": "市長給人們十五天的時間來抓一隻野生山羊。為什麼？嗯...也許在這裡得到一隻寵物山羊並不容易！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "想要山羊當寵物，看起來困難重重。",
+      "content": [
+        {
+          "text": "1. breakfast 早餐. What's for breakfast tomorrow? 明天早飯吃什麼? Let's see…Toast, milk and fruit. 我想想，吐司、牛奶跟水果。 Sounds good. 聽起來不錯。",
+          "time": null
+        },
+        {
+          "text": "2. vegetable 蔬菜. And what's for lunch? Just curious. 那中飯呢? 只是好奇。 Maybe some pasta with vegetables. 也許煮點麵條加蔬菜。 Vegetables from our garden? That'll be great! 我們菜園裡的蔬菜嗎? 那很棒!",
+          "time": null
+        },
+        {
+          "text": "3. dinner 晚飯. I won't be home for dinner, though. 不過我不會在家吃晚飯。 I'm going hiking on Xiangshan. 我要去象山健行。",
+          "time": null
+        },
+        {
+          "text": "4. up and down 上上下下. What's the fun of going up and down that hill? 爬上爬下那座山有什麼好玩的? The weather is so hot. 天氣又這麼熱。 The night view is beautiful! 夜景很漂亮!",
+          "time": null
+        }
+      ],
+      "postscript": "這些都是常用的單字。 breakfast早餐 vegetable蔬菜 dinner晚飯 up and down上上下下"
+    },
+    "quiz": [
+      {
+        "question": "1. How many wild goats are there on the island?",
+        "options": [
+          "a. Fifty",
+          "b. One hundred",
+          "c. Six hundred"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do the wild goats eat?",
+        "options": [
+          "a. Pet food",
+          "b. Vegetables",
+          "c. Seafood"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do you need to do first to get a goat from the island?",
+        "options": [
+          "a. Feed the goat",
+          "b. Ride a donkey",
+          "c. Email the mayor"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
