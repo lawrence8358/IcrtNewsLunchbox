@@ -1842,5 +1842,103 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20250925-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Helping Kids Make Friends",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250924NK.mp3",
+    "content": [
+      {
+        "en": "Sammie helps lonely kids. They feel sad… They need a friend. Sammie helps them find friends!",
+        "tw": "Sammie幫助孤單的孩子交朋友。",
+        "time": null
+      },
+      {
+        "en": "How does Sammie help? She gives buddy benches to schools. What are they? Well, buddy means friend. And benches are long seats for two or three people. Buddy benches are seats for friends!",
+        "tw": "Sammie 怎麼幫助他們呢? 她捐好朋友長板凳給學校。Buddy的意思是朋友，Bench 是兩到三個人可以坐的板凳。好朋友板凳就是用來交朋友的。",
+        "time": null
+      },
+      {
+        "en": "How do buddy benches work? When a kid feels lonely, she sits on one. Other kids know she needs a friend. They can sit with her or play with her. They can be friends!",
+        "tw": "小朋友感到孤單的時候，可以坐在好朋友長板凳上，其他的小朋友就會知道她需要朋友，會跟她坐在一起、跟她玩，成為朋友。",
+        "time": null
+      },
+      {
+        "en": "Sammie learned about buddy benches when she was eight years old. She wanted a bench for her school. She wanted one that was kind to the Earth.",
+        "tw": "Sammie八歲的時候知道好朋友長板凳，她希望她的學校也有，她也希望能夠對地球友善。",
+        "time": null
+      },
+      {
+        "en": "A company takes plastic bottle caps to make plastic benches. So Sammie asked everyone for bottle caps. She got 725 kilograms of caps! That made three buddy benches!",
+        "tw": "有一家公司把塑膠瓶蓋做成長板凳，所以Sammie跟人家要瓶蓋，收集多達725公斤，然後做了三個長板凳。",
+        "time": null
+      },
+      {
+        "en": "Sammie didn't stop at three benches. She gave more than 200 benches in the USA and one in Africa! And she's still helping!",
+        "tw": "Sammie收集的瓶蓋在美國做了超過200個這樣的椅子，還有一個在非洲。",
+        "time": null
+      },
+      {
+        "en": "Let's have buddy benches in Taiwan and help lonely kids find friends!",
+        "tw": "讓台灣也有好朋友長板凳，幫助孤單的孩子找到朋友！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "坐在好朋友長板凳上，可以讓人知道你需要朋友。",
+      "content": [
+        {
+          "text": "1. sad 悲傷的\nGood morning! 早安 !\nHi …\nWhat's the matter? 怎麼了?\nYou look so sad. 你看起來很難過。\nYeah, I do feel a little down today. 對啊，我今天有點心情不好。",
+          "time": null
+        },
+        {
+          "text": "2. sit 坐\nI can't find anyone to play with. 我找不到人跟我玩。\nI need to go to work in 20 minutes. 我二十分鐘後要去上班了。\nBut I can sit with you for a while. 但我可以跟你坐一會兒。",
+          "time": null
+        },
+        {
+          "text": "3. kind 和善的\nThat's very kind of you! 你人真好。\nSo you wanted to play football? 所以你是想玩美式足球?\nYeah. 對啊。",
+          "time": null
+        },
+        {
+          "text": "4. want 想要\nIt's hard to play it all by myself. 很難自己一個人玩。\nYou're right. I'd want to play football with a friend too.\n你說得對，我也會想跟朋友一起打球。",
+          "time": null
+        }
+      ],
+      "postscript": "你記得今天的單字嗎?\nsad悲傷的\nsit坐\nkind和善的\nwant想要"
+    },
+    "quiz": [
+      {
+        "question": "1. What is a buddy?",
+        "options": [
+          "a. A chair",
+          "b. A friend",
+          "c. A cap"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What are Sammie's buddy benches made of?",
+        "options": [
+          "a. Plastic",
+          "b. Wood",
+          "c. Metal"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many buddy benches did Sammie give to schools?",
+        "options": [
+          "a. Less than 14",
+          "b. More than 200",
+          "c. 725"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
