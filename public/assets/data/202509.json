@@ -1940,5 +1940,103 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20250926-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Industry, Innovation and Infrastructure",
+      "Technology Education",
+      "Technology"
+    ],
+    "title": "A Washing Machine for Humans",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250925NK.mp3",
+    "content": [
+      {
+        "en": "Do you sometimes not feel like taking a shower? Wouldn't it be nice if there was some kind of machine that could clean your body?",
+        "tw": "你會不會有時候懶得洗澡呢？如果這時候有機器可以幫你洗澡，該有多好！",
+        "time": null
+      },
+      {
+        "en": "Imagine this: You get into a machine that looks like a big bathtub. You turn it on, sit back and relax, and 15 minutes later, you're done. Oh, and the machine also dries your hair and your body.",
+        "tw": "想像你有一個像大浴缸的機器，啟動它、坐下去，然後好好地放鬆。15分鐘後，就洗好了！機器還會幫你弄乾身體跟頭髮。",
+        "time": null
+      },
+      {
+        "en": "You don't have to do anything! Doesn't that sound amazing? Well, here's the best part: it's real! A company in Japan is making washing machines for humans!",
+        "tw": "這個機器真的存在！日本有一家公司已經推出洗澡機！",
+        "time": null
+      },
+      {
+        "en": "It's going to be really high-tech! The human washing machine will have a super smart computer that knows how to heat water, so it's not too hot and not too cold…just perfect for you.",
+        "tw": "這個洗澡機很高科技，它有一個超級聰明的電腦，會把水加熱到不太冷也不太熱的溫度--對你來講就會剛剛好的溫度！",
+        "time": null
+      },
+      {
+        "en": "The company wants you to feel calm and relaxed when you are in the human washing machine, so it plays music while it cleans you!",
+        "tw": "這家公司希望你洗澡的時候可以放鬆，所以這台機器還會邊洗邊放音樂。",
+        "time": null
+      },
+      {
+        "en": "What do you think? Would you like a bath in a human washing machine?",
+        "tw": "你覺得呢？你會想用人類洗澡機洗澡嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "想洗個澡嗎? 現在也有幫人洗澡的機器囉。",
+      "content": [
+        {
+          "text": "1. machine 機器。\nI'm so tired today. 我今天好累。\nIf only I had a washing machine to wash me! 要是有機器來給我洗澡就好了!\nThere is such a machine, you know. 是有這種機器。",
+          "time": null
+        },
+        {
+          "text": "2. wash 洗。\nSo I just step in the bathtub and do nothing?\n所以我只要踏進澡盆，什麼都不用做?\nYeah, the machine can even wash your hair. 沒錯，機器甚至可以幫你洗頭髮。",
+          "time": null
+        },
+        {
+          "text": "3. dry 吹乾。\nAnd then it will dry your hair and body. 然後它會吹乾你的頭髮和身體。\nWill it put on my pajamas for me? 它會幫我穿上睡衣嗎?\nYou're asking too much, Paz! 你要求太多了!",
+          "time": null
+        },
+        {
+          "text": "4. perfect 完美的。\nNo, I just want a perfect machine. 不，我只是想要個完美的機器。\nAll I need to do is lie down and sleep. 我就只需要躺下來睡覺。",
+          "time": null
+        }
+      ],
+      "postscript": "你想買個洗澡機器嗎? 來讀讀單字。machine機器 wash洗 dry吹乾 perfect完美的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the human washing machine company based?",
+        "options": [
+          "A: Iran",
+          "B: Kazakhstan",
+          "C: Japan"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How long will the machine take to wash a human?",
+        "options": [
+          "A: 50 minutes",
+          "B: 115 minutes",
+          "C: 15 minutes"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What does the human washing machine look like?",
+        "options": [
+          "A: A big bicycle",
+          "B: A big fishbowl",
+          "C: A big bathtub"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
