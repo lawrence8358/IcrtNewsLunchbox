@@ -2038,5 +2038,105 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20250930-01",
+    "type": "國小",
+    "tag": [
+      "太空"
+    ],
+    "title": "From a Backyard Rocket to a Space Mission",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250929NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: Space is so big. There's always something new to learn.",
+        "tw": "外太空很大，還有很多新知可以去探索。",
+        "time": null
+      },
+      {
+        "en": "In 2020, a girl from the UK was six years old. On TV, she saw a rocket launch to Mars. Astronaut Liz, or Astro Liz, fell in love with space then.",
+        "tw": "2020年，英國一位六歲女孩在電視上看到火箭發射到火星，從此之後愛上外太空。",
+        "time": null
+      },
+      {
+        "en": "Astro Liz loves learning about space. She makes videos about space. She posts them online. She shares her learning and excitement with everyone!",
+        "tw": "Liz 喜歡學習太空知識，也製作太空影片放到網路上，分享給大家。",
+        "time": null
+      },
+      {
+        "en": "Astro Liz made a cool rocket in her backyard. She made it with cardboard. The rocket was about two meters tall. Then … Astro Liz: THREE, TWO, ONE, LIFT OFF! Narrator: Yes, the rocket was real! It flew nine meters up in the air! Everyone was surprised!",
+        "tw": "Liz用紙板在後院打造了一個兩公尺高的火箭。還可以發射，火箭飛了9公尺高。",
+        "time": null
+      },
+      {
+        "en": "Astro Liz was seven years old. Space experts saw her rocket video. They liked it very much!",
+        "tw": "太空專家看到她的火箭影片，他們非常喜歡。",
+        "time": null
+      },
+      {
+        "en": "They asked Astro Liz to join a real space mission! A rocket is taking twenty boxes to the moon. One box is hers. She put an Astro Liz sticker in it.",
+        "tw": "還邀請Liz參加真的太空任務。有一支火箭要帶二十個箱子到月球，其中一個是 Liz 的，她把自己的貼紙放進箱子裡。",
+        "time": null
+      },
+      {
+        "en": "Learning can take us to wonderful places. Astro Liz's love of learning took her to a space mission!",
+        "tw": "學習可以帶我們到美好的地方。Liz 對學習的熱愛讓她參與了一項太空任務！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這個小女孩不但喜歡太空，還會製作火箭。",
+      "content": [
+        {
+          "text": "1. space 太空\nI'm going to Florida next month. 我下個月要去佛羅里達州。\nCool! Do you plan to see the Space Center? 酷喔。你打算去參觀太空中心嗎?",
+          "time": null
+        },
+        {
+          "text": "2. launch 發射\nYeah, isn't it exciting? 對啊，好讓人興奮!\nI'll get to see them launch a rocket. 我要去看他們發射火箭。\nReally? Where will the rocket go? 真的嗎? 火箭要飛去哪裡?\nIt's going to the Moon! 要去月球。",
+          "time": null
+        },
+        {
+          "text": "3. mission 任務\nIt's an unmanned space mission. 那是一次無人的太空任務。\nTo prepare for traveling to Mars? 去準備火星之旅嗎?",
+          "time": null
+        },
+        {
+          "text": "4. surprised 驚訝的\nRight, I'm surprised that you know about it. 對，我很驚訝你知道。\nOh, I know a lot of things! 我知道的才多呢!",
+          "time": null
+        }
+      ],
+      "postscript": "你對太空著迷嗎?\nspace 太空\nlaunch 發射\nmission 任務\nsurprised 驚訝的"
+    },
+    "quiz": [
+      {
+        "question": "1. What was Astro Liz's rocket made of?",
+        "options": [
+          "a. Cardboard",
+          "b. Plastic",
+          "c. Wood"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Who asked Astro Liz to join the space mission?",
+        "options": [
+          "a. Teachers",
+          "b. Space experts",
+          "c. Everyone"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did Astro Liz put in a box?",
+        "options": [
+          "a. Chocolate",
+          "b. A sticker",
+          "c. Money"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
