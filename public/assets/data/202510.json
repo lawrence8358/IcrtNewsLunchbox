@@ -1,0 +1,98 @@
+ [
+  {
+    "id": "20251001-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Health and Physical Education"
+    ],
+    "title": "Nuts About Planes",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20250930NK.mp3",
+    "content": [
+      {
+        "en": "What's an allergy? It's when your body touches something and your body doesn't like it. Your body tries to fight it.",
+        "tw": "什麼是過敏? 當你的身體接觸到不喜歡的東西時，它會反抗，產生過敏反應。",
+        "time": null
+      },
+      {
+        "en": "People can have allergies to many things - plants, animals, and more.",
+        "tw": "人們會對許多事物過敏——植物、動物等等。",
+        "time": null
+      },
+      {
+        "en": "Some allergies are not bad. They make you itch. They make you sneeze. But they won't kill you! Some allergies can be very dangerous! People with bad allergies need to be very careful!",
+        "tw": "有一些過敏反應會讓你皮膚癢、打噴嚏，但是嚴重的過敏反應有一些人要很小心，會很危險。",
+        "time": null
+      },
+      {
+        "en": "Many people have nut allergies. That's why many foods have a special stamp. It says \"May Contain Nuts\". It's very easy for nuts to get into food. People with nut allergies need to be very, very careful!",
+        "tw": "有一些食物都有標示含有堅果，對堅果過敏的人要特別小心。",
+        "time": null
+      },
+      {
+        "en": "A woman was on a plane. She had a very bad nut allergy. The crew was selling snacks. Then she saw WHAT the snacks were … peanuts!!! The woman was scared. Her allergy was very bad. She didn't want people on the plane to have peanuts. So she bought all of them! She bought every peanut on the plane!",
+        "tw": "這個女士很害怕，她不要飛機上的乘客吃到花生，所以把它們全部買下來。",
+        "time": null
+      },
+      {
+        "en": "The woman spent 6,000 Taiwan dollars on peanuts! But she was safe. If you have allergies, be careful!",
+        "tw": "這位女士花了 6,000 元台幣買花生！但她很安全。如果你有過敏症，請務必小心！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "對花生過敏的女士，買了飛機上所有的花生。",
+      "content": [
+        {
+          "text": "1. sneeze 打噴嚏\nOh, my, this is really bad! 這真是糟糕!\nI just can't stop sneezing. 我打噴嚏打個不停。\nIs it because of the cold air? 是因為冷空氣嗎?\nProbably.可能是。",
+          "time": null
+        },
+        {
+          "text": "2. itch 癢\nMy nose itches and I've got red eyes. 我鼻子癢，還有紅眼睛。\nYou need to take some medicine. 你需要吃一點藥。",
+          "time": null
+        },
+        {
+          "text": "3. spend 花費。\nI did. I just spent 600 NT on allergy medicines.\n我吃了，剛剛才花了六百塊買過敏藥。\nThat should take care of it. 那應該可以對付了。",
+          "time": null
+        },
+        {
+          "text": "4. fight 對抗。\nI wish I could fight it without medicine. 我希望不吃藥就可以對抗。\nGet more sleep. That usually helps. 多睡一點，通常很有幫助。",
+          "time": null
+        }
+      ],
+      "postscript": "These are useful words.\nsneeze打噴嚏\nitch癢\nspend花費\nfight對抗"
+    },
+    "quiz": [
+      {
+        "question": "1. What does the special stamp on food say?",
+        "options": [
+          "a. \"May Contain Nuts\"",
+          "b. \"Every Peanut\"",
+          "c. \"Be Very Careful\""
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What was the crew selling?",
+        "options": [
+          "a. Plants.",
+          "b. Animals",
+          "c. Snacks"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How much did the woman spend on peanuts?",
+        "options": [
+          "a. 6,000 dollars",
+          "b. 66,000 dollars",
+          "c. 666,000 dollars"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  }
+]
