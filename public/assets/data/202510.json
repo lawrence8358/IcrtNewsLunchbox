@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20251001-01",
     "type": "國小",
@@ -92,6 +92,101 @@
         ],
         "time": null,
         "answer": "a"
+      }
+    ]
+  },
+  {
+    "id": "20251002-01",
+    "type": "國小",
+    "tag": [
+      "Tags"
+    ],
+    "title": "The Moon Shakes!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251001NK.mp3",
+    "content": [
+      {
+        "en": "What happens in an earthquake? Under our feet, the ground shakes - on the Earth!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "What about moonquakes? Yup, the ground shakes on the moon!",
+        "tw": "發生地震的時候，我們腳下的地球震動。那月震呢? 沒錯，就是月球的地面發生震動!",
+        "time": null
+      },
+      {
+        "en": "Why do moonquakes happen? The moon gets VERY hot during the day. This means it get a little bigger. The moon gets VERY cold at night. It gets a little smaller. The moon changes from hot to cold every afternoon. Moonquakes happen then!",
+        "tw": "為什麼會發生月震呢? 月球白天非常炎熱，月球會稍微膨脹。而夜晚非常寒冷，月球會因此收縮。每到下午，月球的氣溫從熱到冷，就會發生月震。",
+        "time": null
+      },
+      {
+        "en": "Scientists studied these moonquakes. They found very small moonquakes too. Why do these happen? Well, many years ago, the USA left a big rocket part there...",
+        "tw": "科學家研究發現月球也會發生一些微小的月震。為什麼會發生呢? 很多年前，美國在月球留下了一大塊的火箭零件。",
+        "time": null
+      },
+      {
+        "en": "It's made of metal. When metal gets very cold, it gets a little smaller. When metal gets very hot, it gets a little bigger. The rocket part changes from cold to hot every morning. Very small moonquakes happen then!",
+        "tw": "它是金屬做的，金屬會熱脹冷縮。每到早上，火箭零件由冷轉熱，就會發生微小的月震。",
+        "time": null
+      },
+      {
+        "en": "Scientists will take many things to the moon. When the heat and cold change there, what will happen to these things? Scientists will study this. On the moon, big heat and cold changes can make things a little bigger or a little smaller. And they shake the moon!",
+        "tw": "科學家將帶很多東西到月球。當那裡的熱和冷變化時，這些東西會發生什麼事呢？科學家將研究這個。在月球上，巨大的熱冷變化可以讓物體變大或變小一點。它們還會震動月球！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "地球有地震，月球也有月震，而且是熱脹冷縮造成的。",
+      "content": [
+        {
+          "text": "earthquake 地震\nWhat's that? 那是什麼?\nOh no, it's an earthquake! 糟糕，是地震!\nShould we run? 我們應該跑嗎?\nNo, let's hide under the table. 不，來躲到桌子底下。",
+          "time": null
+        },
+        {
+          "text": "bigger 更大的\nWow, this one is big! 哇，這個地震好大!\nAnd it's getting bigger! 還更大了。\nI wonder what's happening. 我想知道發生了什麼事。",
+          "time": null
+        },
+        {
+          "text": "year 年\nThe TV says it's the biggest earthquake in ten years.\n電視上說這是十年來最大的地震。\nIt's certainly very scary. 真的很嚇人。",
+          "time": null
+        },
+        {
+          "text": "shake 震動\nMy books are all on the floor! 我的書都掉到地上了。\nIt must be because of the shaking.一定是因為震動的關係。\nI was shaking for sure.我剛剛是真的在發抖。",
+          "time": null
+        }
+      ],
+      "postscript": "Let's read the vocabulary together.\nearthquake地震\nbigger更大的\nyear年\nshake震動"
+    },
+    "quiz": [
+      {
+        "question": "What happens when the moon gets very hot?",
+        "options": [
+          "a. It gets bigger.",
+          "b. It gets smaller.",
+          "c. It shakes."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "When is the moon very cold?",
+        "options": [
+          "a. In the morning",
+          "b. All day",
+          "c. At night"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "What makes the very small moonquakes happen?",
+        "options": [
+          "a. Earthquakes",
+          "b. A rocket part",
+          "c. Our feet"
+        ],
+        "time": null,
+        "answer": "b"
       }
     ]
   }
