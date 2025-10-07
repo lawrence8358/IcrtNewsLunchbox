@@ -387,5 +387,118 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20251008-01",
+    "type": "國小",
+    "tag": [
+      "文化",
+      "部落",
+      "阿美族",
+      "花蓮"
+    ],
+    "title": "Young Amis People Keep the Amis Ways Alive",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251007NK.mp3",
+    "content": [
+      {
+        "en": "In Guangfu Township in Hualien, there is a very old village. It's Taibalang Tribal Village. People of the Amis tribe live there.",
+        "tw": "花蓮光復的太巴塱（ㄌㄤˇ）部落中住著許多阿美族人。",
+        "time": null
+      },
+      {
+        "en": "The village is next to two rivers. They are full of crabs!",
+        "tw": "部落旁有兩條河，河中很多螃蟹。",
+        "time": null
+      },
+      {
+        "en": "In the Amis language, \"Taibalang\" means \"crab.\" The village was named for the crabs in the rivers.",
+        "tw": "在阿美族語中，太巴塱就是螃蟹的意思。這就是太巴塱部落名字的起源。",
+        "time": null
+      },
+      {
+        "en": "Taibalang has many old wood carvings. These are pictures cut into wood. There are many carvings of crabs!",
+        "tw": "太巴塱有很多古老的木雕，而且螃蟹圖案的木雕特別多！",
+        "time": null
+      },
+      {
+        "en": "There are also carvings of other animals and people. The people are hunting, fishing, and dancing! The carvings show the ways of the Amis people.",
+        "tw": "木雕上除了會出現各種動物之外，也會有阿美族人豐富的日常生活！",
+        "time": null
+      },
+      {
+        "en": "Many young people leave the village to work. But every summer, they come back. They help the village get ready for a big festival!",
+        "tw": "離開部落工作的年輕人會在夏天回來，一起幫忙舉辦祭典。",
+        "time": null
+      },
+      {
+        "en": "Elders teach young people how to help. Everyone has a job to do. They do things the Amis way. Helping the village keeps the ways of the Amis people alive.",
+        "tw": "部落的長輩負責傳授經驗。這樣子，來幫忙的年輕人才能將阿美族的傳統延續下去。",
+        "time": null
+      },
+      {
+        "en": "Taiwan had some big typhoons this year. Guangfu was flooded. Amis people are going back to help the villages there. Others from all over Taiwan are going too.",
+        "tw": "今年 ，台灣遭遇了幾次的大颱風。光復被水淹了。阿美族人和來自台灣各地的其他人都去幫助村子！",
+        "time": null
+      },
+      {
+        "en": "Guangfu needs our help now! Let's hope Guangfu gets back to normal soon.",
+        "tw": "光復現在需要我們的幫助！讓我們希望光復能盡快恢復正常。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "阿美族太巴塱部落，很希望維繫他們的傳統。",
+      "content": [
+        {
+          "text": "1. way 方式。\nLiving in an old village by the river…. 住在河邊的古老村落裡...\nIsn't that a nice way of living? 那不是很好的生活方式?",
+          "time": null
+        },
+        {
+          "text": "2. hunt 打獵。\nI don't know about that. 這我不知道。\nPeople there hunt rabbits and catch crabs?那裏的人獵殺兔子，吃螃蟹?\nWhy not? 為什麼不可以?",
+          "time": null
+        },
+        {
+          "text": "3. young 年輕的。\nAnd older people can teach the young how to do things. 年紀大的可以教導年輕人做事情。\nWhat kinds of things? 做怎樣的事?",
+          "time": null
+        },
+        {
+          "text": "4. wood 木頭。\nLike…how to make a boat with wood. 比如說怎麼樣用木頭來造船。\nSo where's this village of yours? 所以你這個村落在哪裡?\nI have yet to find it. 我還在找。",
+          "time": null
+        }
+      ],
+      "postscript": "Let's go visit Taibalang Tribe together! 來讀今天的單字。way方式 hunt打獵 young年輕的 wood木頭"
+    },
+    "quiz": [
+      {
+        "question": "1. What does \"Taibalang\" mean in Amis language?",
+        "options": [
+          "a. Carving",
+          "b. Crab",
+          "c. River"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where is Taibalang Tribal Village?",
+        "options": [
+          "a. Yilan",
+          "b. Yunlin",
+          "c. Hualien"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What are \"wood carvings\"?",
+        "options": [
+          "a. Birds in trees",
+          "b. People who build buildings",
+          "c. Pictures cut into wood"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
