@@ -500,5 +500,102 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20251010-01",
+    "type": "國小",
+    "tag": [
+      "Whales",
+      "Ocean",
+      "Ecology"
+    ],
+    "title": "The Gardeners of the Ocean",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251009NK.mp3",
+    "content": [
+      {
+        "en": "Big whales swim very far. Every year, they go from cold places to warm places.",
+        "tw": "鯨魚每年都會從冷的地方游到溫暖海域。",
+        "time": null
+      },
+      {
+        "en": "Some scientists say whales are the gardeners of the ocean. Gardeners grow flowers or food. But how can whales be gardeners?",
+        "tw": "科學家說，鯨魚就像海洋的園丁一樣。為什麼呢？",
+        "time": null
+      },
+      {
+        "en": "Cold places have lots of very small fish. Whales eat and eat and eat them. Then the whales can swim very far. They swim to warm places.",
+        "tw": "鯨魚會在冰冷海水中吃很多很多小魚，然後再游到溫暖的地方。",
+        "time": null
+      },
+      {
+        "en": "The warm places don't have lots of small fish. There's not a lot of food for the fish. But that's okay for the whales. They don't eat there. They are busy with their babies.",
+        "tw": "溫暖的海水沒有小魚吃。不過沒關係，因為鯨魚會在那裏繁殖！",
+        "time": null
+      },
+      {
+        "en": "Oh! The warm water under a whale is turning yellow… But don't say, \"EWWWW.\" There's great food in the water now. Whales make lots of it. Scientists say whales make about four million kilograms of this food every year!",
+        "tw": "鯨魚底下的水變得黃黃的！那是鯨魚的排泄物，也是一種食物。鯨魚每年會製造四百萬公斤這種食物！",
+        "time": null
+      },
+      {
+        "en": "What happens to this food? Plankton use it! They are very, very small plants and animals. And plankton are very important food for small fish and whales! Whales help the ocean stay full of life. That's why they're called the gardeners of the ocean!",
+        "tw": "這些食物會怎麼樣呢？浮游生物會利用它們！牠們是非常非常小的植物和動物。浮游生物對小魚和鯨魚來說是非常重要的食物！鯨魚幫助海洋維持生機。這就是牠們被稱為海洋園丁的原因！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "鯨魚在大海中遷徙，也幫助維持生態。",
+      "content": [
+        {
+          "text": "1. million 百萬。Did you know that a whale can eat a million tiny fish in one day?你知不知道鯨魚一天就吃掉百萬隻小魚？No, I didn't. 我不知道。But whales are big animals. 不過鯨魚是很大的動物。",
+          "time": null
+        },
+        {
+          "text": "2. kilogram 公斤。That's true. 沒錯。A sperm whale can weigh some 55-thousand kilograms.抹香鯨可以重達五萬五千公斤!Wow, that's too heavy! 哇，那太重了!",
+          "time": null
+        },
+        {
+          "text": "3. swim 游泳。No, they need the fat. 不，牠們需要脂肪。After all, they have to swim across vast oceans. 畢竟牠們必須游過大洋。",
+          "time": null
+        },
+        {
+          "text": "4. very far 很遙遠。That sounds very far. 聽起來很遠呢!Yeah, it is far. 是很遠。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。million百萬 kilogram公斤 swim游泳 very far很遙遠"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do whales eat lots of small fish?",
+        "options": [
+          "a. In cold places",
+          "b. In warm places",
+          "c. In gardens"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How many kilograms of food do whales make?",
+        "options": [
+          "a. Four kilograms",
+          "b. One million kilograms",
+          "c. Four million kilograms"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What are plankton?",
+        "options": [
+          "a. Gardeners of the ocean",
+          "b. Very small plants and animals",
+          "c. Big whales"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
