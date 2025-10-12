@@ -597,5 +597,112 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251013-01",
+    "type": "國小",
+    "tag": [
+      "日常生活",
+      "消防員",
+      "榴槤"
+    ],
+    "title": "Firemen Find a Smelly Surprise",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251010NK.mp3",
+    "content": [
+      {
+        "en": "It was late at night. Somewhere in Taichung, people were sleeping. P.U.!! There was a new, strong, bad smell. People woke up! They smelled it in their houses. They smelled it out on the street. The smell was everywhere!",
+        "tw": "某一天晚上，一群台中居民從睡夢中驚醒。他們聞到一股奇怪的臭味！",
+        "time": null
+      },
+      {
+        "en": "People thought the smell was cooking gas. It's dangerous! So they called the firemen!",
+        "tw": "他們以為是瓦斯外洩，所以立刻打電話給消防隊！",
+        "time": null
+      },
+      {
+        "en": "Fire trucks zoomed down the street. Their sirens went \"woop woop!\" Their lights flashed! Eight firemen jumped out.",
+        "tw": "一收到通知，消防車跟消防隊員便快速趕到現場。",
+        "time": null
+      },
+      {
+        "en": "Where was the smell coming from? The firemen needed to find out. They knocked on doors. They sniffed. They used a machine that looks for gas. But they did not find any gas.",
+        "tw": "消防員到處尋找臭味的來源。但即使用了瓦斯偵測器，也沒找到瓦斯味從哪裡來。",
+        "time": null
+      },
+      {
+        "en": "The firemen sniffed and sniffed. Finally, they found where the smell was coming from. It was coming from something on a scooter!",
+        "tw": "他們聞了好久才發現，臭味是從一台機車散發出來的！",
+        "time": null
+      },
+      {
+        "en": "What was making the bad smell? It was a durian!",
+        "tw": "原來臭味的源頭是一顆榴槤！",
+        "time": null
+      },
+      {
+        "en": "The durian is called the king of fruits. It is delicious! But it is very smelly! It smells like cooking gas!",
+        "tw": "榴槤很美味，但也很臭。它的味道聞起來跟瓦斯一樣！",
+        "time": null
+      },
+      {
+        "en": "Everyone saw the durian. What a surprise! They laughed. It was not dangerous. It was a smelly, smelly durian!",
+        "tw": "大家看到榴槤後都感到很驚訝，然後笑了出來。原來這不是危險的瓦斯外洩，只是一顆又臭又香的榴槤！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "榴槤讓人以為是瓦斯漏氣了。",
+      "content": [
+        {
+          "text": "1. everywhere 到處。\nWhat's that smell? 那是什麼氣味? It's everywhere! 到處都是!\nI'm pretty sure it's cigarette smoke.我很確定是香菸。",
+          "time": null
+        },
+        {
+          "text": "2. street 街道。\nSomebody is smoking out on the street.有人在外面街上抽菸。\nOh, I hate that! 真討厭!\nDo you want me to yell at him? 你要我對他喊嗎?\nNo, I'll do it. 不要，我來對他喊。",
+          "time": null
+        },
+        {
+          "text": "3. surprise 驚訝。\nHey, hey! Please don't smoke here! 嘿，請你不要在這裡抽菸!\n\"Sorry!\"\nWow, that's a surprise! 哇，真讓我驚訝。",
+          "time": null
+        },
+        {
+          "text": "4. look for 尋找。\nIndeed, a very polite man. 真的是很有禮貌的人。\nWe should look for more neighbors like him.我們應該找更多像他那樣的鄰居。",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字?\neverywhere到處 street街道 surprise驚訝 look for尋找"
+    },
+    "quiz": [
+      {
+        "question": "1. What did people think the bad smell was?",
+        "options": [
+          "a. A scooter",
+          "b. A fruit",
+          "c. Cooking gas"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many firemen came to help?",
+        "options": [
+          "a. Five",
+          "b. Eight",
+          "c. Ten"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Where did the bad smell come from?",
+        "options": [
+          "a. A machine",
+          "b. A durian",
+          "c. Fire trucks"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
