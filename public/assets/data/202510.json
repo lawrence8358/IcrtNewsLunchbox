@@ -704,5 +704,108 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251014-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Team of Teens Gets E-Waste Recycled",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251013NK.mp3",
+    "content": [
+      {
+        "en": "We use many things that need electricity. There are computers, smartphones, TVs, and many more things. When we don't use them anymore, they become e-waste.",
+        "tw": "我們每天都會用到很多電子產品。電子產品被丟棄就成了電子垃圾。",
+        "time": null
+      },
+      {
+        "en": "Throwing away e-waste makes our land, water, and air dirty. But e-waste can be recycled! Then people can make new things!",
+        "tw": "電子垃圾會汙染環境，但這些垃圾可以被回收再利用！",
+        "time": null
+      },
+      {
+        "en": "Taiwan is very good at recycling e-waste! But many other places need help.",
+        "tw": "台灣很會回收電子垃圾喔！",
+        "time": null
+      },
+      {
+        "en": "Dubai is a city in the United Arab Emirates. Like all cities, it has lots of e-waste.",
+        "tw": "杜拜這個城市位於阿拉伯聯合大公國。他們也有很多電子垃圾。",
+        "time": null
+      },
+      {
+        "en": "A 14-year-old girl helps get Dubai's e-waste recycled. She works with teenagers from six schools.",
+        "tw": "那裡有個十四歲的女生集合六所學校的學生，一起回收杜拜的電子垃圾。",
+        "time": null
+      },
+      {
+        "en": "The girl and her team ask people for their e-waste. They do this a few times a year. People bring their e-waste to the girl's house. The team sends it to be recycled.",
+        "tw": "杜拜市民會把電子垃圾帶到這個女生家。接下來，這群學生就會把垃圾送去回收！",
+        "time": null
+      },
+      {
+        "en": "This time, the team got 900 kilograms of e-waste! That's as heavy as two big horses!",
+        "tw": "他們這一次總共回收了九百公斤的電子垃圾！",
+        "time": null
+      },
+      {
+        "en": "A team of teens is getting e-waste recycled in Dubai! Today is International E-Waste Day. Remember to get your e-waste recycled in Taiwan!",
+        "tw": "青少年團隊正在杜拜回收電子垃圾！今天是國際電子垃圾日。記得在台灣回收你的電子垃圾！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "手機，電腦之類的產品，裡面很多成分都可以回收再利用。",
+      "content": [
+        {
+          "text": "1. team 團隊. My friend's son and his team pick up garbage every weekend. 我朋友的兒子和他的隊伍每個周末都去撿垃圾. On the beach? 去海灘嗎? Yeah. 對.",
+          "time": null
+        },
+        {
+          "text": "2. teenager 青少年. How old is he? 他幾歲? Seventeen, I think. 十七歲吧. Teenagers saving the planet. 拯救地球的青少年. That's great! 真棒!",
+          "time": null
+        },
+        {
+          "text": "3. school 學校. His school is encouraging it. 他的學校很鼓勵. Of course, it's good for the school and Earth. 當然啦，那對學校跟地球都好.",
+          "time": null
+        },
+        {
+          "text": "4. not anymore 不再. We should stop using plastic bags too. 我們也應該停用塑膠袋. Oh, I don't use them anymore. 我都不再用了. Really? 真的嗎?",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了嗎? team團隊 teenager青少年 school學校 not anymore不再"
+    },
+    "quiz": [
+      {
+        "question": "1. What can become e-waste?",
+        "options": [
+          "a. A computer",
+          "b. An e-mail",
+          "c. A team of teens"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where is Dubai?",
+        "options": [
+          "a. The United Kingdom",
+          "b. The United Arab Emirates",
+          "c. The United States"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Where do people in Dubai bring their e-waste?",
+        "options": [
+          "a. The girl's house",
+          "b. The team's schools",
+          "c. The team's city"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
