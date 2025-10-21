@@ -1018,5 +1018,112 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20251017-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Law-related Education",
+      "Safety Education"
+    ],
+    "title": "Taipei Is Making Buses Safer to Ride",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251016NK.mp3",
+    "content": [
+      {
+        "en": "Do you ride the bus? Many people ride the bus. Some ride every day. But, sometimes, bus riders get a surprise.",
+        "tw": "你平常會搭公車嗎? 有些人天天搭公車，但車上偶爾會發生意外！",
+        "time": null
+      },
+      {
+        "en": "Some bus drivers drive, and then they drive too fast! Hey! Sometimes they stop too fast. Whoa! Both are dangerous to do! Sometimes bus riders fall down. Ouch!",
+        "tw": "如果公車司機開太快或是突然煞車，乘客就有可能摔倒。",
+        "time": null
+      },
+      {
+        "en": "This year in Taipei, from January to May, almost one hundred bus riders were hurt! Every year in Taipei, about two hundred bus riders are hurt! Ow!",
+        "tw": "台北每年都有大約兩百位公車乘客因此受傷。",
+        "time": null
+      },
+      {
+        "en": "The bus drivers wanted to do a good job. But they worked many hours. Why? Taipei could not get more bus drivers.",
+        "tw": "台北的公車司機不夠，所以他們的工作時間很長、很累。",
+        "time": null
+      },
+      {
+        "en": "And the roads were busy. People were waiting at bus stops! The bus drivers tried not to be late!",
+        "tw": "塞車的時候，司機就會著急，因為他們不想讓大家在公車站等太久。司機一緊張，就容易發生意外！",
+        "time": null
+      },
+      {
+        "en": "But Taipei wants safer buses. Now there are more bus drivers. They cannot work more than ten hours a day.",
+        "tw": "為了讓乘客更安全，台北雇用了更多司機，減少司機疲勞駕駛的問題。",
+        "time": null
+      },
+      {
+        "en": "The roads are busy. People are waiting at bus stops. But Taipei will also teach bus drivers safer driving. And bus drivers can do a good job!",
+        "tw": "台北的公車司機需要學習如何安全駕駛。這樣一來，搭公車受傷的人就會變少。",
+        "time": null
+      },
+      {
+        "en": "Bus riders want safer buses. Falling is NOT fun!",
+        "tw": "公車乘客希望有更安全的公車。跌倒一點都不好玩！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台北市希望增加公車司機的人數，鼓勵大家多多搭乘。",
+      "content": [
+        {
+          "text": "1. road 道路。\nThis road looks dangerous! 這條路看起來很危險!\nYou sure it's safe to drive this fast? 你確定可以開這麼快?",
+          "time": null
+        },
+        {
+          "text": "2. hurt 受傷的。\nRelax, I'm the driver.別擔心，是我在開車。\nNo one's gonna get hurt.不會有人受傷的。\nWe should just take the bus.我們應該就搭公車的。",
+          "time": null
+        },
+        {
+          "text": "3. late 遲到。\nThen we'd have to wait and wait. 那我們就得一直等。\nI'm already late for work. 我上班已經晚了。\nYour job doesn't pay enough for stunt driving.\n你工作拿的錢可不夠你耍開車特技。",
+          "time": null
+        },
+        {
+          "text": "4. job 工作。\nMaybe I can get a new job as a taxi driver. 也許我可以換新工作，當計程車司機。\nYou'll get fined every day! 你會每天都被罰錢的!",
+          "time": null
+        }
+      ],
+      "postscript": "road道路 hurt受傷的 late遲到 job工作"
+    },
+    "quiz": [
+      {
+        "question": "1. What do bus riders sometimes do when buses stop too fast?",
+        "options": [
+          "a. Jump up",
+          "b. Fall down",
+          "c. Sleep"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many bus riders were hurt from January to May in Taipei?",
+        "options": [
+          "a. Five",
+          "b. Almost one hundred",
+          "c. About two hundred"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What will Taipei teach bus drivers?",
+        "options": [
+          "a. Safer driving",
+          "b. Faster driving",
+          "c. Safer falling"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
