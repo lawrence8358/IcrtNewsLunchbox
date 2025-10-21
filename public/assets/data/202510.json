@@ -1125,5 +1125,107 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20251020-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Outdoor Education",
+      "Natural Sciences"
+    ],
+    "title": "Play in Nature and Learn",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251017NK.mp3",
+    "content": [
+      {
+        "en": "Nature is everywhere! There are oceans, mountains, forests, animals, and much, much more. When you learn about nature, you can help keep it safe.",
+        "tw": "大自然無所不在，你要是對海洋，山脈或是動物有更多了解，就可以保護它們。",
+        "time": null
+      },
+      {
+        "en": "Playing in nature is a fun way to learn about it. You and your friends can walk in nature with a teacher. What can you see busy bugs doing? What animals can you see? Maybe… maybe… you can see a snake!",
+        "tw": "你可以跟朋友或是老師走進大自然，看看昆蟲，看看樹木花草。可能還會看到一條蛇!",
+        "time": null
+      },
+      {
+        "en": "Some nature walks are at night. You and your friends can walk in a forest with a teacher. Nature is around you. But you can't see much. So... listen carefully! Shhhhh!",
+        "tw": "有時候夜遊森林也很有趣。四周被樹木包圍了，什麼都看不清楚。那是什麼聲音...?",
+        "time": null
+      },
+      {
+        "en": "Maybe you'll hear this. That's a flying squirrel jumping to a new tree! What's that?! That's an owl! Wow! Taiwan doesn't have many. To help owls be safe, help make Earth cleaner. A clean Earth is good for all animals!",
+        "tw": "你也許會聽到飛鼠跳到另外一棵樹! 或者是貓頭鷹! 貓頭鷹在台灣並不常見，想保護牠們，就要減少對地球的汙染。",
+        "time": null
+      },
+      {
+        "en": "Hey! What's that? Is your teacher hungry? No! That's a frog! Taiwan has many kinds. Some live in trees! How cool!",
+        "tw": "咦，你的老師是不是餓了? 不對，是青蛙的叫聲。青蛙種類繁多，有的住在樹上。",
+        "time": null
+      },
+      {
+        "en": "Maybe you'll see frogs too! Wait! To keep them safe, don't touch them!",
+        "tw": "不要摸青蛙，牠們的皮膚很細緻，人類的手可能帶來傷害。",
+        "time": null
+      },
+      {
+        "en": "It's fun to play in nature and learn! Play and learn how to keep nature safe!",
+        "tw": "在大自然中玩耍和學習很有趣！盡情玩耍並學習如何保護大自然吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "擺脫城市走進大自然，你會有不同的收穫。",
+      "content": [
+        {
+          "text": "1. snake 蛇。\nWe should go camping this weekend. 我們這周末應該去露營。\nI miss being in nature.我想念大自然。\nNature? 大自然?\nThe last time you saw a snake,你上次看到蛇,\nyou screamed and jumped around! 不但尖叫，還跳來跳去!",
+          "time": null
+        },
+        {
+          "text": "2. forest 森林。\nBecause that's one ugly snake! 因為那條蛇好醜!\nThat's what you get when you go into a forest. 你進入森林就會看到那些。",
+          "time": null
+        },
+        {
+          "text": "3. owl 貓頭鷹。\nWhat I want to see are owls and other birds. 我想看的是貓頭鷹跟別的鳥類。",
+          "time": null
+        },
+        {
+          "text": "4. hear 聽到。\nI want to hear the sounds of the forest at night. 我想聽森林在晚上的聲音。\nLike wolves howling. 比如說狼嚎。\nThere are no wild wolves in Taiwan! 台灣沒有野生的狼!",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like nature?\n來讀單字。snake蛇 forest森林 owl貓頭鷹 hear聽到"
+    },
+    "quiz": [
+      {
+        "question": "1. What can you do when you learn about nature?",
+        "options": [
+          "a. Eat healthy food",
+          "b. Keep nature safe",
+          "c. Touch frogs"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do you do on a nature walk at night?",
+        "options": [
+          "a. Listen",
+          "b. Jump",
+          "c. Sing"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How can you help owls be safe?",
+        "options": [
+          "a. Give them food",
+          "b. Walk in a forest",
+          "c. Make Earth cleaner"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
