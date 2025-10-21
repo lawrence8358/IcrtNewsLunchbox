@@ -807,5 +807,110 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20251015-01",
+    "type": "國小",
+    "tag": [
+      "Tags"
+    ],
+    "title": "Robots Use AI to Play Soccer",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251014NK.mp3",
+    "content": [
+      {
+        "en": "This summer, six robots ran to a soccer field. They looked like people. They were soccer players!",
+        "tw": "足球場上有六個機器人，它們是足球選手！",
+        "time": null
+      },
+      {
+        "en": "Each team had three robots. One team wore red shirts. The other team wore blue shirts.",
+        "tw": "每一隊都有三個機器人，一隊穿著紅色球衣，另一隊穿藍色。",
+        "time": null
+      },
+      {
+        "en": "The whistle blew! The robots started to play! They ran by themselves. People did not help them. The robots used AI to play. Each team had their own AI.",
+        "tw": "哨聲一響，機器人足球賽就開始了！它們靠著AI自己跑起來，不需要任何人幫忙。",
+        "time": null
+      },
+      {
+        "en": "One robot kicked the ball. One passed the ball to another robot. One robot fell down! But it got up!",
+        "tw": "一個機器人踢球，另一個傳球，還有一個機器人跌倒後馬上爬起來！",
+        "time": null
+      },
+      {
+        "en": "Another robot fell down. But it did not get up! Two people put it on a stretcher. Then they carried it away.",
+        "tw": "又有一個機器人跌倒了，但他站不起來！兩個人把它搬上擔架，移到場外。",
+        "time": null
+      },
+      {
+        "en": "Then, one robot made a big kick. GOAL! The other team did not give up. They played hard.",
+        "tw": "機器人大力一踢，機器人進球了！它的對手沒有放棄，繼續努力比賽。",
+        "time": null
+      },
+      {
+        "en": "The blue team made a goal! The red team scored a goal! The score went up and up! In the end, the blue team had three points. The red team had five points. The red team won! Everyone loved watching the game!",
+        "tw": "比賽結束，藍隊三分，紅隊五分，紅隊獲勝！真是一場精彩的比賽！",
+        "time": null
+      },
+      {
+        "en": "Robots playing sports is new and fun. Maybe one day robots can play sports with you!",
+        "tw": "機器人玩運動既新奇又有趣。或許有一天機器人也能和你一起玩運動！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "足球運動很激烈，機器人玩得有模有樣。",
+      "content": [
+        {
+          "text": "1. get up 爬起來。\nA soccer game? 足球比賽嗎?\nYeah, Germany versus Brazil. 對，德國對巴西。\nWow, this should be a good one! 那應該很精采。\nIt is. Look how fast that player got up! 是很棒，你看那個球員一下子就爬起來了!",
+          "time": null
+        },
+        {
+          "text": "2. kick 踢。\nYeah, he's really playing hard.對啊，他很拚呢。\nHey, just kick the ball, man! 直接踢球啊!",
+          "time": null
+        },
+        {
+          "text": "3. team 隊伍。\nAnd they scored! 他們得分了!\nWhat a great team! 厲害的球隊!",
+          "time": null
+        },
+        {
+          "text": "4. pass 傳遞。\nDid you see how he passed the ball? 你有沒有看到他怎麼傳球?\nI did. He's just amazing. 看到了，他很驚人。",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我讀今天的單字。\nget up起來 kick踢 team隊伍 pass傳遞"
+    },
+    "quiz": [
+      {
+        "question": "1. What sport did the robots play?",
+        "options": [
+          "a. Kickball",
+          "b. Hockey",
+          "c. Soccer"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many robots played in the game?",
+        "options": [
+          "a. Three robots",
+          "b. Six robots",
+          "c. Twenty-two robots"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did the robots use to play the sport?",
+        "options": [
+          "a. AI",
+          "b. People",
+          "c. A stretcher"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
