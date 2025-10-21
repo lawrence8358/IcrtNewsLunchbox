@@ -912,5 +912,111 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20251016-01",
+    "type": "國小",
+    "tag": [
+      "Multicultural Education",
+      "International Education"
+    ],
+    "title": "Japan's Magic Umbrellas",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251015NK.mp3",
+    "content": [
+      {
+        "en": "Everyone wants an umbrella on rainy days. But did you know umbrellas can have magic? They do in Japan!",
+        "tw": "你知道在日本雨傘是有魔法的嗎？",
+        "time": null
+      },
+      {
+        "en": "A long time ago, umbrellas were for very important people there. Workers held the umbrellas high over these people! This showed these people had power in their country, or with spirits.",
+        "tw": "很久以前，在日本只有重要人物才有人幫他們撐傘。這個象徵他們在國內或者在神鬼之間有權有勢。",
+        "time": null
+      },
+      {
+        "en": "So everyone thought umbrellas had magic. They thought spirits came down to Earth and lived in umbrellas!",
+        "tw": "因此，大家認為雨傘有魔法，神鬼會降臨到世間，住在雨傘裡！",
+        "time": null
+      },
+      {
+        "en": "Today, everyone can use umbrellas. And in Japan, the magic stays!",
+        "tw": "如今大家都能用傘，但是雨傘在日本的魔力仍然不減！",
+        "time": null
+      },
+      {
+        "en": "At one festival there, people spin beautiful umbrellas. They say these umbrellas take away sickness!",
+        "tw": "在日本的一個祭典上，大家會旋轉漂亮的雨傘。據說這些雨傘可以帶走病痛！",
+        "time": null
+      },
+      {
+        "en": "At another festival, big floats drive in a parade. The floats have umbrellas on them. People walk under the umbrellas. They say this brings good luck!",
+        "tw": "另一個祭典會有插滿雨傘的花車。參加祭典的人會從雨傘下走過，祈求平安。",
+        "time": null
+      },
+      {
+        "en": "On one island in Japan, people do a dance every two years. They dance with colorful umbrellas for one night. This helps spirits go home safely!",
+        "tw": "在日本的一個島上，人們會在某一天晚上拿著色彩繽紛的雨傘跳舞。他們每兩年舉行一次這種舞蹈，希望島上的鬼魂可以平安回家。",
+        "time": null
+      },
+      {
+        "en": "So, when you open an umbrella, look at it. Is it full of magic and good luck too?",
+        "tw": "所以，當你打開雨傘時，看看它。它也充滿了魔法和好運嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "日本人相信雨傘很神奇，可以帶來好運。",
+      "content": [
+        {
+          "text": "1. parade 遊行。 There's a big parade in Keelung this weekend. 這周末基隆有大遊行。 And you plan to go?",
+          "time": null
+        },
+        {
+          "text": "2. a long time ago 很久以前。 Yeah, I saw it once a long time ago.對，很久以前我看過一次。",
+          "time": null
+        },
+        {
+          "text": "3. think 認為，或是以為。 I thought you don't like crowded places.我以為你不喜歡擁擠的地方。 I don't, but that one was fun.",
+          "time": null
+        },
+        {
+          "text": "4. colorful 五顏六色的。 The floats were colorful and beautiful! 花車五顏六色，好漂亮! Some had dancers on them! 有的上面還有人跳舞! I'll go with you.",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了嗎? parade遊行 a long time ago很久以前 think認為，或是以為 colorful五顏六色的"
+    },
+    "quiz": [
+      {
+        "question": "1. Who were umbrellas for a long time ago in Japan?",
+        "options": [
+          "a. Everyone",
+          "b. Very important people",
+          "c. Dancers"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. A long time ago in Japan, where did everyone think spirits lived?",
+        "options": [
+          "a. On parade floats",
+          "b. In umbrellas",
+          "c. On an island"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why do people walk under umbrellas at one parade?",
+        "options": [
+          "a. To see spirits",
+          "b. To keep dry",
+          "c. To bring good luck"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
