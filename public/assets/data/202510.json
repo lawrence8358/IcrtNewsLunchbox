@@ -1227,5 +1227,111 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20251021-01",
+    "type": "國小",
+    "tag": [
+      "動物",
+      "故事"
+    ],
+    "title": "Ducks Walk to Town for Bedtime",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251020NK.mp3",
+    "content": [
+      {
+        "en": "Every night near a small town in the U.K., some mama ducks and baby ducks go for a walk.",
+        "tw": "在英國的一個小鎮，每晚都有鴨媽媽帶著一群寶寶出來散步。",
+        "time": null
+      },
+      {
+        "en": "Twenty ducks leave their river together. They walk in two groups. They walk for fifteen minutes!",
+        "tw": "總共二十隻鴨子一起離開牠們白天待的小河流，搖搖擺擺往前走。",
+        "time": null
+      },
+      {
+        "en": "The ducks walk to town. They go to a parking lot. It has nice, warm stones. The ducks like it there.",
+        "tw": "走了15分鐘之後來到停車場。牠們很喜歡這裡，因為石頭地面溫暖舒服。",
+        "time": null
+      },
+      {
+        "en": "The ducks sit down. They stay close together. They sleep until morning. Then they walk back to the river.",
+        "tw": "鴨子們窩在一起，一路睡到早上。起床後，牠們便會走回河邊。",
+        "time": null
+      },
+      {
+        "en": "But these walks are not safe. Some time ago, four ducks got hurt. Cars hit them. That was very sad. The cars were going fast. The drivers did not see the ducks.",
+        "tw": "這段路非常危險。曾經有四隻鴨子在過馬路時不幸被汽車撞上。",
+        "time": null
+      },
+      {
+        "en": "Now kind people help the ducks. Fifteen people take turns. They wear colorful clothes. Cars can see them. They walk with the ducks. They stop cars for the ducks. They watch the ducks sleep. They keep the ducks safe!",
+        "tw": "現在有志工團隊負責指揮交通，幫助鴨子過馬路。這些友善的志工晚上會輪流守護鴨子，確保他們能睡得安穩！",
+        "time": null
+      },
+      {
+        "en": "Today, no more ducks are hurt. They walk from June to December. Every night, they come. Every morning, they go.",
+        "tw": "如今，沒有鴨子受傷，他們能安全的走在路上！",
+        "time": null
+      },
+      {
+        "en": "The ducks walk happily to and from their place in the parking lot. And people smile!",
+        "tw": "鴨子們高興地來回走動於牠們在停車場的棲息地。人們也為此微笑！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這群鴨子找到晚上睡覺的地方，會自己走過去。",
+      "content": [
+        {
+          "text": "1. car 汽車.\nDo you walk to your car from the office every night?\n你每天晚上都從辦公室走去你的車?\nSure, but I wish I had a driver. 當然，但是真希望我有司機。",
+          "time": null
+        },
+        {
+          "text": "2. safe 安全的.\nI can walk you there tonight. 我今晚可以陪你走。\nTo keep me safe? 保護我安全嗎?\nYeah, two is better than one.對啊，兩個總比一個好。",
+          "time": null
+        },
+        {
+          "text": "3. parking lot 停車場.\nBut it's a safe parking lot. 不過那個停車場很安全。\nUh-huh, you just need a ride, right? 你是想搭便車，對吧?",
+          "time": null
+        },
+        {
+          "text": "4. sleep 睡覺.\nYou got me. 被你抓到了。\nSo please don't sleep while driving.所以你開車時可別睡著。\nMaybe you can be my driver? 也許你可以當我的司機?\nNo, I need to sleep. 不行，我需要睡覺。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你可記住了?\ncar汽車 safe安全的 parking lot停車場 sleep睡覺"
+    },
+    "quiz": [
+      {
+        "question": "1. When do the ducks go to the parking lot?",
+        "options": [
+          "a. In the morning",
+          "b. In the afternoon",
+          "c. At night"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many people help the ducks?",
+        "options": [
+          "a. Two",
+          "b. Fifteen",
+          "c. Twenty"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What hurt four ducks before?",
+        "options": [
+          "a. Water in the river",
+          "b. Stones in the parking lot",
+          "c. Cars on the road"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
