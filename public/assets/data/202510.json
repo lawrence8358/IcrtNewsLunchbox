@@ -1333,5 +1333,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20251022-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Safety Education",
+      "Outdoor Education"
+    ],
+    "title": "Wild Mushrooms Can Make You Sick",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251021NK.mp3",
+    "content": [
+      {
+        "en": "Mushrooms love rainy and humid weather. Taiwan is often rainy and humid. Wild mushrooms grow everywhere here! You might see them in the mountains, on farms or fields, at school, or in your backyard.",
+        "tw": "台灣氣候潮濕，非常適合野生菇類的生長。這些菇類會長在山上、農場上、也可能從你家後院的泥土中冒出來！",
+        "time": null
+      },
+      {
+        "en": "Mmmmm! Wild mushrooms look good to eat. But some are very bad to eat. Which are good to eat? Which are bad? It's hard to know! So Taiwan is telling everyone not to eat wild mushrooms.",
+        "tw": "有些野菇可以吃，有些不能吃，但他們很難分辨。所以政府提醒大家不要亂吃野菇！",
+        "time": null
+      },
+      {
+        "en": "In Kaohsiung, some big wild mushrooms were growing next to a road. Some were bigger than a hand! People stopped their cars to look. Maybe some wanted to eat these wild mushrooms!",
+        "tw": "有人在高雄的路邊發現了很大的野菇！也許會有人想吃吃看。",
+        "time": null
+      },
+      {
+        "en": "The police came. They took the mushrooms away. They wanted to keep everyone safe!",
+        "tw": "為了確保大家的安全，警察把那些大雨之後長出來的野菇都清除了。",
+        "time": null
+      },
+      {
+        "en": "Wild mushrooms can make you very sick. They can make your stomach hurt a lot. They can make you have diarrhea. They can make you throw up.",
+        "tw": "有些野生的蕈菇有毒！亂吃野菇的話可能會肚子痛或是嘔吐！",
+        "time": null
+      },
+      {
+        "en": "If you eat wild mushrooms and get sick, don't wait to get better. Go to the doctor!",
+        "tw": "如果你吃到野菇之後身體不舒服，就一定要去看醫生！",
+        "time": null
+      },
+      {
+        "en": "So remember: don't eat wild mushrooms. They look good but they can be very bad for you!",
+        "tw": "所以記住：不要吃野生蘑菇。它們看起來很好，但對你來說可能非常糟糕！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "路邊的野菇不能隨便撿起來吃。",
+      "content": [
+        {
+          "text": "1. grow 種植。 I plan to grow some white button mushrooms. 我打算種一些蘑菇。 Mushrooms! I love mushrooms stir fried with shrimps. 蘑菇! 我愛吃蘑菇炒蝦仁。",
+          "time": null
+        },
+        {
+          "text": "2) weather 天氣。 Then you must come to my house and eat them. 那你一定要來我家來吃。 Yeah, if you succeed. 好啊，要是你種成功的話。 Of course I will! 我當然會。 It's easy in this humid weather.天氣這麼潮濕，很容易的。",
+          "time": null
+        },
+        {
+          "text": "3) wild 野生的。 I've seen wild mushrooms in the grass after it rained. 我看過下雨之後草地上就有野菇。 Those may be dangerous. 那些可能有危險。",
+          "time": null
+        },
+        {
+          "text": "4) sick 生病的。 I know. That's why I didn't dare touch them. 我知道，這是為什麼我碰都不敢碰。 I don't want to get sick. 我可不想生病。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡蘑菇嗎?來一起讀單字。 grow種植 weather天氣 wild野生的 sick生病的"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of weather do mushrooms like?",
+        "options": [
+          "a. Rainy",
+          "b. Sunny",
+          "c. Windy"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What is Taiwan telling everyone about wild mushrooms?",
+        "options": [
+          "a. Take them home",
+          "b. Eat them",
+          "c. Don't eat them"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did the police do to some wild mushrooms in Kaohsiung?",
+        "options": [
+          "a. Took pictures",
+          "b. Took them away",
+          "c. Ate them"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
