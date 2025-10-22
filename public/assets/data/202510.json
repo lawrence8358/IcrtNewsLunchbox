@@ -1435,5 +1435,115 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251023-01",
+    "type": "國小",
+    "tag": [
+      "學習英文"
+    ],
+    "title": "Farmer Says Goodbye to Buffalo, Hello to Machines",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251022NK.mp3",
+    "content": [
+      {
+        "en": "In sunny Taitung, a farmer is working. He loves to work on his farm!",
+        "tw": "在陽光普照的台東，一位農夫正在工作。他熱愛他的農場工作！",
+        "time": null
+      },
+      {
+        "en": "The farmer grows rice. It is called \"Ugly Beauty.\" Well, this kind of rice is not pretty! But he likes it a lot. It tastes good!",
+        "tw": "有一個農夫在台東種植稻米，他種的米叫做「醜美人」。這種米不好看，但很好吃！",
+        "time": null
+      },
+      {
+        "en": "For many years, the farmer had water buffalo. Water buffalo look like cows. They are big and strong.",
+        "tw": "這名農夫很多年來都用高大強壯的水牛耕田。",
+        "time": null
+      },
+      {
+        "en": "His water buffalo worked on the farm. They worked very hard. They helped the farmer turn the soil. This helped the rice grow better!",
+        "tw": "農夫的水牛辛苦種田、翻土，讓米長得越來越好。",
+        "time": null
+      },
+      {
+        "en": "But the farmer was getting older. Farming was getting harder and harder for him.",
+        "tw": "但農夫年紀越來越大，對他來說，務農變得越來越困難。",
+        "time": null
+      },
+      {
+        "en": "Then he was eighty. He wanted to keep farming. But it was too hard. The farmer said goodbye to his water buffalo. He was sad.",
+        "tw": "但農夫年紀太大了，沒辦法再種田。他難過的跟他的水牛道別。",
+        "time": null
+      },
+      {
+        "en": "Then the farmer's children came to help! They gave him machines for the farm too. The machines made farming easier!",
+        "tw": "農夫的小孩來幫忙，也給老爸爸買來機器，讓種田更輕鬆。",
+        "time": null
+      },
+      {
+        "en": "The farmer was happy! His children and the machines helped him keep farming!",
+        "tw": "農夫不再難過。因為有了孩子與機器的幫忙，他就能繼續耕田了！",
+        "time": null
+      },
+      {
+        "en": "Now the Ugly Beauty rice farmer is 91 years old. He smiles every day. He loves farming!",
+        "tw": "現在這位醜美人稻米農夫已經91歲了。他每天都面帶微笑。他熱愛農耕！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "農夫和水牛是好朋友，不過機器漸漸取代了牛的地位。",
+      "content": [
+        {
+          "text": "1. harder and harder 越來越難。\nIt's getting harder and harder for me to get up early.我越來越沒辦法早起。",
+          "time": null
+        },
+        {
+          "text": "2. easier 更容易。\nWhy? 為什麼?\nIt's easier for me as the sun rises early. 我覺得日出提早了，更容易早起。\nThat's my problem. 這正是我的問題。",
+          "time": null
+        },
+        {
+          "text": "3. keep 持續。\nI just don't like getting up with the sun. 我就是不愛跟著太陽起床.\nAnd your bed keeps making you stay longer. 你的床也一直讓你想多待一會兒。",
+          "time": null
+        },
+        {
+          "text": "4. sad 悲傷的。\nExactly! 正是那樣!\nWhat should I do? 怎麼辦?\nThink of something happy when you wake up. 醒來時想一些快樂的事.\nBut my dreams are often sad. 但是我都做悲傷的夢。",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學到哪些單字?\nharder and harder越來越難 easier更容易 keep持續 happy快樂的"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of rice does the farmer grow?",
+        "options": [
+          "a. Beauty Ugly",
+          "b. Beautiful Ugly",
+          "c. Ugly Beauty"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did the farmer's water buffalo do?",
+        "options": [
+          "a. Turn the soil",
+          "b. Make farming harder",
+          "c. Say goodbye to him"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How old is the farmer now?",
+        "options": [
+          "a. 19",
+          "b. 80",
+          "c. 91"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
