@@ -1545,5 +1545,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20251024-01",
+    "type": "國小",
+    "tag": [
+      "Technology Education",
+      "Industry",
+      "Innovation and Infrastructure"
+    ],
+    "title": "Old Trains at New Museum",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251023NK.mp3",
+    "content": [
+      {
+        "en": "There's something old and new in Taipei! It's the new National Railway Museum. You can learn about Taiwan's old trains. Go and see it with your family!",
+        "tw": "國家鐵道博物館要開幕囉！你可以在那邊看到早期的火車。",
+        "time": null
+      },
+      {
+        "en": "Before, the museum was a big railway workshop. Workers fixed trains there for many years. But that was a long time ago.",
+        "tw": "好久以前，這座博物館是一個維修火車的工廠。",
+        "time": null
+      },
+      {
+        "en": "The workshop is very old. But many people worked hard to make it look nice. They cleaned the walls. They painted the doors. They cleaned the old tools and machines. They did this for nine years!",
+        "tw": "原本老舊的工廠需要翻新。整修與裝潢花了整整九年才完成！",
+        "time": null
+      },
+      {
+        "en": "Now the museum is ready. There are lots of things to see. There are twenty-four old trains. Their wheels are very big.",
+        "tw": "大功告成之後，博物館現在總共有二十四台以前的火車！",
+        "time": null
+      },
+      {
+        "en": "The workshop has tools, machines, and train parts. The old office has papers and cool maps. The maps show where the trains went.",
+        "tw": "博物館的工作室展出各種機器跟火車零件。辦公室裡面則有公文跟畫了火車路線的地圖。",
+        "time": null
+      },
+      {
+        "en": "On some days, an old bright blue train is ready to go! You can ride it! You will hear the loud horn. You will hear the engine. You will feel the train go faster and faster!",
+        "tw": "有時候，參觀的遊客甚至還可以搭一段藍色的火車，聽到火車鳴笛的聲音，感受到火車越跑越快。",
+        "time": null
+      },
+      {
+        "en": "Go and see the National Railway Museum. You'll have a great train day!",
+        "tw": "快去參觀國家鐵道博物館吧。你將會度過美好的一天！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台北市國家鐵道博物館，讓很多火車迷大為興奮!",
+      "content": [
+        {
+          "text": "1. train 火車。\nAre you interested in trains? 你對火車有興趣嗎?\nYou're going to take me on a train trip? 你要帶我坐火車旅行?\nNo, I'm planning to go to a railway museum. 不是，我打算去鐵道博物館。",
+          "time": null
+        },
+        {
+          "text": "2. museum 博物館。\nAnd you'd like me to go with you? 你想要我一起去?\nIf you want to. 要是你想去的話。\nWhat's in the museum? 博物館裡有什麼?",
+          "time": null
+        },
+        {
+          "text": "3. fix 修理。\nLots of trains. 很多火車。\nYou'll get to see how workers fixed the trains. 你會看到工人怎麼修理火車。\nI prefer to go on a train trip. 我比較想搭火車旅行。",
+          "time": null
+        },
+        {
+          "text": "4. national 國家的。\nLet's go take the Bong Bong Train at Taiping National Forest this weekend.\n我們這周末去太平山國家森林坐蹦蹦車!\nAnd the museum? 那博物館呢?",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡搭火車嗎?\ntrain火車 museum博物館 fix修理 national國家的"
+    },
+    "quiz": [
+      {
+        "question": "1. How many trains are in the museum?",
+        "options": [
+          "a. One",
+          "b. Nine",
+          "c. Twenty-four"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where are the papers and maps?",
+        "options": [
+          "a. In the workshop",
+          "b. In the old office",
+          "c. On the blue train"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What color is the train you can ride?",
+        "options": [
+          "a. Blue",
+          "b. Red",
+          "c. Green"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
