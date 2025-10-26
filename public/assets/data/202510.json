@@ -1647,5 +1647,106 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20251027-01",
+    "type": "國小",
+    "tag": [
+      "Aquarium",
+      "Taichung"
+    ],
+    "title": "A Cool New Aquarium Opens in Taiwan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251024NK.mp3",
+    "content": [
+      {
+        "en": "Do you like to see fish and other ocean animals? Well, there's a great new aquarium in Taichung!",
+        "tw": "台中現在有一座新的水族館！",
+        "time": null
+      },
+      {
+        "en": "At Taichung Aquarium, you can get close to the animals. You can see them! You can hear them! You can smell them! You can touch some! You can - oh, wait, don't taste them, please…",
+        "tw": "你可以在台中水族館跟動物互動，還可以用耳朵聽，用鼻子聞，有一些用手摸，但是拜託別吃牠們！",
+        "time": null
+      },
+      {
+        "en": "The aquarium has five floors. On the first floor, you are in an ocean. A very big ocean tank there has sharks, rays, and more cool ocean animals!",
+        "tw": "水族館有五層樓。一樓是海洋生物區，除了有鯊魚跟魟魚，還有更多很酷的海洋生物！",
+        "time": null
+      },
+      {
+        "en": "On the second floor, you can see cute penguins walking close to you. On the third floor, you can learn about a river in Taichung.",
+        "tw": "在二樓，你可以看到可愛的企鵝走來走去。三樓的展覽則介紹一條台中的河流。",
+        "time": null
+      },
+      {
+        "en": "On the fourth floor, you take off your shoes. Then you can walk in a wetland. What? Yes, it's Taiwan's first indoor wetland!",
+        "tw": "到四樓後，你可以脫掉鞋子，踩一踩全台灣第一個搬進室內的濕地！",
+        "time": null
+      },
+      {
+        "en": "The aquarium also helps sick or hurt ocean animals get better. And it teaches people that leaving pet animals in nature is NOT a good idea!",
+        "tw": "水族館也幫助生病或是受傷的動物。他們也提醒大家不要放生寵物回到大自然。",
+        "time": null
+      },
+      {
+        "en": "Taichung Aquarium's ocean animals are waiting for you! Come and see, hear, smell, and touch them!",
+        "tw": "台中水族館的海洋動物們正在等著你！快來看看、聽聽、聞聞並觸摸牠們！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "水族館是非常好玩的地方，可以看到各種有趣的生物。",
+      "content": [
+        {
+          "text": "1. penguin 企鵝。\nI've ranked my favorite animals.我把最喜歡的動物排了名次。\nOh? Let's hear it. 我聽聽看。\nFirst place is the penguin.第一名是企鵝。",
+          "time": null
+        },
+        {
+          "text": "2. shark 鯊魚。\nThe second one is the shark.第二名是鯊魚。\nShark?! The shark is not cute.鯊魚? 鯊魚不可愛。\nIt's not. But I like it.的確，不過我喜歡。",
+          "time": null
+        },
+        {
+          "text": "3. third 第三個。\nOkay, and the third one? 好吧，第三名呢?\nIt's fish.是魚。\nYou like fish because you like to eat it, right?\n你喜歡魚是因為喜歡吃它，對吧?",
+          "time": null
+        },
+        {
+          "text": "4. fish 魚。\nFish tastes good, don't you think? 魚很好吃，你不覺得嗎?\nI do. I just hope you won't eat penguins.我同意，我只希望你別吃企鵝。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like seafood? 來讀單字。penguin企鵝 shark鯊魚 third第三個\nfish魚"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the aquarium?",
+        "options": [
+          "a. Tainan",
+          "b. Taichung",
+          "c. Taitung"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What animals are on the second floor?",
+        "options": [
+          "a. Sharks",
+          "b. Rays",
+          "c. Penguins"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Why do you take off your shoes on the fourth floor?",
+        "options": [
+          "a. To walk in a wetland",
+          "b. To smell them",
+          "c. To leave them in nature"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
