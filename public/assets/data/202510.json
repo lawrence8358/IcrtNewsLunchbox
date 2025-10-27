@@ -1748,5 +1748,106 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20251028-01",
+    "type": "國小",
+    "tag": [
+      "Travel",
+      "Adventure"
+    ],
+    "title": "Man Travels Around the World-Again!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251027NK.mp3",
+    "content": [
+      {
+        "en": "Traveling is fun. You can travel by plane. You can travel by train or boat. And you can travel around the world! One man travels a lot. He traveled around the world two times!",
+        "tw": "旅行的方式有很多種，每一種都很有趣！有一名男子已經環遊世界兩次了！",
+        "time": null
+      },
+      {
+        "en": "The first time, the man rode a bicycle for eight months! He rode 29,000 kilometers. Wow!",
+        "tw": "他第一次環遊世界時騎了八個月的腳踏車才達成目標！",
+        "time": null
+      },
+      {
+        "en": "The second time, he flew a very, very small plane for six months! He flew 122 flights! Whoa!",
+        "tw": "第二次環遊世界時，他選擇用一台小飛機旅行。",
+        "time": null
+      },
+      {
+        "en": "Now the man is traveling around the world again. He is sailing a small boat for nine months! He is sailing 50,000 kilometers! Whew!",
+        "tw": "他又要環遊世界了！這一次，他要挑戰開船九個月，總航線長達五萬公里！",
+        "time": null
+      },
+      {
+        "en": "On his bicycle, and in his plane, the man had no free time. On his boat, he has lots of free time. So he has video calls with many schools around the world. He talks about traveling!",
+        "tw": "騎腳踏車和開飛機時他非常忙。但現在在船上，他有時間和世界各處的學生視訊，分享旅行的心得！",
+        "time": null
+      },
+      {
+        "en": "Oh! If he finishes traveling around the world on his boat, guess what? He will be the first person to travel around the world by land, air, and sea! Woah!",
+        "tw": "如果他這次成功了，他就會成為第一個用陸海空三種方式環遊世界的人！",
+        "time": null
+      },
+      {
+        "en": "This man likes to travel very much. What will he do next? Make a guess!",
+        "tw": "這個男人非常喜歡旅行。接下來他會做什麼呢？猜猜看吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "用各種方式環遊世界，是很大的挑戰。",
+      "content": [
+        {
+          "text": "1. first time 第一次。\nThe first time I went to South Africa, 我第一次去南非時,\nI thought I'd never go back again. 以為再也不會回去了.\nWhy not? 為什麼不呢?\nIt's too far away. 太遠了!",
+          "time": null
+        },
+        {
+          "text": "2. boat 船。\nI flew for 25 hours! 我飛了25個鐘頭!\nBut you did go back? 但是你有回去?\nYeah, the second time I went there by boat. 有，第二次我是搭船去的.\nWow, that must be a long trip! 哇，一定是很長的旅行!",
+          "time": null
+        },
+        {
+          "text": "3. next 下一個。\nIt was. 是的。\nAfter that, I told myself I have to take a plane next time.\n之後我告訴自己下次一定要搭飛機.",
+          "time": null
+        },
+        {
+          "text": "4. travel 旅行。\nWill you travel to South Africa one more time? 你會再去一次南非嗎?\nAbsolutely not! 絕對不去.\nI'm thinking of the South Pole.我在考慮南極.",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我一起讀單字。\nfirst time第一次 boat船 next下一個 travel旅行"
+    },
+    "quiz": [
+      {
+        "question": "1. How many times did the man travel around the world?",
+        "options": [
+          "a. One time",
+          "b. Two times",
+          "c. Eight times"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How did the man travel around the world the first time?",
+        "options": [
+          "a. By land",
+          "b. By air",
+          "c. By ocean"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How did the man travel around the world by land?",
+        "options": [
+          "a. By train",
+          "b. By car",
+          "c. By bicycle"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
