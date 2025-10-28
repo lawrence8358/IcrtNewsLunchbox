@@ -1849,5 +1849,101 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20251029-01",
+    "type": "國小",
+    "tag": [
+      "鼓勵",
+      "暖心"
+    ],
+    "title": "Boy Makes People Happy",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251028NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: When we hear \"You did a great job\" or \"You look nice,\" that feels good! It can make us smile all day!",
+        "tw": "每個人受到稱讚時，心情都會變好！",
+        "time": null
+      },
+      {
+        "en": "A nine-year-old boy in the U.S. likes to talk to people. He likes to make them happy. He tells people nice things about them!",
+        "tw": "美國有個九歲的男孩很喜歡稱讚別人。",
+        "time": null
+      },
+      {
+        "en": "The boy put a small table in front of his house. He wrote a sign for the table. It says he will tell people nice things about them for free! Woman: Good morning! Boy: You look really pretty today! Woman: Oh, thank you! You make me feel so good today. Boy: Have a great day! Woman: You too! Narrator: He doesn't want people to pay to be happy. He says that is silly. And he is right!",
+        "tw": "他不希望大家需要花錢才能得到快樂。他在家門口擺攤，免費稱讚大家，讓大家露出會心的一笑！",
+        "time": null
+      },
+      {
+        "en": "When people go to his table, he asks about their day. He thinks a lot about what they say. Then he says something nice about them. Maybe he says \"Your shoes are cool!\", \"You are very smart.\", or \"Oh, you have a very nice smile! It makes me very happy!\"",
+        "tw": "他會認真和大家聊天，再給他們一個特別的讚美！他也許會說，「你的鞋子超酷！」，「你好聰明！」或是，「你的微笑讓我好開心！」",
+        "time": null
+      },
+      {
+        "en": "The boy has made more than sixty people smile! Some come back again and again. One person came back four times!",
+        "tw": "已經有六十個人因為這個男孩而露出笑容了！也有人會回來找他，想再一次被他稱讚！",
+        "time": null
+      },
+      {
+        "en": "Saying nice things to someone makes them feel good. It can make YOU feel good too! So try to say something nice to someone today!",
+        "tw": "對別人說好聽的話會讓他們感覺良好。這也會讓你感覺良好！所以今天試著對某人說些好話吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "喜歡講好話的男孩，讓大家都開心!",
+      "content": [
+        {
+          "text": "1. look 看起來。 You look nice today! 你今天很好看呢。 New shirt?新襯衫嗎? Yeah, I feel great in it. 對啊，我也覺得很好。",
+          "time": null
+        },
+        {
+          "text": "2. someone 有人。 I'd say it makes you look smart, too. 我也要說穿這樣看起來很聰明。 Thank you. Someone finally noticed. 謝謝，終於有人注意到了。",
+          "time": null
+        },
+        {
+          "text": "3. smile 微笑。 Just trying to make you smile. 我只是想逗你笑。 Well, it's working. 很有用。 You're great at that. 你很行呢。",
+          "time": null
+        },
+        {
+          "text": "4. pay 付費。 Then you can pay for my coffee as a thank-you. 那你可以請我喝咖啡，算是謝我。 Nice try. I feel great, but not rich. 想得美，我覺得很好，可是不覺得有錢。",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪幾個單字? look看起來 someone有人 smile微笑 pay付費"
+    },
+    "quiz": [
+      {
+        "question": "1. How old is the boy?",
+        "options": [
+          "a. Nine",
+          "b. Nineteen",
+          "c. Sixty"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where is the boy's table?",
+        "options": [
+          "a. Next to his house",
+          "b. In front of his house",
+          "c. Behind his house"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why does the boy tell people nice things about them?",
+        "options": [
+          "a. To make them smile",
+          "b. To get money",
+          "c. To be silly"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
