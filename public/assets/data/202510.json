@@ -1945,5 +1945,107 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20251030-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Character Education"
+    ],
+    "title": "Taiwan's High-Speed Rail Trains Get Quieter",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251029NK.mp3",
+    "content": [
+      {
+        "en": "Taiwan's high-speed rail trains are great. They are very fast. And now, these trains are better! Why? They are quieter.",
+        "tw": "台灣高鐵變得更好、更安靜了！",
+        "time": null
+      },
+      {
+        "en": "No, the trains are not quieter. The people on the trains are quieter. Why? There are new rules on the high-speed rail trains.",
+        "tw": "變安靜的不是高鐵本身，而是列車上的乘客。這是因為高鐵有了新規定！",
+        "time": null
+      },
+      {
+        "en": "Before, some people listened to loud music on the trains. Everyone heard it! Argh! But now, people have to use headphones or earphones to listen to music. People have to use them to watch videos too.",
+        "tw": "以前，會有人在車廂內大聲播音樂。新規定上路後，乘客看影片或是聽音樂時都必須戴上耳機！",
+        "time": null
+      },
+      {
+        "en": "People can talk on their phones. But now they have to talk near the train doors. Why? The doors are not near the seats.",
+        "tw": "乘客想講電話，必須要到遠離座位區，車廂跟車廂之間的空間去講。",
+        "time": null
+      },
+      {
+        "en": "Almost everyone on the train has to talk quietly. But moms and dads do not have to worry. It is okay for babies and kids to talk and cry!",
+        "tw": "但不是所有人都要輕聲細語。嬰兒跟小朋友可以講話，所以他們的家長不用擔心他們會違反規定！",
+        "time": null
+      },
+      {
+        "en": "People can see the new rules in high-speed rail stations. They can see them on the trains. Workers show the rules to loud people too.",
+        "tw": "新的規定公告在高鐵站和高鐵車廂內。工作人員也會提醒吵鬧的人要小聲一點！",
+        "time": null
+      },
+      {
+        "en": "These rules are making Taiwan's high-speed rail trains quieter. That's great for people who want to sleep!",
+        "tw": "這些規定讓台灣高鐵列車變得更安靜。對於想睡覺的人來說，這真是太棒了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "現在搭高鐵，不能大聲講話或發出噪音。",
+      "content": [
+        {
+          "text": "1. quiet 安靜的。 It's so quiet in this cafe today. 今天這咖啡館好安靜。 Yeah, even the coffee machine sounds quieter.",
+          "time": null
+        },
+        {
+          "text": "2. headphone 耳機。 It's better for me.這對我比較好。 I left my headphones at home. 我把耳機留在家裡了。",
+          "time": null
+        },
+        {
+          "text": "3. loud 大聲的。 What kind of music do you listen to? 你都聽甚麼音樂? I don't listen to music. 我不聽音樂。 It's often too loud. 音樂通常太吵了。",
+          "time": null
+        },
+        {
+          "text": "4. why 為什麼。 I prefer podcasts. 我比較喜歡聽播客。 Like \"Wow in the World.\" 比如說[世界上的哇]。 Why do you like it? 為什麼喜歡呢? Lots of cool stories. 有很多很酷的故事。",
+          "time": null
+        }
+      ],
+      "postscript": "What do you listen to every day? 來一起讀單字。 quiet 安靜的 headphone 耳機 loud 大聲的 why 為什麼"
+    },
+    "quiz": [
+      {
+        "question": "1. What is making Taiwan's high-speed rail trains quieter?",
+        "options": [
+          "a. New rules",
+          "b. Fast trains",
+          "c. Loud music"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What do people have to use to watch videos on Taiwan's high-speed rail trains?",
+        "options": [
+          "a. Train doors",
+          "b. Rail stations",
+          "c. Headphones"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What does almost everyone on Taiwan's high-speed rail trains have to do?",
+        "options": [
+          "a. Talk quietly",
+          "b. Listen to music",
+          "c. Watch videos"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
