@@ -2047,5 +2047,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251031-01",
+    "type": "國小",
+    "tag": [
+      "萬聖節",
+      "南瓜",
+      "節慶"
+    ],
+    "title": "The Biggest Pumpkin Festival",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251030NK.mp3",
+    "content": [
+      {
+        "en": "Today is Halloween. Maybe you'll see pumpkins with scary faces! BOO!",
+        "tw": "今天是萬聖節！你也許會在路上看到可怕的南瓜燈喔！",
+        "time": null
+      },
+      {
+        "en": "Germany has the world's biggest pumpkin festival. There are half a million pumpkins! Whoa! They are orange, green, white, yellow, brown, pink, and black! Ewwww!",
+        "tw": "世界上最大的南瓜節在德國。這個節日有五十萬顆七彩繽紛的南瓜！",
+        "time": null
+      },
+      {
+        "en": "Why are there so many pumpkins? Well, this year, you can see Superman, Mickey Mouse, King Kong and others. They are big. And they are made of pumpkins!",
+        "tw": "今年的南瓜節會看到超人、米老鼠、還有金剛的雕像。這些雕像全都是用南瓜做的！",
+        "time": null
+      },
+      {
+        "en": "And, you can buy pumpkins. You can make scary faces on them! You can eat pumpkin ice cream! And pumpkin pizza! And pumpkin french fries!",
+        "tw": "你也可以在南瓜節買南瓜，在上面刻出可怕的表情，或者是享用各種美味的南瓜料理，像是南瓜冰淇淋，還有南瓜披薩，或是南瓜薯條！",
+        "time": null
+      },
+      {
+        "en": "You can watch a boat race. The boats are made of … yes, big pumpkins!",
+        "tw": "在南瓜節還可以看到划船比賽，那些船是超大南瓜做的！",
+        "time": null
+      },
+      {
+        "en": "You can go to two contests for the biggest pumpkin! One is for Germany. One is for Europe. The world's biggest pumpkin was about 1,250 kilograms. Will there be a bigger one this year?",
+        "tw": "很多人會參加德國跟歐洲最大南瓜比賽。世界最大的南瓜有1250公斤重，今年會不會有南瓜破紀錄呢？",
+        "time": null
+      },
+      {
+        "en": "At the end of the festival, big pumpkins are cut open. And you can buy their seeds. Then you can grow big pumpkins.",
+        "tw": "在節慶結束時，大南瓜會被剖開。你可以購買他們的種子，然後種出更大的南瓜。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "南瓜節聽起來很好玩吧?",
+      "content": [
+        {
+          "text": "1. contest 比賽。 Hey, Nancy, are you going to the Halloween party? 南西，你去不去萬聖節派對? Sure, I already bought a big pumpkin for the contest. 當然，我已經買了大南瓜參加比賽。",
+          "time": null
+        },
+        {
+          "text": "2. bigger 更大的。 How big are we talking? 有多大呢? Bigger than any you've ever seen! 比你看過的都大!",
+          "time": null
+        },
+        {
+          "text": "3. watch 看。 Wow, I'd love to see it! 哇，我想看看。 Then come to the party and watch me win. 那你也去派對，看我贏。",
+          "time": null
+        },
+        {
+          "text": "4. ice cream 冰淇淋。 What are you going to do with that giant thing? 你準備拿那個大東西怎麼辦? I'll make pumpkin ice cream and pies. 我要做南瓜冰淇淋跟南瓜派。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡吃南瓜嗎? 來一起讀單字。contest比賽 bigger更大的 watch看 ice cream冰淇淋"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the world's biggest pumpkin festival?",
+        "options": [
+          "a. Jamaica",
+          "b. Germany",
+          "c. Japan"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many pumpkins are at the festival?",
+        "options": [
+          "a. Half a million",
+          "b. Half a billion",
+          "c. Half an hour"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What can you watch at the festival?",
+        "options": [
+          "a. A dragon boat race",
+          "b. A pumpkin boat race",
+          "c. A pumpkin pizza race"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
