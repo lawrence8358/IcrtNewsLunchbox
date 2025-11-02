@@ -1,0 +1,109 @@
+ [
+  {
+    "id": "20251103-01",
+    "type": "國小",
+    "tag": [
+      "熊",
+      "動物",
+      "幫助"
+    ],
+    "title": "Bear Needs Help with a Snack Jar",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251031NK.mp3",
+    "content": [
+      {
+        "en": "Most bears are strong and dangerous. But some bears need help.",
+        "tw": "大部分的熊強壯而兇猛，但有時候也需要別人幫忙！",
+        "time": null
+      },
+      {
+        "en": "A two-year-old bear in a U.S. city needed help. His head was in a big plastic jar. He could not take the jar off. Aww … Poor bear!",
+        "tw": "有一頭兩歲的熊，牠的頭被卡在透明塑膠罐裡。牠沒辦法把罐子弄掉，需要幫忙！",
+        "time": null
+      },
+      {
+        "en": "Why was the bear's head in the jar? Nobody knows. Maybe the jar had some snacks in it. Maybe he ate the snacks.",
+        "tw": "我們不知道這頭熊為什麼會把頭卡在塑膠罐裡。可能是吃罐子裡的點心時卡住的！",
+        "time": null
+      },
+      {
+        "en": "The bear could drink some water. But he could not eat. He became very thin. He was about 32 kilograms. Most two-year-old bears are 68 kilograms!",
+        "tw": "牠可以喝水，但沒辦法吃東西。可憐的熊瘦到只剩下32公斤，比一般的熊瘦很多很多！",
+        "time": null
+      },
+      {
+        "en": "For eleven days, people saw this bear walking around. They called the city. City workers tried to find him. But he walked a lot. He walked about 80 kilometers in one week!",
+        "tw": "當地的居民看見熊到處走動，他們打給當地機構尋求幫助。但這頭熊很難找，因為牠一個星期可以走80公里！",
+        "time": null
+      },
+      {
+        "en": "Finally, the workers found the bear. They gave him medicine. It made him sleep. Then, they took the jar off of his head.",
+        "tw": "工作人員終於找到熊了！他們用藥物讓熊睡著後，把罐子從牠頭上摘下來。",
+        "time": null
+      },
+      {
+        "en": "The workers let the bear go. He needs to sleep all winter soon. But first, he needs to eat a lot!",
+        "tw": "拿下罐子後，這隻熊要馬上去大吃一頓，為冬眠做準備！",
+        "time": null
+      },
+      {
+        "en": "If you see an animal that needs help, call your city!",
+        "tw": "如果你看到需要幫助的動物，請打電話給你的城市！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "還好有人幫了這頭熊一個大忙。",
+      "content": [
+        {
+          "text": "1. take off 拿掉或者脫掉。\nWhy does your cat look so angry? 你的貓怎麼看起來很生氣?\nI tried to take a piece of tape off her tail. 我想把她尾巴上的一片膠帶撕掉。\nAnd she got upset? 她就不高興了?\nYeah. 對。",
+          "time": null
+        },
+        {
+          "text": "2. medicine 藥品。\nI think you need some medicine for those scratches.\n我覺得你那些抓傷需要擦一點藥。\nNo, I'm fine. 不用了，我還好。",
+          "time": null
+        },
+        {
+          "text": "3. poor 可憐的。\nPoor cat. 可憐的貓。\nShe and I don't get along well.她跟我合不來。\nPoor you! 你比較可憐。",
+          "time": null
+        },
+        {
+          "text": "4. thin 瘦的。\nWhere did you find her? 你在哪裡找到她的?\nIn the park two months ago. 在公園，兩個月之前。\nShe was so thin, only about 2 kilos! 她好瘦，只有兩公斤吧。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你可記住了? take off拿掉或者脫掉 medicine藥品 poor可憐的 thin瘦的"
+    },
+    "quiz": [
+      {
+        "question": "1. How many kilograms was the bear?",
+        "options": [
+          "a. 32 kilograms",
+          "b. 68 kilograms",
+          "c. 80 kilograms"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What made the bear go to sleep?",
+        "options": [
+          "a. The jar",
+          "b. Medicine",
+          "c. Snacks"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What does the bear need to do before sleeping all winter?",
+        "options": [
+          "a. Call his city",
+          "b. Find a new jar",
+          "c. Eat a lot"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  }
+]
