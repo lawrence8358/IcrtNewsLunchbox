@@ -7,6 +7,7 @@ import { Topic } from '../../models/topic.model';
 import { NotificationService } from '../../services/notification.service';
 import { UtilsService } from '../../services/utils.service';
 import { AndroidBackButtonService } from '../../services/android-back-button.service';
+import { LearningStatusService } from '../../services/learning-status.service';
 import { AddWordDialogComponent } from '../add-word-dialog/add-word-dialog.component';
 import { VocabularyListComponent } from '../vocabulary-list/vocabulary-list.component';
 
@@ -27,6 +28,7 @@ export class TopicDetailDialogComponent implements OnInit, OnDestroy {
   showQuizAnswers: { [key: number]: boolean } = {};
   audio: HTMLAudioElement | null = null;
   activeTab: string = 'content'; // 預設顯示內容分頁
+  currentLearningStatus: string = 'not-started'; // 當前學習狀態
 
   // 使用說明相關
   showDetailedTips = false;
@@ -61,10 +63,14 @@ export class TopicDetailDialogComponent implements OnInit, OnDestroy {
     private readonly notificationService: NotificationService,
     private readonly utilsService: UtilsService,
     private readonly modalService: NgbModal,
-    private readonly androidBackButtonService: AndroidBackButtonService
+    private readonly androidBackButtonService: AndroidBackButtonService,
+    private readonly learningStatusService: LearningStatusService
   ) { }
 
   ngOnInit(): void {
+    // 初始化學習狀態
+    this.currentLearningStatus = this.topic?.learningStatus || 'not-started';
+
     // 設定音訊元素
     setTimeout(() => {
       if (this.topic?.audio && this.audioElement) {
@@ -378,6 +384,39 @@ export class TopicDetailDialogComponent implements OnInit, OnDestroy {
    */
   toggleUsageTips(): void {
     this.showDetailedTips = !this.showDetailedTips;
+  }
+
+  /**
+   * 取得學習狀態選項
+   */
+  getLearningStatusOptions(): Array<{value: string, label: string}> {
+    return [
+      { value: 'not-started', label: '未進行' },
+      { value: 'learning', label: '學習中' },
+      { value: 'learned', label: '已學習' }
+    ];
+  }
+
+  /**
+   * 更新學習狀態
+   */
+  updateLearningStatus(): void {
+    if (this.topic) {
+      this.topic.learningStatus = this.currentLearningStatus as 'learned' | 'learning' | 'not-started';
+      this.saveLearningStatus();
+    }
+  }
+
+  /**
+   * 儲存學習狀態到 localStorage
+   */
+  private saveLearningStatus(): void {
+    try {
+      this.learningStatusService.saveLearningStatus(this.topic.id, this.currentLearningStatus);
+      console.log(`學習狀態已更新: ${this.topic.title} -> ${this.currentLearningStatus}`);
+    } catch (error) {
+      console.error('儲存學習狀態失敗:', error);
+    }
   }
 
   /**

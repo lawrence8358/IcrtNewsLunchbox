@@ -1,0 +1,63 @@
+// 學習狀態樣式 - 獨特的設計風格
+.topic-learning-status {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.6rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  border: 1px solid transparent;
+  
+  &.status-not-started {
+    background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+    color: #6c757d;
+    border-color: #dee2e6;
+  }
+  
+  &.status-learning {
+    background: linear-gradient(135deg, #fff3cd, #ffeaa7);
+    color: #856404;
+    border-color: #fdcb6e;
+    
+    i {
+      animation: pulse 2s infinite;
+    }
+  }
+  
+  &.status-learned {
+    background: linear-gradient(135deg, #d1e7dd, #a7f3d0);
+    color: #155724;
+    border-color: #74c0fc;
+  }
+  
+  i {
+    margin-right: 0.3rem;
+    font-size: 0.7rem;
+  }
+}
+
+// 學習中狀態的動畫效果
+@keyframes pulse {
+  0%, 100% { 
+    opacity: 1; 
+    transform: scale(1);
+  }
+  50% { 
+    opacity: 0.8; 
+    transform: scale(1.1);
+  }
+}
+
+// RWD - 小螢幕優化 (參考 topic-date 的做法，只調整字體大小)
+@media (max-width: 576px) {
+  .topic-learning-status {
+    font-size: 0.6rem;
+    // padding 保持原樣，不縮小 (與 topic-date 一致)
+    
+    i {
+      font-size: 0.55rem;
+    }
+  }
+}
+

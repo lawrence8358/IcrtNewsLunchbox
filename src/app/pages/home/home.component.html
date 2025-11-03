@@ -2,7 +2,7 @@
   <!-- 搜尋控制項 -->
   <div class="filter-section">
     <div class="row g-2">
-      <div class="col-md-3">
+      <div class="col-md-2">
         <label for="monthSelect" class="form-label">
           <i class="fas fa-calendar-alt me-1"></i>選擇月份
         </label>
@@ -38,7 +38,18 @@
         </select>
       </div>
 
-      <div class="col-md-3">
+      <div class="col-md-2">
+        <label for="learningStatusSelect" class="form-label">
+          <i class="fas fa-graduation-cap me-1"></i>學習狀態
+        </label>
+        <select class="form-select" id="learningStatusSelect" [(ngModel)]="selectedLearningStatus">
+          <option *ngFor="let option of getLearningStatusOptions()" [value]="option.value">
+            {{ option.label }}
+          </option>
+        </select>
+      </div>
+
+      <div class="col-md-2">
         <label for="topicSearch" class="form-label">
           <i class="fas fa-search me-1"></i>搜尋
         </label>
@@ -92,6 +103,16 @@
            (click)="showTopicDetail(topic)">
         <div class="topic-meta">
           <span class="topic-type">{{ topic.type }}</span>
+          <span class="topic-learning-status" 
+                [class.status-not-started]="!topic.learningStatus || topic.learningStatus === 'not-started'"
+                [class.status-learning]="topic.learningStatus === 'learning'"
+                [class.status-learned]="topic.learningStatus === 'learned'">
+            <i class="fas" 
+               [class.fa-circle]="!topic.learningStatus || topic.learningStatus === 'not-started'"
+               [class.fa-play-circle]="topic.learningStatus === 'learning'"
+               [class.fa-check-circle]="topic.learningStatus === 'learned'"></i>
+            {{ getLearningStatusLabel(topic.learningStatus) }}
+          </span>
           <span class="topic-date">{{ formatDate(topic.id) }}</span>
         </div>
         <div class="topic-tags" *ngIf="topic.tag && topic.tag.length > 0">

@@ -61,6 +61,25 @@
     <h5 class="text-primary">{{ topic.title }}</h5>
   </div>
 
+  <!-- 學習狀態控制區 -->
+  <div class="learning-status-section mb-3">
+    <div class="d-flex align-items-center gap-3">
+      <div class="learning-status-control d-flex align-items-center gap-2">
+        <label for="learningStatusSelect" class="form-label mb-0">
+          <i class="fas fa-graduation-cap me-1"></i>學習狀態
+        </label>
+        <select class="form-select form-select-sm" 
+                id="learningStatusSelect" 
+                [(ngModel)]="currentLearningStatus"
+                (change)="updateLearningStatus()">
+          <option *ngFor="let option of getLearningStatusOptions()" [value]="option.value">
+            {{ option.label }}
+          </option>
+        </select>
+      </div>
+    </div>
+  </div>
+
   <!-- Tab 導航 -->
   <ul class="nav nav-tabs mt-3" aria-label="主題內容分頁">
     <li class="nav-item">

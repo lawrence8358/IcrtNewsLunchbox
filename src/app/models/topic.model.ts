@@ -36,6 +36,7 @@ export interface Topic {
   content: ContentItem[];
   vocabulary?: Vocabulary;
   quiz?: Quiz[];
+  learningStatus?: 'learned' | 'learning' | 'not-started'; // 學習狀態
 }
 
 export interface AppSettings {
@@ -43,6 +44,7 @@ export interface AppSettings {
   lastSearch: string;
   lastType: string;
   lastTag: string;
+  lastLearningStatus?: string; // 學習狀態查詢記憶，設為可選以保持向後相容性
 }
 
 export interface VocabularyBookItem {

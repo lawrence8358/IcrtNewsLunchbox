@@ -8,6 +8,7 @@ import { DataService } from '../../services/data.service';
 import { FilterService } from '../../services/filter.service';
 import { NotificationService } from '../../services/notification.service';
 import { UtilsService } from '../../services/utils.service';
+import { LearningStatusService } from '../../services/learning-status.service';
 import { Topic, AppSettings } from '../../models/topic.model';
 import { TopicDetailDialogComponent } from '../../components/topic-detail-dialog/topic-detail-dialog.component';
 import { SettingConfig } from '../../config/setting.config';
@@ -32,6 +33,7 @@ export class HomeComponent implements OnInit, OnDestroy {
   searchText = '';
   selectedType = '';
   selectedTag = '';
+  selectedLearningStatus = ''; // 學習狀態篩選
 
   // 狀態
   isLoading = false;
@@ -42,7 +44,8 @@ export class HomeComponent implements OnInit, OnDestroy {
     lastMonth: '',
     lastSearch: '',
     lastType: '',
-    lastTag: ''
+    lastTag: '',
+    lastLearningStatus: ''
   };
 
   constructor(
@@ -51,7 +54,8 @@ export class HomeComponent implements OnInit, OnDestroy {
     private readonly notificationService: NotificationService,
     private readonly modalService: NgbModal,
     private readonly route: ActivatedRoute,
-    private readonly utilsService: UtilsService
+    private readonly utilsService: UtilsService,
+    private readonly learningStatusService: LearningStatusService
   ) { }
 
   ngOnInit(): void {
@@ -93,6 +97,7 @@ export class HomeComponent implements OnInit, OnDestroy {
         this.searchText = this.settings.lastSearch;
         this.selectedType = this.settings.lastType;
         this.selectedTag = this.settings.lastTag;
+        this.selectedLearningStatus = this.settings.lastLearningStatus || ''; // 向後相容性處理
 
         // 載入該月份的資料
         await this.loadMonthData();
@@ -128,7 +133,8 @@ export class HomeComponent implements OnInit, OnDestroy {
       lastMonth: this.selectedMonth,
       lastSearch: this.searchText,
       lastType: this.selectedType,
-      lastTag: this.selectedTag
+      lastTag: this.selectedTag,
+      lastLearningStatus: this.selectedLearningStatus
     };
     localStorage.setItem('icrt_settings', JSON.stringify(this.settings));
   }
@@ -142,7 +148,10 @@ export class HomeComponent implements OnInit, OnDestroy {
     this.isSearching = true;
 
     try {
-      this.currentData = await firstValueFrom(this.dataService.loadMonthData(this.selectedMonth)) || [];
+      const rawData = await firstValueFrom(this.dataService.loadMonthData(this.selectedMonth)) || [];
+      
+      // 應用學習狀態到主題列表
+      this.currentData = this.learningStatusService.applyLearningStatusToTopics(rawData);
       this.performFilter();
 
       // 填充類型選項（通過 getUniqueTypes() 動態生成）
@@ -178,7 +187,8 @@ export class HomeComponent implements OnInit, OnDestroy {
       this.currentData,
       this.searchText,
       this.selectedType,
-      this.selectedTag
+      this.selectedTag,
+      this.selectedLearningStatus
     );
   }
 
@@ -187,6 +197,30 @@ export class HomeComponent implements OnInit, OnDestroy {
    */
   getUniqueTypes(): string[] {
     return this.filterService.getUniqueTypes(this.currentData);
+  }
+
+  /**
+   * 取得學習狀態選項
+   */
+  getLearningStatusOptions(): Array<{value: string, label: string}> {
+    return [
+      { value: '', label: '全部' },
+      { value: 'not-started', label: '未進行' },
+      { value: 'learning', label: '學習中' },
+      { value: 'learned', label: '已學習' }
+    ];
+  }
+
+  /**
+   * 取得學習狀態標籤
+   */
+  getLearningStatusLabel(status?: string): string {
+    const statusMap: {[key: string]: string} = {
+      'not-started': '未進行',
+      'learning': '學習中',
+      'learned': '已學習'
+    };
+    return statusMap[status || 'not-started'] || '未進行';
   }
 
   /**

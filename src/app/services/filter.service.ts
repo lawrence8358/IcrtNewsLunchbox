@@ -15,7 +15,8 @@ export class FilterService {
     topics: Topic[],
     searchText: string,
     selectedType: string,
-    selectedTag: string
+    selectedTag: string,
+    selectedLearningStatus?: string
   ): Topic[] {
     if (!topics || topics.length === 0) {
       return [];
@@ -57,7 +58,14 @@ export class FilterService {
         tagMatch = topic.tag?.includes(selectedTag) || false;
       }
 
-      return textMatch && typeMatch && tagMatch;
+      // 學習狀態篩選
+      let learningStatusMatch = true;
+      if (selectedLearningStatus) {
+        const topicStatus = topic.learningStatus || 'not-started'; // 預設為未進行
+        learningStatusMatch = topicStatus === selectedLearningStatus;
+      }
+
+      return textMatch && typeMatch && tagMatch && learningStatusMatch;
     });
   }
 
