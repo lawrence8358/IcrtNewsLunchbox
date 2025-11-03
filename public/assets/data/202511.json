@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20251103-01",
     "type": "國小",
@@ -100,6 +100,102 @@
           "a. Call his city",
           "b. Find a new jar",
           "c. Eat a lot"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
+    "id": "20251104-01",
+    "type": "國小",
+    "tag": [
+      "歷史",
+      "運動"
+    ],
+    "title": "Belize Wins the World Cup for a Very Old Ballgame",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251103NK.mp3",
+    "content": [
+      {
+        "en": "The Maya people have lived in Central America for thousands of years. These smart people made many new things.",
+        "tw": "住在中美洲好幾千年的馬雅人十分聰明。他們發明了很多東西！",
+        "time": null
+      },
+      {
+        "en": "The Maya were the first to make rubber. They made rubber balls! They made a game with these balls.",
+        "tw": "馬雅人也是最早做出橡膠的人，也創造了橡膠球，而且發明橡膠球遊戲。",
+        "time": null
+      },
+      {
+        "en": "The ballgame is called \"pok-ta-pok.\" Maybe it is the first ballgame played in teams! There are two teams. They use a heavy ball. It is three or four kilograms!",
+        "tw": "這個遊戲叫 \"pok-ta-pok\"，很可能是第一個分組對抗的球類遊戲！遊戲中用的球有三到四公斤那麼重！",
+        "time": null
+      },
+      {
+        "en": "The players have to keep the ball in the air. That's like volleyball. But they cannot hit the ball with their hands. They hit it with their hips!",
+        "tw": "選手要讓球保持在空中，像排球一樣！但他們不能用手，而是要用他們的臀部打球！",
+        "time": null
+      },
+      {
+        "en": "The players try to put the ball through a ring. That's like basketball. But the ring is very small! And remember: players cannot use their hands!",
+        "tw": "選手要像打籃球一樣，把球投進籃框。但籃框非常小，他們也不能用手托球！",
+        "time": null
+      },
+      {
+        "en": "Today, more and more Maya are playing pok-ta-pok. Central America, Mexico, and the U.S. have teams. And every two years, there is a Pok-ta-pok World Cup! Belize won the first three World Cups. Wow! Then Mexico won two. The 6th World Cup was this year. Seven countries played. Belize and Mexico played the last game! And, Belize won!",
+        "tw": "現在，有越來越多瑪雅人玩pok-ta-pok。墨西哥，美國、和中美洲各國都有球隊。每兩年就會舉辦一次pok-ta-pok世界盃，讓這些球隊一決勝負。貝里斯贏得了前三屆世界盃。哇！接著墨西哥贏得了兩屆。今年是第六屆世界盃。有七個國家參賽。貝里斯和墨西哥打到了最後一場比賽！而且，貝里斯贏了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "古老的馬雅文化可以追溯到西元前兩千年，他們也會玩球。",
+      "content": [
+        {
+          "text": "1. volleyball 排球。\nHey, Nancy! Long time no see! 南西，好久不見! What have you been up to lately? 最近都在忙什麼?\nI've been playing volleyball with some friends after work.我下班之後都跟朋友打排球。",
+          "time": null
+        },
+        {
+          "text": "2. ballgame 球類遊戲。\nReally? I didn't know you liked ballgames.真的喔?我都不知道你喜歡玩球。\nI thought you were more of a biker.我以為你比較愛騎車。",
+          "time": null
+        },
+        {
+          "text": "3. play 玩。\nI was. 以前是。\nBut my office has this game night every Friday,但是我的公司每周五晚上是玩球日，\nand they always play volleyball. 都是打排球。",
+          "time": null
+        },
+        {
+          "text": "4. keep 保持。\nThat's so cool! 真酷呢!\nI tried it once but had trouble keeping it in the air.\n我玩過一次但是很難維持球不掉下來。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡打什麼球? 來讀單字。\nvolleyball排球 ballgame球類遊戲 play玩 keep保持"
+    },
+    "quiz": [
+      {
+        "question": "1. Where have the Maya people lived for thousands of years?",
+        "options": [
+          "a. North America",
+          "b. Central America",
+          "c. South America"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Who first made rubber?",
+        "options": [
+          "a. Pok-ta-pok players",
+          "b. The Maya",
+          "c. A Mexican man"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do pok-ta-pok players hit the ball with?",
+        "options": [
+          "a. Their hands",
+          "b. Their feet",
+          "c. Their hips"
         ],
         "time": null,
         "answer": "c"
