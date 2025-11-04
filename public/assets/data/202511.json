@@ -201,5 +201,102 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20251105-01",
+    "type": "國小",
+    "tag": [
+      "Clean Water and Sanitation",
+      "Life Below Water",
+      "Marine Education"
+    ],
+    "title": "Saving Eels in England",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251104NK.mp3",
+    "content": [
+      {
+        "en": "Eels look like snakes. They move like snakes. But they live in water! Eels are very long fish.",
+        "tw": "鰻魚長得像蛇，動作也像蛇，但牠們其實是水生動物！",
+        "time": null
+      },
+      {
+        "en": "Long ago, rivers in one part of England had many eels! People could catch two hundred eels in one night! But now people can catch one in one night. Maybe.",
+        "tw": "很久以前，英國有個地方的河流中有很多鰻魚。可是現在鰻魚數量已經大幅減少。",
+        "time": null
+      },
+      {
+        "en": "Why? Rivers are dirty. Eels cannot find food. And they cannot go to other rivers for food. River walls stop them. Eels need help! But not many people know.",
+        "tw": "這是因為河流被汙染後，鰻魚找不到食物吃。他們想去別的河流覓食也會被河堤擋住。鰻魚需要大家的幫忙！",
+        "time": null
+      },
+      {
+        "en": "Some people are telling others about eels. One teacher gives baby eels to many schools. The kids give their eels food. They clean the eel tanks. They study all about eels. A few weeks later, the kids put their eels in a river. Now they know eels need help.",
+        "tw": "有一位老師把鰻魚幼苗分發給不同學校。小學生飼養這些鰻魚，給牠們良好的生活環境。幾個星期之後，小學生把鰻魚送到河流中。",
+        "time": null
+      },
+      {
+        "en": "Other people are helping eels find food. They make big ropes. They put them on river walls. The ropes help eels go over the walls. Then they find food in other rivers.",
+        "tw": "還有其他人也在想辦法幫助鰻魚覓食。他們在河堤上放繩索，幫助鰻魚跨越河堤，到別的河流吃東西！",
+        "time": null
+      },
+      {
+        "en": "Now more people know eels need help. And more people are helping. Let's hope there will be many eels again in England!",
+        "tw": "現在有更多人知道鰻魚需要幫助，且越來越多人伸出援手。讓我們希望英格蘭的鰻魚數量能再次繁盛！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "拯救野生鰻魚，有各種不同的方法。",
+      "content": [
+        {
+          "text": "1. catch 捕捉。\nDid you have a nice weekend? 周末過得好嗎?\nYeah, I just got back from a fishing trip. 很好，我才剛剛去釣魚回來。\nInteresting! Did you catch anything? 真有趣，有抓到什麼嗎?\nI did! 有!",
+          "time": null
+        },
+        {
+          "text": "2. look like 看起來像。\nA turtle. 一隻烏龜。\nA turtle? 烏龜?\nHey, it's not your everyday turtle. 可不是普通的烏龜。\nIt looks like a pancake 牠看起來像鬆餅。",
+          "time": null
+        },
+        {
+          "text": "3. live 居住。\nTurtles are not fish, right? 烏龜不是魚吧?\nOf course not. 當然不是。\nBut they live in water. 不過牠們住在水裡。",
+          "time": null
+        },
+        {
+          "text": "4. river 河流。\nDid you put your turtle back? 你有把烏龜放回去嗎?\nI sure did! It's a nice river. 當然有，那是一條很好的河。",
+          "time": null
+        }
+      ],
+      "postscript": "還記得剛剛的單字嗎?\ncatch捕捉 look like看起來像 live居住 river河流"
+    },
+    "quiz": [
+      {
+        "question": "1. What are eels?",
+        "options": [
+          "a. Fish",
+          "b. Snakes",
+          "c. Birds"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Long ago, how many eels could people catch in one night?",
+        "options": [
+          "a. One",
+          "b. One hundred",
+          "c. Two hundred"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What are the big ropes for?",
+        "options": [
+          "a. Catching eels to eat",
+          "b. Helping eels go over walls",
+          "c. Cleaning eel tanks"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
