@@ -298,5 +298,108 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251106-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Tomatoes Are Fun in This Town",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251105NK.mp3",
+    "content": [
+      {
+        "en": "Everyone in a small town in Spain is excited. Big trucks are coming! They are full of tomatoes! It's time for a big tomato fight!",
+        "tw": "載著番茄的大卡車正在開往西班牙的一個小鎮。他們要舉辦一場盛大的番茄大戰！",
+        "time": null
+      },
+      {
+        "en": "Eighty years ago, some kids in the town got mad. They threw tomatoes at each other! That's how the town's tomato fight started.",
+        "tw": "八十年前小鎮裡面有一群小孩吵架，拿起番茄互相扔，番茄大戰就這麼開始了！",
+        "time": null
+      },
+      {
+        "en": "This year, 22,000 people threw tomatoes! Many came from around the world. They paid 500 Taiwan dollars to throw.",
+        "tw": "今年，有兩萬多人從世界各地來這個小鎮一起丟番茄！",
+        "time": null
+      },
+      {
+        "en": "There's a rule. Everyone has to squash their tomatoes. That way, no one gets hurt.",
+        "tw": "番茄大戰有一個規則：所有的番茄都要先壓扁才能丟，這樣才能避免番茄砸傷別人！",
+        "time": null
+      },
+      {
+        "en": "The fun starts! People squash their tomatoes. They throw them! They get more tomatoes! They throw 120 tons of tomatoes!",
+        "tw": "番茄大戰開始了！大家把壓扁的番茄丟出去，˙一顆接著一顆！他們總共扔了120噸的番茄！",
+        "time": null
+      },
+      {
+        "en": "Wait … Does this tomato fight waste food? Nope! These tomatoes are not good for eating.",
+        "tw": "番茄大戰並不會浪費糧食，因為這些番茄本來就不是拿來吃的。",
+        "time": null
+      },
+      {
+        "en": "After one hour, the fight stops. The town is very red. Tomatoes are everywhere! Then, fire trucks come. They clean the streets. People take showers outside, with their clothes on.",
+        "tw": "一個小時後，番茄大戰結束了！小鎮裡到處都是紅紅的番茄汁。消防車開入小鎮，用水柱把大戰後的街道清洗乾淨！大家也都在戶外穿著衣服把自己洗乾淨。",
+        "time": null
+      },
+      {
+        "en": "Everyone had tons of tomato fun!",
+        "tw": "每個人都玩得非常開心！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "西班牙小鎮這個活動，讓它聞名全世界。",
+      "content": [
+        {
+          "text": "1. fight 打仗。\nHave you ever had a food fight? 你有玩過食物大戰嗎?\nOh yes, with my sister. 有，跟我姊姊。",
+          "time": null
+        },
+        {
+          "text": "2. each other 互相。\nWe threw popcorn at each other! 我們互相扔爆米花。\nAnd French fries, too! 還有薯條!\nIt sounds fun! 聽起來很好玩!",
+          "time": null
+        },
+        {
+          "text": "3. everywhere 到處。\nYeah, but cleaning was tough. 但是清理可麻煩了。\nThey were everywhere! 它們掉的到處都是。",
+          "time": null
+        },
+        {
+          "text": "4. waste 浪費。\nThat's why our parents never let us use eggs.\n那是為什麼我爸媽從不讓我們用雞蛋。\nThey said that would waste too much food. 她說那樣太浪費食物。\nAnd it's very hard to clean. 而且超難清理。",
+          "time": null
+        }
+      ],
+      "postscript": "來讀讀今天的單字。\nfight打仗 each other互相 everywhere到處 waste浪費"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the tomato fight?",
+        "options": [
+          "a. Japan",
+          "b. Spain",
+          "c. France"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Who started the tomato fight eighty years ago?",
+        "options": [
+          "a. Tourists",
+          "b. Kids",
+          "c. Farmers"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What is the rule of the tomato fight?",
+        "options": [
+          "a. Wear goggles",
+          "b. Bring tomatoes",
+          "c. Squash tomatoes"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
