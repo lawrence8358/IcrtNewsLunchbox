@@ -401,5 +401,109 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20251107-01",
+    "type": "國小",
+    "tag": [
+      "環保",
+      "印度",
+      "塑膠回收",
+      "咖啡廳",
+      "美食"
+    ],
+    "title": "Pay for Food With Plastic Waste at This Cafe",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251106NK.mp3",
+    "content": [
+      {
+        "en": "Oh! This cafe looks good! But everyone here has old plastic bags. They have old plastic bottles too. Why?",
+        "tw": "咦? 這間咖啡館的顧客，手上都拿著舊塑膠袋跟寶特瓶欸！",
+        "time": null
+      },
+      {
+        "en": "This cafe in India doesn't take money. It takes plastic waste! One kilogram of plastic waste pays for one lunch or dinner. People get rice, two kinds of curry, soup, bread, salad, and pickles! Doesn't that sound great?",
+        "tw": "這家在印度的咖啡廳不收錢，只收塑膠垃圾！一公斤的垃圾可以換到一頓菜色豐富的午餐或是晚餐。聽起來很棒吧！",
+        "time": null
+      },
+      {
+        "en": "Half a kilogram of plastic waste pays for one breakfast. People can get a potato burger. Or they can get a pastry with vegetables in it. Yum!",
+        "tw": "半公斤的塑膠垃圾也可以換到一份美味的早餐喔！",
+        "time": null
+      },
+      {
+        "en": "This cafe is helping hungry people. It's cleaning up the city too! Every breakfast, lunch, and dinner means less plastic waste on the streets.",
+        "tw": "這家咖啡館不但能餵飽飢餓的人，也能淨化環境、減少城市中的塑膠垃圾。",
+        "time": null
+      },
+      {
+        "en": "The cafe has been open for six years. People have given it 23 tons of plastic! That's as heavy as 500 10-year-old kids in Taiwan!",
+        "tw": "咖啡廳已經開幕六年了，六年來他們總共收到了23噸的塑膠垃圾！",
+        "time": null
+      },
+      {
+        "en": "There are more and more cafes like this in India. All of them take plastic waste. Some give food. Some give rice or other things.",
+        "tw": "這樣子運作的咖啡廳在印度越來越多。他們收下大家的塑膠垃圾後，把大家餵飽！",
+        "time": null
+      },
+      {
+        "en": "Would you take one kilogram of plastic waste and eat at this kind of cafe? Let's go!",
+        "tw": "你會帶一公斤的塑膠垃圾到這種咖啡館吃飯嗎？我們走吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "印度這家店，鼓勵大家回收塑膠垃圾換取食物。",
+      "content": [
+        {
+          "text": "1. breakfast 早餐，lunch 午餐. I'm so hungry I could eat 3 burgers! 我餓到可以吃三個漢堡! Oh my! Did you miss breakfast? 天哪，你錯過了早餐? Breakfast and lunch 早餐跟中飯.",
+          "time": null
+        },
+        {
+          "text": "2. rice 米飯. Then you should try their fried rice too. 那你也應該試試他們的炒飯。 Bring it on! 都來吧!",
+          "time": null
+        },
+        {
+          "text": "3. pastry 糕餅. How about some pastry like apple pie? 要不要來點糕餅，例如蘋果派? I love apple pie! 我喜歡蘋果派!",
+          "time": null
+        },
+        {
+          "text": "4. half 一半. Now I'm too full! 現在我太飽了! I'll save half of the pie for later. 我留一半的派晚一點吃。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字每天都會用到。breakfast早餐 lunch午餐 rice米飯 pastry糕餅 half一半"
+    },
+    "quiz": [
+      {
+        "question": "1. What does this cafe do?",
+        "options": [
+          "a. Grow potatoes",
+          "b. Get money for food",
+          "c. Clean up the city"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How much plastic waste pays for a lunch or dinner?",
+        "options": [
+          "a. Half a kilogram",
+          "b. One kilogram",
+          "c. Two kilograms"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How much plastic waste have people given to the cafe in six years?",
+        "options": [
+          "a. 20 tons",
+          "b. 23 tons",
+          "c. 30 tons"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
