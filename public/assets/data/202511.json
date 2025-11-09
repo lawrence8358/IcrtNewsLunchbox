@@ -505,5 +505,100 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251110-01",
+    "type": "國小",
+    "tag": [
+      "Character Education"
+    ],
+    "title": "Turtle Found Five Kilometers From Home",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251107NK.mp3",
+    "content": [
+      {
+        "en": "A family had a turtle. She lived in their garden. But one day, they could not find her! They looked everywhere in the garden. They looked again and again!",
+        "tw": "有一家人在他們的花園裡養了一隻烏龜。有一天，烏龜不見了！大家怎麼找都找不到他！",
+        "time": null
+      },
+      {
+        "en": "Was the turtle somewhere in the garden? Or did she run away from home? Days went by. Then a month went by. They were sad. Would they see her again?",
+        "tw": "烏龜離家出走了嗎？過了整整一個月，烏龜還是沒有出現。所有人都很難過，因為他們也許再也見不到他們的烏龜了。",
+        "time": null
+      },
+      {
+        "en": "Five kilometers away, a young girl was walking in a field. She almost stepped on a turtle! She was worried. Maybe the turtle was not safe there. The girl put the turtle in her T-shirt! Then she went to a store.",
+        "tw": "在五公里外的一片草皮上，一個小女孩差一點踩到一隻烏龜！他擔心烏龜在野外會受傷，所以把烏龜用衣服包起來，交給附近的店家保管。",
+        "time": null
+      },
+      {
+        "en": "The store owner took a picture of the turtle. Then he put the picture online. Four hours later, the family saw it! The turtle was their turtle! They were very happy. They went to the store.",
+        "tw": "店長拍了烏龜的照片後，上傳到網路上。不久後，那一家人就看到烏龜的照片！那就是他們走失的烏龜！他們迫不及待想把烏龜帶回家。",
+        "time": null
+      },
+      {
+        "en": "This small, slow turtle walked a long, long, way! She crossed fields. She crossed roads. She crossed a small river! And she stayed safe!",
+        "tw": "這隻小烏龜走了好遠好遠。他跨越了草原、馬路、還有一條小溪。幸好他沒有受傷！",
+        "time": null
+      },
+      {
+        "en": "The turtle is back in her garden. Now the family wants to find the young girl and say \"thank you!\"",
+        "tw": "烏龜已經回到她的花園裡了。現在這家人想找到那個小女孩並向她道謝！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "烏龜雖然走得慢，但是也可以走很遠。",
+      "content": [
+        {
+          "text": "1. run away 跑掉。My dog ran away again last night. 我的狗昨晚又跑走了。Again? 又一次? Did you scare him? 你把他嚇跑了? No, he loved me! 才不是，他超愛我的。",
+          "time": null
+        },
+        {
+          "text": "2. a long way 很長的路。Anyway, a policeman called me today, 不管怎樣警察今天打電話給我，saying the dog is in Beitou. 說我的狗在北投。That's a long way from home! 那離你家很遠呢!",
+          "time": null
+        },
+        {
+          "text": "3. cross 越過。Yeah, he had to cross many streets to get there. 對啊，他得過好多條馬路才能到那裏。",
+          "time": null
+        },
+        {
+          "text": "4. picture 照片。How did the police know it's yours? 警察怎麼知道是你的狗? I posted his picture online. 我把他的照片po上網。Smart! 真聰明!",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我一起讀單字。run away跑掉 a long way很長的路 cross越過 picture照片"
+    },
+    "quiz": [
+      {
+        "question": "1. How long was the turtle away from home?",
+        "options": [
+          "a. One day",
+          "b. One week",
+          "c. One month"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Who found the turtle?",
+        "options": [
+          "a. The family",
+          "b. A store owner",
+          "c. A young girl"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Where was the turtle found?",
+        "options": [
+          "a. In a field",
+          "b. On a road",
+          "c. In a small river"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
