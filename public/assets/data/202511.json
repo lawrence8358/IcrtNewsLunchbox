@@ -600,5 +600,97 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20251111-01",
+    "type": "國小",
+    "tag": [
+      "勵志",
+      "世界紀錄",
+      "環遊世界"
+    ],
+    "title": "Young Man Fights Cancer with His Plane",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251110NK.mp3",
+    "content": [
+      {
+        "en": "A young man loves planes. He became a pilot three years ago. He was 17. A child in his family has cancer. It makes people very sick. The young man wanted to help fight it.",
+        "tw": "一名熱愛飛機的青少年，十七歲那年成為飛行員。他的家族中有個小孩得了癌症，他決心要幫忙抗癌。",
+        "time": null
+      },
+      {
+        "en": "He wanted people to give money to fight cancer. But how? He had to do something big. He could fly a long way in a small plane, alone! He could go to the seven continents!",
+        "tw": "他希望幫助癌症病患，但是怎麼幫呢? 他想到可以開著飛機，飛越七大洲來募款！",
+        "time": null
+      },
+      {
+        "en": "He began in North America. Then he flew to South America, Europe, Asia, Africa, and Australia. He went to 60 countries! Then, he flew to Antarctica. He did it! Now he's the youngest pilot to fly alone to the seven continents! People gave money!",
+        "tw": "最後他抵達南極洲，成為全球最年輕的，獨自飛過七大洲的飛行員! 而且別人還捐錢給他！",
+        "time": null
+      },
+      {
+        "en": "But there were big problems. He broke the law by flying to Antarctica. He had to pay money to a country. But the country will use it for children with cancer.",
+        "tw": "但是他違反了法律，因為沒有降落南極洲的許可證。他被罰錢了，但那個國家會把錢用在癌症病童上！",
+        "time": null
+      },
+      {
+        "en": "And he could not leave Antarctica for two months! He could not fly his plane, and there were no other planes. But now he is back in the U.S. He will keep flying and fighting cancer!",
+        "tw": "他被困在南極洲兩個月，這段時間他都不能開飛機，也沒有其他飛機可用。但他現在已經回到美國，他會繼續飛行並對抗癌症！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這個男孩不但創下世界紀錄，還能獲得捐款。",
+      "content": [
+        {
+          "text": "1. continent 洲.\nIf you could fly anywhere in the world,要是你能飛到世界任何一個地方， where would you go? 你會去哪裡?\nEverywhere! At least 3 continents! 哪裡都想去。至少三大洲!",
+          "time": null
+        },
+        {
+          "text": "2. Europe 歐洲.\nAnd they are…? 哪三大洲?\nEurope, North America and South America! 歐洲，北美洲，南美洲。\nSo you like America. 所以你喜歡美洲。\nOh, yes. 我是。",
+          "time": null
+        },
+        {
+          "text": "3. country 國家.\nIt has many cool countries like Canada and Chile.它有很多很酷的國家，例如加拿大跟智利。\nI guess you're right.你說對了。",
+          "time": null
+        },
+        {
+          "text": "4. pilot 飛機駕駛.\nEver thought of becoming a pilot? 你想過去當機師嗎?\nNo, I can't. I'd get air sick. 我不行，我會暈機。",
+          "time": null
+        }
+      ],
+      "postscript": "你想開飛機嗎?那要會英文喔! continent洲 Europe歐洲 country國家 pilot飛機駕駛"
+    },
+    "quiz": [
+      {
+        "question": "1. How old was the man when he became a pilot?",
+        "options": [
+          "a. 7",
+          "b. 17",
+          "c. 60"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Which continent did the man begin flying from?",
+        "options": [
+          "a. North America",
+          "b. Asia",
+          "c. Australia"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Where was the man for two months?",
+        "options": [
+          "a. South America",
+          "b. Australia",
+          "c. Antarctica"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
