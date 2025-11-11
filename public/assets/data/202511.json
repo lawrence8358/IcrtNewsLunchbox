@@ -692,5 +692,110 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20251112-01",
+    "type": "國小",
+    "tag": [
+      "General"
+    ],
+    "title": "Man Saves Many With Bulldozer",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251111NK.mp3",
+    "content": [
+      {
+        "en": "It is raining very hard. Streets and homes are flooded. The water is one meter high!",
+        "tw": "下暴雨了！很多街道跟住宅都淹水了！",
+        "time": null
+      },
+      {
+        "en": "A man is sleeping. A friend's call wakes him up. Huh?! He asks for help! Two older people cannot leave their flooded home!",
+        "tw": "一名男子半夜被電話叫醒，他的朋友打來向他求救！有兩位老人家裡淹水了，但他們逃不出去。",
+        "time": null
+      },
+      {
+        "en": "The man has a bulldozer. It is very strong. It has a scoop in front. The scoop can move lots of dirt. But, it can carry people too!",
+        "tw": "這名男子有一台推土機。推土機前面的大鏟子除了可以鏟土，還可以載人！",
+        "time": null
+      },
+      {
+        "en": "The man drives his bulldozer through the flood. He sees people standing on top of their homes! The scoop goes up. He shouts, \"Jump in!\" People jump in! Ten people ride safely in the scoop! The man takes them to a safe place.",
+        "tw": "他看到很多人為了避難逃到自己家的屋頂上。他把推土機的鏟子伸長，把在屋頂上的人全部救了下來！",
+        "time": null
+      },
+      {
+        "en": "Then the man drives to the two older people. They jump into the scoop. They are safe!",
+        "tw": "接著，他開推土機到求救的老人家身邊，用鏟子把他們送到安全的地方！",
+        "time": null
+      },
+      {
+        "en": "The man helps many more people. He works with firefighters too. Sometimes he stops water with his scoop for them!",
+        "tw": "這名男子和消防隊員一起合作，他用他的推土機幫助了很多人 !",
+        "time": null
+      },
+      {
+        "en": "The flood pushes the bulldozer. But the man doesn't stop. He drives for thirteen hours! He saves more than one hundred people!",
+        "tw": "水流都快把推土機沖走了，但他沒有放棄。他開了13個小時的推土機，救了一百多個人！",
+        "time": null
+      },
+      {
+        "en": "People call him the \"Bulldozer Hero\". One man can help many people!",
+        "tw": "人們稱他為「推土機英雄」。一個人也能幫助許多人！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "說到在水災中救人，一般人不會想到推土機。但是這名駕駛做到了。",
+      "content": [
+        {
+          "text": "1. flood 淹水。Did you hear about the flood last night? 你有聽說昨晚的水災嗎?Hear about it? 聽說?The street in front of my house was flooded !我家前面的路都淹水了!",
+          "time": null
+        },
+        {
+          "text": "2) firefighter 消防員。I almost needed a boat to get to my car! 差點就需要船來送我去車子。That was really bad! 那真的很慘!Yeah, and even firefighters came around. 對啊，連消防員都跑來。",
+          "time": null
+        },
+        {
+          "text": "3) carry 揹著。On a boat? 坐船嗎?No, they walked by, carrying sandbags. 沒有，他們揹著沙包走過去。",
+          "time": null
+        },
+        {
+          "text": "4) wake up 叫醒。How about you? 你呢?I was fine.我很好。The sound of the rain woke me up, but that was it.",
+          "time": null
+        }
+      ],
+      "postscript": "你有看過水災嗎?flood淹水 firefighter 消防員 carry揹著 wake up叫醒"
+    },
+    "quiz": [
+      {
+        "question": "1. How long did the man drive?",
+        "options": [
+          "a. Three hours",
+          "b. Ten hours",
+          "c. Thirteen hours"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Who did the man work with?",
+        "options": [
+          "a. Police officers",
+          "b. Firefighters",
+          "c. Doctors"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do people call the man now?",
+        "options": [
+          "a. Bulldozer Hero",
+          "b. Dozer Hero",
+          "c. Flood Hero"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
