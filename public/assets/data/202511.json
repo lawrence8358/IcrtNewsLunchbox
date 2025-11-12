@@ -797,5 +797,105 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20251113-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Sustainable Cities and Communities",
+      "Reading Literacy Education",
+      "International Education",
+      "Social Studies",
+      "Arts"
+    ],
+    "title": "Delicious Treasure Is Going to Yilan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251112NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: Mmmmmm! Taiwan loves pork belly! It is the meat in lǔ ròu fàn, guà bāo, and other dishes. It is delicious! Pork belly looks delicious too. Under the pork skin, you can see fat, meat, fat, and meat. Ooohh!",
+        "tw": "台灣人超愛五花肉，滷肉飯、刈包裡面都有！豬皮下面可以看到一層瘦一層肥的肉！",
+        "time": null
+      },
+      {
+        "en": "There is a beautiful piece of pork belly. It's at the National Palace Museum in Taipei. But wait! It's not at the cafe. You cannot eat it. Crowd: What?! Narrator: Why not? Well, it is not food! It is a stone!",
+        "tw": "故宮博物院有一塊看起來很美味的五花肉！但這塊肉沒辦法吃，因為它其實是一塊石頭！",
+        "time": null
+      },
+      {
+        "en": "Who made it? No one knows. The top of the stone has many little cuts. It looks like pork skin. The sides are colored. They look like delicious fat and meat.",
+        "tw": "石頭表面上有淺淺的痕跡，四周也都有顏色，看起來就像美味的豬肉。",
+        "time": null
+      },
+      {
+        "en": "The museum has many treasures. People say this stone is the most important treasure!",
+        "tw": "故宮有許多寶貝，有人說肉形石是最重要的收藏品之一！",
+        "time": null
+      },
+      {
+        "en": "But the pork belly stone will leave the museum for a few months. It is going to Yilan for the first time. The stone will be in a big show at Lanyang Museum. The show is from December 23rd to March 22nd. You can see Yilan's treasures there too!",
+        "tw": "這塊石頭要暫時搬家了！從12月23號到3月22號，它將首次前往宜蘭。大家也可以在蘭陽博物館欣賞到很多宜蘭的寶藏喔！",
+        "time": null
+      },
+      {
+        "en": "What a great time to go to Yilan!",
+        "tw": "這真是去宜蘭的好時機！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "故宮博物院的肉形石，是明星展覽品。",
+      "content": [
+        {
+          "text": "1. skin 皮。 Oh, this dish looks beautiful! 這道菜真好看!",
+          "time": null
+        },
+        {
+          "text": "2. first time 第一次。 You made it yourself?! 你自己做的嗎?!",
+          "time": null
+        },
+        {
+          "text": "3. fat 脂肪。 Careful, that's a lot of fat. 你要小心，有很多脂肪喔。 I know, but don't you think it smells too delicious to say \"no\"? 我知道，但你不覺得這太香了，很難拒絕? I agree. 我同意。",
+          "time": null
+        },
+        {
+          "text": "4. meat 肉。 I usually don't eat meat for dinner.我通常晚飯不吃肉。 But I simply must taste this. 但是我一定得嚐嚐這個。 You won't be sorry.你不會後悔的。",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學到哪些單字? skin皮 first time第一次 fat脂肪 meat肉"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of meat does the stone look like?",
+        "options": [
+          "a. Pork jelly",
+          "b. Pork belly",
+          "c. Beef belly"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What museum will the stone leave for a few months?",
+        "options": [
+          "a. Lanyang Museum",
+          "b. Yilan Story Museum",
+          "c. National Palace Museum"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Where will the stone be on December 23?",
+        "options": [
+          "a. Yilan",
+          "b. Chiayi",
+          "c. Yuanlin"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
