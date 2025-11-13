@@ -897,5 +897,100 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20251114-01",
+    "type": "國小",
+    "tag": [
+      "生活"
+    ],
+    "title": "No More Home Offices in Cafes",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251113NK.mp3",
+    "content": [
+      {
+        "en": "I want to have a drink at this cafe. But people are sitting … and sitting. Many are using their phones or laptop computers. Some are working. Some are studying. Some are watching videos. Hey, there's a seat! Ahhhh…",
+        "tw": "這間咖啡廳客滿了。店裡的人都在用手機或電腦工作或是讀書。他們在咖啡廳的時間很長很長！",
+        "time": null
+      },
+      {
+        "en": "In South Korea, many people use their phones and laptops in cafes too. But some people are making home offices in cafes!",
+        "tw": "在南韓，很多人會在咖啡廳用電子產品。大家開始把咖啡廳當成自己的私人辦公室。",
+        "time": null
+      },
+      {
+        "en": "Some of these people bring printers. Some bring big desktop computers! Some put small walls around their table!",
+        "tw": "有一些人會帶印表機、桌上型電腦、甚至是隔板！",
+        "time": null
+      },
+      {
+        "en": "And these people sit, and sit… and sit. Sometimes they leave for a long time. But they keep their things at the table. No one else can sit down! This is bad for other people. They cannot enjoy their drinks at the cafe.",
+        "tw": "這些人會在咖啡廳坐很久，還會用東西霸佔位置。這樣一來，其他的客人都沒辦法在咖啡廳坐下！",
+        "time": null
+      },
+      {
+        "en": "One cafe chain has many cafes in South Korea. Now it has new rules. People can bring phones and laptops. But they cannot bring printers, desktop computers, or small walls. And, people have to take their things when they leave a table.",
+        "tw": "有一間連鎖咖啡廳設了新的規定。客人可以帶手機跟筆電，但不能帶印表機、桌上型電腦跟隔板，也不能再用私人物品占位子！",
+        "time": null
+      },
+      {
+        "en": "The cafe chain wants everyone to enjoy their drinks. Do you think these new rules will work?",
+        "tw": "這家咖啡連鎖店希望每個人都能享受他們的飲料。你覺得這些新規定會奏效嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "很多人在咖啡館占了太久的位子，讓別人沒辦法坐。",
+      "content": [
+        {
+          "text": "1) drink 飲料。\nAh, I just want to sit down and enjoy a drink. 我只想坐下來喝點飲料。\nMy feet are killing me!我的腳痛死了。\nSame here. But no seats in this cafe.我也是，但是這家咖啡館沒位子。",
+          "time": null
+        },
+        {
+          "text": "2) leave 離開。\nShould we wait? 我們應該等嗎?\nMaybe not. These people won't leave soon.也許不了，這些人不會很快走的。",
+          "time": null
+        },
+        {
+          "text": "3) work 工作。\nI think they're working here.我想他們在這裡工作。\nYeah, that man even has two laptops with\nhim.對啊，那個人甚至帶了兩部筆記型電腦。",
+          "time": null
+        },
+        {
+          "text": "4) seat 座位。\nI only need one small seat. 我只需要一個小小的座位。\nI can share it with your bag. 可以跟你的包包共享。\nHa, my bag does need a break.我的包包確實需要歇一下。",
+          "time": null
+        }
+      ],
+      "postscript": "你想喝點飲料嗎?\ndrink飲料 leave離開 work工作 seat座位"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do people make home offices in cafes?",
+        "options": [
+          "a. South Africa",
+          "b. Singapore",
+          "c. South Korea"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do some people bring to cafes to make home offices?",
+        "options": [
+          "a. Coffee",
+          "b. Printers",
+          "c. Videos"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why is making a home office in a cafe bad for other people?",
+        "options": [
+          "a. They cannot sit down.",
+          "b. They cannot use their phones.",
+          "c. They cannot get a drink."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
