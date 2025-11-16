@@ -992,5 +992,105 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20251117-01",
+    "type": "國小",
+    "tag": [
+      "故事"
+    ],
+    "title": "Taxi Driver Surprises Man",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251114NK.mp3",
+    "content": [
+      {
+        "en": "TAXI!",
+        "tw": "計程車！",
+        "time": null
+      },
+      {
+        "en": "Have you taken a taxi in Taiwan? Many taxi drivers here know great places to eat!",
+        "tw": "你有在台灣搭過計程車嗎？很多計程車司機都會知道當地好吃的餐廳在哪裡！",
+        "time": null
+      },
+      {
+        "en": "One day, a man got in a taxi. The taxi driver and the man talked. The man said he did not pay for long taxi rides. Someone else paid for him. This man also said he had lots of online money.",
+        "tw": "有天，有一位男子坐上計程車。他和司機說他坐長途計程車不用自己付錢，也有很多虛擬貨幣。",
+        "time": null
+      },
+      {
+        "en": "The taxi driver thought the man was a scammer. Scammers try to get money from people. Sometimes scammers tell people, \"Let's meet and be friends.\" Then they ask for money.",
+        "tw": "司機懷疑這一位乘客是騙別人錢的詐欺犯。",
+        "time": null
+      },
+      {
+        "en": "The taxi driver quietly picked up his phone. He texted someone. Then he talked more with the man. The taxi driver said he knew about a good fish soup place.",
+        "tw": "司機偷偷傳簡訊給別人後，繼續跟那名可疑的乘客聊天，並向他推薦了一間魚湯店。",
+        "time": null
+      },
+      {
+        "en": "The taxi driver and the man went to the fish soup place. But someone else went too: a police officer! The taxi driver had texted the police!",
+        "tw": "司機跟乘客一起到魚湯店吃飯。突然之間，警察出現了！原來司機偷偷聯繫了警察！",
+        "time": null
+      },
+      {
+        "en": "The police wanted to ask the man questions. They thought the man was a scammer too. The police are trying hard to find scammers. This taxi driver tried to help them. What a surprise!",
+        "tw": "警方想盤問這名男子。他們也認為這名男子是詐騙犯。警方正努力追查詐騙犯。這名計程車司機試圖幫助他們。真是令人驚訝！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "計程車司機抓到了涉入詐騙案的乘客。",
+      "content": [
+        {
+          "text": "1. taxi 計程車。\nHey, did you see my phone? 你有沒有看到我的手機\nI think I left it in the taxi! 我想我把它留在計程車裡了。\nOh no, check your bag and pockets! 糟糕了，檢查一下你的包包和口袋。",
+          "time": null
+        },
+        {
+          "text": "2. let's 讓我們來。\nI did. I can't find it anywhere. 我看過了，都找不到。\nThe taxi driver seems like a nice guy. 計程車司機好像人不錯。\nLet's call him. 我們來打電話給他吧。",
+          "time": null
+        },
+        {
+          "text": "3. place 地方。(按鍵聲音)\nHello, I just took …..(淡出)\nThe driver said he'll come back to this place to return the phone.\n司機說他會回到這裡還給我。",
+          "time": null
+        },
+        {
+          "text": "4. police officer 警察。\nSo nice! 真好!\nYeah, I was worried that I might need a police officer to help.\n對啊，我本來還在擔心可能需要警察幫忙。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了嗎?\ntaxi計程車 let's讓我們來 place地方 police officer警察"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the taxi driver tell the man about?",
+        "options": [
+          "a. Fried rice",
+          "b. Fish soup",
+          "c. Fruit juice"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Who did the taxi driver text?",
+        "options": [
+          "a. The man",
+          "b. The police",
+          "c. A scammer"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did the police want to do?",
+        "options": [
+          "a. Ask the man questions",
+          "b. Have dinner with the man",
+          "c. Ask the man for money"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
