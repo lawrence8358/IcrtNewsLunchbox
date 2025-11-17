@@ -1092,5 +1092,103 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20251118-01",
+    "type": "國小",
+    "tag": [],
+    "title": "University Studies Old Skate Park",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251117NK.mp3",
+    "content": [
+      {
+        "en": "Skateboarding is cool. Did you know some surfers started it? About seventy years ago, they put roller skate wheels on short surfboards. They surfed the streets!",
+        "tw": "玩滑板很酷！七十年前，一群喜歡衝浪的人把輪子裝到衝浪板上，就變成了滑板。他們在地面上衝浪！",
+        "time": null
+      },
+      {
+        "en": "Young people fell in love with skateboarding. Skate parks were built all over the world!",
+        "tw": "年輕人愛上滑板，世界各地都開始出現滑板場！",
+        "time": null
+      },
+      {
+        "en": "Scotland's first skate park was built almost fifty years ago. Skateboarding there was exciting! Scotland's best skateboarders went there! Scotland's first big skateboarding contest was there.",
+        "tw": "五十年前，蘇格蘭的第一個滑板場出現了！最優秀的蘇格蘭滑板選手都來這裡玩。他們舉辦了蘇格蘭第一場盛大的滑板比賽。",
+        "time": null
+      },
+      {
+        "en": "Skate parks have to be safe for skateboarders. But keeping them safe costs lots of money. So this skate park closed after five years. It was under lots of dirt and trees for many years.",
+        "tw": "滑板場必須是安全的，但維護場地要花很多錢。滑板場關門後，被樹葉和泥土掩蓋了很多年。",
+        "time": null
+      },
+      {
+        "en": "But now a university is studying the skate park! And some people who were skateboarders at the park long ago are helping.",
+        "tw": "現在有一所大學在研究這個滑板場！以前在這裡玩滑板的人也來幫忙了。",
+        "time": null
+      },
+      {
+        "en": "Some are helping to take some of the dirt and trees away. Some are sharing stories, old pictures, or old videos of skateboarding at the skate park.",
+        "tw": "他們幫忙清走樹葉和泥土，也分享大家以前在滑板場玩滑板的照片跟影片。",
+        "time": null
+      },
+      {
+        "en": "Now Scotland won't forget its first skate park again!",
+        "tw": "現在蘇格蘭不會再忘記它的第一個滑板場了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "昔日的滑板好手很高興多年之後，能看到老滑板場重見天日。",
+      "content": [
+        {
+          "text": "1. forget 忘記。\nDo you remember this park? 你記得這個公園嗎?\nWe used to hang out here after school. 我們以前放學後都在這裡玩。\nHow can I forget? 我怎麼會忘記?\nI walk past here every day. 我每天都走過這裡。",
+          "time": null
+        },
+        {
+          "text": "2. old 老的。\nWe were so young then. 我們那時候好年輕。\nYou're still young! 你現在還是很年輕!\nBut I feel old. 但是我覺得老了。",
+          "time": null
+        },
+        {
+          "text": "3. story 故事。\nMaybe you should write down your stories and share them.\n也許你應該寫你的故事然後分享。\nWill that make me young again? 那會讓我變年輕嗎?\nNo. 不會。",
+          "time": null
+        },
+        {
+          "text": "4. picture 照片。\nBut if you post your best pictures, 但是假如你po你最好看的照片，\npeople will think you're still young.大家會認為你還是很年輕。",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我一起讀單字。\nforget忘記 old老的 story故事 picture照片"
+    },
+    "quiz": [
+      {
+        "question": "1. Who started skateboarding?",
+        "options": [
+          "a. Ice skaters",
+          "b. Roller skaters",
+          "c. Surfers"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. About when was Scotland's first skate park built?",
+        "options": [
+          "a. Seventy years ago",
+          "b. Sixty years ago",
+          "c. Fifty years ago"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What was at Scotland's first skate park long ago?",
+        "options": [
+          "a. A university",
+          "b. A big contest",
+          "c. Old pictures"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
