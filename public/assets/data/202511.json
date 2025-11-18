@@ -1190,5 +1190,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251119-01",
+    "type": "國小",
+    "tag": [
+      "基隆",
+      "防空洞",
+      "轉型"
+    ],
+    "title": "Keelung's Old Shelters Become Happy Places",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251118NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: Long ago, Keelung needed shelters for its people. Shelters keep people safe when there is danger. When there is no more danger, people go home.",
+        "tw": "以前打仗的時候，基隆需要可以讓人暫時避難的地方。",
+        "time": null
+      },
+      {
+        "en": "Hmmmm… What was a good place for these shelters? Well, Keelung has many hills. Workers made more than six hundred shelters in the hills. Whoa! That's a lot!",
+        "tw": "基隆有很多山地！因此，工人在基隆的山區建造了六百多個防空洞，讓大家可以躲起來！",
+        "time": null
+      },
+      {
+        "en": "Some shelters are small. Three or four people can go in them. Some shelters are big. Many people can go in them.",
+        "tw": "那些防空洞有大有小，大的可以容納很多人！",
+        "time": null
+      },
+      {
+        "en": "Keelung does not need the shelters now. Many can be scary …Voice: Hello?!!Narrator: They are dark. Water drips slowly. There are snakes! There are spiders! And there are frogs!Voice: Eeeew!",
+        "tw": "現在，基隆已經不需要這些防空洞了。老舊的防空洞內又暗又潮濕，還會有蛇、蜘蛛、跟青蛙！",
+        "time": null
+      },
+      {
+        "en": "But people want to use the shelters now. Schools take kids there. Kids learn about the shelters. One shelter shows art. One has a restaurant!",
+        "tw": "防空洞有了新的功能！有老師帶學生去防空洞校外教學，還有一個防空洞被改建成餐廳。",
+        "time": null
+      },
+      {
+        "en": "At first, the restaurant owner worried. Will snakes, spiders, and frogs scare people eating there? No! They laugh! They say \"Look! A cute frog!\"",
+        "tw": "起初，餐廳老闆很擔心大家會被蛇、青蛙、和蜘蛛嚇跑。幸好客人都覺得青蛙很可愛！他們看到青蛙後開懷大笑！",
+        "time": null
+      },
+      {
+        "en": "Some of Keelung's old shelters are not scary now. They are for learning. They are for enjoying art and food. These shelters are happy places now!",
+        "tw": "現在，基隆的一些舊防空洞不再可怕了。它們被用於學習，被用於享受藝術和美食。這些防空洞現在成了快樂的地方！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "基隆很多防空洞已經搖身一變，成為吸引人的所在。",
+      "content": [
+        {
+          "text": "1. dark 黑暗的。Wow, this cave is really dark and wet ! 這個山洞真是又黑又潮濕。Are you sure we can come here? 你確定我們可以來這裡?Oh yes, I've seen people coming in. 可以，我看過有人進來。",
+          "time": null
+        },
+        {
+          "text": "2. spider 蜘蛛。Hey, something big just moved! 剛剛有大東西在動!Don't say that! 不要那樣說!I already saw two spiders. 我已經看到兩隻蜘蛛了。",
+          "time": null
+        },
+        {
+          "text": "3. snake 蛇。Maybe there are snakes here too. 也許這裡還有蛇。Okay, that's it. I'm going out. 夠了，我出去了。No, I'm just kidding! 沒有啦，我開玩笑的!",
+          "time": null
+        },
+        {
+          "text": "4. laugh 笑。I'm not laughing. 我可沒在笑。I'm scared. 我害怕。Alright, let's go. 好吧，我們走吧。",
+          "time": null
+        }
+      ],
+      "postscript": "你有去過防空洞嗎? 來讀單字。dark黑暗的 spider蜘蛛 snake蛇 laugh笑"
+    },
+    "quiz": [
+      {
+        "question": "1. Why were the shelters made?",
+        "options": [
+          "a. To keep people safe",
+          "b. To sell good food",
+          "c. To study old Keelung"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How many shelters did workers make in Keelung?",
+        "options": [
+          "a. Three or four",
+          "b. One hundred",
+          "c. More than six hundred"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What do people eating at the restaurant laugh about?",
+        "options": [
+          "a. The cute art",
+          "b. A cute frog",
+          "c. A cute kid"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
