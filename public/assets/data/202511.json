@@ -1292,5 +1292,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251120-01",
+    "type": "國小",
+    "tag": [
+      "Animals",
+      "Australia",
+      "Insects"
+    ],
+    "title": "A New Cool Animal in Australia",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251119NK.mp3",
+    "content": [
+      {
+        "en": "Australia has many cool animals. One is new to us. It is very cool!",
+        "tw": "澳洲有很多有趣的生物。現在，有人發現了新的物種！",
+        "time": null
+      },
+      {
+        "en": "Some people were in a forest on a mountain. They saw a tree branch with legs! But it was not a branch. It was a giant stick insect!",
+        "tw": "有一群登山客在山上發現了一根長了腳的樹枝！但那其實是一隻巨大的竹節蟲！",
+        "time": null
+      },
+      {
+        "en": "The people took pictures. They put the pictures online. That is where scientists first saw this insect. They were excited! Australia has giant stick insects. But this is a new kind!",
+        "tw": "那群登山客把竹節蟲的照片傳到網路上。科學家看到照片後非常興奮！澳洲有很多大的竹節蟲，但他們第一次見到這個品種！",
+        "time": null
+      },
+      {
+        "en": "This giant stick insect is the heaviest insect in Australia. It is forty-four grams. That is as heavy as a golf ball! Wow!",
+        "tw": "這隻巨大的竹節蟲是澳洲最重的昆蟲。牠重達44克，跟一顆高爾夫球一樣重！",
+        "time": null
+      },
+      {
+        "en": "This insect is also very long. Look from your teacher's elbow to the end of your teacher's longest finger. That is as long as the insect! Whoa!",
+        "tw": "這隻昆蟲也很長。牠有一個大人的手肘到指尖那麼長！",
+        "time": null
+      },
+      {
+        "en": "Scientists want to find out more about this insect. It is very big. But it is very hard to find. It lives at the top of tall trees. The trees are on mountains!",
+        "tw": "科學家想深入研究這種大昆蟲，但這種竹節蟲很難找。他們住在山區的大樹上！",
+        "time": null
+      },
+      {
+        "en": "Scientists also want to find more insects. There are many, many kinds of insects we don't know about. They are hard to find too!",
+        "tw": "科學家也想找到更多昆蟲。有許多我們不知道種類的昆蟲。牠們也很難找到！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "澳洲發現特大號的竹節蟲，以前沒有記錄過。",
+      "content": [
+        {
+          "text": "1. heaviest 最重的。\nWhy is your backpack so heavy? 你的背包怎麼這麼重?\nOh, this is not even the heaviest. 這還不是最重的呢。",
+          "time": null
+        },
+        {
+          "text": "2. insect 昆蟲。\nThe one I use when looking for insects, 我去找昆蟲時用的背包,\nthat's the heavy one. 那個才重。\nBut insects are very light. 但是昆蟲很輕。\nTrue. 沒錯。",
+          "time": null
+        },
+        {
+          "text": "3. tree branch 樹枝。\nBut I also need to bring back stones and tree branches.\n可是我得把石頭跟樹枝帶回來。\nBecause you want to build them a home? 因為你要替牠們建一個家? Yeah.是的。",
+          "time": null
+        },
+        {
+          "text": "4. forest 森林。\nI study them for a while, 我研究牠們一陣子，\nand then send them back to the forest. 然後把牠們放回森林。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like insects?\n來一起讀單字。\nheaviest最重的 insect昆蟲 tree branch樹枝 forest森林"
+    },
+    "quiz": [
+      {
+        "question": "1. What does the giant stick insect look like?",
+        "options": [
+          "a. A leaf",
+          "b. A branch",
+          "c. A flower"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where did scientists first see the giant stick insect?",
+        "options": [
+          "a. Online",
+          "b. In a forest",
+          "c. On an elbow"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How heavy is this giant stick insect?",
+        "options": [
+          "a. Forty-four grams",
+          "b. Forty-four kilograms",
+          "c. Forty-four liters"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
