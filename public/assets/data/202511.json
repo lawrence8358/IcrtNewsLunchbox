@@ -1394,5 +1394,107 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20251121-01",
+    "type": "國小",
+    "tag": [
+      "Clams",
+      "Beach",
+      "Activity"
+    ],
+    "title": "Clams Bring People to a Beach",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251120NK.mp3",
+    "content": [
+      {
+        "en": "What do you do at the beach? Some kids play in the water. Some make sand castles. Some pick up seashells. And some dig for clams!",
+        "tw": "你都在海邊做什麼呢？你可以玩水，還可以在沙灘上堆沙堡、撿貝殼、挖蛤蜊！",
+        "time": null
+      },
+      {
+        "en": "A beach in Chiayi has lots of clams now! Many people know about the clams. They go to the beach. Some moms and dads bring their kids. Everyone looks for clams. It is fun! And it is free!",
+        "tw": "嘉義布袋的沙灘上有好多蛤蜊！很多遊客會來這個海灘一起撿蛤蜊，不但不用花錢，還很有趣！",
+        "time": null
+      },
+      {
+        "en": "Lots of people walk on the wet sand. The clams are under the sand. People look for little holes in the sand. Then they dig! Some people go in the water and dig.",
+        "tw": "大家仔細的尋找沙灘上的小坑洞。找到後，他們努力向下挖，挖出藏在沙子裡的蛤蜊！",
+        "time": null
+      },
+      {
+        "en": "People dig for clams in many ways. Some people use shovels. Some use small rakes. Some use nets. Some use baskets. And some use their hands.",
+        "tw": "大家會用各種不同工具挖洞！有人用鏟子跟耙子，也有人用漁網，水桶，或是直接用手挖！",
+        "time": null
+      },
+      {
+        "en": "Finding lots of clams is like winning a prize! Sometimes people find one clam in ten minutes. Sometimes people get a big basket of clams in thirty minutes!",
+        "tw": "找蛤蜊就像在尋寶一樣，有的人十分鐘只挖到一顆，也有一些人半個小時內就能挖到一大桶的蛤蜊！",
+        "time": null
+      },
+      {
+        "en": "What do people do with their clams? Some people cook and eat them. Yum! Some people sell them.",
+        "tw": "蛤蜊可以拿來做什麼呢？有人會把蛤蜊煮來吃，也有人會把蛤蜊拿去賣！",
+        "time": null
+      },
+      {
+        "en": "The beach was quiet before there were clams. Now many people dig for clams there. They have a good time, thanks to the clams!",
+        "tw": "在有蛤蜊之前，這片海灘很安靜。現在很多人在那裡挖蛤蜊。多虧了這些蛤蜊，他們玩得很開心！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "海灘是充滿趣味的地方，有很多事可以做。",
+      "content": [
+        {
+          "text": "1. basket 籃子。It's a nice day today. 今天天氣真好。Let's go dig up some clams! 我們去挖蛤蜊吧!I'm ready. 我都準備好了。I have my shovel, a basket, and sunglasses. 我帶了鏟子，籃子跟太陽眼鏡。",
+          "time": null
+        },
+        {
+          "text": "2. look for 尋找。Now where are these clams of yours? 你的蛤蜊在哪裡?Just look for holes in the sand. 你找沙子上的小洞。That's where they hide. 牠們就躲在那兒。",
+          "time": null
+        },
+        {
+          "text": "3. cook 煮。There's nothing here! 這裡什麼都沒有!I was hoping to cook and eat them! 我本來希望把牠們煮來吃的!",
+          "time": null
+        },
+        {
+          "text": "4. eat 吃。Come on, let me buy you dinner. 來吧，我請你吃晚飯。At a seafood restaurant, right? 去海鮮餐廳對吧?Of course, let's have a good time eating clams there! 當然，去好好吃一頓蛤蜊!",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like seafood? 請跟我讀單字。basket籃子 look for尋找 cook煮 eat吃"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the beach?",
+        "options": [
+          "a. Changhua",
+          "b. Zuoying",
+          "c. Chiayi"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do people use to get clams at the beach?",
+        "options": [
+          "a. Shovels",
+          "b. Hats",
+          "c. Money"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What do some people do with their clams?",
+        "options": [
+          "a. Put them in the sand again",
+          "b. Cook them and eat them",
+          "c. Throw them in the water"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
