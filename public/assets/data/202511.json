@@ -1496,5 +1496,103 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251124-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Old Church Goes to New Town",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251121NK.mp3",
+    "content": [
+      {
+        "en": "In Sweden, a town is moving to a new place. The land under the town is getting weak. The people are leaving most buildings. But some buildings will go to the new town.",
+        "tw": "一個瑞典的小鎮要搬家了！這個小鎮下面的土地很脆弱，所以很多建築物都要被移去新的地方。",
+        "time": null
+      },
+      {
+        "en": "One building is a church. The people love it. It is 113 years old. And it is very big! The road to the new place was not big. So workers made the road bigger! Then other workers put the church on a very big car. It had 224 wheels!",
+        "tw": "一座有113年歷史的教堂也要一起搬，因為大家很愛它！為了搬這個教堂，工人還把馬路拓寬了。他們把教堂抬到一輛大卡車上。",
+        "time": null
+      },
+      {
+        "en": "The church was ready to go! Many people came to watch. Some came from other countries! The king of Sweden came!",
+        "tw": "教堂準備出發了！來自世界各地的人都來見證教堂搬家。連瑞典的國王都出現了！",
+        "time": null
+      },
+      {
+        "en": "The church started to move! Everyone was excited! But, where was the driver?",
+        "tw": "所有人都興奮地看著教堂被卡車載走！欸？等一下！司機去哪裡了?",
+        "time": null
+      },
+      {
+        "en": "There was no driver! A worker on the road made the car go, turn, and stop. He used a remote control.",
+        "tw": "卡車上沒有司機！一名工人在用搖控器控制卡車行駛的方向。",
+        "time": null
+      },
+      {
+        "en": "The new place was five kilometers away. The church moved five hundred meters an hour. It took two days!",
+        "tw": "大教堂緩慢地前進，整整兩天後，終於成功抵達他五公里外的新家！",
+        "time": null
+      },
+      {
+        "en": "The people are happy now. Their old church is in their new town!",
+        "tw": "人們現在很高興。他們的老教堂在新城鎮裡了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "把整座教堂移到五千公尺以外的地方，真是一項壯舉。",
+      "content": [
+        {
+          "text": "1. move 搬家。 You are taking 2 days off next week? 你下星期要休兩天假? Yeah, I'm moving to a new place.對，我要搬到新的地方。 It's so much trouble! 好麻煩喔!",
+          "time": null
+        },
+        {
+          "text": "2. bigger 更大的。 That's true. Moving is not fun.那是真的，搬家不好玩。 Especially when you have a piano.尤其是有一架鋼琴時。 It's much bigger than I thought! 它比我的大多了。",
+          "time": null
+        },
+        {
+          "text": "3. worker 工作人員。 For that, movers can help you. 搬鋼琴搬家的人可以幫你忙。 Those workers are very good at what they do. 那些工人很在行的。",
+          "time": null
+        },
+        {
+          "text": "4. watch 注意看。 I hope so. 我希望是那樣。 I just want to sit on the side and watch. 我只想坐在旁邊看。",
+          "time": null
+        }
+      ],
+      "postscript": "你有搬家過嗎? move搬家 bigger更大的 worker工作人員 watch注意看"
+    },
+    "quiz": [
+      {
+        "question": "1. Which planet has the most moons?",
+        "options": [
+          "a. Made it bigger",
+          "b. Moved it",
+          "c. Put wheels on it"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where is the big church?",
+        "options": [
+          "a. Singapore",
+          "b. Sweden",
+          "c. Switzerland"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How far away was the new place?",
+        "options": [
+          "a. Five hundred meters",
+          "b. Five kilometers",
+          "c. Five hundred kilometers"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
