@@ -1594,5 +1594,111 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251125-01",
+    "type": "國小",
+    "tag": [
+      "生活",
+      "故事"
+    ],
+    "title": "Little Boy Calls Police",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251124NK.mp3",
+    "content": [
+      {
+        "en": "A four-year-old boy wanted to know about soccer and swimming. But he didn't go to his family or friends. He called the police!",
+        "tw": "有一個四歲的小男孩想問關於足球和游泳的問題，但他沒有問他的家人或是朋友，而是打電話給警察！",
+        "time": null
+      },
+      {
+        "en": "Hello, police … How may I help you?",
+        "tw": "哈囉，這裡是警察局... 我能為您做什麼？",
+        "time": null
+      },
+      {
+        "en": "The police help keep everyone safe. They catch bad people. The police are very busy! They often have no time to talk about sports. But they talked to this little boy!",
+        "tw": "警察要維持治安良好，所以非常忙碌。可是他們沒有拒絕這個小男孩，他們認真地回答了他的問題！",
+        "time": null
+      },
+      {
+        "en": "The police were very kind. They talked to the boy about soccer and swimming.",
+        "tw": "警察們非常親切。他們跟小男孩聊了足球和游泳。",
+        "time": null
+      },
+      {
+        "en": "The next day, 18 police cars came to his house! The boy and his six-year-old brother went in the cars. They tried the sirens. Hey mom, look! They tried the loudspeakers!",
+        "tw": "警察親切地回答小男孩所有關於足球和游泳的問題。隔天，他們開著警車到小男孩家，讓小男孩跟他哥哥坐在警車上，還讓他們玩車上的警笛跟廣播！",
+        "time": null
+      },
+      {
+        "en": "The little boy said his brother's birthday was the next day. Ten police cars came in the morning! The police gave his brother a toy police hat and other toys.",
+        "tw": "第二天是小男孩哥哥的生日，警察一大早就開到了他們家門口，準備跟他們一起慶生。警察還送了男孩的哥哥一頂玩具警察帽子！",
+        "time": null
+      },
+      {
+        "en": "More police came in the evening. A police dog came too! The police gave the boys a soccer net. They played soccer with the boys!",
+        "tw": "很多警察加入了這場生日派對，甚至連警犬都來了！警察送這對兄弟一個足球網，大家一起開心地踢足球。",
+        "time": null
+      },
+      {
+        "en": "The little boy and his brother have police friends now. But, please, do not call the police to talk about sports!",
+        "tw": "小男孩和他的哥哥現在有了警察朋友。但是，請不要打電話給警察聊體育喔！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這群童心未泯的警察，跟兩個小男孩玩得很高興!",
+      "content": [
+        {
+          "text": "1. police 警察。 I was once stopped by the police on the street. 我有一次在街上被警察攔住。 What did you do? 你做了什麼? I jaywalked. 我亂過馬路。 You shouldn't do that, Jane. 你不應該那樣。",
+          "time": null
+        },
+        {
+          "text": "2. in the morning 在早上。 I know, but it was in the morning. 我知道，可是那是早上。 I was running to catch the bus. 我跑去趕公車。",
+          "time": null
+        },
+        {
+          "text": "3. kind 親切的。 Anyway, that policeman was not kind at all! 那個警察一點也不親切! He gave you a ticket? 他給你罰單? No, but he shouted at me! 沒有，但是他對我大喊大叫。",
+          "time": null
+        },
+        {
+          "text": "4. safe 安全的。 He was trying to keep you safe! 他想保護你安全! No, he was warning me. 才不是呢，他是在警告我。",
+          "time": null
+        }
+      ],
+      "postscript": "今天有哪些單字? police警察 in the morning在早上 kind親切的 safe安全的"
+    },
+    "quiz": [
+      {
+        "question": "1. How old is the little boy?",
+        "options": [
+          "a. 2 years old",
+          "b. 4 years old",
+          "c. 8 years old"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What did the little boy ask the police about?",
+        "options": [
+          "a. Friends and family",
+          "b. Sirens and loudspeakers",
+          "c. Soccer and swimming"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Whose birthday was the next day?",
+        "options": [
+          "a. The little boy's",
+          "b. The little boy's brother's",
+          "c. The police dog's"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
