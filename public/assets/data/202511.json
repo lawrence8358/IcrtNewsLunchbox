@@ -1700,5 +1700,104 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251126-01",
+    "type": "國小",
+    "tag": [
+      "Frogs",
+      "Rainforest",
+      "Rhinos",
+      "Ecosystem",
+      "Tadpoles"
+    ],
+    "title": "Flying Frogs Need Muddy Water",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251125NK.mp3",
+    "content": [
+      {
+        "en": "Big green and yellow frogs live in Southeast Asia. They have long back legs. They have big hands and feet. They hop. They jump from tall trees. Then…whoosh! They fly!",
+        "tw": "在東南亞，有一種黃綠色的青蛙。牠們的後腿很長，有很大的手掌跟腳掌。牠們會從高高的樹上往下跳，然後滑翔！",
+        "time": null
+      },
+      {
+        "en": "These frogs do not fly like birds. They hold out their hands and feet. They jump to new trees. They can jump 15 meters! Their fingers and toes stick to the new trees.",
+        "tw": "青蛙跟鳥飛翔的方法不一樣。這種青蛙會伸開手腳跳到另外一棵樹上，並且用吸盤把自己黏住。牠們最遠能跳十五公尺！",
+        "time": null
+      },
+      {
+        "en": "These frogs live high in trees in rainforests. They go down low in trees to lay eggs. They need muddy water under their trees. When their eggs hatch, tadpoles fall into the water!",
+        "tw": "這些青蛙住在熱帶雨林裡的樹上。產卵時會移到比較低的樹枝上，因為牠們需要樹下的水灘。等青蛙蛋孵化，小蝌蚪就會掉進水裡！",
+        "time": null
+      },
+      {
+        "en": "The tadpoles live in the muddy water. They grow! They get hands and feet. These young frogs go and live on land. Then one day, they go up a tree!",
+        "tw": "小蝌蚪在水中慢慢長大，等到長出手和腳，牠們會爬到樹上生活。",
+        "time": null
+      },
+      {
+        "en": "But wait! These frogs need help from another animal. With no muddy water, tadpoles cannot live and grow. Where does the muddy water come from? Rhinos make it! They love mud baths!",
+        "tw": "但是，蝌蚪沒有泥巴水就活不下去。他們需要犀牛的幫忙。這些泥巴水是犀牛喜歡泡泥巴澡的水！",
+        "time": null
+      },
+      {
+        "en": "But there are not many rhinos now. People want rhino horns. When there are no more rhinos, where will tadpoles live and grow?",
+        "tw": "但現在犀牛數量不多。人們想要犀牛角。當沒有犀牛時，蝌蚪將在哪裡生活和成長呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這種青蛙會利用環境來繁衍下一代。",
+      "content": [
+        {
+          "text": "1. high 高的。\nIf you could fly, how high would you go? 要是你能飛，你會飛多高?\nAs high as the birds, I think. 跟鳥兒一樣高吧。",
+          "time": null
+        },
+        {
+          "text": "2. bird 鳥類。\nWouldn't it be wonderful? 那不是很棒嗎?\nWhat? 什麼很棒? To fly like a bird?跟鳥一樣飛翔嗎? People can already do that using drones.人類已經做到了，用無人機。",
+          "time": null
+        },
+        {
+          "text": "3. land 陸地。\nThey USE drones to get a bird's-eye view.人類用無人機來鳥瞰。But they are not flying. 但是自己不飛。\nYou're right. I prefer to stay on land.你說的對了。我是比較喜歡待在地上。",
+          "time": null
+        },
+        {
+          "text": "4. jump 跳躍。\nLike a kangaroo?像袋鼠一樣嗎?\nYeah, I'd just hop and jump around in grasslands. 對啊，我就在草原上跳來跳去。",
+          "time": null
+        }
+      ],
+      "postscript": "來跟我一起讀單字。high高的 bird鳥類 land陸地 jump跳躍"
+    },
+    "quiz": [
+      {
+        "question": "1. What can these frogs do?",
+        "options": [
+          "a. Fly like birds",
+          "b. Jump to new trees",
+          "c. Talk to rhinos"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why do these frogs come down low in trees?",
+        "options": [
+          "a. To eat mud",
+          "b. To lay eggs",
+          "c. To eat eggs"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What makes muddy water in the rainforest?",
+        "options": [
+          "a. People",
+          "b. Rhinos",
+          "c. Trees"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
