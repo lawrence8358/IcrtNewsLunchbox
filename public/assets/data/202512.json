@@ -194,5 +194,116 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20251203-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Industry, Innovation and Infrastructure",
+      "Sustainable Cities and Communities",
+      "Technology Education",
+      "Safety Education",
+      "Disaster Risk Reduction Education",
+      "Technology"
+    ],
+    "title": "Taiwan Has New Robot Dog",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251202NK.mp3",
+    "content": [
+      {
+        "en": "Robots can do many things. Some robots make cars. Some fly and take pictures. And some do dangerous things! These dangerous things are not safe for people to do.",
+        "tw": "機器人可以做很多事，製造汽車，空拍照都行。他們還可以完成人類做不到的危險任務。",
+        "time": null
+      },
+      {
+        "en": "Taiwan has a new robot dog. It is from the U.S. It was 15 million NT! It helps Taiwan's emergency workers.",
+        "tw": "台灣從美國買了一隻要價一千五百萬台幣的機器狗，牠協助台灣的緊急救難人員！",
+        "time": null
+      },
+      {
+        "en": "This robot dog can work around dangerous chemicals. These chemicals can make the air very bad. And some can explode!",
+        "tw": "機器狗可以靠近危險的化學物質！這些化學物質會汙染空氣，還可能會爆炸！",
+        "time": null
+      },
+      {
+        "en": "The robot dog can find these chemicals too. And it can find their names!",
+        "tw": "機器狗不但能找到化學物質的位置，還可以認出不同的種類！",
+        "time": null
+      },
+      {
+        "en": "Sometimes there are emergencies with chemicals. The chemical names are very important to know! Then workers can make the chemicals safer.",
+        "tw": "發生緊急狀況時，救難人員需要馬上知道化學物質的種類跟名稱，才能採取對應行動。",
+        "time": null
+      },
+      {
+        "en": "Can the workers use water? Well, water makes some chemicals safer. But it makes some more dangerous!",
+        "tw": "救火時用水就可以撲滅火勢嗎？有時候用水反而會變得更嚴重喔！",
+        "time": null
+      },
+      {
+        "en": "Taiwan will get two more robot dogs. Then it will have three! One robot will work in the north of Taiwan. One will work in the middle. And one will work in the south.",
+        "tw": "台灣還會再買兩隻一樣的機器狗。這三隻機器狗會分別派到台灣的北中南服務！",
+        "time": null
+      },
+      {
+        "en": "These robot dogs will make Taiwan safer!",
+        "tw": "這些機器狗將會讓台灣更安全！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "機器狗可以去人類避免去到的危險地方。",
+      "content": [
+        {
+          "text": "1. dog 狗。\nLook! They’re sending a robot dog into the fire! 你看，他們把一隻機器狗送進了火場!\nWow! Does it bark? 牠會不會叫?\nObviously not. It doesn’t need to bark.顯然不會。牠又不需要叫。",
+          "time": null
+        },
+        {
+          "text": "2. emergency 緊急情況。\nOf course it does! 牠當然需要。\nIt has to warn people in an emergency! 緊急情況的時候牠得警告人。\nWell, I guess you have a point. 我想你講得有道理。",
+          "time": null
+        },
+        {
+          "text": "3. air 空氣。\nLook at all that smoke! 你看那些濃煙!\nThe air must be very bad.空氣一定糟透了。",
+          "time": null
+        },
+        {
+          "text": "4. dangerous 危險的。\nThe dog is coming out now. 狗狗現在出來了。\nDid it find anything? 牠有找到什麼嗎?\nNo. Maybe it’s too dangerous even for a robot dog.沒有。即使是機器狗也可能太危險了。",
+          "time": null
+        }
+      ],
+      "postscript": "來複習今天的單字。\ndog狗 emergency緊急情況 air空氣 dangerous危險的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is Taiwan's new robot dog from?",
+        "options": [
+          "a. The U.S.",
+          "b. India",
+          "c. Taiwan"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How much was the robot dog?",
+        "options": [
+          "a. 5 million NT",
+          "b. 15 million NT",
+          "c. 50 million NT"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many robot dogs will Taiwan have?",
+        "options": [
+          "a. Two",
+          "b. Three",
+          "c. Four"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
