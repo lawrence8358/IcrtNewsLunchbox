@@ -1,4 +1,105 @@
- [
+[
+  {
+    "id": "20251201-01",
+    "type": "國小",
+    "tag": [
+      "Decent Work and Economic Growth",
+      "Character Education"
+    ],
+    "title": "Ice Cream on the Mountain",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251128NK.mp3",
+    "content": [
+      {
+        "en": "Hikers hiked up a tall mountain. It is in the U.S. It is four thousand two hundred meters tall. The hikers were tired and hot.",
+        "tw": "一組登山客爬上了一座美國的高山，他們又熱又累。",
+        "time": null
+      },
+      {
+        "en": "There was a surprise at the top. It was a big ice cream cone. Huh? No, wait … It was a man! He was wearing an ice cream cone costume. But it wasn't Halloween!",
+        "tw": "山頂上有個很大的冰淇淋甜筒！不對，那是一位打扮成甜筒的男子！",
+        "time": null
+      },
+      {
+        "en": "The man had a big bag. It was twenty-seven kilograms. It had lots of ice cream sandwiches and ice cream bars! It had dry ice too. This cold, cold ice kept the ice cream cold.",
+        "tw": "那名男子揹著一個很重的大袋子，裡面裝滿了冰淇淋三明治跟冰棒！為了確保冰淇淋不會融化，袋子裡還放了乾冰。",
+        "time": null
+      },
+      {
+        "en": "The hikers cheered! Ice cream! Some kids ran to the ice cream man. He gave them ice cream. The kids were very happy!",
+        "tw": "登山客高興的歡呼：「哇，是冰淇淋！」一些小朋友開心地跑去找冰淇淋先生，享用美味的冰淇淋！",
+        "time": null
+      },
+      {
+        "en": "The ice cream man is strong. It is hard to hike up the mountain. It is harder with a big bag! But he hikes up and down the mountain. He hikes fast! Maybe he wants to get more ice cream!",
+        "tw": "要揹著裝滿冰淇淋的大袋子爬山非常困難。但是冰淇淋先生很強壯，他可以快速地上山又下山！",
+        "time": null
+      },
+      {
+        "en": "Hikers look for this man now. When he is at the top of the mountain, they are happier!",
+        "tw": "現在，登山客都會期待冰淇淋先生的出現。有冰淇淋先生在山頂上，大家就會很開心！",
+        "time": null
+      },
+      {
+        "en": "Giving people ice cream at the top of a mountain is nice, fun, and very cool!",
+        "tw": "在山頂上給人們冰淇淋，既好又有趣，而且非常酷！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "高山上賣冰淇淋，東西還要自己搬上去，這個生意不好做!",
+      "content": [
+        {
+          "text": "1. thousand 千.\nFinally, we're at the top of the mountain! 我們終於到山頂了!\nYay!!! One thousand and two hundred meters! 海拔一千兩百公尺!\nHow about that! 不錯吧!",
+          "time": null
+        },
+        {
+          "text": "2. down 往下.\nAnd look at the great view! 而且你看這個壯觀的景色!\nIt's all very nice. But we have to go down now.\n是都很好，但是我們現在得下山了。",
+          "time": null
+        },
+        {
+          "text": "3. tired 疲倦的.\nWe've just climbed up here! 我們才剛剛爬上來!\nAnd I'm very tired! 我很累呢!",
+          "time": null
+        },
+        {
+          "text": "4. fast 快速的.\nIt's going to be sunset soon.太陽就要下山了。\nWe need to get down fast. 我們得趕快下去。\nOr it'll be too dark and cold.要不然就太暗了，也會太冷。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字，你記住了幾個?\nthousand千 down往下 tired疲倦的 fast快速的"
+    },
+    "quiz": [
+      {
+        "question": "1. What was the man wearing?",
+        "options": [
+          "a. An ice cream cone costume",
+          "b. An ice cream bar costume",
+          "c. An ice cream sandwich costume"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What kept the ice cream cold?",
+        "options": [
+          "a. Snow",
+          "b. Dry ice",
+          "c. Water"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do we know about the man?",
+        "options": [
+          "a. He is strong.",
+          "b. He is hungry.",
+          "c. He is tired."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  },
   {
     "id": "20251202-01",
     "type": "國小",
