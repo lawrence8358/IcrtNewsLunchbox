@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20260107-01",
     "type": "國小",
@@ -98,6 +98,108 @@
         ],
         "time": null,
         "answer": "c"
+      }
+    ]
+  },
+  {
+    "id": "20260108-01",
+    "type": "國小",
+    "tag": [
+      "Indigenous",
+      "Culture",
+      "Taiwan"
+    ],
+    "title": "Indigenous Houses at Taiwan's Schools",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260107NK.mp3",
+    "content": [
+      {
+        "en": "Taiwan has many Indigenous groups. Keeping their ways of life is important for Taiwan.",
+        "tw": "台灣有很多原住民，保留他們的生活方式很重要。",
+        "time": null
+      },
+      {
+        "en": "Now, about ninety schools are working with local Indigenous groups. They want kids to understand Indigenous ways of life.",
+        "tw": "目前大約九十所學校跟當地原住民族合作，希望讓小朋友更了解他們。",
+        "time": null
+      },
+      {
+        "en": "These schools have Indigenous houses with Indigenous art, tools, and stories. Kids learn by doing.",
+        "tw": "這些學校有原住民的傳統房子，裡面有各種手工藝、工具和故事。小朋友可以親身體驗原住民文化。",
+        "time": null
+      },
+      {
+        "en": "Taoyuan's Guanghua Elementary School has Atayal houses. Atayal people helped build them. Kids learn Atayal ways.",
+        "tw": "桃園的光華國小有泰雅族的房子，讓小朋友們在那裡學習泰雅族的生活方式。這些房子是泰雅族人一起幫忙蓋的。",
+        "time": null
+      },
+      {
+        "en": "Hualien's Taiping Elementary School has a Bunun stone house. The school used Bunun ways to build it. Kids learn Bunun ways.",
+        "tw": "花蓮的太平國小有布農族石板屋，是用傳統方式蓋的，學生可以更了解布農族。",
+        "time": null
+      },
+      {
+        "en": "Hualien's Ruibei Elementary School has a Bunun and Amis house. Bunun and Amis groups built it together. The art, tools, and stories are from both. Kids learn the languages, crafts, songs, and dances of both. Kids see the two groups work together and respect each other.",
+        "tw": "花蓮的瑞北國小有一棟布農族跟阿美族一起蓋的房子，裡面展示兩族的作品跟其他的東西。小朋友學習他們的語言和文化，也看到不同族群怎麼互相尊重與合作。",
+        "time": null
+      },
+      {
+        "en": "Kids at these schools understand Indigenous ways more now. Does your school have an Indigenous house?",
+        "tw": "這些學校的孩子現在對原住民文化有了更多的了解。你的學校有原住民傳統屋嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台灣很多國小教導兒童原住民文化，希望讓它延續。",
+      "content": [
+        {
+          "text": "1. understand 了解。Did you understand what she said? 你聽懂她在講什麼嗎?Not at all. 完全不懂。Was she speaking Chinese? 她在講中文嗎?I believe so. 我想是。",
+          "time": null
+        },
+        {
+          "text": "2. language 語言。I thought it’s another language. 我還以為是在講另外一種話。Yeah, Chinese can be hard. 對啊，中文是滿難的。",
+          "time": null
+        },
+        {
+          "text": "3. way of life 生活方式。I think when learning a new language, 我覺得學一種新語言,you need to learn their way of life. 也需要學他們的生活方式。",
+          "time": null
+        },
+        {
+          "text": "4. help 幫助。I agree. 我同意。When I was learning Japanese, 我學日文時,I ate raw fish every day. 每天吃生的魚。Did it help? 有幫助嗎?No. 沒有。",
+          "time": null
+        }
+      ],
+      "postscript": "你想學新的語言嗎? 來讀單字。understand了解 language語言 way of life生活方式 help幫助"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the school with Atayal houses?",
+        "options": [
+          "a. Keelung",
+          "b. Hualien",
+          "c. Taoyuan"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What is the Bunun house made of?",
+        "options": [
+          "a. Ways",
+          "b. Stone",
+          "c. Tools"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do all of the houses have?",
+        "options": [
+          "a. Indigenous art",
+          "b. Atayal tools",
+          "c. Bunun and Amis songs"
+        ],
+        "time": null,
+        "answer": "a"
       }
     ]
   }
