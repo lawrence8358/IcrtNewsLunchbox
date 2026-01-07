@@ -305,5 +305,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251204-01",
+    "type": "國小",
+    "tag": [
+      "Life Education",
+      "Responsible Consumption and Production",
+      "Sustainable Cities and Communities"
+    ],
+    "title": "Milkfish Scare Man",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251203NK.mp3",
+    "content": [
+      {
+        "en": "Taiwan has many milkfish farms. Milkfish are easy to farm. But sometimes they get too cold. Then they die! What can fish farmers do with these fish?",
+        "tw": "台灣有很多虱目魚養殖廠。虱目魚不難照顧，但有時候天氣太冷，他們容易被冷死！這些冷死的魚該怎麼辦呢？",
+        "time": null
+      },
+      {
+        "en": "A man in Changhua showed farmers how to dry milkfish. The farmers cut the fish from the head to the tail. Then they open the fish like a book.",
+        "tw": "有個彰化人教養殖業者如何風乾虱目魚！他們把虱目魚對半剖開，就像一本攤開的書。",
+        "time": null
+      },
+      {
+        "en": "The farmers put the fish in salty water. Then they hang the open, wet fish outside. The next morning, the fish are dry, salty, and delicious!",
+        "tw": "他們把虱目魚浸泡在鹽水中，再把虱目魚掛在戶外風乾一個晚上。到了第二天，虱目魚就變成了鹹鹹的，美味的魚乾！",
+        "time": null
+      },
+      {
+        "en": "The man let farmers hang their fish in his garden. That night, he had a visitor. The visitor came on his scooter.",
+        "tw": "師傅讓養殖業者把虱目魚掛在他的庭院中。那天晚上，有一名男子騎機車到他家。",
+        "time": null
+      },
+      {
+        "en": "Then his scooter headlight shined on hundreds of big eyes! \"Hooo\" were they looking at? They were looking at him! The visitor was scared. He shouted \"HELP! OWLS!\"",
+        "tw": "機車的車燈照向前方時，有好幾百雙盯著他看的大眼睛！他害怕的大叫：「救命啊，有貓頭鷹！」",
+        "time": null
+      },
+      {
+        "en": "The man came outside. He said there were no owls. The eyes were fish eyes.",
+        "tw": "師傅聽到他的叫聲後，跑出來解釋那些不是貓頭鷹，而是風乾中的虱目魚的眼睛！",
+        "time": null
+      },
+      {
+        "en": "If you see hundreds of big eyes at night, don't be scared! Maybe fish are hanging to dry!",
+        "tw": "如果你在晚上看到幾百雙大眼睛，別害怕！也許只是魚掛在那裡風乾！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "黑沉沉的夜裡，吊掛在半空中的魚讓人飽受驚嚇。",
+      "content": [
+        {
+          "text": "1. dry 弄乾。\nEeeew! What's that smell? 好噁，那是什麼氣味?\nOh, that's just my fish. 那是我的魚。\nI'm hanging it up to dry. 我把它掛起來風乾。",
+          "time": null
+        },
+        {
+          "text": "2. delicious 美味的。\nNow why do you want to do that? 為什麼要那樣?\nYou've never had dried fish? 你沒吃過魚乾嗎?\nIt's delicious! 很好吃的。",
+          "time": null
+        },
+        {
+          "text": "3. look at 注視。\nBut are you keeping its eyes? 但是你要保留它的眼睛嗎?\nThey are looking at me! 那雙眼睛看著我!\nThey are not! 沒有看著你。\nThe fish is dead, remember? 魚已經死了，記得嗎?",
+          "time": null
+        },
+        {
+          "text": "4. head 頭部，tail 尾巴。\nI never eat a fish's head and tail. 我從來不吃魚頭和魚尾。\nBut fish heads are good. 但是魚頭很好呢。",
+          "time": null
+        }
+      ],
+      "postscript": "請來一起讀單字。 dry弄乾 delicious美味的 look at注視 head頭部 tail尾巴"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the man show farmers how to do?",
+        "options": [
+          "a. Eat milkfish",
+          "b. Farm milkfish",
+          "c. Dry milkfish"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What shined on the big eyes that night?",
+        "options": [
+          "a. A scooter headlight",
+          "b. Some salty water",
+          "c. Many wet fish"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did the visitor think he saw?",
+        "options": [
+          "a. Fish",
+          "b. Owls",
+          "c. Stars"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
