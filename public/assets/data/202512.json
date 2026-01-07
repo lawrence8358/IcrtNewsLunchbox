@@ -994,5 +994,100 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251212-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies"
+    ],
+    "title": "A Road Sport in Ireland",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251211NK.mp3",
+    "content": [
+      {
+        "en": "Every year, a small town in Ireland has an exciting sports contest. It's on two kilometers of a road! For three days, everyone has fun … road bowling?",
+        "tw": "每年，愛爾蘭的一個小鎮都會舉辦為期三天的道路保齡球比賽！",
+        "time": null
+      },
+      {
+        "en": "The “King and Queen of the Roads” is the world's biggest road bowling contest. People come from around the world to bowl. Thousands come to watch!",
+        "tw": "「道路國王皇后冠軍賽」是世界上規模最大的道路保齡球比賽。每年都有好幾千人從世界各地趕到愛爾蘭來欣賞比賽！",
+        "time": null
+      },
+      {
+        "en": "Road bowling is like bowling. But the balls are metal. And they are small, like tennis balls.",
+        "tw": "道路保齡球跟一般保齡球很像，但道路保齡球的球是鐵做的，而且只有網球那麼大！",
+        "time": null
+      },
+      {
+        "en": "Players take turns. They run a few steps. Then they throw their ball. It rolls on the road. This road has many surprises! It has bumps! It turns a little to the right! It turns a little to the left! The ball rolls and rolls.",
+        "tw": "比賽時，參賽者輪流上場。他們先跑幾步，再把鐵球丟出去！路上有各種坑洞和突起，還彎來彎去的。球在馬路上不斷地滾阿滾！",
+        "time": null
+      },
+      {
+        "en": "Players want to get to the finish line. Some players need to throw their ball many times. Some need to throw their ball a few times. The player who throws the fewest times wins!",
+        "tw": "大家都想第一個讓球到達終點線。有人要丟很多次球才到得了，但有人只丟幾次就成功！次數最少的人就是冠軍！",
+        "time": null
+      },
+      {
+        "en": "Boys and girls, men and women like road bowling. And the contest is like a big party on the road! Hooray for the King and Queen of the Roads!",
+        "tw": "男孩女孩、男人女人都喜歡道路保齡球。這場比賽就像一場盛大的道路派對！為道路國王皇后冠軍賽歡呼！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "愛爾蘭的道路保齡球大賽，每年都吸引大批觀眾。",
+      "content": [
+        {
+          "text": "1. bowl 打保齡球.\nYou look tired.你看起來好累。\nI am tired. 我是很累。\nWhat did you do? 你做什麼了?\nI went bowling last night.我昨晚去打保齡球。\nI didn’t know you’re into bowling.我不知道你喜歡保齡球。",
+          "time": null
+        },
+        {
+          "text": "2. contest 比賽.\nI’m not.我是不喜歡。\nBut my roommate insisted that I join the contest.\n但是我的室友堅持要我參加比賽。",
+          "time": null
+        },
+        {
+          "text": "3. roll 滾動.\nSo what happened? 結果發生什麼事?\nWhat happened? 什麼事?\nThe ball just rolled and rolled without hitting anything!\n球一直滾呀滾，根本沒碰到任何東西!",
+          "time": null
+        },
+        {
+          "text": "4. throw 扔.\nEvery time you threw the ball? 你每次把球丟出去都這樣?\nAlmost every time! 幾乎每次!\nYou know what? 你知道嗎?\nTry playing baseball.換成打棒球吧。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\nbowl打保齡球 contest比賽 roll滾動 throw扔"
+    },
+    "quiz": [
+      {
+        "question": "1. How long does the road bowling contest last?",
+        "options": [
+          "a. One day",
+          "b. Two days",
+          "c. Three days"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What are road bowling balls made of?",
+        "options": [
+          "a. Metal",
+          "b. Plastic",
+          "c. Paper"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Who wins the contest?",
+        "options": [
+          "a. The person with the fastest throws",
+          "b. The person with the fewest throws",
+          "c. The person with the most throws"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
