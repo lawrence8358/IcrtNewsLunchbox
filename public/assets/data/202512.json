@@ -502,5 +502,102 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20251208-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Technology Education"
+    ],
+    "title": "Man's Tooth Helps Him See",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251205NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: A 13-year-old boy took some medicine. Every day, millions of people take this medicine safely. But it hurt the boy's eyes. Boy: Oh! My eye! Narrator: He was in the hospital for a long time.",
+        "tw": "每天有數以百萬計的人安全服用一種很普通的藥。但一個十三歲的小男孩卻在服藥之後眼睛受傷。他住院很長一段時間接受治療。",
+        "time": null
+      },
+      {
+        "en": "Doctors could not save one eye. His other eye could not see. Doctors tried to fix this eye for 21 years! The man had fifty operations. He got a new eye part many times. But his body did not want to keep them.",
+        "tw": "醫生們沒能保住他的一隻眼睛，另一隻眼睛也失明了。醫生為了恢復他的視力，努力了整整 21 年！他做了五十次手術，他的身體卻不斷排斥移植的眼角膜。",
+        "time": null
+      },
+      {
+        "en": "There was one more operation to try. Almost no one has this operation. It's very hard. But the man wanted to see again.",
+        "tw": "只剩下最後一個方法。為了能讓自己看見，他決定嘗試一種很困難的手術。",
+        "time": null
+      },
+      {
+        "en": "Doctors took one of the man's teeth. They made a hole in the tooth. They put a lens in the hole. Then the doctors put the tooth in the man's eye!",
+        "tw": "醫生取出一顆他的牙齒，在上面鑽一個洞。然後，醫生把一個鏡片鑲進牙齒的洞裡，再把這顆牙放進他的眼睛裡！",
+        "time": null
+      },
+      {
+        "en": "Why did the doctors use the man's tooth? Teeth are very strong. A tooth holds a lens well. And the man's body knows his tooth. His body will keep it.",
+        "tw": "為什麼要用牙齒？因為牙齒很堅固，可以把鏡片牢牢地固定住。而且他自己的牙齒也不會被他的身體排斥！",
+        "time": null
+      },
+      {
+        "en": "Now the man can see his family and friends. He can see his city! His tooth lets him see everything again!",
+        "tw": "現在這個男人可以看到他的家人和朋友。他可以看到他的城市！他的牙齒讓他再次看見一切！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "把牙齒裝進眼睛裡面，這可是聞所未聞的手術!",
+      "content": [
+        {
+          "text": "1. hospital 醫院。 I need to go to the hospital tomorrow. 我明天要去一趟醫院。 I want to have my eyes checked. 去檢查眼睛。",
+          "time": null
+        },
+        {
+          "text": "2. eye 眼睛。 What's wrong with your eyes? 你的眼睛怎麼了? I can't see clearly.我看不清楚。",
+          "time": null
+        },
+        {
+          "text": "3. many times 很多次。 I've told you many times you work too hard! 我跟你講過很多次，你工作太辛苦了! Okay okay, now I need to save my eyes. 好啦，現在我要搶救眼睛。",
+          "time": null
+        },
+        {
+          "text": "4. body 身體。 Good! Take care of yourself. 很好，要照顧自己。 Your body only comes with one set of parts. 你的身體只有提供一套零件呢。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。hospital醫院 eye眼睛 many times很多次 body身體"
+    },
+    "quiz": [
+      {
+        "question": "1. How old was the man when he took the medicine?",
+        "options": [
+          "a. 13 years old",
+          "b. 21 years old",
+          "c. 34 years old"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How many operations did the man have?",
+        "options": [
+          "a. 5",
+          "b. 15",
+          "c. 50"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Why did the doctors use the man's tooth?",
+        "options": [
+          "a. It had a hole.",
+          "b. It can hold a lens well.",
+          "c. It is not strong."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
