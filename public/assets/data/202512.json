@@ -599,5 +599,108 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251209-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Responsible Consumption and Production",
+      "Peace, Justice and Strong Institutions",
+      "Character Education",
+      "Life Education",
+      "Law-related Education",
+      "Safety Education",
+      "Disaster Risk Reduction Education",
+      "Social Studies"
+    ],
+    "title": "Police Find Thousands of Unsafe Fake Toys",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251208NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: Every year there are new toys to buy. But one is the newest, coolest, cutest toy! Everyone wants it! They run to the stores!",
+        "tw": "每一年，都會有很多人搶著買最新、最酷、最可愛的玩具。",
+        "time": null
+      },
+      {
+        "en": "Some people pay lots of money for the newest, coolest, cutest toy. Then they want people to see they have it!",
+        "tw": "有些人會花很多錢買到最新奇的玩具，再跟其他人炫耀！",
+        "time": null
+      },
+      {
+        "en": "Some people cannot find the toy! And some people do not want to pay lots of money. So, some buy toys that look like the cool new toy. But these toys are not the same. They are fake!",
+        "tw": "有人買不到最酷的玩具，或是不想花那麼多錢，就會去買盜版玩具！盜版玩具跟正版很像，但他們品質差很多。",
+        "time": null
+      },
+      {
+        "en": "This year, police in the U.K. found about 260,000 fake toys. Most are fakes of this year's coolest toy. Sellers tried to bring the fake toys into the country. They wanted to get lots of money.",
+        "tw": "今年，英國警察查獲二十六萬個盜版玩具！有黑心商人準備把仿冒玩具運送到國內，大賺一筆！",
+        "time": null
+      },
+      {
+        "en": "The police checked these fake toys. Almost two hundred thousand of them are not safe. Some can break easily. Little kids might eat the small broken parts! Kid: Oh no! Narrator: Some have bad chemicals. They can make you sick! Some smell bad. Kid: Ewwww!",
+        "tw": "警察檢查這些盜版玩具，發現大部分都不安全。這些玩具的零件很脆弱，如果脫落可能被小朋友吃下肚。有些玩具氣味難聞，裡面的有毒物質還會讓人生病！",
+        "time": null
+      },
+      {
+        "en": "If you cannot buy the newest, coolest, cutest toy, do not buy a fake toy! Stay safe, kids!",
+        "tw": "如果你買不到最新、最酷、最可愛的玩具，就不要買盜版玩具！孩子們，請注意安全！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "品質優良的兒童玩具價錢比較高，而盜版玩具卻有風險。",
+      "content": [
+        {
+          "text": "1. store 商店。\nI need to shop for Christmas gifts, 我需要買耶誕禮物，\nbut I really don’t know what to buy. 但是真不知道要買什麼。\nJust go to a department store. 就去百貨公司啊。",
+          "time": null
+        },
+        {
+          "text": "2. same 一樣的。\nIt has lots of stuff that you may like. 那裏有好多你可能會喜歡的。\nDepartment stores are all the same. 百貨公司都一樣。\nIf you’ve seen one, you’ve seen them all. 逛一家等於都逛過了。",
+          "time": null
+        },
+        {
+          "text": "3. buy 買。\nFine, then just buy everyone chocolate. 好吧，那你就給大家都買巧克力。\nPeople love chocolate even when they say they don’t.\n人們喜歡巧克力，就算嘴巴說不，其實還是喜歡。",
+          "time": null
+        },
+        {
+          "text": "4. eat 吃。\nYou might be right. And I can eat the extras.\n你也許說對了。而且我還可以吃多出來的。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很簡單喔。\nstore商店 same一樣的 buy買 eat吃"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did police find the 260,000 fake toys?",
+        "options": [
+          "a. The U.S.",
+          "b. The U.K.",
+          "c. The U.A.E."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why do some people buy fake toys?",
+        "options": [
+          "a. They don't want to pay lots of money.",
+          "b. They want toys that break easily.",
+          "c. They don't want safe toys."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Why are some fake toys not safe?",
+        "options": [
+          "a. They are delicious.",
+          "b. They have bad chemicals.",
+          "c. They have cute parts."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
