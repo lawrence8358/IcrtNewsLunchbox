@@ -1,0 +1,97 @@
+ [
+  {
+    "id": "20251202-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies"
+    ],
+    "title": "Superhero Keeps Shop Safe",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251201NK.mp3",
+    "content": [
+      {
+        "en": "Some shops have lights in front. Some shops have guards in front. They help keep shops safe.",
+        "tw": "有一些店門口會亮燈或是有警衛駐守，保護店家的安全。",
+        "time": null
+      },
+      {
+        "en": "But in Pingtung, one shop has a superhero in front! That's right, it has a superhero! He is big. He is two hundred fifty centimeters tall! He looks very strong. He looks very mad. And he is very green!",
+        "tw": "但屏東一家店鋪的門口有超級英雄！它是250公分高的浩克！他又高又壯，看起來很生氣！",
+        "time": null
+      },
+      {
+        "en": "In movies, he walks and the earth shakes! He talks and people shake! But at this shop, he does not walk. He does not talk. He is made of stone.",
+        "tw": "在電影中，浩克走路時地會震動。他一開口，大家就嚇得發抖！但這間店的浩克不會走路也不會說話，因為他是石頭做的雕像！",
+        "time": null
+      },
+      {
+        "en": "The shop needs the superhero's help. Some people think the shop is not in a good place. Uh-oh … Maybe it will have bad luck. Oh no! Maybe no one will go to the shop! The superhero's job is to keep the shop safe from bad luck!",
+        "tw": "有一些人覺得這家店的地理位置不好，也許會招來惡運，客人也不上門！他們需要超級英雄幫他們驅除惡運！",
+        "time": null
+      },
+      {
+        "en": "Is the superhero doing a good job? Well, many people go to the shop now. They take pictures and videos with him. So, yes! He is doing a good job.",
+        "tw": "浩克成功了！現在，很多人會來，跟門口的浩克一起合照！他是很棒的超級英雄！",
+        "time": null
+      },
+      {
+        "en": "Do you think more shops will have superheroes now? Hmmm … Which superhero is best for this job?",
+        "tw": "你認為現在會有更多商店有超級英雄嗎？嗯...哪個超級英雄最適合這份工作呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "石頭做的浩克，結果是招來顧客的辦法。",
+      "content": [
+        {
+          "text": "1. shop 商店。\nI can't believe it! 真不敢相信 ! They're closing my favorite coffee shop!\n他們要關掉我最喜歡的咖啡店!\nYou mean forever? 意思是永遠關門嗎?\nYeah, they've sold the place! 對啊，他們已經把它賣掉了!",
+          "time": null
+        },
+        {
+          "text": "2. maybe 也許。\nMaybe they'll open another one. 也許他們會另外開一家。\nBut I want this one! 但是我要這一家!",
+          "time": null
+        },
+        {
+          "text": "3. in front 在前面。\nIt has tables and chairs in front. 它前面有桌子椅子。\nI can sit there and have my coffee.我可以坐在那裏喝我的咖啡。",
+          "time": null
+        },
+        {
+          "text": "4. walk 走路。\nAnd just see people walking by? 就看著人走來走去?\nYeah, that's the best time of my day! 對，那是我一天最好的時光!\nThen you'll need a new \"best time\". 那你需要一個新的最好的時光。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字\nshop商店 maybe也許 in front在前面 walk走路"
+    },
+    "quiz": [
+      {
+        "question": "1. How many centimeters tall is the shop's superhero?",
+        "options": [
+          "a. One hundred fifty",
+          "b. Two hundred five",
+          "c. Two hundred fifty"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What is the shop's superhero made of?",
+        "options": [
+          "a. Stone",
+          "b. Bone",
+          "c. Earth"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What does the superhero keep the shop safe from?",
+        "options": [
+          "a. Good places",
+          "b. Good luck",
+          "c. Bad luck"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  }
+]
