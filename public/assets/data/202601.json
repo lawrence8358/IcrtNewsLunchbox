@@ -1,0 +1,104 @@
+ [
+  {
+    "id": "20260107-01",
+    "type": "國小",
+    "tag": [
+      "Technology Education",
+      "Disaster Risk Reduction Education",
+      "Safety Education"
+    ],
+    "title": "Power Bank Fire Safety from Experts",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260106NK.mp3",
+    "content": [
+      {
+        "en": "Many people use their phones a lot. They use them all day. Sometimes their phones need more power.",
+        "tw": "很多人一整天都在滑手機，所以他們的手機需要時常充電！",
+        "time": null
+      },
+      {
+        "en": "So some people use power banks. Power banks give their phones power. But sometimes power banks catch on fire!",
+        "tw": "有一些人會用行動電源幫手機充電。但行動電源有時候會起火，造成危險。",
+        "time": null
+      },
+      {
+        "en": "Be careful when a power bank is very hot. Be very careful when it has smoke or a burning smell. Do not touch the power bank! Find a grownup fast! Your mom, your dad, or a teacher!",
+        "tw": "行動電源假如變得很燙，就要提高警覺。要是有冒煙或燒焦的氣味，就更要小心喔！這個時候千萬不要去碰行動電源！應該要馬上告訴大人，像是爸爸、媽媽或老師。",
+        "time": null
+      },
+      {
+        "en": "But maybe the grownup does not know what to do! Tell them what experts say. They say do not use a fire extinguisher. It will make more smoke!",
+        "tw": "如果大人也不知道該怎麼辦，你可以告訴他們專家的建議。專家說不要用滅火器，因為這樣會讓行動電源產生更多煙。",
+        "time": null
+      },
+      {
+        "en": "Experts say to take a smoking or burning power bank outside fast! Then put it into water. The water will bubble. Experts say to keep the power bank in the water for a week. Wait for no more bubbles.",
+        "tw": "專家說要趕快把冒煙或起火的行動電源拿到室外，然後泡進水裡。之後，水會開始冒泡。專家說要把行動電源泡在水裡一個星期，或是到完全沒有泡泡為止。",
+        "time": null
+      },
+      {
+        "en": "Then experts say to give the burned power bank to a sanitation worker. The worker can safely throw it away.",
+        "tw": "最後，要把燒壞的行動電源交給清潔隊，讓他們安全的處理掉！",
+        "time": null
+      },
+      {
+        "en": "Power banks are helpful. But when a power bank has smoke or a burning smell, tell a grownup fast!",
+        "tw": "行動電源很方便。但是當行動電源冒煙或有燒焦味時，要趕快告訴大人！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "行動電源用起來很方便，卻有起火燃燒的風險。",
+      "content": [
+        {
+          "text": "1. fire 火。\nHi, it’s Nancy. I’m going to be late. 嗨，我是南西，我會遲到。\nDid something happen? 出了什麼事嗎?\nYeah, our train stopped because of a fire. 對，我們的火車停了，因為火災。",
+          "time": null
+        },
+        {
+          "text": "2. power 電力。\nA fire? Are you okay? 火災? 你還好嗎?\nI’m fine. 我很好。\nBut they’ve cut off the power so we’re stuck here.\n但是他們切斷了電源，所以我們卡在這裡。",
+          "time": null
+        },
+        {
+          "text": "3. burn 燃燒。\nOh my god! Is the train still burning? 天哪，火車還在燒嗎?\nNo no, just smoke. 只有冒煙。",
+          "time": null
+        },
+        {
+          "text": "4. careful 小心的。\nWe’re all safe. 我們都很安全。\nGood. Now you be careful, okay? 很好，你要小心喔。\nOkay. Bye.",
+          "time": null
+        }
+      ],
+      "postscript": "來一起複習今天的單字。\nfire火 power電力 burn燃燒 careful小心的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do experts say to take a smoking power bank?",
+        "options": [
+          "a. Inside",
+          "b. Outside",
+          "c. To a grownup"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do experts say to use for a smoking power bank?",
+        "options": [
+          "a. Water",
+          "b. Smoke",
+          "c. A fire extinguisher"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What can a sanitation worker do with a burned power bank?",
+        "options": [
+          "a. Find a teacher",
+          "b. Catch on fire",
+          "c. Safely throw it away"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  }
+]
