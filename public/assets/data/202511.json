@@ -1897,5 +1897,106 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251128-01",
+    "type": "國小",
+    "tag": [
+      "Arts",
+      "Multicultural Education"
+    ],
+    "title": "The Old Music Player",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251127NK.mp3",
+    "content": [
+      {
+        "en": "Shhh… listen. Where is that beautiful music coming from? Oh! It is from a music player!",
+        "tw": "噓??仔細聽！音樂是從哪裡傳出來的呢？阿，原來是從留聲機傳出來的！",
+        "time": null
+      },
+      {
+        "en": "About one hundred thirty years ago, a very important man went to Germany. He got a new music player there. Then he took it to his palace in Indonesia!",
+        "tw": "一百三十年前，一位有錢有勢的男人去了德國。他在德國找到這台留聲機後，帶回他在印尼的宮殿！",
+        "time": null
+      },
+      {
+        "en": "This music player plays music with metal plates. They are almost one meter wide! These round plates have music on them. One plate has Beethoven's music! One plate has Mozart's!",
+        "tw": "留聲機要用一公尺寬的圓形大鐵片才能放音樂！音樂被保存在這些鐵片上，有貝多芬，還有莫札特的！",
+        "time": null
+      },
+      {
+        "en": "The music player does not use electricity. So how does it play music? Well, you have to help it. First, put one of the metal plates onto the music player. Be careful! One plate is five kilograms!",
+        "tw": "留聲機不需要靠電力就能運作。想放音樂的話，要先把一片鐵片放到留聲機上。小心喔，鐵片很重！",
+        "time": null
+      },
+      {
+        "en": "The music player has a handle. Turn the handle many times! That makes the plate move. And then beautiful music comes out!",
+        "tw": "接下來，要轉動留聲機的握把，讓鐵片開始旋轉。這樣子就能聽到美妙的音樂了！",
+        "time": null
+      },
+      {
+        "en": "The music player is very old now. It plays music when important people come to the palace. But it is mostly quiet.",
+        "tw": "只有重要的人物來到宮殿的時候才會放音樂。留聲機很老舊了，為了好好保存，不能太頻繁的使用！",
+        "time": null
+      },
+      {
+        "en": "That way, this music player can play music for many more years!",
+        "tw": "如此一來，這台留聲機就能持續播放音樂，使用多年！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "現在已經沒有人用留聲機了，它以前是很稀罕的。",
+      "content": [
+        {
+          "text": "1. careful 小心的.\nBe careful of my old music player! 小心我的舊音樂播放器.\nThey don't make those any more. 他們現在已經不做那些東西了.",
+          "time": null
+        },
+        {
+          "text": "2. old 老的.\nWhy do you still keep it? 你為什麼還留著它?\nI like old stuff. 我喜歡老東西.\nBesides, it works well.何況它很好用呢.",
+          "time": null
+        },
+        {
+          "text": "3. quiet 安靜的.\nYeah, sometimes I wish I still had my old guitar.\n對啊，有時候我希望我的舊吉他還在.\nIt's too quiet here. 這裡太安靜了.",
+          "time": null
+        },
+        {
+          "text": "4. play 玩樂器.\nYou? Playing the guitar?! 你...彈吉他?!\nWell, I never said it would be good music. 我可沒說會很好聽.",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字?\ncareful小心的 old老的 quiet安靜的 play玩樂器"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the music player?",
+        "options": [
+          "a. A palace in Indonesia",
+          "b. A palace in Germany",
+          "c. A palace in India"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What are the plates made of?",
+        "options": [
+          "a. Paper",
+          "b. Metal",
+          "c. Wood"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do you turn many times on this music player?",
+        "options": [
+          "a. The plate",
+          "b. The handle",
+          "c. Electricity"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
