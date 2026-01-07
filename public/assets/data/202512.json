@@ -407,5 +407,100 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251205-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Quality Education",
+      "Character Education",
+      "Life Education",
+      "Life Planning Education",
+      "Natural Sciences"
+    ],
+    "title": "Nine-Year-Old College Student Studies to Help Kids",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251204NK.mp3",
+    "content": [
+      {
+        "en": "In school, you learn how your brain makes your body work. Some people want to learn a lot more about the human brain. They can study neuroscience in college.",
+        "tw": "在學校裡，你會學到大腦如何控制身體、讓身體運作。想進一步了解人類大腦，學生可以在大學選讀神經科學。",
+        "time": null
+      },
+      {
+        "en": "Neuroscience is not easy to study. But a very smart kid in the U.S. is studying it. He is 9 years old. He is a high school student. He is a college student too! He is studying neuroscience in college! He goes to college three days a week.",
+        "tw": "神經科學不是一門簡單的學科。美國有個很聰明的九歲男孩，他既是高中生，也是大學生，每個星期有三天到大學上神經科學課。",
+        "time": null
+      },
+      {
+        "en": "After college, the boy will be 13 or 14 years old. He will study the human brain more. He wants to be a brain surgeon for kids. Surgeons are doctors. They do operations to fix or take out sick parts of the body.",
+        "tw": "他大概十三、十四歲就會讀完大學了！他想當兒童腦神經外科醫生，繼續研究大腦。外科醫生會動手術，把生病的部分治好！",
+        "time": null
+      },
+      {
+        "en": "The boy wants to help sick kids have long and healthy lives. He needs to study a lot! But he has fun too. He plays video games and soccer.",
+        "tw": "這個男孩想幫助生病的小朋友，讓他們健健康康的長大。他需要讀很多書，不過他也會玩電動、踢足球！",
+        "time": null
+      },
+      {
+        "en": "This boy says we can do anything when we work on it. Listen to him. He wants to be a brain surgeon for kids. Now he is the first 9-year-old college student to study neuroscience!",
+        "tw": "這個男孩說只要我們努力，就能完成任何事。聽聽他的話吧。他想成為一名兒童腦科醫生。現在他是第一個九歲就讀神經科學的大學生！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這個資賦優異的男孩，希望更了解人類的頭腦，好幫助別人。",
+      "content": [
+        {
+          "text": "1. doctor 醫生。\nWhy are doctors smart people? 為什麼醫生都是聰明人?\nWho said they're smart? 誰說他們聰明?\nThey are! Only the top students can enter medical schools. 真的啊!\n只有最好的學生才能進醫學院。",
+          "time": null
+        },
+        {
+          "text": "2. sick 生病的。\nThat's not true. 並不是。\nMy mom takes good care of sick people. 我媽媽很會照顧病人。\nShe never went to college. 她從沒上過大學。",
+          "time": null
+        },
+        {
+          "text": "3. study 研讀。\nSo she's a doctor? 所以她是醫生?\nNot really. 不算是。\nBut she studied medicine with her grandpa. 但是她年輕時跟她的阿公學醫。",
+          "time": null
+        },
+        {
+          "text": "4. listen to 注意聽。\nShe always said if you listen to people, 她總是說只要你注意聽人講話，\nfixing their problems becomes easy. 處理他們的問題就容易了。",
+          "time": null
+        }
+      ],
+      "postscript": "你想當醫生嗎?來一起讀單字。\ndoctor醫生 sick生病的 study研讀 listen to注意聽"
+    },
+    "quiz": [
+      {
+        "question": "1. What is neuroscience about?",
+        "options": [
+          "a. The human foot",
+          "b. The human heart",
+          "c. The human brain"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where is the boy studying neuroscience?",
+        "options": [
+          "a. In high school",
+          "b. In college",
+          "c. At a hospital"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What does the boy want to be?",
+        "options": [
+          "a. A surgeon for kids",
+          "b. A soccer star",
+          "c. A video game player"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
