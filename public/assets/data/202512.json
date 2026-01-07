@@ -1192,5 +1192,103 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251215-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Character Education",
+      "Life on Land",
+      "Life Below Water"
+    ],
+    "title": "Woman Fights Alligator to Save Puppy",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251212NK.mp3",
+    "content": [
+      {
+        "en": "Alligators are dangerous. They have long, strong jaws. Their jaws have many teeth. They can eat small animals like cats and dogs!",
+        "tw": "美洲鱷魚很危險，牠強而有力的大嘴巴有很多牙齒，能夠獵食小動物。",
+        "time": null
+      },
+      {
+        "en": "In the U.S., a woman had a young dog. The puppy wore a collar around its neck.",
+        "tw": "美國有一名女子養了一隻幼犬，牠的脖子上戴著項圈。",
+        "time": null
+      },
+      {
+        "en": "One day, they walked by a small river. Then an alligator jumped out of the water! It bit the puppy's collar. Then it took the puppy under the water! Oh no!",
+        "tw": "有一天，這名女子在河邊遛狗。突然間，一隻鱷魚從水中一躍而出，咬住了狗狗的項圈，把狗拖下水！",
+        "time": null
+      },
+      {
+        "en": "The woman wanted to save her puppy. She hit the alligator many times. She hit it in the eye. Bam! Bam! Ouch! That hurt! The alligator let the puppy go. The puppy was safe! But the alligator's teeth cut the woman's arm.",
+        "tw": "為了拯救她的小狗，女主人全力反擊。她揮拳痛打鱷魚，對著牠的眼睛一次一次打，終於讓鱷魚鬆口! 小狗逃過一劫，但是女主人的手臂不幸被咬傷！",
+        "time": null
+      },
+      {
+        "en": "The alligator was about one hundred fifty centimeters long. But the woman was strong. She put the alligator on its back. It could not move. Then she ran to her house with her puppy! They were safe!",
+        "tw": "這隻美洲鱷身長一百五十公分，但這名女子很強壯，她把鱷魚翻過來四腳朝天，使牠無法動彈，然後帶著小狗趕快回家！",
+        "time": null
+      },
+      {
+        "en": "This puppy was lucky. The woman had a fight with an alligator for him!",
+        "tw": "這隻小狗很幸運。這位女士為了牠與鱷魚搏鬥！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "兇猛的美洲鱷，碰上救狗心切的女主人也不是對手。",
+      "content": [
+        {
+          "text": "1. jaw 下顎.\nDid you grow a beard? 你長了鬍子?\nHa ha, very funny! 好笑。\nNo, I fell and hurt my jaw.沒有啦，我跌倒了，傷到我的下顎。",
+          "time": null
+        },
+        {
+          "text": "2. neck 脖子.\nWow, that must be painful! 哇，一定很痛!\nNot as painful as my neck. 沒有我的脖子痛。",
+          "time": null
+        },
+        {
+          "text": "3. run 跑步.\nDid you see a doctor? 你有去看醫生嗎?\nI did. He told me to stop running for a while. 有啊，他叫我暫時停止跑步。\nSo you fell when you were running? 所以你是在跑步時跌倒的?\nYeah, in the park. 對，在公園裡。",
+          "time": null
+        },
+        {
+          "text": "4. teeth 牙齒.\nLuckily all my teeth are still here. 運氣不錯，牙齒都還在。\nThat is lucky! 確實好運!\nFixing teeth can be very expensive. 修補牙齒會很花錢呢!",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很好記。\njaw下顎 neck脖子 run跑步 teeth牙齒"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the alligator want to take?",
+        "options": [
+          "a. The woman's cat",
+          "b. The woman's puppy",
+          "c. The woman's arm"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where did the woman punch the alligator?",
+        "options": [
+          "a. On the nose",
+          "b. On the jaw",
+          "c. In the eye"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How long was the alligator?",
+        "options": [
+          "a. Fifty centimeters",
+          "b. One hundred centimeters",
+          "c. One hundred fifty centimeters"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
