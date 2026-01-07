@@ -1799,5 +1799,103 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251127-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Play Street Brings Kids Outside",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251126NK.mp3",
+    "content": [
+      {
+        "en": "Can you run and play on the street? Noooooo... It is too dangerous! But on one street in England, kids played on the street! And it was safe!",
+        "tw": "在大街上玩很危險，但是在英國，有一條街可以讓小朋友安全的玩耍！",
+        "time": null
+      },
+      {
+        "en": "On one Saturday, no cars drove on this street for a few hours! The street was a big playground! People called it a play street!",
+        "tw": "在某個星期六，這條街上好幾個小時都沒有車子開過來！整條街變成大遊樂場！人們叫它「遊戲街」！",
+        "time": null
+      },
+      {
+        "en": "Kids came outside to play. They ran! They danced! They talked loudly! They laughed! The kids had lots of fun. They played games! They rode their bikes! They made new friends!",
+        "tw": "小朋友們在街上跑啊跑，跳啊跳，大聲地談天說笑！他們騎腳踏車，認識新朋友！",
+        "time": null
+      },
+      {
+        "en": "Moms and dads loved the play street. They did not have to worry about their kids. Some people watched the kids. They kept the kids safe. People with no kids had a good time too. They talked with other people on the street.",
+        "tw": "家長也很喜歡遊戲街。有人會負責照顧小朋友，所以家長不用擔心小朋友的安全！沒有小孩的人也可以在街上跟別人開心的聊天。",
+        "time": null
+      },
+      {
+        "en": "The play street is one mom's idea. She says kids need to play outside more. They do not watch videos outside. They do not play online games outside.",
+        "tw": "遊戲街是一位媽媽提議的。她說小朋友需要多在戶外玩！",
+        "time": null
+      },
+      {
+        "en": "This mom talked to her city. The city liked her idea. It made the play street for the kids!",
+        "tw": "市政府聽了這個媽媽的提議後覺得非常好。因此，他們決定施行遊戲街這個計畫，讓小朋友盡情玩耍！",
+        "time": null
+      },
+      {
+        "en": "Do you want to have a play street too? Talk to your city!",
+        "tw": "你想也有一條遊戲街嗎？跟你的城市說說看吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這個城市把整條街道封起來，讓大人小孩盡情玩耍。",
+      "content": [
+        {
+          "text": "1. on the street 在街上。 Will you close the window, please? 可以請你關上窗子嗎? It's getting really noisy.真的很吵耶。 It's just kids playing on the street.只是小孩在街上玩罷了。",
+          "time": null
+        },
+        {
+          "text": "2. fun 樂趣。 They are too loud! 他們太大聲了! They're having fun! 他們可開心了! Look, they're riding their bikes! 你看，他們在騎腳踏車!",
+          "time": null
+        },
+        {
+          "text": "3. outside 外面。 We should go outside, too. 我們也應該出門。 How about going shopping? 去購物如何? Shopping is still inside. 購物還是在室內。",
+          "time": null
+        },
+        {
+          "text": "4. idea 主意。 But we need to go out before going in, right? 但是我們要先出門才進門，對吧? Hey, I like your idea! 我喜歡你的主意!",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很有趣。 on the street在街上 fun樂趣 outside外面 idea主意"
+    },
+    "quiz": [
+      {
+        "question": "1. What country was the play street in?",
+        "options": [
+          "a. Egypt",
+          "b. Ecuador",
+          "c. England"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How long were there no cars driving on this street?",
+        "options": [
+          "a. A few hours",
+          "b. A few days",
+          "c. A few weeks"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Whose idea was the play street?",
+        "options": [
+          "a. A kid's",
+          "b. A mom's",
+          "c. A dad's"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
