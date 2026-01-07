@@ -701,5 +701,101 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251210-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Big Birds Make Students Run",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251209NK.mp3",
+    "content": [
+      {
+        "en": "Student: Let's get out of here! Narrator: Uh oh! Some students are having trouble at school! The trouble is not about their homework or tests. It is about some big birds!",
+        "tw": "有些學生惹上大麻煩了！這個大麻煩不是考試或是作業，而是一些很大隻的鳥！",
+        "time": null
+      },
+      {
+        "en": "A university in Taiwan has a beautiful lake. The lake has swans and geese. They look very nice on the lake. But sometimes these birds leave the lake. They walk everywhere.",
+        "tw": "台灣的一所大學有一個漂亮的湖，湖邊有很多鵝跟天鵝。有時候，他們會離開湖邊，到處散步！",
+        "time": null
+      },
+      {
+        "en": "The birds are not afraid of people. But some people are afraid of the birds! So the university tells new students about the birds. It tells them to be careful.",
+        "tw": "這些鳥不會怕人，但有一些人會害怕這些鳥！因此，學校提醒學生們要小心安全。",
+        "time": null
+      },
+      {
+        "en": "Why? Well, some people get too close to the birds. Then the birds run after them! The birds try to hit them! Student: Ahhh!",
+        "tw": "為什麼呢？這是因為，當有人太靠近的時候，這些鳥就會追著人跑，甚至是攻擊！",
+        "time": null
+      },
+      {
+        "en": "These birds also take things from people. One day, some swans ran after a student. Student: Go away, go away! Narrator: They hit him. Then they tried to take an important paper. Student: Hey! Give that back, I need that! That's mine, give it back! Narrator: Students go to university for four years to get this paper! The swans tried to hit him again. But the student saved his paper.",
+        "tw": "這些鳥還會把人的東西搶走！有一天，一隻天鵝追著一名學生跑，不斷地啄他，還把他的畢業證書咬走了！幸好，這位學生最後有成功把自己的畢業證書拿回來。",
+        "time": null
+      },
+      {
+        "en": "So if a big bird runs after you, pick up your things. Oh yes, and leave fast!",
+        "tw": "所以，如果一隻大鳥追著你跑，拿起你的東西。喔對了，然後趕快離開！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "大雁不怕人，有時候會跟人類過於接近。",
+      "content": [
+        {
+          "text": "1. goose 雁鴨，或是鵝。\nHave you ever been chased by Canadian geese, Nancy?\n你有沒有被加拿大雁追過，南西?\nI have, more than once.",
+          "time": null
+        },
+        {
+          "text": "2. try 嘗試。\nSometimes when I went picnicking near a lake in Canada,\nthey would try to steal my food.",
+          "time": null
+        },
+        {
+          "text": "3. afraid 害怕的。\nWere you afraid of them? 你會不會怕牠們?\nI certainly was!\nThey are big, you know. And I'm sure they can bite.",
+          "time": null
+        },
+        {
+          "text": "4. close 靠近的。\nSo I never let them get too close. 所以我從來不讓牠們靠太近。\nI'd run like crazy if they came after me!",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\ngoose雁鴨，或是鵝 try嘗試 afraid害怕的 close靠近"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of big birds does the university lake have?",
+        "options": [
+          "a. Swans",
+          "b. Owls",
+          "c. Pigeons"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Why do these birds run after some people?",
+        "options": [
+          "a. The people have food.",
+          "b. The people get too close.",
+          "c. The people are angry."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did some birds try to take from a student?",
+        "options": [
+          "a. Some food",
+          "b. A paper",
+          "c. His phone"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
