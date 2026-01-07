@@ -892,5 +892,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251211-01",
+    "type": "國小",
+    "tag": [
+      "Technology",
+      "Technology Education",
+      "Good Health and Well-Being"
+    ],
+    "title": "Drones Help Fight Mosquitoes",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251210NK.mp3",
+    "content": [
+      {
+        "en": "Aaagh! Mosquitoes are everywhere! They are a big problem in many countries. They carry sicknesses. They like to bite people. Millions of people get sick from mosquito bites every year.",
+        "tw": "到處都是蚊子！蚊子會叮人，散布病菌。每年都有好幾百萬人因為蚊子叮咬而生病。",
+        "time": null
+      },
+      {
+        "en": "People fight mosquitoes in many ways. Now there are some new ways! People use drones.",
+        "tw": "人們用各種方式對抗蚊子。現在，連無人機都可以作為對抗蚊子的工具！",
+        "time": null
+      },
+      {
+        "en": "Drones can go anywhere. They can go to rivers and fields. They can go to gardens and the top of houses. They fly high and low.",
+        "tw": "無人機可以飛到很多地方。他們可以飛越河川與草地，還可以飛到房子的屋頂上。",
+        "time": null
+      },
+      {
+        "en": "Here is one way drones fight mosquitoes. When mosquito eggs hatch, larvae come out. The drones look for larvae. Then the drones spray the larvae. The spray stops the larvae from growing. The spray does not hurt anything else.",
+        "tw": "當蚊子的幼蟲孵化出來時，就會被無人機偵測到。無人機會噴灑專用的殺蟲劑，阻止幼蟲繼續長大。這種殺蟲劑不會傷害到其他的生物！",
+        "time": null
+      },
+      {
+        "en": "Here is another way drones fight mosquitoes. One kind of drone knows the sound of mosquitoes buzzing. It listens for this sound. When it finds a mosquito, it hits the mosquito!",
+        "tw": "無人機可以辨認蚊子嗡嗡作響的聲音。無人機會循著這個聲音找到蚊子，把蚊子打死！",
+        "time": null
+      },
+      {
+        "en": "In Kenya, mosquito bites make millions of people sick. People cheer as mosquito-fighting drones fly by.",
+        "tw": "在肯亞，有好幾百萬人因為蚊子叮咬而生病、受苦。看見這些可以消滅蚊子的無人機時，肯亞人會高聲歡呼！",
+        "time": null
+      },
+      {
+        "en": "The fight against mosquitoes is hard. Will drones help us win?",
+        "tw": "對抗蚊子的戰爭很艱難。無人機將幫助我們獲勝嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "無人機用來打蚊子，是另一種新的應用方式。",
+      "content": [
+        {
+          "text": "1. use 使用。Hey, it's not a bird, and it's not a plane. 嘿，那不是鳥，也不是飛機。It's a drone ! 是無人機 ! Somebody is using it ! 有人在用無人機。",
+          "time": null
+        },
+        {
+          "text": "2. top 頂端。It's on top of that house now.它現在飛到那棟房子上面了。I wonder what it's doing.真想知道它在做什麼。",
+          "time": null
+        },
+        {
+          "text": "3. carry 攜帶。It's carrying something. 它有帶東西。Maybe some medicine.也許是藥品。",
+          "time": null
+        },
+        {
+          "text": "4. anywhere 任何地方。Medicine for sick people that can't go out? 送藥給生病沒辦法出門的人嗎?What a great idea! 好棒的主意!Yeah, drones can go anywhere. 對啊，無人機可以去任何地方。",
+          "time": null
+        }
+      ],
+      "postscript": "你看過無人機在天上飛嗎?一起來讀今天的單字。use使用 top頂端 carry攜帶 anywhere任何地方"
+    },
+    "quiz": [
+      {
+        "question": "1. What do mosquitoes carry?",
+        "options": [
+          "a. Larvae",
+          "b. Bites",
+          "c. Sicknesses"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do drones do to mosquito larvae?",
+        "options": [
+          "a. Spray them",
+          "b. Eat them",
+          "c. Pick them up"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What do some drones listen for?",
+        "options": [
+          "a. Larvae growing",
+          "b. Mosquitoes buzzing",
+          "c. People cheering"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
