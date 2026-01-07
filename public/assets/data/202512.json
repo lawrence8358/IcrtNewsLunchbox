@@ -1290,5 +1290,103 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20251216-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Hundreds of Europeans Are Learning Taiwanese Languages",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251215NK.mp3",
+    "content": [
+      {
+        "en": "How many languages do you speak? Maybe you speak three: a Taiwanese language, Mandarin Chinese, and English! Maybe you speak more than three!",
+        "tw": "你會說幾種語言呢？也許你會一種台灣的方言、中文，還有英文！也許你會的還不只這三種！",
+        "time": null
+      },
+      {
+        "en": "Mandarin Chinese and English are the most spoken languages in the world. You can speak with many, many people! You can learn about many countries.",
+        "tw": "中文和英文是全世界最普遍使用的語言。你可以用這兩種話跟很多人聊天，認識不同的國家。",
+        "time": null
+      },
+      {
+        "en": "Taiwan has many languages. People learning one can also learn about Taiwan.",
+        "tw": "台灣有很多種方言。學習台灣的方言能讓人更了解台灣！",
+        "time": null
+      },
+      {
+        "en": "In France, a school has Taiwanese language courses. Taiwanese teachers teach them. There are 28 courses.",
+        "tw": "有一所法國學校開了由台灣老師教的台灣語言課程，總共有 28 門課。",
+        "time": null
+      },
+      {
+        "en": "Five courses are on Hoklo. Two are on Taiwanese Hakka. Eight are on Taiwanese indigenous languages: Amis, Atayal, Bunun, Hla'alua, Paiwan, Puyuma, Rukai, Saisiyat, and Truku. Thirteen are on Taiwanese Mandarin.",
+        "tw": "其中有 5 門是閩南話、2 門教客家話，還有 8 門是台灣原住民民族語課。除此之外，還有 13 門中文課！",
+        "time": null
+      },
+      {
+        "en": "Hundreds of European students are taking these classes! Most want to learn about Taiwan. Some have family in Taiwan. They also want to know them better.",
+        "tw": "好幾百位歐洲學生在上這些課！這些學生想更了解台灣，也有一些人有台灣親戚，所以經由學習語言更了解他們。",
+        "time": null
+      },
+      {
+        "en": "Soon, hundreds of Europeans will speak a Taiwanese language! Su? la!",
+        "tw": "很快地，數百名歐洲人將會說台灣語言了！水啦！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "法國的學校不但教學生中文，還有各種台灣的方言。",
+      "content": [
+        {
+          "text": "1. how many 有幾個，或者多少。How many languages do you want to learn this year? 你今年想學幾種語言?At least 2! 至少兩種。",
+          "time": null
+        },
+        {
+          "text": "2. course 課程。I even signed up for a Spanish course yesterday.我昨天甚至還報名了西班牙課。Wow, very ambitious! 真有野心!",
+          "time": null
+        },
+        {
+          "text": "3. European 歐洲的。So you'll learn 3 different languages.所以你要學三種不同的語言。Right, because I'm traveling to 3 European countries.對，因為我要去三個歐洲國家旅行。",
+          "time": null
+        },
+        {
+          "text": "4. teacher 老師。Will your teacher tell you how to say, 你的老師會不會教你怎麼說:\"Help! I'm lost!\"? [幫幫我，我迷路了]?I'd like to learn \"Help! I'm hungry.\" 我想學的是[幫幫我，我肚子餓]。",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學到哪些單字? how many有幾個，或者多少 course課程 European歐洲的 teacher老師"
+    },
+    "quiz": [
+      {
+        "question": "1. What is one of the most spoken languages in the world?",
+        "options": [
+          "a. Taiwanese Mandarin",
+          "b. Mandarin Chinese",
+          "c. European"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where can you learn a Taiwanese language in Europe?",
+        "options": [
+          "a. Taiwan",
+          "b. France",
+          "c. China"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many Taiwanese language courses does the school have?",
+        "options": [
+          "a. Two",
+          "b. Twenty-eight",
+          "c. Hundreds"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
