@@ -1388,5 +1388,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251217-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Life Education",
+      "Social Studies"
+    ],
+    "title": "A Dog's Last Day at Work",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251216NK.mp3",
+    "content": [
+      {
+        "en": "In Taipei, a big black dog worked in a hospital. He was the first dog to do this in Taiwan.",
+        "tw": "有一隻大黑狗在台北的醫院工作。牠是台灣第一隻在醫院工作的狗！",
+        "time": null
+      },
+      {
+        "en": "The dog went almost everywhere in the hospital. The hospital boss said it was okay! He liked the dog. He said the dog helped the hospital feel warm and calm.",
+        "tw": "院長允許這隻狗在醫院裡到處走來走去。他很喜歡這隻狗，他說狗狗讓醫院變得更溫暖、更安詳。",
+        "time": null
+      },
+      {
+        "en": "The dog helped very sick people. He made them feel calm. They touched him. They hugged him. Some liked to sleep with him. He made their families smile!",
+        "tw": "這隻狗會陪伴生重病的人，讓他們安心。病人會摸摸牠、抱抱牠，有的人甚至喜歡和牠一起睡覺。狗狗也能讓病人家屬露出笑容！",
+        "time": null
+      },
+      {
+        "en": "The big black dog worked at the hospital for six years. Then he was ten years old. It was time for him to stop working. The hospital had a big party for him. It was on his last day of work.",
+        "tw": "這隻狗狗在醫院工作了六年之後，在十歲那年退休了。醫院在牠上班的最後一天為牠辦了一個大派對！",
+        "time": null
+      },
+      {
+        "en": "Many people came to the party. More than forty people who had been sick came with their families. More than fifty hospital workers came too!",
+        "tw": "很多人都來參加這個派對。出席的除了五十多位醫院的員工之外，還有四十多位治癒的病人和他們的家人！",
+        "time": null
+      },
+      {
+        "en": "The hospital gave the dog a medal. Everyone clapped and cheered for him. They thanked him.",
+        "tw": "醫院頒給這隻狗一面獎牌，所有人都為牠拍手叫好，感謝牠的努力！",
+        "time": null
+      },
+      {
+        "en": "The dog kept his hospital ID card. He will visit sometimes. He will see his friends again!",
+        "tw": "這隻狗保留了牠的醫院識別證。牠有時候會回來探望。牠會再次見到牠的朋友們！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這條在醫院工作的狗，得到好多病人的喜愛。",
+      "content": [
+        {
+          "text": "1. touch 觸摸. Look at that big dog! 你看那隻大狗! He looks so friendly! 他看起來真友善! He does.沒錯. I want to touch his fur. 我想摸摸他的毛.",
+          "time": null
+        },
+        {
+          "text": "2. warm 溫暖的. Can I touch him? 我可以摸他嗎? Sure, go ahead. 當然可以. Hi, buddy! You're so cute! 嗨，小朋友，你好可愛! Dogs give such a warm feeling! 狗狗給人好溫暖的感覺!",
+          "time": null
+        },
+        {
+          "text": "3. smile 微笑. I used to have a dog, Charlie.我以前有一條狗叫做查理。He often smiled when he saw me.他看到我時都會笑. No kidding. 真的喔.",
+          "time": null
+        },
+        {
+          "text": "4. friend 朋友. Charlie was my best friend. 查理是我最好的朋友。I cried so hard when he disappeared.牠不見了我哭得好傷心.",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字很有用喔。touch觸摸 warm溫暖的 smile微笑 friend朋友"
+    },
+    "quiz": [
+      {
+        "question": "1. What does the dog look like?",
+        "options": [
+          "a. He is big and black.",
+          "b. He is small and white.",
+          "c. He is small and black."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How did the dog help sick people?",
+        "options": [
+          "a. Made them calm",
+          "b. Gave them medicine",
+          "c. Took them for walks"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did the hospital give the dog at the party?",
+        "options": [
+          "a. An ID card",
+          "b. A medal",
+          "c. A bed"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
