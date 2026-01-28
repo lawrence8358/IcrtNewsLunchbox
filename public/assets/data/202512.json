@@ -1591,5 +1591,109 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20251219-01",
+    "type": "國小",
+    "tag": [
+      "Life Below Water",
+      "Climate Action",
+      "Environmental Education",
+      "Marine Education",
+      "Natural Sciences"
+    ],
+    "title": "One Sea's Seagrass Balls Can Hold Many Plastic Pieces",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251218NK.mp3",
+    "content": [
+      {
+        "en": "There is a big sea. It is below Europe and above Africa. It has big flat places on the bottom. They are meadows.",
+        "tw": "在歐洲跟非洲大陸的中間有一片叫做地中海的海域。地中海海底有很多寬闊的草原。",
+        "time": null
+      },
+      {
+        "en": "The meadows have seagrass. Seagrass has long green leaves. Fish swim there. Crabs crawl there. It is a quiet, safe home for them.",
+        "tw": "海底草原有長長的海草。對這些小魚跟螃蟹來說，這裡是安靜又安全的家。",
+        "time": null
+      },
+      {
+        "en": "But the waves bring plastic. The plastic is from bags, bottles, and other trash. The plastic breaks into smaller and smaller pieces in the sea. It makes the sea dirty.",
+        "tw": "但是海浪也會帶來塑膠垃圾。塑膠袋和塑膠瓶被海水打成小小的碎片，汙染海洋。",
+        "time": null
+      },
+      {
+        "en": "But seagrass leaves can catch many very small plastic pieces. The leaves help clean the sea!",
+        "tw": "海草的長葉子可以困住這些小碎片，淨化海水！",
+        "time": null
+      },
+      {
+        "en": "When seagrass gets old, the leaves fall off. They roll and roll together. They become brown balls. These are called Neptune balls. Neptune balls can hold many very small plastic pieces!",
+        "tw": "等海草變老後，葉子就會掉下來。葉子在水裡一直滾動，最後變成棕色的球，叫做「海神球」。海神球裡面可以藏好多塑膠小碎片！",
+        "time": null
+      },
+      {
+        "en": "When the waves are big, they push some Neptune balls to beaches. The sea gives people's plastic trash back to them!",
+        "tw": "當海浪很大時，海神球會被推到沙灘上，就像大海把人類的塑膠垃圾還回來一樣！",
+        "time": null
+      },
+      {
+        "en": "Neptune balls cannot clean all the plastic in the sea. But they are one way nature helps the sea!",
+        "tw": "海神球無法清除海中所有的塑膠。但它們是大自然幫助海洋的一種方式！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "不起眼的海草，卻有很好的環保功能。",
+      "content": [
+        {
+          "text": "1. beach 海灘。\nDon't you love coming to the beach on a winter day? 冬天來海灘不是好開心嗎?",
+          "time": null
+        },
+        {
+          "text": "2. quiet 安靜的。\nIt's not entirely quiet. 並沒有那麼安靜。\nBut yeah, it's nice.但是確實很好。\nIt would be better without these dirty bottles. 沒有這些髒瓶子會更好。",
+          "time": null
+        },
+        {
+          "text": "3. wave 海浪。\nI know. But I'm afraid to pick them up. 我知道，但我怕把它們撿起來。\nIt's a bit gross. 有點噁。\nSome of this trash was brought by the waves. 有些垃圾是海浪帶來的。",
+          "time": null
+        },
+        {
+          "text": "4. sea 大海。\nYeah, I just wish they brought seashells instead of trash from the sea.\n對啊，我只希望海浪帶來貝殼而不是海裡的垃圾。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡海灘嗎?\nbeach海灘 quiet安靜的 wave海浪 sea大海"
+    },
+    "quiz": [
+      {
+        "question": "1. What is a quiet, safe home for fish and crabs?",
+        "options": [
+          "a. Beaches",
+          "b. Seagrass meadows",
+          "c. Africa"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where are Neptune balls made of?",
+        "options": [
+          "a. Plastic bottles",
+          "b. Seagrass leaves",
+          "c. Fish and crabs"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What pushes Neptune balls onto beaches?",
+        "options": [
+          "a. Old seagrass",
+          "b. Plastic trash",
+          "c. Big waves"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
