@@ -1695,5 +1695,106 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20251222-01",
+    "type": "國小",
+    "tag": [
+      "Marine Education",
+      "Natural Sciences"
+    ],
+    "title": "Orcas Play with Boats",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251219NK.mp3",
+    "content": [
+      {
+        "en": "Orcas live in the ocean. They are black and white. They are also called \"killer whales.\" They are whales, and they are the biggest dolphins in the world. They weigh three to six tons.",
+        "tw": "全身黑白的虎鯨生活在海中，也被稱作為「殺人鯨」！虎鯨是海豚科內體型最大的物種，重量可以高達三到六噸！",
+        "time": null
+      },
+      {
+        "en": "People love to watch orcas in the ocean. Orcas are friendly. They like to play. They like to swim with boats!",
+        "tw": "人們喜歡觀察虎鯨在海中嬉戲。虎鯨很友善，會繞著船隻游來游去。",
+        "time": null
+      },
+      {
+        "en": "But some orcas surprised some people on a boat. They hit the boat many times! They broke off a piece under the boat! It made a hole! Water came into the boat!",
+        "tw": "但有些虎鯨撞到船，在船的底部撞出一個大洞。海水灌進船身內，船上的乘客都嚇壞了！",
+        "time": null
+      },
+      {
+        "en": "The orcas swam away. The boat went down into the ocean. Another boat saved the people.",
+        "tw": "後來船就沉了，還好另一艘船救了受到驚嚇的乘客。",
+        "time": null
+      },
+      {
+        "en": "Why did the orcas hit the boat? Scientists think they were having fun! They were playing a game! The game is breaking off the piece under the boat!",
+        "tw": "為什麼虎鯨要撞船呢？科學家認為，這是虎鯨玩的一種遊戲！遊戲的玩法就是撞擊船底，讓碎片掉下來。",
+        "time": null
+      },
+      {
+        "en": "Orcas play this game a lot. In four years, they played it 700 times. They damaged more than 250 boats! Seven boats went down into the ocean.",
+        "tw": "虎鯨很喜歡這個遊戲。四年之中他們撞壞了250多艘船，其中有七艘船因此而沉沒！",
+        "time": null
+      },
+      {
+        "en": "Orcas like playing games! But three-ton orcas playing a game with boats can be dangerous! Aaaaahhh! Help!",
+        "tw": "虎鯨喜歡玩遊戲！但是三噸重的虎鯨與船隻玩遊戲可能會很危險！啊！救命！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "虎鯨喜歡玩耍，但是有時候人類會受害。",
+      "content": [
+        {
+          "text": "1) whale 鯨魚. I had the most exciting trip yesterday! 我昨天的旅行超精彩! Yeah? Where did you go? 是喔，你去了哪裡? I went whale watching off of Hualien! 我去花蓮外海賞鯨!",
+          "time": null
+        },
+        {
+          "text": "2) fun 樂趣. Oh, that's something I've always wanted to do! 我一直想去賞鯨的! You really should do it. 你真的應該去. We had so much fun! 我們玩得超開心!",
+          "time": null
+        },
+        {
+          "text": "3) dolphin 海豚. How many whales did you see? 你看到幾隻鯨魚? Two, a mother and a calf. 兩隻，媽媽和寶寶. AND we also saw more than 10 dolphins! 還看到十幾隻海豚!",
+          "time": null
+        },
+        {
+          "text": "4) swim 游泳. Those dolphins are playful! 那些海豚很愛玩喔! They swam so fast and jumped up and down. 他們游得好快，還會上下跳。",
+          "time": null
+        }
+      ],
+      "postscript": "你有看過鯨魚嗎? whale鯨魚 fun樂趣 dolphin海豚 swim游泳"
+    },
+    "quiz": [
+      {
+        "question": "1. What is another name for orcas?",
+        "options": [
+          "a. Killer fish",
+          "b. Killer dolphins",
+          "c. Killer whales"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What happened to the people on the boat?",
+        "options": [
+          "a. Another boat saved them.",
+          "b. They swam away.",
+          "c. The orcas ate them."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What is the game?",
+        "options": [
+          "a. Saving pieces of boats",
+          "b. Breaking off the piece under the boat",
+          "c. Swimming with a piece of the boat"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
