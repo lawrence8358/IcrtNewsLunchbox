@@ -720,5 +720,111 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260112-01",
+    "type": "國小",
+    "tag": [
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Fake Eggs for Fewer Pigeons",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260109NK.mp3",
+    "content": [
+      {
+        "en": "What is making that noise? Pigeons are! They make noise from early in the morning!",
+        "tw": "你聽見了嗎？鴿子從一大早就開始發出這些聲音。",
+        "time": null
+      },
+      {
+        "en": "Pigeons make buildings dirty too. Cleaning the buildings is hard. It also costs a lot of money.",
+        "tw": "鴿糞也會汙染建築物的外觀。清理這些建築物不但很麻煩，還很花錢！",
+        "time": null
+      },
+      {
+        "en": "Many cities have too many pigeons. These birds can find lots of food. So they lay eggs again and again. They can lay twelve eggs a year!",
+        "tw": "很多城市的鴿子太多了。鴿子在市區可以找到充足的食物，會一直生蛋！一隻鴿子一年可以生十二顆蛋！",
+        "time": null
+      },
+      {
+        "en": "Cities try many ways to make pigeons go away. Some of these ways hurt the birds. One city does not want pigeons. But it does not want to hurt them.",
+        "tw": "有個城市想趕走鴿子，但不想傷害到牠們。",
+        "time": null
+      },
+      {
+        "en": "The city made a pigeon house. It is in a big park. It has lots of food. Pigeons leave other parts of the city. They eat and rest in the house.",
+        "tw": "於是人們在這個城市的大公園裡蓋了一間鴿子屋，吸引鴿子從其他地方飛來。",
+        "time": null
+      },
+      {
+        "en": "Pigeons lay eggs there too! But people take the eggs. They give the pigeons fake eggs.",
+        "tw": "鴿子在那裏吃飽喝足後，就會在鳥屋裡生蛋！人們會把這些蛋拿走，再把假的蛋放回去。",
+        "time": null
+      },
+      {
+        "en": "The birds do not know this. They sit and sit on the eggs. But no baby pigeons come out! So there are fewer and fewer pigeons in the city.",
+        "tw": "鴿子不知道蛋被掉包，會繼續孵蛋。假的蛋孵不出來，城市中的鴿子數量也就減少了！",
+        "time": null
+      },
+      {
+        "en": "Does your city have too many pigeons? What do you think about using fake eggs?",
+        "tw": "你的城市有太多鴿子嗎？你覺得使用假蛋怎麼樣？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這個城市想了個辦法來降低鴿子的數量。",
+      "content": [
+        {
+          "text": "1. egg 蛋。\nShhhh … Look! A pigeon is sitting there. 你看，一隻鴿子坐在那裏。\nWow, is it nesting? 哇，牠在抱窩嗎?\nAre there eggs? 有沒有蛋?\nI can’t see any. 我沒看到蛋。",
+          "time": null
+        },
+        {
+          "text": "2. hurt 傷害。\nBut I think it’s nesting. 不過我想牠是在抱窩。\nWhat should we do? 我們該做什麼?\nTry not to hurt the bird, for one thing. 第一點，儘量不要傷害那隻鳥。",
+          "time": null
+        },
+        {
+          "text": "3. noise 噪音。\nAnd don’t make too much noise. 也不要弄太多吵鬧聲。\nHow long do you think it’ll be there? 你覺得牠會待在那裏多久?\nLet’s look it up online. 來上網找一下。",
+          "time": null
+        },
+        {
+          "text": "4. food 食物。\nIt says pigeon eggs take 17 to 19 days to hatch.\n它說鴿子蛋需要17到19天孵出來。\nI wonder how it finds food. 不知道牠怎麼找吃的。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字超簡單。\negg蛋 hurt傷害 noise噪音 food食物"
+    },
+    "quiz": [
+      {
+        "question": "1. When do pigeons start making noise?",
+        "options": [
+          "a. Early in the morning",
+          "b. When they lay eggs",
+          "c. When they sleep"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What did a city make for pigeons?",
+        "options": [
+          "a. A house",
+          "b. A park",
+          "c. A hospital"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Why do people take eggs from pigeons?",
+        "options": [
+          "a. To make them lay more eggs",
+          "b. To give them fake eggs",
+          "c. To sell the eggs to shops"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
