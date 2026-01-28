@@ -1893,5 +1893,108 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20251224-01",
+    "type": "國小",
+    "tag": [
+      "Decent Work and Economic Growth",
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Marine Education"
+    ],
+    "title": "Island Helps Lobsters",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251223NK.mp3",
+    "content": [
+      {
+        "en": "There is a small island in an ocean. It is far away from everything. The next island with people is two thousand four hundred kilometers away!",
+        "tw": "在海中有一座小島。這座島與世隔絕，離它最近的島也有兩千四百公里！",
+        "time": null
+      },
+      {
+        "en": "Two hundred twenty-nine people live there. Why? They live there because of lobsters!",
+        "tw": "因為龍蝦的緣故，還是有229個人住在這個小島上。",
+        "time": null
+      },
+      {
+        "en": "Early in the morning, boats leave the island. Fishers catch lobsters with cages and nets. The fishers sell these tasty lobsters for lots of money.",
+        "tw": "每天清晨，漁船會從島上出發。漁夫用籠子跟網子來抓龍蝦，再把美味的龍蝦賣出去，賺大錢。",
+        "time": null
+      },
+      {
+        "en": "Long ago, many lobsters lived in the ocean there. People at a beach could catch one!",
+        "tw": "很久以前，這邊的海裡有很多龍蝦。到海邊玩的人都能隨手抓到一隻龍蝦！",
+        "time": null
+      },
+      {
+        "en": "But there were too many boats. They caught too many lobsters. Every year, the ocean had fewer lobsters. People on the island were worried. They had nothing else to sell. So they made some rules. The rules help lobsters.",
+        "tw": "後來，人們過度捕撈龍蝦，導致海裡的龍蝦逐年減少。島上的人擔心沒有別的東西可以賣，所以就制定了一些規則。",
+        "time": null
+      },
+      {
+        "en": "Now, fishers are told how many lobsters they can catch. They cannot catch too many. They must put small lobsters back into the ocean too. Each year, people check how many lobsters there are.",
+        "tw": "現在漁夫抓龍蝦有數量限制，還要把還沒長大的龍蝦放生回海裡。",
+        "time": null
+      },
+      {
+        "en": "People learned they cannot catch too many lobsters. Now they are helping lobsters!",
+        "tw": "人們學會了不能捕撈過多的龍蝦。現在他們正在幫助龍蝦！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "龍蝦很珍貴，小島的居民依賴這種海產維持生計。",
+      "content": [
+        {
+          "text": "1. tasty 美味的。 The best lobster I've ever had 我吃過的最好的龍蝦 is at a fishing port near Keelung. 是在基隆附近的漁港。 It's so tasty! 真好吃呢! Of course, that's where fishers live.當然啦，漁夫就住在那裏。",
+          "time": null
+        },
+        {
+          "text": "2. in the morning 在早上。 They go out very early in the morning to catch lobsters. 他們一大早就出發去捕龍蝦。",
+          "time": null
+        },
+        {
+          "text": "3. far away 很遠。 I've heard some lobsters come from far away. 我聽說有的龍蝦來自遠方。 Maybe, but the good ones are caught nearby.也許吧，不過好吃的都是在附近抓的。",
+          "time": null
+        },
+        {
+          "text": "4. tell 告訴。 And let me tell you, 我跟你說，the best way to cook a lobster is to steam it. 龍蝦最好的吃法是蒸熟。 With garlic. 跟大蒜一起。",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我讀單字。 tasty美味的 in the morning在早上 far away很遠 tell告訴"
+    },
+    "quiz": [
+      {
+        "question": "1. How many people live on the island?",
+        "options": [
+          "a. 29",
+          "b. 129",
+          "c. 229"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did people do because there were fewer lobsters?",
+        "options": [
+          "a. Cooked lobsters",
+          "b. Made rules",
+          "c. Went to the beach"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do fishers do with small lobsters now?",
+        "options": [
+          "a. Give them to friends",
+          "b. Eat them for lunch",
+          "c. Put them back in the ocean"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
