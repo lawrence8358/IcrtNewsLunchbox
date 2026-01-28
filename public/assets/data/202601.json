@@ -826,5 +826,106 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260113-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Health and Physical Education"
+    ],
+    "title": "Ninety-Eight-Year-Old Swimmer Shares Her Town",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260112NK.mp3",
+    "content": [
+      {
+        "en": "Tang Cheng-Yao is from Hengchun. She learned how to swim when she was four years old.",
+        "tw": "來自恆春的唐成瑤從四歲開始就會游泳。",
+        "time": null
+      },
+      {
+        "en": "Now Tang is 98 years old. She cannot see well in one eye. She cannot hear in one ear. But she swims 400 meters almost every day.",
+        "tw": "現在，唐成瑤已經98歲了！她的視力跟聽力都不好，但她仍然堅持每天游泳四百公尺。",
+        "time": null
+      },
+      {
+        "en": "Tang went to a big swimming contest in Singapore. She was the oldest woman to swim. She swam in five races!",
+        "tw": "她去參加新加坡一場大型游泳比賽，總共報名五個競賽項目。她是年紀最大的女選手！",
+        "time": null
+      },
+      {
+        "en": "In one race, Tang swam 200 meters. The race was for 95 to 99-year-old women. She finished it! In all the years of this race, she was the fastest! She finished the race in a little under 13 minutes!",
+        "tw": "其中一場比賽是兩百公尺游泳，參賽者都是95到99歲的女性。她順利游完全程，而且成績是歷年來最快的，只用了不到十三分鐘！",
+        "time": null
+      },
+      {
+        "en": "Tang won five gold medals at the contest. That was very exciting! But something excited her more.",
+        "tw": "唐成瑤在游泳比賽贏得了五面金牌，但讓她更開心的還有另一件事！",
+        "time": null
+      },
+      {
+        "en": "People from all over the world were at the contest. They know Tang loves swimming. And now they know she has another love too. Tang loves Hengchun! Telling people about her town excited her. She gave them Hengchun bags too.",
+        "tw": "來自世界各地的人都認識了她，也知道她不只愛游泳，還很愛恆春。她開心的向大家介紹自己的家鄉，並且贈送他們恆春圖案的袋子。",
+        "time": null
+      },
+      {
+        "en": "This 98-year-old winner shared Hengchun with the world!",
+        "tw": "這位98歲的獲勝者將恆春分享給了全世界！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "九十八歲的老太太，仍然熱愛游泳保持健康。",
+      "content": [
+        {
+          "text": "1. contest 比賽。\nI may join a swimming contest. 我也許會參加游泳比賽。\nHow come I never see you go swimming? 我怎麼從來沒看過你去游泳?\nThat doesn't mean I can't swim. 那並不表示我不會游.",
+          "time": null
+        },
+        {
+          "text": "2. meter 公尺。\nThat's true. 那是真的。\nSo are you swimming the 100 meters or 200? 所以你要游一百公尺，兩百公尺?\nThe 100-meter freestyle. 一百公尺自由式.",
+          "time": null
+        },
+        {
+          "text": "3. finish 結束。\nHow fast are you? 你游得多快?\nI can finish it in 10 minutes. 我可以十分鐘游完。\nI can walk 100 meters in 2 minutes! 我走100公尺只要兩分鐘!",
+          "time": null
+        },
+        {
+          "text": "4. gold medal 金牌。\nWalking is faster than swimming, okay? 走路比游泳快，好嗎?\nAnd I don't plan to get a gold medal! 而且我又不是要拿金牌!",
+          "time": null
+        }
+      ],
+      "postscript": "你想參加游泳比賽嗎?\ncontest 比賽 meter公尺 finish結束 gold medal金牌"
+    },
+    "quiz": [
+      {
+        "question": "1. How old is Tang?",
+        "options": [
+          "a. 4",
+          "b. 13",
+          "c. 98"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What does Tang do almost every day?",
+        "options": [
+          "a. Skate",
+          "b. Swim",
+          "c. Ski"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did Tang tell people about?",
+        "options": [
+          "a. Singapore",
+          "b. Gold medals",
+          "c. Hengchun"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
