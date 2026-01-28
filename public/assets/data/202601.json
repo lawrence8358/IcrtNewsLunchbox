@@ -620,5 +620,105 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260109-01",
+    "type": "國小",
+    "tag": [
+      "Law-related Education"
+    ],
+    "title": "Thieves in Spain Steal Many Chairs",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260108NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: Thieves take other people's things. Taking other people's things is stealing. Thieves steal many kinds of things. They steal cars! They steal bikes! They steal money!",
+        "tw": "小偷會偷汽車，腳踏車，也會偷錢。",
+        "time": null
+      },
+      {
+        "en": "In Spain, seven thieves worked together. They stole something different. They stole … chairs?! In two months, they stole one thousand one hundred chairs! And the chairs were not new!",
+        "tw": "西班牙有七名小偷一起偷東西，偷的東西很特別。兩個月之內他們偷了1,100張舊椅子！",
+        "time": null
+      },
+      {
+        "en": "The thieves stole chairs from 18 restaurants. These restaurants had tables and chairs outside. In Spain, many people like to eat outside and enjoy the weather.",
+        "tw": "這些椅子來自18家餐廳。在西班牙，很多人喜歡坐在室外吃飯、享受好天氣。因此餐廳會在店外擺放桌椅，讓客人在戶外用餐。",
+        "time": null
+      },
+      {
+        "en": "After these restaurants closed at night, they kept their tables and chairs outside. Some put chains on the chairs. But the chains did not stop the seven thieves! Then these restaurants had tables outside, but no chairs! Oh no!",
+        "tw": "餐廳晚上打烊後不會把桌椅收起來。有些餐廳會用鐵鍊把椅子鎖住，但是擋不住小偷。結果，那些椅子全被偷了，只剩下桌子！",
+        "time": null
+      },
+      {
+        "en": "The thieves sold the chairs in Spain and other countries. Together, the chairs were worth more than two million Taiwan dollars!",
+        "tw": "小偷把這些椅子賣到很多不同國家，總共賣了超過兩百萬台幣。",
+        "time": null
+      },
+      {
+        "en": "But the police caught the thieves! Police: Don't move! Narrator: They say the seven thieves worked in a big group of thieves.",
+        "tw": "警察逮到這些小偷後，發現他們其實屬於一個更大的偷竊集團！",
+        "time": null
+      },
+      {
+        "en": "Stealing things is not good. But thieves steal. Be careful about your things!",
+        "tw": "偷東西是不好的行為。但是小偷會偷東西。要小心保管你的物品！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這些竊賊只偷椅子，其他的不拿。",
+      "content": [
+        {
+          "text": "1. steal 偷竊。\nHave you ever had anything stolen by a thief? 你有沒有被小偷偷過東西?\nYes! When I was little, I had a dog named \"Deli.\"\n有，我小時候有一隻狗叫做德利。",
+          "time": null
+        },
+        {
+          "text": "2. police 警察。\nHe was the friendliest dog ever, and he was stolen!\n他是最友善的狗，而他被偷了。\nThat's awful! 糟透了!\nYeah, I really wished the police could catch the thief.\n對啊，我那時好希望警察能抓到小偷。",
+          "time": null
+        },
+        {
+          "text": "3. sell 賣掉。\nMaybe Deli just got lost. 也許德利只是迷路。\nNo, he was a beautiful dog. 不是，他很漂亮。\nThe thief must have sold him. 小偷一定把他給賣了。",
+          "time": null
+        },
+        {
+          "text": "4. bike 腳踏車。\nI had a bike that got stolen. 我曾經有腳踏車被偷走。\nSo what did you do? 結果你怎麼辦?\nI had to walk to school! 我得走路上學!",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字有哪些?\nsteal偷竊 police警察 sell賣掉 bike腳踏車"
+    },
+    "quiz": [
+      {
+        "question": "1. What do thieves do?",
+        "options": [
+          "a. Work at restaurants",
+          "b. Take other people's things",
+          "c. Eat outside"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where were the chairs stolen from?",
+        "options": [
+          "a. Parks",
+          "b. Schools",
+          "c. Restaurants"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did the thieves do with the chairs?",
+        "options": [
+          "a. Sold them",
+          "b. Put chains on them",
+          "c. Sat on them"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
