@@ -209,6 +209,108 @@
     ]
   },
   {
+    "id": "20260105-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Kiwis Saving Kiwis!",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260102NK.mp3",
+    "content": [
+      {
+        "en": "Kiwis are birds. They have long beaks and soft feathers. They are the same size as chickens. They cannot fly. Kiwis live in New Zealand. They do not live in other countries.",
+        "tw": "奇異鳥有長長的嘴巴跟柔軟的羽毛。牠們跟雞差不多大，也不會飛行。只有在紐西蘭才見得到奇異鳥喔！",
+        "time": null
+      },
+      {
+        "en": "People in New Zealand love kiwis. Many people there call themselves \"Kiwis\"!",
+        "tw": "紐西蘭人很喜歡奇異鳥，所以很多人會叫自己「奇異人」！",
+        "time": null
+      },
+      {
+        "en": "But there are not many kiwi birds now. They need help. Many other birds in New Zealand need help too.",
+        "tw": "但是，奇異鳥的數量變少了，而且也有很多其他的鳥類面臨一樣的困境。這些鳥需要大家幫忙！",
+        "time": null
+      },
+      {
+        "en": "Two small animals are not good for them. Rats and possums eat bird eggs and baby birds. Possums also eat lots of leaves, flowers, and fruit. Now birds have fewer places to live. They also have less food.",
+        "tw": "大老鼠跟澳洲袋貂會吃鳥蛋跟雛鳥！袋貂也會吃很多樹葉、花跟水果。這樣一來，鳥能住的地方跟能吃的食物都變少了。",
+        "time": null
+      },
+      {
+        "en": "Long ago, New Zealand had no rats or possums. They came from other countries. Now people in New Zealand want to catch all of them.",
+        "tw": "大老鼠跟袋貂是從其他國家來的外來種，紐西蘭人希望把牠們全部抓起來，保護鳥類！",
+        "time": null
+      },
+      {
+        "en": "Grownups and kids want to help kiwis and other birds. So they put rat and possum traps in gardens, parks, and forests.",
+        "tw": "大人跟小孩都一起幫忙，在花園、公園跟森林裡放陷阱捕捉大老鼠跟袋貂！",
+        "time": null
+      },
+      {
+        "en": "The birds need more help. There are many rats and possums to catch. But now people in New Zealand see more kiwis and other birds! Kiwis are saving kiwis!",
+        "tw": "鳥類需要更多的幫助。還有很多大老鼠和袋貂需要捕捉。但現在紐西蘭人看到了更多的奇異鳥和其他鳥類！奇異鳥正在拯救奇異鳥！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "紐西蘭獨特的奇異鳥，遭到別的動物威脅。",
+      "content": [
+        {
+          "text": "1. bird 鳥類.\nWill you go shopping with me tomorrow? 你明天會跟我去購物嗎?\nNo, sorry. I'm going bird watching. 不行，真抱歉，我要去賞鳥。\nAgain? You just went last week. 又要去? 你上星期才去過。",
+          "time": null
+        },
+        {
+          "text": "2. forest 森林.\nWe'll see different birds. 是看不同的鳥。This time we'll go to a national forest. 這次我們要去國家森林區。",
+          "time": null
+        },
+        {
+          "text": "3. feather 羽毛.\nWhat's so special about birds, anyway? 鳥兒究竟有什麼特別?\nThey are very cute. 牠們很可愛。And their colorful feathers shine under the sun. 彩色羽毛在太陽底下會閃閃發光。",
+          "time": null
+        },
+        {
+          "text": "4. catch 捕捉.\nHave you tried to catch them? 你有沒有抓過牠們?\nI only try to catch them with my camera. 我只用相機捕捉。I hope they always stay there. 我希望牠們永遠在那裏。",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我讀今天的單字。bird鳥類 forest森林 feather羽毛 catch捕捉"
+    },
+    "quiz": [
+      {
+        "question": "1. Why do kiwis need help?",
+        "options": [
+          "a. Rats eat kiwi eggs.",
+          "b. Possums like soft feathers.",
+          "c. Rats have long beaks."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where did rats come from long ago?",
+        "options": [
+          "a. Possums",
+          "b. New Zealand",
+          "c. Other countries"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Where do people put traps?",
+        "options": [
+          "a. Schools",
+          "b. Parks",
+          "c. Shops"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20260107-01",
     "type": "國小",
     "tag": [
