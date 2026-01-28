@@ -1490,5 +1490,106 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251218-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Character Education"
+    ],
+    "title": "Man Gives Rewards for Good Grades",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251217NK.mp3",
+    "content": [
+      {
+        "en": "You study hard at school. What makes you study? Do rewards for good grades make you study?",
+        "tw": "你在學校努力學習是為了什麼？如果好成績可以換來獎勵的話，你會更認真嗎？",
+        "time": null
+      },
+      {
+        "en": "In New York City in the U.S., a man has a small food shop. He loves when kids get good grades! They bring him their tests and report cards. He looks at their grades. Then he gives them rewards! Kids get their favorite snacks!",
+        "tw": "在美國紐約，有一間食品店老闆喜歡看到小朋友得到好成績！小朋友會把考卷跟成績單拿給他看。如果他們成績不錯，老闆就會給他們好吃的零食作為獎勵！",
+        "time": null
+      },
+      {
+        "en": "When their grade is ninety percent or more, the man gives kids the biggest reward. They get snacks, a T-shirt, and about three thousand Taiwan dollars!",
+        "tw": "如果成績達到九十分以上，老闆就會送出最大獎！最大獎包括零食，一件T-shirt，還有大概三千塊台幣！",
+        "time": null
+      },
+      {
+        "en": "The man also gives rewards for other things, like going to school every day.",
+        "tw": "老闆也會獎勵每天都準時去上學的小朋友！",
+        "time": null
+      },
+      {
+        "en": "Why does the man do this? Well, he is from Yemen. Yemen is far away. He has three kids there. He misses them a lot. He thinks of them when he gives rewards to kids.",
+        "tw": "老闆為什麼要這樣做？原來他來自遙遠的葉門，他的三個小孩都在葉門，他非常想念他們。每次給小朋友獎勵時，他都會想到自己的孩子。",
+        "time": null
+      },
+      {
+        "en": "People on social media see kids get rewards. They like this! They want to help. They give the man money. Now he can give rewards to more kids!",
+        "tw": "很多人看到這件事後想幫忙，就捐錢給老闆。這樣一來，老闆就可以獎勵更多認真的小朋友！",
+        "time": null
+      },
+      {
+        "en": "Do you want a shop like this near you? Would rewards make your grades go up?",
+        "tw": "你希望你家附近有這樣的店嗎？獎勵會讓你的成績進步嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "食品店的老闆提供獎品給好好上學讀書的小孩。",
+      "content": [
+        {
+          "text": "1. grade 分數。\nMy son is getting good grades this semester! 我兒子這學期分數不錯。\nGood for him! 真好!\nYeah, I think he finally realizes school is not a playground.\n對啊，我想他終於覺悟學校不是遊戲場。",
+          "time": null
+        },
+        {
+          "text": "2. school 學校。\nFor my son, school is an on-and-off thing. 對我兒子來說學校可去可不去。\nHe only goes to school when he feels like it. 他只有想上學時才去上。",
+          "time": null
+        },
+        {
+          "text": "3. report card 成績單。\nIs that good? 那樣好嗎?\nWell, I'm a work-from-home mom. 我是在家上班的媽媽。\nI don't mind. 我不介意。\nDo you look at his report card? 你看不看他的成績單?",
+          "time": null
+        },
+        {
+          "text": "4. test 考試。\nI do. He does well on all his tests. 我會看，他的考試成績都不錯。",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字你記住了嗎? grade分數 school學校 report card成績單 test考試"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the shop?",
+        "options": [
+          "a. The U.S.",
+          "b. Yemen",
+          "c. Taiwan"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What can kids bring to the man to get rewards?",
+        "options": [
+          "a. Lots of money",
+          "b. A report card",
+          "c. Their favorite snacks"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why do people on social media give the man money?",
+        "options": [
+          "a. To get good grades",
+          "b. To buy their favorite snacks",
+          "c. To help more kids get rewards"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
