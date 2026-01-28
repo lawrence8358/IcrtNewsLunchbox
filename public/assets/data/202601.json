@@ -1032,5 +1032,107 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260115-01",
+    "type": "國小",
+    "tag": [
+      "Arts",
+      "Character Education",
+      "Quality Education"
+    ],
+    "title": "Fake Famous Singer Sings “Sorry”",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260114NK.mp3",
+    "content": [
+      {
+        "en": "Everyone likes to see famous people. We see pictures and videos of them. They are everywhere! Some people see a famous person in real life. How exciting … Maybe they see Taylor Swift at their supermarket!!",
+        "tw": "通常大家都喜歡巧遇只在照片和影片裡面出現的名人。假如在真實生活中碰到，多半會很興奮！泰勒絲的粉絲假如在超市看到她，一定會尖叫。",
+        "time": null
+      },
+      {
+        "en": "A DJ was playing loud music at a club. It was dark. Many people were dancing. They were having fun!",
+        "tw": "一家暗暗的夜店正在大聲放音樂，很多人開心跳舞。",
+        "time": null
+      },
+      {
+        "en": "A man came in. He was wearing sunglasses and a big hoodie. His clothes were like Justin Bieber's clothes. His tattoos were like Justin Bieber's tattoos. Hey! Was he Justin Bieber?!",
+        "tw": "這時，一名男子走了進來。他戴著太陽眼鏡，穿著寬鬆的帽Ｔ。他的穿著跟身上的刺青都跟小賈斯汀一模一樣！他不會是小賈斯汀吧？",
+        "time": null
+      },
+      {
+        "en": "The man’s friends said he was Justin Bieber! They said he wanted to sing a song. Yes! The DJ was excited!",
+        "tw": "那名男子的朋友說他就是小賈斯汀，還說他想演唱一首歌！夜店的DJ 好興奮！",
+        "time": null
+      },
+      {
+        "en": "The man sang a song called \"Sorry.\" He sang like Justin Bieber. He moved like Justin Bieber. Wow! People took pictures and videos. They were seeing a famous person in real life!",
+        "tw": "那名男子唱了小賈斯汀的〈Sorry〉。他聲音就像本人一樣，而且連表演時的動作都一樣。大家紛紛拿出手機拍照。",
+        "time": null
+      },
+      {
+        "en": "But later, the DJ got bad news. The man was not Justin Bieber! He was a fake Justin Bieber!",
+        "tw": "後來，DJ 聽到壞消息。那個男子根本不是小賈斯汀，而是假扮的小「假」斯汀！",
+        "time": null
+      },
+      {
+        "en": "Will this fake Justin Bieber say \"Sorry\" to the DJ?",
+        "tw": "這位冒牌小賈斯汀會對DJ說「對不起」嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "撲朔迷離的小賈斯汀，讓人真假分不清。",
+      "content": [
+        {
+          "text": "1. sing 唱歌，dance 跳舞。\nAre you going to the club tonight? 你今晚要去夜店嗎?\nI am. How can I miss the singing and dancing? 要啊，我怎麼會錯過唱歌跳舞?",
+          "time": null
+        },
+        {
+          "text": "2) music 音樂。\nAnd the good food. 還有美食。\nExactly 正是。\nI’ll bring earplugs too. 我也會帶耳塞。\nThe music can be very loud! 音樂有可能太吵。\nGood idea! 好主意。",
+          "time": null
+        },
+        {
+          "text": "3) sunglasses 太陽眼鏡。\nI also plan to wear sunglasses, to look cool. 我也打算戴太陽眼鏡，看起來才酷。\nSo people might think you’re a secret star? 這樣大家就會以為你是祕密明星?\nYeah. 是。",
+          "time": null
+        },
+        {
+          "text": "4) picture 照片。\nJust don’t trip when you’re dancing; the picture won’t look cool.\n可別在跳舞時絆倒，相片就不酷了。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起來讀單字。\nSing 唱歌 dance 跳舞 music 音樂 sunglasses 太陽眼鏡 picture照片"
+    },
+    "quiz": [
+      {
+        "question": "1. Where was everyone dancing?",
+        "options": [
+          "a. A supermarket",
+          "b. A club",
+          "c. Everywhere"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What was the man wearing?",
+        "options": [
+          "a. Justin Bieber's clothes",
+          "b. Sunglasses and a big hoodie",
+          "c. A black T-shirt"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Who said the man was Justin Bieber?",
+        "options": [
+          "a. His friends",
+          "b. The DJ",
+          "c. Tay Tay"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
