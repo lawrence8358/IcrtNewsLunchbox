@@ -1796,5 +1796,102 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251223-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Health and Physical Education",
+      "Character Education"
+    ],
+    "title": "Man Pulls Tons with His Teeth",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251222NK.mp3",
+    "content": [
+      {
+        "en": "There's a very strong man in Egypt. He pulled a 279-ton train. He used his teeth to pull it!",
+        "tw": "在埃及有一個超級強壯的男人。他可以用牙齒拖動一列 279 噸重的火車！",
+        "time": null
+      },
+      {
+        "en": "People love him. He's famous! Kids run after him in the street! They call him \"strong man.\"",
+        "tw": "他很有名，大家都很喜歡他！小朋友在街上看到他都會追著他跑。大家都叫他「大力士」。",
+        "time": null
+      },
+      {
+        "en": "The man wanted to do something more amazing than pulling the train with his teeth. But first he had to get ready. He exercised for six hours every day. He ate twelve eggs, two chickens, and five kilograms of fish every day.",
+        "tw": "這位大力士想做更厲害的表演，但他得先做好準備。他每天除了運動六個小時之外，還會吃十二顆蛋、兩隻雞，跟五公斤的魚。",
+        "time": null
+      },
+      {
+        "en": "Then the man was ready. He wanted to pull a 700-ton ship. He used his teeth again! He pulled and pulled! He grunted and yelled! And the man pulled the ship!",
+        "tw": "他終於準備好了。這一次，他想拉動一艘 700 噸的船。他咬緊牙關用力的拉啊拉！最後，他真的把船拉動了！",
+        "time": null
+      },
+      {
+        "en": "Then the man did something more amazing than pulling one ship with his teeth. He pulled two ships with his teeth! Together, the two ships weighed 1,150 tons!",
+        "tw": "接著，他竟然用牙齒拉動兩艘船，加起來有 1,150 噸那麼重！",
+        "time": null
+      },
+      {
+        "en": "What is the most amazing thing? He kept all his teeth! What will this strong man with strong teeth pull next?",
+        "tw": "最令人驚訝的是什麼？他所有的牙齒都還在！這位擁有強壯牙齒的大力士接下來會拉什麼呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "埃及這位大力士喜歡挑戰自己的牙齒和力氣。",
+      "content": [
+        {
+          "text": "1. strong 強壯的。\nI've made a decision. 我做了一個決定。\nI'll only eat food that makes me strong. 我將只吃會讓我強壯的食物。",
+          "time": null
+        },
+        {
+          "text": "2. egg 雞蛋。\nOh, like what? Magic beans? 比如說什麼，魔術豆嗎?\nNo, chicken and eggs. 不是，雞肉跟雞蛋。\nDon't forget fish. 別忘了吃魚。",
+          "time": null
+        },
+        {
+          "text": "3. every day 每天。\nYou're right, fish too. 你說得對，也要吃魚。\nSo do you plan to eat them every day? 所以你打算每天都吃那些?\nOf course. 當然。",
+          "time": null
+        },
+        {
+          "text": "4. together 在一起。\nAnd we'll also exercise together.我們也要一起做運動。\nWait, you mean you and I together? 等一等? 你跟我一起?\nYeah, don't you want to get strong? 對啊，你不想變強壯嗎?\nNo, I hate exercising! 不想! 我討厭運動。",
+          "time": null
+        }
+      ],
+      "postscript": "我們來讀讀單字。\nstrong強壯的 egg雞蛋 every day每天 together在一起"
+    },
+    "quiz": [
+      {
+        "question": "1. What do kids call the man?",
+        "options": [
+          "a. Big Man",
+          "b. Strong Man",
+          "c. Amazing Man"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How heavy was one of the ships?",
+        "options": [
+          "a. 100 tons",
+          "b. 700 tons",
+          "c. 1,150 tons"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did the man eat twelve of every day?",
+        "options": [
+          "a. Eggs",
+          "b. Chickens",
+          "c. Fish"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
