@@ -2203,5 +2203,106 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251229-01",
+    "type": "國小",
+    "tag": [
+      "Family Education",
+      "Life Education"
+    ],
+    "title": "Taiwan's Drivers Help Baby Get to Hospital Safely",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251226NK.mp3",
+    "content": [
+      {
+        "en": "Babies start out very small. They are so small that they need lots of care and help.",
+        "tw": "小嬰兒剛出生時都很小，他們需要很多照顧與幫忙。",
+        "time": null
+      },
+      {
+        "en": "A baby was born too early in Tainan. She was in a hospital. Doctors were worried. She could not breathe well. She needed more care.",
+        "tw": "在台南的一間醫院裡，有一個寶寶提早出生了。醫生們很擔心，因為她呼吸不順暢，需要比較多照顧。",
+        "time": null
+      },
+      {
+        "en": "The baby had to go to another hospital. She was going by ambulance. But the hospital was three hours away. It was in Linkou!",
+        "tw": "後來，寶寶必須到另一家在林口的醫院就診，但那家醫院很遠，坐救護車要三個小時才能到！",
+        "time": null
+      },
+      {
+        "en": "The long ambulance ride would be hard for the baby. The ambulance might have to move for other cars. She could be hurt then. She needed more help.",
+        "tw": "這麼長的路程對寶寶來說很危險。救護車在路上需要不停的閃躲其他車輛，而寶寶可能會因為這樣的晃動而受傷。",
+        "time": null
+      },
+      {
+        "en": "The mom wrote a social media post. She asked people driving in Taiwan to let the baby's ambulance go first.",
+        "tw": "於是，寶寶的媽媽在社群平台上發文，呼籲全台灣的駕駛看到救護車時要讓路。",
+        "time": null
+      },
+      {
+        "en": "Almost a million people saw the post! Everyone wanted to help. The police helped! They drove in front of the ambulance. Cars let the ambulance go first. They helped the baby!",
+        "tw": "將近一百萬人看到了那篇文章！大家都想一起幫助這個小寶寶。警察們開車在救護車前面開路，路上的車輛也都為救護車讓路！",
+        "time": null
+      },
+      {
+        "en": "The baby got to the hospital. She wasn't hurt! Now she's growing well. It is thanks to her mom, her doctors, and Taiwan's helpful drivers!",
+        "tw": "寶寶順利到達醫院，沒有受傷！她現在健康成長。這都要感謝她的媽媽、醫生以及台灣熱心的駕駛們！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "在媽媽的呼籲下，駕駛紛紛讓路給小嬰兒救護車!",
+      "content": [
+        {
+          "text": "1. post 訊息.\nDid you see the social media post? 有看到社群媒體上的訊息嗎?\nNo, what happened? 沒有，怎麼了?\nA baby was born on the train! 有個嬰兒在火車上出生!",
+          "time": null
+        },
+        {
+          "text": "2. doctor 醫生.\nOn the train from Taitung to Taipei! 從台東到台北的火車!\nWow, did the mother get any help? 哇，有沒有人幫媽媽?\nYeah, a doctor just happened to be on that train. 有，有醫生剛好在火車上。",
+          "time": null
+        },
+        {
+          "text": "3. get to 到達.\nEverything happened very fast! 一切都發生得好快! They said mom and baby got to the hospital. 他們說媽媽跟寶寶都到醫院了。",
+          "time": null
+        },
+        {
+          "text": "4. well 很好地.\nThey are both doing well. 兩個人的狀況都很好。That's very nice! 真好!",
+          "time": null
+        }
+      ],
+      "postscript": "來跟我一起讀單字。post訊息 doctor醫生 get to到達 well很好地"
+    },
+    "quiz": [
+      {
+        "question": "1. Where was the baby born?",
+        "options": [
+          "a. Tainan",
+          "b. Taipei",
+          "c. Linkou"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How long was the baby's ambulance ride?",
+        "options": [
+          "a. 2 hours",
+          "b. 3 hours",
+          "c. 4 hours"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did the mom ask drivers to do?",
+        "options": [
+          "a. Go to the hospital with her baby",
+          "b. Like her social media post",
+          "c. Let her baby's ambulance go first"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
