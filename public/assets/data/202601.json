@@ -1235,5 +1235,98 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260129-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Singapore Has Too Much Trash Ash",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260128NK.mp3",
+    "content": [
+      {
+        "en": "Every country has too much trash. Singapore does too. Singapore is very small. Fifty-two Singapores can go into Taiwan! And it has more than six million people. There is almost no space for trash!",
+        "tw": "垃圾問題讓很多國家頭痛，新加坡也不例外。新加坡是個小國家，卻有六百萬人口，實在沒有地方放垃圾。",
+        "time": null
+      },
+      {
+        "en": "Many countries burn trash to make electricity. Singapore does this with four plants. It is number five in the world! Four countries make more electricity with trash. But they do this with many more plants.",
+        "tw": "有一些國家用焚燒垃圾來發電，新加坡就有四座這樣的焚化爐，並且很有效率，雖然數量比別的國家少，發電量卻很高。",
+        "time": null
+      },
+      {
+        "en": "Burning makes trash smaller. In Singapore, nineteen million kilograms of trash becomes two million kilograms of ash each day.",
+        "tw": "焚化垃圾可以讓它的體積大為縮減，新加坡每天一千九百萬公斤的垃圾焚化之後，只剩下兩百萬公斤的灰。",
+        "time": null
+      },
+      {
+        "en": "Countries put trash and ash into landfills. Singapore has one landfill. It is for ash. But it will be full in nine years. Now Singapore wants to find ways to use ash.",
+        "tw": "也有的國家用掩埋法來處理垃圾跟灰燼，新加坡也這樣做，不過它只有一個掩埋場，再過九年就要滿了。它必須想別的辦法來處理垃圾焚化之後產生的灰。",
+        "time": null
+      },
+      {
+        "en": "But Singapore has more and more trash every year. Experts say its people and companies need to make less trash. That can help a lot.",
+        "tw": "專家說勸導人們減少垃圾的數量也是一個可行的辦法。",
+        "time": null
+      },
+      {
+        "en": "Taiwan makes electricity from trash too. But we also make too much trash. Our landfills are also getting full. Let's all make less trash!",
+        "tw": "台灣也從垃圾中發電。但我們也製造了太多的垃圾。我們的垃圾掩埋場也快滿了。讓我們大家一起減少垃圾吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "新加坡正在努力想辦法，解決越來越嚴重的垃圾問題。",
+      "content": [
+        {
+          "text": "1. less 較少的。The newspaper says we have much less trash these days.報紙說我們現在的垃圾比以前少很多。Really? Compared to 100 years ago? 真的嗎，跟一百年前比嗎?People are trying to cut waste. 大家在減少廢物。",
+          "time": null
+        },
+        {
+          "text": "2. country 國家。But look at all those fast-fashion stores. 但是妳看那些快時尚商店。They are in many countries, 好多國家都有，and people just buy things and throw them away. 大家就一直買，然後扔掉。",
+          "time": null
+        },
+        {
+          "text": "3. kilogram 公斤。Didn't you just buy 9 shirts yesterday? 你不是昨天才買九件襯衫?Hey, I gained 7 kilograms! 我胖了七公斤! What can I do? 能怎麼辦?",
+          "time": null
+        },
+        {
+          "text": "4. need 需要。All you need to do is cut down on French fries and ice cream.你只需要少吃薯條跟冰淇淋就可以了。",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字很有用喔。less較少的 country國家 kilogram公斤 need需要"
+    },
+    "quiz": [
+      {
+        "question": "1. How many plants burn trash to make electricity in Singapore?",
+        "options": [
+          "a. Four plants",
+          "b. Five plants",
+          "c. Fifty-two plants"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What does Singapore put in its landfill?",
+        "options": [
+          "a. Trash",
+          "b. Ash",
+          "c. Space"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do experts say people and companies need to do?",
+        "options": [
+          "a. Make more trash",
+          "b. Make less trash",
+          "c. Burn trash"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
