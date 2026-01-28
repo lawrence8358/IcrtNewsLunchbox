@@ -1134,5 +1134,106 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260121-01",
+    "type": "國小",
+    "tag": [
+      "Technology Education",
+      "Technology"
+    ],
+    "title": "Doing Something New Is Easier with Help",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260120NK.mp3",
+    "content": [
+      {
+        "en": "Do you want to do something new? Sometimes it is hard to do new things. It is easier to do new things with help at first.",
+        "tw": "你想嘗試新的活動嗎？有時候想做點新鮮事並不容易，假如有人在幫忙就會輕鬆很多。",
+        "time": null
+      },
+      {
+        "en": "Some older adults wanted to do something new. But they needed help. So high school students in Yunlin helped them!",
+        "tw": "在雲林，有一些長者也想嘗試新東西，但他們需要協助，於是一群高中生來幫忙！",
+        "time": null
+      },
+      {
+        "en": "The students know how to make videos with AI. They helped the adults make many AI videos. Everyone had lots of fun!",
+        "tw": "這些學生一步一步教大人怎麼用 AI 做影片！",
+        "time": null
+      },
+      {
+        "en": "One man had always wanted to dance on stage. But he cannot dance. In his video, he danced in a big dance contest. Watching the video made him happy.",
+        "tw": "一名不會跳舞的男子一直夢想在舞台上大展身手！他做的AI 影片，讓他終於能夠參加舞蹈比賽，讓他非常高興！",
+        "time": null
+      },
+      {
+        "en": "Other adults made rap music videos! Using AI, they rapped in English in their videos. Others danced with K-pop dancers in their videos!",
+        "tw": "還有一些人做了饒舌音樂影片，用英文唱饒舌歌，也有人選擇跟K-pop 舞者一起跳舞。",
+        "time": null
+      },
+      {
+        "en": "Some adults had wild animals in their videos. One walked with tigers! Do not try this in real life!",
+        "tw": "還有人甚至在影片裡跟老虎一起散步！當然，在現實生活千萬不要這麼做!",
+        "time": null
+      },
+      {
+        "en": "Thanks to the students, more people can use AI now. Do you know how to do something others want to do? Would you like to help someone too?",
+        "tw": "多虧了這些學生，現在有更多人可以使用人工智慧了。你知道如何做別人想做的事情嗎？你也會想幫助別人嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "AI的用途廣泛，讓很多年紀較大的長者躍躍欲試，但是他們需要幫忙。",
+      "content": [
+        {
+          "text": "1. how 如何。 Can you show me how to make videos using AI? 你可以教我怎麼用AI作影片嗎? I thought you'd never ask. 我以為你永遠不會問呢。",
+          "time": null
+        },
+        {
+          "text": "2. easier 更容易的。 It's actually quite easy. 其實滿簡單的。 With your help, I bet it'll be even easier. 有你幫忙，我打賭一定更簡單。Oh, trying to butter me up? 嘴巴這麼甜喔?",
+          "time": null
+        },
+        {
+          "text": "3. student 學生。 So what would you like to make? 所以你想做什麼呢? I want the video to show me singing with Taylor Swift. 影片裡要有我跟泰勒絲合唱。 Wow, for your students? 哇，給你的學生看嗎? Yeah.對。",
+          "time": null
+        },
+        {
+          "text": "4. fun 樂趣。 That would be lots of fun. 那會滿好玩的。 I think so too! 我也覺得!",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字? how如何 easier更容易的 student學生 fun樂趣"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do the students go to high school?",
+        "options": [
+          "a. Yunlin",
+          "b. Miaoli",
+          "c. Yilan"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Who helped people make AI videos?",
+        "options": [
+          "a. Teachers",
+          "b. Students",
+          "c. Older adults"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Which wild animals were in a video?",
+        "options": [
+          "a. Turtles",
+          "b. Owls",
+          "c. Tigers"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
