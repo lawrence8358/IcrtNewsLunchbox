@@ -2304,5 +2304,112 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20251230-01",
+    "type": "國小",
+    "tag": [
+      "Decent Work and Economic Growth",
+      "Sustainable Cities and Communities",
+      "Human Rights Education",
+      "Environmental Education",
+      "Gender Equality Education",
+      "Marine Education",
+      "Character Education",
+      "Social Studies"
+    ],
+    "title": "Women Go from Fishers to Farmers",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251229NK.mp3",
+    "content": [
+      {
+        "en": "In an island country, some women fished. They fed their families the fish they caught. They sold their extra fish.",
+        "tw": "在一個島國上，一群婦女靠捕魚維生。她們抓到的魚可以餵飽家人，多的魚可以拿去賣。",
+        "time": null
+      },
+      {
+        "en": "Then a big ship hit rocks near the island! Tons of oil came out of the ship! The ocean turned black!",
+        "tw": "有一天，一艘大船撞上海邊的礁石。大量的燃料油漏出來了，整片海洋都變黑了！",
+        "time": null
+      },
+      {
+        "en": "The women could not fish. They could not feed their families. The women were worried. But they did not give up!",
+        "tw": "沒辦法再去捕魚了，家人也會餓肚子。這群婦女都很擔憂，但她們沒有放棄。",
+        "time": null
+      },
+      {
+        "en": "One woman showed people how to clean the ocean. They put hair and sugarcane leaves in long nets. They used the nets to catch the oil. But there was too much oil.",
+        "tw": "一位婦女帶領大家一起清理海洋的油汙。她們把頭髮跟甘蔗葉放進長長的網袋裡，用這些網袋來吸油。但海上的油太多了，清不乾淨！",
+        "time": null
+      },
+      {
+        "en": "How could the women feed their families? That woman had an idea. They could become farmers! She got some land for a farm.",
+        "tw": "那這些婦女要怎麼養家呢？那位婦女想到解決辦法，就是去當農夫，種田維生！於是，她取得了一些農地。",
+        "time": null
+      },
+      {
+        "en": "The women worked hard. Now, five years later, the farm is big. The women grow papayas, bananas, onions, taro, bok choy, and more. They feed their families the fruit and vegetables they grow. They sell their extra fruit and vegetables.",
+        "tw": "這群婦女開始努力耕種。五年來她們在農地上種出了木瓜、香蕉、洋蔥、芋頭、小白菜等等農作物。這些產品除了能讓家人溫飽，多的也能拿去賣錢！",
+        "time": null
+      },
+      {
+        "en": "The women thought they would always fish. But they had to do something new. And now they are happy farmers!",
+        "tw": "婦女們原本以為她們會一直捕魚。但她們必須做些新的事情。現在她們是快樂的農夫！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "本來是漁民的一群婦女，決定改行當農夫，結果大為成功。",
+      "content": [
+        {
+          "text": "1. too much 太多。\nHere, have two bananas. 來，給你兩隻香蕉。\nThank you, I like bananas. 謝謝，我喜歡香蕉。\nI can bring you a bunch if you want. 你要的話我可以帶給你一整串。\nNo, that would be too much. 不用，那樣太多了。",
+          "time": null
+        },
+        {
+          "text": "2. farmer 農夫。\nSo you’re still a happy farmer? 所以你仍然是個快樂農夫?\nI sure am, even though I’m also an office worker.\n我的確是，雖然我也是個上班族。",
+          "time": null
+        },
+        {
+          "text": "3. grow 種植。\nWhat else do you grow? 你還種些什麼?\nTomatoes and cucumbers. 蕃茄跟小黃瓜。",
+          "time": null
+        },
+        {
+          "text": "4. extra 多出來的。\nSometimes I sell extra ones to my neighbors. 有時候我把多的賣給鄰居。\nAt a very cheap price. 價錢特別便宜。",
+          "time": null
+        }
+      ],
+      "postscript": "你剛剛學到哪些單字?\ntoo much太多 farmer農夫 grow種植 extra多出來的"
+    },
+    "quiz": [
+      {
+        "question": "1. What came out of the ship?",
+        "options": [
+          "a. Oil",
+          "b. Water",
+          "c. Fish"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What did the women do first?",
+        "options": [
+          "a. Became farmers",
+          "b. Cleaned the ocean",
+          "c. Sold extra fruit"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do the women grow?",
+        "options": [
+          "a. Apples",
+          "b. Rice",
+          "c. Bok choy"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
