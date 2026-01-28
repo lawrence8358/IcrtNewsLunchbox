@@ -927,5 +927,110 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260114-01",
+    "type": "國小",
+    "tag": [
+      "Sustainable Cities and Communities",
+      "Responsible Consumption and Production",
+      "Multicultural Education",
+      "International Education",
+      "Social Studies",
+      "Arts"
+    ],
+    "title": "A Beauty Contest for Water Buffalo",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260113NK.mp3",
+    "content": [
+      {
+        "en": "Water buffalo look like very big dark cows. Maybe you have seen them in Taiwan. Do you think they are beautiful? Well, one country has beauty contests for them!",
+        "tw": "水牛看起來像顏色很深、很大隻的牛。你也許在台灣看過牠們！你覺得水牛漂亮嗎？有一個國家會幫水牛辦選美比賽喔！",
+        "time": null
+      },
+      {
+        "en": "The contests are in Thailand. There are small contests. And there is a big contest at a water buffalo festival every year.",
+        "tw": "在泰國，有些地方會舉辦小型的水牛選美比賽。也有一年一度的大型水牛節選美大賽！",
+        "time": null
+      },
+      {
+        "en": "At this contest, some water buffalo wear beautiful hats and blankets. Others have colorful skin. Judges look at them. Do they have big horns? Are their feet nice? Are their bodies strong?",
+        "tw": "在比賽中，有些水牛會戴上漂亮的帽子或是披上毯子，也有一些水牛的皮膚塗上顏色。評審會仔細看這些水牛的犄角大不大？身體強壯嗎？",
+        "time": null
+      },
+      {
+        "en": "Farmers take good care of these water buffalo. Some get a bath every day. They take vitamins. They eat nice food like corn and soybeans. Most other water buffalo eat grass.",
+        "tw": "農夫平時會細心照顧這些要參賽的水牛，幫他們天天洗澡。跟一般只吃草的水牛不同，要去比賽的水牛會吃維他命、玉米跟黃豆！",
+        "time": null
+      },
+      {
+        "en": "Farmers can sell contest winners for a lot of money. One farmer sold a contest winning buffalo for 18 million Taiwan dollars!",
+        "tw": "如果水牛在比賽中得獎，就可以賣到很高的價錢。有一位農夫曾經把得獎水牛賣到一千八百萬台幣！",
+        "time": null
+      },
+      {
+        "en": "Long ago, water buffaloes helped farmers. They did a lot of very hard work. Now, machines do this work.",
+        "tw": "很久以前，水牛會幫農夫耕田。現在，這些辛苦的工作都交給機器了！",
+        "time": null
+      },
+      {
+        "en": "And now there are water buffalo beauty contests!",
+        "tw": "現在還有水牛選美比賽呢！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "要贏得泰國的水牛選美大賽，很不簡單。",
+      "content": [
+        {
+          "text": "1. winner 贏家.\nGuess which country is the biggest winner in beauty contests.\n猜猜哪個國家是選美比賽最大贏家。\nThe United States? 是美國嗎?\nNo, it’s Venezuela. 不對，是委內瑞拉。",
+          "time": null
+        },
+        {
+          "text": "2. beautiful 美麗的.\nI don’t know where it is. 我不知道它在哪裡?\nIt’s in South America. 在南美洲。\nSo the contest is about being the most beautiful? 所以選美比賽是看誰最漂亮?\nI don’t know. 我也不知道。",
+          "time": null
+        },
+        {
+          "text": "3. take care of 照顧.\nBut I think being beautiful means taking care of your health.\n不過我覺得好好照顧自己的健康就是美。\nI do. 我都有喔。",
+          "time": null
+        },
+        {
+          "text": "4. every day 每天.\nI eat well every day, and I take vitamins. 我每天都吃得很好，也吃維他命。",
+          "time": null
+        }
+      ],
+      "postscript": "winner贏家 beautiful美麗的 take care of照顧 every day每天"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the beauty contest?",
+        "options": [
+          "a. Taiwan",
+          "b. Turkey",
+          "c. Thailand"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How much did a farmer sell a contest winner for?",
+        "options": [
+          "a. 8 million Taiwan dollars",
+          "b. 18 million Taiwan dollars",
+          "c. 80 million Taiwan dollars"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Who did the water buffalo help long ago?",
+        "options": [
+          "a. Farmers",
+          "b. Machines",
+          "c. Firefighters"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
