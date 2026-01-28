@@ -1,5 +1,116 @@
 [
   {
+    "id": "20260101-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Responsible Consumption and Production",
+      "Climate Action",
+      "Environmental Education",
+      "Character Education",
+      "Life Education",
+      "Integrative Activities"
+    ],
+    "title": "Making a Good Change in 2026",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251231NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: It is 2026! Happy New Year! Crowd: Happy New Year!!",
+        "tw": "Narrator: 現在是 2026 年！新年快樂喔！",
+        "time": null
+      },
+      {
+        "en": "Every New Year, many people try to do something for one year. They want to make a good change in their lives. Do you want to try this? Here are some ideas!",
+        "tw": "每到新的一年，都會有很多人許下新年新希望。為了讓生活變得更好，他們會訂下一個目標，並且持續執行一整年。你也想試試看嗎？",
+        "time": null
+      },
+      {
+        "en": "You can try to be healthier. How? Eat more fruits and vegetables every day! Or drink more water every day!",
+        "tw": "你可以試著變得更健康！你可以每天多吃一點蔬菜水果，或是多喝一點水！",
+        "time": null
+      },
+      {
+        "en": "Or play a sport you like every week. Or play a new sport! Join a team, make new friends, and feel great!",
+        "tw": "你也可以每星期都做你喜歡的運動，或是學一種新運動，加入球隊，認識新朋友。這樣不僅可以讓身體更健康，心情也會變好！",
+        "time": null
+      },
+      {
+        "en": "You can be neater. How? Make your bed every morning. Or give your old toys and clothes to kids who need them.",
+        "tw": "你還可以變得更乾淨整齊。例如每天早上折被子，或是把不用的玩具和衣服送給需要的小朋友。",
+        "time": null
+      },
+      {
+        "en": "You can help the Earth. How? Use less plastic. Or get a plant! Water it and watch it grow!",
+        "tw": "幫助地球也不錯喔！少用一點塑膠，或是種一盆植物，看著它長大。",
+        "time": null
+      },
+      {
+        "en": "There are other things you can do. Read one book every month! Or write what you think and feel in a notebook. Or try a fun hobby!",
+        "tw": "還有很多別的新年新希望，像是每個月讀一本書，寫寫日記記錄你的想法跟感受，或者培養新的興趣！",
+        "time": null
+      },
+      {
+        "en": "Try something that will make a good change in your life. Do it a lot in 2026! You will feel good and have a happier year!",
+        "tw": "試著做些能讓你的生活有良好改變的事吧。在2026年多多努力實踐！你會感覺良好並擁有更快樂的一年！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "新的一年來臨，你可以決心做很多新的事。",
+      "content": [
+        {
+          "text": "1. want 想要.\nWhat's your New Year's resolution, Nancy? 你的新年決心是什麼，南西?\nI want to learn how to say \"thank you\" in 10 languages!",
+          "time": null
+        },
+        {
+          "text": "2. join 加入.\nAnd I'll join a group of hot pot eaters!\nThat sounds…not so healthy.",
+          "time": null
+        },
+        {
+          "text": "3. every month 每個月.\nOh, we'll only get together once every month, I think.\nWhat about you? 你呢?",
+          "time": null
+        },
+        {
+          "text": "4. change 改變.\nI'll make a good change in my life.\nBy doing what…?\nBy feeling great about me!",
+          "time": null
+        }
+      ],
+      "postscript": "新年你想做什麼呢? want想要 join加入 every month每個月 change改變"
+    },
+    "quiz": [
+      {
+        "question": "1. How can you try to be healthier this year?",
+        "options": [
+          "a. Eat more candy",
+          "b. Drink lots of coffee",
+          "c. Drink more water"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How can you be neater this year?",
+        "options": [
+          "a. Make your bed",
+          "b. Play a new sport",
+          "c. Get a plant"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How can you help the Earth?",
+        "options": [
+          "a. Join a sports team",
+          "b. Drink more water",
+          "c. Use less plastic"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20260107-01",
     "type": "國小",
     "tag": [
