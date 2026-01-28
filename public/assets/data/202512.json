@@ -2411,5 +2411,106 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20251231-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure"
+    ],
+    "title": "Fireworks for the New Year",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251230NK.mp3",
+    "content": [
+      {
+        "en": "It is New Year's Eve! Tomorrow is a new year!",
+        "tw": "今晚是跨年夜！明天就是嶄新的一年了！",
+        "time": null
+      },
+      {
+        "en": "Taipei is having a big New Year's Eve party tonight. Thousands of people are going! There will be famous people and great music. And Taipei 101 will have beautiful fireworks!",
+        "tw": "台北今晚有一場超大的跨年派對，有好幾千人要參加！除了會有很多藝人出席，也會有好聽的音樂。最棒的是，台北 101 會有漂亮的煙火秀！",
+        "time": null
+      },
+      {
+        "en": "Did you know fireworks are more than 2,000 years old? Fireworks started in China. People threw bamboo into a fire and … BANG! The noise was very loud!",
+        "tw": "最早的煙火開始在兩千多年前的中國。以前的人把竹子丟進火堆裡，發現會發出「劈劈啪啪」的聲音，讓大家又驚又喜。",
+        "time": null
+      },
+      {
+        "en": "Fireworks went to Europe around 600 years ago. They were orange. Later they got new colors like green, red, yellow, and white!",
+        "tw": "大約六百年前，煙火傳到了歐洲。一開始只有橘色的煙火，但後來慢慢出現了綠色、紅色、黃色跟白色！",
+        "time": null
+      },
+      {
+        "en": "Taipei's New Year's Eve fireworks came 21 years ago. That was Taipei 101's grand opening day!",
+        "tw": "台北 101 跨年煙火是在 21 年前開始，那天也是 101 正式開幕的日子。",
+        "time": null
+      },
+      {
+        "en": "Taipei 101's fireworks shows are big! They are loud! They are colorful! Nineteen years ago, the show had 9,000 fireworks. Sixteen years ago, it had 16,000. Fifteen years ago, it had 30,000!",
+        "tw": "101 的煙火秀非常壯觀且繽紛。十九年前的煙火秀用了九千發煙火，十六年前是一萬六千發，之後繼續增加，十五年前放了三萬發！",
+        "time": null
+      },
+      {
+        "en": "Enjoy Taipei 101's famous fireworks tonight! See you next year!",
+        "tw": "今晚好好享受台北101的著名煙火！明年見！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台北101的跨年煙火，每年都有新花樣，慶祝新年。",
+      "content": [
+        {
+          "text": "1. color 顏色. I love fireworks! 我喜歡煙火! You feel the whole world is celebrating!你會覺得整個世界都在慶祝! I love the shining colors in the night sky.我喜歡夜空中亮晶晶的顏色.",
+          "time": null
+        },
+        {
+          "text": "2. red 紅色，green 綠色. Colors like red and green.比如說紅色跟綠色.",
+          "time": null
+        },
+        {
+          "text": "3. New Year's Eve 除夕. Why do we only have fireworks shows on New Year's Eve?為什麼我們只有除夕放煙火? That's not true. We have that on Valentine's Day too.不對，情人節也放.",
+          "time": null
+        },
+        {
+          "text": "4. more than 比較多. We should have more than 2 fireworks shows a year. 應該比一年放兩次多。Let's have it every weekend! 我們來每個周末都放吧! Yeah, when you become the mayor. 好啊，你當了市長之後.",
+          "time": null
+        }
+      ],
+      "postscript": "你是不是已經記住今天的單字? color顏色 red紅色，green綠色 New Year's Eve除夕 more than比較多"
+    },
+    "quiz": [
+      {
+        "question": "1. What were the first fireworks made of?",
+        "options": [
+          "a. Bamboo",
+          "b. China",
+          "c. Colors"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What did fireworks get in Europe?",
+        "options": [
+          "a. A grand opening",
+          "b. Orange",
+          "c. New colors"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How many fireworks did Taipei 101's show have 15 years ago?",
+        "options": [
+          "a. 9,000",
+          "b. 16,000",
+          "c. 30,000"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
