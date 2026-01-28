@@ -111,6 +111,104 @@
     ]
   },
   {
+    "id": "20260102-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Technology Education",
+      "Technology"
+    ],
+    "title": "Taoyuan's New Library Has Robots",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260101NK.mp3",
+    "content": [
+      {
+        "en": "Taoyuan has a new library. It has 23,000 books. And it has robots and self-driving vehicles!",
+        "tw": "桃園有一間新的圖書館。這間圖書館有兩萬三千本書，而且還有機器人跟自動駕駛車！",
+        "time": null
+      },
+      {
+        "en": "But the robots are not robots with a head, arms, and legs. They are robot arms!",
+        "tw": "不過，這些機器人不是完整的機器人，而是機械手臂！",
+        "time": null
+      },
+      {
+        "en": "These robot arms move. And they see! They see with cameras. The arms can find books on shelves. The arms work with the self-driving vehicles. They work together using AI.",
+        "tw": "這些機械手臂不但會動，還看得見。它們的眼睛是攝影機，可以找到書架上的書。機械手臂跟自駕車靠著人工智慧合作無間。",
+        "time": null
+      },
+      {
+        "en": "At this library, people can choose books online. The robot arms find the books. They pick up the books. They put them on the self-driving vehicles. Then the vehicles take the books to the book pickup place. People get the books and take them home. This is so easy!",
+        "tw": "想要在這間圖書館借書，可以先在網路上選好，機械手臂會在圖書館裡找書，把書拿起來放到自駕車送到取書口，借書人就能把書帶回家，真的很方便！",
+        "time": null
+      },
+      {
+        "en": "The robot arms and self-driving vehicles also work to put books back on shelves. They do this at night. No one is in the library then.",
+        "tw": "機械手臂跟自駕車也會在晚上合作把書本放回書架，那時候圖書館裡沒人，不受干擾。",
+        "time": null
+      },
+      {
+        "en": "Taoyuan wants robot arms and self-driving vehicles in more libraries. Maybe more cities will get them too. So maybe you will see them in your library one day!",
+        "tw": "桃園希望在更多圖書館引進機械手臂和自駕車。也許更多城市也會有。所以也許有一天你會在自己的圖書館看到它們！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "神奇的機器手臂和自駕車，大大減少圖書館所需要的人力。",
+      "content": [
+        {
+          "text": "1. get 得到.\nI'm so hungry! 我好餓! When is the food coming? 什麼時候才上菜?\nHere it comes! 來了! Isn't it fun to get your food from a robot?\n由機器人送餐是不是很好玩?\nI'd say it's a bit scary.我覺得有點恐怖.",
+          "time": null
+        },
+        {
+          "text": "2. arm 手臂，leg 腿。\nLuckily, it doesn't have arms and legs. 還好它沒有手臂跟腿。\nYeah, I certainly don't want it touching my plates.對，我可不要它碰我的盤子。",
+          "time": null
+        },
+        {
+          "text": "3. take 拿。\nNow what? 現在是怎樣? Why is it just standing here? 它為什麼就站在這裡?\nI think it wants to take your plate.我想它要拿你的盤子。",
+          "time": null
+        },
+        {
+          "text": "4. can 能夠。How did it know I'm done? 它怎麼知道我吃完了?\nMaybe it can see from far away? 也許它老遠就能看到?\nNow that's scary! 那真的很恐怖!",
+          "time": null
+        }
+      ],
+      "postscript": "你想得到機器人的服務嗎? get得到 arm手臂, leg腿 take拿 can能夠"
+    },
+    "quiz": [
+      {
+        "question": "1. What does the library in Taoyuan have?",
+        "options": [
+          "a. Robot legs",
+          "b. Robot arms",
+          "c. Robot heads"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do the robots do when people choose books online?",
+        "options": [
+          "a. Find the books",
+          "b. Pick up cameras",
+          "c. Drive self-driving vehicles"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. When do the robots put books back on shelves?",
+        "options": [
+          "a. In the morning",
+          "b. In the afternoon",
+          "c. At night"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20260107-01",
     "type": "國小",
     "tag": [
