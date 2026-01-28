@@ -1996,5 +1996,116 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20251225-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies",
+      "Character Education"
+    ],
+    "title": "“Granny Claus” Makes 1000th Christmas Shoebox Gift",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251224NK.mp3",
+    "content": [
+      {
+        "en": "Santa: Ho-ho-ho! Merry Christmas!",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "Narrator: Everyone knows Santa Claus! But how about “Granny Claus”?",
+        "tw": "大家都認識聖誕老公公，但你認識「聖誕老奶奶」嗎？",
+        "time": null
+      },
+      {
+        "en": "Granny: Eh?!",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "Narrator: Well, that's not her real name. But she is a grandmother. She lives in Ireland. She makes gifts all year. She gives them to kids for Christmas … like Santa!",
+        "tw": "「聖誕老奶奶」不是她的真名，不過她真的是一位奶奶！這位住在愛爾蘭的奶奶一整年都在準備禮物。她在聖誕節把這些禮物送給小朋友，就跟聖誕老公公一樣！",
+        "time": null
+      },
+      {
+        "en": "Granny Claus works with a charity. It helps kids in Africa and Eastern Europe. It sends her gifts to them. She thinks every kid should have a Christmas gift!",
+        "tw": "聖誕老奶奶會跟一個慈善團體合作，把她的禮物送到非洲跟東歐。奶奶覺得每個小孩都應該在聖誕節收到禮物！",
+        "time": null
+      },
+      {
+        "en": "Granny Claus makes shoebox gifts. She puts colored pencils, notebooks, pens, candy, toys, and more in shoeboxes!",
+        "tw": "奶奶把彩色鉛筆、筆記本、原子筆、糖果、玩具等等放進禮物鞋盒裡面。",
+        "time": null
+      },
+      {
+        "en": "Santa's elves help him. Granny Claus's family and friends help her. Her six-year-old granddaughter is her best helper. Her supermarket helps too. It gives her candy for her shoeboxes!",
+        "tw": "聖誕老公公有小精靈會幫忙，而聖誕老奶奶也有很多好幫手！奶奶的親朋好友都會一起加入準備，當地的超市也會送奶奶糖果，讓她放進鞋盒裡。",
+        "time": null
+      },
+      {
+        "en": "Granny Claus makes 100 Christmas shoeboxes every year. This is her tenth year. She has made 1,000 kids happy!",
+        "tw": "聖誕老奶奶每年都做 100 個聖誕鞋盒。今年是她第十年準備禮物！",
+        "time": null
+      },
+      {
+        "en": "Does Granny Claus take a break after her shoeboxes are done? No-ho-ho, she starts making next year's shoebox gifts!",
+        "tw": "聖誕老奶奶做完鞋盒禮物後會休息嗎？不！她會開始製作明年的鞋盒禮物！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "耶誕老奶奶喜歡親手做禮物送給小朋友。",
+      "content": [
+        {
+          "text": "1. gift 禮物。\nI need to think about what gift to give my son. 我需要思考送我兒子什麼禮物。",
+          "time": null
+        },
+        {
+          "text": "2. toy 玩具。\nToys? 玩具如何?\nHe already has too many toys.他已經有太多玩具了。\nGoodies like chocolate, chips, or cookies? 好吃的比如說巧克力，洋芋片，餅乾?\nNo, bad for his teeth.不了，對牙齒不好。",
+          "time": null
+        },
+        {
+          "text": "3. give 給予。\nGee, you’re not making this easy. 你很難搞耶。\nI know, but how about giving him a Christmas card?\n我知道，但是送他耶誕卡怎麼樣?\nThat’s not a gift! 那不是禮物!",
+          "time": null
+        },
+        {
+          "text": "4. love 喜愛。\nA card is a gift. 卡片是禮物。\nNo, it’s not. You can’t play with it.不是，你不能玩卡片。\nA puppy, then.那送一隻小狗。\nOh, he’ll love that! 他會喜歡的!",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡什麼禮物呢?\ngift禮物 toy玩具 give給予 love喜愛"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does Granny Claus live?",
+        "options": [
+          "a. Ireland",
+          "b. Iceland",
+          "c. In Santa's house"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Who gets Granny Claus’ gifts?",
+        "options": [
+          "a. Kids in Asia",
+          "b. Kids in Australia",
+          "c. Kids in Africa"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How many shoebox gifts does Granny Claus make every year?",
+        "options": [
+          "a. 10 gifts",
+          "b. 100 gifts",
+          "c. 1,000 gifts"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
