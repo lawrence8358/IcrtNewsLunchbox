@@ -2107,5 +2107,101 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20251226-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Natural Sciences"
+    ],
+    "title": "Kids Make Windows Safe for Birds",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20251225NK.mp3",
+    "content": [
+      {
+        "en": "Oh, no! That beautiful bird is hurt! It flew into a shiny window. And it was flying fast! Ouch!",
+        "tw": "糟糕！那隻漂亮的鳥撞上窗戶後受傷了！小鳥飛得很快，一定非常痛。",
+        "time": null
+      },
+      {
+        "en": "In Nan'ao in Yilan, many birds were getting hurt in a park. They flew into the shiny windows on a building there. So the park had a day to help birds. Many kids came. They were 11 to 14 years old.",
+        "tw": "在宜蘭南澳的一個公園裡，很多鳥會一直撞到建築物上亮晶晶的窗戶。於是有人辦了一個幫助小鳥不再受傷的活動，吸引了很多十幾歲的孩子來參加。",
+        "time": null
+      },
+      {
+        "en": "Birds saw the sky and trees on the shiny windows. They wanted to fly there. So the kids drew on the windows. They used white markers.",
+        "tw": "鳥看到窗戶裡反射的天空跟樹木，以為真的有東西在那裡，所以想飛過去。為了解決這個問題，孩子們開始在窗戶上畫畫。",
+        "time": null
+      },
+      {
+        "en": "First, the kids drew small circles. There were about four centimeters between circles. Next, the kids drew flowers, trees, and animals.",
+        "tw": "首先，他們用白色的筆在玻璃窗上畫好多個小圈圈，接著又畫上花草、樹木跟各種動物。",
+        "time": null
+      },
+      {
+        "en": "Now, birds see the circles and drawings on the windows. They do not fly into the windows. The kids made the windows safe for birds! And they made the windows very cute! The kids are artists. They are heroes for birds too!",
+        "tw": "現在，鳥看到玻璃窗上的這些圖案就不會再撞上去了。孩子們讓窗戶變得更安全、更可愛！他們不只是藝術家，還是小鳥們的英雄！",
+        "time": null
+      },
+      {
+        "en": "There are many shiny windows around the world. Do you want to help birds? What do you want to draw on shiny windows?",
+        "tw": "世界各地有許多閃亮的窗戶。你想幫助鳥兒嗎？你想在閃亮的窗戶上畫些什麼？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "在玻璃窗上畫一些圖案，小鳥就不會撞上去了。",
+      "content": [
+        {
+          "text": "1. hurt 受傷的。\nHey, did that bird just fly and hit the window? 嘿，那隻鳥剛剛飛去撞窗戶嗎?\nYeah, but don't worry. 對，不過別擔心。\nIt didn't get hurt.牠沒受傷。",
+          "time": null
+        },
+        {
+          "text": "2. sky 天空。\nAnd it may come back and hit the window again. 而且牠還可能回來再撞。\nI wonder why. 我想知道為什麼。\nBirds see the sky in the window and think they can fly through. 鳥兒看到玻璃窗反射的天空，以為可以飛過去。",
+          "time": null
+        },
+        {
+          "text": "3. window 窗戶。\nPoor birds! 可憐的鳥。\nYeah, but people can help. 對，不過人類可以幫忙。\nHow? 怎麼幫?\nThey can hang a cloth over the window. 他們可以在窗戶上掛一塊布。",
+          "time": null
+        },
+        {
+          "text": "4. help 幫忙。\nThat's easy.那很容易。\nI'll help. 我會幫忙。\nI love birds. 我喜歡鳥類。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很好記，來跟我一起讀。\nhurt受傷的 sky天空 window窗戶 help幫忙"
+    },
+    "quiz": [
+      {
+        "question": "1. What do birds fly into?",
+        "options": [
+          "a. Dirty windows",
+          "b. Cute windows",
+          "c. Shiny windows"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How old were the kids?",
+        "options": [
+          "a. 7 to 10 years old",
+          "b. 11 to 14 years old",
+          "c. 15 to 16 years old"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did the kids draw first?",
+        "options": [
+          "a. Big trees",
+          "b. Small circles",
+          "c. Blue skies"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
