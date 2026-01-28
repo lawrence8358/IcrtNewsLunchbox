@@ -311,6 +311,113 @@
     ]
   },
   {
+    "id": "20260106-01",
+    "type": "國小",
+    "tag": [
+      "Climate Action",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Camping on Greenland's Ice",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260105NK.mp3",
+    "content": [
+      {
+        "en": "Ice sheets are very big and thick ice. They are not in an ocean. They are on land.",
+        "tw": "陸地上的冰原是厚厚的大冰塊構成的！",
+        "time": null
+      },
+      {
+        "en": "The Earth has two ice sheets. The bigger one is in Antarctica. The smaller one is in Greenland.",
+        "tw": "地球上有兩大冰原，最大的冰原在南極洲，另一個比較小的則在格陵蘭。",
+        "time": null
+      },
+      {
+        "en": "Greenland's ice sheet is the size of 47 Taiwans! It is three kilometers thick in some places!",
+        "tw": "格陵蘭冰原有 47 個台灣那麼大。有些地方甚至有三公里那麼厚！",
+        "time": null
+      },
+      {
+        "en": "A man went camping with some people on Greenland's ice sheet. The ice has lots of big, deep cracks. No one wanted to fall into a crack! Sometimes the group used a rope for safety. They walked together very carefully!",
+        "tw": "有一名男子跟夥伴一起到格陵蘭冰原露營。冰上有很多又深又大的裂縫，大家都很怕掉進去。他們都抓著繩子，小心翼翼往前走。",
+        "time": null
+      },
+      {
+        "en": "The man also helped pull a very heavy sled. Food, tents, and camping things were on it. They fell off a lot!",
+        "tw": "這名男子還要幫忙拉很重的雪橇，上面裝滿食物、帳篷跟露營用具。雪橇上的東西還常常會掉下來！",
+        "time": null
+      },
+      {
+        "en": "The man tried swimming in icy water. He had fun!",
+        "tw": "他甚至還跑到冰水裡游泳。雖然很冷，但他覺得很好玩！",
+        "time": null
+      },
+      {
+        "en": "But the man also saw that this ice sheet is getting smaller. Scientists say 150 million liters of its ice become water every minute! They say it is because the Earth is getting warmer. This water makes our oceans higher.",
+        "tw": "他也發現冰原正在慢慢變小。科學家說，每一分鐘就有一億五千萬公升的冰融化成水。地球暖化讓冰原融化，也讓海平面慢慢升高。",
+        "time": null
+      },
+      {
+        "en": "Let's take care of the Earth and try to keep the ice sheets!",
+        "tw": "讓我們一起愛護地球，努力保護冰原吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "在格陵蘭厚厚的冰塊上露營，是非常特別的經驗。",
+      "content": [
+        {
+          "text": "1. icy 冰冷的.\nIs it a good idea to go camping in this weather? 這種天氣去露營是好主意嗎?\nOf course! It's only fun when it's icy cold. 當然，要冰冷天氣才好玩。",
+          "time": null
+        },
+        {
+          "text": "2. thick 厚厚的.\nOtherwise, the snow just melts as soon as it hits the ground.\n要不然雪一碰到地面就化了。\nIf you want to see thick snow, 你要是想看厚厚的雪，you'll have to go higher.\n就得去更高的地方。",
+          "time": null
+        },
+        {
+          "text": "3. tent 帳篷.\nBut the road could be closed. 但是道路可能會封閉。\nThen you can set up your tent on the roadside. 那你們就可以在路邊搭帳篷了。",
+          "time": null
+        },
+        {
+          "text": "4. lots of 很多的.\nHey, you're right! 你說得對! That would be lots of fun! 那會超好玩的。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡露營嗎? 來讀單字。\nicy冰冷的 thick厚厚的 tent帳篷 lots of很多的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did the man go camping?",
+        "options": [
+          "a. Antarctica",
+          "b. Greenland",
+          "c. Iceland"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What did the group use for safety?",
+        "options": [
+          "a. A rope",
+          "b. A crack",
+          "c. Ice sheets"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What was on the sled?",
+        "options": [
+          "a. Icy water",
+          "b. A scientist",
+          "c. Food"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
     "id": "20260107-01",
     "type": "國小",
     "tag": [
