@@ -1238,6 +1238,98 @@
     ]
   },
   {
+    "id": "20260119-01",
+    "type": "國小",
+    "tag": [
+      "Life Education",
+      "Character Education",
+      "Social Studies"
+    ],
+    "title": "People Borrow People at New Taipei's Human Library",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260116NK.mp3",
+    "content": [
+      {
+        "en": "We borrow books from the library. We can borrow all kinds of books! At New Taipei's Human Library, we can borrow \"human books\" … People are the human books!",
+        "tw": "我們可以從圖書館借到各式各樣的書，但在新北市的「真人圖書館」，大家借的不是書，而是人！",
+        "time": null
+      },
+      {
+        "en": "Human Libraries started in Denmark. They help us meet new people, share stories, and understand each other. New Taipei's Human Library has 133 human books. Last year, 207 people borrowed one!",
+        "tw": "真人圖書館最早出現在丹麥，目的是讓大家認識不同的人，分享經驗，促進了解。新北市的真人圖書館現在有133本「人類書」，去年有207個人登門借書！",
+        "time": null
+      },
+      {
+        "en": "You can borrow a dinosaur bone expert, or a chess teacher. You can borrow someone who loves to play games, or someone who cannot see. People borrow one human book a lot. She helps people understand their feelings.",
+        "tw": "你可以在圖書館借一位研究恐龍骨頭的專家，或是西洋棋老師，你也可以借一位電動高手或看不見的人。其中有個人特別受歡迎，因為她很會幫助大家了解自己的感受！",
+        "time": null
+      },
+      {
+        "en": "You can borrow a human book for thirty minutes. If you are under twelve years old, your mom or dad go with you. You sit down together. You listen to the human book's story. You can ask questions. You can share your story.",
+        "tw": "一本人類書可以借30分鐘，12歲以下，需要家長陪同。借出來之後，你可以跟人類書一起坐下來，聽他分享他的故事，也可以提問或是說說自己的想法。",
+        "time": null
+      },
+      {
+        "en": "People's stories are real and exciting! What kind of human book do you want to borrow?",
+        "tw": "人們的故事是真實而精彩的！你想借什麼樣的真人書呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "在人類圖書館借書，借出來的是真人，而不是一本書。",
+      "content": [
+        {
+          "text": "1. question 問題。\nIsn't it a good idea? 這可不是個好主意?\nTo borrow a book who can talk and answer your questions? 借一本會講話又可以回答問題的書?\nFor 30 minutes only. 只有三十分鐘。\nThat seems too short. 似乎太短了。",
+          "time": null
+        },
+        {
+          "text": "2. story 故事。\nYou can borrow \"it\" again! 你可以再借。\nLike borrowing a real book. 就跟借真正的書一樣。\nWhat if I don't like the story they share? 要是我不喜歡他們分享的故事呢?\nJust return it. 就還回去。",
+          "time": null
+        },
+        {
+          "text": "3. feeling 情感，感覺。\nBut people have feelings! 不過真人是有感情的。\nBooks don't. 書可沒有。",
+          "time": null
+        },
+        {
+          "text": "4. kind 種類。\nSome kinds of real books never get borrowed. I guess it's the same with humans.\n有些種書從來沒有人借，人類書也一樣吧。",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我一起讀單字。question問題 story故事 feeling情感、感覺 kind種類"
+    },
+    "quiz": [
+      {
+        "question": "1. What can you do at New Taipei's Human Library?",
+        "options": [
+          "a. Read books",
+          "b. Borrow people",
+          "c. Watch videos"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where did Human Libraries start?",
+        "options": [
+          "a. Denmark",
+          "b. New Taipei",
+          "c. Japan"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many human books does New Taipei's Human Library have?",
+        "options": [
+          "a. 30",
+          "b. 133",
+          "c. 207"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20260121-01",
     "type": "國小",
     "tag": [
