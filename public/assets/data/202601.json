@@ -1136,6 +1136,108 @@
     ]
   },
   {
+    "id": "20260116-01",
+    "type": "國小",
+    "tag": [
+      "Sustainable Cities and Communities",
+      "Environmental Education",
+      "Technology"
+    ],
+    "title": "Robot Rabbits Are Saving Florida's Wild Animals",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260115NK.mp3",
+    "content": [
+      {
+        "en": "Pythons are one of the world's biggest snakes. Some are six meters long! They are strong and dangerous.",
+        "tw": "蟒蛇力氣大又危險，是世界上最大的蛇類之一。有一些蟒蛇甚至長達六公尺！",
+        "time": null
+      },
+      {
+        "en": "Many years ago, there were no pythons in the U.S. People brought pythons from Asia. They wanted pet pythons!",
+        "tw": "很多年前，美國沒有蟒蛇。有人把蟒蛇從亞洲帶回美國，想要當寵物養！",
+        "time": null
+      },
+      {
+        "en": "These pet pythons grew and grew! People could not take care of them. Many put their pythons out in the wild.",
+        "tw": "這些蟒蛇越長越大，讓人無法照顧，就把蛇送到野外放生。",
+        "time": null
+      },
+      {
+        "en": "In Florida, a U.S. state, pythons eat many wild animals. Florida is worried about these animals. So it does not want pythons in the wild. But pythons are hard to find. It can take ten hours to catch one!",
+        "tw": "美國佛羅里達州的蟒蛇會吃掉其他的野生動物。當地希望除掉這些蟒蛇，問題是蟒蛇很難找到，有時候要花上十個鐘頭才能抓到一條。",
+        "time": null
+      },
+      {
+        "en": "Now scientists are catching pythons with robots. Pythons eat rabbits, so the scientists made small robot rabbits. These robots look like rabbits. They move like rabbits. They are warm like rabbits. Pythons think they are real rabbits!",
+        "tw": "蟒蛇會吃兔子，因此科學家做了小小的機器兔，外表跟行為跟體溫都很像真的兔子，所以蟒蛇以為是真正的！",
+        "time": null
+      },
+      {
+        "en": "When a python comes close to a robot, cameras around the robot see it. Workers come quickly. They catch the python!",
+        "tw": "蟒蛇靠近機器兔時，附近的攝影機就會拍到牠。工作人員馬上趕來，當場捕獲蟒蛇。",
+        "time": null
+      },
+      {
+        "en": "These robot rabbits help catch pythons. The robot rabbits are saving Florida's wild animals!",
+        "tw": "這些機器兔有助於捕捉蟒蛇。機器兔正在拯救佛羅里達州的野生動物！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "機器兔小兵立大功，協助科學家抓捕蟒蛇。",
+      "content": [
+        {
+          "text": "animal 動物。 My husband and I went to Kenya last month. 我先生跟我上個月去了肯亞。 Oh? What's in Kenya? 肯亞有什麼? Lots of wild animals in the wild. 很多野生動物在野外。",
+          "time": null
+        },
+        {
+          "text": "wild 野生的。 Well, I hope they weren't in the city, being wild and all. 既然是野生動物，我希望牠們不在市區。 You are right. 你說得對。 We saw lions, leopards and elephants. 我們看到獅子，花豹跟大象。",
+          "time": null
+        },
+        {
+          "text": "dangerous 危險的。 You can see all of those on TV! 你在電視上都看得到! True, but on TV they can't smell you. 對，不過牠們在電視裡聞不到你。 Uh oh, that sounds dangerous! 糟了，聽起來很危險。",
+          "time": null
+        },
+        {
+          "text": "close 靠近的。 I was pretty worried when they got very close. 牠們靠得很近時我會擔心。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡動物嗎? 來讀今天的單字。 animal動物 wild 野生的 dangerous 危險的 close 靠近的"
+    },
+    "quiz": [
+      {
+        "question": "1. How long are some pythons?",
+        "options": [
+          "a. 1 meter",
+          "b. 6 meters",
+          "c. 10 meters"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What are the pythons in Florida doing?",
+        "options": [
+          "a. Catching people",
+          "b. Eating wild animals",
+          "c. Becoming pets"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why do pythons think the robots are real rabbits?",
+        "options": [
+          "a. The robots smell like rabbits.",
+          "b. The robots move like rabbits.",
+          "c. The robots taste like rabbits."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
     "id": "20260121-01",
     "type": "國小",
     "tag": [
