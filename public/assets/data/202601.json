@@ -1522,5 +1522,108 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260130-01",
+    "type": "國小",
+    "tag": [],
+    "title": "New Dinosaur Found in Shop",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260129NK.mp3",
+    "content": [
+      {
+        "en": "Long ago, there were many kinds of dinosaurs. T. rex is the most famous. But experts say there are thousands we do not know about! They always look for new kinds.",
+        "tw": "很久以前，地球上有很多種恐龍。除了最有名的暴龍之外，還有上千種恐龍沒有被發現！因此，專家一直在找新種的恐龍。",
+        "time": null
+      },
+      {
+        "en": "One expert found a dinosaur bone in a shop in England. It was not like the bones of all other animals. It had spikes! Spikes are hard and long. They have a sharp end.",
+        "tw": "有一位專家在英國的一間店裡發現了一塊恐龍骨頭。這塊骨頭很特別，上面有又硬又長的刺。",
+        "time": null
+      },
+      {
+        "en": "At first, she thought someone had made a fake bone. But the bone was real!",
+        "tw": "起初她以為這是假的骨頭，但她後來發現竟然是真的！",
+        "time": null
+      },
+      {
+        "en": "Experts found more bones in Morocco. They found the dinosaur had spikes on its neck, spikes on its head, spikes on its back, and spikes on its tail!",
+        "tw": "之後，科學家在摩洛哥又找到更多這種恐龍的骨頭，而且牠的脖子、頭、背和尾巴上，全都有刺！",
+        "time": null
+      },
+      {
+        "en": "This new dinosaur is called Spicomellus afer! \"Spicomellus\" means collar of spikes. This is what the neck spikes are. And \"afer\" means Africa.",
+        "tw": "這種恐龍叫「Spicomellus afer」。「Spicomellus」的意思是「有刺的項圈」，也就是牠脖子上的刺，「afer」則是「非洲」的意思。",
+        "time": null
+      },
+      {
+        "en": "The dinosaur was about four meters long. Its longest spikes were one meter long!",
+        "tw": "這種恐龍大約有四公尺長，最長的刺竟然有一公尺那麼長！",
+        "time": null
+      },
+      {
+        "en": "Experts think the spikes kept these dinosaurs safe from bigger dinosaurs. That's not all. They think the dinosaurs showed their handsome spikes to get a partner!",
+        "tw": "專家認為，這些刺不但可以保護他們不被更大的恐龍攻擊，還可以用來吸引伴侶！",
+        "time": null
+      },
+      {
+        "en": "Maybe you will find a dinosaur in a shop too!",
+        "tw": "也許你也會在商店裡找到恐龍喔！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這個新發現的恐龍品種，讓科學家大開眼界。",
+      "content": [
+        {
+          "text": "1. neck 脖子。 Look at that giraffe! 你看那隻長頸鹿! That neck is so long, 那麼長的脖子， and the head is so tiny. 那麼小的頭。 I know, right? 對啊。 I keep wondering how many bones are in that neck. 我一直在想牠的脖子有幾根骨頭。",
+          "time": null
+        },
+        {
+          "text": "2. tail 尾巴。 And look at the spots. 而且你看牠的斑點。 They are everywhere, even on the tail! 全身都有，連尾巴上也有。",
+          "time": null
+        },
+        {
+          "text": "3. animal 動物。 When I was little, I didn't believe an animal could look like that. 我小時候根本不相信動物會長這樣。",
+          "time": null
+        },
+        {
+          "text": "4. Africa 非洲。 You're looking at it now. 你現在正看著牠。 Yeah, and it's so far away from its home in Africa. 對啊，牠離非洲的家好遠喔。 I hope it's happy here. 我希望牠在這裡過得快活。",
+          "time": null
+        }
+      ],
+      "postscript": "來跟我讀今天的單字。 neck脖子 tail尾巴 animal動物 Africa非洲"
+    },
+    "quiz": [
+      {
+        "question": "What is the most famous dinosaur?",
+        "options": [
+          "a. Littlefoot",
+          "b. Spicomellus afer",
+          "c. T. rex"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "Where did an expert find a bone from the dinosaur?",
+        "options": [
+          "a. In a shop",
+          "b. In her office",
+          "c. At a museum"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "Where did experts find more bones?",
+        "options": [
+          "a. South Africa",
+          "b. Morocco",
+          "c. Egypt"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
