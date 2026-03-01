@@ -1,0 +1,95 @@
+ [
+  {
+    "id": "20260302-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Do Not Stop Sea Turtle Fights",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260227NK.mp3",
+    "content": [
+      {
+        "en": "Some divers were at a beach in Xiaoliuqiu. They heard loud splashes! They saw two big things push each other. The things bit each other. They hit each other. Were monsters fighting?!",
+        "tw": "在小琉球的沙灘邊，幾名潛水客聽到很大的潑水聲。他們發現有兩個大東西正在互相推擠。牠們咬來咬去，攻擊對方，是怪物在打架嗎?",
+        "time": null
+      },
+      {
+        "en": "They were not monsters. They were sea turtles! Maybe they were fighting for space. Sea turtles like to have their own space.",
+        "tw": "其實牠們不是怪物，而是兩隻海龜。牠們也許在搶地盤，因為海龜喜歡有自己的空間。",
+        "time": null
+      },
+      {
+        "en": "The divers were worried. But they did not stop the fight. Why not? Well, in Taiwan, we cannot touch sea turtles.",
+        "tw": "潛水客擔心海龜受傷，並沒有出手阻止。為什麼呢？因為在台灣，人是不能碰海龜的！",
+        "time": null
+      },
+      {
+        "en": "Taiwan wants to keep sea turtles safe. There are not many now. Touching sea turtles can hurt them. Their skin has sticky stuff on it. When people touch this stuff, sea turtles can get sick. And they can get scared and swim into something dangerous.",
+        "tw": "台灣想保護為數不多的海龜。但是人類碰到海龜的皮膚，可能會導致海龜生病，或是驚嚇到牠，害牠亂了方向，撞上危險的東西。",
+        "time": null
+      },
+      {
+        "en": "So people who touch sea turtles may have to pay a big fine! For one turtle, the fine is three hundred thousand Taiwan dollars. For two, it is six hundred thousand Taiwan dollars! This means not touching sea turtles is very important!",
+        "tw": "如果有人碰了海龜，就要付高額的罰款。碰一隻海龜可能會罰到三十萬元，如果碰了兩隻，罰金還會加倍！所以，千萬不要碰海龜喔！",
+        "time": null
+      },
+      {
+        "en": "Sea turtles need help. This time, the divers helped by not stopping the fight!",
+        "tw": "海龜需要幫助。這次，潛水員們透過不阻止打鬥來提供幫助！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "海龜非常可愛，在台灣被列為保育類動物，需要保護。",
+      "content": [
+        {
+          "text": "1. swim 游泳. The sea looks perfect today! 今天的海看起來真完美! I can't wait to swim! 我等不及要游泳了! Are you sure? 你確定嗎? I heard there are turtles in this area.聽說這個區域有海龜。",
+          "time": null
+        },
+        {
+          "text": "2. hurt 傷害. Wait, so I can swim with turtles?! 等等，我可以跟海龜一起游!? That would be amazing! 太棒了! Don't touch them, though. You might hurt them. 可不要碰牠，可能會有傷害。",
+          "time": null
+        },
+        {
+          "text": "3. push 推擠. I'd never hurt a turtle! 我絕對不會傷害烏龜! I'm an animal lover! 我愛護動物! The last time I saw you, 我上次看到你， you were pushing two ants to make them fight. 你正在催兩隻螞蟻打架。",
+          "time": null
+        },
+        {
+          "text": "4. fight 打架. They were NOT fighting. 牠們不是在打架。They were just… talking.只是在講話。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字都是動詞。swim游泳 hurt傷害 push推擠 fight打架"
+    },
+    "quiz": [
+      {
+        "question": "What things were fighting?",
+        "options": [
+          "a. Monsters",
+          "b. Sea turtles",
+          "c. Divers"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "Why is it important not to touch sea turtles?",
+        "options": [
+          "a. They may get sick.",
+          "b. They may bite.",
+          "c. They may fight."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "How much is the fine for touching one sea turtle?",
+        "options": [
+          "a. Three hundred Taiwan dollars",
+          "b. Three thousand Taiwan dollars",
+          "c. Three hundred thousand Taiwan dollars"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  }
+]
