@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20260302-01",
     "type": "國小",
@@ -86,6 +86,104 @@
           "a. Three hundred Taiwan dollars",
           "b. Three thousand Taiwan dollars",
           "c. Three hundred thousand Taiwan dollars"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
+    "id": "20260303-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Taiwan Lantern Festival is Here",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260302NK.mp3",
+    "content": [
+      {
+        "en": "Today is the last day of the Lunar New Year holiday. That means it is the first day of the Taiwan Lantern Festival in Chiayi!",
+        "tw": "今天是農曆新年的最後一天，這也代表嘉義的台灣燈會正式開始了！",
+        "time": null
+      },
+      {
+        "en": "There is someone new at the festival. He is famous! He is short! He has blue eyes and brown hair! He has a big mustache under his big nose! He wears blue overalls and a red cap. The letter \"M\" is on his cap. Oh, and he is from a video game. Who is he?",
+        "tw": "今年的燈會出現了一位家喻戶曉的角色。他個子不高，有藍色眼睛、棕色頭髮，還有大鬍子！他穿著藍色吊帶褲，戴著紅色帽子，帽子上寫了字母「M」。你猜到是誰了嗎？",
+        "time": null
+      },
+      {
+        "en": "This famous guy is in one part of the festival. But the festival has sixteen parts! They all have amazing lanterns.",
+        "tw": "這個角色出現在燈會的其中一個展區。燈會一共有十六個展區，每區都有很精彩的花燈！",
+        "time": null
+      },
+      {
+        "en": "Some lanterns show cool stories of the Tsou people. Some show the delicious food Chiayi grows. Some show new things made by its young people.",
+        "tw": "有一些燈籠呈現鄒族的故事，有些介紹嘉義的在地美食，還有一些展示出年輕人的創意！",
+        "time": null
+      },
+      {
+        "en": "Other lanterns show how Chiayi is changing. And some show how Chiayi cares about the Earth.",
+        "tw": "從燈籠中，能看見嘉義的發展與轉變，一些環境保護相關的花燈也展現出嘉義人的生態關懷。",
+        "time": null
+      },
+      {
+        "en": "The festival has Taiwan's exciting lantern contest too!",
+        "tw": "燈會現場還能看到台灣花燈比賽！",
+        "time": null
+      },
+      {
+        "en": "You can see all this until March fifteenth. Someone wearing blue overalls and a red cap is waiting for you there! Happy Lantern Festival!",
+        "tw": "這些精彩內容你都能欣賞到三月十五日。穿著藍色吊帶褲、戴著紅色帽子的人正在那裡等你喔！元宵節快樂！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "農曆春節假期之後，大家就要準備吃元宵賞花燈了。",
+      "content": [
+        {
+          "text": "1. part 部分。I love Lantern Festivals! 我喜歡燈節!There's something magical about them. 它有一種魔力。Totally agree. 我完全同意。I think it's the best part of the holiday season. 我覺得它是春節最棒的部分。",
+          "time": null
+        },
+        {
+          "text": "2. make 製作。Last year I even saw several lanterns made by inmates.我去年還看到幾個囚犯做的花燈。Can you imagine that? 你能想像嗎?",
+          "time": null
+        },
+        {
+          "text": "3. change 改變。Wow, sitting in jail and making lanterns…哇，坐在監獄裡，動手做花燈...That really changed the way I think about inmates.真的讓我改變了對囚犯的想法。",
+          "time": null
+        },
+        {
+          "text": "4. story 故事。Yeah, it would make a great story, wouldn't it? 這會是很好的故事，不是嗎?Inmates, lanterns, light, hope…囚犯，花燈，光明，希望...",
+          "time": null
+        }
+      ],
+      "postscript": "你記得剛剛聽到的單字嗎?part部分 make製作 change改變 story故事"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the Taiwan Lantern Festival?",
+        "options": [
+          "a. Changhua",
+          "b. Chiayi",
+          "c. Yilan"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What does the famous guy have?",
+        "options": [
+          "a. A big mustache",
+          "b. A small nose",
+          "c. Red eyes"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many parts does the festival have?",
+        "options": [
+          "a. 1",
+          "b. 15",
+          "c. 16"
         ],
         "time": null,
         "answer": "c"
