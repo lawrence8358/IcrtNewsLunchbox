@@ -189,5 +189,103 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260304-01",
+    "type": "國小",
+    "tag": [],
+    "title": "A Pole to Poke with Snack Sticks",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260303NK.mp3",
+    "content": [
+      {
+        "en": "The Dongnan Night Market is in Yunlin. Many food stalls there sell delicious snacks on bamboo sticks.",
+        "tw": "在雲林的東南夜市裡，很多攤販會賣插在竹籤上的美味小吃。",
+        "time": null
+      },
+      {
+        "en": "Some food stalls sell corn on sticks. Some sell meat on sticks. Others sell sweet potato balls on sticks.",
+        "tw": "賣烤玉米的，烤肉串的，或是地瓜球的攤販，都會用到竹籤！",
+        "time": null
+      },
+      {
+        "en": "When some people finish their snacks, they drop their sticks on the ground. Bamboo sticks are sharp. Other people step on them. The sticks can hurt their feet!",
+        "tw": "很多人吃完東西後，就把竹籤隨手丟在地上。在人來人往的夜市中，地上尖尖的竹籤可能會刺傷人！",
+        "time": null
+      },
+      {
+        "en": "One man saw people getting hurt. His food stall does not sell snacks on sticks. But he wanted to keep people safe. He had a smart idea. He built a tall pole with straw and wood.",
+        "tw": "一名攤販發現有人因為竹籤受傷，想到了一個聰明的解決辦法。他豎起一根用稻草跟木頭做的柱子！",
+        "time": null
+      },
+      {
+        "en": "When people finish eating, they poke their sticks into the pole. Now fewer sticks are on the ground. The night market is cleaner. Walking is safer.",
+        "tw": "大家吃完東西之後，可以把竹籤戳進這個柱子裡面。這樣一來，地上的竹籤減少了，夜市變得比較乾淨，走路也比較安全！",
+        "time": null
+      },
+      {
+        "en": "People like the pole. Many say it is simple and helpful. Some say it is fun. Others say it could be made into a straw man! The man says he will think about it.",
+        "tw": "大家很喜歡這個簡單、有趣的柱子，還有人提議要把柱子做成稻草人的形狀！",
+        "time": null
+      },
+      {
+        "en": "One man's simple idea is making the night market safer and cleaner for everyone! Now go and poke the pole!",
+        "tw": "一位男士的簡單想法正在讓夜市對每個人來說更安全、更乾淨！現在去戳戳那根柱子吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "尖尖的竹籤可能造成傷害，用心的攤販主人想辦法改變大家的使用習慣。",
+      "content": [
+        {
+          "text": "1. people 人群。\nYou’re late. 你遲到了。\nSorry, the night market was full of people.真抱歉，夜市擠滿了人。\nI had to stand in line for everything. 每樣東西都得排隊等。",
+          "time": null
+        },
+        {
+          "text": "2. food 食物。\nBut look what I got. 不過你看我買的。\nWow, pig’s ears and chicken feet! 豬耳朵，還有雞腳!\nDid you get them from that food stall I told you about?\n你是在我跟你講的那一攤買的嗎?\nYep, that’s the one. 對，就是那家。",
+          "time": null
+        },
+        {
+          "text": "3. corn 玉米。\nAnd I got some corn too. 我還買了幾支玉米。\nCorn is the best snack! 玉米是最棒的零食!",
+          "time": null
+        },
+        {
+          "text": "4. sweet potato 地瓜。\nI heard their sweet potatoes are good too. 聽說他們的地瓜也不錯。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡逛夜市嗎?來讀單字。\npeople人群 food食物 corn玉米 sweet potato地瓜"
+    },
+    "quiz": [
+      {
+        "question": "1. What do some people do with their sticks at the night market?",
+        "options": [
+          "a. Burn them",
+          "b. Drop them on the ground",
+          "c. Eat them with corn"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why did the man make the pole?",
+        "options": [
+          "a. To keep people safe",
+          "b. To sell more sticks",
+          "c. To make fewer snacks"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What is the pole made of?",
+        "options": [
+          "a. Plastic and paper",
+          "b. Bamboo",
+          "c. Straw and wood"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
