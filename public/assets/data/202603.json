@@ -287,5 +287,101 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260305-01",
+    "type": "國小",
+    "tag": [
+      "服務",
+      "故事"
+    ],
+    "title": "Man Cleans Clothes for People with No Home",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260304NK.mp3",
+    "content": [
+      {
+        "en": "Clean clothes make us feel good. They smell good. They make us look good. And they feel good on us!",
+        "tw": "穿著乾淨的衣服會讓人心情變好。乾淨的衣服既舒服又好看！",
+        "time": null
+      },
+      {
+        "en": "An American man was a police officer. He helped people. He is not a police officer now. But he wants to keep helping people. The man helps people who do not have a home. It is hard for them to wash their clothes.",
+        "tw": "有一名退休的美國警察喜歡幫助有需要的人，尤其是無家可歸的人，因為他們沒有辦法洗衣服！",
+        "time": null
+      },
+      {
+        "en": "The man has a bus. He put three washing machines and three clothes dryers in the bus. He drives to the same places every week. People know when and where to find him.",
+        "tw": "於是，他在一輛巴士上裝了三台洗衣機跟三台烘衣機。每個星期，他都會把公車開到固定的地點，方便大家找他洗衣服。",
+        "time": null
+      },
+      {
+        "en": "The man washes, dries, and folds these people's clothes for free! In about three months, the man washed more than nine hundred kilograms of clothes! And these clean clothes helped some people find a job.",
+        "tw": "他會免費為那些無家可歸的人洗衣服、烘乾，然後摺好！在短短的三個月內，他洗了超過九百公斤的衣服。穿上乾淨的衣服之後，有一些人甚至找到了工作！",
+        "time": null
+      },
+      {
+        "en": "Now the man wants another bus. He wants more washing machines and clothes dryers. He needs people to drive the bus. They will wash clothes for schoolkids who do not have a home.",
+        "tw": "現在，他希望有第二輛公車放更多洗衣機跟烘衣機，也想找司機來幫忙開公車。這樣一來，就能為無家可歸的學童洗衣服。",
+        "time": null
+      },
+      {
+        "en": "Everyone feels good wearing clean clothes. This man's idea helps many people feel good!",
+        "tw": "每個人穿著乾淨的衣服都會感覺很好。這名男子的想法幫助許多人感覺良好！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "能夠穿乾淨的衣服是很大的福氣，一名好心人免費幫街友洗衣。",
+      "content": [
+        {
+          "text": "1. wash 洗。\nI have so many clothes to wash! 我有好多衣服要洗!\nThat’s exactly what a washing machine is for. 洗衣機正是做這件事用的。",
+          "time": null
+        },
+        {
+          "text": "2. dry 弄乾。\nI know, but I still have to dry them and fold them.\n我知道啊，可是我還得把它烘乾，摺起來。\nCome on, let me give you a hand.來吧，我來幫你忙。",
+          "time": null
+        },
+        {
+          "text": "3. clean 乾淨的。\nAw, that’s so nice of you! 你真好!\nI’m happy to help. 我很樂意幫忙。\nClean clothes always smell and feel good. 乾淨衣服好聞又舒服。",
+          "time": null
+        },
+        {
+          "text": "4. job 工作。\nCome to think of it, maybe I should find a job that has something to do with\nclothes. 想來我也許應該找一個 跟衣服有關的工作。",
+          "time": null
+        }
+      ],
+      "postscript": "還記得今天的單字嗎?\nwash洗 dry弄乾 clean乾淨的 job工作"
+    },
+    "quiz": [
+      {
+        "question": "1. Who does the man help?",
+        "options": [
+          "a. Police officers who have a home",
+          "b. People who do not have a home",
+          "c. People who have a home"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where did the man put the washing machines and clothes dryers?",
+        "options": [
+          "a. Under the bus",
+          "b. On top of the bus",
+          "c. In the bus"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What does the man want now?",
+        "options": [
+          "a. A job",
+          "b. Free clothes",
+          "c. Another bus"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
