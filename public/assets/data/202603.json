@@ -383,5 +383,103 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260306-01",
+    "type": "國小",
+    "tag": [],
+    "title": "U.S. Sells Last New Pennies",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260305NK.mp3",
+    "content": [
+      {
+        "en": "Have you seen U.S. money? Like Taiwan's money, U.S. money is called \"dollar.\" One U.S. dollar has 100 cents.",
+        "tw": "你有看過美國的錢幣嗎？美國錢叫做美元，一美元等於一百美分。",
+        "time": null
+      },
+      {
+        "en": "The one-cent coin is called a penny. The penny looks a lot like Taiwan's one-dollar coin. The two coins are brown. They are about the same size.",
+        "tw": "一美分硬幣看起來很像台灣的一元硬幣，都是咖啡色的，大小也差不多。",
+        "time": null
+      },
+      {
+        "en": "Some people like coins very much. They try to get new coins, old coins, or rare coins. Rare means there are almost no others. The U.S. stopped making pennies in 2025. So the last pennies are new and rare.",
+        "tw": "有一些人非常喜歡收集硬幣。他們會到處找新的、舊的，或是很稀有的硬幣。美國2025年停止製造一美分硬幣，所以最後出廠的硬幣不但稀有，也是全新的。",
+        "time": null
+      },
+      {
+        "en": "The U.S. sold the last pennies. Pennies were made for 232 years, so it sold 232 sets. One set has three pennies. Let's see… That is 696 pennies.",
+        "tw": "美國把最後一批一美分硬幣拿出來賣。一美分硬幣已經生產了 232 年，所以他們賣了232 套，一套有3枚硬幣，一共是 696 枚。",
+        "time": null
+      },
+      {
+        "en": "But one penny in each set is made of gold! That is very rare!",
+        "tw": "但是，每一套硬幣裡面都有一枚是用黃金做的！這些就非常稀有了。",
+        "time": null
+      },
+      {
+        "en": "So how much did these 696 pennies sell for? They sold for 530 million Taiwan dollars! Whoa!",
+        "tw": "結果這些套幣到底賣了多少錢? 總共賣了五億三千萬台幣！",
+        "time": null
+      },
+      {
+        "en": "Goodbye, new pennies!",
+        "tw": "再見了，新的一美分硬幣！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一分錢的美元硬幣，去年十一月停止生產，最後一批特製的套幣也賣光了。",
+      "content": [
+        {
+          "text": "1. gold 黃金。\nI found a gold coin in my drawer. 我在我的抽屜裡找到一枚金幣。\nReal gold? 真的黃金嗎?\nThat’s what it says. 它上面是這麼說的。\nI’m pretty sure it’s made of gold. 我確定是黃金做的。",
+          "time": null
+        },
+        {
+          "text": "2. size 尺寸。\nIt's small. 它很小。\nThe size of one Taiwanese dollar. 大小跟台幣一塊錢一樣。\nStill, it’s gold! 但它是黃金!\nLet me check my drawers too! 我也要看看我的抽屜!",
+          "time": null
+        },
+        {
+          "text": "3. dollar 元。\nShould I sell it? 我應該賣掉嗎?\nHow much is it worth? 它值多少錢?\nNo idea. Perhaps five hundred Taiwan dollars? 不知道。也許五百塊台幣?",
+          "time": null
+        },
+        {
+          "text": "4. sell 賣。\nA small coin that can sell for $500? 一枚小硬幣可以賣五百塊?",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我一起讀單字。 gold黃金 size尺寸 dollar元 sell賣"
+    },
+    "quiz": [
+      {
+        "question": "1. How many cents is one penny?",
+        "options": [
+          "a. 1 cent",
+          "b. 10 cents",
+          "c. 100 cents"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What are the last pennies?",
+        "options": [
+          "a. Rare",
+          "b. Old",
+          "c. Big"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How much did the last U.S. pennies sell for?",
+        "options": [
+          "a. 530 Taiwan dollars",
+          "b. 530,000 Taiwan dollars",
+          "c. 530,000,000 Taiwan dollars"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
