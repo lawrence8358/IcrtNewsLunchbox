@@ -481,5 +481,103 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260309-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Man Rides Wooden Bike Down the UK",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260306NK.mp3",
+    "content": [
+      {
+        "en": "A man from Ethiopia lives in England. He was bored. He missed his family. So he tried something new. He learned how to ride a bike.",
+        "tw": "一名來自衣索比亞的男子現在居住在英國。他覺得很無聊，很想家，所以他學會騎腳踏車後，決定試著做一點不一樣的事情。",
+        "time": null
+      },
+      {
+        "en": "The man wanted to make a bike from wood. He used strong wood. He recycled a flip-flop. He made the brake with it!",
+        "tw": "他想用木頭做一台腳踏車！他選了很結實的木頭，還用舊拖鞋做成煞車。",
+        "time": null
+      },
+      {
+        "en": "A friend had an idea. The man could ride his bike from the north to the south of the UK! That is like riding down three and a half Taiwans!",
+        "tw": "朋友給了他建議，這名男子騎著木頭腳踏車從英國最北邊一路騎到最南邊！這段距離差不多有3.5 個台灣那麼長。",
+        "time": null
+      },
+      {
+        "en": "It was hard. The wind and rain were cold. Sometimes he did not have food.",
+        "tw": "這趟旅程十分艱難，天氣又冷又濕，有時候甚至要餓肚子。",
+        "time": null
+      },
+      {
+        "en": "But it was great too. Many nice new friends gave the man food and a place to stay. He stayed in homes, garages, barns, and cars! Some people sent him money for a hotel room!",
+        "tw": "不過，這段旅程也有很棒的地方。他在路上認識了很多新朋友，這些好心的人請他吃飯，還提供地方給他住。也有人直接給他錢，讓他住旅館！",
+        "time": null
+      },
+      {
+        "en": "The wooden bike looked funny. But people liked it. Sometimes it broke. People helped him fix it.",
+        "tw": "這台木頭腳踏車看起來奇形怪狀，但大家都很喜歡它。有時候腳踏車壞了，路人也會幫忙修理。",
+        "time": null
+      },
+      {
+        "en": "After a few months, the man came to the south of the UK. Friends met him with food and music. He is happy now. He has a new family of friends in the UK!",
+        "tw": "幾個月後，這名男子抵達了英國南部。朋友們帶著食物和音樂與他會面。他現在很快樂。他在英國有了新的朋友家人！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這名衣索匹亞人不但自製腳踏車，還從英國最北騎到最南邊。",
+      "content": [
+        {
+          "text": "1. recycled 回收的。\nHey, have you seen that funny wooden bike outside?\n你看到外面那輛怪怪的木頭腳踏車嗎?\nYes! My friend gave it to me.有啊，是我朋友送我的。\nIt's made from recycled wood.用回收的木頭做的。",
+          "time": null
+        },
+        {
+          "text": "2. brake 煞車。\nDid you actually ride it? 你有真的騎它嗎?\nOf course. The brake works well, so it's safe. 當然，它的煞車很管用，很安全。",
+          "time": null
+        },
+        {
+          "text": "3. learn 學習。\nWhere did your friend get the idea? 你的朋友怎麼想到這個主意?\nOf making a wooden bike? 做腳踏車嗎?\nHe said he learned it from his family. 他說跟家人學的。",
+          "time": null
+        },
+        {
+          "text": "4. family 家人。\nSounds cool. 好酷喔。\nA family that makes things out of wood. 會做木頭東西的家庭。",
+          "time": null
+        }
+      ],
+      "postscript": "你呢? 愛不愛騎腳踏車?\nrecycled回收的 brake煞車 learn學習 family家人"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the man learn?",
+        "options": [
+          "a. How to ride a bike",
+          "b. How to use flip-flops",
+          "c. How to miss his family"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where in the UK did the man ride?",
+        "options": [
+          "a. From east to west",
+          "b. From south to north",
+          "c. From north to south"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Who helped the man on his ride?",
+        "options": [
+          "a. Taiwan",
+          "b. New friends",
+          "c. His mom"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
