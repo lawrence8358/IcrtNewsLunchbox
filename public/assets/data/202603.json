@@ -682,5 +682,100 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260311-01",
+    "type": "國小",
+    "tag": [
+      "生活"
+    ],
+    "title": "Big Lazy Susan Makes Friends",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260310NK.mp3",
+    "content": [
+      {
+        "en": "In a small town in the U.S., there is a restaurant near a train station. The restaurant has four tables. But it is not small. The tables are big and round.",
+        "tw": "美國一個小鎮的火車站旁，有一間餐廳。這間餐廳有四張圓形的大桌子。",
+        "time": null
+      },
+      {
+        "en": "Fifteen people can sit at each table. And, some people do not know each other! Visitors from other places sit with people from the town. Workers sit with families. Everyone meets new people.",
+        "tw": "每張圓桌都可以坐十五個人，來自各地的陌生人與當地人坐在一起，互相認識，也有全家人來用餐。",
+        "time": null
+      },
+      {
+        "en": "The waiters put food on the big Lazy Susan on each table. People spin it to get food. Some homes and restaurants in Taiwan have tables with Lazy Susans!",
+        "tw": "服務生把食物放在餐桌中間的轉盤上，大家可以轉動它來拿菜。台灣很多餐廳也有這種桌子，有的大家庭也使用。",
+        "time": null
+      },
+      {
+        "en": "The restaurant's food is hot and tasty. Many people love the fried eggplant. People eat and talk. They share stories. They laugh. They become friends!",
+        "tw": "餐廳的食物很好吃，炸茄子尤其受歡迎！大家邊吃飯邊聊天，談笑之間就成了朋友。",
+        "time": null
+      },
+      {
+        "en": "Long ago, restaurants near train stations started putting many people at one table. Lazy Susans let the restaurants feed people fast. Not many restaurants do this now.",
+        "tw": "從前火車站附近的餐廳經常用這種餐桌，這樣可以讓很多人更快吃飯。但是，現在這樣的餐廳現在已經不多了。",
+        "time": null
+      },
+      {
+        "en": "But at this restaurant, the big tables with Lazy Susans and good food keep doing one big thing. They bring people together!",
+        "tw": "但在這家餐廳，有轉盤的大餐桌和美味的食物持續發揮著一個重要的作用：它們讓大家聚在一起！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "上面有轉盤的圓形大餐桌，很適合一群人共餐，但是現在不流行了。",
+      "content": [
+        {
+          "text": "1. share 分享.\nMy mom always says, \"Don't eat and talk.\" 我媽媽總是說，吃飯時別講話。\nAnd you never listen. 而你從來不聽。\nI can't help it. 我忍不住。\nI always have stories to share! 我都有故事要分享!",
+          "time": null
+        },
+        {
+          "text": "2. food 食物.\nCan't the stories wait until after you finish chewing?\n你不能等到咀嚼完再講故事?\nNo! The food is hot, the story is fresh … perfect timing.\n不能。菜是熱的，故事新鮮，時機正好。",
+          "time": null
+        },
+        {
+          "text": "3. together 一起.\nSo it's a combo meal? 所以是個套餐?\nExactly. Food and stories together. 正是那樣! 吃飯跟故事一起。",
+          "time": null
+        },
+        {
+          "text": "4. laugh 笑.\nFine. Just don't laugh when you eat and talk. 好吧，但你邊吃邊講話時可不准笑。\nPlease don't eat and talk at the same time.",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\nshare分享 food食物 together一起 laugh笑"
+    },
+    "quiz": [
+      {
+        "question": "1. What is on the table?",
+        "options": [
+          "a. A TV",
+          "b. A waiter",
+          "c. A Lazy Susan"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What food do many people love at this restaurant?",
+        "options": [
+          "a. Fried fish",
+          "b. Fried eggplant",
+          "c. Fried eggs"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do people do when they are eating at this restaurant?",
+        "options": [
+          "a. Talk and laugh",
+          "b. Cook and clean",
+          "c. Sing and dance"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
