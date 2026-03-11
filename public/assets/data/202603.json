@@ -777,5 +777,105 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260312-01",
+    "type": "國小",
+    "tag": [
+      "Tags"
+    ],
+    "title": "Zhongli Goat Runs Free on Streets",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260311NK.mp3",
+    "content": [
+      {
+        "en": "A goat ran this way and that way on the streets of Taoyuan!",
+        "tw": "有一隻山羊在桃園的路上跑來跑去！",
+        "time": null
+      },
+      {
+        "en": "It all began at the oldest temple in Zhongli. Renhai Temple was two hundred years old! There was lots of music! There were many dancers from Taiwan and Japan!",
+        "tw": "事情要從中壢最老的一間廟說起。仁海宮兩百週年那天，廟裡有音樂、也有來自台灣跟日本的舞者表演。",
+        "time": null
+      },
+      {
+        "en": "The temple also had a contest. It wanted to find the best goat in Zhongli!",
+        "tw": "廟方還辦了一場比賽，要選出中壢最好的山羊。",
+        "time": null
+      },
+      {
+        "en": "But that night, the winning goat ran away! It ran fast! It ran on the right side of the street! Then it ran on the left side of the street! It ran across other streets. It ran in front of cars!",
+        "tw": "但是當天晚上，得獎的山羊竟然逃跑了！牠一下跑到馬路右邊，一下又跑到左邊，甚至直接跑到車子前面。",
+        "time": null
+      },
+      {
+        "en": "The roads were dark. It was hard for drivers to see the goat! They had to turn fast! They did not want to hit it! Luckily, no one was hurt!",
+        "tw": "因為天色很暗，駕駛很難看清楚那隻山羊，只能緊急轉彎避開牠。不過幸好沒人受傷！",
+        "time": null
+      },
+      {
+        "en": "The goat's owner looked for the goat. It took forty minutes to catch it. But the goat did not want to go home. It wanted to keep running free!",
+        "tw": "山羊的主人花了四十分鐘才終於抓到牠。山羊好像不想回家，還想繼續在外面自由奔跑！",
+        "time": null
+      },
+      {
+        "en": "Renhai Temple's winning goat is home with its owner. And drivers in Taoyuan are safe from the goat... for now.",
+        "tw": "中壢仁海宮的得獎山羊已回到主人身邊。而桃園的駕駛們暫時不用擔心山羊會亂跑了。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一隻驚惶亂竄的山羊，讓主人追了好一陣子。",
+      "content": [
+        {
+          "text": "1. fast 快速地.\nSlow down! You are driving too fast! 慢一點，你開太快了!\nRelax, I'm a great driver. 放心，我很會開車。\nI just don't always know which way I'm going. 我只是不見得知道該走哪裡。",
+          "time": null
+        },
+        {
+          "text": "2. left 左邊的。\nYou should stay on the left side. 你應該待在左邊。\nWe are turning left in a minute. 我們馬上就要左轉了。",
+          "time": null
+        },
+        {
+          "text": "3. right 右邊的。\nOkay, okay, I'm turning left here. 好啦，我在這裡左轉。\nWait, the hotel is on the right side! 等一下，飯店在我們右邊!\nNo worries, we're parking across from it! 別擔心，我們要停在它對面。",
+          "time": null
+        },
+        {
+          "text": "4. hit 撞上。\nWhew! We're finally here! 我們終於到了!\nYeah, without hitting anyone. 對啊，沒撞到任何人。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\nfast快速地 left左邊的 right右邊的 hit撞上"
+    },
+    "quiz": [
+      {
+        "question": "1. How old is Renhai Temple in Zhongli?",
+        "options": [
+          "a. 200 years old",
+          "b. 202 years old",
+          "c. 222 years old"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What kind of goat did the temple want to find?",
+        "options": [
+          "a. The fastest goat",
+          "b. The best goat",
+          "c. The most beautiful goat"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. When did the goat run away?",
+        "options": [
+          "a. In the morning",
+          "b. At lunchtime",
+          "c. At night"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
