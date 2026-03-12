@@ -877,5 +877,105 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260313-01",
+    "type": "國小",
+    "tag": [
+      "News"
+    ],
+    "title": "A Post Office Stops Delivering Letters",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260312NK.mp3",
+    "content": [
+      {
+        "en": "When was the last time you mailed a letter? Some people have never mailed a letter!",
+        "tw": "你上一次寄信是什麼時候呢？有一些人甚至從來沒有寄過信！",
+        "time": null
+      },
+      {
+        "en": "A long time ago, people mailed many letters. Post offices were busy!",
+        "tw": "以前大家都會寫信寄信，郵局總是很忙碌。",
+        "time": null
+      },
+      {
+        "en": "But now, many people send emails. Or they send texts. Not many people mail letters.",
+        "tw": "現在很多人改用電子郵件或傳訊息聯絡，寄信的人變得越來越少。",
+        "time": null
+      },
+      {
+        "en": "25 years ago in Denmark, the post office was busy with letters. About 270 letters were mailed for each man, woman, and child! In 2024, almost 19 letters were mailed for each person.",
+        "tw": "二十五年前，丹麥的郵局還很忙。平均每個人一年會寄大約 270 封信。不過到了 2024 年，平均每人一年只會寄 19 封信。",
+        "time": null
+      },
+      {
+        "en": "But Denmark's post office is busy now too. It has more and more packages to deliver. People there love to shop online!",
+        "tw": "雖然信變少了，但丹麥的郵局依然很忙。這是因為當地人很喜歡用網路買東西，所以要寄送的包裹變多了！",
+        "time": null
+      },
+      {
+        "en": "Denmark's post office started four hundred years ago. It delivered letters and packages. But now it does not deliver letters! On December 30th, 2025, the post office delivered the last letter!",
+        "tw": "丹麥的郵局有四百年的歷史。本來郵局同時負責寄信和送包裹，但他們現在不再處理信件。去年 12 月 30 號郵局送出最後一封信，之後丹麥人必須靠快遞公司來送信。",
+        "time": null
+      },
+      {
+        "en": "Now people in Denmark cannot use their post office to mail letters. They have to use a delivery company!",
+        "tw": "現在丹麥的人民不能使用郵局寄信了。他們必須使用快遞公司！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "丹麥人民要寄信，已經不能依賴郵局了。",
+      "content": [
+        {
+          "text": "1. post office 郵局。\nWhere are you off to? 你去哪?\nThe post office. I need to send a package. 去郵局，我要去寄包裹。\nOh, how mysterious! 好神秘!",
+          "time": null
+        },
+        {
+          "text": "2. send 寄送。\nI thought Valentine's Day was over. 我以為情人節已經過了。\nIt's not for my Valentine, okay? 不是要寄給情人好嗎?\nI'm sending back a coat I bought. 我要把我買的外套寄回去。",
+          "time": null
+        },
+        {
+          "text": "3. never 從不。\nSee? That's why I never shop for clothes online.\n你看，這就是為什麼我從來不上網買衣服。\nYou have to try things on first. 你一定得先試穿。",
+          "time": null
+        },
+        {
+          "text": "4. last time 上一次。\nOh, I know now. 現在我知道了。\nLast time I had to send back two pairs of shoes! 上次我還得退兩雙鞋呢!",
+          "time": null
+        }
+      ],
+      "postscript": "你有去過郵局嗎?\npost office郵局 send寄送 never從不 last time上一次"
+    },
+    "quiz": [
+      {
+        "question": "1. What were Denmark's post offices busy with 25 years ago?",
+        "options": [
+          "a. Packages",
+          "b. Letters",
+          "c. E-mails"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why does this post office have more packages to deliver?",
+        "options": [
+          "a. People shop online.",
+          "b. Packages cost more money.",
+          "c. People send texts."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What do people in Denmark use to send letters now?",
+        "options": [
+          "a. The post office",
+          "b. A delivery company",
+          "c. Texts"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
