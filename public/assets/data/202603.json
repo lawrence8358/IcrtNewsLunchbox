@@ -977,5 +977,106 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260316-01",
+    "type": "國小",
+    "tag": [
+      "動物",
+      "自然"
+    ],
+    "title": "Working Together to Catch Salmon",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260313NK.mp3",
+    "content": [
+      {
+        "en": "In the Pacific Ocean near Canada, dolphins swim. They swim in groups. They hunt for food.",
+        "tw": "海豚在靠近加拿大的太平洋中，成群結隊地尋找食物。",
+        "time": null
+      },
+      {
+        "en": "These dolphins are good at finding salmon. But they cannot catch salmon. Salmon are too big for them. The dolphins are about two and a half meters long. Salmon are about one meter long!",
+        "tw": "海豚很會找鮭魚，要吞下鮭魚卻有困難，因為海豚的身體沒有比鮭魚大多少。",
+        "time": null
+      },
+      {
+        "en": "Orcas swim nearby. They are dolphins too. But they are very big. They are seven or eight meters long! They are fast and strong.",
+        "tw": "虎鯨也是一種海豚，身體卻大很多，有七八公尺長，不但強壯，而且行動敏捷。",
+        "time": null
+      },
+      {
+        "en": "These orcas eat lots of salmon. And, they are very good at hunting for salmon. But scientists say these orcas and dolphins hunt for salmon together! The dolphins swim in front. They find a salmon. Then the orcas swim in front. They catch it! Hunting is easier together.",
+        "tw": "虎鯨擅長追捕鮭魚，也吃很多鮭魚。科學家注意到虎鯨跟海豚會合作，海豚游在前面，發現獵物之後虎鯨跟著捕捉。",
+        "time": null
+      },
+      {
+        "en": "The orcas eat first. Pieces of the salmon fall. The dolphins eat these pieces. The orcas let the dolphins stay and eat.",
+        "tw": "虎鯨狼吞虎嚥時，魚的碎片會落在海裡，海豚就可以享用了。",
+        "time": null
+      },
+      {
+        "en": "Scientists are surprised. Orcas do not share their food. But these orcas share their food with these dolphins!",
+        "tw": "科學家很驚訝，因為虎鯨平常不會分享食物，這些虎鯨卻願意讓海豚共餐。",
+        "time": null
+      },
+      {
+        "en": "Hm … Maybe these orcas can eat more salmon this way!",
+        "tw": "嗯...也許這些虎鯨能以這種方式吃到更多鮭魚呢！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家發現，有些虎鯨和海豚會合作獵取食物!",
+      "content": [
+        {
+          "text": "1. ocean 海洋。\nI dreamed of swimming with dolphins in the ocean! 我夢見跟海豚在海裡游泳!\nThat's a cool dream! 好酷的夢!\nIsn't it wonderful? 可不是很奇妙!\nI didn't want to wake up. 我都不想醒來。",
+          "time": null
+        },
+        {
+          "text": "2. swim 游泳。\nYou swam with sea turtles before. 你以前跟海龜一起游泳過。\nI did. In the Galapagos. 對，在加拉巴哥群島。\nThey were in front of me and behind me. 牠們在我前面跟後面。",
+          "time": null
+        },
+        {
+          "text": "3. surprised 驚訝的。\nI was very surprised to see them. 我看到牠們好驚訝!\nThey were not afraid of me at all! 牠們完全不怕我!",
+          "time": null
+        },
+        {
+          "text": "4. maybe 也許。\nMaybe they wanted to be friends. 也許牠們想做朋友。\nOr maybe they were trying to find out if they could eat me.\n或許也想知道，能不能把我吃掉。",
+          "time": null
+        }
+      ],
+      "postscript": "你有沒有在海裡游泳過?\nocean海洋 swim游泳 surprised驚訝的 maybe也許"
+    },
+    "quiz": [
+      {
+        "question": "1. Why can't the dolphins catch salmon?",
+        "options": [
+          "a. Salmon are too big.",
+          "b. The dolphins are too slow.",
+          "c. Orcas eat a lot of salmon."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. When hunting together, which swim in front first?",
+        "options": [
+          "a. Orcas",
+          "b. Salmon",
+          "c. Dolphins"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Why are scientists surprised?",
+        "options": [
+          "a. These dolphins eat salmon.",
+          "b. These orcas share their food.",
+          "c. Salmon are one meter long."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
