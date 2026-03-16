@@ -1078,5 +1078,110 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260317-01",
+    "type": "國小",
+    "tag": [
+      "健康"
+    ],
+    "title": "Most People in Taiwan Need More Calcium",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260316NK.mp3",
+    "content": [
+      {
+        "en": "Do you like milk, yogurt, or cheese?",
+        "tw": "你喜歡牛奶、優格、或是起司嗎？",
+        "time": null
+      },
+      {
+        "en": "If you do, that's great! Your bones need these foods. Your teeth need them! These foods have lots of calcium.",
+        "tw": "這些食物裡面有滿滿的鈣質，是我們骨頭所需要的重要營養素！",
+        "time": null
+      },
+      {
+        "en": "Calcium is important for your body. Maybe you know it helps your bones and teeth grow. But did you know it helps your muscles move too?",
+        "tw": "鈣質可以讓骨頭和牙齒健康生長，也可以幫助我們的肌肉收縮。",
+        "time": null
+      },
+      {
+        "en": "In Taiwan, kids from one year old to three years old get all of the calcium they need. That's great!",
+        "tw": "在台灣，一到三歲的小朋友普遍能攝取足夠的鈣質。",
+        "time": null
+      },
+      {
+        "en": "But, kids from four years and up, and adults, do not get all of the calcium they need! They get half!",
+        "tw": "但四歲以上的小朋友跟很多大人，都有鈣質嚴重攝取不足的問題",
+        "time": null
+      },
+      {
+        "en": "What happens when your body needs more calcium? Maybe your bones do not grow as long or strong as they can. Maybe your teeth are not strong. Or maybe your muscles get too tight sometimes. Ouch!",
+        "tw": "身體缺乏鈣質會出現什麼問題呢？鈣質不足不但會影響骨頭的健康生長，讓牙齒變得脆弱，也有可能導致肌肉緊繃、痠痛！",
+        "time": null
+      },
+      {
+        "en": "But calcium is easy to get! Drink some milk! Eat yogurt and cheese! Black sesame and small dried fish also have lots of calcium. Many other foods do too. And sunlight helps your body take in more calcium.",
+        "tw": "好消息是，鈣質一點都不難取得！牛奶、優格、起司、黑芝麻、小魚乾、和很多其他的食物裡都有滿滿的鈣質。多曬太陽也可以幫助鈣質的吸收喔！",
+        "time": null
+      },
+      {
+        "en": "So, feed your bones, teeth, and muscles some calcium today!",
+        "tw": "所以，今天就為你的骨骼、牙齒和肌肉補充一些鈣質吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "鈣質對身體很重要，需要多加注意。",
+      "content": [
+        {
+          "text": "1. bone 骨頭。 Guess how many bones we have in our body. 猜猜看我們的身體有幾根骨頭。 Hmmm… A thousand? 一千根? Nope. 不對。 Ten thousand? 一萬根? No! We’d be too heavy!",
+          "time": null
+        },
+        {
+          "text": "2. muscle 肌肉。 Just tell me. 告訴我吧。 Two hundred and six. 兩百零六根。 That’s not a lot. 並不多。 Well, don't forget we also have muscles. 別忘了我們還有肌肉。",
+          "time": null
+        },
+        {
+          "text": "3. tooth 牙齒。 What about our teeth? 那牙齒呢? I lost one tooth yesterday! 我昨天少了一顆牙。",
+          "time": null
+        },
+        {
+          "text": "4. grow 生長。 That’s awful! 真糟糕! Yeah, my dentist took it out. 對啊，我的牙醫把它給拔了。 Will it grow back? 會長回來嗎? Ha ha! I wish! 哈，我也希望。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。 bone骨頭 muscle肌肉 tooth牙齒 grow生長"
+    },
+    "quiz": [
+      {
+        "question": "1. Who gets all the calcium they need in Taiwan?",
+        "options": [
+          "a. Kids from one year old to three years old",
+          "b. Kids from four years and up",
+          "c. Adults"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Which food has lots of calcium?",
+        "options": [
+          "a. Chicken",
+          "b. Yogurt",
+          "c. Bananas"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What helps your body take in more calcium?",
+        "options": [
+          "a. Indoor light",
+          "b. Moonlight",
+          "c. Sunlight"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
