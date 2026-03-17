@@ -1183,5 +1183,98 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260318-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Families Cannot Eat Jollof Rice Every Week in Nigeria",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260317NK.mp3",
+    "content": [
+      {
+        "en": "In Nigeria, many people love jollof rice. This food is red. It is spicy! It tastes very good.",
+        "tw": "在奈及利亞，很多人都喜歡吃加羅夫飯。這道紅色的菜餚又辣又美味！",
+        "time": null
+      },
+      {
+        "en": "Every family's jollof rice is a little different. People make it with rice, tomatoes, peppers, onion, and spices. They cook it for a long time.",
+        "tw": "加羅夫飯裡面有米、番茄、辣椒、洋蔥、和各種香料。每個家庭做出來的加羅夫飯都有一點不一樣！",
+        "time": null
+      },
+      {
+        "en": "Families eat jollof rice with chicken or beef. They also eat it with fried plantains.",
+        "tw": "加羅夫飯通常會搭配雞肉或牛肉一起吃，也會配炸大蕉。",
+        "time": null
+      },
+      {
+        "en": "Families ate jollof rice every week. Some families ate it three times a week! But now, jollof rice costs a lot of money. Many families cannot eat it every week. They cannot eat it every month!",
+        "tw": "原本大家每星期都會吃加羅夫飯，有些家庭甚至一個星期吃三次。但是現在，這道菜變得太貴了，很多人吃不起！",
+        "time": null
+      },
+      {
+        "en": "So now some families make a new rice dish. It does not cost a lot of money. They make it with fish. They do not make it with tomatoes or chicken. This rice dish tastes good. But it is not as tasty as jollof rice.",
+        "tw": "因此，很多家庭選擇做另一道比較便宜的菜飯。他們用魚，不用番茄和雞肉。雖然味道不如加羅夫飯，但是也十分美味！",
+        "time": null
+      },
+      {
+        "en": "Families cannot eat jollof rice every week. Many families make jollof rice and chicken for Christmas now. They make it for parties too.",
+        "tw": "許多家庭無法每週吃加羅夫飯了。現在，許多家庭只在聖誕節和派對上製作加羅夫飯和雞肉。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "比較便宜的菜飯，慢慢取代了奈及利亞的加羅夫飯。",
+      "content": [
+        {
+          "text": "1. rice 米飯.\nWhat are you cooking? 你在煮什麼?\nSmells amazing! 好香喔!\nI've just made fried rice with onion and spices. 我剛剛做了洋蔥跟香料炒飯.",
+          "time": null
+        },
+        {
+          "text": "2. beef 牛肉.\nNow I'm making beef and tomato stew. 現在我正在燉番茄牛肉.\nI love both of them! 兩個我都喜歡!",
+          "time": null
+        },
+        {
+          "text": "3. dish 菜色.\nThen you're in luck! 那你走運了.\nMaybe I can cook these dishes more often. 也許我可以多做幾次那兩道菜.",
+          "time": null
+        },
+        {
+          "text": "4. chicken 雞.\nThat'll be great! 真棒! I can cook too. 我也會煮.\nI'll make chicken soup for you. 我來為你做個雞湯.\nAre you sure? 你確定嗎?\nOf course! It'll be tasty. 當然，會很好吃的.",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡怎樣的食物?\nrice米飯 beef牛肉 dish菜色 chicken雞"
+    },
+    "quiz": [
+      {
+        "question": "1. What do people often eat with jollof rice?",
+        "options": [
+          "a. Chicken",
+          "b. Fish",
+          "c. Pork"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Why do families make a new dish now?",
+        "options": [
+          "a. Jollof rice costs too much.",
+          "b. The new dish is not tasty.",
+          "c. People do not like jollof rice."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. When do many families eat jollof rice now?",
+        "options": [
+          "a. Every week",
+          "b. Every month",
+          "c. Christmas"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
