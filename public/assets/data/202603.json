@@ -1276,5 +1276,105 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260319-01",
+    "type": "國小",
+    "tag": [
+      "Tags"
+    ],
+    "title": "A 17-Year-Old Boy May Save Elephants with AI",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260318NK.mp3",
+    "content": [
+      {
+        "en": "Rainforests have insects, birds, frogs, monkeys and more. Some rainforests in Africa have African forest elephants. They eat fruit. This helps new trees grow.",
+        "tw": "雨林裡有很多動物，例如昆蟲、鳥、青蛙、猴子等等。有些非洲的雨林還住著大象。",
+        "time": null
+      },
+      {
+        "en": "But some people hunt these elephants. They use guns. They sell the elephants' long ivory tusks.",
+        "tw": "但是有些人會用槍來獵殺這些大象，把象牙賣出去。",
+        "time": null
+      },
+      {
+        "en": "Scientists want to keep these elephants safe. They put many microphones in rainforests. They listened for gunshots.",
+        "tw": "科學家想保護大象，所以在雨林裡面放了很多麥克風來收集聲音，想追尋槍聲。",
+        "time": null
+      },
+      {
+        "en": "But listening for gunshots was very hard. Tree branches broke. Rain fell. Monkeys called. All of these can sound like gunshots!",
+        "tw": "但要分辨槍聲可不簡單。樹枝斷裂、下雨、猴子叫聲，聽起來都像槍聲。",
+        "time": null
+      },
+      {
+        "en": "A 17-year-old boy made an AI program. It uses the scientists' microphones. It listens for gunshots.",
+        "tw": "一名 17 歲的男孩做了一個 AI 程式，用那些麥克風收集到的資訊來分辨槍響。",
+        "time": null
+      },
+      {
+        "en": "The AI knows what sounds are gunshots. It knows what sounds are not gunshots. The AI also knows where the gunshots are. This lets police catch the hunters.",
+        "tw": "AI 聽得出來哪些聲音來自獵槍，哪一些不是，並且判斷槍聲的位置。這樣一來，警察就能找到獵人並且抓住他們！",
+        "time": null
+      },
+      {
+        "en": "This boy's AI may be used to keep African forest elephants safe!",
+        "tw": "這個男孩的 AI 可能會被用來保護非洲森林象的安全！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一名會寫AI程式的少年，貢獻力量保護森林裡的大象。",
+      "content": [
+        {
+          "text": "1. hard 困難的。\nI do hope to visit a rainforest someday! 我真希望有一天去雨林玩一玩。\nThe Amazon? 亞馬遜嗎?\nThe Amazon, or maybe Africa. 亞馬遜，或是非洲。\nThat shouldn't be too hard. 那應該不難。",
+          "time": null
+        },
+        {
+          "text": "2. monkey 猴子。\nBut what do you want to see there? 但是你去那兒想看什麼?\nWildlife, of course. 當然是野生動物。\nBirds, monkeys, even iguanas. 鳥類，猴子，甚至是蜥蜴。",
+          "time": null
+        },
+        {
+          "text": "3. safe 安全的。\nAnd spiders, snakes, and a tiger that might eat you!\n還有蜘蛛，蛇，會吃掉你的老虎!\nHey, my guide will keep me safe. 我的導遊會保護我。",
+          "time": null
+        },
+        {
+          "text": "4. animal 動物。\nAs for me, I'd rather see the animals from far away.\n我呢，只想從遠遠的地方看動物。\nAre you an animal lover?",
+          "time": null
+        }
+      ],
+      "postscript": "來讀今天的單字。hard困難的 monkey猴子 safe安全的 animal動物"
+    },
+    "quiz": [
+      {
+        "question": "1. What do African forest elephants eat?",
+        "options": [
+          "a. Frogs",
+          "b. Insects",
+          "c. Fruit"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do African forest elephants help grow?",
+        "options": [
+          "a. Scientists",
+          "b. Gunshots",
+          "c. New trees"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Who made an AI program to find gunshots?",
+        "options": [
+          "a. A 17-year-old boy",
+          "b. Scientists",
+          "c. Hunters"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
