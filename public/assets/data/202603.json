@@ -1376,5 +1376,98 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260320-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Taiwanese Workers Make New Home in America",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260319NK.mp3",
+    "content": [
+      {
+        "en": "A Taiwanese company is building factories in America. The company needs about one thousand of its Taiwanese workers to work there. So the workers went to America with their families.",
+        "tw": "台灣一家大公司在美國設立了工廠，一千多名台灣的員工於是帶著家人移居美國。",
+        "time": null
+      },
+      {
+        "en": "Many of these families live near each other. Their apartment building has a big swimming pool! It has a place to exercise!",
+        "tw": "他們住得都很近，附近有游泳池，還有地方做運動!",
+        "time": null
+      },
+      {
+        "en": "Families do things with other families. The city did not have many Chinese restaurants. So people learned how to cook together. Now they can make the food they eat in Taiwan!",
+        "tw": "台灣家庭彼此幫忙，當地沒什麼中式餐廳，所以他們一起學做台灣料理，這樣至少可以吃到家鄉味。",
+        "time": null
+      },
+      {
+        "en": "Families also go to playgrounds with other families. Sometimes they meet at one family's home. The kids play and the adults talk.",
+        "tw": "大家還會約好一起去遊樂場，也舉行家庭聚會，小孩玩耍，大人聊天。",
+        "time": null
+      },
+      {
+        "en": "The Taiwanese workers and their families are changing their part of the city. It is a little like Taiwan now. There are more Chinese restaurants. There are boba shops! Other businesses have Mandarin speakers.",
+        "tw": "這些台灣員工改變了當地的樣貌，那個城市現在有點像台灣，甚至還有賣珍珠奶茶!有一些商店雇用會講國語的店員。",
+        "time": null
+      },
+      {
+        "en": "Families are buying houses there. This American city is their new home!",
+        "tw": "家庭在那裡購買房屋。這座美國城市是他們的新家！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "為了工作，一大群台灣的公司員工遠赴美國開始新生活。",
+      "content": [
+        {
+          "text": "1. city 城市。I heard you're leaving the city next month. 聽說你下個月要離開了。I am. My company is sending some workers to Kaohsiung.沒錯，我的公司要送一些員工去高雄。",
+          "time": null
+        },
+        {
+          "text": "2. family 家人。For how long? 去多久呢?About a year, I think. 我想大概一年吧。How does your family feel about it? 你的家人覺得如何?They're not very happy. 他們不大開心。",
+          "time": null
+        },
+        {
+          "text": "3. live 居住。But I like the idea of living in another place for a while.可是我喜歡這個主意，住別的地方一段時間。True! Kaohsiung has great weather and amazing food. 真的!高雄天氣好，東西好吃。",
+          "time": null
+        },
+        {
+          "text": "4. house 房子。Yeah, I may even buy a house there, 我甚至可能買房子，make Kaohsiung my second home. 讓高雄成為我第二個家。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字每天都用的到。city城市 family家人 live居住 house房子"
+    },
+    "quiz": [
+      {
+        "question": "1. Who do the Taiwanese workers work for?",
+        "options": [
+          "a. A Japanese company",
+          "b. An American company",
+          "c. A Taiwanese company"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did people learn how to do together?",
+        "options": [
+          "a. Cook",
+          "b. Clean",
+          "c. Eat"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What does the city have now?",
+        "options": [
+          "a. Mandarin schools",
+          "b. Boba shops",
+          "c. Taiwanese supermarkets"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
