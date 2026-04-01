@@ -1,0 +1,99 @@
+ [
+  {
+    "id": "20260401-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Small Crabs Do a Big Cleanup",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260331NK.mp3",
+    "content": [
+      {
+        "en": "Mangrove forests grow where the land and the sea meet. They are muddy!",
+        "tw": "紅樹林生長在陸地與海的交界處，那裡都是泥巴地。",
+        "time": null
+      },
+      {
+        "en": "In Colombia, the mud in a mangrove forest is dirty. It has many very small pieces of plastic in it. But, fiddler crabs are very busy there!",
+        "tw": "在哥倫比亞的一片紅樹林裡面，地上的泥巴藏了很多小塑膠碎片跟忙個不停的招潮蟹。",
+        "time": null
+      },
+      {
+        "en": "Maybe you have seen fiddler crabs in Taiwan. They are about three to five centimeters wide. Male crabs have one big claw and one small claw. Female crabs have two small claws. They live in mud. Every day, they eat mud.",
+        "tw": "你也許在台灣也見過招潮蟹！牠們只有大約三到五公分寬。公的招潮蟹有一隻大螯跟一隻小螯，母蟹則有兩隻小螯。招潮蟹躲在泥巴裡，每天都吃泥巴裡的微小生物。",
+        "time": null
+      },
+      {
+        "en": "Scientists studied some fiddler crabs in Colombia. When these crabs eat mud, they eat plastic too. This cleans the mud. There is more plastic in the crabs than in the mud!",
+        "tw": "科學家研究這些哥倫比亞的招潮蟹，發現牠們在吃泥巴的時候也會把塑膠一起吃進去，讓泥巴變乾淨了。",
+        "time": null
+      },
+      {
+        "en": "The crabs' stomach breaks plastic into smaller pieces. It does this in a few days. It does this faster than sunlight! It does this faster than ocean waves too! But too much plastic is bad for the crabs.",
+        "tw": "招潮蟹的胃可以把塑膠分解成更小的碎片，而且速度比用陽光或海浪分解快很多。不過，吃太多塑膠對螃蟹還是不好！",
+        "time": null
+      },
+      {
+        "en": "These small crabs are helping us. But they need our help too. Please recycle plastic. If you cannot, then throw it away in the right place!",
+        "tw": "這些小螃蟹正在幫助我們，但牠們也需要我們的幫助。請回收塑膠。如果你不能回收，請把它丟在正確的地方！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家發現招潮蟹有清潔環境的功能，並且效率高。",
+      "content": [
+        {
+          "text": "1. big 大的。\nWhat are these little creatures? 這些小東西是什麼啊? They look funny! 看起來很好玩! They are fiddler crabs. 是招潮蟹。See, one claw is very big, the other is small. 你看，一隻螯很大，一隻很小。",
+          "time": null
+        },
+        {
+          "text": "2. smaller 比較小的。\nEven the body is smaller than the claw. 連身體都比它的螯小。Why? 為什麼? These are male crabs. 這些是公蟹。They use the big claws to fight. 牠們用大螯來戰鬥。",
+          "time": null
+        },
+        {
+          "text": "3. land 陸地。\nCan they swim if I throw them into the sea? 如果丟進海裡，牠們會游泳嗎? No, don't do that. 不會，不要那樣。They live on land. 牠們住在陸地上。",
+          "time": null
+        },
+        {
+          "text": "4. mud 泥巴。\nAnd they eat mud. Yuck! 好難吃。 I know. But they like it. 我知道，不過牠們喜歡。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了嗎? big大的 smaller比較小的 land陸地 mud泥巴"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of claws do male fiddler crabs have?",
+        "options": [
+          "a. One small claw, one big claw",
+          "b. Two small claws",
+          "c. Two big claws"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What has more plastic?",
+        "options": [
+          "a. Forest mud",
+          "b. Mangrove trees",
+          "c. Fiddler crabs"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What happens to the plastic inside the crabs?",
+        "options": [
+          "a. It becomes food.",
+          "b. It breaks into smaller pieces.",
+          "c. It becomes a claw."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  }
+]
