@@ -196,5 +196,111 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260403-01",
+    "type": "國小",
+    "tag": [
+      "Nature",
+      "Birds"
+    ],
+    "title": "Man Wants Big Home for Birds",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260402NK.mp3",
+    "content": [
+      {
+        "en": "In Kenya, a boy lived near a lake in a big park. Many birds lived there too.",
+        "tw": "在肯亞，有個小男孩住在湖邊，這個湖在大公園裡。",
+        "time": null
+      },
+      {
+        "en": "The boy liked watching the birds. Sometimes a bird was hurt, sick, or hungry. He tried to help them.",
+        "tw": "湖邊有很多鳥，小男孩喜歡看這些鳥。當發現受傷、生病、或是肚子餓的鳥，他總是想辦法幫忙。",
+        "time": null
+      },
+      {
+        "en": "The boy grew up. He went to live in Nairobi. Nairobi is a loud, busy city. Cars drive fast. Buildings have many windows. And power lines are everywhere.",
+        "tw": "小男孩長大後，搬去了奈洛比。奈洛比是個吵雜忙碌的城市，路上的車子開得很快，建築物有很多窗戶，並且到處都是電線。",
+        "time": null
+      },
+      {
+        "en": "The young man often saw hurt birds. They hit windows. They hit power lines. But no one helped them.",
+        "tw": "這名男子常常看到受傷的鳥。有的鳥會撞到窗戶或是電線，可是都沒有人伸出援手。",
+        "time": null
+      },
+      {
+        "en": "So the man helps birds again. He feeds them. He cares for them. But his home is very small. He cannot keep the birds until they get better.",
+        "tw": "於是他又開始幫助這些鳥，照顧牠們，還餵牠們吃東西。不過他的家很小，沒辦法讓鳥住到完全康復。",
+        "time": null
+      },
+      {
+        "en": "The man often walks with a bird on his head or shoulders. People call him the Nairobi Birdman.",
+        "tw": "這名男子走在路上時，頭頂或肩膀上往往停著一隻鳥，所以大家都叫他「奈洛比鳥人」。",
+        "time": null
+      },
+      {
+        "en": "The man wants to take care of more birds. He wants to have a big home for them. It will be a safe place for them to get better.",
+        "tw": "這名男子希望照顧更多小鳥，也希望有比較大的家，可以讓鳥安全地休息、慢慢好起來！",
+        "time": null
+      },
+      {
+        "en": "With some help, maybe the Nairobi Birdman can have a big home for birds. Then this young man can help more birds!",
+        "tw": "在一些幫助下，或許奈洛比鳥人可以為鳥兒們建立一個大家園。這樣這位年輕人就能幫助更多鳥兒了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "喜歡鳥類的小男孩，長大之後仍然努力幫助他的鳥朋友。",
+      "content": [
+        {
+          "text": "1. watch 注意看。\nI can't go shopping this weekend. 我這周末不能去逛街。\nI'm going birdwatching. 我要去賞鳥。\nWhere are you going? 去哪裡?\nThe Botanical Garden. 植物園。",
+          "time": null
+        },
+        {
+          "text": "2. city 城市。\nIn Taipei city? 在台北市嗎?\nYeah. 對。\nBirds stay there even with so many people?! 人那麼多，鳥兒還待在那裏?\nThey love it! There's a pond and many trees. 牠們很喜歡呢!\n那裏有池塘，有好多樹。",
+          "time": null
+        },
+        {
+          "text": "3. place 地方。\nIt's a perfect place for birds. 對鳥來說很完美。",
+          "time": null
+        },
+        {
+          "text": "4. feed 餵食。\nDo you feed them? 你會餵牠們嗎?\nNope. They're better at finding food than I am. 不，牠們找食物可比我行。",
+          "time": null
+        }
+      ],
+      "postscript": "Have you ever gone birdwatching?\nwatch注意看 city城市 place地方 feed餵食"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did the boy live?",
+        "options": [
+          "a. Near a lake",
+          "b. In the city",
+          "c. In Nairobi"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How do birds get hurt in the city?",
+        "options": [
+          "a. They fall from trees.",
+          "b. They hit power lines.",
+          "c. They eat too much."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do people call the man?",
+        "options": [
+          "a. The Kenyan Birdboy",
+          "b. The Nairobi Citybird",
+          "c. The Nairobi Birdman"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
