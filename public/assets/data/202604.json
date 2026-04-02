@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20260401-01",
     "type": "國小",
@@ -93,6 +93,107 @@
         ],
         "time": null,
         "answer": "b"
+      }
+    ]
+  },
+  {
+    "id": "20260402-01",
+    "type": "國小",
+    "tag": [
+      "健康",
+      "生活"
+    ],
+    "title": "Some Warm Clothes Can Make Kids Itch",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260401NK.mp3",
+    "content": [
+      {
+        "en": "The weather is getting warmer all over Taiwan. But sometimes it is cold. What do you wear then? Hmmmm. Clothes with fleece inside are soft and warm…",
+        "tw": "天氣變涼的時候，穿有刷毛的衣服既柔軟又保暖！",
+        "time": null
+      },
+      {
+        "en": "But wearing fleece can cause problems for kids. They can get red, itchy skin! This is not comfortable. For some kids, it hurts!",
+        "tw": "可是，刷毛的衣服有時會讓小朋友的皮膚很不舒服！他們的皮膚會變紅、發癢，甚至會痛。",
+        "time": null
+      },
+      {
+        "en": "Moms and dads were worried. Why was their kid's skin itchy? Some of them took their kid to the doctor.",
+        "tw": "很多爸爸媽媽很擔心！為了知道小朋友皮膚癢的原因，他們還帶孩子去看醫生。",
+        "time": null
+      },
+      {
+        "en": "Food was not making these kids itch. Bug bites were not making them itch. Doctors said fleece clothes were making kids itch!",
+        "tw": "原來，小朋友皮膚癢不是因為食物過敏或是被昆蟲咬，而是因為穿了刷毛的衣服！",
+        "time": null
+      },
+      {
+        "en": "When kids run and play, their clothes rub their skin. When they wear fleece next to their skin, kids can get hot and itchy. Kids also sweat. This makes their itchy skin itch more!",
+        "tw": "當小朋友奔跑、玩耍的時候，衣服會摩擦他們的皮膚。穿刷毛的衣服時，皮膚就會被摩擦的又紅又癢！如果小朋友流汗的話，那就更癢了！",
+        "time": null
+      },
+      {
+        "en": "So when the weather is cold, what can you do? Doctors say wearing 100% cotton clothes is the best. Wear them next to your skin. Then you can wear fleece or other warm clothes on top of your cotton clothes.",
+        "tw": "那麼天氣冷的時候到底該怎麼穿呢？醫生建議，可以在最裡面穿一件100%棉質的衣服，再套刷毛或其他保暖的衣服！",
+        "time": null
+      },
+      {
+        "en": "You will be warm this way. And your skin will not itch!",
+        "tw": "這樣穿既保暖，你的皮膚也不會癢了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "有些保暖的衣物，可能會引起兒童皮膚過敏。",
+      "content": [
+        {
+          "text": "1. weather 天氣。\nWearing a sweater today was a bad idea. 今天穿毛衣真糟糕! It's way too warm! 太熱了!\nYeah, the weather's messing with you. 你被天氣給耍了。",
+          "time": null
+        },
+        {
+          "text": "2. itch 發癢。\nThis morning was cold, and now I'm melting and itching!\n今天早上還很冷，現在我都要融化了，還很癢!\nYou'd better lose that sweater. 你最好脫掉那件毛衣。",
+          "time": null
+        },
+        {
+          "text": "3. cotton 棉花。\nI've got a cotton shirt in my bag. 我包包裡有棉襯杉。\nYou can borrow it if you don't mind. 可以借你，如果你不介意的話。",
+          "time": null
+        },
+        {
+          "text": "4. best 最好的。\nIs it clean? 乾淨嗎?\nIt smells okay. 聞起來還好。\nThat's not very convincing… 聽起來不大有說服力。\nBut yeah, I guess that's the best I can get right now. 不過好吧，現在最好也只能這樣。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了嗎?\nweather天氣 itch發癢 cotton棉花 best最好的"
+    },
+    "quiz": [
+      {
+        "question": "1. What made kids' skin itchy?",
+        "options": [
+          "a. Bug bites",
+          "b. Fleece clothes",
+          "c. Food"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What makes itchy skin itch more?",
+        "options": [
+          "a. Red skin",
+          "b. Doctors",
+          "c. Sweat"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What should you wear next to your skin?",
+        "options": [
+          "a. Itchy clothes",
+          "b. Fleece clothes",
+          "c. Cotton clothes"
+        ],
+        "time": null,
+        "answer": "c"
       }
     ]
   }
