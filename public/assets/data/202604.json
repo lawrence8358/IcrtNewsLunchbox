@@ -302,5 +302,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260406-01",
+    "type": "國小",
+    "tag": [
+      "Nantou",
+      "Sheep",
+      "Cherry Blossoms"
+    ],
+    "title": "Sheep Find Beautiful Snack",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260403NK.mp3",
+    "content": [
+      {
+        "en": "A farm in Nantou has many cherry trees. Every year, the trees have many pink flowers. They are called cherry blossoms. Spring is the best time to see these beautiful blossoms.",
+        "tw": "南投有一個農場有很多櫻花樹。春天是最適合賞櫻的季節，春天一到，樹上都會開滿粉紅色的櫻花。",
+        "time": null
+      },
+      {
+        "en": "But this year, the sheep on the farm have another plan. To them, the blossoms look like delicious snacks!",
+        "tw": "但是今年這座農場裡的羊群，認為櫻花看起來像好吃的點心！",
+        "time": null
+      },
+      {
+        "en": "The sheep walk around the farm. They take small bites of the cherry blossoms. They eat some blossoms here. They eat some blossoms there.",
+        "tw": "羊群在農場裡走動，邊走邊吃櫻花。這裡吃一點，那裡也吃一點。",
+        "time": null
+      },
+      {
+        "en": "Soon, many cherry blossoms are gone! The wind did not blow them away. The sheep ate them!",
+        "tw": "沒有多久，櫻花的數量就變少了！櫻花不是被風吹落，而是被羊群吃掉了！",
+        "time": null
+      },
+      {
+        "en": "These sheep eat the cherry blossoms they can reach first. But they are smart. They also jump to get higher ones. They try very hard! Each sheep tries to get the last blossom!",
+        "tw": "這些羊會先吃離牠們比較近的花朵，但是牠們很聰明，也會跳起來吃比較高的花。牠們很努力的跳啊跳，每隻羊都想吃到最後一朵花！",
+        "time": null
+      },
+      {
+        "en": "People go to the farm to see cherry blossoms. And this year, they go to see the sheep too! They watch these sheep jump and eat the blossoms. It is fun! They laugh and take pictures.",
+        "tw": "原本只想賞花的遊客現在也會來看這些羊！大家看到跳來跳去的羊，覺得很有趣，還會笑著幫牠們拍照。",
+        "time": null
+      },
+      {
+        "en": "Have you seen cherry blossoms this spring? If you have not, hurry up! Or some sheep might eat them first!",
+        "tw": "今年春天你去看過櫻花嗎？如果你還沒去，快點喔！不然有些羊可能會先把它們吃光！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "人類喜歡賞花，但是在羊群的眼中，花兒卻是美味的食物。",
+      "content": [
+        {
+          "text": "1. cherry blossom 櫻花。\nWhere do you usually go for cherry blossoms? 你通常去哪裡賞櫻?\nWell, I like cherries, but the blossoms? 我愛吃櫻桃，但是櫻花?\nNot so much. 就沒那麼喜歡了。",
+          "time": null
+        },
+        {
+          "text": "2. pink 粉紅的。\nDon’t you think they’re beautiful? 你不覺得它很漂亮?\nOkay, they are pretty. 好吧，是很美。\nThe pink ones are my favorite. 我最喜歡粉紅色的。",
+          "time": null
+        },
+        {
+          "text": "3. flower 花。\nThen why not go see them? 那為什麼不去看?\nNo, I wouldn’t go out of my way just for flowers. 不去，我不想專程去賞花。",
+          "time": null
+        },
+        {
+          "text": "4. delicious 美味的。\nYou’re not a romantic person, are you? 你不是個浪漫的人，對吧?\nI bake delicious cherry pies. 我會烤美味的櫻桃派。\nDoes that make me romantic? 這樣算不算浪漫?",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很可愛。\ncherry blossom櫻花 pink粉紅的 flower花 delicious美味的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the farm?",
+        "options": [
+          "a. Yilan",
+          "b. Nantou",
+          "c. Hualien"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. When is the best time to see cherry blossoms?",
+        "options": [
+          "a. Winter",
+          "b. Spring",
+          "c. Fall"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why are many cherry blossoms gone on the farm?",
+        "options": [
+          "a. The sheep ate them.",
+          "b. The wind blew them away.",
+          "c. Birds ate them."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
