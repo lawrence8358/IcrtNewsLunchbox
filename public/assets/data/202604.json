@@ -404,5 +404,98 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260407-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Free School Lunches in Taiwan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260406NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: What did you eat for lunch? Some people say: Auntie: You are what you eat. Narrator: Does that mean if you eat a sausage, you are a sausage?! No, no, no.",
+        "tw": "你今天午餐吃什麼呢？有些人說「吃什麼像什麼」，但這不代表我們吃香腸就會變成香腸了！",
+        "time": null
+      },
+      {
+        "en": "When we eat healthy food, we feel good. Healthy food is good for us. It’s good for our bodies and brains. It gives us more energy. That’s what people mean when they say: Auntie: You are what you eat! Narrator: Thanks, Auntie!",
+        "tw": "當我們吃健康食物，身體與大腦會獲得很多能量，整體就變得健康。這就是「吃什麼像什麼」！",
+        "time": null
+      },
+      {
+        "en": "Schools in Taiwan want to help kids eat healthy food. But it can cost a lot of money!",
+        "tw": "學校希望學生們多吃健康食物，但是那些食物可不便宜！",
+        "time": null
+      },
+      {
+        "en": "Some people think free school lunches can help. They are worried. They say some families do not have money for healthy food. They think schools should help students eat healthy food every day.",
+        "tw": "有些家庭負擔不起，因此有人認為免費的營養午餐，會很有幫助！他們覺得學校應該確保學生天天都能吃得健康。",
+        "time": null
+      },
+      {
+        "en": "But some people do not think free school lunches can help. They are worried too. They say some schools do not have money to buy healthy food. They think schools will give students food that is not healthy.",
+        "tw": "但是也有人擔心經費不足的學校，沒辦法供應學生營養午餐，於是就給學生吃一些便宜而不健康的東西。",
+        "time": null
+      },
+      {
+        "en": "Next year, most schools in Taiwan will have free school lunches. Will this help students eat healthy food? What do you think?",
+        "tw": "明年，台灣大部分的學校將會有免費的營養午餐。這會幫助學生吃得健康嗎？你覺得呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "學校的營養午餐，對很多小朋友來說是重要的一餐。",
+      "content": [
+        {
+          "text": "1. lunch 午餐。\nWhat are we having for lunch? 我們中飯吃什麼?\nSomething healthy. 健康的東西。\nYou don’t mean vegetable soup and cheese, right?\n你的意思不是指青菜湯跟起司吧?\nHey, they are healthy! 那些是很健康啊!",
+          "time": null
+        },
+        {
+          "text": "2. body 身體。\nMaybe, but they make me twice as hungry. 也許，但是會讓我的肚子加倍餓。\nOkay, how about an egg, fish and tomato sandwich?\n好吧，那來個蛋跟魚，還有番茄的三明治如何?\nGood for your body and brain. 對你的身體跟腦部都很好。",
+          "time": null
+        },
+        {
+          "text": "3. give 給予。\nAnd also give you a lot of energy. 也會給你滿滿能量。",
+          "time": null
+        },
+        {
+          "text": "4. energy 能量。\nI can sure use more energy. 我確實需要更多能量。\nGreat! One sandwich coming right up! 好極了!一個三明治馬上就來。",
+          "time": null
+        }
+      ],
+      "postscript": "你知道什麼食物很營養嗎?\n來複習今天的單字。\nlunch午餐 body身體 give給予 energy能量"
+    },
+    "quiz": [
+      {
+        "question": "1. What does Auntie say?",
+        "options": [
+          "a. You are what you see.",
+          "b. You are what you eat.",
+          "c. You are what you say."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What does healthy food give us?",
+        "options": [
+          "a. More sausages",
+          "b. Less brains",
+          "c. More energy"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What do schools in Taiwan want kids to eat?",
+        "options": [
+          "a. Food that is healthy",
+          "b. Food that is not healthy",
+          "c. Food that costs a lot of money"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
