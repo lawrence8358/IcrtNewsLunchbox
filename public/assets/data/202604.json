@@ -497,5 +497,106 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260408-01",
+    "type": "國小",
+    "tag": [
+      "Kenting",
+      "Deer"
+    ],
+    "title": "Deer Cowboys to Help Kenting",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260407NK.mp3",
+    "content": [
+      {
+        "en": "Formosan sika deer are cute. Taiwan is lucky to have them. The last wild one was seen about sixty years ago!",
+        "tw": "台灣很幸運，擁有可愛的梅花鹿。但是最後一隻野生的梅花鹿，生活在六十年前。之後就沒有再看見了。",
+        "time": null
+      },
+      {
+        "en": "About forty years ago, Kenting National Park got 22 Formosan sika deer from the Taipei Zoo. Now there are 3,600 deer in the park!",
+        "tw": "台北動物園四十年前給了墾丁國家公園22隻梅花鹿。現在那裏已經有3,600隻梅花鹿！",
+        "time": null
+      },
+      {
+        "en": "But that is too many deer for the park. They chew on trees. They eat plants. And wild dogs try to catch them. So the deer run to the road. Sometimes cars hit them…",
+        "tw": "但梅花鹿太多了，造成麻煩。鹿會啃樹皮、吃植物，被野狗追趕的時候會跑到馬路上，有時候還會被汽車撞到。",
+        "time": null
+      },
+      {
+        "en": "Park workers want 50 deer to be taken to another park this year. The other park has 20 deer!",
+        "tw": "公園的工作人員希望今年可以把50隻鹿送到另外一個公園，那裡現在只有20隻鹿。",
+        "time": null
+      },
+      {
+        "en": "But it is not easy to catch deer safely. And no one wants them to get hurt.",
+        "tw": "要安全地捕捉鹿並不容易，大家也不希望梅花鹿在這個過程中受傷！",
+        "time": null
+      },
+      {
+        "en": "So park workers are teaching some people how to catch a deer safely. These people will throw a rope around the deer's neck. They will be deer cowboys!",
+        "tw": "工作人員教人如何安全捕捉梅花鹿。他們會用繩索套住鹿的脖子，就像牛仔一樣！",
+        "time": null
+      },
+      {
+        "en": "Deer will be taken to the other park every year. This is good for Kenting National Park and the Formosan sika deer in both parks!",
+        "tw": "每年都會有鹿被送到另一個公園。這對墾丁國家公園和這兩個公園裡的梅花鹿都有好處！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "墾丁公園的梅花鹿數量太多，對當地的生態和遊客都造成困惱。",
+      "content": [
+        {
+          "text": "1. this year 今年。\nSo, are you planning another national park trip this year?\n你今年打算去另外一個國家公園嗎?\nYeah! Hopefully one with fewer people this time. 是的，我希望這次人比較少。",
+          "time": null
+        },
+        {
+          "text": "2. too many 太多。\nYou went to Kenting last year, right? 你去年去墾丁，對吧?\nI did… and way too many tourists there. 對，那兒的遊客實在太多了。",
+          "time": null
+        },
+        {
+          "text": "3. want 想要。\nMaybe try one on an outlying island-like Penghu National Park.\n也許你可以試試外島，例如澎湖國家公園。\nI've always wanted to go fishing there! 我一直想去那裏釣魚!",
+          "time": null
+        },
+        {
+          "text": "4. catch 抓到。\nFishing? 釣魚? I don't know anything about that.\nBut sure, go catch a big one for me! 不過好啊，抓一條大的給我!",
+          "time": null
+        }
+      ],
+      "postscript": "你拜訪過台灣哪些國家公園?\nthis year今年 too many太多 want想要 catch抓到"
+    },
+    "quiz": [
+      {
+        "question": "1. How many deer are in this park?",
+        "options": [
+          "a. 22",
+          "b. 50",
+          "c. 3,600"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What are park workers teaching some people to do?",
+        "options": [
+          "a. Chew on trees",
+          "b. Catch deer",
+          "c. Catch wild dogs"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Where will some deer be taken to?",
+        "options": [
+          "a. Another park",
+          "b. The Taipei Zoo",
+          "c. Kenting National Park"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
