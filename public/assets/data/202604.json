@@ -598,5 +598,113 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260409-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Surprise in Space",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260408NK.mp3",
+    "content": [
+      {
+        "en": "Seven astronauts were living on the International Space Station. It is four hundred kilometers above Earth!",
+        "tw": "有七位太空人住在距離地球大約四百公里的國際太空站。",
+        "time": null
+      },
+      {
+        "en": "One day, two astronauts got ready to go on a spacewalk. On spacewalks, astronauts go outside the station. They fix things or try new things.",
+        "tw": "有一天，兩位太空人準備做太空漫步。太空漫步就是到太空站外面修理設備或是做實驗。",
+        "time": null
+      },
+      {
+        "en": "But they had a bad surprise. One astronaut felt very sick! They did not go on the spacewalk.",
+        "tw": "但是突然發生意外! 其中一人覺得身體很不舒服，所以他們沒有進行太空漫步。",
+        "time": null
+      },
+      {
+        "en": "The astronauts had trained a lot on Earth. They were calm. They worked together. They knew what to do.",
+        "tw": "這些太空人在地球上受過很多訓練，他們知道該怎麼冷靜的合作，解決問題。",
+        "time": null
+      },
+      {
+        "en": "They used a machine. It looked inside the astronaut's body. They talked to doctors on Earth. The doctors wanted the astronaut to come back to Earth soon.",
+        "tw": "他們用機器檢查那位太空人的身體後，跟在地球的醫生聯絡。醫生說，越快回到地球越好。",
+        "time": null
+      },
+      {
+        "en": "People on Earth worked fast. They got a spaceship ready to go to the station. That was a big job!",
+        "tw": "地球上的專家趕快行動，準備一艘要飛到太空站的太空船。這可是一件大工程！",
+        "time": null
+      },
+      {
+        "en": "Four astronauts got ready to leave the station. Then they flew safely back to Earth on the spaceship.",
+        "tw": "四位太空人搭著這艘太空船，安全回到地球。",
+        "time": null
+      },
+      {
+        "en": "Doctors were waiting for them. And everyone was okay!",
+        "tw": "醫生在地球等待太空人歸來，問題也順利解決！",
+        "time": null
+      },
+      {
+        "en": "Astronauts train a lot. They are ready for surprises. They can help each other in space!",
+        "tw": "太空人受過很多訓練。他們為意外做好了準備。他們可以在太空中互相幫助！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "在遙遠的太空站發生意外，要返回地球可不簡單。",
+      "content": [
+        {
+          "text": "1. space 太空。\nHey, would you like to watch a movie tonight? 今晚想去看電影嗎?\nThe one about space ?那部太空電影嗎?\nYeah.對。",
+          "time": null
+        },
+        {
+          "text": "2. spacewalk 太空漫步。\nWonderful! I’ll go with you. 太棒了，我跟你去。\nWhat is it about space that you like so much? 太空究竟有什麼讓你那麼喜歡?\nI love seeing astronauts go on spacewalks and dodge space rocks. 我喜歡看太空人做太空漫步，躲避太空石頭。",
+          "time": null
+        },
+        {
+          "text": "3. calm 冷靜的。\nBut you don’t want to be an astronaut? 但是你不想當太空人?\nNo. Never. 絕對不想。\nI can’t stay calm out there.我在那裏沒辦法保持冷靜。",
+          "time": null
+        },
+        {
+          "text": "4. what to do 怎麼做。\nI wouldn’t know what to do if an accident happens. 要是意外發生，我不知道該怎麼辦。",
+          "time": null
+        }
+      ],
+      "postscript": "你想飛進太空嗎?來讀單字。\nspace太空 spacewalk太空漫步 calm冷靜的 what to do怎麼做"
+    },
+    "quiz": [
+      {
+        "question": "1. Where were the astronauts living?",
+        "options": [
+          "a. A spaceship",
+          "b. The space station",
+          "c. The moon"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where are spacewalks done?",
+        "options": [
+          "a. Inside the station",
+          "b. Outside the station",
+          "c. In a spaceship"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did people on Earth do?",
+        "options": [
+          "a. Get a spaceship ready",
+          "b. Get on a spaceship",
+          "c. Go to the space station"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
