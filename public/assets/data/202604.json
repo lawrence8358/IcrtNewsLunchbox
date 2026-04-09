@@ -706,5 +706,107 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260410-01",
+    "type": "國小",
+    "tag": [
+      "umbrella",
+      "Yilan",
+      "sunny"
+    ],
+    "title": "A Man and His Umbrella",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260409NK.mp3",
+    "content": [
+      {
+        "en": "A man walked down a street in Yilan. He was holding an umbrella over his head.",
+        "tw": "一名男子撐著傘走過宜蘭的街道。",
+        "time": null
+      },
+      {
+        "en": "Was it starting to rain? No, there were no clouds in the sky. Was the umbrella a sun umbrella? Well, it was a sunny day…",
+        "tw": "當天並沒有下雨，是個大晴天。所以那把傘是陽傘嗎?",
+        "time": null
+      },
+      {
+        "en": "People looked at the umbrella. Then they looked again! There was something different about this umbrella. It had a handle. It had a pole. It had ribs. But there was no cloth covering the umbrella. So it was not a sun umbrella.",
+        "tw": "那把傘吸引了許多人的注意。它有傘骨，有傘柄，可是上面沒有傘布! 這是怎麼回事?",
+        "time": null
+      },
+      {
+        "en": "The man was carrying an umbrella on his arm too. That umbrella had cloth on it. But he did not use it. He kept holding up the umbrella with no cloth.",
+        "tw": "男子的手臂上掛著一把有傘布的傘，卻沒有用。他撐的傘只有骨架。",
+        "time": null
+      },
+      {
+        "en": "One person said this umbrella was cool. Another person said maybe the man was holding up air.",
+        "tw": "有人覺得他的傘很酷，也有人說他撐著空氣。",
+        "time": null
+      },
+      {
+        "en": "No one knew why the man was holding up this umbrella. But everyone was kind. They did not laugh. They did not point a finger at him. They let him be himself.",
+        "tw": "大家都不懂他為什麼要用那把傘，但是沒有嘲笑他，只是默默的看著他走過去。",
+        "time": null
+      },
+      {
+        "en": "Why was the man holding up an umbrella with no cover? What do you think?",
+        "tw": "為什麼這名男子要撐著一把沒有傘布的傘呢？你覺得呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "男子撐的傘，頂多只有裝飾作用。還是他在表演?",
+      "content": [
+        {
+          "text": "1. street 街道。\nGoing out for a walk? 出去散步?\nYeah. There’s a new coffee shop down the street. 對，街上新開了一家咖啡館。\nI want to check it out. 我要去看看。",
+          "time": null
+        },
+        {
+          "text": "2. sunny 晴朗的。\nYou’d better take an umbrella with you. 你最好帶把傘。\nBut it’s sunny outside. 可是外面有太陽。\nFor now. Just wait–it’ll rain. 現在有，等下就會下雨。",
+          "time": null
+        },
+        {
+          "text": "3. cover 遮住。\nDid Google tell you that? 谷歌跟你說的?\nNo, my nose did. 不是，我的鼻子說的。\nNo worries, I’ve got a hoodie. It’ll cover me.\n不擔心，我有連身帽，會遮住我。",
+          "time": null
+        },
+        {
+          "text": "4. carry 攜帶。\nYou just hate carrying an umbrella. 你就是討厭帶傘。\nExactly. 正是。\nDo you take an umbrella when you go out?",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀今天的單字。\nstreet街道 sunny晴朗的 cover遮住 carry攜帶"
+    },
+    "quiz": [
+      {
+        "question": "1. Where was the man walking?",
+        "options": [
+          "a. Keelung",
+          "b. Taipei",
+          "c. Yilan"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How was the weather that day?",
+        "options": [
+          "a. It was rainy.",
+          "b. It was cloudy.",
+          "c. It was sunny."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How many umbrellas did the man have?",
+        "options": [
+          "a. One umbrella",
+          "b. Two umbrellas",
+          "c. Three umbrellas"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
