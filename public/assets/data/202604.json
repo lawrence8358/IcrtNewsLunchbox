@@ -808,5 +808,103 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260413-01",
+    "type": "國小",
+    "tag": [],
+    "title": "The Last Elephant in the Forest",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260410NK.mp3",
+    "content": [
+      {
+        "en": "In South Africa, an elephant lives in a forest. Long ago, the forest was full of elephants. Now she is the last elephant there.",
+        "tw": "在南非的森林裡住著一頭大象。很久以前，森林裡有很多大象，但如今只剩下她。",
+        "time": null
+      },
+      {
+        "en": "Elephants like to be with other elephants. People say this elephant is lonely.",
+        "tw": "大象是群居動物，喜歡和同伴相處。這隻大象很孤單！",
+        "time": null
+      },
+      {
+        "en": "Elephants can live for a long time. This elephant is about fifty years old. She might be alone for twenty more years!",
+        "tw": "雖然她已經五十歲了，不過大象壽命很長，這頭大象可能還要再孤單的活上二十年！",
+        "time": null
+      },
+      {
+        "en": "A group had a plan. They planned to bring three elephants to the forest. The cost was more than nine million Taiwan dollars. The group had this money. The three elephants were ready!",
+        "tw": "一個愛動物組織想幫忙，他們計畫帶三頭大象到這片森林陪伴孤單的大象，總費用超過九百萬台幣！錢和大象都準備就緒。",
+        "time": null
+      },
+      {
+        "en": "South Africa checked the plan. It took a long time. The group waited and waited. But the three elephants could not wait. There was another forest for them. So the group stopped the plan.",
+        "tw": "但是南非政府審查這個計畫花了很久時間，大家等了又等，那三隻大象等不下去了，他們去了另外一座森林，原本的計畫也叫停。",
+        "time": null
+      },
+      {
+        "en": "The last elephant in this forest keeps walking alone every day. But many people care about her. They hope other elephants will come to be with her one day.",
+        "tw": "人們好希望有一天會有其他的大象來陪她。",
+        "time": null
+      },
+      {
+        "en": "They hope this forest can be full of elephants again!",
+        "tw": "他們希望這座森林能再次充滿大象！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "孤獨的大象需要同伴，人類似乎幫不了忙。",
+      "content": [
+        {
+          "text": "1. full of 滿滿的。\\nWow, this place is full of people today! 哇，今天這裡都是人!\\nYou don't like crowds? 你是不喜歡人多?\\nNo, I'm okay. 不會，我還好。",
+          "time": null
+        },
+        {
+          "text": "2. alone 單獨的。\\nThey make me feel less alone. 他們讓我覺得沒那麼孤單。\\nYou've got your family around you all the time! 你有家人總是圍繞著你!\\nNot all the time. 並沒有總是。",
+          "time": null
+        },
+        {
+          "text": "3. wait 等待。\\nFair enough. 那倒是。\\nSo what do you want to do here? 所以你在這兒想做什麼?\\nIf you don't mind waiting, we can line up for that donut shop. 要是你不介意等，我們可以去排那家甜甜圈。",
+          "time": null
+        },
+        {
+          "text": "4. take 花時間。\\nFine. But if it takes more than 30 minutes, you're buying. 好，但是假如超過三十分鐘，由你付錢。\\nIt's a deal. 就這麼辦。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你記住了嗎?\\nfull of滿滿的 alone單獨的 wait等待 take花時間"
+    },
+    "quiz": [
+      {
+        "question": "1. How many elephants are in this forest?",
+        "options": [
+          "a. One elephant",
+          "b. Three elephants",
+          "c. Nine elephants"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Why did the group stop their plan?",
+        "options": [
+          "a. Three elephants could not wait",
+          "b. One elephant could not wait",
+          "c. The group had no money"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What do people hope for?",
+        "options": [
+          "a. No more elephants",
+          "b. Three baby elephants",
+          "c. A forest full of elephants"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
