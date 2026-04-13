@@ -906,5 +906,117 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260414-01",
+    "type": "國小",
+    "tag": [
+      "Dance",
+      "School",
+      "UK"
+    ],
+    "title": "School Starts Every Day with Dance Party",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260413NK.mp3",
+    "content": [
+      {
+        "en": "How does your school day start?",
+        "tw": "你每天的上學日怎麼開始？",
+        "time": null
+      },
+      {
+        "en": "Most kids start their school day in a classroom. They sit at their desks. The teacher checks which kids are there.",
+        "tw": "大多數的小朋友一到學校會先進教室，坐在座位上等老師點名、上課。",
+        "time": null
+      },
+      {
+        "en": "Some kids start their school day in the school's cafeteria. They eat a healthy breakfast.",
+        "tw": "也有些小朋友會先去學校餐廳，吃一頓健康早餐。",
+        "time": null
+      },
+      {
+        "en": "At one school in the UK, kids start every school day with some dancing! Kids, parents, and staff meet in the playground. They play music. They have a fun dance party!",
+        "tw": "英國一所學校，小朋友每天到校後會先跳舞！學生、家長跟老師會一起到操場，放音樂，舉辦一場開心的舞會！",
+        "time": null
+      },
+      {
+        "en": "The school's dance parties started a few years ago. Everyone was getting ready for a big school dance. The kids were excited!",
+        "tw": "天天辦舞會的活動是幾年前開始的。當時，學校要辦一個大舞會，大家都很期待。",
+        "time": null
+      },
+      {
+        "en": "The kids wanted to show everyone their best dance moves at the dance! The staff wanted to help them practice. So they played music every morning!",
+        "tw": "學生想在舞會上表現最棒的舞步，老師也想幫他們練習，所以每天早上都會放音樂讓大家跳舞。",
+        "time": null
+      },
+      {
+        "en": "Everyone loved dancing in the morning. Parents and staff danced too! The principal saw everyone loved the dance parties. So the music and dancing stayed!",
+        "tw": "大家都喜歡早上跳舞，連家長跟老師也來加入！校長看到了，就把這個活動保留下來。",
+        "time": null
+      },
+      {
+        "en": "Dancing is a kind of exercise. It gets us moving. It’s good for our bodies. It gives us lots of energy!",
+        "tw": "跳舞要全身都動起來，是很棒的運動，讓我們充滿活力！",
+        "time": null
+      },
+      {
+        "en": "Try it! Start your day by dancing, and see how good you feel!",
+        "tw": "試試看吧！用跳舞來開啟你的一天，看看你的感覺有多棒！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "跳舞讓人快樂，英國這所小學的學生每天都跳舞。",
+      "content": [
+        {
+          "text": "1. every morning 每天早上。\nDo you like dancing? 你喜不喜歡跳舞?\nI do, but these days, it’s mostly at the gym. 喜歡，不過現在都是在健身房跳。\nI dance in the park every morning! 我是每天早上在公園裡跳。",
+          "time": null
+        },
+        {
+          "text": "2. move 動作。\nOh, I’ve seen that! 我有看過。\nLine dancing, right? 排舞，對吧?\nEveryone doing the same moves? 大家都做一樣的動作?\nThat’s the one. 就是那個。",
+          "time": null
+        },
+        {
+          "text": "3. music 音樂。\nCome join us sometime. 你找時間來加入吧。\nWe dance to great music! 我們跟著很棒的音樂跳!",
+          "time": null
+        },
+        {
+          "text": "4. playground 遊戲場。\nWhere do you do it? 在哪裡?\nOn the big playground over there—hard to miss! 就在那裏的大遊戲場，很難找不到。",
+          "time": null
+        }
+      ],
+      "postscript": "來跳舞吧!\nevery morning每天早上 move動作 music音樂 playground遊戲場"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do most kids start their school day?",
+        "options": [
+          "a. The classroom",
+          "b. The cafeteria",
+          "c. The playground"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. When does the UK school have a fun dance party?",
+        "options": [
+          "a. Friday nights",
+          "b. Every school day",
+          "c. Holidays"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What does dancing give us lots of?",
+        "options": [
+          "a. Breakfast",
+          "b. Energy",
+          "c. Music"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
