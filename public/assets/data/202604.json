@@ -1018,5 +1018,101 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260415-01",
+    "type": "國小",
+    "tag": [
+      "Robots",
+      "Technology"
+    ],
+    "title": "Company Says Its Robots Will Do Our Work",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260414NK.mp3",
+    "content": [
+      {
+        "en": "A company makes cars. But now it wants to make robots! These robots have a head, two arms, and two legs. They look a little like humans. They move like humans.",
+        "tw": "一家汽車製造公司想做機器人，有頭，有四肢，看起來像人，動作也像人。",
+        "time": null
+      },
+      {
+        "en": "The company wants to make one million robots every year. It says the robots will do lots of things. They will clean our homes. They will do work for companies.",
+        "tw": "這家公司準備每年製造一百萬個機器人，會打掃家裡，也會在公司工作。",
+        "time": null
+      },
+      {
+        "en": "The company's boss thinks everyone will want a robot. He says one robot will cost from $640,000 Taiwan dollars to one million Taiwan dollars.",
+        "tw": "公司老闆相信大家都想要機器人，每個的售價從六十四萬台幣到一百萬不等。",
+        "time": null
+      },
+      {
+        "en": "The company's boss also says robots will help people a lot. He says people will not have to work! He says robots will be able to do all the work.",
+        "tw": "他說有了機器人，人類就不必親自工作了，機器人可以代勞。",
+        "time": null
+      },
+      {
+        "en": "But people can do many things. So some people say robots will not be able to do everything people can. Robots can do some things now. They can serve popcorn. They can play ping pong. But will they be able to do everyone's job?",
+        "tw": "但是機器人真的有那麼能幹，會做所有的事情嗎? 他現在可以做爆米花，可以打桌球，但是接替人類的工作，行嗎?",
+        "time": null
+      },
+      {
+        "en": "What do you think? Will a robot be able to do everything for you one day?",
+        "tw": "你覺得呢？有一天機器人能為你做所有的事情嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一家公司想要製造許多機器人，協助人類做大部分的工作。",
+      "content": [
+        {
+          "text": "1. play 打球。\nIf you had a robot, what would you have it do?\n假如你有個機器人，你會要它做哪些事?\nHmmmm, play tennis with me every night, 每天晚上陪我打網球，\nand let me win! 並且讓我贏!",
+          "time": null
+        },
+        {
+          "text": "2. have to 必須。\nAnd it has to look like a human, 當 然，而且要它看起來很像人，\nwith arms and legs…and a friendly face. 有手臂跟腿，跟一張友善的臉。",
+          "time": null
+        },
+        {
+          "text": "3. clean 清潔打掃。\nWhat else do you want it to do? 你還想要它做什麼?\nClean my home and tell me jokes. 打掃我家，講笑話給我聽。",
+          "time": null
+        },
+        {
+          "text": "4. say 說話。\nWhat about you? 你呢?\nI just want it to follow me around saying, \"You're doing great!\"\n我只要它到處跟著我，告訴我: [你做得很棒!]\nDo you need a robot?",
+          "time": null
+        }
+      ],
+      "postscript": "來複習單字。\nplay打球 have to必須 clean清潔打掃 say說話"
+    },
+    "quiz": [
+      {
+        "question": "1. What do the company's robots look a little like?",
+        "options": [
+          "a. People",
+          "b. Cars",
+          "c. Dogs"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What does the company's boss say people will not have to do?",
+        "options": [
+          "a. Buy a robot",
+          "b. Serve popcorn",
+          "c. Work"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What can the company's robots do now?",
+        "options": [
+          "a. Play ping pong",
+          "b. Do everyone's job",
+          "c. Drive the company's cars"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
