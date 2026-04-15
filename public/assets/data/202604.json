@@ -1114,5 +1114,106 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260416-01",
+    "type": "國小",
+    "tag": [
+      "基隆",
+      "臭豆腐"
+    ],
+    "title": "Stinky Tofu on a Mountain in Keelung",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260415NK.mp3",
+    "content": [
+      {
+        "en": "On a mountain in Keelung, there is a stinky tofu shop. One man runs it. His name is A-hsing. Many trees are around the small shop. It has lots of signs outside. A-hsing wrote them.",
+        "tw": "基隆山上有一家臭豆腐店，老闆兼廚師，名叫阿興，他的小店外面有很多樹叢，大大的標誌都是他手寫的。",
+        "time": null
+      },
+      {
+        "en": "Eating at this shop is not easy. First, people have to shout the password outside. Can you guess it?",
+        "tw": "來這裡吃臭豆腐需要講通關密語，才能吃到。是什麼密語你猜到了嗎?",
+        "time": null
+      },
+      {
+        "en": "The password is \"A-hsing! I want stinky tofu!\" You have to shout this a few times. If you do not, maybe A-hsing will not come out!",
+        "tw": "沒錯，就是:[阿興，我要吃臭豆腐]，而且要大聲叫好幾次，否則老闆可能不會出現。",
+        "time": null
+      },
+      {
+        "en": "The shop has many stinky tofu dishes. Some are fried and crispy. Others are soft like pudding.",
+        "tw": "這家店有多種不同的臭豆腐吃法，有的是油炸的酥脆口感，有的滑嫩像布丁。",
+        "time": null
+      },
+      {
+        "en": "You can choose how stinky your tofu is. There is stinky, very stinky, or extra stinky tofu!",
+        "tw": "連臭味也可以選，中臭，大臭，或是特別臭!",
+        "time": null
+      },
+      {
+        "en": "Some people think eating stinky tofu on a mountain is strange. But some drive a long way to eat it! People say it smells strong. But it is fun to try! Woohoo!",
+        "tw": "有人覺得把店開在偏僻的山上很奇怪，也有人願意大老遠專程來吃。有人說味道實在太強烈，但它是有趣的經驗。",
+        "time": null
+      },
+      {
+        "en": "If you eat this stinky tofu in the city, maybe your neighbors will not like the smell. But on this mountain in Keelung, A-hsing's tofu is a stinky star!",
+        "tw": "如果你在城市裡吃這種臭豆腐，你的鄰居可能不會喜歡那個氣味。但在基隆的這座山上，阿興的臭豆腐是個大明星！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這家基隆臭豆腐店遠近馳名，去吃一趟可不容易。",
+      "content": [
+        {
+          "text": "1. smell 氣味。\nWhat are you cooking? 你在燒什麼菜?\nThe smell is… strong. 氣味好重。\nOh, it's stinky tofu. I just bought it. 是臭豆腐，我剛剛買的。",
+          "time": null
+        },
+        {
+          "text": "2. extra 多出來的。\nIt smells like something that's not from this world.\n它聞起來像是來自另外一個世界。\nHaha! Sorry. 真抱歉。\nI added extra spices. 我多加了調味料。",
+          "time": null
+        },
+        {
+          "text": "3. shop 商店。\nIs it from that shop you often talk about? 是你常常講的那家店買的?\nYeah, that's the one. 對，就是那家。",
+          "time": null
+        },
+        {
+          "text": "4. strange 奇怪的。\nIt's strange that people actually love it. 真奇怪有人真的喜歡。\nI get it. 我懂。That's exactly how I felt when you were eating durian.\n你吃榴槤時我就是那種感覺。",
+          "time": null
+        }
+      ],
+      "postscript": "你愛吃哪些食物呢?\nsmell氣味 extra多出來的 shop商店 strange奇怪的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is this stinky tofu shop?",
+        "options": [
+          "a. A beach",
+          "b. A mountain",
+          "c. A night market"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do people have to do to eat at the shop?",
+        "options": [
+          "a. Knock on the door",
+          "b. Use a QR code",
+          "c. Shout the password"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What can people choose at the shop?",
+        "options": [
+          "a. How stinky their tofu is",
+          "b. How long they will drive",
+          "c. How much they will pay for a dish"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
