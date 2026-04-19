@@ -1215,5 +1215,102 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260420-01",
+    "type": "國小",
+    "tag": [
+      "Rocket",
+      "NASA",
+      "Space"
+    ],
+    "title": "Old Vehicle Carries New Rocket",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260417NK.mp3",
+    "content": [
+      {
+        "en": "A rocket stands on a launch pad. That is where rockets take off. The rocket is 100 meters tall. NASA made it. NASA is the U.S. space agency.",
+        "tw": "火箭矗立在發射台上，準備發射升空。這枚火箭高達100公尺，是美國太空總署製造的。",
+        "time": null
+      },
+      {
+        "en": "NASA made the rocket 7 kilometers from the launch pad. So how did it get there?",
+        "tw": "太空總署組裝火箭的地方，距離發射台有七公里，但它是怎麼運去發射台的呢？",
+        "time": null
+      },
+      {
+        "en": "A vehicle carried it. Vehicles carry people and things. Cars, trucks and rockets are vehicles. The vehicle for the rocket is big. It is bigger than a baseball infield! It weighs 3 million kilograms! No other vehicle can carry the rocket. And, it is 63 years old!",
+        "tw": "火箭是用一台大型運輸車載過去的。這台運輸車非常大，比棒球場的內野還大，重達三百萬公斤！這台車已經有63年的歷史了，除了它以外沒有其他車能載得了火箭。",
+        "time": null
+      },
+      {
+        "en": "The new rocket stood on this old vehicle. The vehicle moved slowly. Many people came to watch. They took pictures.",
+        "tw": "全新的火箭就放在這台老車上，慢慢往前移動。很多人來觀看並且拍照記錄這一刻。",
+        "time": null
+      },
+      {
+        "en": "The vehicle took 12 hours to go to the launch pad! But it carried the rocket safely there. And, on April 1st, the rocket took off to go around the moon!",
+        "tw": "走了整整12個小時，火箭終於安全地送到發射台！在今年4月1號，火箭成功升空，飛向月球！",
+        "time": null
+      },
+      {
+        "en": "Many people helped make the rocket. Many people helped it take off. But the old vehicle was a big help too!",
+        "tw": "許多人協助製造這枚火箭，也有許多人協助它發射。但這台老運輸車也幫了大忙！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這枚火箭在繞月球飛行一圈之後，已經回到了地球。",
+      "content": [
+        {
+          "text": "1. take off 起飛。\nCome quickly! 快來!\nThe rocket is about to take off! 火箭要起飛了!\nWait! I want to take pictures! 等一下，我要照相!",
+          "time": null
+        },
+        {
+          "text": "2. moon 月球。\nWow, that's amazing! 哇，真精采!\nYeah, it's going to the moon. 它要去月球。\nWill it land on the moon? 會不會降落在月球上?\nNope. 不會。",
+          "time": null
+        },
+        {
+          "text": "3. launch 發射。\nThen why did NASA launch it? 那太空總署為什麼要發射那枚火箭?\nTo study the moon up close! 好近距離研究月亮啊!",
+          "time": null
+        },
+        {
+          "text": "4. carry 搭載。\nImagine that. 想想看。Just sitting there while a spaceship carries you into space.",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字你是不是都記住了?\ntake off起飛 moon月球 launch發射 carry搭載"
+    },
+    "quiz": [
+      {
+        "question": "1. What space agency made the rocket?",
+        "options": [
+          "a. TASA",
+          "b. KASA",
+          "c. NASA"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do vehicles do?",
+        "options": [
+          "a. Carry people and things",
+          "b. Take pictures",
+          "c. Play baseball"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How long did it take to go to the launch pad?",
+        "options": [
+          "a. 7 hours",
+          "b. 12 hours",
+          "c. 63 hours"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
