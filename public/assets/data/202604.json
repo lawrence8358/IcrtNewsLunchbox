@@ -1312,5 +1312,105 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260421-01",
+    "type": "國小",
+    "tag": [
+      "Taylor Swift"
+    ],
+    "title": "Taylor Swift in the Songwriters Hall of Fame",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260420NK.mp3",
+    "content": [
+      {
+        "en": "Some singers do not write their songs. But pop star Taylor Swift writes her songs. She is a songwriter!",
+        "tw": "有些歌手不會自己作曲，但流行歌曲巨星泰勒絲，是自己寫歌的創作型歌手！",
+        "time": null
+      },
+      {
+        "en": "Taylor Swift writes songs about her life. She writes about her family. She writes about her friends. She writes about her boyfriends too! Her songs tell stories.",
+        "tw": "泰勒絲常常在歌曲中提到她的親友跟男朋友。她把自己的生活寫進歌裡，就像在說故事一樣。",
+        "time": null
+      },
+      {
+        "en": "The Songwriters Hall of Fame honors the best writers of songs in English. They can be honored after 20 years of songwriting.",
+        "tw": "「詞曲作者名人堂」專門表揚最佳的英文歌曲創作者。想進入這個名人堂，需要有20年的作曲資歷！",
+        "time": null
+      },
+      {
+        "en": "Taylor Swift's first album was in 2006. That was 20 years ago!",
+        "tw": "泰勒絲2006年發行第一張專輯，到現在剛好滿20年！",
+        "time": null
+      },
+      {
+        "en": "So this year, the Songwriters Hall of Fame honored Taylor Swift. She is the youngest woman to be honored!",
+        "tw": "今年「詞曲作者名人堂」給了她這項榮譽，她是名人堂中最年輕的女性得獎者！",
+        "time": null
+      },
+      {
+        "en": "This was the second time the Songwriters Hall of Fame honored Taylor Swift. In 2010, it gave her an award for being a very good young songwriter. She was 20 years old! She was the youngest woman to win that award!",
+        "tw": "這其實不是她第一次得獎。早在2010年，泰勒絲就拿過優秀年輕作曲家獎，當時才20歲，也是最年輕的女性得獎者！",
+        "time": null
+      },
+      {
+        "en": "Great job, Taylor Swift! Keep writing your songs!",
+        "tw": "做得好，泰勒絲！繼續創作妳的歌曲吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "泰勒絲才華橫溢，能唱能作曲，年紀輕輕就獲得許多獎項。",
+      "content": [
+        {
+          "text": "1. youngest 最年輕的。\nLook at that girl on stage. 你看舞台上那個女孩。\nUh-hum.\nShe’s the youngest singer there. 她是那裏最年輕的歌手。\nNo kidding. She looks so calm! 真的喔，她看起來好鎮定!",
+          "time": null
+        },
+        {
+          "text": "2. win 贏得。\nAnd she sings very well, too. 她也唱得非常好。\nShe may win the whole contest! 她可能贏得整場比賽呢!",
+          "time": null
+        },
+        {
+          "text": "3. song 歌曲。\nHer songs are quite unusual. 她的歌滿特別的。\nI know, right? 可不是?\nThat’s because she writes her own songs. 那是因為她的歌都自己寫。",
+          "time": null
+        },
+        {
+          "text": "4. write 寫作。\nSo she writes about memories and dreams? 所以她都寫回憶跟夢境?\nShe does. And so much more. 沒錯，還有很多別的。\nAre you a fan of Taylor Swift? 來讀讀今天的單字。",
+          "time": null
+        }
+      ],
+      "postscript": "youngest 最年輕的 win 贏得 song 歌曲 write 寫作"
+    },
+    "quiz": [
+      {
+        "question": "1. What are people who write songs called?",
+        "options": [
+          "a. Songwriters",
+          "b. Singing writers",
+          "c. Strong writers"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. When did Taylor Swift’s first album come out?",
+        "options": [
+          "a. 2000",
+          "b. 2006",
+          "c. 2020"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Who is the youngest woman to be honored by this Hall of Fame?",
+        "options": [
+          "a. Mariah Carey",
+          "b. Missy Elliott",
+          "c. Taylor Swift"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
