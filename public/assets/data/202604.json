@@ -1412,5 +1412,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260422-01",
+    "type": "國小",
+    "tag": [
+      "Bear",
+      "Forest",
+      "Safety"
+    ],
+    "title": "Bear Lives Under House",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260421NK.mp3",
+    "content": [
+      {
+        "en": "In the U.S., many black bears live in forests. But one bear lived under a house!",
+        "tw": "美國有很多黑熊住在森林裡。但有一頭熊竟然住在一棟房子的底下！",
+        "time": null
+      },
+      {
+        "en": "A big fire burned the bear's forest. There was no place for it to live there. It found a man's house. Under the house, it was dark. So the bear stayed there for more than one month!",
+        "tw": "一場森林大火把這頭熊原本的棲息地燒掉了，牠無處可去，最後找到這名男子的房屋。房屋底下的空間很暗，熊熊就在那裏住了一個多月！",
+        "time": null
+      },
+      {
+        "en": "The man did not want the bear there. It was dangerous for him and his house! This bear was about two hundred thirty kilograms. When it moved around, it broke many things!",
+        "tw": "房子的主人不想要熊住在那裡，牠有230公斤重，在房屋下面活動的時弄壞東西，對房屋或者是主人造成危害。",
+        "time": null
+      },
+      {
+        "en": "The man called for help. Some people came. They try to catch bears. They tried to make the bear come out. But the bear stayed under the house.",
+        "tw": "這名男子打電話求救，抓熊專家抵達，想把熊嚇出來，但是沒有成功。",
+        "time": null
+      },
+      {
+        "en": "Other people came. They try to help bears. One man went under the house! He went behind the bear! And the bear came out!",
+        "tw": "另外一群人來了。其中一人爬到房子的下面，繞到熊熊的背後，終於把熊趕出去了！",
+        "time": null
+      },
+      {
+        "en": "The bear came back one time. But now there is a mat where he got in before. It has electricity. Zap zap! It scared the bear away!",
+        "tw": "這頭熊後來還想再回來，但現在房屋的底下入口處有個通電的腳踏墊，只要一碰到就會被電，把熊嚇走！",
+        "time": null
+      },
+      {
+        "en": "Kids, if there is a bear under your house, do not go there! Call for help!",
+        "tw": "小朋友們，如果你家房子下面有一頭熊，千萬別去那裡！趕快尋求幫助！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這頭黑熊找到好地方棲身，卻給主人帶來麻煩。",
+      "content": [
+        {
+          "text": "1. dark 黑暗的。\nIt's getting dark, 天越來越黑了，\nand we still don't know where we are. 我們還是不知道身在何方。\nYou're right. We are totally lost. 你說得對，我們完全迷路了。",
+          "time": null
+        },
+        {
+          "text": "2. call for 請求。\nShould we call for help? 我們要求救嗎?\nNo, let me figure it out. 不要，讓我想想辦法。",
+          "time": null
+        },
+        {
+          "text": "3. move around 到處活動。\nFigure it out? 想辦法?\nIn this dark forest? 在這個黑森林裡?\nCalm down. I'll move around a bit and find a way.\n鎮定一點。我到處走一下，看看有沒有路。",
+          "time": null
+        },
+        {
+          "text": "4. break 弄斷。\nDon't leave me here alone. 不要把我單獨留在這裡。\nCome on, don't scare yourself. 好啦，不要自己嚇自己!\nDid you hear that? 你有沒有聽到?\nSomething broke a branch. 有東西弄斷了樹枝。\nHelp!! 救命!",
+          "time": null
+        }
+      ],
+      "postscript": "你有迷路的經驗嗎?\ndark黑暗的 call for請求 move around到處活動 break弄斷"
+    },
+    "quiz": [
+      {
+        "question": "1. Why did the bear live under the man's house?",
+        "options": [
+          "a. It found lots of food there.",
+          "b. A big fire burned its forest.",
+          "c. The man wanted it to live there."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What happened when the bear moved around under the house?",
+        "options": [
+          "a. People came to the house.",
+          "b. It made the man happy.",
+          "c. It broke things."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What does the mat have?",
+        "options": [
+          "a. Electricity",
+          "b. Honey",
+          "c. Fire"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
