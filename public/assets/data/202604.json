@@ -1514,5 +1514,113 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260423-01",
+    "type": "國小",
+    "tag": [
+      "Character Education",
+      "Reading Literacy Education",
+      "Social Studies",
+      "Integrative Activities"
+    ],
+    "title": "Miaoli Man’s Vietnamese Tea",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260422NK.mp3",
+    "content": [
+      {
+        "en": "In Vietnam, some old trees grow high in the mountains. Some of the trees are more than one hundred years old! Going to these trees takes many hours.",
+        "tw": "越南的高山上，有一些歲數超過百年的大樹，想見到這些樹要花好幾個小時才到得了！",
+        "time": null
+      },
+      {
+        "en": "Fifteen years ago, a man from Miaoli went to Vietnam. He drank some tea. It was made from the leaves of these old trees. He loved it!",
+        "tw": "苗栗一名男子十五年前去到越南，喝了用這種樹的葉子泡出來的茶後，非常喜歡。",
+        "time": null
+      },
+      {
+        "en": "The tea was healthy to drink. But it was bitter. The local people liked it. But many other people did not.",
+        "tw": "這個茶對身體很好，但喝起來苦澀。當地人喜歡這種茶，其他人可一點也不。",
+        "time": null
+      },
+      {
+        "en": "The man wanted to make a delicious tea from these tree leaves. He wanted to take the bitter taste away.",
+        "tw": "這名男子想用這些樹葉做出更好喝、不會苦澀的茶！",
+        "time": null
+      },
+      {
+        "en": "The man's family made tea in Taiwan. He tried tea-making ways from Taiwan. He used fresh tea leaves. He used machines. He watched the weather.",
+        "tw": "他自己的家族就在台灣製作茶葉，因此他開始在越南使用家鄉的產茶方法。他用新鮮的茶葉，先進的機器，還觀察天氣的變化。",
+        "time": null
+      },
+      {
+        "en": "Making his tea delicious was very hard. Sometimes the man cried. But he did not give up.",
+        "tw": "過程非常困難，但是他即便他有時候累到哭，也沒有放棄！",
+        "time": null
+      },
+      {
+        "en": "Slowly, the tea tasted better and better. Famous people in Vietnam buy the man's tea from him now. He does not sell it in shops.",
+        "tw": "在他的努力之下，原本苦澀的茶變得越來越好喝！現在，很多越南的知名人士會直接來跟他買茶，商店裡還買不到喔！",
+        "time": null
+      },
+      {
+        "en": "Taiwan's tea-making ways helped the man in Vietnam. He made a bitter tea into a delicious tea!",
+        "tw": "台灣的製茶技術幫助了這名在越南的男子。他將苦澀的茶變成了美味的茶！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "來自台灣的製茶師傅，用稀有的越南古老茶樹的樹葉，做出美味的茶。",
+      "content": [
+        {
+          "text": "1. drink 喝。\nWould you like some coffee? 你要來一點咖啡嗎? \nNo, thank you. 不了，謝謝你。\nNow I drink tea. 我現在喝茶。",
+          "time": null
+        },
+        {
+          "text": "2. famous 有名的。\nReally? I’ve got some great tea from India. 真的哦，我有來自印度的好茶。\nIt’s a famous brand. 是很有名的牌子。\nNice, let’s give it a try. 真好，我們來嚐一嚐。",
+          "time": null
+        },
+        {
+          "text": "3. give up 放棄。\nMmmm, this is really good! 這個茶真好喝! \nIt’s funny seeing you drink tea. 看你喝茶有點好笑。\nWhy did you give up coffee? 你怎麼放棄了咖啡? \nMy sleep was getting worse. 我的睡眠越來越糟。",
+          "time": null
+        },
+        {
+          "text": "4. better 更好的。\nAnd tea helps you sleep better? 茶會讓你睡得好些? \nNot really. But at least I don’t feel like a zombie.\n\n也不會，但至少我不覺得像個殭屍。",
+          "time": null
+        }
+      ],
+      "postscript": "Try to use these words: drink喝    famous有名的    give up放棄    better更好的"
+    },
+    "quiz": [
+      {
+        "question": "1. How did the tea taste at first?",
+        "options": [
+          "a. Bitter",
+          "b. Old",
+          "c. Sweet"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where is the man from?",
+        "options": [
+          "a. Vietnam",
+          "b. Japan",
+          "c. Taiwan"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Who buys the man's tea?",
+        "options": [
+          "a. His family",
+          "b. Famous people",
+          "c. People in shops"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
