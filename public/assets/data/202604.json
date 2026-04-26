@@ -1622,5 +1622,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260427-01",
+    "type": "國小",
+    "tag": [
+      "Puppets",
+      "Budaixi",
+      "Taiwanese Culture"
+    ],
+    "title": "Taiwan's Famous Puppets to Tell New Stories for Kids",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260424NK.mp3",
+    "content": [
+      {
+        "en": "Puppets are dolls that people move. Some people love puppets! They have puppet shows. They tell stories and jokes with their puppets.",
+        "tw": "木偶是由人來操控的娃娃。有一些藝術家很喜歡木偶，用它們演戲，講故事、說笑話。",
+        "time": null
+      },
+      {
+        "en": "Taiwan's most famous puppet shows are budaixi. They use glove puppets. People put the puppets on their hands. Their fingers make the puppets move.",
+        "tw": "台灣最有名的木偶表演叫做布袋戲。演出者把木偶戴在手上，用手指讓它們動起來。",
+        "time": null
+      },
+      {
+        "en": "Budaixi came to Taiwan more than 300 years ago. People went from city to city with their puppets.",
+        "tw": "布袋戲在三百多年前傳到台灣，戲班子帶著木偶巡迴各地表演。",
+        "time": null
+      },
+      {
+        "en": "Budaixi are on TV now! Budaixi TV shows have bright lights and exciting music! The puppets are beautiful! The shows are famous!",
+        "tw": "布袋戲現在在電視上也看得到。電視版的布袋戲有燈光和精彩音樂，木偶也做得很精緻，所以很受歡迎。",
+        "time": null
+      },
+      {
+        "en": "Last year, Taiwan's arts center had a budaixi story contest. It wanted stories for kids. Six stories won prizes!",
+        "tw": "去年台灣傳統藝術中心舉辦了一場比賽，徵求適合兒童的布袋戲，最後一共有六個作品得獎。",
+        "time": null
+      },
+      {
+        "en": "The first prize winner is \"Giant Ali.\" The writer knew an Amis story about a scary monster. But in her story, the monster is kind. Another winning story is about Guishan Island in Yilan.",
+        "tw": "冠軍劇本叫做《巨人阿里》。作者從阿美族的怪物傳說得到靈感，但她的劇本裡面的怪物都是友善的。另一個得獎故事則是跟宜蘭的龜山島有關！",
+        "time": null
+      },
+      {
+        "en": "Three winning stories will be shown in Taipei in August! How about enjoying budaixi this summer?",
+        "tw": "三個得獎故事將於八月在台北演出！今年夏天要不要來欣賞布袋戲呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "布袋戲在台灣很受歡迎，歷久不衰，現在還有給兒童看的布袋戲。",
+      "content": [
+        {
+          "text": "1. puppet show 布袋戲。\nOoo, a puppet! Fancy. 一個木偶，真稀奇。\nDid you make it yourself? 自己做的嗎?\nOf course not. 當然不是。 My teacher made it. 我的老師做的。\nWe're prepping for a puppet show. 我們準備演一齣布袋戲。",
+          "time": null
+        },
+        {
+          "text": "2. monster 怪獸。\nNice. Do you have a name for it? 真好，你的木偶有名字嗎?\nI call it Wugui, meaning turtle. 我叫它烏龜。\nIt looks more like a monster. 看起來更像怪獸。",
+          "time": null
+        },
+        {
+          "text": "3. kind 和善的。\nHey, it's a very kind monster! 是很友善的怪獸!\nSo what's the show about? 布袋戲在演什麼?\nA super scary story! 很可怕的故事!",
+          "time": null
+        },
+        {
+          "text": "4. last year 去年。\nYou must come and watch! 你一定要來看!\nI watched one last year. 我去年看過一齣。\nIt was really bad. 很糟糕。",
+          "time": null
+        }
+      ],
+      "postscript": "你有有沒有看過布袋戲?\npuppet show布袋戲 monster怪獸 kind和善的 last year去年"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of puppets do people put on their hands?",
+        "options": [
+          "a. Shoe puppets",
+          "b. Sock puppets",
+          "c. Glove puppets"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Who had a contest last year?",
+        "options": [
+          "a. Monsters",
+          "b. Taiwan's arts center",
+          "c. Amis people"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many winning stories will be shown in Taipei this August?",
+        "options": [
+          "a. 3 stories",
+          "b. 6 stories",
+          "c. 300 stories"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
