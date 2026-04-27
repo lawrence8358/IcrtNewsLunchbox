@@ -1724,5 +1724,108 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260428-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Scientists Find New Way Some Dogs Learn Toy Names",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260427NK.mp3",
+    "content": [
+      {
+        "en": "Most dogs can learn some words like \"sit,\" \"stay,\" or \"fetch.\" But for most dogs, learning the names of toys is hard.",
+        "tw": "大多數的狗可以學會一些簡單的指令，聽得懂[坐下]、[別動] 或[撿回來]。但是要學會玩具的名字就困難了。",
+        "time": null
+      },
+      {
+        "en": "Some dogs learn when they are playing with the toys. Some learn when they are learning how to do something. Dogs may learn the name \"ball\" when they are learning to fetch a ball.",
+        "tw": "有一些狗在遊戲過程中能學會玩具的名稱，有些是在訓練過程中學會的。比如說學習怎麼撿球的時候，就可能記住「球」這個玩具。",
+        "time": null
+      },
+      {
+        "en": "Some dogs can learn many names. Scientists found that some of these dogs can learn names another way too!",
+        "tw": "但是也有例外。科學家發現，有些狗用別的辦法學會很多名字。",
+        "time": null
+      },
+      {
+        "en": "The dog owners held a new toy. They talked about it with someone in their family. They said the name of the toy a few times.",
+        "tw": "狗主人手上拿著一個新玩具跟家人聊天，順便說出這個玩具的名稱好幾次。",
+        "time": null
+      },
+      {
+        "en": "The dogs saw the toy and heard the people talk. But the owners were not teaching the dogs the name. They did not look at the dogs. They did not talk to the dogs! The dogs listened and learned!",
+        "tw": "主人不需要教狗狗，也不用看著牠們，或是對牠們說話。狗只是看到玩具，聽到人在討論，就能學會！",
+        "time": null
+      },
+      {
+        "en": "A few days later, the owners said the toy name. The dogs fetched the toy!",
+        "tw": "幾天後，主人只要說出玩具的名稱，狗就能把它拿過來！",
+        "time": null
+      },
+      {
+        "en": "Scientists want to know why these dogs are very good learners. But these dogs are hard to find.",
+        "tw": "科學家好奇這些狗為什麼學習能力那麼強，但其實這些狗很稀有。",
+        "time": null
+      },
+      {
+        "en": "Does your dog know many toy names?",
+        "tw": "你的狗狗知道很多玩具的名字嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "聰明的狗狗可以用不同的方式，學會玩具的名稱。",
+      "content": [
+        {
+          "text": "1. toy 玩具。\nMy boss told me not to play with my toy car during the meeting. 我的老闆叫我開會不要玩小汽車。 What? Did he say why? 什麼，他有沒有解釋? Yeah.有。",
+          "time": null
+        },
+        {
+          "text": "2. talk 談話。\nHe said, \"You are not five.\" 他說[你又不是五歲]。 Fair point…so why were you doing it? 有道理。那你為什麼玩? Because talking to him is stressful! 因為跟他講話壓力很大!",
+          "time": null
+        },
+        {
+          "text": "3. listen 注意聽。\nMy toy car helped me listen to what he's saying. 小汽車幫我注意聽他的講話內容。 Then you should tell him that! 那你告訴他啊!",
+          "time": null
+        },
+        {
+          "text": "4. learn 學習。\nNo. Maybe I can learn another way to focus. 不了。也許我可以學會用別的辦法加強注意。 Good! That's a smart choice. 很好，聰明的選擇。",
+          "time": null
+        }
+      ],
+      "postscript": "你常常玩哪一種玩具?\ntoy玩具 talk談話 listen注意聽 learn學習"
+    },
+    "quiz": [
+      {
+        "question": "1. What is hard to learn for most dogs?",
+        "options": [
+          "a. Words like \"sit\"",
+          "b. Toy names",
+          "c. Fetching a ball"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What did scientists find out?",
+        "options": [
+          "a. Dogs learn faster than their owners.",
+          "b. Some dogs listen and learn names.",
+          "c. Words like \"stay\" are easy to learn."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do scientists want to know about dogs that are good learners?",
+        "options": [
+          "a. Why they are good learners",
+          "b. Why they are hard to find",
+          "c. Why they fetch toys"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
