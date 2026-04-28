@@ -1827,5 +1827,97 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260429-01",
+    "type": "國小",
+    "tag": [
+      "Alishan",
+      "Wasabi",
+      "Tsou"
+    ],
+    "title": "Wasabi on the Alishan Mountains",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260428NK.mp3",
+    "content": [
+      {
+        "en": "Have you tried wasabi? It is a spicy green paste. The paste comes from the root of wasabi plants. Wasabi plants grow in humid, cold places. They can take two years to grow!",
+        "tw": "你吃過芥末嗎？芥末是一種綠色的、很嗆的調味醬，它是用山葵的根做出來的。山葵喜歡濕冷的環境，生長期長達兩年！",
+        "time": null
+      },
+      {
+        "en": "The Tsou people farmed wasabi. They grew it high on the Alishan mountains. But the land was Taiwan's. A forest was there before.",
+        "tw": "鄒族人以前會在阿里山很高的山上種山葵。不過，那塊地更早是森林，而且是公有地。",
+        "time": null
+      },
+      {
+        "en": "Nine years ago, Taiwan stopped letting farmers grow wasabi there. It wanted the forest and wild animals to come back. Soon, young Tsou farmers left Alishan. They went to work in cities.",
+        "tw": "九年前，政府為了復育森林跟野生動物，不再讓原住民在那裡種山葵。很多年輕的鄒族農民於是離開了阿里山，到城市工作。",
+        "time": null
+      },
+      {
+        "en": "But now some Tsou people are farming wasabi again! The new farms are lower on the mountains. The air is not as cold. There are more insects. The Tsou people work with scientists. They found a new kind of wasabi plant. The paste is sweet and spicy. Chefs tried it. They liked it!",
+        "tw": "現在，鄒族人又開始種植山葵了。但是新的地點比較靠近山腳，天氣不夠涼冷，又有很多昆蟲！鄒族人跟科學家合作，找到新的山葵品種，做出來的芥末香甜辛辣，受到很多廚師喜愛！",
+        "time": null
+      },
+      {
+        "en": "Now the forest and wild animals are back. The Tsou people are farming wasabi again. This is a win-win for Taiwan and the Tsou people!",
+        "tw": "現在森林與野生動物都回來了。鄒族人又開始種植山葵。這對台灣與鄒族人來說是雙贏的局面！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "芥末來自山葵的根莖，現在台灣也有在阿里山上栽培的新鮮山葵。",
+      "content": [
+        {
+          "text": "1. city 城市。\nI'm done with the city. 我受夠城市了!\nI want to be a farmer. 我想去當農夫。\nYou? A farmer? 你當農夫?\nYou can't live a day without your air-conditioner! 沒有冷氣你一天都活不下去!",
+          "time": null
+        },
+        {
+          "text": "2. mountain 山。\nThat's because it's too hot. 那是因為天氣太熱。\nI'll go somewhere cold. 我會去很冷的地方。\nIn the mountains? 在山上嗎?\nYeah, somewhere nice and beautiful. 對，在很美的地方。",
+          "time": null
+        },
+        {
+          "text": "3. grow 種植。\nAnd grow… peaches? 然後種水蜜桃?\nNah, too much trouble. 不，太麻煩了。\nI'll grow radishes.我種蘿蔔。\nYou don't even like radishes! 你甚至不愛蘿蔔!",
+          "time": null
+        },
+        {
+          "text": "4. plant 種植。\nThat's just the beginning. 那只是開始。\nI'll plant roses later on. 之後我要種玫瑰花。",
+          "time": null
+        }
+      ],
+      "postscript": "還記得剛剛的單字嗎?\ncity城市 mountain山 grow種植 plant種植"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does wasabi grow?",
+        "options": [
+          "a. In cold places",
+          "b. In dry places",
+          "c. In hot places"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How long do wasabi plants take to grow?",
+        "options": [
+          "a. 2 years",
+          "b. 9 years",
+          "c. 20 years"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Why did Taiwan stop letting farmers grow wasabi high in the mountains?",
+        "options": [
+          "a. To make a wild animal zoo",
+          "b. To make a road to the top",
+          "c. To make the forest come back"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
