@@ -1919,5 +1919,102 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260430-01",
+    "type": "國小",
+    "tag": [
+      "環境",
+      "濕地",
+      "盧安達"
+    ],
+    "title": "Kigali Is Bringing Back Its Wetlands",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260429NK.mp3",
+    "content": [
+      {
+        "en": "Wetlands are land covered in water. Taiwan has many wetlands. Go for a walk in one. You will lose your boots in the mud! Wetlands are full of life! Many animals and plants live there.",
+        "tw": "濕地是被水覆蓋的土地，有很多動物跟植物住在那裡！走在濕地上，只要一不小心鞋子就可能會陷在泥巴裡！",
+        "time": null
+      },
+      {
+        "en": "Wetlands keep us safe. When it rains, wetlands take in water. This helps stop floods. But climate change is hurting wetlands. It is changing when rain comes and how much rain falls. It is bringing warmer weather. About one-fourth of the world's wetlands are gone. Another one-fourth are very sick.",
+        "tw": "濕地能夠保護我們。下雨的時候雨水會被濕地吸收！但是，氣候變遷正在傷害濕地，降雨的時間跟雨量也都在改變。現在全世界大約四分之一的濕地已經消失，另外四分之一狀況不佳。",
+        "time": null
+      },
+      {
+        "en": "Kigali is a city in Rwanda. It has heavy rain and lots of floods. Floods destroy homes and businesses. They hurt people.",
+        "tw": "非洲國家盧安達的基加利市常常下大雨，也很容易發生洪水。洪水破壞房屋跟商店，也會傷害居民。",
+        "time": null
+      },
+      {
+        "en": "Kigali had many wetlands. But they were used for fishing and farming. Now, people there want to bring the wetlands back! They are building islands, lakes, and ponds. They are planting plants. They are making rivers!",
+        "tw": "以前基加利有很多濕地，但都變成漁業跟農業用地。現在當地人想要濕地回來。他們建造小島、挖掘湖泊跟池塘，並且栽種植物，讓河流重新出現！",
+        "time": null
+      },
+      {
+        "en": "One of Kigali's wetlands has been saved! It has water, life, and a forest! It helps a lot with floods. Five more wetlands will be saved this year!",
+        "tw": "其中一個濕地已經被救回來了！那裡有水、有生命、有森林，能有效減少洪水的發生。基加利預計今年還會再恢復五個濕地！",
+        "time": null
+      },
+      {
+        "en": "Wetlands save lives. Let's all keep our wetlands safe!",
+        "tw": "濕地拯救生命。讓我們大家一起保護我們的濕地吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "在非洲的基加利市，政府和人民合作搶救濕地。",
+      "content": [
+        {
+          "text": "o island 島嶼。\nGoing birdwatching next weekend? Yeah, this time we're heading to the Matsu islands.",
+          "time": null
+        },
+        {
+          "text": "o water 水。\nAren't those just tiny islands? Small, yeah, but packed with water birds.",
+          "time": null
+        },
+        {
+          "text": "o full 充滿的。\nI don't get it. What's so interesting about birds? Just wait till you see them flying over the islands; the whole place is so full of life!",
+          "time": null
+        },
+        {
+          "text": "o rain 下雨。\nOkay, that does sound cool. And after a little rain, the birds will look for food. It's cute!",
+          "time": null
+        }
+      ],
+      "postscript": "我們一起讀單字。island島嶼 water水 full充滿的 rain下雨"
+    },
+    "quiz": [
+      {
+        "question": "1. What are wetlands?",
+        "options": [
+          "a. Land covered in water",
+          "b. Water covered with land",
+          "c. Land covered with life"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What is hurting wetlands?",
+        "options": [
+          "a. Plants",
+          "b. Climate change",
+          "c. Animals"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Where is Kigali?",
+        "options": [
+          "a. Romania",
+          "b. Rwanda",
+          "c. Russia"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
