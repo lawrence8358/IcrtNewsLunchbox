@@ -1,0 +1,114 @@
+ [
+  {
+    "id": "20260501-01",
+    "type": "國小",
+    "tag": [
+      "Labor Day",
+      "Workers",
+      "AI"
+    ],
+    "title": "Workers March on Labor Day",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260430NK.mp3",
+    "content": [
+      {
+        "en": "How much money have you spent today? It is more than you think!",
+        "tw": "你今天花了多少錢呢？可能比你想的多喔！",
+        "time": null
+      },
+      {
+        "en": "Think about brushing your teeth. You need a toothbrush and toothpaste. They cost money. Want to rinse your mouth? That is also not free! Water costs money.",
+        "tw": "就拿刷牙來說，你仔細想想，刷牙需要牙刷跟牙膏，這些都要錢吧?刷完牙要用水漱口，水也要錢！",
+        "time": null
+      },
+      {
+        "en": "Lots of things cost money. People need money to live. So… they get a job.",
+        "tw": "很多東西都要用錢買，人們有錢才能生活，所以要去工作賺錢！",
+        "time": null
+      },
+      {
+        "en": "People who work for money are workers. Another word for work is labor. May 1st is Labor Day in Taiwan. That is today! It is a day for workers.",
+        "tw": "為了賺錢而工作的人叫做勞工，每年的5月1日是台灣的「勞動節」，也就是今天！這是勞工一起慶祝的節日。",
+        "time": null
+      },
+      {
+        "en": "On Labor Day, some workers march together. They march for better and safer work.",
+        "tw": "在勞動節這天，有些勞工會上街遊行，爭取更好、更安全的工作環境。",
+        "time": null
+      },
+      {
+        "en": "The workers carry signs. The signs say what the workers want. The signs may say things like 'equal pay,' 'fewer working hours,' or 'save our jobs.'",
+        "tw": "勞工會拿著各式各樣的標語，上面寫著「同工同酬」啦、「縮短工時」啦，或是「我要工作」等等。",
+        "time": null
+      },
+      {
+        "en": "Workers everywhere are worried about AI now. AI may take their jobs. AI makes jobs too. But many are low-paying jobs.",
+        "tw": "現在很多勞工擔心 AI 會搶走他們的工作。雖然 AI 也會創造新的工作機會，但是薪水並不高。",
+        "time": null
+      },
+      {
+        "en": "This year, workers' signs will be about AI. They will say things like 'humans first, not AI' or 'make AI good for workers too.'",
+        "tw": "所以，今年的勞動節遊行很多標語會跟AI有關！比如說: [人第一，AI第二]。",
+        "time": null
+      },
+      {
+        "en": "What will workers march for when you grow up?",
+        "tw": "當你長大後，勞工會為什麼而遊行呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "五一勞動節，是全世界的工作人員會共同慶祝的節日。",
+      "content": [
+        {
+          "text": "1. grow up 長大。\nI'm so tired. 我好累! I need a vacation!我需要休假! You know, when I was growing up, 你知道嗎，我一路長大，I never thought I'd end up an office worker.從來沒想到我會變成上班族。",
+          "time": null
+        },
+        {
+          "text": "2. how much 多少。\nAnd yet…here you are.結果你到了這裡。\nYeah… here I am.對啊，我到了這裡。Tell me, how much money do we really need to live?告訴我，我們究竟需要多少錢來生活?",
+          "time": null
+        },
+        {
+          "text": "3. everywhere 每個地方。\nMore than you think. 比你想的多。The cost of living is going up everywhere.每個地方的生活費都在上漲。",
+          "time": null
+        },
+        {
+          "text": "4. pay 薪資。\nThat's the problem. 那就是問題所在. My pay never feels enough. 我覺得薪水從來就不夠。",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我複習單字。grow up長大 how much多少 everywhere每個地方 pay薪資"
+    },
+    "quiz": [
+      {
+        "question": "1. When is Labor Day in Taiwan?",
+        "options": [
+          "a. March 1st",
+          "b. May 1st",
+          "c. September 1st"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do workers carry with them when they march?",
+        "options": [
+          "a. Toothbrushes",
+          "b. Computers",
+          "c. Signs"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What are workers worried about this year?",
+        "options": [
+          "a. AI",
+          "b. Water",
+          "c. Growing up"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  }
+]
