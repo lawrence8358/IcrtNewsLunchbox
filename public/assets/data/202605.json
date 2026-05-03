@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20260501-01",
     "type": "國小",
@@ -108,6 +108,104 @@
         ],
         "time": null,
         "answer": "a"
+      }
+    ]
+  },
+  {
+    "id": "20260504-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Woman Finds Surprise in Egg Tart",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260501NK.mp3",
+    "content": [
+      {
+        "en": "Egg tarts are delicious. Millions and millions are eaten every year! But a woman in Kaohsiung did not eat hers.",
+        "tw": "蛋塔味道香甜，每年大家會吃掉好幾百萬個蛋塔！但是高雄一位女士卻沒有吃到。",
+        "time": null
+      },
+      {
+        "en": "The woman bought some egg tarts from a restaurant. She took them home. They were cold. Her family told her to microwave them. They taste better when they are hot, right?",
+        "tw": "女士在一家店買了蛋塔，帶回家後發現已經冷掉了。家人說她可以用微波爐加熱，熱熱的蛋塔比較好吃！",
+        "time": null
+      },
+      {
+        "en": "But the woman was hungry. She wanted to eat an egg tart now! Then, she saw something black on it. She broke it into two pieces. And she pulled out a battery!",
+        "tw": "但她實在太餓了，想馬上把蛋塔吃掉，竟然拉出整顆電池！",
+        "time": null
+      },
+      {
+        "en": "Batteries can hurt our stomachs. And they can start fires in microwave ovens. Batteries can explode in them too!",
+        "tw": "電池如果吃下去會傷害身體，放進微波爐還可能起火爆炸！",
+        "time": null
+      },
+      {
+        "en": "How did the battery get into the egg tart? A restaurant cook was making some egg tarts. The cook used a timer. It fell on the tarts. The battery from the timer went into one!",
+        "tw": "電池怎麼會跑進蛋塔裡？原來是廚師在做蛋塔時，用了計時器。它不小心掉到蛋塔上，裡面的電池就掉進其中一個蛋塔裡了！",
+        "time": null
+      },
+      {
+        "en": "The restaurant's rules say to throw away food when something falls in it. But the cook did not throw away the egg tarts.",
+        "tw": "店裡規定，有東西掉進食物裡就要丟掉。但那位廚師沒有把蛋塔丟掉！",
+        "time": null
+      },
+      {
+        "en": "The woman was lucky! She did not eat the egg tart. And she did not microwave it!",
+        "tw": "這位女士真幸運！她沒有吃掉蛋塔，也沒有用微波爐加熱它！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這位女士經歷了蛋塔驚魂記，不過她至少毫髮無傷。",
+      "content": [
+        {
+          "text": "1. hot 熱的。Careful, that food is really hot! 小心，那盤食物很燙! I know, but I'm too hungry to wait. 我知道，但是我太餓了，等不及了。",
+          "time": null
+        },
+        {
+          "text": "2. hurt 傷害。You're going to hurt your tongue again. 你又會燙到舌頭。It's fine… 還好吧... Oh! Okay, maybe not fine. 也許不大好。",
+          "time": null
+        },
+        {
+          "text": "3. microwave oven 微波爐。That's the thing with microwave ovens. 這是微波爐的缺點。It's hot on the outside but still cold on the inside. 外面很燙，但是裡面還是冷的。",
+          "time": null
+        },
+        {
+          "text": "4. start 開始。I should learn to cook, that's for sure. 我肯定應該學做菜。You can start with popcorn.你可以從爆米花開始。Popcorn? Please - I'm way better than that! 爆米花? 拜託! 我比那厲害多了!",
+          "time": null
+        }
+      ],
+      "postscript": "你有用過微波爐嗎? hot熱的 hurt傷害 microwave oven微波爐 start開始"
+    },
+    "quiz": [
+      {
+        "question": "1. Why didn't the woman microwave the egg tart?",
+        "options": [
+          "a. She was hungry.",
+          "b. She was scared.",
+          "c. She was tired."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What was in the egg tart?",
+        "options": [
+          "a. A stomach",
+          "b. A timer",
+          "c. A battery"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How did the woman find it?",
+        "options": [
+          "a. She ate the egg tart.",
+          "b. The cook told her about it.",
+          "c. She broke the tart into two pieces."
+        ],
+        "time": null,
+        "answer": "c"
       }
     ]
   }
