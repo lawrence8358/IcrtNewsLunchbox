@@ -208,5 +208,102 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260505-01",
+    "type": "國小",
+    "tag": [
+      "太魯閣",
+      "登山嚮導",
+      "原住民"
+    ],
+    "title": "Taiwan's Newest Mountain Guides",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260504NK.mp3",
+    "content": [
+      {
+        "en": "Taroko National Park is in Xiulin Township. The park has many mountains! Twenty-seven are three thousand meters tall or taller!",
+        "tw": "位於秀林鄉的太魯閣國家公園內有很多高山，其中有 27 座山高達三千公尺以上。",
+        "time": null
+      },
+      {
+        "en": "Taroko is named for the Truku people. They are indigenous peoples. Most people living in Xiulin are Truku.",
+        "tw": "太魯閣這個名字來自太魯閣族，是台灣的原住民。秀林鄉居民大多都是太魯閣族人。",
+        "time": null
+      },
+      {
+        "en": "Tourists love Taroko. They hike its paths. They climb its mountains. But mountains can be dangerous. So Xiulin is training Truku people to be mountain guides.",
+        "tw": "很多遊客喜歡在太魯閣地區走步道或是爬山，但是高山總有危險。因此秀林鄉正在訓練太魯閣族人成為登山嚮導。",
+        "time": null
+      },
+      {
+        "en": "The new guides are learning about nature. They are learning how to find and help lost people. They are learning how to read maps, camp, make fires, and much more!",
+        "tw": "這些嚮導學習自然知識，也學習怎麼尋找與幫助迷路的登山客。他們會看地圖、露營、生火等等技能！",
+        "time": null
+      },
+      {
+        "en": "These guides will help keep people safe on mountains. They will know the paths. They will know where to hike and climb safely. When the weather changes, they will be able to help. When there is an emergency, they will be able to save lives!",
+        "tw": "這些嚮導可以保障登山客或是遊客的安全。他們認得山路，也知道哪裡可以安全攀登。天氣發生變化的時候也能幫忙。遇到緊急狀況，嚮導甚至可以救人一命。",
+        "time": null
+      },
+      {
+        "en": "The Truku people of Xiulin are working hard to keep us safe in Taroko National Park. The next time you are on a mountain, get a guide!",
+        "tw": "秀林鄉的太魯閣族人正努力保障我們在太魯閣國家公園的安全。下一次你去爬山時，記得找個嚮導！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "受過訓練的太魯閣高山嚮導，對登山客有很大的幫助。",
+      "content": [
+        {
+          "text": "1. climb 攀爬。\nLet’s go climb Xiangshan this Sunday. 我們這星期天去爬象山吧。\nClimb? You mean like walking up a bunch of stairs? 爬山?\n你的意思是爬一堆樓梯?\nYeah, pretty much, nothing too steep. 差不多，階梯並不陡。",
+          "time": null
+        },
+        {
+          "text": "2. path 小徑。\nWait, I thought it was just an easy hike. 等等，我以為只是輕鬆健行。\nIt is! You can’t find an easier path than Xiangshan.\n確實是，你找不到比象山更輕鬆的了。",
+          "time": null
+        },
+        {
+          "text": "3. able 能夠。\nEven so, I won’t be able to hike more than 20 minutes.\n就算那樣我最多也只能走二十分鐘。\nWhat?! 什麼啊?!\nAnd I’m taking snack breaks. 而且我要點心休息時間。",
+          "time": null
+        },
+        {
+          "text": "4. next time 下一次。\nForget it. I’ll catch you next time. 算了，我下次再找你。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\nclimb攀爬 path小徑 able能夠 next time下次"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is Taroko National Park?",
+        "options": [
+          "a. Jiaoxi Township",
+          "b. Xiulin Township",
+          "c. Xiushui Township"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Who is the township training to be guides?",
+        "options": [
+          "a. Most people",
+          "b. Tourists in Taroko",
+          "c. Truku people"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What do these guides do?",
+        "options": [
+          "a. Keep people safe on mountains",
+          "b. Make paths on mountains",
+          "c. Find more tall mountains"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
