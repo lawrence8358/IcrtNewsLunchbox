@@ -305,5 +305,108 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260506-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Brave Baby Monkey Makes Friends",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260505NK.mp3",
+    "content": [
+      {
+        "en": "A baby monkey is famous online. His name is Punch.",
+        "tw": "有一隻小猴子在網路上非常有名，名叫 Punch。",
+        "time": null
+      },
+      {
+        "en": "Punch lives in a zoo in Japan. He does not have a mother. Zookeepers take care of him.",
+        "tw": "Punch 住在日本的一座動物園。他沒有媽媽，從小由飼養員照顧。",
+        "time": null
+      },
+      {
+        "en": "At first, Punch had no monkey friends. He had an orange orangutan friend. But it was a stuffed animal.",
+        "tw": "一開始，Punch 沒有任何猴子朋友。他有一個橘色的紅毛猩猩朋友，但那只是玩偶。",
+        "time": null
+      },
+      {
+        "en": "The stuffed orangutan was bigger than Punch. But Punch held it all the time. He hugged it when he slept. People online said Punch and his orangutan were very cute together!",
+        "tw": "這隻玩偶比 Punch 還大，但 Punch一直抱著它，連睡覺的時候也不放開。網友都覺得他們很可愛！",
+        "time": null
+      },
+      {
+        "en": "But Punch was lonely. So he tried to make friends with the other monkeys at the zoo. Some were not nice to him. They pushed him away. This made him sad.",
+        "tw": "不過Punch還是很孤單。他努力跟動物園裡的其他的猴子交朋友。有一些猴子對他不太友善，還把他推開，這讓他很難過。",
+        "time": null
+      },
+      {
+        "en": "But Punch was brave. He kept trying. He learned how to play with the other monkeys. Slowly, he made friends!",
+        "tw": "但Punch很勇敢！他不斷的嘗試，學會怎麼跟其他的猴子一起玩，慢慢也有了朋友！",
+        "time": null
+      },
+      {
+        "en": "Now Punch sometimes holds his stuffed orangutan. But he plays with his monkey friends. People online are happy for him. Some give him more stuffed animals. He shares them with his friends.",
+        "tw": "現在，Punch有時候還是會抱著玩偶，也會和朋友一起玩耍。網友都替他高興，有些人還送他更多玩偶讓他跟朋友分享。",
+        "time": null
+      },
+      {
+        "en": "Sometimes making friends is hard. You may feel lonely. But being brave helps you make new friends!",
+        "tw": "有時候交朋友很難。你可能會感到孤單。但勇敢一點能幫助你結交新朋友！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "小猴子有了真正的朋友，不再那麼依賴絨毛玩具。",
+      "content": [
+        {
+          "text": "1. lonely 寂寞的。\nWelcome back! 歡迎回來!\nHi, so good to see you! 看到你真好!\nYou must feel lonely without us. 沒有我們你一定很寂寞。",
+          "time": null
+        },
+        {
+          "text": "2. sad 悲傷的。\nOf course I missed you guys. 我當然很想念你們囉!\nBut I was so busy I didn’t have time to be sad. 不過我也忙到沒空悲傷。",
+          "time": null
+        },
+        {
+          "text": "3. share 分享。\nYou have to share your stories with us. 你一定要跟我們分享你的故事。\nOh, I’ve got tons of great stories! 我有很多很棒的故事。",
+          "time": null
+        },
+        {
+          "text": "4. sometimes 有時候。\nYou know I traveled across 9 countries?\nSometimes I had friends with me, but sometimes it was just me.",
+          "time": null
+        }
+      ],
+      "postscript": "Do you sometimes feel lonely?\nlonely寂寞的 sad悲傷的 share分享 sometimes有時候"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does Punch live?",
+        "options": [
+          "a. In a house",
+          "b. In a forest",
+          "c. In a zoo"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. At first, who was Punch’s friend?",
+        "options": [
+          "a. A zookeeper",
+          "b. Another monkey",
+          "c. A stuffed orangutan"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did Punch want to do?",
+        "options": [
+          "a. Make friends with other monkeys",
+          "b. Get more stuffed animals",
+          "c. Find his mother"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
