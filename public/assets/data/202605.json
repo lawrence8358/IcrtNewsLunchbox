@@ -408,5 +408,103 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260507-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Taiwan's Last Ferry Paddled by Hand",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260506NK.mp3",
+    "content": [
+      {
+        "en": "The Xindian River is in New Taipei. People cross this river every day. They go to school. They go to work. Many people drive on a bridge. But some ride the ferry.",
+        "tw": "新店溪位於新北市，很多人每天上學、上班都要過這條河。有些人開車，也有人選擇搭渡船到對岸。",
+        "time": null
+      },
+      {
+        "en": "This ferry is a small wooden boat. The ferryman stands at the back. He moves the ferry with a long paddle. One end is in his hands. The other is in the water.",
+        "tw": "新店溪的渡船是一艘小木船。船夫站在船尾，用一支長長的槳來划船，一端在船夫的手裡，另一端在水裡。",
+        "time": null
+      },
+      {
+        "en": "People get on the ferry. They sit. Then the ferryman paddles. The ride is five or six minutes.",
+        "tw": "乘客上船坐好後，船夫就開始划槳。整趟旅程大約只需要五、六分鐘。",
+        "time": null
+      },
+      {
+        "en": "There were nine ferries a long time ago. Then bridges were built. This ferry is Taiwan's last ferry paddled by hand! The ferryman wants it to keep going. But his job is hard.",
+        "tw": "很久以前，這裡一共有九艘渡船。大橋落成之後乘客減少，這艘船成為台灣最後一艘用人力划的渡船！船夫希望繼續下去，但這份工作很辛苦。",
+        "time": null
+      },
+      {
+        "en": "The ferryman starts at six in the morning. He stops at seven at night! He works seven days a week! He gets a one-day holiday every year. Summers are hot. Winters are windy. No one wants his job!",
+        "tw": "船夫每天早上六點開始工作，到晚上七點才休息。一週工作七天，每年只放一天假。夏天很熱，冬天風很大，所以沒有人想要這個工作。",
+        "time": null
+      },
+      {
+        "en": "Now tourists ride the ferry too. Riding the ferry costs thirty Taiwan dollars. Kids under six ride for free!",
+        "tw": "現在很多觀光客會來搭這艘船。船票是三十元台幣，六歲以下的小朋友免費！",
+        "time": null
+      },
+      {
+        "en": "This summer, take a ride with the ferryman!",
+        "tw": "這個夏天，來和船夫一起搭趟船吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "用人力划的渡船就快絕跡了，最後一艘在新店。",
+      "content": [
+        {
+          "text": "1. river 河流。\nThe best biking trails in Taipei are along the river.\n台北最好的自行車道都在河邊。\nOh, like the Tamsui River? 像淡水河嗎?\nYeah, and the Keelung River too. 對，還有基隆河。",
+          "time": null
+        },
+        {
+          "text": "2. summer 夏天。\nA long time ago, my dad and I used to ride there together,\n很久以前我爸爸會跟我一起騎車，\nenjoying the summer breeze. 享受夏日涼風。",
+          "time": null
+        },
+        {
+          "text": "3. windy 颳風的。\nWhat about in winter? 冬天呢?\nWe wouldn't go then. 我們冬天不會去。\nIt gets too windy. 風太大了。",
+          "time": null
+        },
+        {
+          "text": "4. drive 駕駛。\nDo you still go biking? 你現在還騎車嗎?\nNot anymore. 不騎了。\nI drive now… same breeze, no effort. 我現在開車，一樣的涼風，卻不需要用力。",
+          "time": null
+        }
+      ],
+      "postscript": "你對河流認識多少？\nriver河流 summer夏天 windy颳風的 drive駕駛"
+    },
+    "quiz": [
+      {
+        "question": "1. How does the ferryman move the ferry?",
+        "options": [
+          "a. With a motor",
+          "b. With a paddle",
+          "c. With a rope"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How long is the ferry ride?",
+        "options": [
+          "a. 5 minutes",
+          "b. 9 minutes",
+          "c. 30 minutes"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How many days a week does the ferryman work?",
+        "options": [
+          "a. 3 days",
+          "b. 5 days",
+          "c. 7 days"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
