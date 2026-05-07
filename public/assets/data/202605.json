@@ -506,5 +506,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260508-01",
+    "type": "國小",
+    "tag": [
+      "台北",
+      "公車",
+      "算命"
+    ],
+    "title": "Ride a Fortune-Telling Bus",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260507NK.mp3",
+    "content": [
+      {
+        "en": "Are you in Taipei? Ride on Buses 611 or 287. These buses can tell you good things that will happen to you. They tell fortunes!",
+        "tw": "如果你在台北的話，可以去搭搭看 611 或 287號公車！這兩路公車會告訴你未來可能會發生的好事！",
+        "time": null
+      },
+      {
+        "en": "Many buses have stop buttons. These buses do too. People press them when they want to get off the bus.",
+        "tw": "一般公車都有下車鈴，乘客要下車就按一下。",
+        "time": null
+      },
+      {
+        "en": "But the buttons on these buses are different. The yellow buttons have a blue circle and then a purple circle around them. The purple circle has fortunes on it: \"get one hundred on a test,\" \"find love,\" \"stay healthy,\" and more!",
+        "tw": "但是這兩路公車的下車鈴不一樣。黃色下車鈴外面有個藍色圓圈，圓圈外圍是紫色圈，寫著「考試一百分」、「下車遇到愛」、或是「平安又健康」等句子。",
+        "time": null
+      },
+      {
+        "en": "How does it work? Press the button. You will see a light go around in the blue circle. It slowly stops at your fortune!",
+        "tw": "要怎麼算命呢？只要一按下車鈴，藍色圓圈裡的小燈就開始轉動，最後停在一個句子旁！",
+        "time": null
+      },
+      {
+        "en": "One bus rider pressed the button. The fortune said \"win the lottery.\" The bus doors opened. A lottery store was there!",
+        "tw": "一名乘客按了下車鈴，藍色燈停在「彩券中大獎」旁邊。剛好公車車門一開，就是一家彩券行！",
+        "time": null
+      },
+      {
+        "en": "Fortune-telling buses are fun to ride. But do not press the button more than one time. Press it when you get off the bus. It is a stop button!",
+        "tw": "算命公車很好玩，不過只要在下車的時候按一次按鈕就好了，畢竟它本來就是下車鈴！",
+        "time": null
+      },
+      {
+        "en": "Are the fortunes for fun? Or are they real? Ride one of these buses and find out!",
+        "tw": "這些運勢只是好玩而已嗎？還是真的？去搭搭看其中一輛公車來找出答案吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "算命公車是為了給乘客一點小小娛樂，讓心情輕鬆一下。",
+      "content": [
+        {
+          "text": "1. for fun 為了好玩。\nDo you really believe in fortune-telling? 你真的相信算命?\nKind of. But mostly I do it for fun. 有一點，不過大部分是為了好玩。",
+          "time": null
+        },
+        {
+          "text": "2. bus 公車。\nSo what did he say this time? 這次他怎麼說?\nHe said I should take a taxi to my interview instead of taking a bus.\n他說我應該搭計程車去面試，而不是搭公車。",
+          "time": null
+        },
+        {
+          "text": "3. real 真實的。\nSeriously? Are you going to listen to him? 真的喔?你要聽話嗎?\nSure. I paid him 500 NT! 當然，我付了他五百塊!\nIt's real money! 那個錢可不假。",
+          "time": null
+        },
+        {
+          "text": "4. lottery 樂透彩。\nCan I ask him about the lottery? 我可不可以問他彩券的問題?\nNo, don't do that! 不行，不要那樣!\nThat's not how it works. 算命不是那樣的。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\nfor fun為了好玩 bus公車 real真實的 lottery樂透彩"
+    },
+    "quiz": [
+      {
+        "question": "1. Which city's buses have the new stop buttons?",
+        "options": [
+          "a. Taipei",
+          "b. Taoyuan",
+          "c. Tainan"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What color is the circle with the fortunes on it?",
+        "options": [
+          "a. Yellow",
+          "b. Blue",
+          "c. Purple"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. When do bus riders press the button?",
+        "options": [
+          "a. When they want to get on the bus",
+          "b. When they want to get off the bus",
+          "c. When they want to know their fortune"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
