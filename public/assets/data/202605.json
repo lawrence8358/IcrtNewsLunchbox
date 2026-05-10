@@ -608,5 +608,111 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260511-01",
+    "type": "國小",
+    "tag": [
+      "Robots",
+      "Technology"
+    ],
+    "title": "These Very Small Robots Swim and Dance",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260508NK.mp3",
+    "content": [
+      {
+        "en": "Scientists in the U.S. made a very small robot. How small is it? Well, it's hard to see!",
+        "tw": "美國的科學家發明了一種微小的機器人，小到連肉眼都很難看見！",
+        "time": null
+      },
+      {
+        "en": "This robot gets power from the sun. It has a motor inside. But the motor is very, very small. It cannot push the robot in water.",
+        "tw": "這種小機器人用太陽能發電。機器人裡面有馬達，但馬達太小了，沒辦法在水中推動機器人！",
+        "time": null
+      },
+      {
+        "en": "But the robot can swim! It makes electricity. It sends the electricity into the water. That makes the water move. The moving water pushes the robot!",
+        "tw": "即便如此，機器人仍然會游泳！它自己發電，把電力送到水裡，流動的水會推著機器人前進。",
+        "time": null
+      },
+      {
+        "en": "The robot can do many things. It has a computer inside! It can move by itself. It does not need anyone to make it move.",
+        "tw": "這個小不點能做很多事情。它有一個微型電腦，還可以自己移動，不需要人操作。",
+        "time": null
+      },
+      {
+        "en": "The robot can find how hot or cold water is. It can tell people. But the robot does not say words. It does not write words. It dances in the water!",
+        "tw": "它也會測量水溫並回報這些資訊。但它不會寫字，也不會說話，所以用跳舞來表達！",
+        "time": null
+      },
+      {
+        "en": "The scientists watch the robot dance. The dance tells them how hot or cold the water is. Other dances tell them other things.",
+        "tw": "科學家看到機器人的舞蹈就知道水溫的高低。它的跳舞動作都有不同的含意。",
+        "time": null
+      },
+      {
+        "en": "Does this robot cost a lot? Well, three of them cost one Taiwan dollar! What?!",
+        "tw": "這種機器人會不會很貴？其實，三台這種微型機器人只要一塊錢台幣！",
+        "time": null
+      },
+      {
+        "en": "One day a robot like this may do things inside you to help you!",
+        "tw": "有一天，像這樣的機器人可能會在你的體內做些事情來幫助你！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "微型機器人雖然小到幾乎看不見，卻能做很多事。",
+      "content": [
+        {
+          "text": "1) swim 游泳。\nThe sun is so hot today! 今天太陽好熱!\nYeah, perfect weather for swimming. 是游泳的好天氣!\nIs your swimming pool outside? 你的游泳池在室外?\nIt is. 是的。",
+          "time": null
+        },
+        {
+          "text": "2) sun 太陽。\nAnd the water is kept warm by solar power. 太陽能讓池水保溫。\nSo the sun does all the work for you? 所以太陽替你做所有工作?\nPretty much! 差不多。",
+          "time": null
+        },
+        {
+          "text": "3) by itself 它自己。\nIt heats the water by itself. 太陽能系統自己把水弄熱。\nWow, that's cool! 好酷喔!\nNo, that's warm. 不對，是溫暖。",
+          "time": null
+        },
+        {
+          "text": "4) cost 花費。\nCool idea, warm water. 很酷的主意，溫暖的池水。\nExactly. 正是。\nAnd it doesn't cost much. 而且沒花多少錢。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you swim in summertime?\nswim游泳 sun太陽 by itself它自己 cost花費"
+    },
+    "quiz": [
+      {
+        "question": "1. What does the robot use to swim?",
+        "options": [
+          "a. A motor",
+          "b. Electricity",
+          "c. Swim caps"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How does the robot tell scientists something?",
+        "options": [
+          "a. It speaks.",
+          "b. It writes.",
+          "c. It dances."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How much do three of these robots cost?",
+        "options": [
+          "a. One Taiwan dollar",
+          "b. One million Taiwan dollars",
+          "c. One billion Taiwan dollars"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
