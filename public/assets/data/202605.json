@@ -714,5 +714,108 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260512-01",
+    "type": "國小",
+    "tag": [
+      "Taiwan",
+      "Python",
+      "Fossils",
+      "Animals"
+    ],
+    "title": "Long Python from Long Ago Found in Taiwan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260511NK.mp3",
+    "content": [
+      {
+        "en": "New living animals are often found in Taiwan. But sometimes people find new animals from long ago here too.",
+        "tw": "在台灣，人們常會新發現已經存在的動物。偶而也會發現很久以前存在，卻一直不為人知的種類。",
+        "time": null
+      },
+      {
+        "en": "Some of these animals lived hundreds of thousands of years ago. Their bones are found in the ground.",
+        "tw": "那些動物有些生活在幾十萬年前，化石到現在才被挖掘出來。",
+        "time": null
+      },
+      {
+        "en": "There is a good place to find animal bones from long ago. It is in Tainan. Some of the animals found there are so cool!",
+        "tw": "台南是個可以找到古老動物化石的好地方。其中有些動物很酷喔!",
+        "time": null
+      },
+      {
+        "en": "Experts found the bones of a big cat there. Maybe it was bigger than a lion! This cat had long teeth. Experts found some teeth and bones of very big crocodiles there too. Maybe they were six or seven meters long! Whoa!",
+        "tw": "科學家在那裡發現一種大型貓科動物，體型可能比獅子還大，有很長的牙齒。他們也找到鱷魚的牙齒跟骨頭，這種巨大的鱷魚，身長大約有六到七公尺！",
+        "time": null
+      },
+      {
+        "en": "Someone found a snake bone from long ago there too. Now, experts say the snake was four meters long! That is longer than any snake in Taiwan today!",
+        "tw": "還發現蛇的骨頭，那種蛇生活在久遠之前的古代。牠大約有四公尺那麼長，比現在台灣的任何蛇都要長！",
+        "time": null
+      },
+      {
+        "en": "This snake is a kind of python. No pythons have been found in Taiwan before. Experts thought pythons did not live here. Now they know pythons did!",
+        "tw": "牠是蟒蛇的一種。以前專家都認為台灣沒有蟒蛇，現在才知道其實是有的！",
+        "time": null
+      },
+      {
+        "en": "Hundreds of thousands of years ago, Taiwan had big cats and big crocodiles … and very long pythons! How sssssscary!",
+        "tw": "幾十萬年前，台灣有大型貓科動物、巨大的鱷魚……還有很長的蟒蛇！真是太恐怖了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台南發現大型肉食動物的化石，例如鱷魚，蟒蛇等等。",
+      "content": [
+        {
+          "text": "1. ground 地面。\nLook what I found! 你看我找到什麼!\nWhere did you find it? 你在哪裡找到的?\nIn the ground, when I was planting tomatoes. 我種番茄時在地下發現的。",
+          "time": null
+        },
+        {
+          "text": "2. bone 骨頭。\nI think those are human bones. 我覺得它是人類骨頭。\nNo way! You're trying to scare me, right? 不會吧!你在嚇唬我對不對?\nLook, they're big. 你看它很大。",
+          "time": null
+        },
+        {
+          "text": "3. snake 蛇。\nBigger than cat bones. 比貓的骨頭大。\nMaybe they're from a snake. 也許是一條蛇的。\nA snake? You have snakes in your garden? 蛇? 你家院子裡有蛇?\nI'm not sure. 我不確定。",
+          "time": null
+        },
+        {
+          "text": "4. expert 專家。\nBut I think I'll stop digging now! 但我可不要再挖了。\nYeah, and you'd better take the bones to experts. 對，而且你最好把骨頭帶給專家看看。",
+          "time": null
+        }
+      ],
+      "postscript": "Please read the words with me.\nground地面 bone骨頭 snake蛇 expert專家"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the good place to find bones from long ago?",
+        "options": [
+          "a. In Tainan",
+          "b. In Taichung",
+          "c. In Taitung"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How long was the snake from long ago?",
+        "options": [
+          "a. 4 meters long",
+          "b. 6 meters long",
+          "c. 8 meters long"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Which animal had not been found in Taiwan before?",
+        "options": [
+          "a. A cat",
+          "b. A crocodile",
+          "c. A python"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
