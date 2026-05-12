@@ -817,5 +817,98 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260513-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Six-Year-Old Kid Lifts Big Barbell",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260512NK.mp3",
+    "content": [
+      {
+        "en": "Do you like to do what your parents do? Many kids do. One six-year-old girl does. Her mom goes to the gym. So the girl goes, with her mom. Her mom does strength training. So, the girl does!",
+        "tw": "很多小朋友喜歡模仿他們爸爸媽媽的行為。這個六歲的小女孩會跟她媽媽一起去健身房，並且跟媽媽一起做力量強化訓練！",
+        "time": null
+      },
+      {
+        "en": "The girl learned how to lift barbells safely. Barbells are long bars with circles at the ends. One day, she wanted to lift a heavy barbell. Her mom watched.",
+        "tw": "槓鈴是一根兩端有圓形鐵片的桿子。在健身房，這個女孩學會了如何安全的舉槓鈴！有一天，她想挑戰一個很重的槓鈴，她的媽媽就在旁邊看著。",
+        "time": null
+      },
+      {
+        "en": "The girl stood in front of the barbell. She bent down from her hips. She bent her knees. Then, she picked up the barbell with her hands. She stood and lifted it to her hips!",
+        "tw": "小女孩站在槓鈴前，彎下身體，再彎曲膝蓋，接著用雙手把槓鈴抓起來。她慢慢站直，最後成功把槓鈴舉到臀部的位置！",
+        "time": null
+      },
+      {
+        "en": "This six-year-old lifted 35 kilograms! Strength training made her strong!",
+        "tw": "這個六歲的小女孩竟然舉起了 35 公斤的槓鈴！力量強化訓練讓她身體變強壯。",
+        "time": null
+      },
+      {
+        "en": "Other kids do strength training with their parents too. Some do squats. Squats are like sitting down and then standing up from a chair ... again and again! But there is no chair! Strength training helps make kids stronger. Scientists say this can be good for kids.",
+        "tw": "也有其他的小朋友會跟爸媽一起做力量強化訓練，有些人會訓練深蹲。力量強化訓練可以幫助小朋友變得更強壯。科學家也認為這對孩子是有幫助的！",
+        "time": null
+      },
+      {
+        "en": "But, if you try strength training, an adult should watch you. Then you can get stronger safely!",
+        "tw": "但是，如果你嘗試力量訓練，應該要有大人在旁邊看著。這樣你才能安全地變強壯！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "小朋友也可以練舉重，但是需要專業人士指導。",
+      "content": [
+        {
+          "text": "1. lift 舉起。\nI've finally joined a gym. 我終於加入健身房了。\nHave you found a trainer too? 你也找了教練嗎?\nA trainer? 教練?\nYeah, someone who can tell you how to lift weights. 對，他會告訴你怎麼樣舉重。",
+          "time": null
+        },
+        {
+          "text": "2. pick up 拿起來。\nBut I already know how to do that. 可是我已經知道怎麼做了。\nReally? 真的嗎?\nYeah, you just pick up the dumbbell… 對啊，你就把啞鈴舉起來，\nand try not to drop it. 然後不要讓它掉地上。",
+          "time": null
+        },
+        {
+          "text": "3. train 訓練。\nNo. There should be a better way of weight training. 不對，應該有更好的重訓方式。\nLike what? 比如說怎樣?\nLike choosing the right weight. 比如說選擇對的舉重量。",
+          "time": null
+        },
+        {
+          "text": "4. kilogram 公斤。\nHow much are you lifting right now? 你現在舉多少?\nFive kilograms. 五公斤。\nThat's too heavy. 那太重了。",
+          "time": null
+        }
+      ],
+      "postscript": "我們一起來讀單字。\nlift舉起 pick up拿起來 train訓練 kilogram公斤"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did the girl lift the barbell to?",
+        "options": [
+          "a. Her hips",
+          "b. Her knees",
+          "c. Her hands"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How many kilograms did the girl lift?",
+        "options": [
+          "a. 6 kilograms",
+          "b. 25 kilograms",
+          "c. 35 kilograms"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What do some kids do for strength training?",
+        "options": [
+          "a. Sit on a chair",
+          "b. Do squats again and again",
+          "c. Stand on a barbell"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
