@@ -910,5 +910,102 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260514-01",
+    "type": "國小",
+    "tag": [
+      "Inuit",
+      "Canada",
+      "University"
+    ],
+    "title": "Small Town to Get University",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260513NK.mp3",
+    "content": [
+      {
+        "en": "Inuit are Indigenous peoples. They have their own language. They have their own ways of doing things. They hunt. They fish. And they live in very, very cold places.",
+        "tw": "因紐特人是原住民，他們有自己的語言和生活方式。他們住在天寒地凍的地方，以捕魚跟打獵維生。",
+        "time": null
+      },
+      {
+        "en": "Many Inuit live in north Canada. Inuit have lived there for thousands of years. The north is mostly ice and snow. Polar bears live there! Winters are very long and dark.",
+        "tw": "因紐特人已經在加拿大的北方生活了好幾千年。那裡的冬天漫長而黑暗，四周都是冰雪，還有北極熊！",
+        "time": null
+      },
+      {
+        "en": "Students there leave home to go to university. They go south to a city. But a new Inuit university will open in four years! It will be in a small Inuit town in the north.",
+        "tw": "當地的學生如果要上大學，通常要離開家鄉，到南方的城市去。不過，四年後將會有一所新的因紐特大學！這所大學位於北方一個小小的因紐特鎮。",
+        "time": null
+      },
+      {
+        "en": "One hundred students will study there. They will learn about Inuit ways and language.",
+        "tw": "這所大學會有一百多名學生，在那裏學習因紐特的生活方式跟語言。",
+        "time": null
+      },
+      {
+        "en": "The small town is getting ready. It has to plan carefully. There are no roads to the town! Everything comes by plane!",
+        "tw": "這個小鎮現在正在做各種準備。因為沒有通往小鎮的道路，所以任何物資都要用飛機才能運過去！",
+        "time": null
+      },
+      {
+        "en": "People in the town are excited. This university is very important. Students from other places will learn about the Inuit. And Inuit students will be able to study near their home!",
+        "tw": "鎮上的人們感到很興奮。這所大學非常重要。來自其他地方的學生將會學習關於因紐特人的文化，而因紐特學生也將能夠在靠近家鄉的地方學習！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "因紐特人住在加拿大遙遠的北方，有獨特的生活方式。",
+      "content": [
+        {
+          "text": "1. polar bear 北極熊。\nI'm going to Alaska this summer. 我今年夏天要去阿拉斯加。\nAlaska? Wow! 阿拉斯加，哇!\nI want to see polar bears. 我要看北極熊。\nFrom very far away, I hope. 希望你是從遠處看。",
+          "time": null
+        },
+        {
+          "text": "2. winter 冬季。\nOf course. Bears look much cuter in photos. 當然，照片裡的熊可愛多了!\nToo bad you won't see those long, dark winter nights.\n真可惜你看不到又長又黑的冬天晚上。",
+          "time": null
+        },
+        {
+          "text": "3. ice 冰塊。\nThat's fine with me. 我還好。\nI'll still get plenty of ice and snow. 還是可以看到好多冰雪。\nSure, it's Alaska after all. 當然，畢竟是阿拉斯加。",
+          "time": null
+        },
+        {
+          "text": "4. go fishing 去釣魚。\nI may even go fishing there! 我甚至可能去釣魚!\nYeah, you may catch a seal! 對，可能釣到一隻海豹!",
+          "time": null
+        }
+      ],
+      "postscript": "許多動物園裡也有北極熊。\npolar bear北極熊 winter冬季 ice冰塊 go fishing去釣魚"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do many Inuit people in Canada live?",
+        "options": [
+          "a. In cold places",
+          "b. In warm places",
+          "c. In hot places"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How many students will study at the university?",
+        "options": [
+          "a. One hundred students",
+          "b. Four hundred students",
+          "c. One thousand students"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How does everything come to the town?",
+        "options": [
+          "a. By car",
+          "b. By train",
+          "c. By plane"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
