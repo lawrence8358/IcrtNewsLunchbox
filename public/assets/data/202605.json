@@ -1007,5 +1007,111 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260515-01",
+    "type": "國小",
+    "tag": [
+      "Travel",
+      "Animals"
+    ],
+    "title": "Little Bird Causes Long Wait on Plane",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260514NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: When people take a plane, they sit down. Then they wait for the plane to fly. But sometimes they have to wait and wait!",
+        "tw": "大家上了飛機之後坐好，等待飛機起飛。但有時候，可能要等了又等！",
+        "time": null
+      },
+      {
+        "en": "One day, a plane was in Hong Kong. It was going to Kaohsiung. The plane was almost ready to fly. But then, everyone got a big surprise. Something else flew!",
+        "tw": "一架飛機準備從香港去高雄。就在飛機要起飛的時候，乘客非常驚訝地發現，有東西在飛!",
+        "time": null
+      },
+      {
+        "en": "A small bird was flying in the plane! It was brown and gray. It was a sparrow! Whose was it? It was no one's!",
+        "tw": "原來是一隻麻雀在機艙裡飛來飛去！這隻麻雀不是主人帶來的喔！",
+        "time": null
+      },
+      {
+        "en": "The sparrow did not want to sit down. It flew over everyone.",
+        "tw": "這隻麻雀不肯乖乖地待著。牠到處亂飛。",
+        "time": null
+      },
+      {
+        "en": "The sparrow was from Hong Kong. But it did not have a passport! It did not have a plane ticket! It could not go to Kaohsiung!",
+        "tw": "麻雀來自香港，牠沒有護照，也沒有機票，牠不能去高雄！",
+        "time": null
+      },
+      {
+        "en": "Some people took pictures. Some tried to catch it. The flight attendants helped with walkie-talkies. Flight attendant: It's here! No, it's there! Narrator: But the sparrow flew fast! It was hard to catch!",
+        "tw": "有一些人忙著拍照，有一些人想抓住麻雀。空服員用對講機說[在這裡]，或[在那裏]。但是麻雀飛得很快，很難抓到！",
+        "time": null
+      },
+      {
+        "en": "Then a man caught the sparrow. He took it outside. The long wait was over. Everyone clapped!",
+        "tw": "最後，一名男子終於抓到了這隻麻雀，把牠帶到飛機外面。漫長的等待終於結束了，大家都熱烈鼓掌！",
+        "time": null
+      },
+      {
+        "en": "If you see a bird flying in a plane, what will you do?",
+        "tw": "如果你在飛機上看到有鳥在飛，你會怎麼做呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "起飛之前麻雀飛進了飛機，讓乘客嚇一大跳!",
+      "content": [
+        {
+          "text": "1. passport 護照。\nThey need an ID. 他們需要身分證。\nHere, give them my passport. 來，給他們我的護照。\nYou carry your passport around every day? 你每天帶著護照出門?\nYeah. 對。",
+          "time": null
+        },
+        {
+          "text": "2. plane ticket 機票。\nI never know when I'll be flying somewhere.\n我永遠不知道什麼時候會飛到某個地方。\nBut you still need to buy a plane ticket! 但是你還是需要買機票!",
+          "time": null
+        },
+        {
+          "text": "3. fast 快速的。\nThat's fast and easy these days. 這年頭買票又快又容易。\nJust a few clicks, and you're good to go. 只要按幾個鍵就好了。",
+          "time": null
+        },
+        {
+          "text": "4. ready 準備好。\nI could never do that. 我完全不行。\nI usually need three months to get ready. 我通常需要準備三個月。\nThree months?! 三個月?!",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\npassport護照 plane ticket機票 fast快速的 ready準備好"
+    },
+    "quiz": [
+      {
+        "question": "1. Where was the plane?",
+        "options": [
+          "a. Hong Kong",
+          "b. Taipei",
+          "c. Kaohsiung"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What bird flew in the plane?",
+        "options": [
+          "a. A pigeon",
+          "b. A sparrow",
+          "c. A crow"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did the flight attendants use?",
+        "options": [
+          "a. Passports",
+          "b. Plane tickets",
+          "c. Walkie-talkies"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
