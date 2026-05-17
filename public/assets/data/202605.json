@@ -1113,5 +1113,107 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260518-01",
+    "type": "國小",
+    "tag": [
+      "動物",
+      "警察",
+      "新聞"
+    ],
+    "title": "Dog Finds Little Boy for Police",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260515NK.mp3",
+    "content": [
+      {
+        "en": "A family could not find their little boy. No one could find him. Everyone was worried. The boy was three years old.",
+        "tw": "有一家人的小孩不見了！大家都找不到他，小孩才三歲，讓人非常擔心。",
+        "time": null
+      },
+      {
+        "en": "The police tried hard to find the boy. They sent a drone up to the sky! It did not find him. They flew a helicopter! They did not see him. They walked near the boy's home. They did not find him.",
+        "tw": "警察努力尋找這個小男孩，還出動空拍機跟直升機，但是都沒有看到他的蹤影。他們在這個小朋友家附近搜索，仍然一無所獲。",
+        "time": null
+      },
+      {
+        "en": "Then a policeman saw a dog. It barked at him. The policeman thought it wanted to tell him something. He thought the dog was telling him to hurry and come with it. So he went with the dog.",
+        "tw": "突然，警察看到一隻狗對他叫個不停。他覺得狗狗在叫他快點跟著牠走！於是，他就跟在這隻狗後面。",
+        "time": null
+      },
+      {
+        "en": "The dog took the policeman to a house. It went to the back of the house. So the policeman did too. The dog barked at a car there.",
+        "tw": "狗狗帶著警察來到一棟房子的後面，然後對著一輛汽車狂吠。",
+        "time": null
+      },
+      {
+        "en": "The dog found the boy! He was in the car! He could not get out. The policeman helped him. Everyone was happy!",
+        "tw": "原來小男孩就在車子裡，他沒辦法打開車門鎖，所以出不來。警察把他救出來後，大家都很開心！",
+        "time": null
+      },
+      {
+        "en": "No one knows anything about the dog. No one knows its name. No one knows who its owner is.",
+        "tw": "沒人認識那條狗，也不知道牠是誰的。",
+        "time": null
+      },
+      {
+        "en": "But we do know one thing. It's a good dog!",
+        "tw": "但我們確實知道一件事，那就是牠是一隻好狗！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "聰明狗兒幫助警察找到了失蹤的小孩。",
+      "content": [
+        {
+          "text": "1) walk 走路。\nLook what I found! 你看我找到的。\nMy Gosh, Jane, where did you find it? 天哪，你在哪裡找到的?\nI was walking back from 7-11, 我從Seven走回來，\nand this kitten just followed me! 這隻小貓就跟著我。",
+          "time": null
+        },
+        {
+          "text": "2) take 帶。\nDon't let it come in yet. 不要讓牠進來。\nTake it to the vet first. 先帶牠去看獸醫。\nHe can check if it has a chip. 獸醫會檢查牠有沒有晶片。",
+          "time": null
+        },
+        {
+          "text": "3) owner 主人。\nYou think this little thing has an owner? 你覺得這個小東西有主人?\nIt's possible. 有可能。\nWhat if it doesn't have a chip? 要是牠沒有晶片呢?\nThen you can give it to the police. 那你可以把牠交給警察。",
+          "time": null
+        },
+        {
+          "text": "4) police 警察。\nPolice!? It's a kitten, not a criminal! 警察!? 牠是一隻小貓，不是罪犯!\nIf you let it in, it'll steal all your milk!\n如果你讓牠進來，牠會偷走你所有的牛奶!",
+          "time": null
+        }
+      ],
+      "postscript": "Are you a cat or dog owner?\nwalk走路 take帶 owner主人 police警察"
+    },
+    "quiz": [
+      {
+        "question": "1. How old was the boy?",
+        "options": [
+          "a. One year old",
+          "b. Two years old",
+          "c. Three years old"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where did the policeman find the boy?",
+        "options": [
+          "a. In a house",
+          "b. In a car",
+          "c. In a helicopter"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Who is the dog's owner?",
+        "options": [
+          "a. The policeman",
+          "b. The little boy",
+          "c. No one knows"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
