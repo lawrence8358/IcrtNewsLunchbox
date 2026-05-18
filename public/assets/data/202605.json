@@ -1215,5 +1215,102 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260519-01",
+    "type": "國小",
+    "tag": [
+      "ACGE",
+      "教育",
+      "夢想工作"
+    ],
+    "title": "A School for Learning How to Do Dream Jobs",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260518NK.mp3",
+    "content": [
+      {
+        "en": "Do you like anime or comics? How about games or esports? Lots of teens like them very much. Some dream of jobs in anime, comics, games, or esports! But… where can they learn how to do these dream jobs?",
+        "tw": "你喜歡動畫或漫畫，電腦遊戲或是競賽嗎？很多青少年喜愛這些東西，也希望做跟它們有關聯的工作！但是，要去哪裡學相關的技能呢？",
+        "time": null
+      },
+      {
+        "en": "They can learn at New Taipei City's ACGE school. What does ACGE stand for? \"A\" is for anime. \"C\" is for comics. \"G\" is for games. And \"E\" is for... esports!",
+        "tw": "他們可以去新北市的 ACGE 學院！ACGE 代表什麼？A 是動畫（anime），C 是漫畫（comics），G 是遊戲（games），E 則是競賽電玩（esports）。",
+        "time": null
+      },
+      {
+        "en": "New Taipei City has taught more than five thousand people how to do jobs in ACGE. But companies need many more workers!",
+        "tw": "這所學校收過五千多個學生，教他們如何做 ACGE 領域的工作，但還是不夠。這些產業需要更多人才!",
+        "time": null
+      },
+      {
+        "en": "The school teaches people who are fifteen or older. Students learn how to make characters and stories for anime or comics. They learn how to build computers, work with AI, and much more!",
+        "tw": "新北ACGE產業學院歡迎十五歲以上的學生，學習怎麼設計動畫裡的角色跟故事，也學組裝電腦、使用 AI，以及很多其他技能！",
+        "time": null
+      },
+      {
+        "en": "Students also meet people with interesting jobs in ACGE. They meet voice actors and cosplayers. They meet esports casters, coaches, and referees!",
+        "tw": "學生還有機會遇見這些行業的工作人員，像是配音員、角色扮演者，電競主播、教練跟裁判！",
+        "time": null
+      },
+      {
+        "en": "Do you know someone who wants a job in anime, comics, games, or esports? Tell them they can learn how to do their dream job!",
+        "tw": "你認識想要在動畫、漫畫、遊戲或電競領域工作的人嗎？告訴他們可以來學習如何實現夢想工作！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "你想要從事動漫或是電玩相關的工作嗎? 現在有學校可以教你喔.",
+      "content": [
+        {
+          "text": "1. dream job 夢想的工作。\nDo you know what my dream job is? 你知道我的夢想工作是什麼嗎?\nLet’s see… A zookeeper? 我想想看...動物園管理員\nWow, how did you know that!? 哇，你怎麼知道?\nEasy, you love animals! 很簡單，你喜歡動物。",
+          "time": null
+        },
+        {
+          "text": "2. referee 裁判。\nI do, but not all animals. 是沒錯，不過不是所有的動物。\nWhat about you? 你呢?\nMe? Maybe a soccer referee for the World Cup. 我? 世界盃足球賽的裁判吧。",
+          "time": null
+        },
+        {
+          "text": "3. learn 學習。\nThat’s cool! 很酷喔!\nBut you need to learn all the rules. 不過你得學會所有的規則。",
+          "time": null
+        },
+        {
+          "text": "4. meet 見面。\nThat’s no problem. 那沒問題。\nAnd I’ll get to meet those handsome players! 我也會碰到那些帥帥的球員!",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\ndream job夢想的工作 referee裁判 learn學習 meet會面"
+    },
+    "quiz": [
+      {
+        "question": "1. What does \"ACGE\" stand for?",
+        "options": [
+          "a. Anime, cars, games, and esports",
+          "b. Anime, comics, games and emails",
+          "c. Anime, comics, games, and esports"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where is the school?",
+        "options": [
+          "a. Taipei",
+          "b. New Taipei",
+          "c. In companies"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Who does the school teach?",
+        "options": [
+          "a. People who are fifteen or older",
+          "b. People with interesting jobs",
+          "c. AI"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
