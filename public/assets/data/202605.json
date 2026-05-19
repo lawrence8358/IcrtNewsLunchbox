@@ -1312,5 +1312,108 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260520-01",
+    "type": "國小",
+    "tag": [
+      "廟宇",
+      "屏東",
+      "新竹",
+      "搬遷"
+    ],
+    "title": "A Temple Goes on a Ride",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260519NK.mp3",
+    "content": [
+      {
+        "en": "Taiwan has all kinds of temples. It has big temples and small temples. It has old temples. It has temples in cities. It has temples in the mountains. And there, they stay.",
+        "tw": "台灣有各式各樣的寺廟。寺廟有大有小，有新有舊，有在市區的也有在山林間的。",
+        "time": null
+      },
+      {
+        "en": "But sometimes, a temple is made in one place. But it will be in another place.",
+        "tw": "有時候，寺廟會在某個地方建好，再搬到另一個地方。",
+        "time": null
+      },
+      {
+        "en": "Pingtung has a big temple factory. Its workers build beautiful temples. Big machines lift the roofs and other temple parts and put them on trucks.",
+        "tw": "屏東有一間很大的寺廟工廠。工人在那裡建漂亮的寺廟，用吊車把寺廟的結構零件放到卡車上。",
+        "time": null
+      },
+      {
+        "en": "One day, people saw a big truck. Something big and beautiful was on it. Was it a castle? No, it was a temple roof! The roof was tall and wide.",
+        "tw": "有一天人們看到卡車上面載著富麗堂皇的東西，原來那是個寺廟的屋頂！",
+        "time": null
+      },
+      {
+        "en": "The truck drove very slowly. It drove on two lanes. A car drove behind the truck. A yellow light on the car roof flashed and flashed. The driver watched everything. He made sure everything was safe.",
+        "tw": "這台卡車占用兩個車道，開得非常緩慢。卡車後面還有一輛汽車跟著，車頂上的黃燈不停地閃爍。汽車司機負責注意周遭環境，確保一切安全。",
+        "time": null
+      },
+      {
+        "en": "The truck took the roof to Hsinchu. It took two days! More temple parts came. Workers put the temple together there.",
+        "tw": "卡車總共花了兩天時間，才把寺廟屋頂運送到新竹！在寺廟的其他零件也送到之後，工人就在新竹把寺廟組裝起來！",
+        "time": null
+      },
+      {
+        "en": "Most temples stay in one place. But this temple went on a long, slow truck ride!",
+        "tw": "大多數的寺廟都待在同一個地方。但這座寺廟卻經歷了一趟漫長且緩慢的卡車之旅！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "新竹這座廟宇，是先在屏東製造它的各個部分，再運到當地蓋起來。",
+      "content": [
+        {
+          "text": "1) build 建造。Would you help me build my doll house this weekend? 你這周末能不能幫我做娃娃屋? Again? You’re still not done with it? 又要嗎?你還沒有做好?",
+          "time": null
+        },
+        {
+          "text": "2) make sure 確定。No, I want to make sure everything is perfect. 沒有，我要確定一切都很完美! But you started building it last year! 但是你從去年就開始做了!",
+          "time": null
+        },
+        {
+          "text": "3) slowly 緩慢地。Yeah, I’m doing it very slowly. 對，我很慢很慢的做。 Your dolls will be old by the time the house is finished! 等你的娃娃屋完成，你的娃娃都老了!",
+          "time": null
+        },
+        {
+          "text": "4) put together 組裝。Ha ha, very funny! 很好笑! Luckily, my dolls never grow old. 還好我的娃娃會永保青春。 Alright, I’ll go and put the parts together on Sunday. 好吧，我星期天去把零件拼好。",
+          "time": null
+        }
+      ],
+      "postscript": "build 建造 make sure 確定 slowly 緩慢地 put together 組裝"
+    },
+    "quiz": [
+      {
+        "question": "1. How many lanes did the truck drive on?",
+        "options": [
+          "a. One lane",
+          "b. Two lanes",
+          "c. Three lanes"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What was behind the truck?",
+        "options": [
+          "a. A police car with blue lights",
+          "b. A castle with beautiful lights",
+          "c. A car with a yellow light"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Where did the truck take the roof?",
+        "options": [
+          "a. Tainan",
+          "b. Hsinchu",
+          "c. Pingtung"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
