@@ -1415,5 +1415,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260521-01",
+    "type": "國小",
+    "tag": [
+      "Clean Water and Sanitation",
+      "Industry, Innovation and Infrastructure",
+      "Sustainable Cities and Communities"
+    ],
+    "title": "Gold for Water Pipes",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260520NK.mp3",
+    "content": [
+      {
+        "en": "Someone in Japan gave gold to a city! No one knows who the person is. The gold was a big surprise. The person gave 21 kilograms of gold!",
+        "tw": "有人送了日本一座城市二十一公斤的黃金！贈送的人隱姓埋名，黃金是意外的驚喜。",
+        "time": null
+      },
+      {
+        "en": "The city will sell the gold. It can get about 113 million Taiwan dollars!",
+        "tw": "市政府要把黃金賣掉，可以得到大約一億一千三百萬台幣！",
+        "time": null
+      },
+      {
+        "en": "This person wants the city to fix its water pipes. Water pipes bring water to homes. The pipes are underground. Fixing them costs a lot of money.",
+        "tw": "送禮的人希望市政府可以修理自來水管。修這些地下水管要花很多錢。",
+        "time": null
+      },
+      {
+        "en": "The city has many old water pipes. Every year, some break. Water comes out. Sometimes it makes big holes in the ground! The holes are dangerous. Cars and people can fall in!",
+        "tw": "這座城市有很多老舊水管，每年都有水管破掉，水流了滿地。有時候路上還會出現大洞，行人跟車輛可能掉進去。",
+        "time": null
+      },
+      {
+        "en": "The city's water is clean. But old pipes make it smell. Eew! It smells like swimming pool water. It smells stronger in the summer. Ugh! Some people do not want to drink it.",
+        "tw": "這座城市的水很乾淨，但是老水管會讓水不好聞。夏天的時候更明顯，讓人不想喝。",
+        "time": null
+      },
+      {
+        "en": "The money from the gold will fix two kilometers of pipes. That is great! But the city has 260 kilometers of old pipes to fix.",
+        "tw": "賣黃金的錢可以修理兩公里的水管，但是這座城市總共有二百六十公里的老舊水管。",
+        "time": null
+      },
+      {
+        "en": "It is important for us to care about our water. How is your city's water?",
+        "tw": "對我們來說，關心水資源是很重要的。你所在城市的水質如何呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "日本這座城市獲得黃金贈禮，但是必須用來修水管。",
+      "content": [
+        {
+          "text": "1. fix 修理。\nWhat? No water? 什麼啊，沒水?\nYou’ve got to be kidding! 開什麼玩笑!\nUh-oh. I’ll call the water company. 我來打電話給自來水公司。\nSo? What happened? 結果呢? 發生了什麼事?\nAn underground water pipe is broken. 一根地下管線破了。\nThey’re fixing it now. 他們正在修。",
+          "time": null
+        },
+        {
+          "text": "2. swim 游泳。\nGreat… and what do we do without water? 很好，那我們沒水怎麼辦?\nLet’s go swimming! 我們去游泳吧!\nThere’s a pool just two Metro stations away. 捷運坐兩站就有游泳池。",
+          "time": null
+        },
+        {
+          "text": "3. cost 花費。\nThat’s brilliant! 真聰明!\nThen we can take a shower there! 然後可以在那裏洗澡!\nAnd it only costs 100 NT. 只要一百塊。",
+          "time": null
+        },
+        {
+          "text": "4. drink 喝。\nAnd we can buy some drinking water on our way back. 回家路上還可以買喝的水。",
+          "time": null
+        }
+      ],
+      "postscript": "來跟我讀今天的單字。\nfix修理 swim游泳 cost花費 drink喝"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the person give to a city?",
+        "options": [
+          "a. Water",
+          "b. Coins",
+          "c. Gold"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Why do the pipes need to be fixed?",
+        "options": [
+          "a. They are big.",
+          "b. They are old.",
+          "c. They are small."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What does the city's water smell like?",
+        "options": [
+          "a. Swimming pool water",
+          "b. Big holes",
+          "c. The ground"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
