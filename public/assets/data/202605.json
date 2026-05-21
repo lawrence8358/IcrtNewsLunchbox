@@ -1517,5 +1517,107 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260522-01",
+    "type": "國小",
+    "tag": [
+      "Hengchun",
+      "Geopark",
+      "Nature"
+    ],
+    "title": "Fire at a Geopark",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260521NK.mp3",
+    "content": [
+      {
+        "en": "Parks are great places to learn about nature. Taiwan has many interesting parks.",
+        "tw": "公園很適合學習有關大自然的一切，台灣有很多有趣的公園。",
+        "time": null
+      },
+      {
+        "en": "In some of these parks, the land is very interesting. A few of these parks are called geoparks. Some have cool rocks. Some have volcanoes. In Pingtung, one has fire!",
+        "tw": "有些公園的地形很特別，因此被叫做地質公園。有的地質公園有很酷的岩石，有的有火山。屏東有一個地質公園裡有火！",
+        "time": null
+      },
+      {
+        "en": "At Hengchun Chuhuo Geopark, you can see little fires! They are gas fires. But there are no gas pipes. The gas comes out of the ground. Then it catches on fire!",
+        "tw": "恆春的出火公園可以看到小小的天然瓦斯火焰！瓦斯從地下溢出來，就開始燃燒！",
+        "time": null
+      },
+      {
+        "en": "The fires are inside a big circle. The fire circle is in a bigger circle of water. At night, the fires look like they are in the water! And water looks like it is in the fires! Wow!",
+        "tw": "這些火圍在一個大圓圈裡，外面還有一圈水。到了夜晚看起來像火在水中，水裡有火，很特別!",
+        "time": null
+      },
+      {
+        "en": "The geopark has more. It has places to look at the stars. It has forests and walking paths. It has art in the visitor center too!",
+        "tw": "這個地質公園有地方可以看星星，有森林跟步道，遊客中心裡也有藝術品。",
+        "time": null
+      },
+      {
+        "en": "The geopark has been there for a long time. But now it is much better. The paths are safer. They keep you and the land safe. But be careful! Follow the rules!",
+        "tw": "這個地質公園已經有悠久歷史，不過現在公園的步道更進步，可以保護遊客跟土地。大家遊玩的時候，還是要遵守規定！",
+        "time": null
+      },
+      {
+        "en": "Go and learn more about nature at Hengchun Chuhuo Geopark!",
+        "tw": "去恆春出火地質公園學習更多關於大自然的知識吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "屏東的出火地質公園有很多好看的東西。",
+      "content": [
+        {
+          "text": "1. a few 一些。\nWhen was the last time you went to Yehliu Geopark? 你上次什麼時候去野柳地質公園?\nHmm…a few years ago. 幾年前吧。",
+          "time": null
+        },
+        {
+          "text": "2. path 步道。\nWant to see the Queen’s head again? 想再去看女王頭嗎?\nSure. She’s not going to be there forever. 當然，她不會永遠在那裏。\nAnd we can walk the path leading to the lighthouse. 我們還可以走步道去燈塔。",
+          "time": null
+        },
+        {
+          "text": "3. rock 石頭。\nThat lighthouse is always closed. 那座燈塔都關著。True, but the view from there is amazing! 沒錯，不過那裏的景觀超棒!\nI thought you wanted to look at the rocks. 我以為你想去看石頭。",
+          "time": null
+        },
+        {
+          "text": "4. interesting 有趣的。\nI do. But the ocean, the birds and the seafood are interesting too!\n沒錯，但是大海，鳥兒跟海鮮也很有趣。\nAh, seafood. I knew it! 海鮮，我就知道!",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字? a few一些 path步道 rock石頭 interesting有趣的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is this geopark?",
+        "options": [
+          "a. Pingtung",
+          "b. Taitung",
+          "c. Hualien"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What kind of fires does this geopark have?",
+        "options": [
+          "a. Forest fires",
+          "b. Volcano fires",
+          "c. Gas fires"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What is safer in this geopark now?",
+        "options": [
+          "a. Art",
+          "b. Paths",
+          "c. Stars"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
