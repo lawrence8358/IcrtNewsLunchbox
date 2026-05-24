@@ -1619,5 +1619,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260525-01",
+    "type": "國小",
+    "tag": [
+      "飛機",
+      "彩繪飛機",
+      "英文學習"
+    ],
+    "title": "You Can Fly on a Cute Plane",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260522NK.mp3",
+    "content": [
+      {
+        "en": "Many kids like cute characters. Some grownups like them too. Some characters are in comic books or video games. Some are on trading cards and stickers. Many are toys too.",
+        "tw": "很多大人跟小朋友都喜歡可愛的角色。漫畫書或電玩裡的可愛角色會被印在卡片跟貼紙上，也會被做成玩具！",
+        "time": null
+      },
+      {
+        "en": "Taiwanese airlines know people like these characters. One airline painted a Japanese cat character on seven planes! They painted her friends too. These planes are cute!",
+        "tw": "因為台灣的航空公司知道大家喜歡這些角色，其中一間公司就把一隻來自日本貓咪的角色跟她的朋友們畫在七架飛機上。這些彩繪過的飛機超級可愛！",
+        "time": null
+      },
+      {
+        "en": "Another Taiwanese airline painted little monster characters on two planes. The first plane has been flying for four years. It is cute!",
+        "tw": "另一家台灣航空公司則把小怪獸角色畫在兩架飛機上。第一架飛機已經飛了四年，很受大家歡迎。",
+        "time": null
+      },
+      {
+        "en": "This year's plane is cute too. The airline painted thirteen monster characters on it. One is yellow. It has round black eyes. It has red cheeks. It is holding balloons. Do you know its name?",
+        "tw": "今年新的彩繪飛機也很可愛！飛機上畫了十三個怪獸角色，其中一個是黃色的，有圓圓的黑眼睛、紅紅的臉頰，手上還拿著氣球。你知道牠叫什麼名字嗎？",
+        "time": null
+      },
+      {
+        "en": "Thirty-three people painted this plane! It was a big job!",
+        "tw": "彩繪飛機是個大工程，總共有三十三個人一起幫這架飛機上色！",
+        "time": null
+      },
+      {
+        "en": "In the plane, the characters are on kids' meal boxes. How fun! They are on paper cups, napkins, and other things. You can buy a pen with them on it too!",
+        "tw": "除了在機身外，這些可愛角色也會在紙杯、餐巾紙、跟兒童餐的包裝上。你還可以買印有這些角色的筆喔！",
+        "time": null
+      },
+      {
+        "en": "This plane flies to Japan, the U.S., Australia, and New Zealand! Have you seen these planes? Do you want to fly on them?",
+        "tw": "這架飛機飛往日本、美國、澳洲和紐西蘭！你有看過這些飛機嗎？你想搭乘它們嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "航空公司喜歡用動漫人物來裝飾自家的飛機，讓乘客開心。",
+      "content": [
+        {
+          "text": "1. comic book 漫畫書。\nCome and look at that plane! 快來看那一架飛機!\nIt looks like it’s from a comic book! 好像漫畫書裡出來的!\nYeah, it has cartoon characters all over it! 對，上面都是卡通人物。",
+          "time": null
+        },
+        {
+          "text": "2. airline 航空公司。\nI wonder what airline it is. 我想知道它是哪一家航空公司。\nI can’t read the words on the side. 機身上的字都看不清。",
+          "time": null
+        },
+        {
+          "text": "3. grownup 成年人。\nForget the words. 別管那些字了。\nI’m looking for my favorite character. 我在找我最喜歡的人物。\nAren’t we supposed to be grownups? 我們不是成年人嗎?\nWhy are we so excited? 為什麼這麼興奮?",
+          "time": null
+        },
+        {
+          "text": "4. another 另一個。\nBecause we’re all kids inside. 因為我們內心都是小孩!\nNow here comes another plane! 又來了另外一架飛機!",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡看漫畫嗎?\ncomic book漫畫書 airline航空公司 grownup成年人 another另一個"
+    },
+    "quiz": [
+      {
+        "question": "1. What is painted on seven planes?",
+        "options": [
+          "a. A video game",
+          "b. A Japanese cat",
+          "c. A trading card"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many monster characters are on this year's plane?",
+        "options": [
+          "a. 13",
+          "b. 23",
+          "c. 33"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What can you buy in this year's plane?",
+        "options": [
+          "a. A paper cup",
+          "b. A pen",
+          "c. A balloon"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
