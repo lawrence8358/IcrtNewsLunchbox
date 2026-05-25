@@ -1721,5 +1721,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260526-01",
+    "type": "國小",
+    "tag": [
+      "Safety Education",
+      "Outdoor Education",
+      "Health and Physical Education"
+    ],
+    "title": "Boy Swims to Save Family",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260525NK.mp3",
+    "content": [
+      {
+        "en": "A thirteen-year-old boy, his mom, and his younger brother and sister went to the beach. They had fun! They paddled a small boat. They rode two paddleboards.",
+        "tw": "一個十三歲的男孩和他的媽媽跟弟弟妹妹去海邊玩。他們一起划小船，玩立式划槳，非常開心！",
+        "time": null
+      },
+      {
+        "en": "But the wind pushed the family too far from the beach! They needed help!",
+        "tw": "但是強風把這一家人吹得離海岸越來越遠。他們需要幫助！",
+        "time": null
+      },
+      {
+        "en": "The boy took the boat to get help. But it was broken! He lost his paddle. He fell into the water.",
+        "tw": "小男孩划著小船想去求救，但船身受損，他的船槳也不見了，他還不幸落水。",
+        "time": null
+      },
+      {
+        "en": "The boy held on to the broken boat. Then he saw something swim under him… Oh no! He let go of the boat. He had to get to the beach. He swam four kilometers!",
+        "tw": "男孩緊抓著壞掉的小船，突然看見水中有東西游來游去。他嚇了一大跳，立刻放開小船努力往海岸游。他總共游了四公里！",
+        "time": null
+      },
+      {
+        "en": "The boy got to the beach. He ran to his mom’s bag. He found her phone. He called for help! He was very tired. He passed out…",
+        "tw": "男孩終於抵達海灘後，跑去找媽媽的包包，用手機打電話求救。但是他太累了，在成功求救後馬上就昏倒在沙灘上。",
+        "time": null
+      },
+      {
+        "en": "The boy woke up in a hospital. He was very worried. Then he got a phone call. After 10 hours in the ocean, his family was safe! A rescue boat found them… 14 kilometers from the beach!",
+        "tw": "男孩在醫院醒來後，非常擔心他的家人。這時，電話響了！他的家人在海上漂流十個小時後，終於在離海灘十四公里遠的地方被救援船找到了。",
+        "time": null
+      },
+      {
+        "en": "Everyone jumped for joy! The boy's long, hard swim saved his family! He was a hero!",
+        "tw": "每個人都高興得跳了起來！男孩漫長而艱辛的游泳救了他的家人！他是個英雄！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這個十三歲的男孩運氣真糟糕，但是他竭盡全力，終於救了家人。",
+      "content": [
+        {
+          "text": "1. boat 船。\nThe ocean looks beautiful today. 今天大海看起來真美!\nLet’s rent a boat! 我們租一艘船吧!\nOkay, but you paddle. 可以，但是由你來划船。",
+          "time": null
+        },
+        {
+          "text": "2. rescue 拯救。\nSure. The wind is perfect, and the water is so calm. 當然，風力剛剛好，水面又這麼平靜。\nThat’s often what people say before needing rescue. 人們需要救難之前都這麼講。",
+          "time": null
+        },
+        {
+          "text": "3. paddle 槳。\nOh no! My paddle fell into the water! 糟了，我的槳掉進水裡了!\nMy God! How could this happen?! 天哪，怎麼會發生這種事!",
+          "time": null
+        },
+        {
+          "text": "4. phone 電話。\nHurry, call for help! 趕快求救!\nBut I don’t have my phone with me! 可是我沒帶電話!\nWe are doomed! 我們完蛋了!",
+          "time": null
+        }
+      ],
+      "postscript": "還記得我們剛剛講的單字嗎?\nboat船 rescue拯救 paddle槳 phone電話"
+    },
+    "quiz": [
+      {
+        "question": "1. What pushed the boy and his family too far from the beach?",
+        "options": [
+          "a. His mom",
+          "b. A rescue boat",
+          "c. The wind"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did the boy hold on to?",
+        "options": [
+          "a. His family",
+          "b. His mom’s bag",
+          "c. The broken boat"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Where did the boy wake up?",
+        "options": [
+          "a. On the beach",
+          "b. In the ocean",
+          "c. In a hospital"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
