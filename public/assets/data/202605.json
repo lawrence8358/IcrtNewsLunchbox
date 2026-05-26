@@ -1823,5 +1823,108 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260527-01",
+    "type": "國小",
+    "tag": [],
+    "title": "The Lion-Dancing Police",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260526NK.mp3",
+    "content": [
+      {
+        "en": "In Thailand, a man took some things from a house. It was not his house. And those things cost a lot of money! They cost almost two million Taiwan dollars!",
+        "tw": "泰國一名男子從別人家裡偷走了東西，那些東西價值將近兩百萬台幣！",
+        "time": null
+      },
+      {
+        "en": "The police looked for the man. They looked everywhere. But they did not find him.",
+        "tw": "警察努力追緝這名竊賊 ，然而到處都找過了，卻沒有找到他。",
+        "time": null
+      },
+      {
+        "en": "The man lived near a temple. It was having a big festival. Maybe he would go.",
+        "tw": "這名男子住在一間寺廟附近。那間寺廟正在舉辦大型慶典，警方認為他可能參加。",
+        "time": null
+      },
+      {
+        "en": "Some people danced in lion costumes at the festival. The police wanted to dance in a lion costume too! Then the man would not see them.",
+        "tw": "慶典中有舞獅這個項目。警察打算也去舞獅，這樣男子就不會發現他們。",
+        "time": null
+      },
+      {
+        "en": "Two police officers put on a big lion costume. They danced and danced. They looked like the other lion dancers!",
+        "tw": "兩名警察穿上舞獅的服裝，溜進舞獅團隊，看起來和其他的表演者一模一樣！",
+        "time": null
+      },
+      {
+        "en": "Then the man came to the festival! The police saw him. They danced closer and closer to him. Then they jumped out of the lion costume. The man was surprised. They caught him!",
+        "tw": "結果那名男子真的來到慶典！警察發現他之後，一邊舞獅一邊慢慢靠近。接著，警察突然脫掉戲服， 讓這個竊賊大吃一驚！警察立刻將他逮捕。",
+        "time": null
+      },
+      {
+        "en": "The police were very smart. They wore a lion costume. They danced to catch the man. That was like a movie!",
+        "tw": "這些聰明的警察的行動，簡直像電影！",
+        "time": null
+      },
+      {
+        "en": "Everyone at the festival was surprised! It was the coolest police catch!",
+        "tw": "在慶典上的每個人都感到驚訝！這是最酷的一次警察逮捕行動！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "泰國警察為了抓到竊賊，想出了好辦法。",
+      "content": [
+        {
+          "text": "1. festival 節慶。\nWould you like to make some extra money? 你想不想賺一點外快?\nOkay, what’s the job? 好啊，是做什麼?\nThere’s a festival this weekend. 這周末有個慶典。",
+          "time": null
+        },
+        {
+          "text": "2. dance 跳舞。\nMazu is coming out of her temple to go around the city. 媽祖要從廟裡出來繞境。\nThey need one more person to dance in front of her palanquin.\n他們需要多一個人在她的神轎前面跳舞。",
+          "time": null
+        },
+        {
+          "text": "3. costume 戲服。\nYou do remember I’m not a good dancer, right? 你記得我不大會跳舞吧?\nNo worries. You’ll be wearing a costume and a mask. 不擔心，你會穿著戲服，戴著面具。",
+          "time": null
+        },
+        {
+          "text": "4. dollar 元。\nOh, so I won’t have to embarrass myself? 所以我不會丟臉?\nExactly. And you’ll earn $1,000 Taiwan dollars! 是，而且還可以賺一千元!",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到了四個單字。\nfestival節慶 dance跳舞 costume戲服 dollar元"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did the man take things from?",
+        "options": [
+          "a. A house",
+          "b. His house",
+          "c. A temple"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where did the police wear a lion costume?",
+        "options": [
+          "a. A festival",
+          "b. A park",
+          "c. A school"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Why did the police wear the lion costume?",
+        "options": [
+          "a. To dance a lot",
+          "b. To catch the man",
+          "c. To surprise everyone"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
