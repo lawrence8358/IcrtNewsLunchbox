@@ -1926,5 +1926,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260528-01",
+    "type": "國小",
+    "tag": [
+      "Dolphin",
+      "Venice",
+      "Animals"
+    ],
+    "title": "The Dolphin of Venice",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260527NK.mp3",
+    "content": [
+      {
+        "en": "The Dolphin of Venice. Last summer, a young dolphin came to Venice, Italy. It is a bottlenose dolphin. Its nose looks like a bottle!",
+        "tw": "去年夏天，一隻年輕的海豚來到了義大利的威尼斯。牠的鼻子跟嘴巴長長的，看起來就像瓶子，所以也叫做「瓶鼻海豚」。",
+        "time": null
+      },
+      {
+        "en": "Most dolphins swim in groups. But this one swims alone. That is okay. Some dolphins do this.",
+        "tw": "大部分的海豚都會成群結隊的游泳，但這隻海豚沒有跟大家一起！但別擔心，有些海豚本來就喜歡單獨活動。",
+        "time": null
+      },
+      {
+        "en": "The dolphin swims near a famous place in Venice. Many people from around the world go there. Venice is a city on water. It has many boats. Sometimes the dolphin swims near the boats.",
+        "tw": "這隻海豚經常在威尼斯的著名景點附近游泳。威尼斯是一座有很多船的水上城市，有時候海豚也會游到船旁邊。",
+        "time": null
+      },
+      {
+        "en": "The dolphin is famous too. It jumps! It flips in the air! How wonderful! People love to watch it!",
+        "tw": "這隻海豚很有名！大家都很喜歡看牠跳出水面，在空中表演翻轉！",
+        "time": null
+      },
+      {
+        "en": "Scientists watch the dolphin every week. They want to know if it is safe. They say it looks healthy. It catches fish to eat.",
+        "tw": "科學家每個星期都會觀察這隻海豚，確認牠是否安全。他們說這隻海豚看起來很健康，也會自己抓魚來吃！",
+        "time": null
+      },
+      {
+        "en": "But the scientists are worried. Some boats get close to the dolphin. People on the boats feed it. Some try to touch it. Some try to play with it. Some boats go too fast near it. All of these can hurt the dolphin.",
+        "tw": "但是科學家們很擔心！船離海豚太近了，船上的乘客會餵海豚吃東西，或是摸牠、跟牠玩耍，還有一些船隻在海豚附近開得很快。這些都可能傷害到海豚！",
+        "time": null
+      },
+      {
+        "en": "The dolphin is wonderful to watch. People must be kind to it. They must not get close. Then the dolphin can stay safe.",
+        "tw": "這隻海豚非常值得觀賞。人們必須對牠友善，且不能靠近。這樣海豚才能保持安全。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一隻在威尼斯迷途的海豚，吸引了許多注意。",
+      "content": [
+        {
+          "text": "1. jump 跳。\nDolphins are so cute! 海豚真可愛! I really want to see them jumping in the ocean! 好想看牠們在海裡跳!\nThat’s easy! 那很簡單! There are dolphin and whale watching boats for that. 有賞鯨豚船可以搭。",
+          "time": null
+        },
+        {
+          "text": "2. feed 餵食。\nI know! In Yilan, right? 我知道，在宜蘭對不對?\nYep! And if you’re lucky, 對，而且你幸運的話，the dolphins might swim so close that you could almost feed them. 海豚會游得很近，近到你幾乎可以餵牠們。",
+          "time": null
+        },
+        {
+          "text": "3. wonderful 美妙的。\nReally?! That would be wonderful! 真的?那不是太棒了?\nNo, I’m kidding. 不，我在開玩笑。We should never get so close to those animals. 我們不該那麼靠近那些動物。",
+          "time": null
+        },
+        {
+          "text": "4. hurt 傷害。\nThe boat could hurt them. 船隻可能會傷害牠們。",
+          "time": null
+        }
+      ],
+      "postscript": "你有在海上見過海豚嗎? jump跳 feed餵食 wonderful美妙的 hurt傷害"
+    },
+    "quiz": [
+      {
+        "question": "1. What does the dolphin eat?",
+        "options": [
+          "a. Bottles",
+          "b. Pasta",
+          "c. Fish"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How does this dolphin swim?",
+        "options": [
+          "a. Alone",
+          "b. With people",
+          "c. In a dolphin group"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Why are scientists worried?",
+        "options": [
+          "a. The dolphin looks healthy.",
+          "b. Boats go too fast near the dolphin.",
+          "c. The water is too dirty."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
