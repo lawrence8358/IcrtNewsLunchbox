@@ -2028,5 +2028,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260529-01",
+    "type": "國小",
+    "tag": [
+      "屏東",
+      "遊樂場",
+      "公園"
+    ],
+    "title": "Pingtung’s Park of Playgrounds",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260528NK.mp3",
+    "content": [
+      {
+        "en": "It has sand and stairs. It has metal bars and puzzles. Happy kids are running around. Some are swinging up in the air! What is this place? It is a playground!",
+        "tw": "公園裡有沙坑，有攀爬架跟益智遊戲！小朋友跑來跑去，有的盪鞦韆盪得好高。",
+        "time": null
+      },
+      {
+        "en": "In Pingtung, Balu Park has opened. It is more than fifty thousand square meters. It cost almost one hundred twenty million Taiwan dollars!",
+        "tw": "這是屏東最新開的巴轆公園，面積一萬五千坪，建造經費一億兩千萬台幣。",
+        "time": null
+      },
+      {
+        "en": "The park has fun playgrounds! In one, kids can climb on a jungle gym. It has three big slides. Kids and adults can slide on them!",
+        "tw": "公園裡有很多好玩的遊樂設施！其中一區有給小朋友玩的大型攀爬架，還有三個大人小孩都能溜的特大溜滑梯！",
+        "time": null
+      },
+      {
+        "en": "The park has swings, a very big sandbox, and a roller-skating rink! It has a fitness area, walking paths, and a pond. Wow! There are so many things there!",
+        "tw": "除了鞦韆、超大沙坑跟直排輪場，健身區、步道跟池塘也都一應俱全。",
+        "time": null
+      },
+      {
+        "en": "People of all ages can enjoy Balu Park. Bring your mom and dad. Bring your grandma and grandpa! It is a good place for people with disabilities too.",
+        "tw": "不管幾歲的人都可以去巴轆公園玩得很開心。你可以帶爸爸媽媽，阿公阿嬤一起去，這裡對身心障礙者也很友善！",
+        "time": null
+      },
+      {
+        "en": "This park was a factory before. Now it is a healthy place. You can play, exercise, or go for a relaxing walk.",
+        "tw": "巴轆公園的地點曾經是工廠，現在變成了健康快樂的公園。快來玩耍、運動，或散步吧！",
+        "time": null
+      },
+      {
+        "en": "So, get out of your house! Move your body! Enjoy some sunshine. Have fun at Balu Park!",
+        "tw": "所以，離開家門吧！動動身體！享受陽光，在巴轆公園玩得開心！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "屏東這個新的遊樂場，是孩童的快樂園地。",
+      "content": [
+        {
+          "text": "1. swing 鞦韆。\nI can’t resist the swing. 我抵抗不了鞦韆的誘惑。\nIs it really that fun? 真有那麼好玩?\nVery much so! 非常好玩!\nOnce you start swinging, it feels like being a kid again. 你開始盪鞦韆就覺得回到了童年。",
+          "time": null
+        },
+        {
+          "text": "2. slide 滑梯。\nAll your worries are gone. 無憂無慮。\nYou just want to go higher. 只想盪得更高。\nI prefer the slide. 我比較喜歡溜滑梯。\nGoing down a slide feels so good! 往下溜好痛快!",
+          "time": null
+        },
+        {
+          "text": "3. kid 兒童。\nCome to think of it, I didn’t play enough as a kid. 回想起來我小時候玩得不夠。",
+          "time": null
+        },
+        {
+          "text": "4. playground 遊樂場。\nWell, we can hang out at a playground every weekend. 我們可以每個周末都去遊樂場玩。\nTo make up for lost time? 彌補失去的時光嗎?\nYeah. 對。\nAre you having fun?",
+          "time": null
+        }
+      ],
+      "postscript": "來讀單字。\nswing鞦韆 slide滑梯 kid兒童 playground遊樂場"
+    },
+    "quiz": [
+      {
+        "question": "1. Who can slide on the slides?",
+        "options": [
+          "a. Kids can, but adults cannot",
+          "b. Adults can, but kids cannot",
+          "c. Kids and adults can"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What can kids climb on?",
+        "options": [
+          "a. A jungle gym",
+          "b. A pond",
+          "c. A sandbox"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What was the park before?",
+        "options": [
+          "a. A factory",
+          "b. A farm",
+          "c. A playground"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
