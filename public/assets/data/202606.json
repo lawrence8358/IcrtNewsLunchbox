@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20260601-01",
     "type": "國小",
@@ -104,6 +104,113 @@
         ],
         "time": null,
         "answer": "c"
+      }
+    ]
+  },
+  {
+    "id": "20260602-01",
+    "type": "國小",
+    "tag": [
+      "Art",
+      "Rain",
+      "Creativity"
+    ],
+    "title": "Sidewalk Art for Rainy Days",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260601NK.mp3",
+    "content": [
+      {
+        "en": "How does rain make you feel? Rain makes some people sad.",
+        "tw": "下雨會讓你有什麼感覺？有些人在雨天心情低落。",
+        "time": null
+      },
+      {
+        "en": "An artist in the U.S. lives in a rainy city. He wants art and rain to make people happier.",
+        "tw": "美國一名藝術家住在一個多雨的城市。他希望藝術能讓大家開心一點。",
+        "time": null
+      },
+      {
+        "en": "The artist made a new paint. He cuts out words or pictures on cardboard. Then he puts the cardboard on a sidewalk. He sprays his paint on the cut-out parts. He takes off the cardboard. But, nothing is on the sidewalk!",
+        "tw": "他先在紙板上挖出他要的英文字或圖案，然後把紙板平放在人行道上。接著把他發明的新顏料噴在挖空的部分，再把紙板拿開。結果地上空空如也，看不到圖案。",
+        "time": null
+      },
+      {
+        "en": "There is nothing because there is no rain. When it rains, you can see the art!",
+        "tw": "原來因為地是乾的，所以什麼都看不到。等到下雨的時候，地上的畫就會出現！",
+        "time": null
+      },
+      {
+        "en": "The artist's city asked him to make art. He makes art near bus stops. Waiting in the rain makes some people sad. But now they see art: beautiful waves, sea lions, and more! They feel happy!",
+        "tw": "他的城市請他創作更多作品，於是他把很多圖案畫在公車站附近，大家雨天等車心情不好的時候，只要看到美麗的海浪或海獅，就高興一些。",
+        "time": null
+      },
+      {
+        "en": "The paint goes away after a few months. That is okay. It does not hurt the earth. Artists can make new art!",
+        "tw": "這種顏料幾個月後就會消失，也不傷害環境。藝術家還能再畫別的地面圖畫！",
+        "time": null
+      },
+      {
+        "en": "Now many cities have art with this paint. New Taipei did last year! Zhongshan Art Park says rain there becomes \"a playful part of the art.\"",
+        "tw": "現在很多城市都有這種雨天藝術！連新北市去年也有，讓雨水參與藝術的創作。",
+        "time": null
+      },
+      {
+        "en": "Sidewalk art for rainy days makes people happy!",
+        "tw": "雨天的人行道藝術讓人感到快樂！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "藝術家常常有辦法讓人開心。",
+      "content": [
+        {
+          "text": "1. art 藝術。\nHave you ever looked at a piece of art and felt happy? 你有沒有過看到藝術品，覺得很快樂?\nWell, some artworks really touched me. 有的藝術品會讓我很感動。",
+          "time": null
+        },
+        {
+          "text": "2. beautiful 美麗的。\nFor example? 比如說呢?\n“The Thinker” by Rodin. 羅丹的[沉思者]。\nI know that sculpture! 我知道那座雕刻!\nIt’s beautiful but a bit sad.它很美，但是有點傷感。",
+          "time": null
+        },
+        {
+          "text": "3. artist 藝術家。\nI saw an artist friend’s glass works a while ago. 我之前看到一個藝術家朋友的玻璃作品。\nThey are all about the sea and the sky. 都是表現大海跟天空。",
+          "time": null
+        },
+        {
+          "text": "4. put 放在。\nI brought one home and put it on my desk. 我帶了一個回家放在桌上。\nYou like it a lot? 你很喜歡它?\nYeah. I can lose myself in it. 對，我可以迷失在其中。",
+          "time": null
+        }
+      ],
+      "postscript": "What kind of art do you like?\nart藝術 beautiful美麗的 artist藝術家 put放在"
+    },
+    "quiz": [
+      {
+        "question": "1. When can people see art made with this paint?",
+        "options": [
+          "a. When there is wind",
+          "b. When they wear glasses",
+          "c. When there is rain"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where does this artist make art?",
+        "options": [
+          "a. Near bus stops",
+          "b. In front of schools",
+          "c. On buildings"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What does Zhongshan Art Park say rain becomes?",
+        "options": [
+          "a. \"A helpful part of the art\"",
+          "b. \"A playful part of the art\"",
+          "c. \"A wonderful part of the art\""
+        ],
+        "time": null,
+        "answer": "b"
       }
     ]
   }
