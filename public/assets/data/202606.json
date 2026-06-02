@@ -213,5 +213,105 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260603-01",
+    "type": "國小",
+    "tag": [
+      "Health and Physical Education"
+    ],
+    "title": "A Summer of Sports in Taiwan for Kids",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260602NK.mp3",
+    "content": [
+      {
+        "en": "This year, Taiwan has a great summer of sports for kids!",
+        "tw": "今年夏天，台灣會有很多很精彩的兒童運動活動喔！",
+        "time": null
+      },
+      {
+        "en": "A big sports event is in Kaohsiung this month. It is the Kids Games. This is the fourth year of this event.",
+        "tw": "這個月，高雄會舉辦一場大型運動比賽，叫做「小小英雄運動會 」。今年是這個活動舉辦的第四年！",
+        "time": null
+      },
+      {
+        "en": "The Kids Games are for three to six-year-old kids. They can take part in 13 sports, such as martial arts, fencing, boxing, and tug-of-war! Tug-of-war is a new game this year.",
+        "tw": "參加的選手都是三歲到六歲的小朋友。他們可以報名十三種不同的運動項目，像是武術、擊劍、拳擊跟今年新增的拔河！",
+        "time": null
+      },
+      {
+        "en": "Another big sports event is in Hualien in August. It is the International Children’s Games. This is the 58th year of this event.",
+        "tw": "除此之外，花蓮八月還有另一場大型活動，叫做「國際少年運動會」。今年是這個活動的第五十八屆！",
+        "time": null
+      },
+      {
+        "en": "These Games are for 12- to 15-year-old kids. Kids from Taiwan and around the world are going to Hualien!",
+        "tw": "這場運動會的選手是十二歲到十五歲的小朋友。來自世界各地的小朋友都會到花蓮共襄盛舉！",
+        "time": null
+      },
+      {
+        "en": "The kids take part in one sport, such as swimming, soccer, taekwondo, or basketball! They will also learn about Hualien and Taiwan. And they will make new friends!",
+        "tw": "參賽的小朋友可以選擇參加一種運動賽事，例如游泳、足球、跆拳道或籃球。他們在認識花蓮跟台灣的同時，還能交到新朋友！",
+        "time": null
+      },
+      {
+        "en": "The 2026 Kids Games in Kaohsiung are on June 13th and 14th. The 2026 Hualien International Children’s Games are from August 1st to 6th. Go Taiwan! Go kids!",
+        "tw": "2026年高雄小小英雄運動會在6月13日和14日舉行。2026年花蓮國際少年運動會則是從8月1日到6日。台灣加油！孩子們加油！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "今年暑假有好幾項運動大會，給不同年齡的青少年參加。",
+      "content": [
+        {
+          "text": "1. sports 運動。\nI’m thinking of sending my son to a sports summer camp. 我在考慮把我兒子送去運動夏令營。\nWhat kind of sports? 哪一種運動?\nSoccer and swimming. 足球和游泳。",
+          "time": null
+        },
+        {
+          "text": "2. children 兒童。\nNice combo.真不錯的綜合。One on land, and one in water! 一個在陸地，一個在水裡。\nI know, right? 可不是?\nAnd both are great for younger children. 並且兩者對幼兒都好。",
+          "time": null
+        },
+        {
+          "text": "3. boxing 拳擊。\nRunning and kicking will make their legs strong. 跑步和踢球會讓孩子的腿強健起來。\nYeah, but I enjoyed boxing when I was a kid. 我小時候喜歡拳擊。\nYou were a boxer?! 你當年是拳擊手?\nI was. 我是。",
+          "time": null
+        },
+        {
+          "text": "4. take part in 參加。\nDid you take part in any boxing events? 有沒有參加過任何拳擊比賽?\nNo. I’d like to keep my teeth. 沒有，我想保住牙齒。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。sports運動 children兒童 boxing拳擊 take part in參加"
+    },
+    "quiz": [
+      {
+        "question": "1. Where are the Kids Games?",
+        "options": [
+          "a. Hualien",
+          "b. Taoyuan",
+          "c. Kaohsiung"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. When are the Hualien International Children’s Games?",
+        "options": [
+          "a. June",
+          "b. July",
+          "c. August"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. At what event can kids take part in tug-of-war?",
+        "options": [
+          "a. The Olympics",
+          "b. The Kids Games",
+          "c. The International Children’s Games"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
