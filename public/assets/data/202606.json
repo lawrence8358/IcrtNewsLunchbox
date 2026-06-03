@@ -313,5 +313,93 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260604-01",
+    "type": "國小",
+    "tag": [],
+    "title": "These Delivery Women Do More Than Deliver",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260603NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: Eh? There is someone at the door! Who is it? Delivery woman: How are you today, sir? Narrator: Ah! It is the delivery woman! She is smiling. She is wearing a uniform. And she is holding some very small drinks.",
+        "tw": "有人按門鈴！打開門看，原來是送飲料的阿姨！她面帶笑容，穿著制服，手上拿著幾瓶小小的飲料。",
+        "time": null
+      },
+      {
+        "en": "These women work for a drink company in Japan. They have many customers. The women go to their customers' homes. They go one time every week. Delivery woman: How are you feeling today? Narrator: Some customers have been buying the drinks for many years.",
+        "tw": "這些阿姨是日本一家飲料公司的員工。她們每星期送一次飲料到客人家裡，有些老主顧已經買了這些飲料很多年了。",
+        "time": null
+      },
+      {
+        "en": "Many of the customers are older. Some live alone. Some do not see many people. Some may have no other visitors! The delivery women are kind and friendly. They talk with their customers. Delivery woman: How are you today, madam? How are you feeling today, sir? Customer: Very well, thank you! Narrator: One older customer says a kind \"How are you today?\" helps a lot. Delivery woman: Madam, how are you feeling today? Narrator: It makes her feel good all day!",
+        "tw": "很多顧客都是年紀比較大的長輩。有些人獨居，平常很少見到別人，甚至可能沒有訪客。送飲料的阿姨們都很親切友善，會跟顧客聊天。一位老奶奶說，一句溫柔的問候就讓她開心一整天！",
+        "time": null
+      },
+      {
+        "en": "The drink company has eighty thousand delivery women. They work in Japan, Brazil, Mexico, and many countries in Asia. They have worked in Taiwan for sixty years!",
+        "tw": "這家飲料公司有八萬名送貨員。巴西、墨西哥跟許多亞洲國家都有她們的身影。她們已經在台灣服務六十年了！",
+        "time": null
+      },
+      {
+        "en": "These delivery women do more than deliver drinks. They help their older customers feel less alone!",
+        "tw": "這些送貨員做的不只是外送飲料。她們還幫助高齡顧客感到不那麼孤單！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "送飲料的阿姨，同時也帶來友善的問候。",
+      "content": [
+        {
+          "text": "1. deliver 外送。\nAre you hungry? Want some snacks? 你餓不餓?想不想吃點心?\nI’m starving! 我餓死了!\nGreat, let’s have some food delivered. 真好，我們叫一些吃的來。\nBut it’s midnight! 不過現在是半夜!",
+          "time": null
+        },
+        {
+          "text": "2. delivery 外送。\nEven delivery people need rest. 就算是外送員也需要休息。\nDon’t worry. Some of them work all night. 別擔心，他們有些人整晚工作。",
+          "time": null
+        },
+        {
+          "text": "3. buy 買。\nMaybe we should just buy something at the convenience store. 也許我們應該在便利商店買一點。\nI don’t want to go out. 我不要出門。\nNo, neither do I. 我也不要。",
+          "time": null
+        },
+        {
+          "text": "4. drink 飲料。\nSo can I order now? 所以我可以點餐了嗎?\nYeah, I’d like three drinks, two hamburgers and large fries.\n可以，我要三個飲料，兩個漢堡，一個大薯。\nWow!",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很常用。\ndeliver外送 delivery外送 buy買 drink飲料"
+    },
+    "quiz": [
+      {
+        "question": "1. Who do the delivery women work for?",
+        "options": [
+          "a. A drink company",
+          "b. A food company",
+          "c. The post office"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Who are many of the customers?",
+        "options": [
+          "a. Students",
+          "b. Visitors",
+          "c. Older people"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What else do the delivery women do?",
+        "options": [
+          "a. Talk with customers",
+          "b. Buy drinks",
+          "c. Deliver mail"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
