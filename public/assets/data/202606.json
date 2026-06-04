@@ -401,5 +401,107 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260605-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Star’s Light Shows Scientists a Surprise",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260604NK.mp3",
+    "content": [
+      {
+        "en": "One day, scientists looked at a star. Before, the star's light stayed the same. But then it went off and on many times!",
+        "tw": "科學家們正在觀察一顆星星。這顆星的光以前都很穩定，但是最近它開始閃爍個不停！",
+        "time": null
+      },
+      {
+        "en": "The scientists studied the star. They got a surprise! They found the star's light was not going off and on! It stayed the same!",
+        "tw": "科學家研究之後很驚訝！其實那顆星的光並沒有變化！",
+        "time": null
+      },
+      {
+        "en": "Lots of dust and rocks were between the Earth and the star. The dust and rocks moved. So sometimes the scientists did not see the star's light. It is like when clouds hide the sun's light from us.",
+        "tw": "在地球和這顆恆星之間，有很多灰塵跟石頭。它們會移動，有可能擋住星光，就像雲會把太陽光遮住一樣。",
+        "time": null
+      },
+      {
+        "en": "The dust and rocks were made by a big crash. BOOM! Two planets crashed! These planets were eleven thousand light years away from Earth. That is very, very far away.",
+        "tw": "那些灰塵跟石頭是一次巨大的撞擊造成的。距離地球一萬一千光年之外的兩顆行星相撞，還好離我們非常遙遠。",
+        "time": null
+      },
+      {
+        "en": "Scientists say a big rock crashed into the Earth long ago. That crash made our moon! Maybe this new crash will make a new moon!",
+        "tw": "科學家說，很久以前也有一顆大隕石墜毀在地球，月亮就是從那次撞擊形成的！所以這次新的撞擊，也可能有新月亮。",
+        "time": null
+      },
+      {
+        "en": "Now a big new telescope can find many more crashes. Then scientists can learn more about moons and planets. This will help them find planets we can live on.",
+        "tw": "現在，有一台新的大型望遠鏡，可以發現更多這樣的撞擊事件。科學家想更了解月球跟行星的資訊，尋找適合人類居住的星球。",
+        "time": null
+      },
+      {
+        "en": "Space always has a surprise to show us!",
+        "tw": "太空總是會帶給我們驚喜！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家發現，星光閃爍其實是太空岩石遮住了它的光。",
+      "content": [
+        {
+          "text": "1. star 恆星。\nLook at that super bright star! 你看那顆特別亮的星星。\nDo you know what it is? 你知道那是什麼嗎?\nMars, maybe…? 也許是火星?",
+          "time": null
+        },
+        {
+          "text": "It couldn’t be Mars. Mars is red. 不會是火星，火星是紅色。",
+          "time": null
+        },
+        {
+          "text": "2. planet 行星。\nLet me see what my app has to say. 讓我看看app怎麼說。\nIt says Venus. 它說是金星。\nThat’s right。說對了。\nThat planet usually shows up in the west. 那顆行星通常在西方出現。",
+          "time": null
+        },
+        {
+          "text": "3. space 太空。\nYou’ve studied space? 你研究過太空?\nOnly a little. I like space movies. 只有一點點。我喜歡太空電影。",
+          "time": null
+        },
+        {
+          "text": "4. sun 太陽。\nSo, Venus is not a star at all. 所以金星根本不是恆星。\nNo. It looks bright because it reflects light from the sun.\n沒錯。它看起來亮，因為它反射太陽的光。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很有趣喔!\nstar恆星 planet行星 space太空 sun太陽"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the star's light do?",
+        "options": [
+          "a. Went off and on",
+          "b. Stayed the same",
+          "c. Went off"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What was made by a big crash?",
+        "options": [
+          "a. A new star",
+          "b. A new moon",
+          "c. Dust and rocks"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How far away were the two planets?",
+        "options": [
+          "a. Eleven thousand kilometers",
+          "b. Eleven thousand light years",
+          "c. Eleven thousand years"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
