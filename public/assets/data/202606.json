@@ -503,5 +503,108 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260608-01",
+    "type": "國小",
+    "tag": [
+      "Common Mynas",
+      "Birds",
+      "Taiwan",
+      "Environment"
+    ],
+    "title": "These Birds Do Not Fly Away from a Fight",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260605NK.mp3",
+    "content": [
+      {
+        "en": "What is going on? Is it a fight? Is it a game? Or is it something else?",
+        "tw": "到底發生什麼事了？這兩隻鳥在打架嗎，還是他們在玩遊戲？",
+        "time": null
+      },
+      {
+        "en": "Two birds roll on the ground. They push each other with their wings. Then one bird holds the other down. The other bird tries to escape.",
+        "tw": "有兩隻鳥在地上滾來滾去，用翅膀互相推擠。其中一隻鳥被壓住後，一直想逃跑！",
+        "time": null
+      },
+      {
+        "en": "A third bird watches nearby. It chirps and chirps. Is it worried about the two birds? Is it cheering for one? Or maybe it is the referee.",
+        "tw": "旁邊還有第三隻鳥看著這個場面，不停地叫。牠在擔心那兩隻鳥嗎？還是在替其中一隻加油呢？還是說，牠其實是裁判？",
+        "time": null
+      },
+      {
+        "en": "Many people are watching these three birds. No one knows what the birds are doing. These birds are not scared of people. They did not fly away. The two birds keep fighting.",
+        "tw": "很多人都在圍觀，但沒有人知道這三隻鳥到底在做什麼。那兩隻鳥一直爭鬥，完全不怕人，也沒有飛走。",
+        "time": null
+      },
+      {
+        "en": "These birds are common mynas. Common mynas first came to Taiwan as pets. But they fight a lot. They are noisy. So their owners let them go free.",
+        "tw": "這些打架的鳥叫做八哥，以前被作為寵物鳥引進台灣。可是，因為牠們很愛吵鬧跟打架，有些主人就把牠們放生了。",
+        "time": null
+      },
+      {
+        "en": "Common mynas push out Taiwan's crested mynas. There are not many crested mynas now. But there are many common mynas. We cannot catch them all. This is not good for nature in Taiwan.",
+        "tw": "外來的八哥會趕走台灣本土的冠八哥。普通八哥比冠八哥的數量多很多，我們也沒辦法把八哥全部抓起來。這個情況可能會傷害到台灣的自然環境！",
+        "time": null
+      },
+      {
+        "en": "So if you have a pet you do not want, do not let it go free!",
+        "tw": "所以，如果你有不想養的寵物，請不要隨便放生！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "外來種的家八哥很強悍，讓台灣原生種的八哥數量大減。",
+      "content": [
+        {
+          "text": "1. fight 打架。\nWhat’s all that noise? 什麼吵鬧聲啊?\nThere are birds fighting. 鳥在打架。\nOne is trying to push the other away. 一隻想把另外一隻趕走。",
+          "time": null
+        },
+        {
+          "text": "2. cheer 加油。\nFor defending its home? 為了保護自己家?\nProbably. 也許是。\nWow, the smaller one is so mean! 哇，小的那隻好兇!\nI should cheer for the big one. 我應該替大的加油。",
+          "time": null
+        },
+        {
+          "text": "3. fly away 飛走。\nNo use. The small one is winning. 沒用，小的贏了。\nHas the other one flown away? 另外那隻飛走了?\nYep. 對。",
+          "time": null
+        },
+        {
+          "text": "4. scared 害怕的。\nWe stand so close, but they’re not scared. 我們站得這麼近，牠們都不怕。\nThey’re too busy. 牠們太忙了。",
+          "time": null
+        }
+      ],
+      "postscript": "你有注意過天空的鳥兒嗎?\nfight打架 cheer加油 fly away飛走 scared害怕的"
+    },
+    "quiz": [
+      {
+        "question": "1. How many birds is the crowd watching?",
+        "options": [
+          "a. Two birds",
+          "b. Three birds",
+          "c. Four birds"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What kind of bird is the crowd watching?",
+        "options": [
+          "a. Common mynas",
+          "b. Crested mynas",
+          "c. Javan mynas"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did the fighting birds do when the crowd watched?",
+        "options": [
+          "a. They flew away.",
+          "b. They kept fighting.",
+          "c. They ran away."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
