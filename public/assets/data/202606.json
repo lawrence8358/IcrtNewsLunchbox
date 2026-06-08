@@ -606,5 +606,108 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260609-01",
+    "type": "國小",
+    "tag": [
+      "Dogs",
+      "Scientists",
+      "Cancer",
+      "AI"
+    ],
+    "title": "Dogs Show Scientists a Way to Save Lives",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260608NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: A woman in England had a dog. One day, the dog smelled the woman's mouth. Her dog smelled it again and again!",
+        "tw": "英國有一位女士養了隻狗。有一天，這隻狗不斷的聞她的嘴巴，聞了一次又一次！",
+        "time": null
+      },
+      {
+        "en": "The woman thought maybe her mouth smelled bad. So she went to the dentist. Dentist: Say “Ahhhh.” Woman: “Ahhhh.” Narrator: But her teeth were okay.",
+        "tw": "這位女士認為可能是自己的嘴巴有味道，所以她就去看牙醫。但是，她的牙齒沒有任何問題！",
+        "time": null
+      },
+      {
+        "en": "The dog kept smelling the woman’s mouth. So the woman went to the doctor. The doctor did some tests. The woman had cancer. The doctor said the dog saved her life!",
+        "tw": "狗還是一直聞她的嘴巴，所以她就去看醫生。醫生做完了檢查後，發現她得了癌症。醫生說，是這隻狗救了她的命！",
+        "time": null
+      },
+      {
+        "en": "No one taught the woman's dog how to smell cancer. But dogs can be taught to do this. That is great! But it would be hard to have a dog in every hospital.",
+        "tw": "沒有人教這隻狗怎麼在人身上聞到癌症。不過狗其實可以接受訓練，學會聞出癌症的味道。太厲害了！但是，要讓每一間醫院都有一隻受過訓練的狗實在不容易。",
+        "time": null
+      },
+      {
+        "en": "So one scientist looked at how dogs smell cancer. Then he made a machine. It uses AI. He taught it to smell cancer. It is being tested now. That is great! It would be easy to have this machine in every hospital!",
+        "tw": "因此，有位科學家在研究狗狗聞出癌症的方法後，發明了一種使用 AI「聞」出癌症的機器！這台機器目前還在測試階段，但如果成功了，以後每一家醫院都能使用！",
+        "time": null
+      },
+      {
+        "en": "The scientist is also making very small machines to smell cancer. He hopes our smartphones can have them one day!",
+        "tw": "這位科學家還在研究更小型的機器。他希望有一天手機也能幫助我們檢查癌症！",
+        "time": null
+      },
+      {
+        "en": "Dogs showed scientists a way to find cancer. That will save many lives!",
+        "tw": "狗狗向科學家展示了發現癌症的方法。這將挽救許多生命！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "狗的嗅覺遠超過人類，甚至聞得出來人類的疾病。",
+      "content": [
+        {
+          "text": "1. test 檢驗。Should I get a cancer screening test? 我應該去做一個癌症篩檢嗎? Why? Are you worried about something? 為什麼呢? 你在擔心什麼嗎? Not really. 倒也沒有。",
+          "time": null
+        },
+        {
+          "text": "2. mouth 嘴巴。It’s just that my mouth hurts sometimes. 只是有時候我的嘴巴會痛。Maybe it’s because you talk too much? 也許是因為你太多話了? I wish. But I know that’s not it. 我也希望，但我知道不是。",
+          "time": null
+        },
+        {
+          "text": "3. dentist 牙醫。And there’s something wrong with my teeth too. 而且我的牙齒也有毛病。Then you should see a dentist. 那你應該看牙醫。",
+          "time": null
+        },
+        {
+          "text": "4. easy 容易的。But I don’t like my dentist. 可是我不喜歡我的牙醫。You’re not exactly an easy patient. 你也不是個容易的病人。",
+          "time": null
+        }
+      ],
+      "postscript": "我們來一起讀今天的單字。test檢驗 mouth嘴巴 dentist牙醫 easy容易的"
+    },
+    "quiz": [
+      {
+        "question": "1. Why did the woman go to the dentist?",
+        "options": [
+          "a. She had a bad toothache.",
+          "b. She thought her mouth smelled bad.",
+          "c. She wanted to get her teeth cleaned."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Who taught the dog how to smell cancer?",
+        "options": [
+          "a. A scientist",
+          "b. The woman",
+          "c. No one"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did one scientist make?",
+        "options": [
+          "a. A machine that smells cancer",
+          "b. A cancer hospital",
+          "c. A smartphone that has cancer"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
