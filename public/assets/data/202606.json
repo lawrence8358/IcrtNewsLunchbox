@@ -709,5 +709,103 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260610-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Boy Crushes Cans to Help People",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260609NK.mp3",
+    "content": [
+      {
+        "en": "A 13-year-old boy in the U. K. likes to help people. He buys food for a foodbank. Some people cannot buy food. The foodbank gives them food.",
+        "tw": "一名在英國的13歲男孩很喜歡幫助別人。他會捐食物給食物銀行，這種銀行是幫助救濟買不起飯吃的人。",
+        "time": null
+      },
+      {
+        "en": "The boy wants to give the foodbank more food! But he is not rich. So the boy recycles drink cans. He gets money for food this way. He asked companies for their cans. They said yes. He gets the cans after school and on weekends.",
+        "tw": "他想提供更多食物給食物銀行，但是沒有那麼多的錢。所以，他開始回收飲料罐，再用賣回收的錢買食物來捐。他向各個公司索取空罐子，然後用週末跟放學後的時間來收集。",
+        "time": null
+      },
+      {
+        "en": "Then the boy crushes the cans. This makes them smaller. This gives him more space for cans.",
+        "tw": "男孩把罐子壓扁。因為罐子變小了，讓他有更多空間存放罐子。",
+        "time": null
+      },
+      {
+        "en": "Crushing the cans is not easy! The boy's mom and dad helped. They crushed the cans with their car! Then someone gave him a big crushing machine.",
+        "tw": "要把罐子壓扁並不輕鬆。男孩的爸媽來幫忙！他們開車壓扁那些罐子！還有人送這名男孩一台大型壓罐機。",
+        "time": null
+      },
+      {
+        "en": "The boy has recycled cans for three years. He has recycled one and a half million cans! He got more than six hundred thousand Taiwan dollars! Every dollar helped people!",
+        "tw": "男孩回收了三年的飲料罐！總共回收了一百五十萬個罐子，賣了超過六十萬台幣。這些錢他都拿去幫助別人！",
+        "time": null
+      },
+      {
+        "en": "The boy also does other things. He plays video games. He spends time with his family. But he likes helping people so much, he does not stop!",
+        "tw": "這名男孩也會做其他的事情，像是玩電玩，和陪伴家人。但是，他實在太喜歡幫助別人了，根本停不下來！",
+        "time": null
+      },
+      {
+        "en": "Do you like to help people?",
+        "tw": "你喜歡幫助別人嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "汽水罐壓扁了可以賣錢，少年用這種方法賺錢買食物來捐贈。",
+      "content": [
+        {
+          "text": "1. recycle 回收。\nHey, you just threw the can away? 你就那樣把罐子丟掉?\nYou wanted to keep it? 你想留著它?\nNo, but you should recycle it. 不，但是你應該回收。",
+          "time": null
+        },
+        {
+          "text": "2. company 公司。\nHow? Do you see a recycling bin around here? 怎麼回收? 你看到附近有回收箱嗎?\nNo. But I’d give it to a company that collects cans. 沒有，不過我會把它交給收集罐子的公司。",
+          "time": null
+        },
+        {
+          "text": "3. weekend 周末。\nSo first you carry sticky cans home with you... 所以你先把黏答答的罐子帶回家...\nYeah. 對。\nand you can’t go to the company on weekends. 而且你不能周末時去那家公司。",
+          "time": null
+        },
+        {
+          "text": "4. spend 花費。\nYeah, I go on Monday. 對，我星期一去。\nI’d rather spend that time waiting for the recycling truck. 我寧願花時間等回收車。",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字?\nrecycle回收 company公司 weekend周末 spend花費"
+    },
+    "quiz": [
+      {
+        "question": "1. How does the boy get money for food?",
+        "options": [
+          "a. He helps people.",
+          "b. He plays video games.",
+          "c. He recycles cans."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How does the boy make the cans smaller?",
+        "options": [
+          "a. He crushes them.",
+          "b. He drives on them.",
+          "c. He recycles them."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How long has the boy been recycling cans?",
+        "options": [
+          "a. 3 years",
+          "b. 6 years",
+          "c. 13 years"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
