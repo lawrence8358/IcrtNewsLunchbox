@@ -807,5 +807,103 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260612-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Making Butter Makes Running Better",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260611NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: A woman and her friend are running. They are having fun. Her backpack is shaking. Something inside is moving. It is cream and a little salt.",
+        "tw": "有一名女子跟她的朋友正在開心的跑步。她揹著一個後背包，包包裡的東西不停地晃來晃去。原來，背包裡面裝的是鮮奶油跟一點點鹽！",
+        "time": null
+      },
+      {
+        "en": "One hour later, the run is done. Woman: Phew! OK, let us check … Narrator: And, the cream is butter now!",
+        "tw": "一個小時後，他們跑完了。包包裡面的鮮奶油竟然變成奶油了！",
+        "time": null
+      },
+      {
+        "en": "Cream has lots of fat. When you shake the cream hard, the fat sticks together. The cream gets thicker and thicker. After some time, it becomes butter!",
+        "tw": "鮮奶油裡有很多脂肪，當大力搖晃鮮奶油的時候，脂肪就會慢慢凝固在一起，讓鮮奶油變得濃稠。過了一段時間之後，鮮奶油就會變成奶油！",
+        "time": null
+      },
+      {
+        "en": "Running is a great way to make butter. Every step shakes the cream. It goes up and down again and again. Then it becomes butter!",
+        "tw": "跑步其實是製作奶油的好方法。每一步都會讓鮮奶油不停搖晃，上上下下地晃動很多次，最後就變成奶油了！",
+        "time": null
+      },
+      {
+        "en": "The woman puts lots of butter on some bread. She shares it with her friend. They eat it. It is delicious! Mmmm-mm!",
+        "tw": "那位女子把很多奶油塗在麵包上，跟她的朋友一起分享。她們吃了之後，覺得非常好吃！",
+        "time": null
+      },
+      {
+        "en": "The woman and her friend make a video about making butter. They put it online. Millions of people watch it! Now other runners are making butter too. Some runners are making ice cream!",
+        "tw": "這名女子跟她的朋友還拍了一支做奶油的影片，上傳到網路上。結果有好幾百萬人觀看！現在，其他跑步的人也開始做奶油了。有些人甚至開始做冰淇淋！",
+        "time": null
+      },
+      {
+        "en": "Making butter is easy. You need these things: cream, salt, and your running shoes! Making butter makes running better!",
+        "tw": "製作奶油很簡單。你需要這些東西：鮮奶油、鹽，還有你的跑步鞋！製作奶油讓跑步變得更好了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "跑步可以製造牛油或是冰淇淋，你有興趣試試看嗎?",
+      "content": [
+        {
+          "text": "1. running shoes 慢跑鞋。\nNice running shoes! 好看的慢跑鞋!\nTrying to run more? 想要多跑跑嗎?\nNo. It’s just because they look good. 不會。只是因為它好看。",
+          "time": null
+        },
+        {
+          "text": "2. better 比較好。\nNothing wrong with that. 那也沒錯。\nAlso, they’re better for my feet. 而且對我的腳也比較好。\nYeah, compared with those high heels of yours. 對，跟你那些高跟鞋相比。",
+          "time": null
+        },
+        {
+          "text": "3. become 變成。\nBut seriously, I can help you if you really want to be a runner.\n不過說真的，假如你真的想當跑者，我可以幫你。\nWow, since when did you become so friendly? 哇，你幾時變得這麼友善了?",
+          "time": null
+        },
+        {
+          "text": "4. hour 小時。\nI run for two hours every day. 我每天跑兩個鐘頭。\nThat’s quite amazing! 滿驚人的!",
+          "time": null
+        }
+      ],
+      "postscript": "來讀單字。\nrunning shoes慢跑鞋 better比較好 become變成 hour小時"
+    },
+    "quiz": [
+      {
+        "question": "1. What was moving in the woman's backpack?",
+        "options": [
+          "a. A water bottle",
+          "b. Cream and salt",
+          "c. Butter"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How long was the run?",
+        "options": [
+          "a. One hour",
+          "b. Two hours",
+          "c. Three hours"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Why does cream become butter when you shake it?",
+        "options": [
+          "a. The cream gets hot.",
+          "b. The salt goes away.",
+          "c. The fat sticks together."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
