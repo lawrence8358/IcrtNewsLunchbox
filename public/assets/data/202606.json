@@ -905,5 +905,106 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260615-01",
+    "type": "國小",
+    "tag": [
+      "Quality Education",
+      "Information Education"
+    ],
+    "title": "Kids Are the Chess Pieces on this Chessboard",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260612NK.mp3",
+    "content": [
+      {
+        "en": "Qipan is a village in Yunlin. \"Qipan\" means chessboard. And yes, Qipan loves Chinese chess! The game is good for the brain. Players have to listen, think, and plan.",
+        "tw": "在雲林的棋盤村，很多村民都喜歡下象棋！這種遊戲對大腦很好，因為玩家必須懂得聆聽、思考跟做計畫。",
+        "time": null
+      },
+      {
+        "en": "Every year, Qipan has a national Chinese chess competition. The kids at Qishan Elementary School in Qipan were excited! They wanted to tell everyone about the competition!",
+        "tw": "棋盤村每年都會舉辦全國象棋公開賽。棋山國小的學生非常興奮，想要讓大家趕快知道這個消息！",
+        "time": null
+      },
+      {
+        "en": "So the kids made a big Chinese chessboard in their playground. It did not have big round chess pieces. The kids were the chess pieces!",
+        "tw": "他們在學校的操場做了一個巨大的棋盤，棋盤上沒有圓形的棋子，因為學生自己就是棋子！",
+        "time": null
+      },
+      {
+        "en": "Two teams were on the chessboard. One team wore black shirts and pants. The other team wore red shirts and pants. Each kid also wore a round chess piece.",
+        "tw": "學生分成兩隊站在棋盤上，一隊穿著黑色，另一隊穿著紅色。每個人身上還掛著圓形的棋子作為標示。",
+        "time": null
+      },
+      {
+        "en": "Teachers told the kids where to move on the chessboard. Some kids moved too early. Some kids moved to the wrong place. Some kids laughed when they were face to face! They had fun!",
+        "tw": "老師用麥克風指示場上的學生們如何移動。有些人太早移動，有些人走錯位置，還有一些人在面對面的時候笑場，但大家都玩得很開心！",
+        "time": null
+      },
+      {
+        "en": "A month later, four hundred people played in the competition. It was free. There were many prizes. Everyone was happy!",
+        "tw": "一個月後，總共有四百個人參加了正式的象棋比賽。參加比賽不用報名費，獲勝者還能得到很多獎品，每個人都玩得很開心！",
+        "time": null
+      },
+      {
+        "en": "Do you want to play in Qipan's competition next year?",
+        "tw": "你想參加明年棋盤村的比賽嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "象棋也可以組成隊伍比賽，參加的人就是棋子。",
+      "content": [
+        {
+          "text": "1) wrong 錯誤的。\nDo you play Chinese chess? 你會不會下象棋?\nI tried it once… then I gave up. 我試過一次就放棄了。\nWhy? 為什麼?\nBecause I made all the wrong moves. 因為每一步我都走錯了。",
+          "time": null
+        },
+        {
+          "text": "2) early 很早。\nEven my horse looked confused. 連我的馬都很困惑。\nYou quit too early! 你放棄得太早啦!\nChinese chess is a really interesting game. 象棋真的很有趣。",
+          "time": null
+        },
+        {
+          "text": "3) competition 比賽。\nAh, I see what this is about. 我知道你想做什麼了。\nWhat? 什麼?\nYou want me to join the competition, don’t you? 你想要我參加比賽，對吧?\nI do! 對!",
+          "time": null
+        },
+        {
+          "text": "4) prize 獎品。\nThere are many great prizes! 有很多棒棒獎品!\nI’d hate to see you miss them! 我不想看到你錯過。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起下象棋，但是先讀單字。\nwrong錯誤的 early很早 competition比賽 prize獎品"
+    },
+    "quiz": [
+      {
+        "question": "1. What is the name of the village?",
+        "options": [
+          "a. Weiqi",
+          "b. Qipan",
+          "c. Qizi"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What is the game good for?",
+        "options": [
+          "a. The brain",
+          "b. The arms",
+          "c. The legs"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What were the colors of the two teams?",
+        "options": [
+          "a. Black and white",
+          "b. White and red",
+          "c. Black and red"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
