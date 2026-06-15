@@ -1006,5 +1006,106 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260616-01",
+    "type": "國小",
+    "tag": [
+      "Environment",
+      "Recycling"
+    ],
+    "title": "Woman Finds Good Use for Broken Glass",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260615NK.mp3",
+    "content": [
+      {
+        "en": "In the U.S., some glass is recycled. But most glass goes to landfills. Glass can take one million years to break down. That’s not good for the environment! But one woman is recycling glass.",
+        "tw": "在美國，有些玻璃會被回收，但大部分的玻璃最後都會出現在垃圾掩埋場。玻璃需要一百萬年才能被分解，這很傷害環境！但現在，有一位女子正在努力回收玻璃。",
+        "time": null
+      },
+      {
+        "en": "The woman recycles broken glass from car windows. Some people know about her. They tell her about new broken car windows. She goes to the cars. She sweeps up the broken glass. She puts it in a box.",
+        "tw": "這名女子會回收破掉的車窗玻璃。有一些人知道她會這麼做，所以當他們發現碎掉的車窗的時候就會通知她。她會用掃把把碎玻璃掃起來，再裝進箱子裡。",
+        "time": null
+      },
+      {
+        "en": "At home, the woman cleans the glass. She puts it in an oven for glass. It melts into little circles. She makes beautiful earrings with them!",
+        "tw": "回到家後，這名女子會把玻璃洗乾淨，放進專門的爐子裡燒。融化後會變成一顆一顆玻璃珠，她再拿來做成漂亮的耳環！",
+        "time": null
+      },
+      {
+        "en": "The woman also recycles glass bottles. She makes flower vases. She makes candle holders and other things. They are pretty.",
+        "tw": "她也會回收玻璃瓶，再做成花瓶、燭台跟其他的漂亮的作品。",
+        "time": null
+      },
+      {
+        "en": "People like to buy the things the woman makes. They want something good to come from broken car windows. They want to help the environment too.",
+        "tw": "很多人喜歡買她的玻璃作品！他們希望破掉的玻璃窗能變成有用的東西，也希望能同時幫助到環境。",
+        "time": null
+      },
+      {
+        "en": "The woman's mom and dad taught her to take care of the environment. That is why she likes to recycle.",
+        "tw": "這名女子的爸爸媽媽從小就教她怎麼愛護環境，所以她很喜歡做回收！",
+        "time": null
+      },
+      {
+        "en": "Taiwan recycles a lot of glass and other things. Do you like to recycle?",
+        "tw": "台灣回收很多玻璃跟其他東西。你喜歡做回收嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "玻璃需要非常長的時間才能分解，有人想出各種再利用的方式。",
+      "content": [
+        {
+          "text": "1) pretty 好看的。\nWhat a pretty flower vase! 好美的花瓶!\nIsn’t it nice? 好看吧?\nIt’s made from recycled glass. 它是回收玻璃做的。",
+          "time": null
+        },
+        {
+          "text": "2) broken 破裂的。\nYou mean this used to be broken windows or bottles? 這以前是破掉的窗戶或瓶子?\nYeah, now it’s come alive. 對，現在它又活過來了。",
+          "time": null
+        },
+        {
+          "text": "3) melt 熔化。\nWhere did you find the vase? 你在哪裡找到花瓶的?\nThere’s a little shop near the park. 公園附近有個小店。\nThey melt old glass to make colorful lamps too. 他們也熔化舊玻璃來做彩色的燈。",
+          "time": null
+        },
+        {
+          "text": "4) thing 東西。\nI have to see that place. 我得去看看那個地方。\nThey must have things I like. 一定有我喜歡的東西。",
+          "time": null
+        }
+      ],
+      "postscript": "What have you learned today?\npretty好看的 broken破裂的 melt熔化 thing東西"
+    },
+    "quiz": [
+      {
+        "question": "1. What happens to most glass in the U.S.?",
+        "options": [
+          "a. It is melted.",
+          "b. It is recycled.",
+          "c. It goes to a landfill."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where is the woman's broken glass from?",
+        "options": [
+          "a. Vases",
+          "b. Car windows",
+          "c. Candle holders"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Who taught the woman to take care of the environment?",
+        "options": [
+          "a. Her teachers",
+          "b. Her mom and dad",
+          "c. Her friends"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
