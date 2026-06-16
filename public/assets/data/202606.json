@@ -1107,5 +1107,93 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260617-01",
+    "type": "國小",
+    "tag": [],
+    "title": "A Song for Taiwan’s Brave Firefighters",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260616NK.mp3",
+    "content": [
+      {
+        "en": "Firefighters keep us safe. They put out fires. They help when no one else can. They are very brave.",
+        "tw": "消防員撲滅火災，在沒有人能幫忙的時候伸出援手，保護我們的安全。他們非常勇敢！",
+        "time": null
+      },
+      {
+        "en": "There was a big fire in Keelung. People needed help. They called 1-1-9. Firefighters came in bright red trucks. The firefighters put out the fire. They saved many people. But one brave firefighter died. Fires are very dangerous for firefighters too.",
+        "tw": "基隆曾經發生一場大火。很多人需要幫助，所以有人打了119。消防員開著鮮紅色的消防車趕來滅火，救出了很多人。但是，有一位勇敢的消防員不幸過世了。對消防員來說，火災也非常危險。",
+        "time": null
+      },
+      {
+        "en": "A group of Amis, Atayal, and Hakka singers in Keelung want to thank the brave firefighter. One of the singers wrote a song. It is called “Yǒng zhì bù wàng”* It means “Never Forget.” The song is about the firefighter and how brave he was. It helps us remember firefighters keep us safe.",
+        "tw": "基隆有一群阿美族、泰雅族和客家歌手想向這位勇敢的消防員表達感謝。其中一位歌手寫了一首歌，歌名叫做《永誌不忘》，意思是「永遠不會忘記」。這首歌也提醒我們，消防員一直都在守護大家的安全。",
+        "time": null
+      },
+      {
+        "en": "The song is online. When we listen, it gets money. The money will buy Taiwan’s firefighters safety helmets, rescue suits, and other things. These will keep them safe.",
+        "tw": "這首歌現在已經放在網路上，只要大家聽歌就能給創作團隊一些收入。賺到的錢會被用來購買消防員專用的安全帽、衣服跟其他的裝備，幫助台灣的消防員更安全的執行任務！",
+        "time": null
+      },
+      {
+        "en": "The singers in Keelung want to help keep Taiwan's firefighters safe. You can too! Listen to their song online and help our brave firefighters!",
+        "tw": "基隆的歌手們希望能協助維護台灣消防員的安全。你也可以！在網路上聆聽他們的歌曲，幫助我們勇敢的消防員！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "為了替勇敢的打火兄弟募款，一群人創作了一首歌。",
+      "content": [
+        {
+          "text": "1) truck 卡車。(救火車鳴笛飛馳) Oh, my gosh! I wonder where the fire truck is going! 我的天。不知道救火車要去哪裡。I hope it’s not anywhere near us. 希望不在我家附近。",
+          "time": null
+        },
+        {
+          "text": "2) die 死亡。You shouldn’t say that. 你不該那樣講。Nobody wants a fire nearby! 沒人想要附近發生火災。People could die, you know. 可能有傷亡呢。Okay, okay. 好啦!",
+          "time": null
+        },
+        {
+          "text": "3) forget 忘記。Don’t forget when there’s a fire, just run! 別忘了火災時趕快跑!",
+          "time": null
+        },
+        {
+          "text": "4) put out 撲滅。Shouldn’t I try to put it out? 我不是應該先滅火嗎? No, you should ask an adult for help. 不是, 你應該先找大人幫忙。",
+          "time": null
+        }
+      ],
+      "postscript": "火災發生時該怎麼做? 來讀單字。truck卡車 die死亡 forget忘記 put out撲滅"
+    },
+    "quiz": [
+      {
+        "question": "1. What number did people in Keelung call for help?",
+        "options": [
+          "a. 9-9-9",
+          "b. 9-1-1",
+          "c. 1-1-9"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What does the song's name mean?",
+        "options": [
+          "a. “Brave Firefighter”",
+          "b. “Never Forget”",
+          "c. “Bright Red Truck”"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Where can we listen to the song?",
+        "options": [
+          "a. On the radio",
+          "b. Online",
+          "c. Taipei"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
