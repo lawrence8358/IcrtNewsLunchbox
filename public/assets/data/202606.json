@@ -1195,5 +1195,103 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260618-01",
+    "type": "國小",
+    "tag": [],
+    "title": "A Friend to Every Orangutan",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260617NK.mp3",
+    "content": [
+      {
+        "en": "One day, a scientist went to Borneo. She wanted to study orangutans. She studied them there for fifty years! Whoa!",
+        "tw": "有一天，一位科學家想研究紅毛猩猩，所以她就去了婆羅洲。她在那裡總共研究了五十年！",
+        "time": null
+      },
+      {
+        "en": "Orangutans are big red apes. They live in the trees. They eat fruit and leaves.",
+        "tw": "紅毛猩猩是大型的猿類，牠們住在樹上，喜歡吃水果跟樹葉。",
+        "time": null
+      },
+      {
+        "en": "People thought orangutans always stayed in the trees. But the scientist learned they walked on the ground too! She also learned they had babies every eight years!",
+        "tw": "以前，人們以為紅毛猩猩永遠都待在樹上。但是，這位科學家發現紅毛猩猩也會在地上行走！她還發現，紅毛猩猩大約八年就會生一次寶寶！",
+        "time": null
+      },
+      {
+        "en": "One baby orangutan was one year old. He was lonely. He did not have a mom. He thought the scientist was his mom! He went everywhere with her.",
+        "tw": "有一隻一歲的紅毛猩猩沒有媽媽，非常孤單。所以，這隻猩猩就把科學家當成自己的媽媽，走到哪跟到哪。",
+        "time": null
+      },
+      {
+        "en": "The young orangutan learned how to climb trees. He learned how to find food. He learned how to be an orangutan. The scientist was his teacher.",
+        "tw": "科學家教這隻小紅毛猩猩怎麼爬樹跟尋找食物，牠也逐漸學會如何當一隻真正的紅毛猩猩！",
+        "time": null
+      },
+      {
+        "en": "The scientist worked hard to keep all orangutans safe. But some people hunt them. Some take the babies to be pets. Some cut down their trees. Some take their forests for farming.",
+        "tw": "這位科學家非常努力地保護所有的紅毛猩猩。但是，有些人會獵捕牠們並把小紅毛猩猩抓去當寵物，還有些人會砍掉牠們居住的樹林，把森林改成農地。",
+        "time": null
+      },
+      {
+        "en": "The scientist died this year. She was more than a scientist. She was a friend to every orangutan.",
+        "tw": "這位科學家在今年過世了。她不僅僅是一位科學家，她也是每一隻紅毛猩猩的朋友。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一位科學家努力研究紅毛猩猩，希望牠們不要滅絕。",
+      "content": [
+        {
+          "text": "1) tree 樹木。Humans are very close to orangutans.人類跟紅毛猩猩很接近。No way! They are ugly! 不會吧! 牠們好醜! Hey, they have a big brain, just like us. 牠們有個大腦袋，跟我們一樣。But they live in the trees! 但是牠們住在樹上!",
+          "time": null
+        },
+        {
+          "text": "2) fruit 水果。They eat worms! 牠們吃蟲子。Come on. They also eat fruits like apples. 好啦，牠也吃水果，例如蘋果。",
+          "time": null
+        },
+        {
+          "text": "3) climb 攀爬。You eat apples too! 你也吃蘋果啊! True, but I don’t climb trees. 確實，但我不爬樹。",
+          "time": null
+        },
+        {
+          "text": "4) lonely 寂寞的。Did you know they like to live alone? 紅毛猩猩其實喜歡單獨生活。 Really? Don't they feel lonely? 真的嗎？牠們不會覺得寂寞嗎？",
+          "time": null
+        }
+      ],
+      "postscript": "你有見過猩猩嗎? 一起讀單字。tree樹木 fruit水果 climb攀爬 lonely寂寞的"
+    },
+    "quiz": [
+      {
+        "question": "1. How long did the scientist study orangutans?",
+        "options": [
+          "a. Five years",
+          "b. Fifteen years",
+          "c. Fifty years"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did the scientist learn about orangutans?",
+        "options": [
+          "a. They can swim.",
+          "b. They are lonely.",
+          "c. They walk on the ground."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did the scientist do for all orangutans?",
+        "options": [
+          "a. Worked to keep them safe",
+          "b. Sold them to nice zoos",
+          "c. Gave them taller trees"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
