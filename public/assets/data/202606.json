@@ -1293,5 +1293,112 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260619-01",
+    "type": "國小",
+    "tag": [
+      "Dragon Boat Festival",
+      "World Records",
+      "Sports"
+    ],
+    "title": "Dragon Boat World Records",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260618NK.mp3",
+    "content": [
+      {
+        "en": "Ready, set... Happy Dragon Boat Festival!",
+        "tw": "端午節快樂！龍舟比賽正式開始了！",
+        "time": null
+      },
+      {
+        "en": "Many dragon boat teams want a world record. They want their boat to be the fastest or the biggest. They want to be the best!",
+        "tw": "很多龍舟隊都想創下世界紀錄，讓自己的龍舟成為最快、最大，最厲害的龍舟！",
+        "time": null
+      },
+      {
+        "en": "A Chinese team has the world record for the longest dragon boat. It is more than 100 meters long! That is as long as a soccer field! Four hundred and twenty people can paddle it!",
+        "tw": "有一個中國的龍舟隊擁有世界最長的龍舟。那艘龍舟超過一百公尺，跟一個足球場差不多長！那艘龍舟最多可以容得下四百二十個人一起划！",
+        "time": null
+      },
+      {
+        "en": "Two U.S. teams have dragon boat world records. Five people were on both U.S. teams.",
+        "tw": "有兩支美國龍舟隊也曾經創下了世界紀錄，有五個成員同時都在這兩支隊伍裡。",
+        "time": null
+      },
+      {
+        "en": "The first U.S. team went the farthest in a dragon boat in 24 hours. Their arms hurt. But they did not stop! They went 322 kilometers!",
+        "tw": "第一支美國隊在二十四小時內划了最遠的距離。他們的手很痠，但他們沒有停下來！最後，他們總共划了三百二十二公里。",
+        "time": null
+      },
+      {
+        "en": "The second U.S. team went the farthest in a dragon boat. They went 596 kilometers! That is like paddling from New Taipei City to Pingtung!",
+        "tw": "第二支美國隊則是創下了划龍舟最遠距離的紀錄。他們總共划了五百九十六公里，這就像從新北市一路划到屏東一樣遠！",
+        "time": null
+      },
+      {
+        "en": "That team paddled for 51 hours! They did not stop! They took turns taking short breaks. They ate, drank, and... more in the boat. Wow!",
+        "tw": "這支隊伍總共划了五十一個小時！他們完全沒有停下來，只有在中途輪流短暫的休息、吃東西、喝水等等。",
+        "time": null
+      },
+      {
+        "en": "Will Taiwan's dragon boats get any world records this year?",
+        "tw": "台灣的龍舟今年會創下世界紀錄嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "端午節有龍舟競賽，比的是速度和距離。",
+      "content": [
+        {
+          "text": "1. people 人們。\nWhy do the boats have dragon heads? 為什麼那些船都用龍的頭? Why not tigers? 為什麼不用老虎?\nBecause people believe dragons rule the water. 因為人們相信龍會治水。",
+          "time": null
+        },
+        {
+          "text": "2. best 最好的。\nSo they think dragons bring good luck? 所以他們認為龍會帶來好運? Yeah, dragons are the best. 對，龍是最棒的。",
+          "time": null
+        },
+        {
+          "text": "3. fastest 最快的。\nI wonder which team will be the fastest this year. 真想知道今年哪一隊最快。\nThe winner often comes from a fitness center. 贏家通常是健身房隊。",
+          "time": null
+        },
+        {
+          "text": "4. paddle 划船。\nWhat a perfect ad! 真是好廣告! Their slogan can be “we paddle faster than all!”\n他們的廣告詞可以用 [我們划船比誰都快]!",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到那些單字? people人們 best最好的 fastest最快的 paddle划船"
+    },
+    "quiz": [
+      {
+        "question": "1. What was the Chinese team's world record?",
+        "options": [
+          "a. Best dragon boat",
+          "b. Strongest dragon boat",
+          "c. Longest dragon boat"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many people were on both U.S. teams?",
+        "options": [
+          "a. 2 people",
+          "b. 5 people",
+          "c. 10 people"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What was the second U.S. team's dragon boat world record?",
+        "options": [
+          "a. Going 24 hours",
+          "b. Going the farthest",
+          "c. Going the fastest"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
