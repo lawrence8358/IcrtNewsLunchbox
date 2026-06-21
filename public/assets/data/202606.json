@@ -1400,5 +1400,102 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260622-01",
+    "type": "國小",
+    "tag": [
+      "陸龜",
+      "高雄",
+      "寵物"
+    ],
+    "title": "Pet Walks in Socks",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260619NK.mp3",
+    "content": [
+      {
+        "en": "One day in Kaohsiung, a car stopped at a red light. A woman was crossing the street. She was pushing a cart. She was walking with her pet. It was a big tortoise! And, it was wearing socks! Huh?!",
+        "tw": "高雄一位女子正在過馬路。她推著一台小推車，還帶著她的寵物，一隻穿襪子的陸龜！",
+        "time": null
+      },
+      {
+        "en": "Tortoises live on land. Some live more than fifty years! This tortoise is eight years old. Four years ago, it was four kilograms. Now it is forty kilograms!",
+        "tw": "陸龜住在陸地上，有些壽命超過五十年。這名女子的陸龜八歲，四年前牠重四公斤，現在已經四十公斤了！",
+        "time": null
+      },
+      {
+        "en": "The tortoise walks a lot. It walks outside. Sometimes it crosses the street too slowly. Then the woman puts it on her cart. She gives it a fast ride to the other side!",
+        "tw": "這隻陸龜常常在戶外散步，有時候牠過馬路的速度實在太慢，主人會把牠抱到推車上，快速推牠過馬路！",
+        "time": null
+      },
+      {
+        "en": "The woman is kind. She walks for three or four hours with the tortoise. They do this every day. When the walk is too short, the tortoise cries!",
+        "tw": "這名很有愛心的女子每天都會陪陸龜散步三、四個小時。如果散步時間太短，陸龜還會發出叫聲！",
+        "time": null
+      },
+      {
+        "en": "So why does the tortoise wear socks? Its feet get hurt sometimes. Sidewalks and streets are hard! The woman bought many pairs of short socks. She puts them on the tortoise's feet. They keep its feet safe.",
+        "tw": "為什麼牠要穿襪子呢？因為人行道跟馬路太硬了，牠的腳會受傷。主人為了保護牠的腳，買了很多雙短襪給牠穿。",
+        "time": null
+      },
+      {
+        "en": "People love seeing the tortoise. They stop and take pictures. This tortoise is a Kaohsiung star!",
+        "tw": "人們喜歡看到這隻陸龜。他們會停下腳步拍照。這隻陸龜是高雄的明星！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "愛散步的陸龜，穿著襪子上街。",
+      "content": [
+        {
+          "text": "1. slowly 慢慢地。\nWhy are you walking so slowly? 你怎麼走這麼慢?\nBecause my feet hurt! 因為我的腳痛! And don't ask me why. 別問我為什麼。",
+          "time": null
+        },
+        {
+          "text": "2. stop 停止。\nI don’t need to. I already know. 我不用問，我早就知道了。\nReally? Let's hear it. 真的嗎?說來聽聽。\nYou refused to stop dancing last night. 你昨晚不肯停止跳舞。",
+          "time": null
+        },
+        {
+          "text": "3. wear 穿著。\nOkay, maybe that's true. 好吧，也許你說對了。\nAnd you were wearing those beautiful new shoes. 而且你還穿著那雙漂亮新鞋子。",
+          "time": null
+        },
+        {
+          "text": "4. feet 雙腳。\nHey, I like those shoes! 我喜歡那雙鞋子!\nYour feet don't. 你的腳可不喜歡。Sometimes fashion and feet can't live happily together! 有的時候腳跟時尚就是不合。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡散步嗎? 來讀讀單字。slowly慢慢地 stop停止 wear穿著 feet雙腳"
+    },
+    "quiz": [
+      {
+        "question": "1. What was the tortoise wearing?",
+        "options": [
+          "a. A cap",
+          "b. Shoes",
+          "c. Socks"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How old is the tortoise?",
+        "options": [
+          "a. Four years old",
+          "b. Eight years old",
+          "c. Forty years old"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What does the woman use to help her pet cross the street?",
+        "options": [
+          "a. The tortoise",
+          "b. A cart",
+          "c. Traffic lights"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
