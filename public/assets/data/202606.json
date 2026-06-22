@@ -1497,5 +1497,112 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260623-01",
+    "type": "國小",
+    "tag": [
+      "小綠人",
+      "交通安全",
+      "行人"
+    ],
+    "title": "No More Running for Taiwan’s Little Green Men",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260622NK.mp3",
+    "content": [
+      {
+        "en": "Have you seen little green men? Some of them wear hats. They are everywhere!",
+        "tw": "你有看過小綠人嗎？小綠人隨處可見，有些頭上還戴著帽子！",
+        "time": null
+      },
+      {
+        "en": "These little green men are on crossing signals. They help us know when we can safely walk across the street.",
+        "tw": "小綠人會出現在十字路口，告訴我們什麼時候可以安全地過馬路。",
+        "time": null
+      },
+      {
+        "en": "Taiwan was the first country in the world to make these little green men move. Now they walk all over the world!",
+        "tw": "台灣是全世界第一個讓小綠人動起來的國家！現在，世界很多地方也都可以見到。",
+        "time": null
+      },
+      {
+        "en": "In many places in Taiwan, the little green men run too. But they are going to stop running. They will walk.",
+        "tw": "在台灣很多地方，小綠人不只會走，還會跑！但是，跑步的小綠人以後都只會用走的。",
+        "time": null
+      },
+      {
+        "en": "Why? Well, the little green men run when the crossing signal is going to turn red. They are telling us to wait.",
+        "tw": "這是因為當行人號誌快要變紅燈的時候，小綠人會快跑，提醒大家等下一個綠燈再過馬路。",
+        "time": null
+      },
+      {
+        "en": "But some people think the little green men are telling them to run. So they run! That is dangerous! They do not have time to cross the street safely.",
+        "tw": "但是很多人以為小綠人是叫他們加緊腳步，所以就衝了出去！這很危險，因為可能已經沒有時間讓他們安全過馬路了！",
+        "time": null
+      },
+      {
+        "en": "Taiwan wants everyone to cross the street more safely. So all of Taiwan's little green men will stop running by the end of this year. Changing many crossing signals takes time!",
+        "tw": "交通部希望讓大家更安全，所以今年年底前 所有小綠人都會停止跑步，改成慢慢走！",
+        "time": null
+      },
+      {
+        "en": "Now you know how to cross the street more safely. Do not run when you see a little green man!",
+        "tw": "現在你知道如何更安全地過馬路了。當你看到小綠人時，不要奔跑！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "為了避免讓行人誤會，小綠人號誌以後只會走，不會跑。",
+      "content": [
+        {
+          "text": "1. cross 越過。\nI can’t believe you just crossed the street like that! 我真不敢相信你就那樣過馬路!\nWhy not? 為什麼不行? It’s faster. 那比較快。",
+          "time": null
+        },
+        {
+          "text": "2. dangerous 危險的。\nBut it’s dangerous! 但是很危險! You could have been hit by cars. 你有可能被車子撞到。\nI looked both ways, okay? 我有看兩邊，好嗎? Cars were far away. 車子都很遠。",
+          "time": null
+        },
+        {
+          "text": "3. run 跑步。\nWhat about those motorcycles? 那些摩托車呢?\nThey stopped when they saw me running. 他們看到我跑步都有停下來。",
+          "time": null
+        },
+        {
+          "text": "4. signal 信號。\nThey stopped because they didn’t want to be fined! 他們停下來是為了怕罰款!\nHow much is the fine? 罰多少錢?\nAt least $18,000 NT if they hit you. 假如撞到你，至少一萬八千元。\nWow! Next time I’ll wait for traffic signals, okay? 哇! 好吧，下次我等紅綠燈。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。cross越過 dangerous危險的 run跑步 signal信號"
+    },
+    "quiz": [
+      {
+        "question": "1. Which was the first country to make the little green man move?",
+        "options": [
+          "a. Taiwan",
+          "b. Thailand",
+          "c. Japan"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What are the little green men telling us when they run?",
+        "options": [
+          "a. Run!",
+          "b. Walk!",
+          "c. Wait!"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What does Taiwan want everyone to do?",
+        "options": [
+          "a. Change many crossing signals",
+          "b. Cross the street more safely",
+          "c. Wear hats everywhere"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
