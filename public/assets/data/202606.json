@@ -1604,5 +1604,103 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260624-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Hero Rat Gets Statue",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260623NK.mp3",
+    "content": [
+      {
+        "en": "Some countries have wars. Afterwards, people try to build their lives again. But in a few countries, many cannot. Landmines are everywhere.",
+        "tw": "有些國家在打完仗之後需要重建，但是到處都埋著地雷，讓重建變得非常困難。",
+        "time": null
+      },
+      {
+        "en": "Many landmines are about fifteen centimeters down in the ground. No one can see them. People walk on them. That makes the landmines explode. They hurt or kill people every year.",
+        "tw": "多數的地雷被埋在底下十五公分深。走在路面上的人看不到這些地雷，如果不幸踩上去就會爆炸！每年都有人因為誤踩地雷而傷亡。",
+        "time": null
+      },
+      {
+        "en": "Experts try to find the landmines. It takes a lot of time. They are very careful. They do not want to get hurt or killed! It is very dangerous work.",
+        "tw": "專家想要清除這些地雷，但是這個過程十分漫長而且危險，所以他們必須非常小心。他們不想在過程中受傷，甚至送命。",
+        "time": null
+      },
+      {
+        "en": "So rats are helping the experts. What? Rats? How? Rats can learn how to find landmines! They use their noses. They smell landmines!",
+        "tw": "現在，老鼠正在幫助掃雷專家！老鼠可以學習如何利用他們敏銳的嗅覺，聞出地雷的位置！",
+        "time": null
+      },
+      {
+        "en": "Rats are small and light. They can walk on landmines. The landmines do not explode. After the rats find a landmine, experts carefully dig it up.",
+        "tw": "老鼠體型輕巧，就算踩上地雷也不會引爆。老鼠找到地雷後，專家接著小心的挖除。",
+        "time": null
+      },
+      {
+        "en": "In one country, a rat found 71 landmines! It made a lot of land safe. So the country made a big statue of the rat!",
+        "tw": "在某個國家，有一隻老鼠找到了71個地雷！為了感謝牠讓大家更安全，人們還為牠豎立了一座雕像！",
+        "time": null
+      },
+      {
+        "en": "This rat is a hero. All rats that find landmines are heroes too. Now many more people can build their lives again!",
+        "tw": "這隻老鼠是個英雄，所有尋找地雷的老鼠也都是英雄。現在更多的人可以重新展開生活了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "老鼠成為掃除地雷的英雄，這可是大家都沒有想到的吧?",
+      "content": [
+        {
+          "text": "1. everywhere 到處。\nWhy are you walking funny? 你怎麼走路那麼奇怪?\nI’m pretending there’s lava everywhere. 我在假裝地上都是岩漿。\nAre we going to get burned? 我們會被灼傷嗎?",
+          "time": null
+        },
+        {
+          "text": "2. afterwards 之後。\nProbably. But lava should turn to rocks afterwards. 也許，不過之後岩漿應該會變成石頭。",
+          "time": null
+        },
+        {
+          "text": "3. hurt 受傷。\nSo, you’re afraid to walk across the park now? 所以你現在害怕走過公園? Yeah, I like my life. 對，我喜歡我的人生。I don’t want to get hurt. 我可不想受傷。",
+          "time": null
+        },
+        {
+          "text": "4. safe 安全的。\nLet’s stay safe by only stepping on the rocks. 我們來只踩著石頭走，就可以保持安全。\nGreat idea! 好主意!",
+          "time": null
+        }
+      ],
+      "postscript": "你今天學到哪些單字? everywhere到處 afterwards之後 hurt受傷 safe安全的"
+    },
+    "quiz": [
+      {
+        "question": "1. How do rats find landmines?",
+        "options": [
+          "a. The rats smell them.",
+          "b. The rats hear them.",
+          "c. The rats see them."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How many landmines did one rat find?",
+        "options": [
+          "a. 15",
+          "b. 71",
+          "c. 92"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why did the country make a statue of the rat?",
+        "options": [
+          "a. The rat liked to dig up landmines.",
+          "b. The rat was cute.",
+          "c. The rat made a lot of land safe."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
