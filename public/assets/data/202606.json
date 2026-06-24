@@ -1702,5 +1702,103 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260625-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Taiwan VR Movie with Indigenous Story Wins Awards",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260624NK.mp3",
+    "content": [
+      {
+        "en": "Have you seen a VR movie? You put on a headset. The movie starts. And… you are in the movie! You can walk around. You can go anywhere you want! Everything looks real. But it is not!",
+        "tw": "你有看過虛擬實境VR電影嗎？把裝置戴在頭上之後，就好像置身在電影裡面！你可以到處走，眼前所有的景色都超逼真！",
+        "time": null
+      },
+      {
+        "en": "A Taiwanese filmmaker made a VR movie. It is from a book by a Taiwanese writer. One of the stories it tells is very old.",
+        "tw": "一位台灣導演製作了一部 VR 電影。這部作品改編自台灣作家寫的故事，其中一個故事其實很古老。",
+        "time": null
+      },
+      {
+        "en": "The story is from the Rukai people. Some Rukai hunters see a Formosan clouded leopard. They follow it a long way. It stops on a mountain. The hunters build a village there.",
+        "tw": "很久以前，幾名魯凱族獵人發現了一頭台灣雲豹。他們一路跟著這隻雲豹，走了很遠很遠的路。最後，雲豹停在一座山上，獵人便在那裡建立了村落。",
+        "time": null
+      },
+      {
+        "en": "When you watch this movie, you walk in mountain forests. You look for the leopard. You follow it, like the Rukai hunters!",
+        "tw": "觀眾看這部 VR 電影時，彷彿走進了故事裡面那片山林。你會像當年的魯凱獵人一樣，在森林裡尋找雲豹的蹤跡，一路追著牠跑。",
+        "time": null
+      },
+      {
+        "en": "This VR movie won awards. It won at the Kaohsiung Film Festival. And it won at some famous film festivals in Europe!",
+        "tw": "這部 VR 電影獲得了許多獎項！除了在高雄電影節獲獎外，它也在歐洲好幾個知名影展中受到肯定。",
+        "time": null
+      },
+      {
+        "en": "Now, many people want to learn more about Taiwan. They want to learn more stories of Taiwan's indigenous peoples.",
+        "tw": "越來越多人因為這部電影而想認識台灣，也想了解台灣原住民族的故事。",
+        "time": null
+      },
+      {
+        "en": "That is good, because Taiwan has great stories to tell the world!",
+        "tw": "那很好，因為台灣有很棒的故事可以告訴全世界！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "虛擬實境電影，可以讓觀眾成為電影的一部份。",
+      "content": [
+        {
+          "text": "1. film 電影。 Did you hear? 你聽說了嗎 ? The Film Festival is back in town! 影展要回來了! I've been looking for tickets all morning. 我整個早上都在找電影票。",
+          "time": null
+        },
+        {
+          "text": "2. story 故事。 No way! Are any famous films showing? 不會吧! 有什麼名片嗎? One tells the story of stars and space. 有一部講星星跟太空的故事。",
+          "time": null
+        },
+        {
+          "text": "3. real 真實的。 That’s my favorite theme! 那是我最喜歡的主題! I know. And they made the movie in space for real. 我知道。而且他們是真正在太空裡拍的。",
+          "time": null
+        },
+        {
+          "text": "4. put on 穿戴。 You mean all the workers put on space suits? 你是說所有工作人員都穿上太空衣? Yeah, and they were all floating around. 對，並且都飄來飄去。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you love space films? film電影 story故事 real真實的 put on穿戴"
+    },
+    "quiz": [
+      {
+        "question": "1. What do you put on to watch a VR movie?",
+        "options": [
+          "a. Shoes",
+          "b. A headset",
+          "c. A cap"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What did the Rukai hunters follow?",
+        "options": [
+          "a. A mountain forest",
+          "b. A Formosan clouded leopard",
+          "c. People in Europe"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Where is the film festival in Taiwan?",
+        "options": [
+          "a. Taichung",
+          "b. Hualien",
+          "c. Kaohsiung"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
