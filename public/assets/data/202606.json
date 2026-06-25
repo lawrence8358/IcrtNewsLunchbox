@@ -1800,5 +1800,112 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260626-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Responsible Consumption and Production"
+    ],
+    "title": "The Smart Kumquat Farm",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260625NK.mp3",
+    "content": [
+      {
+        "en": "Do you know what kumquats are? They are a small orange fruit. They are sweet and sour.",
+        "tw": "你知道金棗嗎？金棗是一種酸酸甜甜的柑橘類水果。",
+        "time": null
+      },
+      {
+        "en": "Two farmers in Yilan grow kumquats. They grow them in very smart ways!",
+        "tw": "有兩位在宜蘭的果農用很聰明的方式種植金棗！",
+        "time": null
+      },
+      {
+        "en": "The farmers built a greenhouse. That is a big glass house. Yilan is very rainy. Too much rain is bad for kumquats. The greenhouse keeps the kumquats safe from the rain.",
+        "tw": "宜蘭經常下雨，但太多雨水會影響到金棗的生長。果農於是蓋了一間溫室來遮雨。",
+        "time": null
+      },
+      {
+        "en": "The farmers also use AI. AI watches the water, the air, and the food for the kumquat trees. It helps the kumquats grow well.",
+        "tw": "他們也運用人工智慧來控制澆水灌溉，空氣跟肥料，讓金棗長得更好。",
+        "time": null
+      },
+      {
+        "en": "There is more! The farmers use chickens too. Sometimes there are insects. They eat the kumquats! So the chickens walk around the trees. They eat the insects. They help keep the kumquats clean and safe",
+        "tw": "除此之外，果農還養雞。雞在果樹之間走來走去，吃掉愛吃金棗的昆蟲。",
+        "time": null
+      },
+      {
+        "en": "Before, the farmers did everything. But it was too much work! Now the greenhouse helps them. AI helps them. The chickens help them. Farming is much easier!",
+        "tw": "以前，果農必須親自做所有的工作。現在，溫室、人工智慧跟雞群都可以幫他們分擔壓力，讓工作更輕鬆！",
+        "time": null
+      },
+      {
+        "en": "Now people visit the farm. They pick kumquats. They make kumquat tea or candied kumquats. They have fun!",
+        "tw": "遊客可以來果園採金棗，做成金棗茶或是蜜餞。真好玩！",
+        "time": null
+      },
+      {
+        "en": "This farm is one of the smartest farms in Taiwan!",
+        "tw": "這座農場是台灣最聰明的農場之一！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "宜蘭的金棗很有名，用聰明的辦法種植可以省時省力。",
+      "content": [
+        {
+          "text": "1. farm 農場。\nWhere did you get these strawberries? 你在哪裡買的這些草莓? So sweet! 好甜喔!\nI picked them at a farm today. 我今天在一家農場採的。",
+          "time": null
+        },
+        {
+          "text": "2. fruit 水果。\nYou went to a farm? 你去了一家農場?\nYeah, in Miaoli. 對，在苗栗。The farmer grows several different kinds of fruit. 那個農夫種好幾種不同的水果。",
+          "time": null
+        },
+        {
+          "text": "3. too much 太多。\nTheir pineapples are not good, though. 不過他們的鳳梨不好。There’s been too much rain. 下太多雨了。",
+          "time": null
+        },
+        {
+          "text": "4. what 什麼。\nMaybe AI can help this farmer. 也許AI能幫忙農夫。\nBy telling the rain to stop? 它會叫雨停?\nNo, AI is not a god! 不，AI又不是神! But it can tell him what to grow. 但是它可以告訴農夫種什麼。",
+          "time": null
+        }
+      ],
+      "postscript": "你是否去過農場? farm農場 fruit水果 too much太多 what什麼"
+    },
+    "quiz": [
+      {
+        "question": "1. What are kumquats?",
+        "options": [
+          "a. A small orange fruit",
+          "b. A big glass house",
+          "c. A very smart farmer"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What does AI do for the kumquats?",
+        "options": [
+          "a. Makes them sweet and sour",
+          "b. Watches chickens",
+          "c. Helps them grow well"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What do the chickens do on the farm?",
+        "options": [
+          "a. Play with people",
+          "b. Eat kumquats",
+          "c. Eat insects"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
