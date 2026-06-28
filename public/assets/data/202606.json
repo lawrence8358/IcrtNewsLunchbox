@@ -1907,5 +1907,108 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260629-01",
+    "type": "國小",
+    "tag": [],
+    "title": "The Possum at the Airport",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260626NK.mp3",
+    "content": [
+      {
+        "en": "Many airports have gift shops. An airport in Australia has a gift shop. It sells cute stuffed animals and many other things.",
+        "tw": "很多機場都有禮品店。澳洲一座機場的禮品店內可以買到可愛的絨毛娃娃！",
+        "time": null
+      },
+      {
+        "en": "Someone went to the gift shop. The person looked at the toys: stuffed kangaroos, stuffed koalas, stuffed … huh?!",
+        "tw": "有人在逛禮品店的時候看到袋鼠娃娃，無尾熊娃娃，還有——！",
+        "time": null
+      },
+      {
+        "en": "The person stopped. There was a stuffed possum. It had big brown eyes. But, its eyes were moving! Hey! It was not a stuffed possum! It was not a toy! It was a real possum!",
+        "tw": "一隻負鼠娃娃，有大大的棕色眼睛，但是牠的眼睛竟然在動！ 這隻負鼠不是玩具，而是真的動物！",
+        "time": null
+      },
+      {
+        "en": "The possum sat with the stuffed animals. Its body did not move. It looked like a stuffed animal!",
+        "tw": "這隻負鼠跟其他的動物玩偶站在一起，一動也不動，看起來就像個娃娃！",
+        "time": null
+      },
+      {
+        "en": "The person told a shop worker about the possum. The worker was very surprised! Some airport workers came to look at it. But it did not like people looking at it. It ran away!",
+        "tw": "發現負鼠的人立刻通知店員，一些機場工作人員也跑來看。但是負鼠可不喜歡受到那麼多注意，所以跑掉了！",
+        "time": null
+      },
+      {
+        "en": "The airport workers caught the possum. They took it outside. They let it go. It was not hurt.",
+        "tw": "機場工作人員抓到牠，把牠送回大自然放生。幸好負鼠沒有受傷！",
+        "time": null
+      },
+      {
+        "en": "How did the possum get in the shop? Nobody knows. How long was it there? Nobody knows. Why did it sit with the stuffed animals? Nobody knows.",
+        "tw": "負鼠是怎麼進到店裡的呢，牠在店裡待了多久，又為什麼要和玩偶站在一起呢？沒有人知道！",
+        "time": null
+      },
+      {
+        "en": "Maybe the possum wanted to make new friends!",
+        "tw": "也許負鼠只是想要交新朋友！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "禮品店裡面的絨毛娃娃，居然有一隻真的動物夾在中間!",
+      "content": [
+        {
+          "text": "1. toy 玩具。\nLook at this kangaroo. 你看這隻袋鼠。\nIt’s cute! 好可愛!\nYeah, and it looks so real! 而且看起來像真的!\nWhat if it IS real? 假如它是真的呢?\nThis is a toy store. Not a zoo. 這是玩具店，不是動物園。",
+          "time": null
+        },
+        {
+          "text": "2. real 真實的。\nIf there’s a real kangaroo in this store, 要是這家店裡有一隻真的袋鼠...\nThen we’d better run! 那我們最好快跑!",
+          "time": null
+        },
+        {
+          "text": "3. run away 逃走。\nRun to chase it? 跑去追它嗎?\nNo! Run away from it! 不是，是逃走!\nI didn’t know you’re scared of kangaroos. 我不知道你怕袋鼠。",
+          "time": null
+        },
+        {
+          "text": "4. surprised 驚訝的。\nDo you know how big they are? 你知道牠們有多大嗎? I'd be surprised if you didn't try to run! 要是你不跑我會很驚訝。",
+          "time": null
+        }
+      ],
+      "postscript": "Try to use these words. toy玩具 real真實的 run away逃走 surprised驚訝的"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of shop was the possum in?",
+        "options": [
+          "a. A pet shop",
+          "b. A toy shop",
+          "c. A gift shop"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did the possum do in the shop?",
+        "options": [
+          "a. It sat.",
+          "b. It played.",
+          "c. It ate."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Why did the possum run away?",
+        "options": [
+          "a. Someone wanted to buy it.",
+          "b. A worker took a picture of it.",
+          "c. It did not like people looking at it."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
