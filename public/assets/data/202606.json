@@ -2010,5 +2010,98 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260630-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Two Brothers Make a Change",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260629NK.mp3",
+    "content": [
+      {
+        "en": "Two Brothers Make a Change. Two brothers lived in a big city in India. Lots of people burn trash there. That makes the air dirty. The dirty air made the older brother cough a lot.",
+        "tw": "在印度，很多人燒垃圾，導致空氣變得很髒。有一對兄弟住在印度的大城市裡，髒空氣讓哥哥經常咳嗽。",
+        "time": null
+      },
+      {
+        "en": "A big mountain of trash is near their city. It had a fire! The air got dirtier! That made the older brother cough and cough...",
+        "tw": "有一天，附近的垃圾山發生火災，濃煙讓哥哥咳得更厲害。",
+        "time": null
+      },
+      {
+        "en": "The brothers were fourteen and eleven years old. They wanted to make a change. They wanted a better world. They wanted cleaner air! The brothers started to recycle trash. But they did not have a lot to recycle. So they asked people for trash!",
+        "tw": "14歲跟11歲的兄弟決定要改變現況！為了讓空氣變乾淨，他們想要回收垃圾。他們開始挨家挨戶請居民提供可以回收的物品。",
+        "time": null
+      },
+      {
+        "en": "At first, they got trash from fifteen homes. Now, seven years later, they get trash from thirty thousand homes, schools, and businesses!",
+        "tw": "一開始，他們只從十五戶家庭回收垃圾。七年之後，他們總共從三萬戶家庭、學校和企業回收垃圾！",
+        "time": null
+      },
+      {
+        "en": "The brothers made a group. Its workers sort many kinds of paper, plastics, glass, metal, and e-waste. That makes recycling easier. The brothers have recycled one and a half million kilograms of trash! Their work has won big awards.",
+        "tw": "這對兄弟成立了一個組織，工作人員進行垃圾分類，讓回收更有效率。他們到現在已經回收了一百五十萬公斤的垃圾，也獲得許多重要獎項的肯定。",
+        "time": null
+      },
+      {
+        "en": "Kids can make changes for a better world. The brothers made a change. Can you make one too?",
+        "tw": "孩子們也可以為了更美好的世界做出改變。這對兄弟做到了，你也可以嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "印度這對兄弟，採取實際行動來改善空氣品質。",
+      "content": [
+        {
+          "text": "1. sort 分類。\nWow, what’s happening here? 哇，這裡怎麼了?\nWhy is your living room full of stuff? 你的客廳怎麼放滿了東西?\nIt’s all trash. I'm sorting it to recycle it. 都是垃圾，我正在把它分類好回收。",
+          "time": null
+        },
+        {
+          "text": "2. waste 廢棄物。\nWill you help me? 你可以幫我嗎?\nMe? I can donate my old cellphone. 我?我可以捐出舊手機。\nGood! E-waste goes there. 真好，電子廢棄物在那一邊。",
+          "time": null
+        },
+        {
+          "text": "3. metal 金屬。\nYou also collect batteries? 你也收集電池?\nI do. There’s metal in them that can be recycled. 對，電池有金屬可以回收。",
+          "time": null
+        },
+        {
+          "text": "4. world 世界。\nTrying to save the world? 想要拯救世界?\nWhy not? 為什麼不呢?\nI like a cleaner world. 我喜歡更乾淨的世界。",
+          "time": null
+        }
+      ],
+      "postscript": "來跟我一起讀單字。\nsort分類 waste廢棄物 metal金屬 world世界"
+    },
+    "quiz": [
+      {
+        "question": "1. What made the older brother cough a lot?",
+        "options": [
+          "a. Dirty air",
+          "b. Businesses",
+          "c. Big awards"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How many homes did the brothers get trash from at first?",
+        "options": [
+          "a. Seven",
+          "b. Fifteen",
+          "c. Thirty thousand"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do the workers do with the trash?",
+        "options": [
+          "a. Sort it",
+          "b. Clean it",
+          "c. Burn it"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
