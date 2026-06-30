@@ -1,0 +1,104 @@
+ [
+  {
+    "id": "20260701-01",
+    "type": "國小",
+    "tag": [
+      "Dogs",
+      "Pets",
+      "Technology"
+    ],
+    "title": "TV for Dogs",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260630NK.mp3",
+    "content": [
+      {
+        "en": "Who’s a good dog?! Dogs are great! When we come home, they show us love and happiness! They make us laugh. They make us walk! We play with them.",
+        "tw": "誰是乖狗狗？！狗狗真棒！回到家的時候，狗狗會用愛與快樂讓我們開懷大笑！我們和狗狗出門散步、玩遊戲，度過快樂的時光。",
+        "time": null
+      },
+      {
+        "en": "Dogs want to be with others. They want to do everything together. That is why they look so happy to see us!",
+        "tw": "狗是群居動物，喜歡跟別人待在一起，也喜歡一起做各種事情。所以每次看到我們回家的時候，牠們總是特別興奮！",
+        "time": null
+      },
+      {
+        "en": "When we go out, we worry. Our dogs do not want to be alone. But we cannot be with them all the time…",
+        "tw": "不過，當我們出門的時候，也會擔心家裡的狗狗。牠們不喜歡孤單，但我們又不可能隨時陪在牠們的身邊……",
+        "time": null
+      },
+      {
+        "en": "What can we do?! We can go online and find... TV for dogs! TV for dogs are videos made for dogs.",
+        "tw": "那該怎麼辦呢？其實，我們可以上網找「狗狗電視」！這是專門為狗狗設計的影片。",
+        "time": null
+      },
+      {
+        "en": "Our dogs can watch other dogs, other animals, fun toys, and much more! They can watch them in blue and yellow. Those are the colors dogs see best.",
+        "tw": "牠們可以看其他的狗、各種動物、有趣的玩具等等。影片中的畫面也會以藍色跟黃色為主，因為這是狗狗最容易看清楚的顏色。",
+        "time": null
+      },
+      {
+        "en": "Thunder, fireworks, and other loud sounds can scare our dogs. TV for dogs does not scare dogs with sounds. Our dogs can listen to calm music and nice sounds.",
+        "tw": "打雷、放煙火或其他巨大聲響，常常會讓狗狗感到害怕。但狗狗電視不會播放會嚇到牠們的聲音。相反地，裡面有舒緩的音樂跟輕鬆的自然聲響。",
+        "time": null
+      },
+      {
+        "en": "Now we do not have to worry. We can go to school or work. Our dogs will not feel alone!",
+        "tw": "現在我們不用擔心了。我們可以去上學或工作。我們的狗狗將不會感到孤獨！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "狗是群居動物，不喜歡孤獨。現在有新的辦法陪伴狗狗。",
+      "content": [
+        {
+          "text": "1. music 音樂。\nHey, are those your headphones Buddy is wearing? 巴弟戴著你的耳機嗎?\nYeah, Buddy likes soft music. 是的，巴弟喜歡輕柔的音樂。\nDogs like music? That’s news to me. 狗狗喜歡音樂?這可是新聞。",
+          "time": null
+        },
+        {
+          "text": "2. sound 聲音。\nThey really do. 牠們真的喜歡。\nThey’re scared of loud and noisy sounds. 牠們害怕吵鬧的聲音。\nBut why the headphones? 但是為什麼戴耳機?\nOh, I don’t want music when I’m watching TV. 我看電視的時候不要有音樂。",
+          "time": null
+        },
+        {
+          "text": "3. listen 注意聽。\nSo you watch TV and Buddy listens to music. 所以你看電視，巴弟聽音樂。",
+          "time": null
+        },
+        {
+          "text": "4. all the time 整天。\nI can’t be with Buddy all the time. 我不能整天跟牠在一起。\nMusic makes him feel less alone. 音樂讓牠比較不孤單。",
+          "time": null
+        }
+      ],
+      "postscript": "你記得今天的單字嗎?\nmusic音樂 sound聲音 listen注意聽 all the time整天"
+    },
+    "quiz": [
+      {
+        "question": "1. Where can we find TV for dogs?",
+        "options": [
+          "a. On a bus",
+          "b. At school",
+          "c. Online"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What kind of sounds does TV for dogs have?",
+        "options": [
+          "a. Nice sounds",
+          "b. Loud sounds",
+          "c. Thunder"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What colors can dogs see best?",
+        "options": [
+          "a. Red and blue",
+          "b. Blue and yellow",
+          "c. Yellow and red"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  }
+]
