@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20260701-01",
     "type": "國小",
@@ -95,6 +95,112 @@
           "a. Red and blue",
           "b. Blue and yellow",
           "c. Yellow and red"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
+  },
+  {
+    "id": "20260702-01",
+    "type": "國小",
+    "tag": [
+      "Travel",
+      "Adventure"
+    ],
+    "title": "A Long, Crazy Drive to South Africa",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260701NK.mp3",
+    "content": [
+      {
+        "en": "Do you like to go for long drives? How long is your longest drive? Two men wanted to go for a very long drive. They wanted to start in the U.K. They wanted to drive to South Africa! How crazy!",
+        "tw": "你喜歡開車長途旅行嗎？有兩名男子有個瘋狂的想法。他們想從英國出發，一路開車到南非！",
+        "time": null
+      },
+      {
+        "en": "The men got a small car. It has three wheels. One is in the front. Two are in the back. The car is 25 years old!",
+        "tw": "他們找來一輛三輪小汽車。這輛老車有已經有二十五年車齡了！",
+        "time": null
+      },
+      {
+        "en": "This old car is not strong. But the men drove it in wet jungles. They drove it in hot, dry deserts. They drove it up and down mountains! That is crazy!",
+        "tw": "這兩人開著老車穿越潮濕的叢林與乾燥的沙漠。老車翻山越嶺，太不可思議了！",
+        "time": null
+      },
+      {
+        "en": "The car broke down many times. But people in Africa fixed it every time! How lucky!",
+        "tw": "這台車在路上故障了很多次。但幸運的是，總會有人能幫他們修好！",
+        "time": null
+      },
+      {
+        "en": "The men drove and drove. They drove in 22 countries! They saw elephants! Giraffes ran next to their car!",
+        "tw": "這兩名男子開車穿越了二十二個國家！他們還看見了大象跟長頸鹿在車旁奔跑！",
+        "time": null
+      },
+      {
+        "en": "Sometimes there was danger. A bus almost hit them. And in some countries, there were wars. Whoa, how scary…",
+        "tw": "在這趟旅程中，他們差一點與巴士擦撞，還經過深陷戰亂的國家，十分危險。",
+        "time": null
+      },
+      {
+        "en": "The men drove 22,000 kilometers! That is the longest drive for a car with three wheels.",
+        "tw": "他們總共行駛了二萬二千公里，創下了三輪汽車最長行駛距離的新紀錄！",
+        "time": null
+      },
+      {
+        "en": "What a crazy drive! Where will these two men drive next?",
+        "tw": "這是一段多麼瘋狂的旅程！這兩位男子接下來會開往哪裡呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這兩名男士開著三個輪子的汽車，花了一百多天穿越非洲。",
+      "content": [
+        {
+          "text": "1. longest 最長的。\nHow long was your longest ride in a car? 你坐過最長的一趟車程有多長?\nHmmm, about 700 kilometers from Ulaanbaatar to Gobi. 大約七百公里，從烏蘭巴托到戈壁。",
+          "time": null
+        },
+        {
+          "text": "2. country 國家。\nIn Mongolia? 在蒙古?\nYeah. It’s a big country. 對，它是個很大的國家。",
+          "time": null
+        },
+        {
+          "text": "3. desert 沙漠。\nDid you see deserts and sand dunes? 有看到沙漠跟沙丘嗎?\nOh yes. The scenery was amazing! 有，很精采的風景!",
+          "time": null
+        },
+        {
+          "text": "4. break down 拋錨。\nLucky you! 你很幸運! I was once stuck on a bus in Canada. 我有一次被卡在加拿大的巴士上。\nOh no. 真糟糕。\nIt broke down after 5 hours. 它開了五個小時，然後拋錨了。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡坐車嗎? 來讀單字。\nlongest最長的 country國家 desert沙漠 break down拋錨"
+    },
+    "quiz": [
+      {
+        "question": "1. Where did the men start the drive?",
+        "options": [
+          "a. In the U.S.",
+          "b. In Taiwan",
+          "c. In the U.K."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many wheels does the men's car have?",
+        "options": [
+          "a. It has 3 wheels.",
+          "b. It has 4 wheels.",
+          "c. It has 25 wheels."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What animals ran next to their car?",
+        "options": [
+          "a. Elephants",
+          "b. Giraffes",
+          "c. Lions"
         ],
         "time": null,
         "answer": "b"
