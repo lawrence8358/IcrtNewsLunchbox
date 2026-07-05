@@ -206,5 +206,111 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260706-01",
+    "type": "國小",
+    "tag": [
+      "Health",
+      "Science"
+    ],
+    "title": "A Little Dark Chocolate Might Be Good for You",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260703NK.mp3",
+    "content": [
+      {
+        "en": "Did you know our bodies can be younger or older than we are? Maybe you are ten, but your body is twelve!",
+        "tw": "你可知道，我們身體的年齡可能會比實際年齡年輕或者年老呢?",
+        "time": null
+      },
+      {
+        "en": "Our bodies' age shows how worn out our cells are. How do scientists know they are wearing out?",
+        "tw": "身體年齡從細胞衰退的程度可以看出來。那麼科學家怎麼知道細胞正在衰退呢？",
+        "time": null
+      },
+      {
+        "en": "Each cell has chromosomes. A chromosome looks like an \"X.\" It has four ends. There is a cap on each end. The four caps keep the chromosome safe.",
+        "tw": "每個細胞裡都有染色體。染色體看起來像個英文字母「X」，一共有四個末端。每個末端都有一個用來保護染色體的小帽子。",
+        "time": null
+      },
+      {
+        "en": "But as a cell gets worn out, the caps get shorter. That is how scientists know.",
+        "tw": "隨著細胞衰退或是變弱，保護帽會越變越短。科學家用這個來做判斷。",
+        "time": null
+      },
+      {
+        "en": "But what can stop the caps from getting shorter? Can dark chocolate help? Some scientists are studying it!",
+        "tw": "現在，有些科學家正在研究，怎麼樣讓保護帽變短的過程慢下來。",
+        "time": null
+      },
+      {
+        "en": "The scientists found that people who eat dark chocolate have longer caps than people who do not eat it. The longer caps mean their chromosomes look younger!",
+        "tw": "研究發現，常吃黑巧克力的人，保護帽比不吃的人長！保護帽越長，代表染色體越年輕！",
+        "time": null
+      },
+      {
+        "en": "But wait! We cannot eat all the dark chocolate we want! It has sugar and fat too. So scientists say a little dark chocolate with lots of cocoa is okay.",
+        "tw": "但是不能開懷大吃黑巧克力喔！它含有糖跟脂肪，所以科學家建議我們吃一點就好。",
+        "time": null
+      },
+      {
+        "en": "Scientists are learning more. But for now, a little dark chocolate might be good for your body! Yum!",
+        "tw": "科學家正在了解更多。但目前來說，吃一點黑巧克力可能對你的身體有益！真好吃！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家正在研究，如何讓人體老化的速度變慢。",
+      "content": [
+        {
+          "text": "1. younger 比較年輕。\nLook at this photo of me when I was younger. 你看我比較年輕時的照片。Wow, you look so different! 哇，你看起來很不一樣!",
+          "time": null
+        },
+        {
+          "text": "2. longer 比較長。\nHow so? 怎麼說?\nYour hair was longer, 頭髮比較長，and you looked like a teenager! 而且看起來才十幾歲!\nCome on, I wasn’t that young! 好啦，沒那麼年輕!",
+          "time": null
+        },
+        {
+          "text": "3. wear out 變弱，或是衰退。\nHey, you don’t look old now. 你現在看起來也並不老!\nBut I feel worn out all the time. 但是我經常覺得好累。\nYou just need a vacation. 你只是需要去度假。",
+          "time": null
+        },
+        {
+          "text": "4. body 身體。\nDefinitely! It’ll be good for my body and soul. 一定要的! 對我的身體和靈魂都有好處!",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字? younger比較年輕 longer比較長 wear out變弱，衰退 body身體"
+    },
+    "quiz": [
+      {
+        "question": "1. How many caps does one chromosome have?",
+        "options": [
+          "a. Three caps",
+          "b. Four caps",
+          "c. Five caps"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What happens when a cell gets worn out?",
+        "options": [
+          "a. The caps get shorter.",
+          "b. The caps get longer.",
+          "c. The caps get stronger."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did the scientists study?",
+        "options": [
+          "a. Hot chocolate",
+          "b. Milk chocolate",
+          "c. Dark chocolate"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
