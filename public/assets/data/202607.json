@@ -312,5 +312,112 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260707-01",
+    "type": "國小",
+    "tag": [
+      "Life on Land",
+      "Environmental Education",
+      "Natural Sciences"
+    ],
+    "title": "Rice Seeds Feel the Sound of Rain",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260706NK.mp3",
+    "content": [
+      {
+        "en": "What makes seeds grow into plants?",
+        "tw": "是什麼讓種子長成一棵一棵植物？",
+        "time": null
+      },
+      {
+        "en": "We put seeds in water or the ground. We do this when the weather is good for them. We water seeds in the ground. Then we wait. The seeds start to grow.",
+        "tw": "天氣好的時候播種，把種子放進土裡或水中，並且替土裡的種子澆水。然後就等它發芽。",
+        "time": null
+      },
+      {
+        "en": "Two scientists thought sounds might make seeds grow too. Then, they found the sound of raindrops makes rice seeds grow!",
+        "tw": "有兩位科學家發現，雨滴落下的聲音似乎能讓稻米種子生長變快！",
+        "time": null
+      },
+      {
+        "en": "But, how does the sound of raindrops do this? Seeds do not have ears!",
+        "tw": "但這是怎麼回事？種子又沒有耳朵！",
+        "time": null
+      },
+      {
+        "en": "A raindrop can shake the water and the ground. The seeds feel the shaking. It moves very small parts in the seeds. The seeds start to grow. And, they grow faster than seeds that did not feel any shaking from raindrops!",
+        "tw": "原來雨滴落到地面上會產生震動，種子感覺到這種震動就開始發芽，而且比沒有感受到震動的種子長得快！",
+        "time": null
+      },
+      {
+        "en": "How much faster do the seeds grow? Scientists tried raindrops for light, medium, and heavy rain. With raindrops for medium and heavy rain, the seeds grow 30 to 40 percent faster.",
+        "tw": "科學家模擬了小雨、中雨跟大雨三種情況。他們發現，在中雨跟大雨的震動下，種子的生長速度可以提高百分之三十到四十！",
+        "time": null
+      },
+      {
+        "en": "Scientists want to study other natural sounds. Maybe seeds can feel the sound of the wind!",
+        "tw": "現在，科學家還想研究其他的大自然的聲音。也許種子也能感受到風的聲音喔！",
+        "time": null
+      },
+      {
+        "en": "Can you think of other natural sounds? Maybe you will find one that makes seeds grow faster too!",
+        "tw": "你能想到其他大自然的聲音嗎？也許你也會發現一個能讓種子長得更快的聲音！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "種子可以感覺到土地的震動，而調整它的發芽生長。",
+      "content": [
+        {
+          "text": "1. sound 聲音。\nIs that the sound of raindrops? 那是下雨的聲音嗎?\nYeah, it’s raining… again! 對，又下雨了!\nBut we had sunshine this morning! 但是早上還有太陽的!",
+          "time": null
+        },
+        {
+          "text": "2. plant 植物。\nThink of it this way. 你可以這麼想。 It’s good for the plants. 下雨對植物好。 But not good for me! 但是對我不好。",
+          "time": null
+        },
+        {
+          "text": "3. faster 快一點。\nWell, you want your tomatoes to grow faster, don’t you? 你不是想要你的番茄長快一點?\nYeah, true. I can’t wait to use them for my pasta. 真的，我等不及做義大利麵要用了。",
+          "time": null
+        },
+        {
+          "text": "4. weather 天氣。\nThen you should love this weather. 那你應該喜歡這天氣。\nYeah, for my dinner. 好吧，為了我的晚餐。",
+          "time": null
+        }
+      ],
+      "postscript": "你有種過什麼植物嗎?來讀單字。sound聲音 plant植物 faster快一點 weather天氣"
+    },
+    "quiz": [
+      {
+        "question": "1. What seeds did the scientists study?",
+        "options": [
+          "a. Rice seeds",
+          "b. Apple seeds",
+          "c. Sunflower seeds"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What made the seeds grow faster?",
+        "options": [
+          "a. The sound of wind",
+          "b. The sound of raindrops",
+          "c. The sound of sunlight"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How much faster did the seeds grow?",
+        "options": [
+          "a. 10 to 20 percent",
+          "b. 30 to 40 percent",
+          "c. 50 to 60 percent"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
