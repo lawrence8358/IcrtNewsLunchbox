@@ -419,5 +419,108 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260708-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Taiwan has World’s Best Latte Art Maker",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260707NK.mp3",
+    "content": [
+      {
+        "en": "Some people can make pretty pictures... in coffee! They make them with very, very small milk bubbles. The pictures are called latte art.",
+        "tw": "有些人可以在咖啡的表面，用很小的牛奶泡泡畫出各種圖案，這叫做咖啡拉花。",
+        "time": null
+      },
+      {
+        "en": "A man from Taiwan started making latte art 12 years ago. He started competing in latte art contests eight years ago.",
+        "tw": "一名臺灣男子學習咖啡拉花已經十二年。八年前，他開始參加比賽。",
+        "time": null
+      },
+      {
+        "en": "This year, he wanted to compete in a big contest in the U.S. Before the contest, he trained for four months. Every day, he made 100 drinks with latte art! About 100 people helped him with money, training, and many other things!",
+        "tw": "今年，他想參加在美國舉行的大型比賽。為了這場比賽他訓練了四個月，每天做一百次拉花！一百多人提供資金，支持他訓練。",
+        "time": null
+      },
+      {
+        "en": "The man went to the contest. Thirty-three people from around the world competed. They made a lot of latte art very fast!",
+        "tw": "然後他前往美國，跟來自世界各地的選手較量，他們必須在短時間做出許多拉花作品。",
+        "time": null
+      },
+      {
+        "en": "At the end, the man made six drinks in 10 minutes! He made pictures of a raccoon, a giraffe, and red pandas.",
+        "tw": "這名男子在十分鐘內完成了六杯咖啡拉花！他在飲料上畫出浣熊、長頸鹿跟小貓熊。",
+        "time": null
+      },
+      {
+        "en": "And, the man won the contest! Now Taiwan has the best maker of latte art in the world!",
+        "tw": "結果他贏了比賽！現在，臺灣擁有世界第一的咖啡拉花大師！",
+        "time": null
+      },
+      {
+        "en": "This man says you should do what you love to do. He says great things can happen when you do that!",
+        "tw": "他說只要全心投入自己熱愛的事，就有機會創造出偉大的成就！",
+        "time": null
+      },
+      {
+        "en": "What do you love to do?",
+        "tw": "你熱愛做什麼呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "咖啡拉花也有世界冠軍，今年是由台灣選手獲得!",
+      "content": [
+        {
+          "text": "1. art 藝術。\nWow, my coffee has a rose on it! 哇，我的咖啡上面有一朵玫瑰。\nMine has a cat! 我的有一隻貓!\nOur coffee lady makes perfect latte art! 我們的咖啡女士會做完美的拉花。",
+          "time": null
+        },
+        {
+          "text": "2. do 做。\nI’ve tried to do this at home. 我在家裡試著做。 It’s hard! 好難喔!\nI know. It takes time to learn the trick. 我知道，要花不少時間才能學到訣竅。",
+          "time": null
+        },
+        {
+          "text": "3. pretty 美麗的。\nIt’s worth it. 很值得。Just look at the pretty picture! 看看這個漂亮的圖案!",
+          "time": null
+        },
+        {
+          "text": "4. contest 比賽。\nDid you know that she joined latte art contests? 你知道她參加過拉花比賽嗎? Our coffee lady? 我們的咖啡女士? Did she win? 她有沒有贏?\nYep, more than once. 贏了，還不止一次。",
+          "time": null
+        }
+      ],
+      "postscript": "你想學學看這項手藝嗎? art藝術 do做 pretty美麗的 contest比賽"
+    },
+    "quiz": [
+      {
+        "question": "1. Where was the contest?",
+        "options": [
+          "a. The U.K.",
+          "b. Taiwan",
+          "c. The U.S."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How did the man train every day?",
+        "options": [
+          "a. He made 100 drinks with latte art.",
+          "b. He ran 33 kilometers.",
+          "c. He drank six drinks in ten minutes."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What animal did the man make with latte art?",
+        "options": [
+          "a. An elephant",
+          "b. A giraffe",
+          "c. A dog"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
