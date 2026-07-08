@@ -522,5 +522,98 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260709-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Man Runs to Help Scientists and Blind People",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260708NK.mp3",
+    "content": [
+      {
+        "en": "Narrator: Scientists around the world worry about blindness. When people cannot see, their lives are not easy. So one blind man ran a marathon. That is more than 42 kilometers! People gave him money for running. He helps blind people and scientists with the money.",
+        "tw": "當人們看不見的時候，生活會變得很困難。一位失明的男子決定挑戰馬拉松賽！許多人捐款給他，而他用這個錢來支持視障人士和科學研究。",
+        "time": null
+      },
+      {
+        "en": "How did the man run safely? He wore smart glasses! He could not see, but the glasses have a camera. The camera works with an app.",
+        "tw": "但是他要怎麼安全地完成比賽？他戴上一付智慧眼鏡，眼鏡上裝了攝影機。",
+        "time": null
+      },
+      {
+        "en": "Other people had the app too. They saw the marathon from the man's smart glasses! These people were his eyes! The people talked to the man. They told him where to go. Person A: “Turn right!” And they cheered him. Person B: “You can do it!”",
+        "tw": "其他人下載他的智慧眼鏡應用程式，就可以用那付眼鏡看馬拉松賽，參賽的盲眼男子則是用聽的。他們一路告訴男子該往右還是往左，也不斷替他加油。",
+        "time": null
+      },
+      {
+        "en": "Narrator: The man finished the marathon! He raised one hundred fifteen thousand Taiwan dollars! It will help blind people have better lives. It will help scientists find ways to stop blindness.",
+        "tw": "結果男子順利跑完馬拉松，還獲得十一萬五千元台幣捐款！他將支持科學家研究預防失明的方法，幫助視障人士過更好的生活。",
+        "time": null
+      },
+      {
+        "en": "Scientists in Taiwan worry about blindness too. Most young Taiwanese cannot see well. Doctors say being outside for two hours a day helps kids see better.",
+        "tw": "科學家擔心很多臺灣年輕人都有近視，醫生說，每天到戶外活動兩個小時，有助於保護視力。",
+        "time": null
+      },
+      {
+        "en": "Go outside! Your eyes need it!",
+        "tw": "到戶外走走吧！你的眼睛需要它！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這位雙眼失明的男子，不但跑完馬拉松，還能募款。",
+      "content": [
+        {
+          "text": "1. glasses 眼鏡。\nAre you really running the Taipei Marathon this weekend? 你這周末真的要去跑台北馬拉松?\nI am! I can’t wait! 對，我等不及了!\nBut you wear glasses. 但是你戴眼鏡。\nThat won’t be a problem. 那不是問題。",
+          "time": null
+        },
+        {
+          "text": "2. blind 眼盲的。\nWhat if you lose them? 要是眼鏡掉了怎麼辦? You’ll be blind! 你會變成盲人!\nNot blind, just a little blurry. 不會是盲人，只是看東西有點模糊。",
+          "time": null
+        },
+        {
+          "text": "3. worry 擔憂。\nActually I’m more worried about my legs than my eyes. 其實我更擔心我的腿，而不是眼睛。",
+          "time": null
+        },
+        {
+          "text": "4. cheer 加油。\nI’ll be there to cheer you on. 我會去替你加油。\nThank you! 謝謝! Just don’t expect me to win. 只是別期待我會贏。",
+          "time": null
+        }
+      ],
+      "postscript": "我們一起來讀單字。glasses眼鏡 blind眼盲的 worry擔憂 cheer加油"
+    },
+    "quiz": [
+      {
+        "question": "1. How long is a marathon?",
+        "options": [
+          "a. More than 42 kilometers",
+          "b. Up to 90 centimeters",
+          "c. 115 meters"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What did the man wear to run safely?",
+        "options": [
+          "a. Smart shoes",
+          "b. A smart suit",
+          "c. Smart glasses"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What do doctors say helps kids see better?",
+        "options": [
+          "a. Running marathons",
+          "b. Being outside",
+          "c. Worrying about blindness"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
