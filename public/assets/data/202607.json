@@ -615,5 +615,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260710-01",
+    "type": "國小",
+    "tag": [
+      "Animals",
+      "Zoo",
+      "Chimpanzee"
+    ],
+    "title": "Do These Chimps Want New Jobs?",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260709NK.mp3",
+    "content": [
+      {
+        "en": "Do These Chimps Want New Jobs? One day at a zoo in Kaohsiung, chimpanzees had newspapers and books! The chimps put them close to their faces. They looked and looked at them.",
+        "tw": "有一天，高雄的某一座動物園裡有黑猩猩在讀報紙和書！",
+        "time": null
+      },
+      {
+        "en": "One chimp had a picture book. One took a newspaper from another chimp. And one looked at job ads in a newspaper!",
+        "tw": "一隻黑猩猩手上拿著故事書，有兩隻猩猩在搶報紙，還有一隻在看報紙上的求職廣告！",
+        "time": null
+      },
+      {
+        "en": "Kids were visiting the zoo. They laughed at this chimp's newspaper. Job ads tell people where to find work. Maybe the chimp did not want to be at the zoo. Maybe it wanted a new job!",
+        "tw": "到動物園參觀的小朋友 看到黑猩猩看求職廣告都笑了。也許牠不愛動物園，想找新工作！",
+        "time": null
+      },
+      {
+        "en": "Were the chimps reading? No! Chimps cannot read! If they could read, maybe all of the zoo's chimps would find new jobs!",
+        "tw": "當然，黑猩猩不識字，也不會真的看報紙！",
+        "time": null
+      },
+      {
+        "en": "The zookeepers gave the chimps these newspapers and books. They made them with cardboard and newspapers. They cut small holes in the cardboard. Then they put sunflower seeds in the holes! Ooohh!",
+        "tw": "其實，這些報紙和書本是動物園管理員做的。他們在紙板跟報紙上挖出小洞，並把葵花子藏進洞裡。",
+        "time": null
+      },
+      {
+        "en": "It was a good day at the zoo. The chimps ate tasty sunflower seeds. The kids and zookeepers laughed a lot. They went home happy!",
+        "tw": "今天黑猩猩吃到了美味的葵花子，小朋友和管理員也開心歡笑，帶著愉快的心情回家。",
+        "time": null
+      },
+      {
+        "en": "But maybe the chimps thought about what kind of jobs they wanted! Hmm....",
+        "tw": "但說不定這些黑猩猩正在思考牠們想要什麼樣的工作呢！嗯...",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "黑猩猩不是真的在閱讀，而是在找美味的葵花子。",
+      "content": [
+        {
+          "text": "1. job 工作。\nI wonder if being a zookeeper is a good job. 不知道動物園管理員是不是好工作。\nDid you just watch “We Bought a Zoo?” 你是不是剛剛看了[我們買了動物園]?\nGood guess! 猜得真對!",
+          "time": null
+        },
+        {
+          "text": "2. find 覺得。\nBut that movie didn’t have any chimpanzees. 不過那部電影裡沒有黑猩猩。\nI just love chimps! 我就愛黑猩猩!\nI can’t believe you find them cute. 難以置信你覺得黑猩猩可愛。",
+          "time": null
+        },
+        {
+          "text": "3. laugh at 嘲笑。\nThey are. They even laugh at each other. 是很可愛，牠們甚至會互相嘲笑。",
+          "time": null
+        },
+        {
+          "text": "4. maybe 也許。\nHow can you tell? 你怎麼知道?\nBecause they laugh at me too! 因為牠們也會笑我!\nOr maybe they’re just happy to see you. 也許牠們只是高興看到你。",
+          "time": null
+        }
+      ],
+      "postscript": "你想要什麼樣的工作?\njob工作 find覺得 laugh at嘲笑 maybe也許"
+    },
+    "quiz": [
+      {
+        "question": "1. What do job ads tell people about?",
+        "options": [
+          "a. Today's news",
+          "b. How to become a zookeeper",
+          "c. Where to find work"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did zookeepers put in the holes?",
+        "options": [
+          "a. Picture books",
+          "b. Bananas",
+          "c. Sunflower seeds"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did the chimps do that day?",
+        "options": [
+          "a. They read.",
+          "b. They ate.",
+          "c. They laughed."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
