@@ -717,5 +717,113 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260713-01",
+    "type": "國小",
+    "tag": [],
+    "title": "The Kites of India",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260710NK.mp3",
+    "content": [
+      {
+        "en": "The Kites of India",
+        "tw": "印度的風箏",
+        "time": null
+      },
+      {
+        "en": "In India, people fly kites. They have been flying kites for hundreds of years. At festivals, thousands of colorful kites fly. Some people fly them from the tops of buildings! Kites high in the sky are beautiful!",
+        "tw": "印度人喜歡放風箏，這項活動已經有好幾百年的歷史。每到節慶的時候，就能看到成千上萬個彩色風箏在空中飛揚，非常美麗！",
+        "time": null
+      },
+      {
+        "en": "Flying kites is fun. But every year, fewer and fewer people fly them. Why?",
+        "tw": "放風箏很有趣，但為什麼放風箏的人每年都越來越少？",
+        "time": null
+      },
+      {
+        "en": "India is getting hotter. People like to stay inside. They use their phones. Kids play video games. They watch TV.",
+        "tw": "其中一個原因是，印度的天氣越來越熱。比起在戶外放風箏，很多人寧願待在室內，邊吹電扇邊滑手機、看電視。",
+        "time": null
+      },
+      {
+        "en": "Kites can be dangerous too. Some people like kite fighting. They try to cut another kite's string. One kite falls. The other kite wins!",
+        "tw": "另外，放風箏有時後也有危險。有些人喜歡「鬥風箏」。他們會想辦法割斷別人的風箏線。只要讓對方的風箏掉下來，玩家就獲勝了！",
+        "time": null
+      },
+      {
+        "en": "These kites have strong strings. Some have glass or metal on them. They are very sharp! They are good at cutting strings.",
+        "tw": "有些人會在風箏線黏上玻璃或是金屬，讓線變得更鋒利、攻擊力更強。",
+        "time": null
+      },
+      {
+        "en": "The kite strings fall with the kites. They can cut people too. Some people get bad cuts. And every year, these kite strings kill a few people…",
+        "tw": "但是當風箏掉下來，這些鋒利的線可能會割傷人。每年都有人因此喪命。",
+        "time": null
+      },
+      {
+        "en": "But some people have not stopped flying kites. Kites are part of India's story. They hope more people will fly kites!",
+        "tw": "儘管如此，還是有人喜愛風箏。它是印度文化重要的一部分，他們希望未來有更多人放風箏。",
+        "time": null
+      },
+      {
+        "en": "Do you like kites? Taiwan has a kite festival too! Go fly a kite there!",
+        "tw": "你喜歡風箏嗎？台灣也有風箏節喔！去那裡放風箏吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "印度放風箏的人變少了，喜歡這項活動的人想找出原因。",
+      "content": [
+        {
+          "text": "1. fewer and fewer 越來越少。\nIt seems there are fewer and fewer butterflies every year. 蝴蝶好像每年都在變少。\nYou are right! 你說得對! When I was little, 我小時候， I saw many butterflies in our backyard every day. 每天都在我家後院看到好多蝴蝶。",
+          "time": null
+        },
+        {
+          "text": "2. colorful 彩色的。\nMe too, especially in the summertime. 我也是，特別在夏天。\nYeah, big and colorful butterflies everywhere. 對啊，到處都是又大又繽紛的蝴蝶。",
+          "time": null
+        },
+        {
+          "text": "3. hotter 更熱。\nNow I’m lucky if I see a few. 現在看到幾隻就算幸運了。\nI think it's because the weather keeps getting hotter. 我想是因為天氣一直變熱。",
+          "time": null
+        },
+        {
+          "text": "4. dangerous 危險的。\nHeat waves can be dangerous for them. 熱浪對牠們可能造成危險。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。fewer and fewer越來越少 colorful彩色的 hotter更熱的 dangerous危險的"
+    },
+    "quiz": [
+      {
+        "question": "1. How long have people in India been flying kites?",
+        "options": [
+          "a. A few years",
+          "b. Hundreds of years",
+          "c. Thousands of years"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why do people like to stay inside now?",
+        "options": [
+          "a. It is getting hotter.",
+          "b. There are no kites.",
+          "c. Kites are fun."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What is trying to cut another kite's string called?",
+        "options": [
+          "a. Kite dancing",
+          "b. Kite racing",
+          "c. Kite fighting"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
