@@ -927,5 +927,93 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260715-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Fans Go to Temples for Concert Tickets",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260714NK.mp3",
+    "content": [
+      {
+        "en": "Do you like going to concerts? It is exciting to see your favorite singers!",
+        "tw": "你有去演唱會追星過嗎? 親眼看到喜歡的歌手會很開心!",
+        "time": null
+      },
+      {
+        "en": "But sometimes good tickets are hard to get. They sell fast! So some fans stay up late to get tickets online. Some learn to type fast. Then they can get tickets online fast!",
+        "tw": "熱門的票券經常很難搶，所以很多粉絲會想盡辦法弄到票。",
+        "time": null
+      },
+      {
+        "en": "But guess what more and more fans are doing? They are going to temples! Fans are going to temples for Yue Lao. He is famous. He helps people find love. Some fans say seeing their favorite singers is like trying to find love! They say Yue Lao can help them get good tickets!",
+        "tw": "也有人請神明來幫忙！粉絲會去月老廟祈求助一臂之力！他們相信既然能幫信徒找到愛情，也能幫他們搶到演唱會門票！",
+        "time": null
+      },
+      {
+        "en": "Many people give fruit and snacks at temples. Fans give these to Yue Lao too. But some also give him pictures or dolls of their favorite singers. Some give him food their favorite singers like. Fans also write to Yue Lao. They write the concert name and the singer's name. They ask for good tickets. They are doing something new with an old way!",
+        "tw": "很多人會把零食和水果作為供品，也會帶歌手的照片、娃娃、或歌手喜歡的食物，也在卡片上寫好演唱會跟歌手的資訊給月老看，以免他搞錯人！",
+        "time": null
+      },
+      {
+        "en": "Is there a singer you want to see? Can Yue Lao help?",
+        "tw": "有沒有你想見的歌手呢？月老能不能幫上忙？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "大明星表演的門票經常秒殺，歌迷只好另外想辦法。",
+      "content": [
+        {
+          "text": "1. ticket 門票。\nYou’ve been sitting there for an hour.你坐在那裏一個鐘頭了。Did you get the tickets or not? 究竟買到票沒有?\nI don’t know.我不知道。",
+          "time": null
+        },
+        {
+          "text": "2. stay up 熬夜。\nFor 3 seconds I thought I did.有三秒鐘我以為買到了。But then it went back to circling.但是它又回去轉圈圈。\nYou already stayed up until 2AM last night! 你昨晚已經熬夜到兩點。",
+          "time": null
+        },
+        {
+          "text": "3. get 得到。\nI know, and I really don’t want to do that tonight.我知道，今天晚上真的不想那樣了。\nThen give it up. 那放棄吧。They are too hard to get.票太難買了。",
+          "time": null
+        },
+        {
+          "text": "4. fan 歌迷，或是影迷。\nGive up? Never! 放棄?絕不! I’ve waited for them forever! 我等他們一輩子了!\nWow, you really are a true fan ! 哇，你還真的是忠實歌迷!",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很常用。ticket門票 stay up熬夜 get得到 fan歌迷，或是影迷"
+    },
+    "quiz": [
+      {
+        "question": "1. Where are more and more fans of singers going?",
+        "options": [
+          "a. Online",
+          "b. Malls",
+          "c. Temples"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Who do fans ask for good tickets?",
+        "options": [
+          "a. Matsu",
+          "b. Yue Lao",
+          "c. Their favorite singers"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do some fans give?",
+        "options": [
+          "a. Pictures of their favorite singers",
+          "b. Money for good tickets",
+          "c. Concerts for other fans"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
