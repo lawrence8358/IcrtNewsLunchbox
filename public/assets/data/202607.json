@@ -1015,5 +1015,109 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260716-01",
+    "type": "國小",
+    "tag": [
+      "Taiwan",
+      "Skateboarding",
+      "Silver Medal",
+      "Boy",
+      "Asian Championships"
+    ],
+    "title": "Boy Wins Taiwan’s First Skateboarding Medal",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260715NK.mp3",
+    "content": [
+      {
+        "en": "Taiwan has a new champion! He is a skateboarder. He won a silver medal! And he is eleven years old!",
+        "tw": "一名十一歲的台灣小男孩在亞洲錦標賽獲得了滑板銀牌！",
+        "time": null
+      },
+      {
+        "en": "When this boy was five, he started skiing. It was hard! Then his friend said skateboarding could help him ski better. He liked it. Soon he was skating every day!",
+        "tw": "男孩五歲開始學滑雪。滑雪不容易，有人告訴他，玩滑板可以幫助他的滑雪技巧。於是，他開始練習滑板，很快就愛上這項運動！",
+        "time": null
+      },
+      {
+        "en": "One day, the boy and his dad were skiing in Japan. His dad got a phone call. It was Taiwan's skateboarding team! They asked the boy to be on the team. Wow! What a surprise! The boy said yes!",
+        "tw": "有一天，男孩跟他的爸爸在日本滑雪，爸爸接到來自臺灣滑板代表隊一通電話，邀請男孩加入隊伍。男孩非常驚喜，立刻就答應了！",
+        "time": null
+      },
+      {
+        "en": "The team went to the Asian Skateboarding Championships. It was in China. The boy worked hard. But he did not think about winning a medal.",
+        "tw": "台灣代表隊前往中國參加亞洲滑板錦標賽。雖然男孩很努力，但是他對於拿獎牌並沒有想太多。",
+        "time": null
+      },
+      {
+        "en": "The boy skated. He fell! But he got up. He skated again. He fell again! And he got up again!",
+        "tw": "比賽時男孩卻摔了一跤，但是他立刻爬起來，之後又摔了一次，他也馬上站起來繼續比賽。",
+        "time": null
+      },
+      {
+        "en": "The boy skated one more time. This time, he made a great move! It was the first time he made it! Everyone cheered!",
+        "tw": "第三次嘗試時，他成功完成了一個精彩的高難度動作！全場觀眾都為他熱烈歡呼！",
+        "time": null
+      },
+      {
+        "en": "The boy won Taiwan's first skateboarding championship medal! Way to go, kid! Go, Team Taiwan!",
+        "tw": "這位男孩贏得了台灣第一面滑板錦標賽獎牌！做得好，孩子！台灣隊加油！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "來自台灣的男孩，榮獲亞洲滑板錦標賽第二名。",
+      "content": [
+        {
+          "text": "1. one more time 再一次。\nHurry up! 趕快! The game is about to start! 比賽就要開始了!\nI know. I just need to tie my shoes one more time.我知道，我只是需要再綁一次鞋帶。",
+          "time": null
+        },
+        {
+          "text": "2. this time 這一次。\nBelieve me, your shoes look perfect.想信我，你的鞋子很完美了。\nThere, this time they are really perfect.好了，這次它真的完美了。",
+          "time": null
+        },
+        {
+          "text": "3. gold medal 金牌。\nNow, we are playing against the Shark team, right? 現在我們的對手是鯊魚隊，對吧?\nYeah, and if we win, we’ll get the gold medal.對，假如我們贏就拿金牌。",
+          "time": null
+        },
+        {
+          "text": "4. start 開始。\nWhat do you plan to do with the medal? 你準備拿那個牌子做什麼?\nI’ll start calling myself “Champion”! 我會開始叫自己[冠軍]!",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡體育競賽嗎? one more time再一次 this time這一次 gold medal金牌 start開始"
+    },
+    "quiz": [
+      {
+        "question": "1. How old is the boy?",
+        "options": [
+          "a. five",
+          "b. seven",
+          "c. eleven"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where were the boy and his dad skiing?",
+        "options": [
+          "a. Taiwan",
+          "b. Japan",
+          "c. China"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Where did the team go?",
+        "options": [
+          "a. The Taiwan Skateboarding Championships",
+          "b. The World Skateboarding Championships",
+          "c. The Asian Skateboarding Championships"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
