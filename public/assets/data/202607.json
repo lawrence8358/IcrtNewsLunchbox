@@ -1119,5 +1119,103 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260717-01",
+    "type": "國小",
+    "tag": [],
+    "title": "A Big Beautiful Balloon in a Backyard",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260716NK.mp3",
+    "content": [
+      {
+        "en": "Hot air balloons are very big balloons. They go high in the sky. A big basket is under each balloon. A pilot and riders are in it.",
+        "tw": "熱氣球非常巨大，可以飛到高空。熱氣球下方有一個大籃子，搭載飛行員跟乘客。",
+        "time": null
+      },
+      {
+        "en": "These balloons need fuel to make hot air. Hot air goes up. With hot air inside, the balloons go up! They go high, above trees and houses! Well, they do most of the time!",
+        "tw": "熱氣球需要燃料來製造熱空氣。有了熱空氣，熱氣球就能升空，飛越樹木和房屋，往高空而去。至少計畫是那樣。",
+        "time": null
+      },
+      {
+        "en": "One day, a man was watching TV. His wife was doing yoga. It was a normal day. Then someone knocked on their door. He said a big balloon was in their backyard! How weird!",
+        "tw": "這一天跟平常一樣，一名男子正在家看電視，太太則在做瑜伽。突然有人來敲門說，熱氣球落在他們家後院！",
+        "time": null
+      },
+      {
+        "en": "The couple went to their backyard. They saw the hot air balloon! It was beautiful. It was also very big. Their backyard was very small! The balloon pilot was very good. The balloon did not hit the house. It did not hit the trees!",
+        "tw": "這對夫妻趕緊跑到後院，果然看到一顆漂亮的巨大熱氣球！儘管後院很小，技術超高的飛行員倒是沒有撞到房子或是樹木。",
+        "time": null
+      },
+      {
+        "en": "Why did the balloon need to land? The fuel was low. The wind also changed. The pilot needed to land fast!",
+        "tw": "原來，熱氣球的燃料快用完了，風向也突然改變。飛行員需要立刻尋找安全的地方降落，所以只好降落在他們的後院！",
+        "time": null
+      },
+      {
+        "en": "Twelve riders were in the balloon basket. They were scared. But the pilot landed safely!",
+        "tw": "搭乘熱氣球的12名乘客都嚇壞了! 但至少飛行員讓它安全降落，大家都平安無事！",
+        "time": null
+      },
+      {
+        "en": "What a weird day!",
+        "tw": "多麼奇怪的一天！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "熱氣球忽然降落在自己家後院，這可稀奇了!",
+      "content": [
+        {
+          "text": "1. pilot 飛行員。\nDid you feel that? 你有沒有感覺到? Why is our plane going up and down?\n我們的飛機為什麼在上上下下?\nMaybe the pilot is trying something new? 也許飛行員在嘗試新動作?",
+          "time": null
+        },
+        {
+          "text": "2. in the sky 在天上。\nTrying it when we’re high in the sky? 在高空中嘗試? This is not normal! 這很不尋常!",
+          "time": null
+        },
+        {
+          "text": "3. weird 奇怪的。\nIt is a little weird, isn’t it? 是有點奇怪。But relax. We are about to land. Only some 15 minutes away. 不過放輕鬆，我們再15分鐘就要降落了。",
+          "time": null
+        },
+        {
+          "text": "4. land 降落。\nSee, we landed safely. 你看，我們安全落地了。",
+          "time": null
+        }
+      ],
+      "postscript": "Whew! For a few seconds I was really scared! 有幾秒鐘的時間我好害怕!\n搭熱氣球很好玩喔，來讀單字。pilot飛行員 in the sky在天上 weird奇怪的 land降落"
+    },
+    "quiz": [
+      {
+        "question": "1. What makes hot air balloons go up?",
+        "options": [
+          "a. Wings",
+          "b. Engines",
+          "c. Hot air"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What was the man doing?",
+        "options": [
+          "a. Watching TV",
+          "b. Doing yoga",
+          "c. Knocking on the door"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Why did the balloon need to land?",
+        "options": [
+          "a. The pilot was tired.",
+          "b. The backyard was small.",
+          "c. The fuel was low."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
