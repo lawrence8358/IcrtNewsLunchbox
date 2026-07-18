@@ -13,6 +13,8 @@
     "audio-words:help": "node tools/update-audio-words.mjs --help",
     "merge-audio-words": "node tools/merge-audio-words.mjs",
     "merge-audio-words:help": "node tools/merge-audio-words.mjs --help",
+    "sync-audio-words": "node tools/sync-audio-words.mjs",
+    "sync-audio-words:help": "node tools/sync-audio-words.mjs --help",
     "deploy": "gh-pages -d dist/browser",
     "cicd": "npm run build && npm run deploy"
   },
