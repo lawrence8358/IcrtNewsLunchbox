@@ -1,0 +1,15 @@
+Temp/*
+!Temp/.gitkeep
+Log/*
+!Log/.gitkeep
+__pycache__/
+*.pyc
+.venv/
+
+# 本機環境設定可能包含 Hugging Face Token，僅提交範例檔。
+.env
+.env.*
+!.env.example
+
+# test_client.py 產生的完整轉錄驗證結果。
+whisper-api-validation.json

@@ -1,0 +1,17 @@
+.git
+.gitignore
+.env
+.env.*
+**/.env
+**/.env.*
+Temp/
+Log/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+.venv/
+README.md
+test_client.py
+whisper-api-validation.json
+Docker/docker-compose.yml
