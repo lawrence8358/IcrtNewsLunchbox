@@ -1,4 +1,4 @@
-import { Component, Input, OnInit, OnDestroy, OnChanges } from '@angular/core';
+import { Component, Input, OnInit, OnDestroy, OnChanges, ChangeDetectionStrategy } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
@@ -13,6 +13,7 @@ import { VocabularyLevelUtils } from '../../models/vocabulary-level.constants';
   selector: 'app-vocabulary-list',
   imports: [CommonModule, FormsModule],
   templateUrl: './vocabulary-list.component.html',
+  changeDetection: ChangeDetectionStrategy.Eager,
   styleUrl: './vocabulary-list.component.less'
 })
 export class VocabularyListComponent implements OnInit, OnDestroy, OnChanges {

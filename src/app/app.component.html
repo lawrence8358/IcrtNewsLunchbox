@@ -40,30 +40,31 @@
         <h6><i class="fas fa-info-circle me-2"></i>版權聲明</h6>
         <p class="mb-2">
           本網站內容來源自 <a href="https://www.icrt.com.tw/news_lunchbox.php?&mlevel1=7&mlevel2=96" target="_blank"
-            class="footer-link">ICRT News Lunchbox</a>，
-          版權歸原作者所有。
-        </p>
-        <p class="mb-2">
-          本專案僅供教育用途，用於協助台灣國中小學童進行英語聽力練習，
-          所有內容均為公開可取得之資料，並已重新整理為更適合學習的格式。
-        </p>
-        <p class="mb-2">
-          如有版權疑慮或功能問題
-          <a href="https://github.com/lawrence8358/IcrtNewsLunchbox/issues" target="_blank"
-            class="footer-link">請聯繫我們</a>，我們將立即處理。
-        </p>
-        <div class="footer-divider"></div>
-        <small class="text-muted">
-          <i class="fas fa-graduation-cap me-1"></i>
-          專為台灣學童設計的英語聽力練習平台 © 2025
-        </small>
-      </div>
+        class="footer-link">ICRT News Lunchbox</a>，
+        版權歸原作者所有。
+      </p>
+      <p class="mb-2">
+        本專案僅供教育用途，用於協助台灣國中小學童進行英語聽力練習，
+        所有內容均為公開可取得之資料，並已重新整理為更適合學習的格式。
+      </p>
+      <p class="mb-2">
+        如有版權疑慮或功能問題
+        <a href="https://github.com/lawrence8358/IcrtNewsLunchbox/issues" target="_blank"
+        class="footer-link">請聯繫我們</a>，我們將立即處理。
+      </p>
+      <div class="footer-divider"></div>
+      <small class="text-muted">
+        <i class="fas fa-graduation-cap me-1"></i>
+        專為台灣學童設計的英語聽力練習平台 © 2025
+      </small>
     </div>
-  </footer>
+  </div>
+</footer>
 
-  <!-- Notification Container -->
-  <div class="notification-container">
-    <div class="notification" *ngFor="let message of notifications" [class]="'notification-' + message.type">
+<!-- Notification Container -->
+<div class="notification-container">
+  @for (message of notifications; track message) {
+    <div class="notification" [class]="'notification-' + message.type">
       <div class="notification-content">
         <i class="notification-icon" [class]="getNotificationIcon(message.type)"></i>
         <span class="notification-message">{{ message.message }}</span>
@@ -72,5 +73,6 @@
         </button>
       </div>
     </div>
-  </div>
+  }
+</div>
 </div>

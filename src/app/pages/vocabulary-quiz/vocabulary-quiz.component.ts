@@ -1,5 +1,5 @@
-import { Component, OnInit, OnDestroy } from '@angular/core';
-import { CommonModule } from '@angular/common';
+import { Component, OnInit, OnDestroy, ChangeDetectionStrategy } from '@angular/core';
+
 import { FormsModule } from '@angular/forms';
 import { Subject, takeUntil } from 'rxjs';
 import { VocabularyQuizService } from '../../services/vocabulary-quiz.service';
@@ -10,8 +10,9 @@ import { VocabularyLevelUtils } from '../../models/vocabulary-level.constants';
 
 @Component({
   selector: 'app-vocabulary-quiz',
-  imports: [CommonModule, FormsModule],
+  imports: [FormsModule],
   templateUrl: './vocabulary-quiz.component.html',
+  changeDetection: ChangeDetectionStrategy.Eager,
   styleUrl: './vocabulary-quiz.component.less'
 })
 export class VocabularyQuizComponent implements OnInit, OnDestroy {

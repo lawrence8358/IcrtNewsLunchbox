@@ -1,5 +1,5 @@
-import { Component, OnInit, OnDestroy, ViewChild, ElementRef } from '@angular/core';
-import { CommonModule } from '@angular/common';
+import { Component, OnInit, OnDestroy, ViewChild, ElementRef, ChangeDetectionStrategy } from '@angular/core';
+
 import { FormsModule } from '@angular/forms';
 import { Router } from '@angular/router';
 import { Subject, firstValueFrom, takeUntil } from 'rxjs';
@@ -17,8 +17,9 @@ import { SettingConfig } from '../../config/setting.config';
 
 @Component({
   selector: 'app-vocabulary-book',
-  imports: [CommonModule, FormsModule, VocabularyListComponent],
+  imports: [FormsModule, VocabularyListComponent],
   templateUrl: './vocabulary-book.component.html',
+  changeDetection: ChangeDetectionStrategy.Eager,
   styleUrl: './vocabulary-book.component.less'
 })
 export class VocabularyBookComponent implements OnInit, OnDestroy {

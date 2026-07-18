@@ -1,5 +1,5 @@
-import { Component, OnInit, OnDestroy, inject } from '@angular/core';
-import { CommonModule } from '@angular/common';
+import { Component, OnInit, OnDestroy, inject, ChangeDetectionStrategy } from '@angular/core';
+
 import { FormsModule } from '@angular/forms';
 import { NgbActiveModal } from '@ng-bootstrap/ng-bootstrap';
 import { VocabularyService } from '../../services/vocabulary.service';
@@ -10,8 +10,9 @@ import { VocabularyLevelUtils } from '../../models/vocabulary-level.constants';
 
 @Component({
   selector: 'app-add-word-dialog',
-  imports: [CommonModule, FormsModule],
+  imports: [FormsModule],
   templateUrl: './add-word-dialog.component.html',
+  changeDetection: ChangeDetectionStrategy.Eager,
   styleUrl: './add-word-dialog.component.less'
 })
 export class AddWordDialogComponent implements OnInit, OnDestroy {

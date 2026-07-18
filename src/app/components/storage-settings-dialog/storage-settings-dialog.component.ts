@@ -1,5 +1,5 @@
-import { Component, OnInit, inject, OnDestroy } from '@angular/core';
-import { CommonModule } from '@angular/common';
+import { Component, OnInit, inject, OnDestroy, ChangeDetectionStrategy } from '@angular/core';
+
 import { FormsModule } from '@angular/forms';
 import { NgbActiveModal } from '@ng-bootstrap/ng-bootstrap';
 import { VocabularyService } from '../../services/vocabulary.service';
@@ -7,8 +7,9 @@ import { NotificationService } from '../../services/notification.service';
 
 @Component({
   selector: 'app-storage-settings-dialog',
-  imports: [CommonModule, FormsModule],
+  imports: [FormsModule],
   templateUrl: './storage-settings-dialog.component.html',
+  changeDetection: ChangeDetectionStrategy.Eager,
   styleUrl: './storage-settings-dialog.component.less'
 })
 export class StorageSettingsDialogComponent implements OnInit, OnDestroy {

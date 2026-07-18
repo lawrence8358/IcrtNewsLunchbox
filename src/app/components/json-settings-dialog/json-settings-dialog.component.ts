@@ -1,5 +1,5 @@
-import { Component, OnInit, inject, OnDestroy } from '@angular/core';
-import { CommonModule } from '@angular/common';
+import { Component, OnInit, inject, OnDestroy, ChangeDetectionStrategy } from '@angular/core';
+
 import { FormsModule } from '@angular/forms';
 import { NgbActiveModal } from '@ng-bootstrap/ng-bootstrap';
 import { firstValueFrom } from 'rxjs';
@@ -9,8 +9,9 @@ import { VocabularyWord } from '../../models/vocabulary.model';
 
 @Component({
   selector: 'app-json-settings-dialog',
-  imports: [CommonModule, FormsModule],
+  imports: [FormsModule],
   templateUrl: './json-settings-dialog.component.html',
+  changeDetection: ChangeDetectionStrategy.Eager,
   styleUrl: './json-settings-dialog.component.less'
 })
 export class JsonSettingsDialogComponent implements OnInit, OnDestroy {

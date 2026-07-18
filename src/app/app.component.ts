@@ -1,5 +1,5 @@
-import { Component, OnInit, OnDestroy, AfterViewInit } from '@angular/core';
-import { CommonModule } from '@angular/common';
+import { Component, OnInit, OnDestroy, AfterViewInit, ChangeDetectionStrategy } from '@angular/core';
+
 import { RouterOutlet, RouterModule } from '@angular/router';
 import { Subject, takeUntil } from 'rxjs';
 import { NotificationService, NotificationMessage } from './services/notification.service';
@@ -7,8 +7,9 @@ import { SettingConfig } from './config/setting.config';
 
 @Component({
   selector: 'app-root',
-  imports: [CommonModule, RouterOutlet, RouterModule],
+  imports: [RouterOutlet, RouterModule],
   templateUrl: './app.component.html',
+  changeDetection: ChangeDetectionStrategy.Eager,
   styleUrl: './app.component.less'
 })
 export class AppComponent implements OnInit, OnDestroy, AfterViewInit {

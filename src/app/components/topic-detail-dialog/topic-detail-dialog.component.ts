@@ -1,5 +1,5 @@
-import { Component, Input, OnInit, ElementRef, ViewChild, OnDestroy } from '@angular/core';
-import { CommonModule } from '@angular/common';
+import { Component, Input, OnInit, ElementRef, ViewChild, OnDestroy, ChangeDetectionStrategy } from '@angular/core';
+
 import { FormsModule } from '@angular/forms';
 import { NgbActiveModal, NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { Subject } from 'rxjs';
@@ -16,8 +16,9 @@ type SourceType = 'content' | 'vocabulary' | 'quiz';
 
 @Component({
   selector: 'app-topic-detail-dialog',
-  imports: [CommonModule, FormsModule, VocabularyListComponent],
+  imports: [FormsModule, VocabularyListComponent],
   templateUrl: './topic-detail-dialog.component.html',
+  changeDetection: ChangeDetectionStrategy.Eager,
   styleUrl: './topic-detail-dialog.component.less'
 })
 export class TopicDetailDialogComponent implements OnInit, OnDestroy {
