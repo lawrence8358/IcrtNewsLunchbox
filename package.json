@@ -8,6 +8,11 @@
     "build": "ng build --base-href=/IcrtNewsLunchbox/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
+    "test:tools": "node --test tools/tests/*.test.mjs",
+    "audio-words": "node tools/update-audio-words.mjs",
+    "audio-words:help": "node tools/update-audio-words.mjs --help",
+    "merge-audio-words": "node tools/merge-audio-words.mjs",
+    "merge-audio-words:help": "node tools/merge-audio-words.mjs --help",
     "deploy": "gh-pages -d dist/browser",
     "cicd": "npm run build && npm run deploy"
   },
