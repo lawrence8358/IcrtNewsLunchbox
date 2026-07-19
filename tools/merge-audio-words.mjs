@@ -703,12 +703,22 @@ async function processFile(config, dataPath, stats) {
     throw new Error(`月份 data JSON 應為陣列：${dataPath}`);
   }
 
+  const relevantTopics = config.ids.length > 0
+    ? dataDocument.value.filter((topic) => config.ids.includes(String(topic.id ?? '')))
+    : dataDocument.value;
+  const pendingTopics = relevantTopics.filter((topic) => config.force || isMissingTime(topic.content?.[0]?.time));
+
   let audioWords;
   try {
     audioWords = (await readJsonDocument(audioWordsPath)).value;
   }
   catch (error) {
     if (error.code === 'ENOENT') {
+      if (pendingTopics.length === 0) {
+        console.log(`  本月主題時間戳皆已完整，無需對齊，略過：${audioWordsPath}`);
+        stats.skipped += relevantTopics.length;
+        return;
+      }
       console.warn(`  尚未產生逐字稿，略過（請先執行 update-audio-words.mjs 或 sync-audio-words.mjs）：${audioWordsPath}`);
       stats.missingAudioWords.push(monthFile);
       return;
