@@ -15,6 +15,7 @@
  */
 
 import { spawnSync } from 'node:child_process';
+import { readdirSync } from 'node:fs';
 import path from 'node:path';
 import process from 'node:process';
 import { parseArgs } from 'node:util';
@@ -25,6 +26,7 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 export const DEFAULTS = {
   branch: 'n8n-test',
   remote: 'origin',
+  dataDir: 'public/assets/data',
   // 兩個工具唯一會寫入的位置：Whisper 時間軸輸出與月份 data（含 months.json、tag.json）。
   commitPaths: ['public/assets/data', 'public/assets/audio-words'],
 };
@@ -36,15 +38,25 @@ const USAGE = `用法：node tools/sync-audio-words.mjs [選項] [YYYYMM...]
 不指定月份時，兩個工具各自處理最近兩個月（上個月與本月，避免跨月遺漏）。
 
 選項：
-  --branch <名稱>  目標分支（預設 ${DEFAULTS.branch}）
-  --remote <名稱>  遠端名稱（預設 ${DEFAULTS.remote}）
-  --no-pull        跳過切換分支與 git pull（本機測試用）
-  --no-push        只 commit 不 push（本機測試用）
-  --allow-dirty    工作目錄有其他異動時仍繼續執行（只會提交上述兩個資料夾）
-  -h, --help       顯示說明
+  --branch <名稱>    目標分支（預設 ${DEFAULTS.branch}）
+  --remote <名稱>    遠端名稱（預設 ${DEFAULTS.remote}）
+  --data-dir <路徑>  月份 data JSON 資料夾，供 --all 掃描（預設 ${DEFAULTS.dataDir}）
+  --all              掃描 --data-dir 內所有月份 JSON（YYYYMM.json）交給兩個工具處理，不可與 [YYYYMM...] 同時使用
+  --no-pull          跳過切換分支與 git pull（本機測試用）
+  --no-push          只 commit 不 push（本機測試用）
+  --allow-dirty      工作目錄有其他異動時仍繼續執行（只會提交上述兩個資料夾）
+  -h, --help         顯示說明
 
 轉錄與對齊所需的 TRANSCRIBE_API_URL、GEMINI_API_KEY 等設定
 由環境變數或專案根目錄 .env 提供，兩個工具會自行讀取。`;
+
+/** 掃描 dataDir，回傳所有月份 JSON（YYYYMM.json）的月份代碼，由小到大排序。 */
+export function listAllMonths(dataDir) {
+  return readdirSync(dataDir)
+    .filter((name) => /^\d{6}\.json$/.test(name))
+    .map((name) => path.basename(name, '.json'))
+    .sort();
+}
 
 /** 解析命令列參數，回傳設定物件；參數不合法時擲出錯誤。 */
 export function parseCliArgs(argv) {
@@ -54,6 +66,8 @@ export function parseCliArgs(argv) {
     options: {
       branch: { type: 'string' },
       remote: { type: 'string' },
+      'data-dir': { type: 'string' },
+      all: { type: 'boolean' },
       'no-pull': { type: 'boolean' },
       'no-push': { type: 'boolean' },
       'allow-dirty': { type: 'boolean' },
@@ -71,10 +85,16 @@ export function parseCliArgs(argv) {
     }
   }
 
+  if (values.all && positionals.length > 0) {
+    throw new Error('--all 不可與月份參數同時使用。');
+  }
+
   return {
     help: false,
     branch: values.branch ?? DEFAULTS.branch,
     remote: values.remote ?? DEFAULTS.remote,
+    dataDir: values['data-dir'] ?? DEFAULTS.dataDir,
+    all: values.all === true,
     pull: values['no-pull'] !== true,
     push: values['no-push'] !== true,
     allowDirty: values['allow-dirty'] === true,
@@ -188,6 +208,22 @@ function main() {
     console.error(error.message);
     process.exitCode = 2;
     return;
+  }
+
+  if (config.all) {
+    try {
+      config.months = listAllMonths(config.dataDir);
+    }
+    catch (error) {
+      console.error(`掃描 ${config.dataDir} 失敗：${error.message}`);
+      process.exitCode = 2;
+      return;
+    }
+    if (config.months.length === 0) {
+      console.error(`${config.dataDir} 沒有任何月份 JSON（YYYYMM.json）。`);
+      process.exitCode = 2;
+      return;
+    }
   }
 
   try {

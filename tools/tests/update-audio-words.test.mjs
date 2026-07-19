@@ -1,8 +1,12 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import { promises as fs } from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
 import {
   toMinuteSecond,
   defaultMonths,
+  listMonthFiles,
   parseCliArgs,
   parseEnvText,
   DEFAULTS,
@@ -90,4 +94,25 @@ test('parseCliArgs 拒絕不合法的參數', () => {
   assert.throws(() => parseCliArgs([...API_URL, '2025-06']), /YYYYMM/);
   assert.throws(() => parseCliArgs([...API_URL, '20250601']), /YYYYMM/);
   assert.throws(() => parseCliArgs([...API_URL, '--timeout', '-5', '202506']));
+});
+
+test('parseCliArgs 支援 --all 掃描所有月份，且不可與月份參數並用', () => {
+  assert.equal(parseCliArgs([...API_URL, '--all']).all, true);
+  assert.equal(parseCliArgs([...API_URL, '202506']).all, false);
+  assert.throws(() => parseCliArgs([...API_URL, '--all', '202506']), /--all 不可與月份參數同時使用/);
+});
+
+test('listMonthFiles 掃描 dataDir 內的月份 JSON 並排序，略過 months.json／tag.json', async () => {
+  const temporaryDir = await fs.mkdtemp(path.join(os.tmpdir(), 'update-audio-words-list-'));
+  try {
+    await fs.writeFile(path.join(temporaryDir, '202607.json'), '[]\n', 'utf8');
+    await fs.writeFile(path.join(temporaryDir, '202601.json'), '[]\n', 'utf8');
+    await fs.writeFile(path.join(temporaryDir, 'months.json'), '[]\n', 'utf8');
+    await fs.writeFile(path.join(temporaryDir, 'tag.json'), '[]\n', 'utf8');
+
+    assert.deepEqual(await listMonthFiles(temporaryDir), ['202601', '202607']);
+  }
+  finally {
+    await fs.rm(temporaryDir, { recursive: true, force: true });
+  }
 });

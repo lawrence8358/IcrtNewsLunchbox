@@ -40,6 +40,7 @@ const USAGE = `用法：node tools/update-audio-words.mjs [選項] [YYYYMM...]
   --model-size <sz>  模型大小（預設 ${DEFAULTS.modelSize}）
   --timeout <秒>     API 逾時秒數（預設 ${DEFAULTS.timeoutMs / 1000}）
   --force            重新處理輸出檔中已存在的 id
+  --all              掃描 --data-dir 內所有月份 JSON（YYYYMM.json），不可與 [YYYYMM...] 同時使用
   -h, --help         顯示說明`;
 
 export const ENV_KEY = 'TRANSCRIBE_API_URL';
@@ -115,6 +116,7 @@ export function parseCliArgs(argv, env = process.env) {
       'model-size': { type: 'string' },
       timeout: { type: 'string' },
       force: { type: 'boolean' },
+      all: { type: 'boolean' },
       help: { type: 'boolean', short: 'h' },
     },
   });
@@ -127,6 +129,10 @@ export function parseCliArgs(argv, env = process.env) {
     if (!/^\d{6}$/.test(month)) {
       throw new Error(`月份必須是 YYYYMM：${month}\n\n${USAGE}`);
     }
+  }
+
+  if (values.all && positionals.length > 0) {
+    throw new Error(`--all 不可與月份參數同時使用。\n\n${USAGE}`);
   }
   const months = positionals.length > 0 ? positionals : defaultMonths();
 
@@ -143,6 +149,7 @@ export function parseCliArgs(argv, env = process.env) {
   return {
     help: false,
     months,
+    all: values.all ?? false,
     dataDir: values['data-dir'] ?? DEFAULTS.dataDir,
     outDir: values['out-dir'] ?? DEFAULTS.outDir,
     apiUrl,
@@ -151,6 +158,15 @@ export function parseCliArgs(argv, env = process.env) {
     timeoutMs: timeoutSeconds === null ? DEFAULTS.timeoutMs : timeoutSeconds * 1000,
     force: values.force ?? false,
   };
+}
+
+/** 掃描 dataDir，回傳所有月份 JSON（YYYYMM.json）的月份代碼，由小到大排序。 */
+export async function listMonthFiles(dataDir) {
+  const fileNames = await fs.readdir(dataDir);
+  return fileNames
+    .filter((name) => /^\d{6}\.json$/.test(name))
+    .map((name) => path.basename(name, '.json'))
+    .sort();
 }
 
 async function readJson(filePath) {
@@ -298,6 +314,22 @@ async function main() {
   if (config.help) {
     console.log(USAGE);
     return;
+  }
+
+  if (config.all) {
+    try {
+      config.months = await listMonthFiles(config.dataDir);
+    }
+    catch (error) {
+      console.error(`掃描 ${config.dataDir} 失敗：${error.message}`);
+      process.exitCode = 2;
+      return;
+    }
+    if (config.months.length === 0) {
+      console.error(`${config.dataDir} 沒有任何月份 JSON（YYYYMM.json）。`);
+      process.exitCode = 2;
+      return;
+    }
   }
 
   let sourceFiles;

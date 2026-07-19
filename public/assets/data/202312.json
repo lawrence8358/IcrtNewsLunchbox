@@ -328,35 +328,43 @@
     "content": [
       {
         "en": "Engineering is about inventing things. Thanks to engineers, we have all kinds of inventions: trains, computers, ovens, radios, light bulbs...!",
-        "tw": "工程這種專業跟發明有關。多虧有工程師，我們才有火車、電腦、烤箱、廣播、燈泡!"
+        "tw": "工程這種專業跟發明有關。多虧有工程師，我們才有火車、電腦、烤箱、廣播、燈泡!",
+        "time": "0:20"
       },
       {
         "en": "There's a contest in the USA. It's for middle school students who love science, technology, engineering, and math.",
-        "tw": "美國有一個競賽，讓喜歡科學、科技、工程和數學的學生參加。"
+        "tw": "美國有一個競賽，讓喜歡科學、科技、工程和數學的學生參加。",
+        "time": "0:50"
       },
       {
         "en": "This year's winner is Shanya Gill. She's a 12-year-old engineer! Shanya won 25,000 US dollars. That's about 800,000 Taiwan dollars!",
-        "tw": "今年的冠軍是Shanya Gill，她是一位年僅12歲的工程師! Shanya贏得2萬5美金，相當於80萬台幣。"
+        "tw": "今年的冠軍是Shanya Gill，她是一位年僅12歲的工程師! Shanya贏得2萬5美金，相當於80萬台幣。",
+        "time": "1:02"
       },
       {
         "en": "A restaurant by Shanya's house had a big fire. Nobody was hurt. But it gave Shanya a great idea…",
-        "tw": "Shanya家附近的餐廳之前發生火災。沒有人受傷，但是這給了Shanya一個靈感。"
+        "tw": "Shanya家附近的餐廳之前發生火災。沒有人受傷，但是這給了Shanya一個靈感。",
+        "time": "1:23"
       },
       {
         "en": "Most fire alarms find smoke in the air. Then these smoke alarms make a very loud sound. People know there's danger after a fire starts.",
-        "tw": "大多的煙霧警報器偵測到煙才會發出聲音。人們要等到火燒起來後才知道有危險。"
+        "tw": "大多的煙霧警報器偵測到煙才會發出聲音。人們要等到火燒起來後才知道有危險。",
+        "time": "1:51"
       },
       {
         "en": "Shanya's fire alarm has a special camera. The camera sees heat. People know there's danger before a fire starts.",
-        "tw": "Shanya的警報器則是找出熱源。它有個特別的攝影機。攝影機拍到熱源就會在火燒起來之前警告大家。"
+        "tw": "Shanya的警報器則是找出熱源。它有個特別的攝影機。攝影機拍到熱源就會在火燒起來之前警告大家。",
+        "time": "2:00"
       },
       {
         "en": "Shanya says her fire alarm is faster, cheaper, and better than smoke alarms. And she's making it better!",
-        "tw": "Shanya說她的火災警報器更快、更便宜、也比煙霧警報好，而且她還在繼續改善它。"
+        "tw": "Shanya說她的火災警報器更快、更便宜、也比煙霧警報好，而且她還在繼續改善它。",
+        "time": "2:24"
       },
       {
         "en": "Shanya's invention can save lives, houses, and more. Bravo, Engineer Shanya!",
-        "tw": "Shanya的發明可以拯救生命、房屋等等。Shanya工程師，太棒了！"
+        "tw": "Shanya的發明可以拯救生命、房屋等等。Shanya工程師，太棒了！",
+        "time": "2:43"
       }
     ],
     "vocabulary": {
@@ -364,19 +372,19 @@
       "content": [
         {
           "text": "1. invent 發明\nI wish a robot could do grocery shopping for me.我希望有機器人幫我買菜。\nIt's already been invented. 那已經發明了。\nIt's called \"delivery service\".叫做「外送」。",
-          "time": null
+          "time": "2:57"
         },
         {
           "text": "2. restaurant 餐廳\nI wish the robot could cook for me. 我希望機器人替我煮飯。\nFor that you can call a restaurant. 你可以打電話給餐廳叫菜。",
-          "time": null
+          "time": "3:14"
         },
         {
           "text": "3. why 為什麼\nI also wish I had talking glasses. 我也希望有會講話的眼鏡。\nNow why do you want your glasses to talk? 為什麼你要眼鏡講話呢?\nTo tell me where they are.好告訴我它在哪裡。",
-          "time": null
+          "time": "3:37"
         },
         {
           "text": "4. alarm 警報\nYour glasses are right there by the alarm clock. 你的眼鏡就在鬧鐘旁邊。\nWhat would I do without you? 沒有你我怎麼辦?",
-          "time": null
+          "time": "3:44"
         }
       ],
       "postscript": "這些單字每天都用得到。\ninvent發明\nrestaurant餐廳\nwhy為什麼\nalarm警報"
@@ -389,7 +397,7 @@
           "b. Inventing",
           "c. Saving trees"
         ],
-        "time": null,
+        "time": "4:11",
         "answer": "b"
       },
       {
@@ -399,7 +407,7 @@
           "b. 25,000",
           "c. 800,000"
         ],
-        "time": null,
+        "time": "4:20",
         "answer": "b"
       },
       {
@@ -409,7 +417,7 @@
           "b. Smoke",
           "c. Sounds"
         ],
-        "time": null,
+        "time": "4:30",
         "answer": "b"
       }
     ]
@@ -431,37 +439,37 @@
       {
         "en": "What's that sound? Oh, there's a seal in the water! What a cute animal!",
         "tw": "原來是有一隻海豹在水裡，牠好可愛!",
-        "time": null
+        "time": "0:20"
       },
       {
         "en": "Seals swim in the ocean to find fish to eat. They don't have arms or feet. They have flippers. They use their front flippers to come onto land to rest.",
         "tw": "海豹在海裡游泳尋找魚類。牠們沒有手跟腳，但是有鰭。牠們用前鰭爬上岸休息。",
-        "time": null
+        "time": "0:29"
       },
       {
         "en": "Amber lives near a beach in Australia. One morning, a loud noise woke her up. Was someone taking her car?",
         "tw": "Amber住在澳洲海邊附近，有一天早上，很大的噪音把她吵醒，是有人要偷走她的車子嗎?",
-        "time": null
+        "time": "0:52"
       },
       {
         "en": "Amber went to a window. She looked outside. A big seal was sleeping next to her car!",
         "tw": "Amber到窗邊往外看，一頭很大的海豹睡在她的車子旁邊。",
-        "time": null
+        "time": "1:12"
       },
       {
         "en": "Amber knew about this seal. The people in her town call him Neil. They see Neil on beaches. But this was the first time Neil visited someone's house!",
         "tw": "Amber認得這頭海豹，這附近的人都叫這隻海豹Neil。他們在海灘上看過牠，但是這是第一次看到Neil造訪別人家。",
-        "time": null
+        "time": "1:27"
       },
       {
         "en": "Amber had to go to work. But Neil was too close to her car. There was no way to move him. Neil weighs six hundred kilograms! So Amber waited for Neil to wake up and move. She called her boss.",
         "tw": "Amber得去上班，但是Neil太靠近她的車子。牠重達600公斤，根本沒有辦法移動牠。Amber要等到Neil睡醒之後才能離開，她只好打電話給老闆。",
-        "time": null
+        "time": "1:52"
       },
       {
         "en": "Amber's boss laughed about the sleeping seal. Amber sent pictures to show her story was real. A sleeping seal named Neil stopped Amber from going to work. What a cute story!",
         "tw": "Amber的老闆嘲笑了這隻睡著的海豹。Amber傳了照片證明她的故事是真的。一隻名叫Neil的睡著的海豹阻止了Amber去上班。這真是個可愛的故事！",
-        "time": null
+        "time": "2:27"
       }
     ],
     "vocabulary": {
@@ -469,19 +477,19 @@
       "content": [
         {
           "text": "1. cute 可愛的\nA litter of kittens are under my car! 我的車子底下有一窩小貓!\nWow, they are so cute! 哇，好可愛!\nThat's not the point! 那不是重點。\nHow can I drive now? 現在我怎麼開車?",
-          "time": null
+          "time": "2:47"
         },
         {
           "text": "2. eat 吃\nDon't drive! You'll hurt them. 不要開，你會傷害牠們。\nSo how do I get to work? 那我怎麼上班?\nYou can give them something to eat. 你可以給牠們一點吃的。",
-          "time": null
+          "time": "3:07"
         },
         {
           "text": "3. fish 魚\nUsing food to lure them out? 用食物吸引牠們出來?\nGood idea! I have a can of fish at home.好主意。我家裡有魚罐頭。",
-          "time": null
+          "time": "3:22"
         },
         {
           "text": "4. car 汽車\nThere you are. Nice kittens. 好了，好乖的小貓。\nNow you can move your car. 現在你可以移車了。\nYeah, I certainly don't want to be a cat killer. 是啊，我可不想當貓咪殺手。",
-          "time": null
+          "time": "3:35"
         }
       ],
       "postscript": "今天的單字很好記。\ncute可愛的\neat吃\nfish魚\ncar汽車"
@@ -494,7 +502,7 @@
           "b. Rest",
           "c. Laugh"
         ],
-        "time": null,
+        "time": "4:08",
         "answer": "b"
       },
       {
@@ -504,7 +512,7 @@
           "b. Six hundred",
           "c. One thousand"
         ],
-        "time": null,
+        "time": "4:20",
         "answer": "b"
       },
       {
@@ -514,7 +522,7 @@
           "b. Ned",
           "c. Neil"
         ],
-        "time": null,
+        "time": "4:34",
         "answer": "c"
       }
     ]
@@ -977,37 +985,37 @@
       {
         "en": "Sir David's echidnas lived when dinosaurs lived. That was two hundred million years ago! These animals were living sixty years ago. After that, scientists didn't see any alive. They thought these echidnas were extinct…",
         "tw": "艾登堡針鼴鼠從2億年前恐龍還沒滅絕的時候就存在。牠們消失了60年。科學家以為牠們絕種了。",
-        "time": null
+        "time": "0:19"
       },
       {
         "en": "But last month, scientists found a Sir David's echidna! It was on a mountain in Indonesia. They weren't looking for it. They put video cameras outside. The cameras took videos of animals. The scientists looked at the videos later. Then they saw the echidna! They were very surprised!",
         "tw": "但是在上個月，科學家在印尼山上拍到艾登堡針鼴鼠。他們非常驚訝!",
-        "time": null
+        "time": "0:49"
       },
       {
         "en": "Sir David's echidnas are cool. Their nose is twenty centimeters long! These echidnas blow bubbles from their nose to cool down.",
         "tw": "艾登堡針鼴鼠很特別。牠們的鼻子長達20公分，還會從鼻子噴泡泡來降溫。",
-        "time": null
+        "time": "1:32"
       },
       {
         "en": "They make holes in soft dirt with their nose. They make holes to find food.",
         "tw": "牠們還會在土裡挖洞覓食。",
-        "time": null
+        "time": "1:48"
       },
       {
         "en": "Sir David's echidnas don't have teeth. Their long, sticky tongue gets food fast! They eat ants and earthworms.",
         "tw": "牠們沒有牙齒，但是有又長又黏的舌頭吃螞蟻跟蚯蚓。",
-        "time": null
+        "time": "1:51"
       },
       {
         "en": "These echidnas have quills. Quills are sharp and spiky. When an echidna is scared, it rolls into a spiky ball! No animals want to touch a spiky ball!",
         "tw": "這些針鼴鼠身上也有尖銳的刺。如果牠們受到驚嚇，身體會縮成一顆球，防止其他的動物靠近。",
-        "time": null
+        "time": "2:08"
       },
       {
         "en": "These cool Sir David's echidnas aren't extinct. They're living! That's great for them - and us!",
         "tw": "這些酷酷的艾登堡針鼴鼠沒有滅絕。牠們還活著！這對牠們來說太棒了——對我們也是！",
-        "time": null
+        "time": "2:33"
       }
     ],
     "vocabulary": {
@@ -1015,19 +1023,19 @@
       "content": [
         {
           "text": "look at 注視\nHey, look at what I found! 你看我找到的東西!\nWow, so cool! 哇，真酷!\nBut are they bones? 但這些是骨頭嗎?\nMaybe, I'm not sure. 也許吧，我不確定。",
-          "time": null
+          "time": "2:49"
         },
         {
           "text": "teeth 牙齒\nThey look like teeth, right? 它們看起來像牙齒，對不對?\nThey could be, but you should show them to scientists.\n有可能，不過你應該拿給科學家看。",
-          "time": null
+          "time": "3:07"
         },
         {
           "text": "ago 以前\nYeah, scientists should be able to answer my questions.\n對，科學家應該可以回答我的問題。\nThey can tell you how long ago these animals\nlived.他們會告訴你這些動物生活在多久以前。",
-          "time": null
+          "time": "3:22"
         },
         {
           "text": "look for 尋找\nLet's look for more bones here. 我們在這裡多找找骨頭。\nRight, we may find a big dinosaur! 對啊，我們可能找到一隻大恐龍!",
-          "time": null
+          "time": "3:41"
         }
       ],
       "postscript": "今天的單字你記住了嗎?\nlook at注視\nteeth牙齒\nago以前\nlook for尋找"
@@ -1040,7 +1048,7 @@
           "b. Dinosaurs",
           "c. Earthworms"
         ],
-        "time": null,
+        "time": "4:07",
         "answer": "b"
       },
       {
@@ -1050,7 +1058,7 @@
           "b. Short and fast",
           "c. Thin and strong"
         ],
-        "time": null,
+        "time": "4:20",
         "answer": "a"
       },
       {
@@ -1060,7 +1068,7 @@
           "b. A long nose",
           "c. Teeth"
         ],
-        "time": null,
+        "time": "4:35",
         "answer": "b"
       }
     ]
@@ -1081,37 +1089,37 @@
       {
         "en": "Nobody likes sitting in traffic! Cars, buses, and trucks move very slowly. They make lots of bad smells, dirty air, and noise! People get angry. They honk their horns.",
         "tw": "沒有人喜歡塞車。塞車的時候，車輛很緩慢地移動。這樣會製造很多噪音、廢氣。駕駛也容易生氣，一直按喇叭。",
-        "time": null
+        "time": "0:19"
       },
       {
         "en": "How can we get away from all that slow, stinky, noisy traffic?",
         "tw": "我們如何避免慢吞吞，臭烘烘，而且吵鬧的塞車呢?",
-        "time": null
+        "time": "0:49"
       },
       {
         "en": "There's great news! New taxis are coming to New York City. They're electric, so they don't make bad smells or dirty air. And they never sit in traffic… Why? Because these taxis can fly!",
         "tw": "好消息! 紐約有新的電動計程車，沒有廢氣，還不會塞車。為什麼呢?因為這些計程車會飛ㄟ!",
-        "time": null
+        "time": "1:01"
       },
       {
         "en": "Electric air taxis look like very big drones with car seats! They fly with six small propellers. These make flying easier.",
         "tw": "空中計程車看起來像大型的無人機，裡面有汽車座椅，還有六個螺旋槳。",
-        "time": null
+        "time": "1:29"
       },
       {
         "en": "Electric air taxis can fly in all directions. They can go up and down, left and right, to the front and to the back!",
         "tw": "空中計程車可以飛上下、左右、往前、還往後。",
-        "time": null
+        "time": "1:50"
       },
       {
         "en": "Electric air taxis can carry a pilot and four passengers. These air taxis are fast. They take seven minutes to fly from the airport to the middle of the city. That's much, much faster than driving!",
         "tw": "空中計程車可以搭載一名駕駛跟四位乘客。從機場到市中心只需要7分鐘，比汽車快得多。",
-        "time": null
+        "time": "2:17"
       },
       {
         "en": "Do you want to fly an electric air taxi in New York City one day? It will be love at first flight!",
         "tw": "你有一天想在紐約市搭乘電動空中計程車嗎？這將會是一見鍾情！",
-        "time": null
+        "time": "2:35"
       }
     ],
     "vocabulary": {
@@ -1119,19 +1127,19 @@
       "content": [
         {
           "text": "1. fly 飛\nI can't wait for these taxis to come here! 我簡直等不及這些計程車來這裡了。\nYeah, imagine seeing them flying outside the office window.\n對啊，想像一下它們就在辦公室外面飛。",
-          "time": null
+          "time": "2:54"
         },
         {
           "text": "2. electric 電力的\nThey look just like helicopters. 它們很像直升機。\nBut they're electric, so very quiet. 不過是用電力，所以很安靜。",
-          "time": null
+          "time": "3:07"
         },
         {
           "text": "3. up and down 上上下下\nThere will be traffic jams in the air! 會發生空中塞車!\nNo, because they can go up and down, left and right.\n不會，因為它們可以上上下下，左左右右。",
-          "time": null
+          "time": "3:19"
         },
         {
           "text": "4. easier 比較容易的\nYou really like to take a flying taxi, don't you?\n你真的會很想搭空中計程車，對吧?\nI do. It will make my life so much easier! 對啊，會讓我的生活輕鬆得多。",
-          "time": null
+          "time": "3:34"
         }
       ],
       "postscript": "Do you like the idea of flying taxis? Fly飛 electric 電力的 up and down上上下下 easier 比較容易的"
@@ -1144,7 +1152,7 @@
           "b. The new taxis",
           "c. Car seats"
         ],
-        "time": null,
+        "time": "4:25",
         "answer": "a"
       },
       {
@@ -1154,7 +1162,7 @@
           "b. They fly.",
           "c. They go left and right."
         ],
-        "time": null,
+        "time": "4:31",
         "answer": "b"
       },
       {
@@ -1164,7 +1172,7 @@
           "b. Five",
           "c. Seven"
         ],
-        "time": null,
+        "time": "4:37",
         "answer": "a"
       }
     ]
@@ -1380,37 +1388,37 @@
       {
         "en": "There are many kinds of penguins. Some of them live in a very cold place called Antarctica. The Emperor penguin lives there.",
         "tw": "世界上有很多種不同的企鵝。南極洲就有皇帝企鵝。",
-        "time": null
+        "time": "0:21"
       },
       {
         "en": "Mother Emperor penguins lay an egg once a year. They give the egg to the father. The father emperor penguin sits on it. He keeps it warm 24 hours a day... for 65 days! This helps the penguin chick grow inside the egg.",
         "tw": "每一年皇帝企鵝媽媽只下一顆蛋。然後交給企鵝爸爸孵蛋65天，讓企鵝寶寶長大。",
-        "time": null
+        "time": "0:38"
       },
       {
         "en": "Some Emperor penguins live in a zoo. One day, workers found an egg. A baby Emperor penguin was coming! This egg was special!",
         "tw": "動物園裡也有皇帝企鵝。有一天，工作人員找到一顆皇帝企鵝蛋，有一隻企鵝寶寶要誕生了。",
-        "time": null
+        "time": "1:09"
       },
       {
         "en": "The workers kept the egg warm. The chick grew safely inside the egg. Then it was ready to come out!",
         "tw": "工作人員讓蛋保持溫暖，企鵝寶寶才能在蛋裡平安長大，準備孵化。",
-        "time": null
+        "time": "1:30"
       },
       {
         "en": "But the egg was too hard for the chick! The workers made a small hole in the egg. For two days, they helped the chick come out!",
         "tw": "但是蛋殼對企鵝寶寶來說太硬了!工作人員在蛋上鑽了一個小洞。花了兩天的時間幫助企鵝寶寶鑽出來。",
-        "time": null
+        "time": "1:58"
       },
       {
         "en": "The workers were very happy. Almost no Emperor penguins are born in zoos. This zoo waited 13 years for this Emperor penguin chick!",
         "tw": "工作人員很高興，動物園整整等了13年才第一次迎接皇帝企鵝寶寶的誕生!",
-        "time": null
+        "time": "2:09"
       },
       {
         "en": "The zoo asked everyone to pick the new baby chick's name. They picked the name \"Pearl.\" Pearl's a special chick!",
         "tw": "動物園請大家為這隻新的企鵝寶寶取名字。他們選了「珍珠」這個名字。珍珠是一隻特別的企鵝寶寶！",
-        "time": null
+        "time": "2:23"
       }
     ],
     "vocabulary": {
@@ -1418,19 +1426,19 @@
       "content": [
         {
           "text": "1. name 名字\nWhat's a good name for an anteater? 食蟻獸叫什麼名字好?\nAnteaters? 食蟻獸?\nThe new baby anteater born in the zoo? 那隻生在動物園的食蟻獸寶寶?\nRight, that's the one.對，就是那隻。",
-          "time": null
+          "time": "2:48"
         },
         {
           "text": "2. ask 問、請求\nHow about \"Snuffle?\" \"聞聞看\"怎麼樣?\nOh, that's a good one! 很棒的名字!\nThe zoo asks people to offer names? 動物園要大家提供名字嗎?\nYeah, isn't it fun? 對，不是很好玩嗎?",
-          "time": null
+          "time": "3:05"
         },
         {
           "text": "3. come out 出來\nI'd like to see the animal.我想看看那隻動物。\nDo you think it will come out? 你覺得牠會出來嗎?\nThat I don't know.這我就不知了。",
-          "time": null
+          "time": "3:25"
         },
         {
           "text": "4. warm 溫暖的\nTomorrow is a very warm day.明天天氣很溫暖。\nIt'll be a nice day to visit the zoo. 是去動物園玩的好天氣。",
-          "time": null
+          "time": "3:38"
         }
       ],
       "postscript": "這些單字很常用到。\nname名字\nask問，請求\ncome out出來\nwarm溫暖的"
@@ -1443,7 +1451,7 @@
           "b. China",
           "c. Antarctica"
         ],
-        "time": null,
+        "time": "4:20",
         "answer": "c"
       },
       {
@@ -1453,7 +1461,7 @@
           "b. 24",
           "c. 65"
         ],
-        "time": null,
+        "time": "4:27",
         "answer": "c"
       },
       {
@@ -1463,7 +1471,7 @@
           "b. 13 years",
           "c. 30 years"
         ],
-        "time": null,
+        "time": "4:35",
         "answer": "b"
       }
     ]
@@ -1483,42 +1491,42 @@
       {
         "en": "Villager: DRAGON!",
         "tw": "村民：龍！",
-        "time": null
+        "time": "0:20"
       },
       {
         "en": "Narrator: In some stories, dragons are very scary. They're huge lizards with wings! They blow fire from their mouths! They eat people! They tear down buildings!",
         "tw": "龍在一些故事裡是很可怕的動物。牠們很像長翅膀的大蜥蜴，會噴火、吃人，還會推倒建築物。",
-        "time": null
+        "time": "0:22"
       },
       {
         "en": "Dragons aren't so bad. Look at dragonflies. They fly, but they don't blow fire! And they're too small to tear down buildings…",
         "tw": "但也不是所有的龍都很可怕。像是dragonfly...蜻蜓...會飛但是不會噴火。",
-        "time": null
+        "time": "0:49"
       },
       {
         "en": "Blue sea dragons sometimes come to the ocean around Taiwan. They're smaller than dragonflies. The biggest are three centimeters long!",
         "tw": "海底有一種生物叫「藍龍」有時候會靠近台灣附近海域，牠們只有3公分長。",
-        "time": null
+        "time": "1:10"
       },
       {
         "en": "They're bright blue on one side and gray on the other. This hides them from birds and fish. They have long, flat bodies with... dragon wings! These are small parts with many long fingers.",
         "tw": "牠們長長的身體一邊是亮藍色，另一邊是灰色，還有觸角，看起來就像龍的翅膀。",
-        "time": null
+        "time": "1:30"
       },
       {
         "en": "Blue sea dragons are called \"the most beautiful killers in the ocean.\" That's because they're very poisonous! If you see a blue sea dragon, stay far, far away!",
         "tw": "藍龍被稱為「大海最美的殺手」。因為牠們有毒，要記得離牠們遠一點。",
-        "time": null
+        "time": "1:56"
       },
       {
         "en": "Seven blue sea dragons were seen in the ocean near Keelung. It's rare to see so many at one time!",
         "tw": "在基隆附近海域看到七隻藍龍，很少能一次看到這麼多隻!",
-        "time": null
+        "time": "2:19"
       },
       {
         "en": "Seven poisonous blue sea dragons are near Keelung... Why are we here?! RUN!!!",
         "tw": "七隻有毒的藍龍在基隆附近...我們為什麼在這裡？！快跑！！！",
-        "time": null
+        "time": "2:35"
       }
     ],
     "vocabulary": {
@@ -1526,19 +1534,19 @@
       "content": [
         {
           "text": "1. lizard 蜥蜴\nDragons are lizards, right?\nNo, well, yes.\nI mean, dragons are not real.",
-          "time": null
+          "time": "2:51"
         },
         {
           "text": "2. scary 嚇人的\nI want my dragons to fly and fight.\nIn the story you're writing?\nYeah, my dragons will be very scary.",
-          "time": null
+          "time": "3:07"
         },
         {
           "text": "3. hide 躲藏\nIf I see your dragon, I'll run and hide.\nThat will be useless because my dragon can find you.",
-          "time": null
+          "time": "3:24"
         },
         {
           "text": "4. tear down 破壞、拆掉\nIt will tear down your hiding place and eat you!",
-          "time": null
+          "time": "3:39"
         }
       ],
       "postscript": "今天的單字很好玩喔！\nlizard蜥蜴\nscary嚇人的\nhide躲藏\ntear down破壞、拆掉"
@@ -1551,7 +1559,7 @@
           "b. Blow fire",
           "c. Tear down buildings"
         ],
-        "time": null,
+        "time": "4:05",
         "answer": "a"
       },
       {
@@ -1561,7 +1569,7 @@
           "b. Dragonflies",
           "c. Blue sea dragons"
         ],
-        "time": null,
+        "time": "4:23",
         "answer": "c"
       },
       {
@@ -1571,7 +1579,7 @@
           "b. 3 centimeters",
           "c. 7 centimeters"
         ],
-        "time": null,
+        "time": "4:35",
         "answer": "b"
       }
     ]
@@ -1923,35 +1931,43 @@
     "content": [
       {
         "en": "Are you generous? A generous person gives money or help in a kind way. Maybe you're generous. But are you as generous as Geoffrey Holt was?",
-        "tw": "你是一個慷慨的人嗎?你能像Geoffrey Holt一樣慷慨嗎?"
+        "tw": "你是一個慷慨的人嗎?你能像Geoffrey Holt一樣慷慨嗎?",
+        "time": "0:19"
       },
       {
         "en": "Who was Geoffrey Holt? Jeffrey was a nice, quiet man. People liked him. He lived in a small town in America called Hinsdale.",
-        "tw": "他是誰呢?Geoffrey是個安靜又友善的人，他住在美國一個叫Hinsdale的小鎮。"
+        "tw": "他是誰呢?Geoffrey是個安靜又友善的人，他住在美國一個叫Hinsdale的小鎮。",
+        "time": "0:38"
       },
       {
         "en": "Geoffrey knew a lot about cars. But he didn't drive a car. He rode a bicycle around town. That's because Geoffrey didn't like to spend much money.",
-        "tw": "Geoffrey很了解車，但是他沒有開車。Geoffrey不喜歡花很多錢，他都在小鎮裡騎腳踏車。"
+        "tw": "Geoffrey很了解車，但是他沒有開車。Geoffrey不喜歡花很多錢，他都在小鎮裡騎腳踏車。",
+        "time": "0:56"
       },
       {
         "en": "When he was 82, he died. But Geoffrey had a big secret. He kept the secret for a long time.",
-        "tw": "但是Geoffrey有個秘密，大家一直到他在82歲過世的時候才發現。"
+        "tw": "但是Geoffrey有個秘密，大家一直到他在82歲過世的時候才發現。",
+        "time": "1:18"
       },
       {
         "en": "Geoffrey was rich! He had about four million dollars. Wow! That's more than 125 million Taiwan dollars!",
-        "tw": "他其實很有錢，他有大約400萬美金，超過1億2500萬台幣。"
+        "tw": "他其實很有錢，他有大約400萬美金，超過1億2500萬台幣。",
+        "time": "1:34"
       },
       {
         "en": "Geoffrey gave all his money to Hinsdale when he died. He wanted to help his town.",
-        "tw": "Geoffrey死後把他所有的錢留給這個小鎮，希望可以有所幫助。"
+        "tw": "Geoffrey死後把他所有的錢留給這個小鎮，希望可以有所幫助。",
+        "time": "1:54"
       },
       {
         "en": "The people of Hinsdale are very happy about the money. They will use Geoffrey's money to help their town. Their schools and other things in their town will be better.",
-        "tw": "Hinsdale的人非常高興，他們打算讓小鎮裡的學校跟其他的設備變得更好。"
+        "tw": "Hinsdale的人非常高興，他們打算讓小鎮裡的學校跟其他的設備變得更好。",
+        "time": "2:08"
       },
       {
         "en": "Geoffrey Holt was a very generous guy!",
-        "tw": "Geoffrey Holt 是一個非常慷慨的人！"
+        "tw": "Geoffrey Holt 是一個非常慷慨的人！",
+        "time": "2:28"
       }
     ],
     "vocabulary": {
@@ -1971,7 +1987,7 @@
         },
         {
           "text": "4. better 更好的\nAre you happy now? 你现在快乐吗?\nI try to be.我在努力。\nI believe I can do better.我相信可以做得更好。\nI'll help you. 我会帮你。\nThank you! You are nice and kind. 谢谢，你真的是又好又和善。",
-          "time": "3:20"
+          "time": "3:14"
         }
       ],
       "postscript": "你今天學到哪些字?\ndie死亡\nkind仁慈的\nhappy快樂的\nbetter更好的"
@@ -1984,7 +2000,7 @@
           "b. Drove a car",
           "c. Rode a bicycle"
         ],
-        "time": "4:00",
+        "time": "3:58",
         "answer": "c"
       },
       {
@@ -1994,7 +2010,7 @@
           "b. 82",
           "c. 102"
         ],
-        "time": "4:13",
+        "time": "4:12",
         "answer": "b"
       },
       {
@@ -2026,37 +2042,37 @@
       {
         "en": "What can you see in the sky? You can see the moon and the stars. But now, with binoculars, you can also see a bag.",
         "tw": "抬頭看天空可以看到月亮跟星星，但現在用雙筒望遠鏡你也可以看到一個包包。",
-        "time": null
+        "time": "0:21"
       },
       {
         "en": "What? A bag in the sky? How did that get there?",
         "tw": "什麼？一個包包在天上？它是怎麼跑到那裡的？",
-        "time": null
+        "time": "0:43"
       },
       {
         "en": "It started with two astronauts in space. They were fixing a space station. They wore space suits and worked with special tools. They kept their tools in a tool bag. Then one of the astronauts lost her tool bag.",
         "tw": "起因是有兩個太空人穿著太空衣，拿著工具包，修理太空站。但是其中一人沒有抓緊她的工具包。",
-        "time": null
+        "time": "0:52"
       },
       {
         "en": "You know, everything floats in space. The big white bag floated away. The astronaut could not catch it! The bag is floating up there now.",
         "tw": "在太空中所有的東西都會飄浮，那個白色大工具包就這樣飄走了。",
-        "time": null
+        "time": "1:22"
       },
       {
         "en": "Another astronaut in space saw the bag. It was floating over Japan. People on Earth can see the bag too. The bag is big and white, so it is very bright.",
         "tw": "另一個太空人看到工具包飄過日本，它很大，因為是白色的，所以也很亮，人們從地球上都看得到。",
-        "time": null
+        "time": "1:43"
       },
       {
         "en": "Scientists say the bag will stay up in the sky for a few months. Then it will start falling to Earth.",
         "tw": "科學家說這個包包會飄在太空中幾個月才會掉到地球。",
-        "time": null
+        "time": "2:10"
       },
       {
         "en": "Can you see something white in the sky? Maybe it's a star. Or maybe it's the lost tool bag!",
         "tw": "你有在天空中看到白色的東西嗎？也許是星星。或者也許是那個丟失的工具包！",
-        "time": null
+        "time": "2:25"
       }
     ],
     "vocabulary": {
@@ -2064,19 +2080,19 @@
       "content": [
         {
           "text": "1. float 飄浮\nHave you heard about this bag floating in the sky?\n你聽說了那個飄在天上的包包嗎?\nYeah, I'd really love to see it.有，我真想看。",
-          "time": null
+          "time": "2:40"
         },
         {
           "text": "2. star 星星\nMe too! Do you think it will fly by very fast? 我也是! 你想它會不會飛得很快?\nLike a shooting star? 像流星那樣嗎?\nNo, I don't think so. 我覺得不會。",
-          "time": null
+          "time": "2:52"
         },
         {
           "text": "3. binoculars 望遠鏡\nIt should go by slowly like a satellite.它應該像衛星一樣慢慢走。\nThen I'll bring my binoculars with me. 那我要帶著望遠鏡。",
-          "time": null
+          "time": "3:10"
         },
         {
           "text": "4. stay 停留\nTo get a better look at the bag? 好把工具包看得更清楚嗎?\nOf course. 當然。\nWhen should we go? 我們應該什麼時候去看?\nDon't worry. It will stay up there for months.\n別擔心，它會待在天上好幾個月呢。",
-          "time": null
+          "time": "3:22"
         }
       ],
       "postscript": "你平常會觀看星象嗎?\nfloat飄浮\nstar星星\nbinoculars望遠鏡\nstay停留"
@@ -2089,7 +2105,7 @@
           "b. Red",
           "c. Green"
         ],
-        "time": null,
+        "time": "3:50",
         "answer": "a"
       },
       {
@@ -2099,7 +2115,7 @@
           "b. On the moon",
           "c. In the sky"
         ],
-        "time": null,
+        "time": "4:05",
         "answer": "c"
       },
       {
@@ -2109,7 +2125,7 @@
           "b. In a few months",
           "c. In a few years"
         ],
-        "time": null,
+        "time": "4:20",
         "answer": "b"
       }
     ]

@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 /**
- * 使用 Gemini 將 public/assets/audio-words 的逐段轉錄時間軸，
- * 對齊並回寫至 public/assets/data 的 content、vocabulary 與 quiz time 欄位。
+ * 使用 LLM（Gemini 或 NVIDIA 等 OpenAI 相容 API）將 public/assets/audio-words
+ * 的逐段轉錄時間軸，對齊並回寫至 public/assets/data 的 content、vocabulary
+ * 與 quiz time 欄位。
  *
  * 用法：
  *   node tools/merge-audio-words.mjs                  # 最近兩個月（上個月＋本月）
@@ -20,33 +21,76 @@ export const DEFAULTS = {
   dataDir: 'public/assets/data',
   audioWordsDir: 'public/assets/audio-words',
   promptFile: 'tools/prompts/merge-audio-words.txt',
+  provider: 'gemini',
   model: 'gemini-2.5-flash',
+  nvidiaModel: 'z-ai/glm-5.2',
+  nvidiaBaseUrl: 'https://integrate.api.nvidia.com/v1',
+  grokModel: 'grok-4.3',
+  grokBaseUrl: 'https://api.x.ai/v1',
   timeoutMs: 2 * 60 * 1000,
+  requestIntervalMs: 60_000,
+  requestLogDir: 'logs/merge-audio-words',
   retries: 3,
 };
 
 export const ENV_KEY = 'GEMINI_API_KEY';
 export const MODEL_ENV_KEY = 'GEMINI_MODEL';
+export const PROVIDER_ENV_KEY = 'LLM_PROVIDER';
+export const NVIDIA_ENV_KEY = 'NVIDIA_API_KEY';
+export const NVIDIA_MODEL_ENV_KEY = 'NVIDIA_MODEL';
+export const NVIDIA_BASE_URL_ENV_KEY = 'NVIDIA_BASE_URL';
+export const GROK_ENV_KEY = 'GROK_API_KEY';
+export const GROK_MODEL_ENV_KEY = 'GROK_MODEL';
+export const GROK_BASE_URL_ENV_KEY = 'GROK_BASE_URL';
+export const REQUEST_INTERVAL_ENV_KEY = 'LLM_REQUEST_INTERVAL_MS';
+export const REQUEST_LOG_DIR_ENV_KEY = 'LLM_REQUEST_LOG_DIR';
+
+export const PROVIDERS = {
+  gemini: { apiKeyEnv: ENV_KEY, modelEnv: MODEL_ENV_KEY, defaultModel: DEFAULTS.model },
+  nvidia: {
+    apiKeyEnv: NVIDIA_ENV_KEY,
+    modelEnv: NVIDIA_MODEL_ENV_KEY,
+    defaultModel: DEFAULTS.nvidiaModel,
+    baseUrlEnv: NVIDIA_BASE_URL_ENV_KEY,
+    defaultBaseUrl: DEFAULTS.nvidiaBaseUrl,
+  },
+  grok: {
+    apiKeyEnv: GROK_ENV_KEY,
+    modelEnv: GROK_MODEL_ENV_KEY,
+    defaultModel: DEFAULTS.grokModel,
+    baseUrlEnv: GROK_BASE_URL_ENV_KEY,
+    defaultBaseUrl: DEFAULTS.grokBaseUrl,
+  },
+};
 const MAX_RETRY_DELAY_MS = 60_000;
+const lastRequestStartedAt = new WeakMap();
+let requestLogSequence = 0;
 
 const USAGE = `用法：node tools/merge-audio-words.mjs [選項] [YYYYMM...]
 
 從 --data-dir 的月份 JSON 開始判斷；僅處理 content 第一段 time 為空的主題，
-並用相同月份 --audio-words-dir 內對應 id 的 segments 交給 Gemini 對齊後回寫 data。
+並用相同月份 --audio-words-dir 內對應 id 的 segments 交給 LLM 對齊後回寫 data。
 不指定月份時，處理最近兩個月（上個月與本月，避免跨月遺漏）。
 
 選項：
   --data-dir <路徑>         月份 data JSON 資料夾（預設 ${DEFAULTS.dataDir}）
   --audio-words-dir <路徑>  Whisper 時間軸資料夾（預設 ${DEFAULTS.audioWordsDir}）
-  --prompt-file <路徑>      Gemini 提示詞文字檔（預設 ${DEFAULTS.promptFile}）
-  --model <名稱>            Gemini 模型（預設讀取 .env 的 ${MODEL_ENV_KEY}）
+  --prompt-file <路徑>      提示詞文字檔（預設 ${DEFAULTS.promptFile}）
+  --provider <名稱>         LLM 供應商：${Object.keys(PROVIDERS).join('、')}（預設 ${DEFAULTS.provider}，或由 ${PROVIDER_ENV_KEY} 指定）
+  --model <名稱>            模型名稱（預設依供應商讀取 .env 的 ${MODEL_ENV_KEY}、${NVIDIA_MODEL_ENV_KEY} 或 ${GROK_MODEL_ENV_KEY}）
+  --base-url <網址>         OpenAI 相容 API base URL，nvidia、grok 使用（依 --provider 決定預設值）
   --timeout <秒>            單次 API 逾時秒數（預設 ${DEFAULTS.timeoutMs / 1000}）
   --retries <次數>          每題最大嘗試次數（預設 ${DEFAULTS.retries}）
   --id <主題 id>            只處理指定 id（可重複使用）
   --force                   重新對齊已有 time 的主題
+  --all                     掃描 --data-dir 內所有月份 JSON（YYYYMM.json），不可與 [YYYYMM...] 同時使用
   -h, --help                顯示說明
 
-Gemini API Key 與模型由環境變數或專案根目錄 .env 的 ${ENV_KEY}、${MODEL_ENV_KEY} 提供。`;
+API Key 與模型由環境變數或專案根目錄 .env 提供：gemini 讀取 ${ENV_KEY}、${MODEL_ENV_KEY}；
+nvidia 讀取 ${NVIDIA_ENV_KEY}、${NVIDIA_MODEL_ENV_KEY}、${NVIDIA_BASE_URL_ENV_KEY}；
+grok 讀取 ${GROK_ENV_KEY}、${GROK_MODEL_ENV_KEY}、${GROK_BASE_URL_ENV_KEY}。
+請求間隔與 request log 資料夾由 ${REQUEST_INTERVAL_ENV_KEY}、${REQUEST_LOG_DIR_ENV_KEY} 提供，各供應商共用；
+請求間隔單位為毫秒，預設 ${DEFAULTS.requestIntervalMs}；request log 預設寫入 ${DEFAULTS.requestLogDir}。`;
 
 /** 解析 .env 內容為物件，支援 KEY=VALUE、# 註解與空行，值可用單／雙引號包住。 */
 export function parseEnvText(text) {
@@ -105,11 +149,14 @@ export function parseCliArgs(argv, env = process.env) {
       'data-dir': { type: 'string' },
       'audio-words-dir': { type: 'string' },
       'prompt-file': { type: 'string' },
+      provider: { type: 'string' },
       model: { type: 'string' },
+      'base-url': { type: 'string' },
       timeout: { type: 'string' },
       retries: { type: 'string' },
       id: { type: 'string', multiple: true },
       force: { type: 'boolean' },
+      all: { type: 'boolean' },
       help: { type: 'boolean', short: 'h' },
     },
   });
@@ -124,9 +171,19 @@ export function parseCliArgs(argv, env = process.env) {
     }
   }
 
-  const apiKey = String(env[ENV_KEY] ?? '').trim();
+  if (values.all && positionals.length > 0) {
+    throw new Error(`--all 不可與月份參數同時使用。\n\n${USAGE}`);
+  }
+
+  const provider = String(values.provider ?? env[PROVIDER_ENV_KEY] ?? DEFAULTS.provider).trim().toLowerCase();
+  const providerConfig = PROVIDERS[provider];
+  if (!providerConfig) {
+    throw new Error(`--provider 或 ${PROVIDER_ENV_KEY} 僅支援 ${Object.keys(PROVIDERS).join('、')}：${provider}\n\n${USAGE}`);
+  }
+
+  const apiKey = String(env[providerConfig.apiKeyEnv] ?? '').trim();
   if (apiKey === '') {
-    throw new Error(`請在環境變數或 .env 設定 ${ENV_KEY}（參考 .env.example）。\n\n${USAGE}`);
+    throw new Error(`請在環境變數或 .env 設定 ${providerConfig.apiKeyEnv}（參考 .env.example）。\n\n${USAGE}`);
   }
 
   const timeoutSeconds = values.timeout === undefined ? DEFAULTS.timeoutMs / 1000 : Number(values.timeout);
@@ -139,24 +196,74 @@ export function parseCliArgs(argv, env = process.env) {
     throw new Error(`--retries 必須是正整數：${values.retries}`);
   }
 
-  const model = String(values.model ?? env[MODEL_ENV_KEY] ?? DEFAULTS.model).trim();
+  const model = String(values.model ?? env[providerConfig.modelEnv] ?? providerConfig.defaultModel).trim();
   if (model === '') {
-    throw new Error(`--model 或 ${MODEL_ENV_KEY} 不可為空。`);
+    throw new Error(`--model 或 ${providerConfig.modelEnv} 不可為空。`);
+  }
+
+  const baseUrl = String(values['base-url'] ?? env[providerConfig.baseUrlEnv] ?? providerConfig.defaultBaseUrl ?? '')
+    .trim()
+    .replace(/\/+$/, '');
+  if (providerConfig.baseUrlEnv && baseUrl === '') {
+    throw new Error(`--base-url 或 ${providerConfig.baseUrlEnv} 不可為空。`);
+  }
+
+  const requestIntervalMs = Number(env[REQUEST_INTERVAL_ENV_KEY] ?? DEFAULTS.requestIntervalMs);
+  if (!Number.isSafeInteger(requestIntervalMs) || requestIntervalMs < 0) {
+    throw new Error(`${REQUEST_INTERVAL_ENV_KEY} 必須是大於或等於 0 的整數（毫秒）：${env[REQUEST_INTERVAL_ENV_KEY]}`);
+  }
+
+  const requestLogDir = String(env[REQUEST_LOG_DIR_ENV_KEY] ?? DEFAULTS.requestLogDir).trim();
+  if (requestLogDir === '') {
+    throw new Error(`${REQUEST_LOG_DIR_ENV_KEY} 不可為空。`);
   }
 
   return {
     help: false,
     months: positionals.length > 0 ? positionals : defaultMonths(),
+    all: values.all ?? false,
     dataDir: values['data-dir'] ?? DEFAULTS.dataDir,
     audioWordsDir: values['audio-words-dir'] ?? DEFAULTS.audioWordsDir,
     promptFile: values['prompt-file'] ?? DEFAULTS.promptFile,
+    provider,
     model,
+    baseUrl,
     timeoutMs: timeoutSeconds * 1000,
+    requestIntervalMs,
+    requestLogDir,
     retries,
     ids: values.id ?? [],
     force: values.force ?? false,
     apiKey,
   };
+}
+
+/** 將單次 Gemini request 的提示詞與結果寫成獨立純文字檔。 */
+export async function writeRequestLog(logDir, topic, prompt, result, now = new Date()) {
+  const requestedAt = now.toISOString();
+  const timestamp = requestedAt.replaceAll(':', '-');
+  const topicId = String(topic?.id ?? 'unknown').replaceAll(/[^A-Za-z0-9_-]/g, '_');
+  requestLogSequence += 1;
+  const sequence = String(requestLogSequence).padStart(4, '0');
+  const filePath = path.join(logDir, `${timestamp}_${topicId}_${sequence}.txt`);
+  const log = `<提示詞/>\n${String(prompt)}\n</提示詞>\n<結果/>\n${String(result)}\n</結果>\n`;
+
+  await fs.mkdir(logDir, { recursive: true });
+  await fs.writeFile(filePath, log, 'utf8');
+  return filePath;
+}
+
+/** 確保同一次執行中的 API 請求啟動時間至少相隔指定毫秒數。 */
+async function waitForRequestInterval(config) {
+  const previousStartedAt = lastRequestStartedAt.get(config);
+  if (previousStartedAt !== undefined) {
+    const waitMs = Math.max(0, config.requestIntervalMs - (Date.now() - previousStartedAt));
+    if (waitMs > 0) {
+      console.log(`    等待 API 請求間隔 ${waitMs} 毫秒...`);
+      await new Promise((resolve) => setTimeout(resolve, waitMs));
+    }
+  }
+  lastRequestStartedAt.set(config, Date.now());
 }
 
 function detectIndent(raw) {
@@ -310,7 +417,7 @@ export function buildPrompt(template, topic, segments) {
     .replaceAll('{{WHISPER_SUBTITLES}}', subtitles);
 }
 
-class GeminiHttpError extends Error {
+class ApiHttpError extends Error {
   constructor(status, message, retryAfterMs = null) {
     super(message);
     this.status = status;
@@ -335,51 +442,131 @@ function retryAfterMs(response, detail) {
   return parseRetryDelayText(detail);
 }
 
-/** 呼叫 Gemini structured output，取得尚未通過語意驗證的對齊結果。 */
-async function requestGemini(config, topic, segments) {
-  const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(config.model)}:generateContent`;
-  const response = await fetch(endpoint, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'x-goog-api-key': config.apiKey,
-    },
-    body: JSON.stringify({
-      contents: [{ role: 'user', parts: [{ text: buildPrompt(config.promptTemplate, topic, segments) }] }],
-      generationConfig: {
-        temperature: 0,
-        responseMimeType: 'application/json',
-        responseSchema: buildResponseSchema(topic),
-      },
-    }),
-    signal: AbortSignal.timeout(config.timeoutMs),
-  });
+/** 送出 JSON POST 並寫 request log；成功時回傳解析後的回應 body 與 logResult。 */
+async function requestApiJson(config, topic, prompt, endpoint, headers, requestBody) {
+  await waitForRequestInterval(config);
+  const requestedAt = new Date();
+  const logResult = async (result) => {
+    const logPath = await writeRequestLog(config.requestLogDir, topic, prompt, result, requestedAt);
+    console.log(`    Request log：${logPath}`);
+  };
+
+  let response;
+  try {
+    response = await fetch(endpoint, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', ...headers },
+      body: JSON.stringify(requestBody),
+      signal: AbortSignal.timeout(config.timeoutMs),
+    });
+  }
+  catch (error) {
+    await logResult(`請求失敗：${error.message}`);
+    throw error;
+  }
+
+  const rawResponse = await response.text();
 
   if (!response.ok) {
-    const detail = (await response.text()).slice(0, 500);
-    throw new GeminiHttpError(
+    await logResult(rawResponse || `HTTP ${response.status}`);
+    const detail = rawResponse.slice(0, 500);
+    throw new ApiHttpError(
       response.status,
-      `Gemini API 回應 HTTP ${response.status}${detail ? `：${detail}` : ''}`,
+      `${config.provider} API 回應 HTTP ${response.status}${detail ? `：${detail}` : ''}`,
       retryAfterMs(response, detail),
     );
   }
 
-  const body = await response.json();
+  try {
+    return { body: JSON.parse(rawResponse), logResult };
+  }
+  catch (error) {
+    await logResult(rawResponse);
+    throw new Error(`${config.provider} API 回應無法解析為 JSON：${error.message}`);
+  }
+}
+
+/** 從模型輸出取出 JSON 本文：去除 Markdown code fence 與前後多餘文字。 */
+export function extractJsonText(text) {
+  let value = String(text).trim();
+  const fenced = /^```[A-Za-z]*\s*([\s\S]*?)\s*```$/.exec(value);
+  if (fenced) {
+    value = fenced[1].trim();
+  }
+  if (!value.startsWith('{')) {
+    const start = value.indexOf('{');
+    const end = value.lastIndexOf('}');
+    if (start !== -1 && end > start) {
+      value = value.slice(start, end + 1);
+    }
+  }
+  return value;
+}
+
+function parseAlignmentText(config, text) {
+  try {
+    return JSON.parse(extractJsonText(text));
+  }
+  catch (error) {
+    throw new Error(`${config.provider} 回傳無法解析的 JSON：${error.message}`);
+  }
+}
+
+/** 呼叫 Gemini structured output，取得尚未通過語意驗證的對齊結果。 */
+async function requestGemini(config, topic, segments) {
+  const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(config.model)}:generateContent`;
+  const prompt = buildPrompt(config.promptTemplate, topic, segments);
+  const { body, logResult } = await requestApiJson(config, topic, prompt, endpoint, { 'x-goog-api-key': config.apiKey }, {
+    contents: [{ role: 'user', parts: [{ text: prompt }] }],
+    generationConfig: {
+      temperature: 0,
+      responseMimeType: 'application/json',
+      responseSchema: buildResponseSchema(topic),
+    },
+  });
+
   const text = body.candidates?.[0]?.content?.parts
     ?.map((part) => part.text ?? '')
     .join('')
     .trim();
   if (!text) {
     const reason = body.candidates?.[0]?.finishReason ?? body.promptFeedback?.blockReason ?? '未知原因';
+    await logResult(`Gemini 未回傳結果（${reason}）`);
     throw new Error(`Gemini 未回傳結果（${reason}）`);
   }
 
-  try {
-    return JSON.parse(text);
+  await logResult(text);
+  return parseAlignmentText(config, text);
+}
+
+/**
+ * 呼叫 OpenAI 相容 chat completions 端點（nvidia、grok 共用），取得尚未通過語意驗證的對齊結果。
+ * 端點不保證支援 structured output，因此把 JSON Schema 附加至提示詞，
+ * 回應再交由 validateAlignment 嚴格驗證。
+ */
+async function requestOpenAiCompatible(config, topic, segments) {
+  const endpoint = `${config.baseUrl}/chat/completions`;
+  const prompt = [
+    buildPrompt(config.promptTemplate, topic, segments),
+    '',
+    '請只輸出符合以下 JSON Schema 的單一 JSON 物件，不要輸出 Markdown code fence 或任何其他文字：',
+    JSON.stringify(buildResponseSchema(topic)),
+  ].join('\n');
+  const { body, logResult } = await requestApiJson(config, topic, prompt, endpoint, { Authorization: `Bearer ${config.apiKey}` }, {
+    model: config.model,
+    messages: [{ role: 'user', content: prompt }],
+    temperature: 0,
+  });
+
+  const text = String(body.choices?.[0]?.message?.content ?? '').trim();
+  if (!text) {
+    const reason = body.choices?.[0]?.finish_reason ?? '未知原因';
+    await logResult(`${config.provider} 未回傳結果（${reason}）`);
+    throw new Error(`${config.provider} 未回傳結果（${reason}）`);
   }
-  catch (error) {
-    throw new Error(`Gemini 回傳無法解析的 JSON：${error.message}`);
-  }
+
+  await logResult(text);
+  return parseAlignmentText(config, text);
 }
 
 function validateGroup(name, values, expectedLength, maxTimelineSeconds, strictOrder) {
@@ -471,14 +658,21 @@ export function formatAlignmentResult(alignment) {
 }
 
 function isRetryable(error) {
-  return !(error instanceof GeminiHttpError) || error.status === 408 || error.status === 429 || error.status >= 500;
+  return !(error instanceof ApiHttpError) || error.status === 408 || error.status === 429 || error.status >= 500;
 }
 
+const REQUEST_HANDLERS = {
+  gemini: requestGemini,
+  nvidia: requestOpenAiCompatible,
+  grok: requestOpenAiCompatible,
+};
+
 async function alignTopic(config, topic, segments) {
+  const request = REQUEST_HANDLERS[config.provider];
   let lastError;
   for (let attempt = 1; attempt <= config.retries; attempt += 1) {
     try {
-      const result = await requestGemini(config, topic, segments);
+      const result = await request(config, topic, segments);
       return validateAlignment(topic, segments, result);
     }
     catch (error) {
@@ -515,7 +709,9 @@ async function processFile(config, dataPath, stats) {
   }
   catch (error) {
     if (error.code === 'ENOENT') {
-      throw new Error(`找不到 audio-words 月份檔：${audioWordsPath}`);
+      console.warn(`  尚未產生逐字稿，略過（請先執行 update-audio-words.mjs 或 sync-audio-words.mjs）：${audioWordsPath}`);
+      stats.missingAudioWords.push(monthFile);
+      return;
     }
     throw error;
   }
@@ -544,7 +740,7 @@ async function processFile(config, dataPath, stats) {
     }
 
     try {
-      console.log(`  [${id}] Gemini 對齊中（${segments.length} 段）...`);
+      console.log(`  [${id}] ${config.provider} 對齊中（${segments.length} 段）...`);
       const alignment = await alignTopic(config, topic, segments);
       dataDocument.value[topicIndex] = mergeTimestamps(topic, alignment);
       const indexes = await writeDataAndSyncIndexes(dataPath, dataDocument, config.dataDir);
@@ -580,14 +776,23 @@ async function resolveDataFiles(config) {
   return files;
 }
 
+/** 掃描 data 目錄，回傳所有月份 JSON（YYYYMM.json）的月份代碼，由小到大排序。 */
+export async function listMonthFiles(dataDir) {
+  const fileNames = await fs.readdir(dataDir);
+  return fileNames
+    .filter((name) => /^\d{6}\.json$/.test(name))
+    .map((name) => path.basename(name, '.json'))
+    .sort();
+}
+
 /** 掃描 data 目錄，將時間戳完整月份與 tags 補入索引並排序。 */
 export async function syncDataIndexes(dataDir) {
-  const fileNames = await fs.readdir(dataDir);
+  const months = await listMonthFiles(dataDir);
   const monthDocuments = [];
-  for (const fileName of fileNames.filter((name) => /^\d{6}\.json$/.test(name)).sort()) {
+  for (const month of months) {
     monthDocuments.push({
-      month: path.basename(fileName, '.json'),
-      topics: (await readJsonDocument(path.join(dataDir, fileName))).value,
+      month,
+      topics: (await readJsonDocument(path.join(dataDir, `${month}.json`))).value,
     });
   }
 
@@ -640,13 +845,29 @@ async function main() {
     return;
   }
 
+  if (config.all) {
+    try {
+      config.months = await listMonthFiles(config.dataDir);
+    }
+    catch (error) {
+      console.error(`掃描 ${config.dataDir} 失敗：${error.message}`);
+      process.exitCode = 2;
+      return;
+    }
+    if (config.months.length === 0) {
+      console.error(`${config.dataDir} 沒有任何月份 JSON（YYYYMM.json）。`);
+      process.exitCode = 2;
+      return;
+    }
+  }
+
   try {
     config.promptTemplate = await fs.readFile(config.promptFile, 'utf8');
     // 在真正呼叫 API 前先確認提示詞保留必要佔位符。
     buildPrompt(config.promptTemplate, { content: [], vocabulary: { content: [] }, quiz: [] }, []);
   }
   catch (error) {
-    console.error(`無法讀取 Gemini 提示詞 ${config.promptFile}：${error.message}`);
+    console.error(`無法讀取提示詞 ${config.promptFile}：${error.message}`);
     process.exitCode = 2;
     return;
   }
@@ -661,9 +882,15 @@ async function main() {
     return;
   }
 
-  const stats = { updated: 0, skipped: 0, failed: [] };
+  const stats = { updated: 0, skipped: 0, failed: [], missingAudioWords: [] };
   console.log(`處理月份：${config.months.join(', ')}`);
-  console.log(`Gemini 模型：${config.model}`);
+  console.log(`LLM 供應商：${config.provider}`);
+  console.log(`模型：${config.model}`);
+  if (config.baseUrl) {
+    console.log(`API base URL：${config.baseUrl}`);
+  }
+  console.log(`請求間隔：${config.requestIntervalMs} 毫秒`);
+  console.log(`Request log：${config.requestLogDir}`);
   console.log(`提示詞：${config.promptFile}`);
 
   for (const dataPath of dataFiles) {
@@ -691,9 +918,14 @@ async function main() {
     stats.failed.push('data indexes');
   }
 
-  console.log(`\n完成：合併 ${stats.updated} 題、略過 ${stats.skipped} 題、失敗 ${stats.failed.length} 筆。`);
+  console.log(`\n完成：合併 ${stats.updated} 題、略過 ${stats.skipped} 題、失敗 ${stats.failed.length} 筆、尚未產生逐字稿 ${stats.missingAudioWords.length} 個月份。`);
+  if (stats.missingAudioWords.length > 0) {
+    console.warn(`尚未產生逐字稿而略過的月份（非失敗，請先執行 update-audio-words.mjs 或 sync-audio-words.mjs 後再重跑）：${stats.missingAudioWords.join(', ')}`);
+  }
   if (stats.failed.length > 0) {
     console.error(`失敗清單：${stats.failed.join(', ')}`);
+  }
+  if (stats.failed.length > 0 || stats.missingAudioWords.length > 0) {
     process.exitCode = 1;
   }
 }

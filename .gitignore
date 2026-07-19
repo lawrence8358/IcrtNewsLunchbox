@@ -34,6 +34,7 @@ yarn-error.log
 .sass-cache/
 /connect.lock
 /coverage
+/logs/merge-audio-words/
 /libpeerconnection.log
 testem.log
 /typings
@@ -43,3 +44,4 @@ testem.log
 Thumbs.db
 
 .vscode
+/tools/logs/

@@ -208,31 +208,38 @@
     "content": [
       {
         "en": "Narrator: In Taiwan, many kids from eleven to thirteen years old took a survey. Seventy percent said they needed more exercise. Kids: What?/Huh?!/No way! Narrator: You know what? They're right!",
-        "tw": "台灣很多11歲到13歲的小朋友填問卷調查，有百分之70的說他們需要運動。他們說的沒錯!"
+        "tw": "台灣很多11歲到13歲的小朋友填問卷調查，有百分之70的說他們需要運動。他們說的沒錯!",
+        "time": "0:20"
       },
       {
         "en": "Kids from five to seventeen years old need one hour of exercise a day. That's seven hours of exercise a week!",
-        "tw": "5到17歲的孩童需要每天運動1小時，一周要7個小時。"
+        "tw": "5到17歲的孩童需要每天運動1小時，一周要7個小時。",
+        "time": "0:47"
       },
       {
         "en": "Kids have PE. But at most schools, PE is eighty to ninety minutes a week.",
-        "tw": "雖然學校有體育課，但大多數一周只上80到90分鐘。"
+        "tw": "雖然學校有體育課，但大多數一周只上80到90分鐘。",
+        "time": "1:05"
       },
       {
         "en": "Exercise can help kids be healthier. We can get exercise by doing things to move more. We can take the stairs, walk the dog, or ride a bike.",
-        "tw": "運動可以讓兒童更健康。我們可以多動動，像是走樓梯、遛狗或騎腳踏車。"
+        "tw": "運動可以讓兒童更健康。我們可以多動動，像是走樓梯、遛狗或騎腳踏車。",
+        "time": "1:13"
       },
       {
         "en": "Right now, it's too hot outside. The summer heat is strong. But - there are many ways to exercise inside! We can dance, swim, jump rope, play badminton, do taekwondo, or hula hoop!",
-        "tw": "外面現在真的太熱了，還是有很多方法可以在室內運動，例如跳舞、游泳、跳繩、打羽毛球、打跆拳道或搖呼拉圈。"
+        "tw": "外面現在真的太熱了，還是有很多方法可以在室內運動，例如跳舞、游泳、跳繩、打羽毛球、打跆拳道或搖呼拉圈。",
+        "time": "1:40"
       },
       {
         "en": "Neighbor: Hey! Quiet down! Narrator: We need some space! We want to be safe, and we don't want to make people angry when we exercise at home!",
-        "tw": "我們需要安全的空間做運動。我們也不想在家做運動的時候，惹怒其他人。"
+        "tw": "我們需要安全的空間做運動。我們也不想在家做運動的時候，惹怒其他人。",
+        "time": "2:21"
       },
       {
         "en": "Do you exercise one hour a day? No? Why are you sitting? If your teacher says okay, go and move!",
-        "tw": "你每天運動一小時嗎？沒有？為什麼你坐著？如果你的老師說可以，那就去動起來！"
+        "tw": "你每天運動一小時嗎？沒有？為什麼你坐著？如果你的老師說可以，那就去動起來！",
+        "time": "2:35"
       }
     ],
     "vocabulary": {
@@ -240,19 +247,19 @@
       "content": [
         {
           "text": "1. exercise 運動\nWendy, let's go rollerblading at the park this afternoon.",
-          "time": "0:02"
+          "time": "2:50"
         },
         {
           "text": "2. healthier 更健康\nNo, I need to study.",
-          "time": "0:03"
+          "time": "3:10"
         },
         {
           "text": "3. hour 鐘頭\nStill, experts say you need to work out for one hour every day.",
-          "time": "0:03"
+          "time": "3:27"
         },
         {
           "text": "4. swim 游泳\nAlright, I'll go swimming all by myself!",
-          "time": "0:03"
+          "time": "3:41"
         }
       ],
       "postscript": "What kind of exercise do you like?\nexercise運動\nhealthier更健康\nhour鐘頭\nswim游泳"
@@ -265,7 +272,7 @@
           "b. Eleven to thirteen",
           "c. Eighty to ninety"
         ],
-        "time": "0:04",
+        "time": "4:17",
         "answer": "b"
       },
       {
@@ -275,7 +282,7 @@
           "b. Five hours",
           "c. Seven hours"
         ],
-        "time": "0:04",
+        "time": "4:23",
         "answer": "a"
       },
       {
@@ -285,7 +292,7 @@
           "b. Healthier",
           "c. Safer"
         ],
-        "time": "0:04",
+        "time": "4:37",
         "answer": "b"
       }
     ]

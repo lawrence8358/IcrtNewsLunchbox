@@ -1348,42 +1348,42 @@
       {
         "en": "What time is it in New York? I know that's a hard question.",
         "tw": "你知道現在紐約幾點嗎？",
-        "time": null
+        "time": "0:20"
       },
       {
         "en": "New York is 12 hours behind Taiwan. When it's noon here, it's midnight in New York. You're eating lunch. But kids in New York are sleeping.",
         "tw": "紐約比台灣慢 12 個小時，現在這裡是中午，所以紐約那裡是半夜。你吃午餐的時候，紐約的小孩在睡覺。",
-        "time": null
+        "time": "0:28"
       },
       {
         "en": "Japan is one hour ahead of Taiwan. It's noon here. But it's 1 PM there. Kids in Japan are finished with lunch.",
         "tw": "日本比台灣早一個小時，那裡現在是下午一點，日本的小孩已經吃完午餐了。",
-        "time": null
+        "time": "0:54"
       },
       {
         "en": "New York, Japan, and Taiwan are in different time zones. The world has 24 time zones. Here's a very hard question. What time is it on the moon?",
         "tw": "紐約、日本跟台灣都在不同的時區，全球有24個時區。但你知道月球上現在幾點嗎？",
-        "time": null
+        "time": "1:14"
       },
       {
         "en": "Well, no one knows. Different countries say different times! Astronauts from different countries want to work together. But they need to use the same time.",
         "tw": "不同國家的太空人要一起工作，但是他們需要一致的時間。",
-        "time": null
+        "time": "1:40"
       },
       {
         "en": "There is a problem. The moon's gravity and the earth's gravity are different. Clocks are faster there.",
         "tw": "這是個大問題，因為月球上的重力跟地球不一樣，時鐘在月球上跑得比較快。",
-        "time": null
+        "time": "2:01"
       },
       {
         "en": "Scientists want to make a moon time zone. Then everyone will know what time it is on the moon.",
         "tw": "科學家想要創造一個月球時區，這樣大家就知道月球上現在幾點了。",
-        "time": null
+        "time": "2:20"
       },
       {
         "en": "A moon time zone is a great idea!",
         "tw": "月球時區是個很棒的主意！",
-        "time": null
+        "time": "2:36"
       }
     ],
     "vocabulary": {
@@ -1391,19 +1391,19 @@
       "content": [
         {
           "text": "1. midnight 半夜\nYou should go to bed. 你應該上床了。\nIt's already midnight. 已經半夜三更了。\nMidnight is still early, you know. 半夜其實很早，你知道。",
-          "time": null
+          "time": "2:46"
         },
         {
           "text": "2. finish 結束\nYeah, for people across the Pacific. 是啊，對太平洋那一頭的人來說。\nI mean it. 真的啊。\nSome people are just starting their day, but I have finished my work.\n有的人才剛開始一天，我卻已經結束工作了。",
-          "time": null
+          "time": "2:59"
         },
         {
           "text": "3. work 工作\nI want more time to sleep and less time at work.\n我要的是多一點時間睡覺，少一點工作。\nSame here. 我也一樣。",
-          "time": null
+          "time": "3:20"
         },
         {
           "text": "4. hard 困難的\nBut what about more money for more work? 但是多工作就多賺錢如何？\nThat's a hard one. 這個問題有點難。",
-          "time": null
+          "time": "3:33"
         }
       ],
       "postscript": "來讀讀單字。\nmidnight 半夜\nfinish 結束\nwork 工作\nhard 困難的"
@@ -1416,7 +1416,7 @@
           "b. 1:30 PM",
           "c. 2:30 PM"
         ],
-        "time": null,
+        "time": "3:58",
         "answer": "a"
       },
       {
@@ -1426,7 +1426,7 @@
           "b. Too many astronauts",
           "c. Slow clocks"
         ],
-        "time": null,
+        "time": "4:20",
         "answer": "a"
       },
       {
@@ -1436,7 +1436,7 @@
           "b. More gravity",
           "c. A new moon"
         ],
-        "time": null,
+        "time": "4:32",
         "answer": "a"
       }
     ]
@@ -1457,32 +1457,32 @@
       {
         "en": "Ouch! A cut! It's so small… It's tiny! But this tiny wound hurts so much! I need a bandage.",
         "tw": "我割傷了！傷口好小，可是好痛！我需要一條 OK 繃。",
-        "time": null
+        "time": "0:22"
       },
       {
         "en": "Do you know about the new \"smart bandages\"? The smart bandages are stretchy. These stretchy bandages are easy to use. You can put one on any wound.",
         "tw": "你有聽過「智慧繃帶」嗎？這種繃帶可以拉很長，包覆在各種傷口上。",
-        "time": null
+        "time": "0:38"
       },
       {
         "en": "These smart bandages have tiny computers. These tiny computers look for heat and germs. They look for changes too. Good changes mean the wound is healing. Bad changes mean it needs more help. The tiny computers send this information to a big computer.",
         "tw": "這種繃帶具備細小的電腦，偵測傷口是否發熱、有細菌或是有變化。好的變化代表傷口正在癒合，如果變壞，代表需要更多治療。小電腦會把資料傳送到大電腦上。",
-        "time": null
+        "time": "0:58"
       },
       {
         "en": "Tiny bits of electricity help wounds heal faster. The tiny computers can give wounds tiny bits of electricity! Medicine is also in these smart bandages. Does a wound need more help? A smart bandage can put medicine on it!",
         "tw": "小電腦還會釋放微量電流，讓傷口更快癒合，甚至可以幫傷口上藥！",
-        "time": null
+        "time": "1:40"
       },
       {
         "en": "My tiny wound doesn't need a smart bandage. It can heal quickly with no help. These smart bandages are for big wounds. Some people get big wounds from fires. These bandages can help big wounds a lot.",
         "tw": "我的傷口很小，不用智慧繃帶，這種智慧繃帶是給燒傷的那種大傷口用的。",
-        "time": null
+        "time": "2:06"
       },
       {
         "en": "Scientists are testing these smart bandages now. The bandages are not ready yet. Many people have big wounds. These are the people who need smart bandages. The smart bandages are pretty cool. But I don't want to need one!",
         "tw": "科學家正在測試這些智慧繃帶。這些繃帶還沒有準備好。許多人都有大傷口。這些人需要智慧繃帶。智慧繃帶很酷。但我不想用到！",
-        "time": null
+        "time": "2:46"
       }
     ],
     "vocabulary": {
@@ -1490,19 +1490,19 @@
       "content": [
         {
           "text": "1. hurt 痛 Hey, what happened to you? 發生了什麼事？ It must hurt a lot! 一定很痛吧！ You're telling me. 還用你說。",
-          "time": null
+          "time": "2:58"
         },
         {
           "text": "2. look for 尋找 How did you get hurt? 你是怎麼受傷的？ I fell down the stairs looking for my glasses. 我找眼鏡時摔下樓梯。 You really need your glasses to see the stairs. 你真的需要眼鏡來看樓梯。 I know that! 我也知道！",
-          "time": null
+          "time": "3:08"
         },
         {
           "text": "3. wound 傷口 Okay, okay, but you should cover the wound. 好啦，不過你應該把傷口蓋起來。 No, I'm fine. 不用，我很好。 Here, let me put this bandage on it. 來吧，我把這個OK繃貼上去。",
-          "time": null
+          "time": "3:27"
         },
         {
           "text": "4. heal 癒合 Will it help me heal? 它會讓我癒合嗎？ That's what the ad said. 廣告是這麼說的。",
-          "time": null
+          "time": "3:42"
         }
       ],
       "postscript": "你今天學到哪些單字？ hurt 痛 look for 尋找 wound 傷口 heal 癒合"
@@ -1515,7 +1515,7 @@
           "B: Scientists",
           "C: Some medicine"
         ],
-        "time": null,
+        "time": "4:07",
         "answer": "a"
       },
       {
@@ -1525,7 +1525,7 @@
           "B: Tiny bits of electricity",
           "C: Tiny computers"
         ],
-        "time": null,
+        "time": "4:26",
         "answer": "b"
       },
       {
@@ -1535,7 +1535,7 @@
           "B: Big wounds",
           "C: Smart wounds"
         ],
-        "time": null,
+        "time": "4:34",
         "answer": "b"
       }
     ]
@@ -1649,32 +1649,32 @@
       {
         "en": "Yay! I'm finished studying! I went to college. I studied for two years. I got a degree in cooking! My degree shows I can cook well.",
         "tw": "唸了兩年，我終於從廚藝學校畢業了！",
-        "time": null
+        "time": "0:20"
       },
       {
         "en": "Some people go to college or university. They want a degree. A degree shows they studied something. Some degrees take two years. Some take four or five years. But guess what? One man's degree took fifty-two years! That's a very long time!",
         "tw": "有一些人去讀大學，想要拿學位。學位是他們學習的證明，有一些學位需要兩年時間，有些要四到五年。但有一個人花了五十二年！",
-        "time": null
+        "time": "0:35"
       },
       {
         "en": "Nick wanted a Ph.D. A Ph.D is one of the highest degrees. Ph.D. students think of new ideas. They study their new ideas. Nick studied his math idea. It was 1970. He was 23 years old.",
         "tw": "Nick 想要讀博士，是最高的學位。博士生需要構思新點子，並且做研究。Nick 在1970 年，也就是他 23 歲的時候，開始攻讀數學博士學位。",
-        "time": null
+        "time": "1:11"
       },
       {
         "en": "He studied for five years. But… he did not finish his degree! Nick did not study for a long time. His idea was big. He wanted to think about it. He did other things. He worked. He had a family.",
         "tw": "過了五年，他仍然沒有獲得博士學位，因為他的點子太龐大了，需要好好思考。所以他先去工作，也有了自己的家庭。",
-        "time": null
+        "time": "1:48"
       },
       {
         "en": "Then he went to university again. He was 69 years old! Some people stop studying. They do not study again. But Nick did. Nick finished studying his math idea. He got his Ph.D. He was 75 years old!",
         "tw": "等到他重回大學，已經 69 歲了! 他繼續鑽研數學， 75 歲那年終於完成了研究，得到了博士學位！",
-        "time": null
+        "time": "2:18"
       },
       {
         "en": "Nick shows us we can study and learn at any time in our lives!",
         "tw": "尼克向我們展示了，我們可以在人生的任何時候學習和成長！",
-        "time": null
+        "time": "2:49"
       }
     ],
     "vocabulary": {
@@ -1682,19 +1682,19 @@
       "content": [
         {
           "text": "1. study 讀書\nJoin our party Friday night, Paz. 來參加我們星期五晚上的派對吧。\nThere will be barbecue and music.會有烤肉，還有音樂。\nOh, I wish I could! 我真希望我能去！\nBut I need to study. 但是我要讀書。",
-          "time": null
+          "time": "3:03"
         },
         {
           "text": "2. year 年\nYou've already studied for two years! 你已經讀了兩年了。\nI know, and I still have two more years to go. 我知道，還要再讀兩年呢。",
-          "time": null
+          "time": "3:21"
         },
         {
           "text": "3. get 獲得\nBefore getting your doctorate degree? 之後就拿到博士學位嗎？\nYeah. It feels like a long time. 對，感覺還要好久。",
-          "time": null
+          "time": "3:34"
         },
         {
           "text": "4. finish 完成\nBut after you finish, you can get a good job. 但是完成之後，就可以找到好工作。\nIf I am lucky. 要是我運氣好的話。",
-          "time": null
+          "time": "3:46"
         }
       ],
       "postscript": "這些單字簡單好用。\nstudy 讀書\nyear 年\nget 獲得\nfinish 完成"
@@ -1707,7 +1707,7 @@
           "b. Math",
           "c. Chinese"
         ],
-        "time": null,
+        "time": "4:10",
         "answer": "b"
       },
       {
@@ -1717,7 +1717,7 @@
           "b. 50 years",
           "c. 52 years"
         ],
-        "time": null,
+        "time": "4:23",
         "answer": "c"
       },
       {
@@ -1727,7 +1727,7 @@
           "b. 69 years old",
           "c. 75 years old"
         ],
-        "time": null,
+        "time": "4:38",
         "answer": "c"
       }
     ]
@@ -1748,32 +1748,32 @@
       {
         "en": "Tomorrow is International Dance Day! Dancing is cool. We can feel good, have fun, and listen to great music!",
         "tw": "明天是世界舞蹈日！跳舞很好玩，還可以聽音樂！",
-        "time": null
+        "time": "0:19"
       },
       {
         "en": "A university in the USA has a marathon.",
         "tw": "美國有一所大學，都會辦馬拉松比賽。",
-        "time": null
+        "time": "0:35"
       },
       {
         "en": "There are marathons all over the world. In many marathons, people run a long, long way. They run for 42 kilometers. Most run to get money for others. They give the money to people who need help.",
         "tw": "全世界都有馬拉松，參賽者要跑42公里。很多人跑那麼累是為了募款，好捐獻給需要的人。",
-        "time": null
+        "time": "0:44"
       },
       {
         "en": "At Penn State University's marathon, students don't run. They dance! It's a dance marathon! Students dance for a long, long time. Penn State University has the world's biggest dance marathon.",
         "tw": "賓州大學辦的這場馬拉松，不用跑步，而是要跳舞！這是全世界最大的跳舞馬拉松！",
-        "time": null
+        "time": "1:13"
       },
       {
         "en": "Students dance for 46 hours. That's nearly two days! No-one can sit or sleep! There is live music. There are DJs and dance crews. These help tired students to dance, dance, dance!",
         "tw": "學生們連續跳舞46 個小時，不能坐下，也不能睡覺。現場 DJ 會放音樂，讓大家不停地跳！",
-        "time": null
+        "time": "1:41"
       },
       {
         "en": "This year over 707 students danced. They got 15 million US dollars! That's 458 million NT dollars! The money is helping very sick kids.",
         "tw": "今年有超過707名學生跳舞。他們籌集到1500萬美元！相當於4.58億新台幣！這些錢正在幫助患有重病的孩子們。",
-        "time": null
+        "time": "2:12"
       }
     ],
     "vocabulary": {
@@ -1781,19 +1781,19 @@
       "content": [
         {
           "text": "1. tired 疲倦的\nOh, My God! I'm so tired! 天哪，我好累！\nUh hm, you've danced for three hours! 對啊，你跳了三個鐘頭了！\nReally? That long? 真的？有那麼久喔？",
-          "time": null
+          "time": "2:51"
         },
         {
           "text": "2. sit 坐著\nNow I must sit for a while. 現在我得坐一下了。\nHow come you're not dancing? 你怎麼沒有跳舞？\nI was, but I'm listening to the music now. 我剛剛有跳，現在我在聽音樂。",
-          "time": null
+          "time": "3:07"
         },
         {
           "text": "3. music 音樂\nOh no, this is salsa, my favorite dance! 糟糕，這是騷沙，我最喜歡的舞曲！\nI'd have to do this one! 這我一定要跳！",
-          "time": null
+          "time": "3:22"
         },
         {
           "text": "4. help 幫忙\nCome on, let's dance together! 來吧，我們一起跳！\nAlright, but you have to help me. 好吧，但是你得幫我。",
-          "time": null
+          "time": "3:34"
         }
       ],
       "postscript": "來讀讀單字。\ntired 疲倦的\nsit 坐\nmusic 音樂\nhelp 幫忙"
@@ -1806,7 +1806,7 @@
           "b. The UAE",
           "c. The USA"
         ],
-        "time": null,
+        "time": "4:07",
         "answer": "c"
       },
       {
@@ -1816,7 +1816,7 @@
           "b. 4 to 6 hours",
           "c. 46 hours"
         ],
-        "time": null,
+        "time": "4:17",
         "answer": "c"
       },
       {
@@ -1826,7 +1826,7 @@
           "b. 707 million US dollars",
           "c. 458 million US dollars"
         ],
-        "time": null,
+        "time": "4:31",
         "answer": "a"
       }
     ]
