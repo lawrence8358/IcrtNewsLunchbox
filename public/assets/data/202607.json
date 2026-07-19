@@ -1217,5 +1217,98 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260720-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Kind Man Finds Way to Make Rats Stay Away",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260717NK.mp3",
+    "content": [
+      {
+        "en": "A rat is in a warehouse. It is looking for food. It sniffs. It scratches. It chews. It bites! The rat thinks it is safe. But something is hunting it!",
+        "tw": "有一隻老鼠在倉庫裡東聞聞、西抓抓，還到處啃咬。 老鼠以為他很安全，但其實有東西正在準備獵捕牠！",
+        "time": null
+      },
+      {
+        "en": "The hunter is quiet. It does not move. It is hiding from the rat. It waits. It listens. The rat gets closer. Then… the hunter attacks! The hunter kills the rat. It brings the rat to its favorite person. The person says, \"Good job!\" This hunter is a cat! Rats are afraid of cats. When rats hear cats, they stay away!",
+        "tw": "獵人一動也不動，安靜地躲著，等待老鼠接近。然後獵人出手了！獵人殺死老鼠，並且把他獻給主人。主人給他個讚，這位獵人就是一隻貓！老鼠很怕貓。只要聽到貓的聲音，老鼠通常就會躲得遠遠的。",
+        "time": null
+      },
+      {
+        "en": "But in one warehouse in Nantou, there are no cats. And there are no rats! A man has lots of tea in the warehouse. He wants rats to stay away. But he does not want cats to hunt them.",
+        "tw": "南投有一位賣茶的男子，他有一間存放許多茶葉的倉庫。他希望老鼠不要跑進倉庫裡。",
+        "time": null
+      },
+      {
+        "en": "The man is kind. He says rats are living things. He does not want cats to hurt or kill them.",
+        "tw": "不過這名男子心腸軟，他不希望貓去捕捉、傷害老鼠！",
+        "time": null
+      },
+      {
+        "en": "The man looked for cat sounds online. He plays the sounds in his warehouse. Rats think cats are there! They stay away!",
+        "tw": "於是，他上網尋找貓叫聲的錄音。老鼠聽到貓叫聲，以為倉庫裡真的有貓，被嚇得紛紛逃走了！",
+        "time": null
+      },
+      {
+        "en": "Cat sounds play. Rats stay away! Good job!",
+        "tw": "播放貓叫聲。老鼠躲得遠遠的！做得好！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "老鼠害怕貓的叫聲，不論是真的貓，還是貓的錄音。",
+      "content": [
+        {
+          "text": "1. sniff 聞。\nDo you see what I see? 你看到我看到的嗎? I’m seeing a rat.我看到一隻老鼠。 And it’s sniffing around. 牠正在到處聞。 What should we do?我們怎麼辦?",
+          "time": null
+        },
+        {
+          "text": "2. attack 攻擊。\nLet’s attack it with a broom.拿掃把打牠. I can’t do that.我沒辦法。 Plus we don’t have a broom.而且我們沒有掃把。",
+          "time": null
+        },
+        {
+          "text": "3. bite 咬。\nThen what’s your suggestion? 那你來建議。 Just give it some food. 就給牠一點吃的。 What?! 什麼啊?! Let it eat, so that it doesn’t bite other things.讓牠吃，這樣就不會咬別的東西。",
+          "time": null
+        },
+        {
+          "text": "4. hide 躲藏。\nIt will hide the minute we move. 我們一動作牠就會躲起來。 Good. That’ll give us time to set a trap. 那好，我們就有時間設陷阱。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字都是動詞。\nsniff聞 attack攻擊 bite咬 hide躲藏"
+    },
+    "quiz": [
+      {
+        "question": "1. What is the rat in the warehouse looking for?",
+        "options": [
+          "a. Food",
+          "b. Other rats",
+          "c. The hunter"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What does the hunter's favorite person say?",
+        "options": [
+          "a. \"Good job!\"",
+          "b. \"Nice work!\"",
+          "c. \"Very good!\""
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did the man in Nantou look for online?",
+        "options": [
+          "a. Rat sounds",
+          "b. Cat sounds",
+          "c. Rat food"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
