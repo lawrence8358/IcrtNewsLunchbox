@@ -55,7 +55,10 @@
       <div class="footer-divider"></div>
       <small class="text-muted">
         <i class="fas fa-graduation-cap me-1"></i>
-        專為台灣學童設計的英語聽力練習平台 © 2025
+        專為台灣學童設計的英語聽力練習平台 © 2025–{{ currentYear }}
+        @if (buildVersion) {
+          <span class="build-version">{{ buildVersion }}</span>
+        }
       </small>
     </div>
   </div>

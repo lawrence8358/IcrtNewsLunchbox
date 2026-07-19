@@ -387,16 +387,11 @@ export class TopicDetailDialogComponent implements OnInit, OnDestroy {
     this.showDetailedTips = !this.showDetailedTips;
   }
 
-  /**
-   * 取得學習狀態選項
-   */
-  getLearningStatusOptions(): Array<{value: string, label: string}> {
-    return [
-      { value: 'not-started', label: '未進行' },
-      { value: 'learning', label: '學習中' },
-      { value: 'learned', label: '已學習' }
-    ];
-  }
+  readonly learningStatusOptions = [
+    { value: 'not-started', label: '未進行' },
+    { value: 'learning', label: '學習中' },
+    { value: 'learned', label: '已學習' }
+  ];
 
   /**
    * 更新學習狀態

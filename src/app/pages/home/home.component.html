@@ -4,10 +4,10 @@
     <div class="row g-2">
       <div class="col-md-2">
         <label for="monthSelect" class="form-label">
-          <i class="fas fa-calendar-alt me-1"></i>選擇月份
+          <i class="fas fa-calendar-alt me-1"></i>查詢範圍
         </label>
         <select class="form-select" id="monthSelect" [(ngModel)]="selectedMonth">
-          <option value="">請選擇月份</option>
+          <option [value]="allMonthsValue">全部月份</option>
           @for (month of monthsData; track month) {
             <option [value]="month">
               {{ formatMonthLabel(month) }}
@@ -22,7 +22,7 @@
         </label>
         <select class="form-select" id="typeSelect" [(ngModel)]="selectedType">
           <option value="">全部程度</option>
-          @for (type of getUniqueTypes(); track type) {
+          @for (type of typesData; track type) {
             <option [value]="type">
               {{ type }}
             </option>
@@ -49,7 +49,7 @@
           <i class="fas fa-graduation-cap me-1"></i>學習狀態
         </label>
         <select class="form-select" id="learningStatusSelect" [(ngModel)]="selectedLearningStatus">
-          @for (option of getLearningStatusOptions(); track option) {
+          @for (option of learningStatusOptions; track option.value) {
             <option [value]="option.value">
               {{ option.label }}
             </option>
@@ -96,8 +96,8 @@
         @if (!isSearching && filteredData.length === 0 && currentData.length === 0) {
           <div class="empty-state">
             <i class="fas fa-search"></i>
-            <h5>請選擇月份開始</h5>
-            <p>選擇一個月份來瀏覽該月的英語聽力內容</p>
+            <h5>目前沒有可顯示的內容</h5>
+            <p>請調整查詢範圍或搜尋條件</p>
           </div>
         }
         <!-- 無搜尋結果 -->
@@ -110,8 +110,11 @@
         }
         <!-- 主題卡片列表 -->
         @if (!isSearching && filteredData.length > 0) {
-          <div class="topics-list">
-            @for (topic of filteredData; track topic) {
+          <div class="topics-list" id="topicsStart">
+            <div class="results-summary">
+              第 {{ currentPage }} / {{ totalPages }} 頁，共 {{ filteredData.length }} 筆結果
+            </div>
+            @for (topic of visibleData; track topic.id) {
               <div class="topic-card"
                 (click)="showTopicDetail(topic)">
                 <div class="topic-meta">
@@ -141,6 +144,31 @@
                     {{ topic.content[0].en.substring(0, 100) }}{{ topic.content[0].en.length > 100 ? '...' : '' }}
                   </div>
                 }
+              </div>
+            }
+            @if (totalPages > 1) {
+              <nav class="results-pagination" aria-label="搜尋結果分頁">
+                <ul class="pagination justify-content-center mb-0">
+                  <li class="page-item" [class.disabled]="currentPage === 1">
+                    <button type="button" class="page-link" (click)="goToPage(currentPage - 1)" [disabled]="currentPage === 1">
+                      上一頁
+                    </button>
+                  </li>
+                  @for (page of visiblePageNumbers; track page) {
+                    <li class="page-item" [class.active]="page === currentPage">
+                      <button type="button" class="page-link" (click)="goToPage(page)"
+                        [attr.aria-current]="page === currentPage ? 'page' : null">{{ page }}</button>
+                    </li>
+                  }
+                  <li class="page-item" [class.disabled]="currentPage === totalPages">
+                    <button type="button" class="page-link" (click)="goToPage(currentPage + 1)" [disabled]="currentPage === totalPages">
+                      下一頁
+                    </button>
+                  </li>
+                </ul>
+              </nav>
+              <div class="results-summary results-summary-bottom">
+                第 {{ currentPage }} / {{ totalPages }} 頁，共 {{ filteredData.length }} 筆結果
               </div>
             }
           </div>

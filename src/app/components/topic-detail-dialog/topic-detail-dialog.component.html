@@ -84,7 +84,7 @@
           id="learningStatusSelect"
           [(ngModel)]="currentLearningStatus"
           (change)="updateLearningStatus()">
-          @for (option of getLearningStatusOptions(); track option) {
+          @for (option of learningStatusOptions; track option.value) {
             <option [value]="option.value">
               {{ option.label }}
             </option>

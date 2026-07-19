@@ -4,8 +4,11 @@
   "version": "1.0.0",
   "scripts": {
     "ng": "ng",
+    "prestart": "node scripts/generate-data-manifest.mjs",
     "start": "ng serve",
+    "prebuild": "node scripts/generate-data-manifest.mjs",
     "build": "ng build --base-href=/IcrtNewsLunchbox/",
+    "prewatch": "node scripts/generate-data-manifest.mjs",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "deploy": "gh-pages -d dist/browser",

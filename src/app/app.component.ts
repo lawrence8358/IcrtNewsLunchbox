@@ -14,6 +14,8 @@ import { SettingConfig } from './config/setting.config';
 })
 export class AppComponent implements OnInit, OnDestroy, AfterViewInit {
   notifications: NotificationMessage[] = [];
+  readonly buildVersion = SettingConfig.buildVersion;
+  readonly currentYear = new Date().getFullYear();
   private readonly destroy$ = new Subject<void>();
 
   constructor(private readonly notificationService: NotificationService) { }

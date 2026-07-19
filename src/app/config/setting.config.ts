@@ -5,6 +5,8 @@
 export class SettingConfig {
   private static _months: string[] = [];
   private static _tags: string[] = [];
+  private static _dataVersions: Record<string, string> = {};
+  private static _buildVersion = '';
   private static _isInitialized = false;
   private static readonly _randomParam: string = this.getRandomParam();
 
@@ -37,6 +39,20 @@ export class SettingConfig {
   }
 
   /**
+   * 取得指定月份資料檔的內容版本
+   */
+  static getDataVersion(month: string): string {
+    return this._dataVersions[month] || '';
+  }
+
+  /**
+   * 取得目前部署的建置版號
+   */
+  static get buildVersion(): string {
+    return this._buildVersion;
+  }
+
+  /**
    * 設定月份清單（僅供內部使用）
    */
   static _setMonths(months: string[]): void {
@@ -48,6 +64,17 @@ export class SettingConfig {
    */
   static _setTags(tags: string[]): void {
     this._tags = [...tags];
+  }
+
+  /**
+   * 設定各月份資料檔的內容版本（僅供內部使用）
+   */
+  static _setDataVersions(versions: Record<string, string>): void {
+    this._dataVersions = { ...versions };
+  }
+
+  static _setBuildVersion(buildVersion: string): void {
+    this._buildVersion = buildVersion;
   }
 
   /**
@@ -63,6 +90,8 @@ export class SettingConfig {
   static _reset(): void {
     this._months = [];
     this._tags = [];
+    this._dataVersions = {};
+    this._buildVersion = '';
     this._isInitialized = false;
   }
 

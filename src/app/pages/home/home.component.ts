@@ -22,11 +22,16 @@ import { SettingConfig } from '../../config/setting.config';
 })
 export class HomeComponent implements OnInit, OnDestroy {
 
+  readonly allMonthsValue = 'all';
+  readonly pageSize = 20;
+
   // 資料
   monthsData: string[] = [];
   tagsData: string[] = [];
+  typesData: string[] = [];
   currentData: Topic[] = [];
   filteredData: Topic[] = [];
+  visibleData: Topic[] = [];
   currentTopic: Topic | null = null;
 
   // 表單控制項
@@ -36,9 +41,17 @@ export class HomeComponent implements OnInit, OnDestroy {
   selectedTag = '';
   selectedLearningStatus = ''; // 學習狀態篩選
 
+  readonly learningStatusOptions = [
+    { value: '', label: '全部' },
+    { value: 'not-started', label: '未進行' },
+    { value: 'learning', label: '學習中' },
+    { value: 'learned', label: '已學習' }
+  ];
+
   // 狀態
   isLoading = false;
   isSearching = false;
+  currentPage = 1;
 
   private readonly destroy$ = new Subject<void>();
   private settings: AppSettings = {
@@ -89,11 +102,11 @@ export class HomeComponent implements OnInit, OnDestroy {
       this.monthsData = SettingConfig.months;
       this.tagsData = SettingConfig.tags;
 
-      // 如果沒有設定的月份，使用第一個月份作為預設
-      const lastMonth = this.settings.lastMonth || this.monthsData[0];
+      // 新使用者預設查詢全部月份；既有使用者沿用上次的查詢範圍
+      const lastMonth = this.settings.lastMonth || this.allMonthsValue;
 
       // 設定預設值
-      if (lastMonth && this.monthsData.includes(lastMonth)) {
+      if (lastMonth === this.allMonthsValue || this.monthsData.includes(lastMonth)) {
         this.selectedMonth = lastMonth;
         this.searchText = this.settings.lastSearch;
         this.selectedType = this.settings.lastType;
@@ -101,7 +114,7 @@ export class HomeComponent implements OnInit, OnDestroy {
         this.selectedLearningStatus = this.settings.lastLearningStatus || ''; // 向後相容性處理
 
         // 載入該月份的資料
-        await this.loadMonthData();
+        await this.loadSelectedData();
       }
 
     } catch (error) {
@@ -143,25 +156,30 @@ export class HomeComponent implements OnInit, OnDestroy {
   /**
    * 載入月份資料
    */
-  private async loadMonthData(): Promise<void> {
+  private async loadSelectedData(): Promise<void> {
     if (!this.selectedMonth) return;
 
     this.isSearching = true;
 
     try {
-      const rawData = await firstValueFrom(this.dataService.loadMonthData(this.selectedMonth)) || [];
+      const dataRequest = this.selectedMonth === this.allMonthsValue
+        ? this.dataService.loadMonthsData(this.monthsData)
+        : this.dataService.loadMonthData(this.selectedMonth);
+      const rawData = await firstValueFrom(dataRequest) || [];
       
       // 應用學習狀態到主題列表
       this.currentData = this.learningStatusService.applyLearningStatusToTopics(rawData);
+      this.typesData = this.filterService.getUniqueTypes(this.currentData);
       this.performFilter();
-
-      // 填充類型選項（通過 getUniqueTypes() 動態生成）
 
     } catch (error) {
       console.error('載入月份資料失敗:', error);
       this.notificationService.showError('載入資料失敗');
       this.currentData = [];
+      this.typesData = [];
       this.filteredData = [];
+      this.visibleData = [];
+      this.currentPage = 1;
     } finally {
       this.isSearching = false;
     }
@@ -177,7 +195,7 @@ export class HomeComponent implements OnInit, OnDestroy {
     }
 
     this.saveSettings();
-    await this.loadMonthData();
+    await this.loadSelectedData();
   }
 
   /**
@@ -191,25 +209,36 @@ export class HomeComponent implements OnInit, OnDestroy {
       this.selectedTag,
       this.selectedLearningStatus
     );
+    this.currentPage = 1;
+    this.updateVisibleData();
+  }
+
+  get totalPages(): number {
+    return Math.ceil(this.filteredData.length / this.pageSize);
+  }
+
+  get visiblePageNumbers(): number[] {
+    const firstPage = Math.max(1, Math.min(this.currentPage - 2, this.totalPages - 4));
+    const lastPage = Math.min(this.totalPages, firstPage + 4);
+    return Array.from({ length: Math.max(0, lastPage - firstPage + 1) }, (_, index) => firstPage + index);
+  }
+
+  goToPage(page: number): void {
+    if (page < 1 || page > this.totalPages || page === this.currentPage) {
+      return;
+    }
+
+    this.currentPage = page;
+    this.updateVisibleData();
+    document.getElementById('topicsStart')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
 
   /**
-   * 取得唯一類型清單
+   * 更新目前要呈現的搜尋結果，避免一次建立過多 DOM 節點。
    */
-  getUniqueTypes(): string[] {
-    return this.filterService.getUniqueTypes(this.currentData);
-  }
-
-  /**
-   * 取得學習狀態選項
-   */
-  getLearningStatusOptions(): Array<{value: string, label: string}> {
-    return [
-      { value: '', label: '全部' },
-      { value: 'not-started', label: '未進行' },
-      { value: 'learning', label: '學習中' },
-      { value: 'learned', label: '已學習' }
-    ];
+  private updateVisibleData(): void {
+    const startIndex = (this.currentPage - 1) * this.pageSize;
+    this.visibleData = this.filteredData.slice(startIndex, startIndex + this.pageSize);
   }
 
   /**
