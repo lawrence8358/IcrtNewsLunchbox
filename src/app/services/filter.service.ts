@@ -16,7 +16,8 @@ export class FilterService {
     searchText: string,
     selectedType: string,
     selectedTag: string,
-    selectedLearningStatus?: string
+    selectedLearningStatus?: string,
+    favoriteOnly?: boolean
   ): Topic[] {
     if (!topics || topics.length === 0) {
       return [];
@@ -65,7 +66,13 @@ export class FilterService {
         learningStatusMatch = topicStatus === selectedLearningStatus;
       }
 
-      return textMatch && typeMatch && tagMatch && learningStatusMatch;
+      // 我的最愛篩選
+      let favoriteMatch = true;
+      if (favoriteOnly) {
+        favoriteMatch = topic.isFavorite === true;
+      }
+
+      return textMatch && typeMatch && tagMatch && learningStatusMatch && favoriteMatch;
     });
   }
 

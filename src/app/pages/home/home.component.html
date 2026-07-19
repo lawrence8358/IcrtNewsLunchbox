@@ -71,13 +71,25 @@
 
         <div class="col-md-2">
           <label class="form-label">&nbsp;</label>
-          <button type="button"
-            class="btn btn-primary d-block w-100"
-            (click)="performSearch()"
-            [disabled]="isSearching">
-            <i class="fas fa-search me-1"></i>
-            {{ isSearching ? '搜尋中...' : '搜尋' }}
-          </button>
+          <div class="d-flex gap-2">
+            <button type="button"
+              class="btn btn-primary flex-grow-1"
+              (click)="performSearch()"
+              [disabled]="isSearching">
+              <i class="fas fa-search me-1"></i>
+              {{ isSearching ? '搜尋中...' : '搜尋' }}
+            </button>
+            <button type="button"
+              class="btn favorite-filter-btn"
+              [class.active]="favoriteOnly"
+              (click)="toggleFavoriteFilter()"
+              [disabled]="isSearching"
+              [attr.aria-pressed]="favoriteOnly"
+              [title]="favoriteOnly ? '顯示全部文章' : '只看我的最愛'"
+              aria-label="只看我的最愛">
+              <i class="fas fa-heart"></i>
+            </button>
+          </div>
         </div>
       </div>
     </div>
@@ -129,7 +141,18 @@
                     [class.fa-check-circle]="topic.learningStatus === 'learned'"></i>
                     {{ getLearningStatusLabel(topic.learningStatus) }}
                   </span>
-                  <span class="topic-date">{{ formatDate(topic.id) }}</span>
+                  <span class="topic-meta-right">
+                    <span class="topic-date">{{ formatDate(topic.id) }}</span>
+                    <button type="button"
+                      class="topic-favorite-btn"
+                      [class.is-favorite]="topic.isFavorite"
+                      (click)="toggleFavorite(topic, $event)"
+                      [attr.aria-pressed]="topic.isFavorite"
+                      [title]="topic.isFavorite ? '移除我的最愛' : '加入我的最愛'"
+                      aria-label="我的最愛">
+                      <i [class]="topic.isFavorite ? 'fas fa-heart' : 'far fa-heart'"></i>
+                    </button>
+                  </span>
                 </div>
                 @if (topic.tag && topic.tag.length > 0) {
                   <div class="topic-tags">

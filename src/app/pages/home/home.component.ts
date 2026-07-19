@@ -9,6 +9,7 @@ import { FilterService } from '../../services/filter.service';
 import { NotificationService } from '../../services/notification.service';
 import { UtilsService } from '../../services/utils.service';
 import { LearningStatusService } from '../../services/learning-status.service';
+import { FavoriteService } from '../../services/favorite.service';
 import { Topic, AppSettings } from '../../models/topic.model';
 import { TopicDetailDialogComponent } from '../../components/topic-detail-dialog/topic-detail-dialog.component';
 import { SettingConfig } from '../../config/setting.config';
@@ -40,6 +41,7 @@ export class HomeComponent implements OnInit, OnDestroy {
   selectedType = '';
   selectedTag = '';
   selectedLearningStatus = ''; // 學習狀態篩選
+  favoriteOnly = false; // 只看我的最愛
 
   readonly learningStatusOptions = [
     { value: '', label: '全部' },
@@ -59,7 +61,8 @@ export class HomeComponent implements OnInit, OnDestroy {
     lastSearch: '',
     lastType: '',
     lastTag: '',
-    lastLearningStatus: ''
+    lastLearningStatus: '',
+    lastFavoriteOnly: false
   };
 
   constructor(
@@ -69,7 +72,8 @@ export class HomeComponent implements OnInit, OnDestroy {
     private readonly modalService: NgbModal,
     private readonly route: ActivatedRoute,
     private readonly utilsService: UtilsService,
-    private readonly learningStatusService: LearningStatusService
+    private readonly learningStatusService: LearningStatusService,
+    private readonly favoriteService: FavoriteService
   ) { }
 
   ngOnInit(): void {
@@ -112,6 +116,7 @@ export class HomeComponent implements OnInit, OnDestroy {
         this.selectedType = this.settings.lastType;
         this.selectedTag = this.settings.lastTag;
         this.selectedLearningStatus = this.settings.lastLearningStatus || ''; // 向後相容性處理
+        this.favoriteOnly = this.settings.lastFavoriteOnly || false; // 向後相容性處理
 
         // 載入該月份的資料
         await this.loadSelectedData();
@@ -148,7 +153,8 @@ export class HomeComponent implements OnInit, OnDestroy {
       lastSearch: this.searchText,
       lastType: this.selectedType,
       lastTag: this.selectedTag,
-      lastLearningStatus: this.selectedLearningStatus
+      lastLearningStatus: this.selectedLearningStatus,
+      lastFavoriteOnly: this.favoriteOnly
     };
     localStorage.setItem('icrt_settings', JSON.stringify(this.settings));
   }
@@ -167,8 +173,10 @@ export class HomeComponent implements OnInit, OnDestroy {
         : this.dataService.loadMonthData(this.selectedMonth);
       const rawData = await firstValueFrom(dataRequest) || [];
       
-      // 應用學習狀態到主題列表
-      this.currentData = this.learningStatusService.applyLearningStatusToTopics(rawData);
+      // 應用學習狀態與最愛狀態到主題列表
+      this.currentData = this.favoriteService.applyFavoritesToTopics(
+        this.learningStatusService.applyLearningStatusToTopics(rawData)
+      );
       this.typesData = this.filterService.getUniqueTypes(this.currentData);
       this.performFilter();
 
@@ -207,10 +215,41 @@ export class HomeComponent implements OnInit, OnDestroy {
       this.searchText,
       this.selectedType,
       this.selectedTag,
-      this.selectedLearningStatus
+      this.selectedLearningStatus,
+      this.favoriteOnly
     );
     this.currentPage = 1;
     this.updateVisibleData();
+  }
+
+  /**
+   * 切換「只看最愛」篩選
+   */
+  async toggleFavoriteFilter(): Promise<void> {
+    this.favoriteOnly = !this.favoriteOnly;
+    await this.performSearch();
+  }
+
+  /**
+   * 切換主題的最愛狀態（卡片上的愛心按鈕）
+   */
+  toggleFavorite(topic: Topic, event: Event): void {
+    event.stopPropagation();
+    topic.isFavorite = this.favoriteService.toggleFavorite(topic.id);
+
+    // 在「只看最愛」模式下取消最愛時，即時更新列表並盡量停留在目前頁面
+    if (this.favoriteOnly && !topic.isFavorite) {
+      this.filteredData = this.filterService.filterTopics(
+        this.currentData,
+        this.searchText,
+        this.selectedType,
+        this.selectedTag,
+        this.selectedLearningStatus,
+        this.favoriteOnly
+      );
+      this.currentPage = Math.min(this.currentPage, Math.max(1, this.totalPages));
+      this.updateVisibleData();
+    }
   }
 
   get totalPages(): number {

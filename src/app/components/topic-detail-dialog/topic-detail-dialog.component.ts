@@ -8,6 +8,7 @@ import { NotificationService } from '../../services/notification.service';
 import { UtilsService } from '../../services/utils.service';
 import { AndroidBackButtonService } from '../../services/android-back-button.service';
 import { LearningStatusService } from '../../services/learning-status.service';
+import { FavoriteService } from '../../services/favorite.service';
 import { AddWordDialogComponent } from '../add-word-dialog/add-word-dialog.component';
 import { VocabularyListComponent } from '../vocabulary-list/vocabulary-list.component';
 
@@ -30,6 +31,7 @@ export class TopicDetailDialogComponent implements OnInit, OnDestroy {
   audio: HTMLAudioElement | null = null;
   activeTab: string = 'content'; // 預設顯示內容分頁
   currentLearningStatus: string = 'not-started'; // 當前學習狀態
+  isFavorite = false; // 是否為我的最愛
 
   // 使用說明相關
   showDetailedTips = false;
@@ -65,12 +67,16 @@ export class TopicDetailDialogComponent implements OnInit, OnDestroy {
     private readonly utilsService: UtilsService,
     private readonly modalService: NgbModal,
     private readonly androidBackButtonService: AndroidBackButtonService,
-    private readonly learningStatusService: LearningStatusService
+    private readonly learningStatusService: LearningStatusService,
+    private readonly favoriteService: FavoriteService
   ) { }
 
   ngOnInit(): void {
     // 初始化學習狀態
     this.currentLearningStatus = this.topic?.learningStatus || 'not-started';
+
+    // 初始化最愛狀態
+    this.isFavorite = this.topic ? this.favoriteService.isFavorite(this.topic.id) : false;
 
     // 設定音訊元素
     setTimeout(() => {
@@ -412,6 +418,24 @@ export class TopicDetailDialogComponent implements OnInit, OnDestroy {
       console.log(`學習狀態已更新: ${this.topic.title} -> ${this.currentLearningStatus}`);
     } catch (error) {
       console.error('儲存學習狀態失敗:', error);
+    }
+  }
+
+  /**
+   * 切換我的最愛狀態
+   */
+  toggleFavorite(): void {
+    if (!this.topic) {
+      return;
+    }
+
+    this.isFavorite = this.favoriteService.toggleFavorite(this.topic.id);
+    this.topic.isFavorite = this.isFavorite;
+
+    if (this.isFavorite) {
+      this.notificationService.showSuccess('已加入我的最愛');
+    } else {
+      this.notificationService.showInfo('已從我的最愛移除');
     }
   }
 

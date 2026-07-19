@@ -80,11 +80,63 @@
   .topic-meta .topic-date i {
     font-size: 0.7rem;
   }
+
+  .topic-meta .topic-favorite-btn {
+    font-size: 1rem;
+  }
 }
 
 // Remove extra bottom spacing on topic-type when inside topic-meta (it sits in the same row)
 .topic-meta .topic-type {
   margin-bottom: 0; // override any global margin-bottom so it lines up with siblings
+}
+
+// 卡片右側群組（日期 + 最愛按鈕）
+.topic-meta-right {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+// 卡片上的最愛按鈕
+.topic-favorite-btn {
+  background: none;
+  border: none;
+  padding: 0.25rem 0.35rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #adb5bd;
+  font-size: 1.1rem;
+  transition: color 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    color: #dc3545;
+    transform: scale(1.15);
+  }
+
+  &.is-favorite {
+    color: #dc3545;
+  }
+}
+
+// 篩選區的「只看最愛」切換按鈕
+.favorite-filter-btn {
+  background: white;
+  border: 1px solid #dee2e6;
+  color: #adb5bd;
+  min-width: 42px;
+  transition: all 0.2s ease;
+
+  &:hover {
+    border-color: #dc3545;
+    color: #dc3545;
+  }
+
+  &.active {
+    background: #dc3545;
+    border-color: #dc3545;
+    color: white;
+  }
 }
 
 .results-summary {
