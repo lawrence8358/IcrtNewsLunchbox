@@ -611,42 +611,42 @@
       {
         "en": "It's Mothers' Day this Sunday. Do something special for your mom this weekend!",
         "tw": "這個週末就是母親節，為媽媽做一些特別的事情吧！",
-        "time": null
+        "time": "0:20"
       },
       {
         "en": "Moms and dads do so much for us. They teach us many things. But this year in Taiwan, a daughter is teaching her mother!",
         "tw": "爸爸媽媽教我們許多事情，是我們的老師，但有個台灣女兒反過來當媽媽的老師！",
-        "time": null
+        "time": "0:32"
       },
       {
         "en": "The daughter is a Taekwondo athlete. She won a medal at the Tokyo Olympics!",
         "tw": "她是一位跆拳道運動員，曾經贏得東京奧運獎牌哦！",
-        "time": null
+        "time": "0:51"
       },
       {
         "en": "The daughter learned Taekwondo from her dad from a very young age. Now she's an adult. She's teaching her mom this sport.",
         "tw": "她的跆拳道是小時候爸爸教她的，現在長大成人後，換她教媽媽打拳！",
-        "time": null
+        "time": "1:06"
       },
       {
         "en": "The mom is learning Taekwondo to lose weight. But her daughter has bigger plans. She entered her mom in a big sports competition!",
         "tw": "媽媽原本只是想運動減肥，但女兒卻給她驚喜，幫媽媽報名參加一個大比賽！",
-        "time": null
+        "time": "1:25"
       },
       {
         "en": "Last month, we spoke about the 2025 World Masters Games in Taiwan. The Games start in eight days! The daughter entered her mom in these Games. She will compete against Taekwondo athletes from around the world.",
         "tw": "那就是世界壯年運動會，就在 8 天後舉行！媽媽要跟世界各地的選手一較高下。",
-        "time": null
+        "time": "1:47"
       },
       {
         "en": "Both the mom and her daughter are training hard. They spend lots of time together! Laughing, learning, and sharing the sport they love.",
         "tw": "現在兩個人非常認真訓練，也因此花更多時間相處，一起創造特別的回憶。",
-        "time": null
+        "time": "2:18"
       },
       {
         "en": "The daughter is happy she can teach her mom. Let's cheer for her mom at the World Masters Games!",
         "tw": "女兒很開心能教媽媽，讓我們一起為她加油吧！",
-        "time": null
+        "time": "2:38"
       }
     ],
     "vocabulary": {
@@ -654,19 +654,19 @@
       "content": [
         {
           "text": "1. do 做。\nOh no, Mother's Day is this weekend! 不好了，這周末就是母親節!\nWhat should I do? 我該怎麼辦?\nThat shouldn't be a problem.那應該不是問題。",
-          "time": null
+          "time": "2:55"
         },
         {
           "text": "2. something 一些東西。\nDidn't you give her gifts before? 你以前不是都送她禮物?\nI always sent her flowers. 我總是送花。\nI want something special this time.這次我想要一點特別的。",
-          "time": null
+          "time": "3:09"
         },
         {
           "text": "3. teach 教導。\nI can teach you how to make a strawberry cake.我可以教你怎麼做草莓蛋糕。\nWould you?! That's wonderful! 你會教我? 太棒了!\nMy mom loves dessert! 我媽媽喜歡甜點!",
-          "time": null
+          "time": "4:06"
         },
         {
           "text": "4. learn 學習。\nBut let me remind you.但是讓我提醒你。\nI learn slowly. 我學得很慢。\nThat's okay. Just buy me the best strawberries you can find.\n沒關係，你就買能找到的最好的草莓吧。",
-          "time": null
+          "time": "4:09"
         }
       ],
       "postscript": "一起來讀單字。\ndo做 something一些東西 teach教導 learn學習"
@@ -679,7 +679,7 @@
           "b. This Sunday",
           "c. This Monday"
         ],
-        "time": null,
+        "time": "4:22",
         "answer": "b"
       },
       {
@@ -689,7 +689,7 @@
           "b. The dad",
           "c. The world"
         ],
-        "time": null,
+        "time": "4:26",
         "answer": "b"
       },
       {
@@ -699,7 +699,7 @@
           "b. The World Taekwondo Championships",
           "c. The Olympics"
         ],
-        "time": null,
+        "time": "4:38",
         "answer": "a"
       }
     ]
