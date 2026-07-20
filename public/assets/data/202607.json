@@ -1310,5 +1310,108 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260721-01",
+    "type": "國小",
+    "tag": [
+      "Taiwan",
+      "Summer",
+      "Umbrellas",
+      "Solar Power"
+    ],
+    "title": "Big Umbrellas for Taiwan’s Cities",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260720NK.mp3",
+    "content": [
+      {
+        "en": "Summer is very hot in Taiwan! The sun is very strong. Walking outside is not fun. We get sweaty very fast!",
+        "tw": "台灣的夏天很熱，只要一出門就會全身是汗！",
+        "time": null
+      },
+      {
+        "en": "Sometimes we wait to cross the street. We look for shade. It is cooler in the shade. But sometimes, we cannot find any!",
+        "tw": "等著過馬路的時候，我們會想找陰影處遮陽、降溫。但是，能遮陰的地方可不好找！",
+        "time": null
+      },
+      {
+        "en": "In New Taipei City, two big umbrellas are helping! They are near traffic lights. They make lots of shade. These umbrellas are from South Korea. They use solar power. Solar power is from sunlight.",
+        "tw": "新北市出現了兩把從南韓來的大陽傘！這兩把傘豎立在路口附近，用太陽能充電。",
+        "time": null
+      },
+      {
+        "en": "The umbrellas open and close on their own! Nobody has to do anything! They open on hot and sunny days. They close at night. These umbrellas are not for bad weather. In heavy rain, they close. In strong winds, they close.",
+        "tw": "大陽傘會在出太陽的時候自動開傘，到了晚上再自動收傘，完全不用人力操作！這些傘不是為了遮雨而設計的。颳風下雨的時候，傘會收起來。",
+        "time": null
+      },
+      {
+        "en": "Taiwan has strong typhoons. They might knock down the umbrellas! So New Taipei City made the umbrellas stronger.",
+        "tw": "台灣有很多颱風。為了避免傘被風吹倒，新北市讓它更堅固！",
+        "time": null
+      },
+      {
+        "en": "Kaohsiung and Taipei have new big umbrellas too. They all look different. But they do the same thing. They give us a little shade.",
+        "tw": "高雄跟台北也有新的陽傘！雖然造型不同，但都是遮陽好幫手！",
+        "time": null
+      },
+      {
+        "en": "The sun is strong in Taiwan. A little shade feels very good! Ahhhh…",
+        "tw": "台灣的陽光很強。有一點遮蔭處感覺非常舒服！啊⋯⋯",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "在熾熱的夏天，遮陽傘很有用!",
+      "content": [
+        {
+          "text": "1. summer 夏天。\nIt’s so hot today! I’m sweating like crazy! 今天好熱! 我全身都是汗!\nOf course. It’s summer! 當然啦，現在是夏天。",
+          "time": null
+        },
+        {
+          "text": "2. shade 陰影。\nWell, I need to cool off. 我需要涼快一點。\nI can’t handle the heat.我受不了這種熱。\nLet's sit in the shade of that tree. 我們去那棵樹蔭下坐吧。",
+          "time": null
+        },
+        {
+          "text": "3. umbrella 傘。\nI wish I had brought an umbrella. 我真希望帶了傘。\nI never bother to carry one. It’s too heavy! 我從來不帶，太重了!",
+          "time": null
+        },
+        {
+          "text": "4. heavy rain 大雨。\nWhat if there’s heavy rain? 要是下大雨呢?\nEasy, I’d just buy one at a convenience store.很簡單，就去便利商店買一把。\nIs that why you own around 10 umbrellas at home? 那是為什麼你家有十把傘? 15, to be exact. 精確地講是15把。",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字? summer夏天 shade陰影 umbrella傘 heavy rain大雨"
+    },
+    "quiz": [
+      {
+        "question": "1. Where are New Taipei City's big umbrellas from?",
+        "options": [
+          "a. Taipei",
+          "b. Kaohsiung",
+          "c. South Korea"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do New Taipei City's umbrellas get their power from?",
+        "options": [
+          "a. Traffic lights",
+          "b. Sunlight",
+          "c. Gas"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. When do New Taipei City's umbrellas open?",
+        "options": [
+          "a. At night",
+          "b. On hot and sunny days",
+          "c. In heavy rain"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
