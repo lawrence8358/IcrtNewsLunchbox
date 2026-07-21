@@ -1413,5 +1413,103 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260722-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Grandma in the Baseball Game",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260721NK.mp3",
+    "content": [
+      {
+        "en": "What do you think grandmas do? Well, in Taiwan, one grandma went to a baseball game. But she did not watch it. She was the star!",
+        "tw": "阿嬤通常都在做什麼？ 在台灣，有一位阿嬤參加了一場棒球賽，但她不是觀眾，而是場上的球星！",
+        "time": null
+      },
+      {
+        "en": "The baseball team asked this grandma to come to the game. She is famous. Why? She danced at a music festival! So the team asked her to throw the first ball.",
+        "tw": "有一支球隊邀請這位阿嬤當開球嘉賓，因為她在音樂節跳舞的時候出了名，被球隊注意到了！",
+        "time": null
+      },
+      {
+        "en": "The grandma did not play baseball. So before the game, she threw a baseball every day. She did this for two weeks!",
+        "tw": "這位阿嬤從來沒有打過棒球，所以在開賽前每天練習投球。她練習了整整兩個禮拜！",
+        "time": null
+      },
+      {
+        "en": "The day of the game came. The grandma had a new hairstyle. She wore new shoes. And she wore the team's shirt. It had the number 90 on it. That is because she is 90 years old! Wow!",
+        "tw": "開球日當天，阿嬤換了新髮型，穿上新鞋，還穿上了球隊的球衣！她穿90號球衣，因為她今年90歲！",
+        "time": null
+      },
+      {
+        "en": "The grandma had fun! She danced with the cheerleaders! Everyone danced! Then it was time to throw the ball. She threw it! And... it went into the player's glove!",
+        "tw": "阿嬤很享受現場的感覺，還跟啦啦隊員一起跳舞！在開球典禮上，她投出一球，漂亮地進入捕手的手套！",
+        "time": null
+      },
+      {
+        "en": "The grandma was not worried about all the people watching her. She felt great! She was comfortable,,, in her favorite polka dotted pants.",
+        "tw": "阿嬤沒有因為成為全場焦點而緊張，反而喜歡這樣的氣氛！",
+        "time": null
+      },
+      {
+        "en": "Will you also have fun when you are ninety?",
+        "tw": "當你九十歲的時候，你也會玩得開心嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "老阿嬤喜歡熱鬧的球賽，也喜歡新鮮的挑戰。",
+      "content": [
+        {
+          "text": "1) baseball game 棒球賽。\nDid you hear the story about this grandma? 你有沒有聽說阿嬤的故事?\nShe threw the first ball for a baseball game! 她在棒球比賽開球!\nShe was 90! 她九十歲!",
+          "time": null
+        },
+        {
+          "text": "2) dance 跳舞。\nHmmm…I hope I can do that when I turn 90.我希望我九十歲也可以辦到。\nYou don’t even watch baseball games! 你根本不看棒球!\nGood point. I hope I can still dance when I’m 90.說得對，那我希望九十歲還能跳舞。",
+          "time": null
+        },
+        {
+          "text": "3) cheerleader 啦啦隊。\nJust like those Korean cheerleaders? 就像那些韓國啦啦隊?\nNo way, I can’t even move that fast now.不行，我現在都沒辦法跳那麼快。",
+          "time": null
+        },
+        {
+          "text": "4) famous 有名的。\nYou might become famous! 你可能變成名人!\nYeah, for breaking my bones.對，因為摔斷骨頭而成名。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。baseball game棒球賽 dance跳舞cheerleader啦啦隊 famous有名的"
+    },
+    "quiz": [
+      {
+        "question": "1. Why is the grandma famous?",
+        "options": [
+          "a. She ran a marathon.",
+          "b. She danced at a music festival.",
+          "c. She played baseball every day."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What was the grandma asked to do?",
+        "options": [
+          "a. Throw the first ball",
+          "b. Catch the first ball",
+          "c. Hit the first ball"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How old is the grandma?",
+        "options": [
+          "a. 19",
+          "b. 90",
+          "c. 99"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
