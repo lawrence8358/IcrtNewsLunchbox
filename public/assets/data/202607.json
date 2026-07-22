@@ -1511,5 +1511,98 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260723-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Young Man Runs to Be the World’s Fastest",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260722NK.mp3",
+    "content": [
+      {
+        "en": "A sprint is a short, fast run. The world’s fastest sprinter is Usain Bolt. He has eight Olympic gold medals! He is the world's fastest in the 100-meter sprint. He is the world's fastest in the 200-meter sprint too!",
+        "tw": "短跑賽是緊張刺激的比賽，世界上最快的飛毛腿尤塞恩·波特，是八面奧運金牌得主，也是男子一百米和兩百米短跑的世界紀錄保持人！",
+        "time": null
+      },
+      {
+        "en": "But a young sprinter from Australia is getting very fast now! Maybe he will become faster than Usain Bolt!",
+        "tw": "現在澳洲出現一名年輕的短跑選手，未來可能會超越波特！",
+        "time": null
+      },
+      {
+        "en": "His name is Gout Gout. When this young man was thirteen, he ran fast. His school coach trained him to sprint. One year later, he was faster than most 16-year-old sprinters!",
+        "tw": "這個男孩名叫高特，十三歲的時候就已經跑得很快，因此參加短跑賽訓練。一年後，他的速度已經超過大部分十六歲的短跑選手！",
+        "time": null
+      },
+      {
+        "en": "The boy won a gold medal in his country. He was fifteen. He was the fastest teenage sprinter in Australia! One year later, he was the fastest teenage sprinter in the world!",
+        "tw": "高特十五歲奪得澳洲青少年短跑金牌，一年之後成為全球的青少年短跑冠軍！",
+        "time": null
+      },
+      {
+        "en": "The boy is now a young man. He is eighteen this year. He sprinted 200 meters in 19.67 seconds. That is faster than Usain Bolt... when he was eighteen.",
+        "tw": "他今年十八歲，跑完兩百公尺只花了十九點六七秒，比十八歲的波特還要快！",
+        "time": null
+      },
+      {
+        "en": "Usain Bolt got faster later. This young man is getting faster too. Maybe he will become the world's fastest sprinter one day!",
+        "tw": "尤塞恩·波特後來變更快了。這位年輕人也正變得越來越快。或許有一天他會成為世界上最快的短跑選手！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "十八歲的高特是短跑賽的後起之秀，前途看好。",
+      "content": [
+        {
+          "text": "1. faster 更快。(race sound)\nLook at that guy, Bolt! 你看那個波特!\nThe fast guy? 那個跑好快的?\nYeah, look how much faster he's running than everyone else! 對，你看他跑得比別人快多少!",
+          "time": null
+        },
+        {
+          "text": "2. fastest 最快。\nAnd he won! 而他贏了!\nHe did, of course. 當然。He’s the fastest runner in the world! 他是世界上跑最快的人!\nAnd how many times have you watched this? 而你看了他幾次? \nNot enough.看得不夠。",
+          "time": null
+        },
+        {
+          "text": "3. run 跑步。\nI want to run too, you know. 我也想去跑步。\nYou say that all the time.你總是那樣說。",
+          "time": null
+        },
+        {
+          "text": "4. train 訓練。\nI mean it. 我是認真的。\nThen let’s train together.那我們一起鍛鍊。\nSure, you run first.好，你先跑。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡跑步嗎? 來一起讀單字。faster更快 fastest最快 run跑步 train訓練"
+    },
+    "quiz": [
+      {
+        "question": "1. Who is the world's fastest in the 200-meter sprint?",
+        "options": [
+          "a. The young man",
+          "b. Usain Bolt",
+          "c. A teenager"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where is the young man from?",
+        "options": [
+          "a. Australia",
+          "b. Taiwan",
+          "c. The U.S."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How old is the young man this year?",
+        "options": [
+          "a. 13",
+          "b. 15",
+          "c. 18"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
