@@ -1604,5 +1604,112 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260724-01",
+    "type": "國小",
+    "tag": [
+      "Baseball",
+      "Taiwan Day",
+      "USA"
+    ],
+    "title": "U.S. Baseball Teams Have Taiwan Days",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260723NK.mp3",
+    "content": [
+      {
+        "en": "Taiwan loves baseball! The U.S. loves baseball! We’re friends. So some U.S. baseball teams have Taiwan Days!",
+        "tw": "台灣人跟美國人都愛棒球，有些美國棒球隊會有「台灣日」！",
+        "time": null
+      },
+      {
+        "en": "One New York team's Taiwan Day is this Sunday. This is its twenty-second one! Wow! Fans buy a Taiwan Day ticket. They get a baseball shirt too! \"Taiwan\" and \"1\" are on the back.",
+        "tw": "這禮拜天，一個紐約棒球隊要過他們第二十一個台灣日！球迷買票後會得到一件寫著台灣的一號球衣！",
+        "time": null
+      },
+      {
+        "en": "Kjell Lindgren will help throw the first ball. He is an astronaut. He went to space! He was born in Taipei. His mom is from Taiwan!",
+        "tw": "這場比賽由太空人凱爾·林格倫 (Kjell Lindgren) 來開球。他在台北出生，媽媽也是台灣人！",
+        "time": null
+      },
+      {
+        "en": "The Arizona team's Taiwan Day is next month! This is its third one!",
+        "tw": "亞利桑那州的職棒隊伍也會在下個月舉辦他們的第三屆台灣日！",
+        "time": null
+      },
+      {
+        "en": "Fans buy a Taiwan Day ticket. They also get a baseball shirt! \"Taiwan\" and \"8\" are on the back.",
+        "tw": "買台灣日的票的球迷會獲得一件寫著台灣的八號球衣！",
+        "time": null
+      },
+      {
+        "en": "Many fans will look for player number seven. That's Corbin Carroll. His mom is from Taiwan! Corbin is very fast! He's great at stealing bases! And he hits a lot of home runs!",
+        "tw": "很多粉絲也會尋找背號是七號的外野手卡洛爾，他的母親是台灣人，他很會盜壘，也打出過好多次全壘打!",
+        "time": null
+      },
+      {
+        "en": "Good friends learn more about each other. At Taiwan Day games, U.S. and Taiwanese fans learn more about each other.",
+        "tw": "在台灣日的比賽中，美國球迷和台灣球迷都能更了解對方！",
+        "time": null
+      },
+      {
+        "en": "Baseball is helping Taiwan and the U.S. be good friends!",
+        "tw": "棒球正在幫助台灣和美國成為好朋友！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "很多台灣人移居美國亞利桑那州，那裏的棒球隊也注意到這一點。",
+      "content": [
+        {
+          "text": "1. home run 全壘打。 I hope we can see three home runs tonight! 我希望今晚看到三支全壘打。I’m sure we can. 一定可以。",
+          "time": null
+        },
+        {
+          "text": "2. fast 快速的。He was so fast the last time he hit one! 他上次打到時速度超快的!",
+          "time": null
+        },
+        {
+          "text": "3. player 選手。Have you ever thought of being a baseball player? 你有想過當棒球選手嗎?Me? Half of the time I didn’t know where the ball was! 我? 一半的時間我都不知道球在哪裡!",
+          "time": null
+        },
+        {
+          "text": "4. look for 尋找。 That makes two of us.我跟你一樣。 I’m often looking for the ball.我經常都在找球。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you enjoy baseball games? 來一起讀單字。home run 全壘打 fast 快速的 player 選手 look for 尋找"
+    },
+    "quiz": [
+      {
+        "question": "1. Who will be at New York's Taiwan Day?",
+        "options": [
+          "a. Corbin Carroll",
+          "b. Kjell Lindgren",
+          "c. Stuart Fairchild"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What is on the back of the Taiwan Day baseball shirts?",
+        "options": [
+          "a. \"Taiwan\"",
+          "b. \"Taiwan Day\"",
+          "c. \"Taiwan” and “U.S.A.\""
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Who is Corbin?",
+        "options": [
+          "a. A baseball player from Taiwan",
+          "b. Player number 7",
+          "c. Player number 8"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
