@@ -1711,5 +1711,98 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260727-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Man Makes Big Mistake with Water",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260724NK.mp3",
+    "content": [
+      {
+        "en": "The Ganges is a river in India and Bangladesh. It is very important to many people. They say it is from heaven. They say the water is very clean.",
+        "tw": "恆河是一條貫穿印度與孟加拉的河。有許多人仰賴這條河生存，他們認為恆河的水從天上來，是潔淨的水。",
+        "time": null
+      },
+      {
+        "en": "These people also say the Ganges washes away bad mistakes. They say it helps take away sickness too. So they pray in it. They wash themselves in it. At the end of their lives, their ashes go into the river.",
+        "tw": "人們相信恆河的水可以帶走罪過與病痛。他們在河中洗澡、祈禱，在死後，他們的骨灰會被撒入恆河中。",
+        "time": null
+      },
+      {
+        "en": "A man from Taiwan went to the Ganges. He took two bottles of water from it. Then he took them home. But that was a big mistake!",
+        "tw": "一名台灣男子來到恆河旅遊，並裝了兩罐河水帶回台灣。這萬萬不可喔！",
+        "time": null
+      },
+      {
+        "en": "The man showed the water online. It did not look clean! In Taiwan, people were worried. Maybe the water would make people sick! In India, people said taking this important water was not good.",
+        "tw": "這名男子把水的照片上傳到網路上。很多台灣人擔心汙染的恆河水會讓人生病，印度人也認為他不應該把重要的河水帶走！",
+        "time": null
+      },
+      {
+        "en": "The man said he was sorry. He said he would take the water back to the Ganges. Hmmmm... Maybe the river will wash away his mistake!",
+        "tw": "男子道歉後，承諾要把水帶回恆河。也許，恆河可以帶走他犯下的錯！",
+        "time": null
+      },
+      {
+        "en": "Enjoy your summer vacation, kids. But try not to make mistakes about anything you take home!",
+        "tw": "孩子們，祝你們暑假愉快。但盡量不要對帶回家的任何東西犯錯！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "印度人尊敬恆河，相信它可以清潔靈魂。",
+      "content": [
+        {
+          "text": "1. show 顯示，或是指出。I made a big mistake yesterday. 我昨天犯了大錯。Oh no, what did you do? 糟糕，你做了什麼? I showed my son how to do his math homework.教我兒子怎麼做數學作業。",
+          "time": null
+        },
+        {
+          "text": "2. mistake 錯誤。Why was that a mistake? 那為什麼錯了? Because his teacher wanted him to explain how he did it.因為他的老師叫他解釋怎麼做的。",
+          "time": null
+        },
+        {
+          "text": "3. take 帶。And he didn’t know? 而他不知道? He didn’t. 他不知道。So what happened? 然後呢? She told him to take the homework back and redo it.老師叫他帶回家重寫。",
+          "time": null
+        },
+        {
+          "text": "4. important 重要的。She said it’s important that he really learns.老師說真的學會很重要。So will you help him this time? 你這次會幫忙嗎? No way! 不會!",
+          "time": null
+        }
+      ],
+      "postscript": "學英文很重要喔。show顯示，或是指出 mistake錯誤 take帶 important重要的"
+    },
+    "quiz": [
+      {
+        "question": "1. What do many people say the Ganges takes away?",
+        "options": [
+          "a. Heaven",
+          "b. Bad mistakes",
+          "c. Clean water"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where was the man from?",
+        "options": [
+          "a. India",
+          "b. Bangladesh",
+          "c. Taiwan"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How many bottles of water did the man take from the Ganges?",
+        "options": [
+          "a. 1",
+          "b. 2",
+          "c. 3"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
