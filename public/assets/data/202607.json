@@ -1804,5 +1804,102 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260728-01",
+    "type": "國小",
+    "tag": [
+      "Sports",
+      "Tchoukball",
+      "New Taipei"
+    ],
+    "title": "Typhoon Takes Time from Sports Competition",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260727NK.mp3",
+    "content": [
+      {
+        "en": "A big sports competition was in New Taipei for three days. Men's and women's teams came from ten countries! But…Typhoon Bavi tried to come too!",
+        "tw": "新北市舉辦了一場為期三天的大型運動賽事，有來自十個國家的隊伍前來參賽。不過，颱風巴威也想來共襄盛舉！",
+        "time": null
+      },
+      {
+        "en": "For two typhoon days, the teams stayed in their hotels. Some ran on stairs. Some studied videos of games.",
+        "tw": "兩個颱風天選手都只能待在飯店裡。有些人跑樓梯練習體能，有些看比賽影片研究戰術。",
+        "time": null
+      },
+      {
+        "en": "The teams had one day to compete! So the 45-minute games became much shorter. The teams had 20-minute games!",
+        "tw": "風雨過後只剩下一天可以比賽！因此，一場賽事從四十五分縮短成二十分鐘。",
+        "time": null
+      },
+      {
+        "en": "What team sport can be played that fast? Tchoukball can! Players can have the ball for three seconds. They can take three steps. Then they must pass the ball or throw it at a net.",
+        "tw": "什麼樣的比賽可以那麼快？原來是巧固球！巧固球比賽時，球員拿球不能超過三秒鐘，也只能走三步。球員必須立刻傳球給隊友，或者把球丟向反彈網。",
+        "time": null
+      },
+      {
+        "en": "Teams can pass the ball three times. Then a player must throw it at the net! So tchoukball is fast! That weekend, Hong Kong's women's team won first place. Taiwan's won second place. Singapore's men's team won first place. Taiwan's won third place.",
+        "tw": "一支球隊最多只能傳球三次，就一定要把球射向反彈網。因此，巧固球的比賽節奏非常快速！最後，香港女子隊奪得冠軍，臺灣女子隊則獲得亞軍。男子組則由新加坡隊和臺灣男子隊分別拿下冠軍和季軍。",
+        "time": null
+      },
+      {
+        "en": "But Taiwan will not give up! We have had the number one men's team in the world almost every year... for more than 40 years! And we have the number two women's team this year!",
+        "tw": "但台灣不會放棄！過去四十多年來，我們幾乎每年都有世界第一的男子隊。而今年我們有世界第二的女子隊！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "巧固球很容易學，節奏又快，很多人喜歡玩。",
+      "content": [
+        {
+          "text": "1. competition 比賽。\nAre you ready for tomorrow’s soccer competition? 明天足球賽你準備好了嗎?\nYes, but I’m quite nervous.是，但是我滿緊張的。",
+          "time": null
+        },
+        {
+          "text": "2. second 第二。\nIt’s our first game.它是我們的第一場。If we lose, there won’t be a second one.\n要是輸掉就沒有第二場了。",
+          "time": null
+        },
+        {
+          "text": "3. team 隊伍。\nDon’t worry. 別擔心。You are one of the best players on our team! 你是我們隊最棒的球員。",
+          "time": null
+        },
+        {
+          "text": "4. third 第三。\nThat’s so nice of you! 你人真好!\nI have to say that. 一定要啊。I don’t get to play until the third game.我第三場才要上場。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很常用喔。competition比賽 second第二 team隊伍 third第三"
+    },
+    "quiz": [
+      {
+        "question": "1. Where was the competition?",
+        "options": [
+          "a. Taipei",
+          "b. New Taipei",
+          "c. Singapore"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How long were the teams' games at the competition?",
+        "options": [
+          "a. Three seconds",
+          "b. Twenty minutes",
+          "c. Forty five minutes"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do tchoukball players throw the ball at?",
+        "options": [
+          "a. A net",
+          "b. A basket",
+          "c. A tchouk"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
