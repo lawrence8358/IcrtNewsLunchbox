@@ -1,0 +1,90 @@
+ [
+  {
+    "id": "20260831-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Taiwanese Pilot Flies Around the World",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260828NK.mp3",
+    "content": [
+      {
+        "en": "A pilot from Taiwan had a big dream. He wanted to be the first pilot from Taiwan to fly around the world in a small plane. Why? He wanted the world to know that people from Taiwan are brave.",
+        "tw": "有一位台灣飛行員，夢想駕駛小飛機環遊世界，讓世界知道台灣人很勇敢。",
+        "time": null
+      },
+      {
+        "en": "The pilot's dream needed a lot of planning and help. He planned for five years! He needed money. He needed gas. He needed countries and airports to let him go there. He got help from many people.",
+        "tw": "為了實現夢想，他需要錢、汽油，還需要各國的機場許可。很多人願意幫他忙。",
+        "time": null
+      },
+      {
+        "en": "His small plane is not very comfortable. Small planes shake more than big planes. In bad weather, small planes shake a lot! And the pilot cannot leave his seat. So he carefully planned what to eat. He ate nuts and dried fish. He drank very, very little. He did not want to need a toilet. The plane has no toilet!",
+        "tw": "小飛機顛簸得很厲害，並且沒有馬桶，所以他只吃堅果和魚乾，喝一點點水！",
+        "time": null
+      },
+      {
+        "en": "Every thirty minutes, the pilot checked the engine. Yes, the plane has one engine! He checked the weather. He checked the gas. His plane could fly for ten hours. Then it needed more gas. So the pilot stopped in many countries.",
+        "tw": "他每30分鐘需要檢查引擎和天氣，每十個小時就要加一次油，因此沿途停靠很多國家。最終他做到了，成為第一位駕駛小飛機環遊世界的台灣人！",
+        "time": null
+      },
+      {
+        "en": "The pilot flew and flew for his big dream. He became the first person from Taiwan to fly a small plane around the world. Now the world knows people from Taiwan are brave!",
+        "tw": "這位飛行員為了夢想飛了又飛，他成為台灣第一位駕駛小飛機環遊世界的人。現在全世界都知道台灣人很勇敢！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "駕駛小飛機環遊世界其實很辛苦，而這名台灣人辦到了。",
+      "content": [
+        {
+          "text": "1. check 查看。\nDid you check the weather? 你查了天氣嗎?\nWe’re flying tomorrow. 我們明天就要飛了。\nYou mean the weather in Dubai? 你是說杜拜的天氣?\nYeah.對。",
+          "time": null
+        },
+        {
+          "text": "2. airport 機場。\nWhy? It’ll probably change by the time we arrive at Dubai Airport. 為什麼?\n我們明天到杜拜機場時天氣可能又變了。\nI’d like to know if the flight will be bumpy.我想知道飛機會不會很顛。",
+          "time": null
+        },
+        {
+          "text": "3. comfortable 舒服的。\nRelax. Just sit back and get comfortable in your seat. 放輕鬆，你只要舒舒服服坐在那裏就好了。\nThat’s easy for you to say. 你講得容易。\nYou love flying. 你喜歡飛行。",
+          "time": null
+        },
+        {
+          "text": "4. toilet 廁所。\nThat’s because I always sit near the toilet.那是因為我總是坐得離廁所很近。\nIt makes me feel safer. 讓我覺得很安全。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀今天的單字。\ncheck查看 airport機場 comfortable舒服的 toilet廁所"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the pilot fly around the world?",
+        "options": [
+          "a. A plane with two engines",
+          "b. A plane with one engine",
+          "c. A plane with no engines"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What do small planes do a lot in bad weather?",
+        "options": [
+          "a. They shake.",
+          "b. They stop.",
+          "c. They fly higher."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did the pilot check every thirty minutes?",
+        "options": [
+          "a. His friend",
+          "b. His phone",
+          "c. The engine"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  }
+]
