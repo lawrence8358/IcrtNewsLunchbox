@@ -1,0 +1,93 @@
+ [
+  {
+    "id": "20260901-01",
+    "type": "國小",
+    "tag": [
+      "科學",
+      "地理"
+    ],
+    "title": "Scientists Find a Surprise in Very Cold Water",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260831NK.mp3",
+    "content": [
+      {
+        "en": "The biggest park in the world is in Greenland. The park is bigger than 27 Taiwans! It has many small seas. They open to a big sea. They have tall walls of rock on three sides. The small seas are deep. The water is VERY cold.",
+        "tw": "格陵蘭有世界最大的國家公園，總面積比二十七個台灣還大！這個公園包括許多峽灣，峽灣的海水很冰冷！",
+        "time": null
+      },
+      {
+        "en": "Scientists put a small robot deep into the water. The robot had lights and a camera. The camera showed the scientists a big surprise. It was a very small squid. A squid is a sea animal. It has a long body and ten arms. This squid was orange and purple. It was as long as a crayon. And about one hundred squid eggs were near it.",
+        "tw": "科學家將照相機器人送進深海，發現一隻橘色和紫色的小魷魚，讓科學家嚇一大跳!牠的身體長度跟蠟筆差不多，附近還有很多魷魚蛋。",
+        "time": null
+      },
+      {
+        "en": "The scientists were excited! This kind of squid lives in the world's largest park. But it is very, very hard to find it. This was the first time it was seen there! And this one squid was in very cold water. Most animals cannot live in very cold water. But this kind of squid can!",
+        "tw": "科學家對於這個新發現非常興奮，因為絕大多數動物不能在冰冷的海水裡生活，這隻卻可以！",
+        "time": null
+      },
+      {
+        "en": "Squid can feel changes around them very fast. The seas are changing. The ice is melting. The water is getting warmer. But sometimes it takes scientists a long time to find more changes. They think this kind of tiny squid can help them find changes faster.",
+        "tw": "魷魚可以迅速感覺到海水的變化，科學家相信這對於研究海洋，以及海洋動物大有幫助。",
+        "time": null
+      },
+      {
+        "en": "Scientists want to know what these changes do to sea animals. Then maybe one day scientists can find ways to help them!",
+        "tw": "科學家想知道這些變化對海洋動物有什麼影響。也許有一天，科學家能找到方法來幫助牠們！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "小小的魷魚可以在超冷的海水中生存。",
+      "content": [
+        {
+          "text": "1. biggest 最大的。\nThe biggest animal in the world is the blue whale. 世界上最大的動物是藍鯨。\nI know that. It’s bigger than a bus. 我知道，牠比公車還大。",
+          "time": null
+        },
+        {
+          "text": "2. animal 動物。\nHow can an animal grow so big? 動物怎麼會長那麼大?\nBy eating a lot, of course. 當然是因為吃很多啦。",
+          "time": null
+        },
+        {
+          "text": "3. small 小的。\nIt mostly eats very small animals called krill. 牠只吃非常小的磷蝦。\nHmmm, very big animals that eat tiny things. 龐大的動物卻吃小東西。",
+          "time": null
+        },
+        {
+          "text": "4. surprise 驚訝。\nYeah. It eats millions of them. 對，吃好幾百萬隻。\nWow! What a surprise! 哇，真驚人!\nI'm glad I'm not buying dinner! 真高興不是我付飯錢!\nMe too! 沒錯。",
+          "time": null
+        }
+      ],
+      "postscript": "你有看過藍鯨嗎?來讀單字。\nbiggest最大的 animal動物 small小的 surprise驚訝"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the biggest park in the world?",
+        "options": [
+          "a. Iceland",
+          "b. Greenland",
+          "c. Taiwan"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What did the robot have?",
+        "options": [
+          "a. A long body and ten arms",
+          "b. Lights and a camera",
+          "c. Tall walls on three sides"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What did scientists find deep in very cold water?",
+        "options": [
+          "a. A small squid",
+          "b. An orange crayon",
+          "c. Many animals"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
+  }
+]
