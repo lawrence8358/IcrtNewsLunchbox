@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20260901-01",
     "type": "國小",
@@ -87,6 +87,99 @@
         ],
         "time": null,
         "answer": "a"
+      }
+    ]
+  },
+  {
+    "id": "20260902-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Firefighter Donkeys",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260901NK.mp3",
+    "content": [
+      {
+        "en": "This summer had many big fires in the news. They were all around the world. From January to August, more land than 31 Taiwans burned.",
+        "tw": "今年世界上許多地方發生火災，燒掉的總面積相當於三十一個台灣。",
+        "time": null
+      },
+      {
+        "en": "The wind brings us the smoke from fires. We can smell it for weeks. The smoke is bad for our health. It is bad for nature too. So what can help stop fires?",
+        "tw": "火災的濃煙不只對身體不好，也對自然環境有害。有什麼能夠阻止火災？",
+        "time": null
+      },
+      {
+        "en": "Well, Spain is using donkeys! Donkeys are animals. They look like small horses. They have long ears. In Spain, no one wanted some donkeys. The donkeys needed food. So now, they have a job. They are firefighters!",
+        "tw": "西班牙人把腦筋動到驢子頭上。一個慈善團體決定把它收留的，遭到棄養的驢子送去當消防員。",
+        "time": null
+      },
+      {
+        "en": "There are about sixty donkeys fighting fires now. But they do not use water. They are not at any fires. They help stop fires from starting. How? They eat! They eat… and eat… dry grass. Dry grass can catch on fire easily.",
+        "tw": "驢子消防員不是用水來滅火，而是大吃特吃容易著火的乾草，讓火不要燒過來。",
+        "time": null
+      },
+      {
+        "en": "These donkeys do more. Some places have lots of old leaves on the ground. When fires come, those leaves burn and help the fires move. More land burns! But when the heavy donkeys walk, they break up the leaves. Fires cannot move as fast.",
+        "tw": "而且驢子體重很重，會踩碎並且吃掉枯葉，減緩火災的擴散。",
+        "time": null
+      },
+      {
+        "en": "These donkey firefighters get a better life with this work. They get lots of grass to eat. They get to walk around outside. They also help make land safer from fires. So these donkeys give us a better life too!",
+        "tw": "這些驢子消防員因為這項工作而有了更好的生活。牠們有大量的草可以吃，可以到戶外走動。牠們也幫助土地變得更安全，避免火災發生。所以這些驢子也帶給我們更好的生活！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "有了驢子消防員，火災變得比較好控制。",
+      "content": [
+        {
+          "text": "1. smell 聞。 Do you smell something? 你聞到什麼嗎? Yeah… smoke. 對，有煙味。 Look, the grass is on fire! 你看，草地著火了!",
+          "time": null
+        },
+        {
+          "text": "2. start 開始。 How did that start? 怎麼開始的? Maybe someone threw a cigarette. 也許有人亂丟菸蒂。 Let’s call the firefighters right away.我們來馬上打給消防隊。",
+          "time": null
+        },
+        {
+          "text": "3. fire 火災。 Hello? There’s a fire near the gate of Yuli Park! 育里公園大門起火了! Yes, please come quickly! Thank you! 對，請你們趕快來! 謝謝!",
+          "time": null
+        },
+        {
+          "text": "4. stop 阻止。 Now what? Should we try to stop it? 現在要做什麼? 我們是不是應該來滅火? No! Let’s move to a safer place. 不，我們去比較安全的地方。 This fire could spread quickly.火可能會很快蔓延。",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字? smell聞 start開始 fire火災 stop阻止"
+    },
+    "quiz": [
+      {
+        "question": "1. Where are donkeys fighting fires?",
+        "options": [
+          "a. Spain",
+          "b. Greece",
+          "c. France"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What do donkeys look like?",
+        "options": [
+          "a. Big horses with small mouths",
+          "b. Small horses with long ears",
+          "c. Small horses with no hair"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What helps fire move?",
+        "options": [
+          "a. Water",
+          "b. Old leaves on the ground",
+          "c. Donkey firefighters"
+        ],
+        "time": null,
+        "answer": "b"
       }
     ]
   }
