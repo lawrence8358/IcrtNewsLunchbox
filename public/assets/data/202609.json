@@ -182,5 +182,97 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260903-01",
+    "type": "國小",
+    "tag": [
+      "World Records",
+      "Sports",
+      "Kids"
+    ],
+    "title": "Kids Set World Records",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260902NK.mp3",
+    "content": [
+      {
+        "en": "People LOVE to do something that no one has done. When they do that, they set a world record. Kids can set world records! Hey! Maybe you can set one!",
+        "tw": "很多人喜歡挑戰從來沒有人做過的事，假如成功，就能創下世界紀錄。有些小孩就辦到了。",
+        "time": null
+      },
+      {
+        "en": "Do you play basketball? One boy from the U.S. set a basketball record. He bounced a basketball 268 times in one minute! That is the most basketball bounces for kids under 16 years old.",
+        "tw": "一個美國小男孩在一分鐘之內拍籃球268下，成為十六歲以下拍球次數最多的。",
+        "time": null
+      },
+      {
+        "en": "Do you like water balloons? They are balloons full of… yes, water. They are fun to throw. But sometimes they break! Well, a boy and his dad set a water balloon record. The boy's dad threw a water balloon. He threw it 43 meters. Wow! That is a long way! And the boy caught the water balloon! It did not break! The dad's long throw and the boy's catch set a world record!",
+        "tw": "另外有一對父子則是爸爸把水球拋了四十三公尺遠，兒子接到，而且沒有弄破，創下世界紀錄。這可太厲害了！",
+        "time": null
+      },
+      {
+        "en": "Do you know what jumping jacks are? Some people do them for exercise. You stand. Your feet are together. Your hands are down at your sides. Then you jump! You raise your hands over your head. You clap. AND you move your feet apart. Then your hands go down again. Your feet go back together. You are standing again. Whew! That is one jumping jack. A nine-year-old boy did 117 of them in one minute!",
+        "tw": "有些人喜歡開合跳這項運動，一個九歲的小男孩一分鐘之內開合跳117下！未來你會不會也想挑戰世界紀錄呢?",
+        "time": null
+      },
+      {
+        "en": "Now what about you? Do you want to set a world record someday?",
+        "tw": "那麼你呢？你想在未來的某一天創下世界紀錄嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "創下世界紀錄的方法無奇不有，看你要不要嘗試。",
+      "content": [
+        {
+          "text": "1. world record 世界紀錄。\nWatch this! 你看!\nWhat were you trying to do, Nancy?! 你想做什麼?\nI want to set a world record.我想創世界紀錄。",
+          "time": null
+        },
+        {
+          "text": "2. feet 雙腳。\nFor crossing the room without your feet? 不用腳穿過房間的紀錄?\nYeah, how did you know? 對，你怎麼知道?\nBecause you just broke my chair! 因為你剛剛毀了我的椅子!",
+          "time": null
+        },
+        {
+          "text": "3. someday 有一天。\nMaybe I shouldn’t do it here.也許我不該在這裡做。\nGood idea. Someday you may actually set that record - somewhere else.好主意。有一天你可能真的創紀錄，在別的地方。",
+          "time": null
+        },
+        {
+          "text": "4. hand 手。\nBut this is fun! 不過這很好玩! You have to move your whole body - your hands, your head 你得運用全身，手啊，頭啊…\nJust don’t use my chair! 就是別動我的椅子!",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字很簡單喔。world record世界紀錄 feet雙腳 someday有一天 hand 手"
+    },
+    "quiz": [
+      {
+        "question": "1. What did all the kids do?",
+        "options": [
+          "a. Play basketball",
+          "b. Set a record",
+          "c. Catch a balloon"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How far did one boy's dad throw a water balloon?",
+        "options": [
+          "a. 16 meters",
+          "b. 43 meters",
+          "c. 117 meters"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do people do during a jumping jack?",
+        "options": [
+          "a. Run a long way",
+          "b. Bounce a ball",
+          "c. Clap their hands"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
