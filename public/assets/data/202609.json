@@ -274,5 +274,98 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260904-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Cows Need New Homes",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260903NK.mp3",
+    "content": [
+      {
+        "en": "Argentina is a country. It is in South America. It rains a lot in some places in Argentina. But this year, there was more rain. There was too much rain! Now 700,000 cows there need to find new homes.",
+        "tw": "阿根廷是一個國家，位於南美洲。阿根廷有些地方雨水很多，但今年雨水更多了。雨水太多了！現在那裡有 70 萬頭牛需要尋找新家。",
+        "time": null
+      },
+      {
+        "en": "These cows live on a very big plain. But wait - a plain is not an airplane! It sounds the same. But it is mostly flat land. This plain has some higher places. The flat land is a good place for cows. It has a lot of grass. But this year, water from the rain did not go away. It stayed on the plain. It made the roads bad. It made the fields very wet. In some places, the water got higher and higher!",
+        "tw": "這些牛生活在一個非常大的平原上。但等等——平原（plain）不是飛機（airplane）！雖然聽起來一樣，但它主要是平坦的土地。這個平原有幾個較高的地方。平坦的土地是牛群的好地方，那裡有很多草。但今年，雨水沒有退去，而是留在平原上。這讓道路變得很糟，也讓田地變得很濕。在某些地方，水位越來越高！",
+        "time": null
+      },
+      {
+        "en": "Cowhands take care of cows. Cows are very important to them. Cowhands ride horses and keep the cows safe. Their parents and grandparents had cows. Cows are their life!",
+        "tw": "牧牛人照顧牛群，牛對他們來說非常重要。牧牛人騎著馬，保護牛群的安全。他們的父母和祖父母也養牛。牛就是他們的生活！",
+        "time": null
+      },
+      {
+        "en": "Cowhands tried to keep their cows safe from the rain. But cows cannot rest or eat well in very wet fields. Some cowhands took their cows to higher places. The higher places were dry.",
+        "tw": "牧牛人試圖讓他們的牛免受雨淋。但牛在非常潮濕的田地裡無法好好休息或進食。一些牧牛人把他們的牛帶到較高的地方，那裡是乾燥的。",
+        "time": null
+      },
+      {
+        "en": "But soon there were no more higher places for cows. And many other cowhands needed to get their cows out of the water. Some cowhands sold their cows. These cows went to live in dry places. But for other cowhands, their cows are too important to them. They did not sell their cows. And now they need to find dry fields.",
+        "tw": "但很快就沒有更多高地可以讓牛去了，許多其他牧牛人需要把他們的牛從水中救出來。一些牧牛人賣掉了他們的牛，讓這些牛搬到乾燥的地方生活。但對於其他牧牛人來說，牛對他們太重要了。他們沒有賣掉牛，現在他們需要尋找乾燥的田地。",
+        "time": null
+      },
+      {
+        "en": "Nobody knows where those cows will go. But all 700,000 cows have to go somewhere! Good luck, cowhands! Good luck, cows!",
+        "tw": "沒人知道那些牛會去哪裡。但所有 70 萬頭牛都必須去某個地方！祝你好運，牧牛人！祝你好運，牛群！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "阿根廷廣大的牧場養了很多牛，今年有些地方雨太多了，讓牛群必須搬家。",
+      "content": [
+        {
+          "text": "1. flat 平坦的。\nWhere did you go for your vacation? 你去了哪裡度假?\nMongolia. 蒙古。\nCool! 好酷喔!\nYeah, it’s beautiful there, with big and flat grassland.對啊，那裏很美，有廣大又平坦的草原。",
+          "time": null
+        },
+        {
+          "text": "2. a lot of 很多的。\nDid you see cows and horses? 有沒有看到牛跟馬?\nA lot of them, and sheep, too.看到好多，還有很多綿羊。",
+          "time": null
+        },
+        {
+          "text": "3. horse 馬。\nI’m even thinking of living there for several months. 我甚至想去那裏住上幾個月。\nTo raise cows and horses? 去養牛跟馬?\nYeah, why not? 對，為什麼不呢?",
+          "time": null
+        },
+        {
+          "text": "4. take care of 照顧。\nYou can’t even take care of a houseplant! 你連盆栽都養不活!\nCows should be easier. 牛應該比較容易。",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字?\nflat平坦的 a lot of很多的 horse馬 take care of照顧"
+    },
+    "quiz": [
+      {
+        "question": "1. Where are the cows?",
+        "options": [
+          "a. Argentina",
+          "b. Brazil",
+          "c. Chile"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Why do the cows need new homes?",
+        "options": [
+          "a. Too many fires",
+          "b. Too much rain",
+          "c. Too many earthquakes"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How many cows need new homes?",
+        "options": [
+          "a. 700",
+          "b. 70,000",
+          "c. 700,000"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
