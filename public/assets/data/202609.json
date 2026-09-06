@@ -367,5 +367,93 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260907-01",
+    "type": "國小",
+    "tag": [],
+    "title": "A Festival for a Spring",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260904NK.mp3",
+    "content": [
+      {
+        "en": "India has springs. A spring is where water comes up from the ground. It comes up by itself! Some springs have hot water. Some have cold water. Families and farmers use the water. But every year, many springs have less water. Some springs are gone…",
+        "tw": "印度有很多會冒出地面的泉水，但有些地方的水量每年都減少，有些甚至快要消失。",
+        "time": null
+      },
+      {
+        "en": "A village in India has a spring. There is a festival at the spring every year. It is on a Sunday. There is no school! There is no work! Everybody can go! Young people and older people go early in the morning. They are from many villages.",
+        "tw": "有個印度村莊每年有個節日，村民跟小孩不上班不上學都趕來參加。",
+        "time": null
+      },
+      {
+        "en": "Everybody goes into the spring. It is cold! But they do not swim. They clean! Older people teach young people how to clean the spring. They pull up plants that are bad for the spring. They pick up trash. They take away dirt that stops the water. They work hard. But they talk and sing too! Then the spring is clean! People look for fish in it. They catch a lot. They cook the fish. Everybody eats together. They have a great time!",
+        "tw": "節日當天，大家一起跳進湧泉。不是要游泳，而是拔雜草，清理淤泥，還會聊天唱歌！清理結束後，人們會抓魚烤熟了共享!",
+        "time": null
+      },
+      {
+        "en": "The festival makes the spring clean. But it is one day in one year. Keeping the spring clean all year is a lot of work! The village takes care of it now. But the spring needs help from India too.",
+        "tw": "這個節日一年只有一次，但只要大家一起保護環境，湧泉就不會消失！",
+        "time": null
+      },
+      {
+        "en": "With more help, this spring will be there for many, many years!",
+        "tw": "有了更多的幫助，這座湧泉將會存在許多年！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "印度這座天然噴泉依賴全體村民的維護。",
+      "content": [
+        {
+          "text": "1. in the morning 在早上。\nWhat are you doing so early in the morning? 你這麼早在做什麼呢?\nI’m cleaning up my car. 我在清理我的車。",
+          "time": null
+        },
+        {
+          "text": "2. cold 冷的。\nCan we go swimming after you’re done? 你弄完之後我們可以去游泳嗎?\nYeah, but it’s pretty cold. 可以，但是相當冷喔。\nAre you sure you want to get into the water? 你確定要下水?\nI am.確定。",
+          "time": null
+        },
+        {
+          "text": "3. teach 教導。\nAnd you’ll teach me how to do freestyle swimming, won’t you? 而且你會教我游自由式，對吧?",
+          "time": null
+        },
+        {
+          "text": "4. pick up 撿起來。\nI will if you pick up this trash for me. 我會，假如你幫我把這些垃圾撿起來。\nHey, I thought we were going swimming.我以為我們要去游泳了。\nWe are. This is just your warm-up.是要去，這只是暖身。",
+          "time": null
+        }
+      ],
+      "postscript": "來跟我一起讀今天的單字。\nin the morning在早上 cold冷的 teach教導 pick up撿起來"
+    },
+    "quiz": [
+      {
+        "question": "1. What comes up from the ground at a spring?",
+        "options": [
+          "a. Water",
+          "b. Trash",
+          "c. Fish"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where is the village?",
+        "options": [
+          "a. Italy",
+          "b. Indonesia",
+          "c. India"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What do people do in the spring at the festival?",
+        "options": [
+          "a. Swim",
+          "b. Clean",
+          "c. Eat"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
