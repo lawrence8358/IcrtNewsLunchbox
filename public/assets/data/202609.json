@@ -455,5 +455,103 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260908-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Boy Saves Man in River",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260907NK.mp3",
+    "content": [
+      {
+        "en": "A boy in the U.S. lives on a ranch. A ranch is a big farm where animals are raised. The boy is fourteen years old. He wants to be a cowhand. Cowhands take care of cows.",
+        "tw": "一個生活在牧場的男孩，夢想成為照顧牛群的牛仔。",
+        "time": null
+      },
+      {
+        "en": "The boy loves roping. Cowhands do it. The boy practices every day. Roping is catching things with a rope. A cowhand throws a rope. It has a big loop at one end. The loop goes around a cow's neck. Then the cowhand can pull the cow.",
+        "tw": "這個14歲的男孩每天都練習拋出繩索套住牛的脖子，就可以把牛拉著走。",
+        "time": null
+      },
+      {
+        "en": "The boy went to a river with his family. They like to go there. He brought his rope for the first time. Then he heard someone shouting for help! A man was in the water. He could not swim! He was in danger! The river was moving fast!",
+        "tw": "有一天，男孩和家人聽到河邊有人呼叫求救！落水的男子不會游泳，而且河水流速很快！",
+        "time": null
+      },
+      {
+        "en": "The boy moved fast too! He got his rope! He ran to the river. He saw the man. The boy threw his rope! He threw it one time! And... the loop went around the man! Wow!",
+        "tw": "男孩立刻帶著繩索衝到河邊，一次就成功套住了男子的手臂和脖子！",
+        "time": null
+      },
+      {
+        "en": "Other people at the river helped. The boy's father called the police. And one person helped the boy pull the rope. They pulled the man from the water!",
+        "tw": "其他人也趕來幫忙。他的父親打電話給警察，另一個人幫忙拉繩索！",
+        "time": null
+      },
+      {
+        "en": "The police came three minutes later. But there was nothing for them to do. The man was safe! The boy was a hero!",
+        "tw": "警察三分鐘之後就到了，不過男子已經安全了，男孩也成了英雄。他將來一定會是個好牛仔！",
+        "time": null
+      },
+      {
+        "en": "The boy's roping practice helped him save a life! He will be a great cowhand!",
+        "tw": "男孩練習套索的技巧幫助他救了一條人命！他將來會成為一名出色的牛仔！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這個男孩多次練習用套索抓牛，結果先救了人。",
+      "content": [
+        {
+          "text": "1. save 拯救。\nWould you save me if I fall into the water? 我假如掉進水裡，你會不會救我?\nI would tell you to stay away from water in the first place. 我會先叫你離水遠一點。",
+          "time": null
+        },
+        {
+          "text": "2. pull 拉。\nThat’s not very helpful.那沒多大用處。\nFine, I’d pull you from the water.好吧，我會把你從水裡拉出來。",
+          "time": null
+        },
+        {
+          "text": "3. river 河流。\nEven if it's a river?就算是河流也會?\nNow why do you want to get into a river? 為什麼你會跑進河裡?\nYou never know. Maybe I’ll be kayaking.那可難說。也許我去划獨木舟。",
+          "time": null
+        },
+        {
+          "text": "4. swim 游泳。\nKayaking? Have you done it before? 划獨木舟?你以前划過? No.沒有。Can you swim at all?\n你究竟會不會游泳? Nope. 不會。",
+          "time": null
+        }
+      ],
+      "postscript": "來讀今天的單字。save拯救 pull拉 river河流 swim游泳"
+    },
+    "quiz": [
+      {
+        "question": "1. How old is the boy?",
+        "options": [
+          "a. 14",
+          "b. 15",
+          "c. 16"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What did the boy do first when he heard the shouting?",
+        "options": [
+          "a. He ran to the river.",
+          "b. He called the police.",
+          "c. He got his rope."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How many times did the boy throw the rope to the man?",
+        "options": [
+          "a. One time",
+          "b. Two times",
+          "c. Three times"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
