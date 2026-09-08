@@ -553,5 +553,95 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260909-01",
+    "type": "國小",
+    "tag": [
+      "Information Education"
+    ],
+    "title": "Watermelons for Good Luck",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260908NK.mp3",
+    "content": [
+      {
+        "en": "What can you do with a watermelon? You can eat it. You can make juice with it. Or... you can make it stand to bring good luck! What?",
+        "tw": "西瓜除了拿來吃、打成西瓜汁之外，還能做什麼呢？",
+        "time": null
+      },
+      {
+        "en": "On Dragon Boat Festival Day in Taiwan, people make eggs stand. They do this at noon. It is hard! But people say making an egg stand brings one year of good luck! Well, Pingtung has a Dragon Boat Festival every year. Nine years ago, the festival started using big watermelons, not eggs! Whoa! Why?",
+        "tw": "台灣人會在端午節的中午把雞蛋豎起來，相信這樣會幸運一整年！屏東也是，但從九年前開始，屏東人開始用西瓜代替雞蛋。",
+        "time": null
+      },
+      {
+        "en": "It is because Pingtung is famous for watermelons. Pingtung grows more than 60 percent of Taiwan's watermelon seedlings. These are young plants that grow from small black watermelon seeds! Farmers in many places in Taiwan grow watermelons from Pingtung seedlings.",
+        "tw": "這是因為屏東盛產西瓜苗，佔了全台灣的6成以上！各地農夫都來買回去種。",
+        "time": null
+      },
+      {
+        "en": "Nine years ago, people made 168 watermelons stand at the festival. Last year, they made 888 watermelons stand. This year, they made more than 1,000 watermelons stand! They used plates, water bottles, ice, and more to make them stand. There is a lot of good luck this year! The festival had a new contest this year. People decorated 65 watermelons. Some painted pictures on them. Some put clothes on them. The winner made a wax apple fairy with hers. Pingtung is famous for wax apples too!",
+        "tw": "今年的端午節，屏東舉辦西瓜裝扮大賽，有65顆大西瓜參賽。最終由蓮霧仙子西瓜奪冠，而且蓮霧也是屏東特產喔！",
+        "time": null
+      },
+      {
+        "en": "Do you want to make a watermelon stand up? Or do you want to decorate one?",
+        "tw": "你想讓西瓜站立起來嗎？還是你想裝飾它？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "屏東的端午節喜歡用西瓜來慶祝。",
+      "content": [
+        {
+          "text": "1. juice 果汁。Are you going to the market? 你要去菜市場? I am. Do you need anything? 是的，你需要什麼嗎? Yeah, I’d like to make watermelon juice. 我想打西瓜汁。",
+          "time": null
+        },
+        {
+          "text": "2. whole 完整的。So should I get a whole watermelon? 所以我應該買一整顆西瓜? No, that would be too heavy! 不，那太重了!",
+          "time": null
+        },
+        {
+          "text": "3. ice 冰。Okay, I’ll just get a big slice, then. 那我買一大片好了。And don’t forget some ice. 別忘了買一些冰塊。Ice in watermelon juice. Cool! 西瓜汁加冰塊，真酷!",
+          "time": null
+        },
+        {
+          "text": "4. seed 種子。Anything else? 還要什麼別的? No, that’s all. 不用了，就那樣。Oh, and get one without too many seeds. 買一片沒有太多瓜子的。You want me to count seeds at the market? 你要我在菜場裡數瓜子? Sure. 當然。",
+          "time": null
+        }
+      ],
+      "postscript": "你記住今天的單字了嗎? juice果汁 whole完整的 ice冰 seed種子"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the festival?",
+        "options": [
+          "a. Pingtung",
+          "b. Taitung",
+          "c. Kaohsiung"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How many watermelons stood this year?",
+        "options": [
+          "a. 168",
+          "b. 888",
+          "c. 1,000"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did people do with watermelons in the new contest?",
+        "options": [
+          "a. Dance around them",
+          "b. Decorate them",
+          "c. Eat them"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
