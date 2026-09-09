@@ -643,5 +643,96 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260910-01",
+    "type": "國小",
+    "tag": [
+      "Technology",
+      "Environment"
+    ],
+    "title": "Drinking Water from a Jacket",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260909NK.mp3",
+    "content": [
+      {
+        "en": "You are hiking on a mountain. Your mouth is dry. You want some water. But there are no stores! Oh no! There is no clean water to drink! Hey! You need a jacket that makes drinking water! That sounds crazy, right? But scientists in the U. S. made a jacket that gets drinking water from the air!",
+        "tw": "爬山的時候沒有乾淨的水喝怎麼辦呢？美國科學家發明了一件能利用空氣製造水的外套！",
+        "time": null
+      },
+      {
+        "en": "How does this jacket work? Most clothes are made of cloth. This jacket is too. But it also has four pieces of a new cloth on it. This cloth has very small threads. They catch water from the air. Then the water goes into the threads. The cloth becomes full of water!",
+        "tw": "外套上有4塊新科技布料，裡面的纖維可以捕捉空氣中的水分。",
+        "time": null
+      },
+      {
+        "en": "The cloth gets water all the time. People can wear the jacket and move. They can walk or run! The cloth works everywhere too. People can be in a place with dry air or wet air. To drink the water, people take the new cloth off of the jacket. They heat it. Then the water comes out! In one day, this jacket makes 400 to 900 milliliters of drinking water.",
+        "tw": "這種布料隨時隨地都能收集水，只要把布料從外套拿下來加熱，就能喝到水。",
+        "time": null
+      },
+      {
+        "en": "This jacket is good for hikers and campers. It is good for soldiers and farm workers too! Sometimes they cannot find clean water when they need it. Many places in the world have no clean water. The new cloth can be used on backpacks and tents too. It can help people in those places have clean water all the time.",
+        "tw": "而且來自空氣的水很乾淨，對於找不到乾淨水源的登山客或是軍人，這可重要了。",
+        "time": null
+      },
+      {
+        "en": "Clean water from the air can help many people!",
+        "tw": "來自空氣的潔淨水源可以幫助很多人！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "運用新科技的外套，可以把空氣變成水。",
+      "content": [
+        {
+          "text": "1. wet 潮濕的。\nWhat happened? 發生了什麼事? Why are you all wet? 你怎麼全身都濕了? I fell into a pool of water. 我跌進一灘水裡。Don’t ask.別問了。",
+          "time": null
+        },
+        {
+          "text": "2. clothes 衣服。\nWould you like to change? 你想換衣服嗎? I have some clothes that should fit you.我有衣服你應該可以穿。\nI’d appreciate that.我會很感謝。",
+          "time": null
+        },
+        {
+          "text": "3. dry 乾的。\nHere you are. 拿去吧。\nThank you. 謝謝 It feels so good to wear something dry! 穿乾衣服真舒服!\nI know. 我懂。",
+          "time": null
+        },
+        {
+          "text": "4. mountain 山。\nI’ve been caught in the rain many times while hiking. 我去健行時被雨淋過好多次。\nDo you go hiking often? 你常去健行?\nYeah, I love hiking and camping in the mountains. 對，我喜歡到山上健行還有露營。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡戶外活動嗎? 來一起讀單字。wet潮濕的 clothes衣服 dry乾的 mountain山"
+    },
+    "quiz": [
+      {
+        "question": "1. What makes the jacket get water from the air?",
+        "options": [
+          "a. A new cloth",
+          "b. A big pocket",
+          "c. A strong fan"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. When does the new cloth get water?",
+        "options": [
+          "a. Only when the air is wet",
+          "b. Only at night",
+          "c. All the time"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What can the new cloth also be used on?",
+        "options": [
+          "a. Shoes",
+          "b. Tents",
+          "c. Cars"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
