@@ -734,5 +734,98 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260911-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Solar Eclipses Can Burn Your Eyes",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260910NK.mp3",
+    "content": [
+      {
+        "en": "The sun is very big and very bright. We cannot look at it. Looking at it is bad for our eyes. The moon is small and bright. The sun makes it bright to us!",
+        "tw": "太陽非常大且明亮。我們不能直視它，直視太陽對我們的眼睛有害。月亮很小但很明亮，是太陽讓它對我們來說顯得明亮！",
+        "time": null
+      },
+      {
+        "en": "We see the sun and the moon take turns in the sky almost every day. The sun goes down. The moon comes up. The sun comes up. The moon goes down. Nothing is between the sun and the earth. Nothing is between the moon and the earth.",
+        "tw": "我們幾乎每天都看到太陽和月亮在天空中輪流出現。太陽下山，月亮升起。太陽升起，月亮下山。太陽和地球之間沒有任何東西，月亮和地球之間也沒有任何東西。",
+        "time": null
+      },
+      {
+        "en": "But sometimes the moon comes up. And the sun is not down! And sometimes the moon goes between the sun and the earth! The moon looks black then. The sun does not make the moon bright to us. The moon covers some - or all - of the sun from us! This is a solar eclipse. \"Solar\" means the eclipse is about the sun.",
+        "tw": "但有時候月亮升起時，太陽還沒下山！有時候月亮會運行到太陽和地球之間！那時月亮看起來是黑色的。太陽不再讓月亮對我們顯得明亮。月亮為我們遮擋了部分或全部的太陽！這就是日蝕。\"Solar\" 意思是指這個食相與太陽有關。",
+        "time": null
+      },
+      {
+        "en": "Last month, there was a solar eclipse. For people in some parts of the world, the moon covered all of the sun. For people in some other parts of the world, it covered part of the sun. For people in most of the world, the moon did not cover the sun at all. So we did not see the eclipse in Taiwan.",
+        "tw": "上個月發生了日蝕。對於世界上某些地區的人來說，月亮遮住了整個太陽。對於其他一些地區的人來說，它遮住了部分太陽。對於世界上大部分地區的人來說，月亮完全沒有遮住太陽，所以我們在台灣沒有看到這次日蝕。",
+        "time": null
+      },
+      {
+        "en": "The eclipse was about two minutes long. That is short! But the people looking at it needed to be careful. The sun is covered, but there is some sunlight. We cannot look at it! It can burn our eyes! We need to wear solar eclipse glasses. They keep our eyes safe.",
+        "tw": "這次日蝕大約持續了兩分鐘。那很短暫！但觀看的人需要小心。雖然太陽被遮住了，但還是有一些陽光。我們不能直視它！它會灼傷我們的眼睛！我們需要佩戴日蝕專用眼鏡，它們能保護我們的眼睛安全。",
+        "time": null
+      },
+      {
+        "en": "Solar eclipses are very cool. Maybe next time, Taiwan can see the eclipse. But remember that you cannot look at it. Stay safe! Wear eclipse glasses!",
+        "tw": "日蝕非常酷。也許下次台灣就能看見日蝕了。但請記住，你不能直視它。保持安全！請戴上日蝕眼鏡！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "日蝕難得一見，它是因為月球轉到地球和太陽的中間，擋住了太陽。",
+      "content": [
+        {
+          "text": "1. not at all 完全不。\nLooks like it's going to rain... 看起來要下雨了。You can't see the sun at all.\n完全看不到太陽。\nOh, no! I was planning to watch the moon tonight.糟了，我本來計畫今晚要賞月。",
+          "time": null
+        },
+        {
+          "text": "2. moon 月球。\nWhat’s so special about it? 有什麼特別的嗎?\nIt’s a blue moon! The second full moon in a month.它是藍月，一個月裡面的第二次滿月。",
+          "time": null
+        },
+        {
+          "text": "3. look at 注意看。\nSo if I look at it carefully, it'll be blue? 所以我注意看的話會看出它是藍色?\nOf course not! 當然不是! Blue moon is just the name. 那只是個名稱。But I’d like to see\nit.但是我想看看。",
+          "time": null
+        },
+        {
+          "text": "4. bright 光亮的。\nTo wish for good luck? 想祈求好運? Not really. I just enjoy the bright moonlight.\n也不是，我只是喜歡明亮的月光。",
+          "time": null
+        }
+      ],
+      "postscript": "來讀今天的單字。not at all完全不 moon月球 look at注意看 bright光亮的"
+    },
+    "quiz": [
+      {
+        "question": "1. What covers the sun during a solar eclipse?",
+        "options": [
+          "a. A cloud",
+          "b. Nothing",
+          "c. The moon"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How long was the solar eclipse?",
+        "options": [
+          "a. Two minutes",
+          "b. Two hours",
+          "c. Two days"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What do you need to wear to look at solar eclipses?",
+        "options": [
+          "a. Eclipse gloves",
+          "b. Eclipse glasses",
+          "c. An eclipse hat"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
