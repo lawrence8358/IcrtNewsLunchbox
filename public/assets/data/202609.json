@@ -827,5 +827,93 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260914-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Young Woman Learns How to Ride a Bike",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260911NK.mp3",
+    "content": [
+      {
+        "en": "Do you know how to ride a bike? A young woman in South Africa knew how to do many things. But she did not know how to ride a bike. When she was a girl, she tried to learn how to ride.",
+        "tw": "你會不會騎腳踏車? 南非有個年輕女孩，她會做很多事，就是不會騎腳踏車。",
+        "time": null
+      },
+      {
+        "en": "But the girl wobbled on the bike. The bike wobbled too. Oh no! Very young kids wobble when they are learning how to walk. Their bodies wobble left and right, left and right, left and right, and oh no! They fall! Well, the girl fell off the bike. The bike fell too. Falling scared her a lot. She did not want to try again!",
+        "tw": "這個小女孩一上車就搖搖晃晃，左拐右拐，還從腳踏車上摔下來，嚇得她再也不敢騎了。",
+        "time": null
+      },
+      {
+        "en": "The girl grew up. Now she is 22 years old. One sunny day, she met a woman. That woman has a bike shop. The woman sells new bikes. She fixes broken bikes. She teaches girls and women how to ride bikes! She says riding a bike gives them more freedom. They can go anywhere by themselves on a bike!",
+        "tw": "這個女孩長大後遇見一位女士，她擁有一間腳踏車店。女老闆教會很多女生騎腳踏車，她認為騎車可以帶給她們更多的自由。",
+        "time": null
+      },
+      {
+        "en": "The young woman wanted to go to places by herself too. So she tried to learn how to ride a bike again. She wobbled! The bike wobbled! She was scared! She wanted to give up. Then she saw some girls learning how to ride. So she kept trying. And then... she was riding her bike! She was riding it by herself!",
+        "tw": "這個女孩子也想要自由自在的去想去的地方，於是她決心重新開始學習騎車。這回就算搖搖擺擺，她也沒有放棄，終於成功了！",
+        "time": null
+      },
+      {
+        "en": "Riding a bike gives the young woman more freedom. Now she can ride her bike and go anywhere!",
+        "tw": "騎腳踏車給了這位年輕女性更多的自由。現在她可以騎著腳踏車去任何地方了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "莫羅小時候學不會騎單車，長大之後克服了這個困難。",
+      "content": [
+        {
+          "text": "1. young 年輕的。\nSee that young woman on the bike? 你看到那個騎車的年輕女孩嗎?\nYeah. She's riding by herself. 有，她一個人騎車。She looks so happy!她看起來好快活!",
+          "time": null
+        },
+        {
+          "text": "2. place 地方。\nYou could be like her. 你也可以像她那樣。\nYou mean ride a bike? 你是說騎車?\nYeah. Think of all the places you could go! 對啊，想想看你能騎去多少地方!",
+          "time": null
+        },
+        {
+          "text": "3. fall 摔倒。\nI can go to even more places driving – without falling off a silly bike.\n我開車可以去更多地方，不會從笨腳踏車上跌下來。",
+          "time": null
+        },
+        {
+          "text": "4. freedom 自由。\nBut a bike gives you more freedom. 但是腳踏車給你更多自由。No need to find a parking\nspace. 不需要找停車位。\nBut my car has air conditioning.但是我的車有冷氣。\nOkay, you win.好吧，你贏了。",
+          "time": null
+        }
+      ],
+      "postscript": "來跟我讀單字。young年輕的 place地方 fall摔倒 freedom自由"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the young woman?",
+        "options": [
+          "a. South Korea",
+          "b. South Africa",
+          "c. South America"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why did the girl fall off her bike?",
+        "options": [
+          "a. She wobbled.",
+          "b. Her bike was broken.",
+          "c. She wanted to walk."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What does the woman say riding a bike gives girls and women?",
+        "options": [
+          "a. More friends",
+          "b. New bikes",
+          "c. More freedom"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
