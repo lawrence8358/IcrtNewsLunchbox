@@ -915,5 +915,100 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260915-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies"
+    ],
+    "title": "The Cat at the Station",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260914NK.mp3",
+    "content": [
+      {
+        "en": "Have you been to Hualien Bus Station? A cute orange cat works there. But last year, he was a hungry kitten. A kitten is a baby cat! One night, station workers heard a cat meowing. Where was the cat? They looked and looked. But they did not find it.",
+        "tw": "花蓮轉運站有一隻橘色的貓咪，牠是怎麼來的？之前一個晚上，車站員工聽見貓叫聲。",
+        "time": null
+      },
+      {
+        "en": "The next morning, some fish snack bags were opened. People eat snacks on the bus, so the bus station sells snacks. They sell bags of fish snacks. The fish snacks were eaten! Who ate them? Was it the cat?",
+        "tw": "第二天早上，員工發現車站賣的魚條零食包被打開了！是誰那麼想吃魚做的零食?",
+        "time": null
+      },
+      {
+        "en": "The station workers looked and looked AGAIN. They looked EVERYWHERE in the bus station. They looked in back of some lockers! Lockers are where bus riders can keep their things safe. The station workers found a small kitten there. He was alone.",
+        "tw": "他們在轉運站裡面到處找，連置物櫃後面都看了，才發現有一隻小貓躲在那裡。",
+        "time": null
+      },
+      {
+        "en": "The station workers kept the kitten. They gave him a name. It means Egg Tart in English. Egg Tart likes his job. He wears a yellow scarf around his neck. He meows to people. Egg Tart works four days a week. He can stop working when he does not want to work. He gets lots of rest!",
+        "tw": "轉運站變成了小貓的家，車站員工叫牠蛋塔。蛋塔戴著黃色的領巾，一個星期打工四天，可以隨時休息！",
+        "time": null
+      },
+      {
+        "en": "Many people watch videos of Egg Tart online. Some people go the bus station to meet him. Egg Tart is famous!",
+        "tw": "很多人上網看蛋塔，還有人特別來花蓮看牠！",
+        "time": null
+      },
+      {
+        "en": "Egg Tart is one small cat. But he makes everyone at Hualien Bus Station happier!",
+        "tw": "蛋塔雖然只是一隻小貓，但牠讓花蓮轉運站的每個人都感到更快樂！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "流浪小貓蛋塔，在花蓮車站找到自己的家。",
+      "content": [
+        {
+          "text": "1. where 在哪裡。\nWhere’s the fish I was going to eat? 我要吃的魚去哪裡了?\nI certainly didn’t touch it.我肯定沒有碰。",
+          "time": null
+        },
+        {
+          "text": "2. fish 魚。\nWait, is that your cat under the table? 等一下，桌子底下是不是你的貓?\nOh no, she found your fish! 糟糕，她發現了你的魚!\nYeah, she sure did.她確實是。",
+          "time": null
+        },
+        {
+          "text": "3. hungry 飢餓的。\nSorry about that.真抱歉。\nIt’s okay, but now I’m really hungry.沒關係，但是我現在真的餓了。",
+          "time": null
+        },
+        {
+          "text": "4. keep 留著。\nI can make you a sandwich. 我可以替你做個三明治。\nThank you! 謝謝你!\nSo I can keep my cat? 所以我可以繼續養貓?\nYou sure can. She’s still cute! 當然可以。她還是很可愛的。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字還記得嗎? where在哪裡 fish魚 hungry飢餓的 keep留著"
+    },
+    "quiz": [
+      {
+        "question": "1. What is a baby cat called?",
+        "options": [
+          "a. A puppy",
+          "b. A kitten",
+          "c. A locker"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Where does Egg Tart work?",
+        "options": [
+          "a. A train station",
+          "b. A police station",
+          "c. A bus station"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What does Egg Tart do at work?",
+        "options": [
+          "a. He sells snacks.",
+          "b. He meows to people.",
+          "c. He watches videos."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
