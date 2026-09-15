@@ -1010,5 +1010,102 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260916-01",
+    "type": "國小",
+    "tag": [
+      "Life Education",
+      "Safety Education",
+      "Outdoor Education"
+    ],
+    "title": "Kids Are Hunting for Rocks in Parks",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260915NK.mp3",
+    "content": [
+      {
+        "en": "In Taiwan's parks, kids are looking everywhere. They are looking under plants and trees. They are looking under benches where people sit. What are they looking for?",
+        "tw": "最近，很多兒童在公園裡到處尋找，樹底下草裡面都找了。他們究竟在找什麼？",
+        "time": null
+      },
+      {
+        "en": "The kids are not looking for a lost toy. They are not looking for money. And they are not looking for trash! They are playing a game. They are hunting for rocks! But they are not looking for any kind of rock. They are looking for painted rocks!",
+        "tw": "不是玩具，也不是錢，更不是垃圾！他們在找彩繪的石頭！",
+        "time": null
+      },
+      {
+        "en": "More than 80,000 people play this game. Some of them paint pictures on rocks. Some pictures are cute and some are cool. All of them make kids happy. Some people write nice messages on their rocks too.",
+        "tw": "石頭上畫了可愛的圖案，也有人寫了留言。",
+        "time": null
+      },
+      {
+        "en": "The game has some rules. They keep the game safe and good for people and parks. One rule is to buy rocks to paint. Do not take them from the ground. Another rule is to use eco-friendly, water-based paint. One more rule is to hide the painted rocks in safe places. Do not hide rocks on roads!",
+        "tw": "尋寶活動有幾項規則，石頭不能撿地上的，要用買的，並且用不會傷害環境的顏料來彩繪，也要藏在安全的地方，不能藏在大馬路旁。",
+        "time": null
+      },
+      {
+        "en": "People hide their rocks in parks. Then they go online. They tell everyone about the rocks. Kids start hunting! When they find a rock, they can keep it. Or they can hide it again!",
+        "tw": "人們藏好石頭後，在網路上分享線索讓孩子們尋寶。找到之後可以自己收起來。",
+        "time": null
+      },
+      {
+        "en": "More and more kids are hunting for painted rocks in parks. Do you want to look for some too?",
+        "tw": "越來越多的孩子在公園裡尋找彩繪石頭。你也想去找找看嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "彩繪石頭尋寶，是很多兒童喜歡的活動。",
+      "content": [
+        {
+          "text": "1. hunt 打獵，尋找。\nThis game sounds a lot like Easter Sunday. 這個遊戲聽起來很像復活節周日。\nBecause children hunt for Easter eggs? 因為小孩會找復活節彩蛋?\nYeah.對。",
+          "time": null
+        },
+        {
+          "text": "2. hide 藏起來。\nOn Easter Sunday, parents hide colorful eggs around the house, garden, or park, 復活節周日當天，父母會把彩蛋藏在房子裡，或是院子，公園四周，and children look for them. 小孩就去找。",
+          "time": null
+        },
+        {
+          "text": "3. find 找到。\nWhat happens when they find the eggs? 找到蛋之後如何? Do they eat them? 會吃掉嗎?\nThey can.可以啊。",
+          "time": null
+        },
+        {
+          "text": "4. more and more 越來越多的。\nBut these days, more and more people use plastic eggs with candy inside.\n不過這年頭越來越多人用塑膠蛋，裡面有糖果。\nNow I’d like to join the Easter egg hunt! 我也想參加復活節彩蛋尋寶!",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我讀今天的單字。hunt打獵，尋找 hide藏起來 find找到 more and more越來越多的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do people hide painted rocks?",
+        "options": [
+          "a. Schools",
+          "b. Parks",
+          "c. Shopping malls"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many people play the game?",
+        "options": [
+          "a. 8,000",
+          "b. 18,000",
+          "c. 80,000"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What is one rule about the game?",
+        "options": [
+          "a. Take rocks from the ground.",
+          "b. Use eco-friendly, water-based paint.",
+          "c. Hide rocks on roads."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
