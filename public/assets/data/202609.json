@@ -1107,5 +1107,97 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260917-01",
+    "type": "國小",
+    "tag": [
+      "動物",
+      "小貓熊",
+      "臺北市立動物園"
+    ],
+    "title": "Taipei Zoo Gets Cute Presents",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260916NK.mp3",
+    "content": [
+      {
+        "en": "Taipei Zoo got two presents. They are two animals from Shanghai Zoo in China. Can you guess what kind of animals they are? Are they apes? How about lions? No, they are red pandas. Their names are Lele and Tiantian. Lele is a 3-year-old boy. Tiantian is a 2-year-old girl.",
+        "tw": "臺北市立動物園獲得兩件禮物，是來自上海動物園的小貓熊，樂樂跟甜甜。",
+        "time": null
+      },
+      {
+        "en": "Red pandas are not like giant pandas. Red pandas are MUCH smaller. They weigh 3 to 15 kilograms. Giant pandas weigh 100 to 115 kilograms! Red pandas are... red. Giant pandas are black and white. Red pandas are not bears. Giant pandas are bears. But both are cute and love to eat bamboo.",
+        "tw": "小貓熊跟大貓熊很不一樣喔。小貓熊小得多，皮毛是紅色，不過牠也愛吃竹子。",
+        "time": null
+      },
+      {
+        "en": "Zoos are careful about new animals. Maybe they are sick. So Lele and Tiantian had to wait to meet the other red pandas. They waited for one month. This kept the other red pandas safe. Happily, the new red pandas are very healthy.",
+        "tw": "樂樂和甜甜到台北之後，經過一個多月的隔離和適應環境，才加入其他的小貓熊。",
+        "time": null
+      },
+      {
+        "en": "Taipei Zoo will also give presents to Shanghai Zoo. It will give some small apes. Why are the zoos doing this? Well, both kinds of animals are endangered. That means there are VERY few. Giving red pandas and small apes to other zoos helps keep all red pandas and small apes safe and healthy.",
+        "tw": "台北動物園也會送幾隻白手長臂猿到上海，作為回禮。小貓熊跟長臂猿都是瀕危物種，交換可以維持健康的族群數量。",
+        "time": null
+      },
+      {
+        "en": "Are you going to Taipei Zoo? Look for Lele and Tiantian from Shanghai!",
+        "tw": "你要去台北市立動物園嗎？去找找看來自上海的樂樂和甜甜吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "你現在去台北市立動物園，就可以看到這兩隻小貓熊。",
+      "content": [
+        {
+          "text": "1. present 禮物。\nI loved birthdays when I was a kid! 我小時候最喜歡過生日!\nBecause you got presents? 因為可以收到禮物?\nNo. Giving kids gifts wasn't really a thing back then. 不，那個時代不流行送禮物給小孩。",
+          "time": null
+        },
+        {
+          "text": "2. animal 動物。\nI just liked the feeling of getting older. 我只是喜歡長大的感覺。When I had children of my own, though, 不過我自己有了小孩之後， I enjoyed buying my daughter stuffed animals. 喜歡買玩具動物給女兒。",
+          "time": null
+        },
+        {
+          "text": "3. bear 熊。\nShe really loved her dog, polar bear, and giraffe.她好愛她的狗狗，北極熊跟長頸鹿。\nDid she hold them when she slept ? 她睡覺時抱著嗎?\nShe did! 有啊!",
+          "time": null
+        },
+        {
+          "text": "4. black 黑色，white 白色。\nHer favorite was a black-and-white dog.她最喜歡的就是一隻黑白色的狗。",
+          "time": null
+        }
+      ],
+      "postscript": "大家都喜歡收到禮物。present禮物 animal動物 bear熊 black黑色 white白色"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the zoo that gave presents to Taipei Zoo?",
+        "options": [
+          "a. China",
+          "b. Taiwan",
+          "c. Japan"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What presents did Taipei Zoo get?",
+        "options": [
+          "a. Small apes",
+          "b. Giant pandas",
+          "c. Red pandas"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How long did Lele and Tiantian have to wait to meet other animals?",
+        "options": [
+          "a. One week",
+          "b. One month",
+          "c. One year"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
