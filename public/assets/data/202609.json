@@ -1199,5 +1199,109 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260918-01",
+    "type": "國小",
+    "tag": [
+      "新北捷運",
+      "三鶯線",
+      "藝術",
+      "三峽",
+      "鶯歌"
+    ],
+    "title": "Taiwan’s New Train Line",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260917NK.mp3",
+    "content": [
+      {
+        "en": "Taiwan has a lot of train lines. Some go under the ground. Some go very fast. Some go through forests. Some go over rivers. And now, one line goes to places with lots of art!",
+        "tw": "台灣有很多鐵路線。有些在地下。有些跑得很快。有些穿過森林。有些跨過河流。而現在，有一條線路通往許多藝術場所！",
+        "time": null
+      },
+      {
+        "en": "The Sanying Line is in New Taipei. The trains go to Sanxia. Hakka people have lived in Sanxia for a long time. They are famous for dyeing cloth. Hey, don't worry! Here, \"dye\" means to change the color of something. The Hakka dye cloth blue. The color is beautiful! Sanxia also has a Hakka museum with Hakka art.",
+        "tw": "三鶯線在新北市。火車前往三峽。客家人在三峽住了很久。他們以染布聞名。嘿，別擔心！在這裡，「dye」是指改變某物的顏色。客家人把布染成藍色。顏色很漂亮！三峽還有一個展示客家藝術的客家園區。",
+        "time": null
+      },
+      {
+        "en": "The trains also go to Yingge. It is famous for ceramics. Ceramics are made of clay. They go into a VERY hot oven! There are ceramic bowls, dishes, flower vases, art, and more. Yingge also has an art museum.",
+        "tw": "火車也前往鶯歌。它以陶瓷聞名。陶瓷是由黏土製成的。它們要進到非常熱的窯爐裡！那裡有陶瓷碗、盤子、花瓶、藝術品等等。鶯歌也有美術館。",
+        "time": null
+      },
+      {
+        "en": "The Sanying Line has lots of art around it! So the new trains have art inside them. The trains are art museums on wheels!",
+        "tw": "三鶯線周邊有很多藝術！所以新火車內部也有藝術。這些火車是裝了輪子的藝術館！",
+        "time": null
+      },
+      {
+        "en": "One train is all about Hakka. It has Hakka flowers, a Hakka river, and other important Hakka things. Another train is all about Yingge's art. It has blue for the art museum. It has orange for Yingge. It also has yellow for New Taipei!",
+        "tw": "其中一列火車與客家有關。它有客家花卉、客家河流和其他重要的客家元素。另一列火車則與鶯歌的藝術有關。藍色代表美術館，橘色代表鶯歌。它還有代表新北市的黃色！",
+        "time": null
+      },
+      {
+        "en": "If you take the Sanying Line, maybe you will see the Hakka art or the Yingge art. You will know why the train has art. You will know about the art.",
+        "tw": "如果你搭乘三鶯線，或許你會看到客家藝術或鶯歌藝術。你會知道為什麼火車上有藝術。你會了解這些藝術。",
+        "time": null
+      },
+      {
+        "en": "You can tell your parents what you know. They will think you are very smart about art!",
+        "tw": "你可以告訴父母你所知道的事情。他們會覺得你在藝術方面非常聰明！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "新北捷運三鶯線已經通車了，可以到三峽跟鶯歌。",
+      "content": [
+        {
+          "text": "1. take 搭乘。\nWant some coffee? 要喝一點咖啡嗎?\nNo, thank you. 不了，謝謝。I’m into tea now. 我現在喝茶。\nOh, right. Your new hobby! 對了，你的新嗜好。\nI’m thinking of taking the train to Yingge Saturday.我想這個周六搭火車去鶯歌。",
+          "time": null
+        },
+        {
+          "text": "2. famous 有名的。\nTo buy more tea? 去買更多茶葉?\nMaybe, and a nice tea set. 也許吧，還要買一套好茶具。\nGood, Yingge is famous for its ceramics.很好，鶯歌的陶瓷很有名。",
+          "time": null
+        },
+        {
+          "text": "3. bowl 碗。\nWant to come with me? 要不要一起來? You love flowers. You could look for some bowls or vases. 你喜歡花，可以找找看花碗或是花瓶。",
+          "time": null
+        },
+        {
+          "text": "4. smart 聰明的。\nSmart idea! But I'm only buying one.真聰明，不過我會只買一個。\nSure. And I'm only buying one teacup.當然，我也只買一個茶杯。\nWe’d better take a suitcase….我們最好帶個行李箱.",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。take搭乘 famous有名的 bowl碗 smart聰明的"
+    },
+    "quiz": [
+      {
+        "question": "1. How many train lines does Taiwan have?",
+        "options": [
+          "a. None",
+          "b. Very few",
+          "c. A lot"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where is the Sanying Line?",
+        "options": [
+          "a. New Taipei",
+          "b. Taipei",
+          "c. Taichung"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What is Yingge famous for?",
+        "options": [
+          "a. Sports",
+          "b. Ceramics",
+          "c. Trains"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
