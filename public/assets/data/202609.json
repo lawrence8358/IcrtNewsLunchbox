@@ -1303,5 +1303,97 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260921-01",
+    "type": "國小",
+    "tag": [
+      "Snake",
+      "Nature",
+      "Train"
+    ],
+    "title": "Big Long Snakes on Trains",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260918NK.mp3",
+    "content": [
+      {
+        "en": "King cobras are big, long snakes. They are three or four meters long. That is longer than two Taiwan cobras! Like Taiwan cobras, they are dangerous! Their venom is very strong and fast. It can kill!",
+        "tw": "眼鏡王蛇是毒蛇，體長可以到3公尺以上，比台灣眼鏡蛇長兩倍，非常危險!",
+        "time": null
+      },
+      {
+        "en": "King cobras live in cool, wet forests. But in India, people were finding some in dry places. So scientists looked at old news about these snakes. They made a map. It shows where people found the snakes. Some king cobras were near train stations. Some were IN trains! But why were they in these places?",
+        "tw": "眼鏡王蛇住在潮濕的雨林。但是在印度，這種蛇會出現在乾燥地區，甚至跑進火車廂裡面。這是為什麼?",
+        "time": null
+      },
+      {
+        "en": "The scientists think they know. People eat on trains. Some leave food there. Others clean up their food. But then some throw it out the window! Rats come. They eat the food on the ground. Smaller snakes come. They eat the rats. King cobras come. They eat the rats too. They also eat the smaller snakes!",
+        "tw": "科學家發現這跟人類的食物有關。旅客在火車上吃東西，引來老鼠跟小型的蛇，這兩種眼鏡王蛇都愛吃。",
+        "time": null
+      },
+      {
+        "en": "When trains stop, sometimes rats go inside to eat. Sometimes king cobras go inside too... Then the trains go. Oops! They go far from cool, wet forests. When some king cobras leave the trains, they are in dry places.",
+        "tw": "火車停靠車站，老鼠溜進去找食物，眼鏡王蛇也就跟著上車，一路被載到乾燥地區。大家如果不亂丟食物，就能減少眼鏡王蛇出現的機率。",
+        "time": null
+      },
+      {
+        "en": "What can help stop king cobras from going inside trains? Well, when everyone stops leaving food, fewer rats will come! And then more king cobras will stay in their cool, wet forests.",
+        "tw": "什麼能幫助阻止眼鏡王蛇進入火車？嗯，當每個人都不再遺留食物時，老鼠就會變少！這樣一來，更多的眼鏡王蛇就會留在涼爽潮濕的森林裡。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "眼鏡王蛇追著牠的獵物走，那些獵物包括老鼠和比較小的蛇，牠們喜歡吃人類的食物。",
+      "content": [
+        {
+          "text": "1. rat 老鼠。\nSome of my classmates are going to the Amazon. 我有些同學要去亞馬遜。Do you think I should join them? 你覺得我應該參加嗎?\nYou? You scream when you see a rat! 你?你看到老鼠就尖叫!",
+          "time": null
+        },
+        {
+          "text": "2. snake 蛇。\nI can be brave. 我可以很勇敢。\nThere are also snakes, spiders… you name it. 還有蛇，蜘蛛，什麼都有。\nBut I really want to see this special bird.但是我真想看一種特別的鳥。",
+          "time": null
+        },
+        {
+          "text": "3. live 居住。\nBirds are everywhere! 到處都有鳥!\nNot this one. It only lives in rain forests. 沒有這種，牠只住在雨林中。",
+          "time": null
+        },
+        {
+          "text": "4. when 當。\nSo what will you do when you see a rat? 所以你看到老鼠時怎麼辦?\nI’ll run! 我就跑!",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很容易記。rat老鼠 snake蛇 live居住 when當"
+    },
+    "quiz": [
+      {
+        "question": "1. What can the king cobra's venom do?",
+        "options": [
+          "a. It can make maps.",
+          "b. It can clean.",
+          "c. It can kill."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where do king cobras live?",
+        "options": [
+          "a. Warm, dry places",
+          "b. Cool, wet forests",
+          "c. Hot train stations"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do some people leave on trains?",
+        "options": [
+          "a. Food",
+          "b. Windows",
+          "c. Rats"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
