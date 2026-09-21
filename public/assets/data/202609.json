@@ -1395,5 +1395,99 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260922-01",
+    "type": "國小",
+    "tag": [
+      "Industry",
+      "Innovation and Infrastructure",
+      "Sustainable Cities and Communities",
+      "Safety Education",
+      "Natural Sciences"
+    ],
+    "title": "Smart Trees Help Workers",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260921NK.mp3",
+    "content": [
+      {
+        "en": "Many of Taiwan's roads have trees. These roadside trees are important. They make the air cooler and cleaner. They help make the roads quieter. They help keep people on sidewalks safe. And they give us something nice to look at!",
+        "tw": "在馬路兩邊的樹木非常重要，不只讓空氣清新、保護行人安全，還能美化市容！",
+        "time": null
+      },
+      {
+        "en": "Roadside trees need to be strong and healthy. Most strong and healthy trees stand straight. Trees that lean can be dangerous. Strong winds and heavy rain can make them fall. Falling trees can hurt people! Workers need to know which trees might fall. But there are many, many trees! How do workers find trees that are leaning?",
+        "tw": "有時候風雨太強，行道樹會受到損傷，甚至會倒下，對行人造成危險。但是行道樹那麼多，怎麼看得出來哪些樹會倒呢？",
+        "time": null
+      },
+      {
+        "en": "In Kaohsiung, smart trees are helping workers. Smart trees are in 380 places there. These trees have smart sensors. Sensors look for changes. Smart sensors also tell a computer about the changes. The smart sensors on Kaohsiung's trees work 24 hours a day. Each sensor looks for changes in the way a tree stands. Is it standing straight? Or is it leaning? When a tree leans too much, the sensor tells a computer.",
+        "tw": "在高雄，380處的行道樹裝了智慧感應器，假如那些樹木傾斜了，感應器會隨時上傳到監測系統。",
+        "time": null
+      },
+      {
+        "en": "Workers quickly go to the tree. They try hard to make the tree stand straight again. But they cannot help some trees. Some trees are too weak. Workers cut them down.",
+        "tw": "收到通知後，工作人員會趕來把樹扶正，太脆弱的樹就會直接移除。高雄市民也能更加安心！",
+        "time": null
+      },
+      {
+        "en": "Smart roadside trees are making Kaohsiung safer! Way to go!",
+        "tw": "智慧行道樹讓高雄變得更安全！太棒了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "聰明的感應器，可以提前知道樹木會不會倒下傷人。",
+      "content": [
+        {
+          "text": "1. rain 下雨，wind 風。\nI'm so tired! 我好累。\nDidn't sleep well? 沒睡好嗎?\nNo. The heavy rain woke me up in the middle of the night. 對啊，大雨半夜三更把我吵醒!\nMe too! And that wind was so strong! 我也是，風也好強!",
+          "time": null
+        },
+        {
+          "text": "2. cooler 比較涼的。\nI know! It was like a typhoon! 可不是，跟颱風一樣!\nWell, at least it's cooler this morning.至少今天早上比較涼快。",
+          "time": null
+        },
+        {
+          "text": "3. too much 太多。\nI hope the rain stops. 我希望雨停下來。\nWe’ve already had too much rain.我們的雨太多了。",
+          "time": null
+        },
+        {
+          "text": "4. again 再一次。\nTell me about it! 就是啊! But it gave me an excuse to buy new shoes again.\n但是也給了我再買新鞋的藉口。",
+          "time": null
+        }
+      ],
+      "postscript": "Do you like rain? rain下雨 wind風 cooler比較涼的 too much太多 again再一次"
+    },
+    "quiz": [
+      {
+        "question": "1. Why are roadside trees important?",
+        "options": [
+          "a. They make the air cooler.",
+          "b. They stand straight.",
+          "c. They have sensors."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What can make trees fall?",
+        "options": [
+          "a. People on sidewalks",
+          "b. A computer",
+          "c. Heavy rain"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How many hours a day do the smart sensors on Kaohsiung's trees work?",
+        "options": [
+          "a. 4 hours",
+          "b. 20 hours",
+          "c. 24 hours"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
