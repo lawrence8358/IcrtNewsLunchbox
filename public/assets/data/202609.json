@@ -1489,5 +1489,102 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260923-01",
+    "type": "國小",
+    "tag": [
+      "Cilantro",
+      "Beidou",
+      "Changhua"
+    ],
+    "title": "Yum or Yuck for Cilantro?",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260922NK.mp3",
+    "content": [
+      {
+        "en": "What is small and green and has a strong smell? It is not soap. We do not wash with it. We can eat it. It is cilantro!",
+        "tw": "香菜有綠色的嫩葉，一小把就可以增添食物的香氣。",
+        "time": null
+      },
+      {
+        "en": "Cilantro grows very well in Beidou, in Changhua. About 70 percent of Taiwan's cilantro is from there. It grows fast. It is ready in 40 to 50 days. Farmers can grow it all year!",
+        "tw": "大約百分之七十的香菜都來自彰化北斗。它們長得很快，一年四季都可以種！",
+        "time": null
+      },
+      {
+        "en": "Do you love cilantro? Or do you hate it? In Taiwan, many people love it. People have put it on many Taiwanese foods for a long, long time. It is on meat dumplings, pig's blood rice cakes, noodle soups, and ice cream rolls! Yum!",
+        "tw": "香菜在台灣人氣很高。好多台灣傳統小吃加了香菜，例如豬血糕、麵線和花生冰淇淋。",
+        "time": null
+      },
+      {
+        "en": "But farmers are doing more than growing it. They are making many new foods. Now cilantro is in egg tarts, chips, cakes, and chocolates. It is in milk tea and coffee. Do you want to eat or drink some of these? Or are you running away? Oh, and computers are getting cilantro too. Do you want your computer to work well? You can get a famous snack... with cilantro it!",
+        "tw": "北斗農夫想出了更多香菜食品，例如香菜蛋塔跟洋芋片，也加進飲料裡面。你喜歡那些新口味嗎?",
+        "time": null
+      },
+      {
+        "en": "Some people think these foods are strange. Maybe it tastes like soap to them. Maybe it tastes like stinkbugs to them! Yuck!",
+        "tw": "有些人覺得那些新產品有夠奇怪。你呢？你愛吃香菜嗎？",
+        "time": null
+      },
+      {
+        "en": "So are you a cilantro lover or a cilantro hater?",
+        "tw": "所以你是香菜愛好者還是香菜討厭者？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "香菜氣味濃郁，現在有很多種相關產品。",
+      "content": [
+        {
+          "text": "1. noodle 麵條。\nMmm... I love that smell! 我喜歡那個氣味! What are you eating? 你在吃什麼?\nOyster noodles with cilantro.加了香菜的蚵仔麵線。Want some? 你要吃一點嗎?\nDefinitely! 一定要的!",
+          "time": null
+        },
+        {
+          "text": "2. hate 討厭。\nI love anything with cilantro!有香菜我都喜歡!\nOkay, you can have it all.好，你全部吃掉吧。I’ve always hated cilantro! 我向來討厭香菜!",
+          "time": null
+        },
+        {
+          "text": "3. put 放。\nWhat? Then why did you buy it? 什麼，那你幹嘛買?\nI didn’t know they would put it in my noodles ! 我不知道他們會在麵線裡放香菜。",
+          "time": null
+        },
+        {
+          "text": "4. ready 準備好的。\nWell, your bad luck is my good luck! 你的壞運是我的好運!\nHere, take it before I change my mind.拿去吧，免得我改變心意。\nGladly! I am ready to eat! 真高興，我已經準備好要吃了!",
+          "time": null
+        }
+      ],
+      "postscript": "請來跟我讀今天的單字。noodle麵條 hate討厭 put放 ready準備好的"
+    },
+    "quiz": [
+      {
+        "question": "1. How much of Taiwan’s cilantro is from Beidou?",
+        "options": [
+          "a. 40 percent",
+          "b. 50 percent",
+          "c. 70 percent"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What food has had cilantro for a long time?",
+        "options": [
+          "a. Chips",
+          "b. Ice cream rolls",
+          "c. Chocolates"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What are farmers doing with cilantro?",
+        "options": [
+          "a. Making new foods",
+          "b. Making soap",
+          "c. Keeping away stinkbugs"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
