@@ -1586,5 +1586,88 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20260924-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Time Capsule for a Big Birthday",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260923NK.mp3",
+    "content": [
+      {
+        "en": "The U.S. had a big birthday this summer. It is now two hundred fifty years old! There were lots of parties. Fireworks went off! Cool planes flew in airshows!",
+        "tw": "今年夏天，美國用煙火，飛行特技等等，盛大慶祝建國250周年!",
+        "time": null
+      },
+      {
+        "en": "The U.S. made a time capsule too. A time capsule holds things for a long time. This one is strong. It will hold things for two hundred fifty years! When it is opened, the U.S. will be five hundred years old! That is far in the future!",
+        "tw": "美國政府還埋下一個時間膠囊，裡面裝了許多東西，將在美國500周年時開啟。",
+        "time": null
+      },
+      {
+        "en": "The fifty U.S. states gave things to put in the time capsule. Many states gave coins. These coins are NOT money for two hundred fifty years from now! They show important pictures of the state or the U.S. Some states gave other things. One gave a bone. It is from an endangered whale. The state hopes these whales will be living far in the future! One state is famous for computers. It gave a computer chip. One state gave a diamond! It has a park with diamonds. When people find one, they can keep it!",
+        "tw": "那些東西包括各州政府提供的紀念品，有硬幣、鯨魚骨頭標本，還有晶片和鑽石！",
+        "time": null
+      },
+      {
+        "en": "The biggest library in the U.S. gave notecards from kids. These kids wrote what they want kids in the future to know. Time capsules tell people in the future about us now. What would you put in a time capsule?",
+        "tw": "美國最大的圖書館提供了孩子們寫的留言卡，孩子們在卡片上寫下想讓未來的人知道的事。時間膠囊告訴未來的人們關於現在的我們，你會在時間膠囊裡放什麼呢？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這個埋在地下的時間膠囊，要過兩百五十年才會打開。",
+      "content": [
+        {
+          "text": "1. time 時間。\nWhat can represent our time? 什麼可以代表我們的時代?\nWhat do you mean? 你是指什麼?\nIf you want to show aliens who we are, 如果你要給外星人看我們是誰，what would you show?\n你會展示什麼?\nWow, that's deep.哇，好深奧喔!",
+          "time": null
+        },
+        {
+          "text": "2. picture 圖畫。\nI'd show pictures.我會給他們看圖片。\nPictures of what? 什麼東西的圖片呢?\nPeople and my city. 人群跟城市。",
+          "time": null
+        },
+        {
+          "text": "3. future 未來。\nOkay, that would be interesting. 那應該很有趣。\nWhat do you think they’d show us? 你覺得外星人會給我們看啥?\nProbably something from the future. 可能是未來的東西。",
+          "time": null
+        },
+        {
+          "text": "4. year 年。\nA future for us, but not for them? 對我們來說是未來，對他們不是?\nYeah. Maybe they are already two hundred years ahead of us.對，他們也許比我們先進兩百年。",
+          "time": null
+        }
+      ],
+      "postscript": "你對外星人有怎樣的想像?\ntime時間 picture圖畫 future未來 year年"
+    },
+    "quiz": [
+      {
+        "question": "1. How old will the U.S. be when the time capsule is opened?",
+        "options": [
+          "a. 50 years old",
+          "b. 250 years old",
+          "c. 500 years old"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did many states give to put in the time capsule?",
+        "options": [
+          "a. Coins",
+          "b. Chips",
+          "c. Bones"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did the biggest library in the U.S. give?",
+        "options": [
+          "a. Pictures of kids",
+          "b. Notecards from kids",
+          "c. Books for kids"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
