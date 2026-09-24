@@ -1669,5 +1669,122 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260925-01",
+    "type": "國小",
+    "tag": [
+      "New Taipei",
+      "Environment",
+      "Typhoon"
+    ],
+    "title": "A Big Job on a Roof",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260924NK.mp3",
+    "content": [
+      {
+        "en": "A Big Job on a Roof",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "In one part of New Taipei, people were very worried about a building. They called the city. City workers went to the building. They went up to the top. They looked at the roof.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Many, many things were on the roof! There were old bikes and suitcases. There were old chairs and tables. There were also old bottles and other things to recycle. But they were not recycled.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Many more things were on the fifth floor. It was full! The stairs were full too. Why were there SO many things?",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "For many years, a man carried things up to the roof. He said he used them to study science. Everything got older and older. They smelled. Lots of big bugs came. Lots of mice came.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "The city and others cleaned up the roof two times a few years ago. But the man carried more things up.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "A typhoon was coming. Maybe it would come to New Taipei! Strong winds could blow things off the roof! They could fall on people! City workers needed to clean up the roof fast!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Forty workers came. They put everything on the roof in big white bags. Tall cranes took the bags down. Trucks carried the bags away.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "The days were hot. Everything smelled bad. But the workers kept working. They cleaned up more than 24,000 kilograms of old things. It took four days. Now the man must pay the city two million NT.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Maybe more typhoons are coming. But the people near the building feel safer. The roof is clean... for now!",
+        "tw": "或許會有更多颱風到來。但大樓附近的居民現在感到更安全了。屋頂現在變得很乾淨...至少目前是這樣！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "新北市一棟公寓的屋頂上堆滿了雜物，還好在颱風來之前全部清掉了。",
+      "content": [
+        {
+          "text": "1. clean up 清除。\nJane, you have too much old stuff! 你的舊東西太多了!\nYou really need to clean it up. 你真的需要清理。\nI know. 我知道。",
+          "time": null
+        },
+        {
+          "text": "2) full 滿的。\nBut my living room is not full yet. 不過我的客廳還沒有放滿。\nAre you kidding? 開玩笑。\nI have to move around things just to get to the door! 我要繞過一堆東西才能走到門口。",
+          "time": null
+        },
+        {
+          "text": "3) table 桌子，chair 椅子。\nAnd I can’t sit down.而且還沒辦法坐。\nThere's stuff piled up on every table and chair! 桌子和椅子上都堆了東西。\nYou’re right, sorry about that.你說的對，真抱歉。",
+          "time": null
+        },
+        {
+          "text": "4) carry 搬運。\nI can help you carry some of these downstairs. 我可以幫你把一些搬下樓。\nNo no. I’ll just buy one more chair.不了，我會去買一張椅子。",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我讀今天的單字。\nclean up清除 full滿的 table桌子 chair椅子 carry搬運"
+    },
+    "quiz": [
+      {
+        "question": "1. What was on the roof?",
+        "options": [
+          "a. Many old things",
+          "b. New chairs",
+          "c. A garden"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What came to the roof?",
+        "options": [
+          "a. Cats",
+          "b. Bugs",
+          "c. Trucks"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Who cleaned up the roof?",
+        "options": [
+          "a. People living near the building",
+          "b. The man",
+          "c. City workers"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
