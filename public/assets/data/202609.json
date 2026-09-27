@@ -1786,5 +1786,98 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20260928-01",
+    "type": "國小",
+    "tag": [],
+    "title": "A Neighborhood for People",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260925NK.mp3",
+    "content": [
+      {
+        "en": "Long ago, a man went to old towns in Europe. He saw the towns were made for people. People walked everywhere. They did not need cars.",
+        "tw": "很久以前，有一名男子在歐洲小鎮旅遊，發現當地路上沒有汽車，對行人非常友善。",
+        "time": null
+      },
+      {
+        "en": "The man wanted a neighborhood like that. A neighborhood is a part of a town or city. People live there. The man built one in a hot, dry city in the U.S. The city gets hotter than Taiwan! But the man built small white buildings. They are close together. They keep the hot sunlight out. The air gets cooler!",
+        "tw": "他很欣賞那樣的環境，於是在乾燥炎熱的美國西南部，建造了一個無車住宅區，房屋都漆成白色，讓室內更涼快！",
+        "time": null
+      },
+      {
+        "en": "People living in this neighborhood walk. They cannot have cars. There are no streets. There are more than three kilometers of walking paths. These have colorful art and flowers on both sides. People can walk to many shops. They can buy food, clothes, books, and more. They can buy boba tea! They can walk to big and small spaces outside to sit and relax.",
+        "tw": "這個住宅區沒有汽車也沒有馬路，但是有長長的步道，居民可以走去商店、餐廳，或在戶外的休憩空間放鬆心情。",
+        "time": null
+      },
+      {
+        "en": "When people are outside, they see their neighbors. Neighbors are the people living in the... neighborhood! They talk and become friends.",
+        "tw": "居民在戶外活動時，會常常跟鄰居互動，成為好朋友。",
+        "time": null
+      },
+      {
+        "en": "When people need to go to school or work, they ride a bike or take a train. Or they rent a car for one hour or longer. Not having a car is easy here!",
+        "tw": "如果居民需要通勤，可以騎腳踏車或搭火車，也可以租車，生活還是很方便！",
+        "time": null
+      },
+      {
+        "en": "What a nice place to live! Neighborhoods can be for people, not cars!",
+        "tw": "多麼棒的居住環境！住宅區應該是為人而建，而非為了汽車！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這個住宅區沒有汽車，但是大部分地方可以用腳走到。",
+      "content": [
+        {
+          "text": "1. dry 乾燥的。\nIt’s so hot and dry today! 今天又熱又乾!\nI know. But when I was a kid, I loved weather like this! 確實，可是我小時候超喜歡這種天氣!",
+          "time": null
+        },
+        {
+          "text": "2. outside 在外面。\nI went swimming, ate spicy food, 我去游泳，吃辣的東西，and stayed outside all day.整天都待在外面。",
+          "time": null
+        },
+        {
+          "text": "3. space 空間。\nYeah, there were more trees and open spaces back then. 對，那時候樹比較多，也比較多開放空間。\nAnd sunlight wasn’t a problem at all.而且太陽根本不是問題。",
+          "time": null
+        },
+        {
+          "text": "4. everywhere 到處。\nNow you worry about getting sunburned... 現在都會擔心曬傷了，and carry an umbrella everywhere! 而且到哪裡都帶著傘!\nMe too! I’m always looking for shade. 我也是，總是在找遮陰的地方。",
+          "time": null
+        }
+      ],
+      "postscript": "你可記住了今天的單字?\ndry乾燥的 outside在外面 space空間 everywhere到處"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is this neighborhood?",
+        "options": [
+          "a. Europe",
+          "b. The U.S.",
+          "c. Taiwan"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why does the neighborhood feel cooler?",
+        "options": [
+          "a. The buildings keep the hot sunlight out.",
+          "b. It is in a sunny city.",
+          "c. People walk."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How do people get to the shops in the neighborhood?",
+        "options": [
+          "a. They take the train.",
+          "b. They walk.",
+          "c. They drive a car."
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
