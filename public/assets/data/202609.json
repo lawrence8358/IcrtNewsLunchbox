@@ -1879,5 +1879,101 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260929-01",
+    "type": "國小",
+    "tag": [
+      "Environment",
+      "Beach Cleanup"
+    ],
+    "title": "Help Clean Up Taiwan’s Beaches Every Day",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260928NK.mp3",
+    "content": [
+      {
+        "en": "Beaches can look beautiful from far away. But when you go closer, maybe you will find trash! You might see bottles, fishing nets, plastic bags, and more.",
+        "tw": "台灣的海灘很美，但近看卻可能會發現海灘上垃圾很多。",
+        "time": null
+      },
+      {
+        "en": "Or… maybe you will not find trash. Taiwan has about 10,000 beach cleanups every year. About 170,000 people help. Maybe you know one of them!",
+        "tw": "台灣每年約有一萬場淨灘活動，說不定你認識的人也有參加！",
+        "time": null
+      },
+      {
+        "en": "But many beaches do not get cleanups. So environmental groups made an online map. It shows 170 beaches in Taiwan. Fifty of these beaches have LOTS of trash! Many are hard to go to. There are no easy paths to some. Others have nowhere to park cars.",
+        "tw": "環保團體做了線上地圖，標出50個垃圾特別多而且很難去到的海灘。",
+        "time": null
+      },
+      {
+        "en": "Now one of the groups is finding companies near these fifty beaches. It teaches people there how to be cleanup leaders. These beaches are getting help!",
+        "tw": "環保團體也教導當地民眾淨灘，並跟附近企業合作，讓海灘能夠恢復乾淨。",
+        "time": null
+      },
+      {
+        "en": "You can help beaches by going to a cleanup. But these groups say you do not have to go to a beach to help. You can find ways to help in your daily life! How? You can try not to use plastic bags. You can be careful not to throw trash on the ground. The wind blows trash into rivers. Trash is carried to oceans and then beaches. So… when you see some trash, pick it up!",
+        "tw": "在日常生活你也能盡一份心力，少用塑膠袋或不亂丟垃圾，都能守護海灘！",
+        "time": null
+      },
+      {
+        "en": "Taiwan's beaches are getting help in many ways. You can help too!",
+        "tw": "台灣的海灘正透過多種方式獲得幫助。你也可以出一份力！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "許多人去到海灘會留下垃圾，造成環境問題。",
+      "content": [
+        {
+          "text": "1. bottle 瓶子。\nThis sand beach is so pretty! 這個沙灘真美!\nYeah, except for those bottles there. 是啊，除了那些瓶子之外。",
+          "time": null
+        },
+        {
+          "text": "2. far away 很遠。\nDo you think they came from far away? 你覺得它們是從遠方來的嗎?\nDoes it matter? 那有關係嗎?\nThey are here now. 它們現在待在這兒了。",
+          "time": null
+        },
+        {
+          "text": "3. easy 容易的，hard 難的。\nSomeone will come and clean them up. 有人會來把它們清走。\nI’m not so sure. 我懷疑。\nThrowing bottles away is easy, 丟瓶子很容易，picking them up is the hard part.撿起來很難.",
+          "time": null
+        },
+        {
+          "text": "4. leader 領導者。\nMaybe we should pick up a few ourselves. 也許我們應該自己先撿幾個。\nOkay, you be the leader, and I’ll follow you.好，你當領袖，我跟著你。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀今天的單字。\nbottle瓶子 far away很遠 easy容易的 hard難的 leader領導者"
+    },
+    "quiz": [
+      {
+        "question": "1. How many beach cleanups are there in Taiwan every year?",
+        "options": [
+          "a. About 170",
+          "b. About 1,000",
+          "c. About 10,000"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What do the fifty beaches have?",
+        "options": [
+          "a. Lots of trash",
+          "b. Lots of cleanups",
+          "c. Lots of cars"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How can you help clean beaches?",
+        "options": [
+          "a. Try to use plastic bags",
+          "b. Pick up trash",
+          "c. Throw trash on the ground"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
