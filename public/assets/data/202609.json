@@ -1975,5 +1975,102 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20260930-01",
+    "type": "國小",
+    "tag": [
+      "bees",
+      "nature",
+      "environment"
+    ],
+    "title": "Metal Is Bad for Bees",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260929NK.mp3",
+    "content": [
+      {
+        "en": "Bees are important for nature. They fly from flower to flower. They get a yellow powder called p-p-p-pollen! The bees also bring pollen to flowers. This helps many fruits and vegetables grow. So bees are important for us too!",
+        "tw": "蜜蜂在花朵之間飛來飛去傳遞花粉，幫助蔬菜水果生長，是很重要的昆蟲！",
+        "time": null
+      },
+      {
+        "en": "But bees have a problem. Pollen can also have metal in it! The metal is too small to see. It comes from factories, farms, and cars. It is in the air, the water, and the ground.",
+        "tw": "但是花粉可能遭到重金屬汙染，這些微小的重金屬多半來自工廠，空氣跟水裡也會有。",
+        "time": null
+      },
+      {
+        "en": "Scientists studied metal and bees. They used honeybees and bumblebees. Bumblebees had MUCH more metal in their pollen and on their bodies!",
+        "tw": "科學家研究蜜蜂和熊蜂後發現，熊蜂採到的花粉，和身上的重金屬含量，比蜜蜂高！",
+        "time": null
+      },
+      {
+        "en": "Why? Honeybees fly far. They find many kinds of flowers. Maybe some have metal in their pollen. But others do not. Bumblebees do not fly far. They find fewer kinds of flowers. If one kind has metal, they get a lot of metal. Bumblebees also live in the ground. If the ground has metal, they get metal. They have more hair too. It picks up more metal…",
+        "tw": "這是因為熊蜂的飛行範圍比較小，採花種類少。只要一種花帶有重金屬，濃度就會很高。而且熊蜂的窩在地下，泥土中也有重金屬。",
+        "time": null
+      },
+      {
+        "en": "Metal does not kill bumblebees. But it is very bad for them. They can forget how to find flowers or how to take care of baby bees!",
+        "tw": "重金屬不會殺死熊蜂，但是對身體有害。大家可以多多種花，幫忙守護熊蜂！",
+        "time": null
+      },
+      {
+        "en": "Bees need pollen to live. Pollen with metal is better than no pollen. So scientists say we can plant flowers for bees. Bees help us. Let's help them too!",
+        "tw": "蜜蜂需要花粉才能生存。含有金屬的花粉比沒有花粉好。因此科學家說我們可以為蜜蜂種植花朵。蜜蜂幫助我們。讓我們也來幫助牠們吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "熊蜂需要人類協助，以免遭受太多重金屬汙染。",
+      "content": [
+        {
+          "text": "1. flower 花朵。I love being out in nature.我喜歡待在大自然中。Look at all these flowers! 你看這麼多花! Do you grow anything at home?你會不會在家裡種什麼?",
+          "time": null
+        },
+        {
+          "text": "2. vegetable 蔬菜。I tried to grow vegetables once. 我曾經試過種蔬菜。But I forgot they needed air and water. 我忘了它們需要空氣跟水。",
+          "time": null
+        },
+        {
+          "text": "3. fruit 水果。The cucumbers were as small as my finger,小黃瓜跟我的手指一樣小，and the fruit trees all died. 果樹全部死了。",
+          "time": null
+        },
+        {
+          "text": "4. plant 種植。Did you plant them indoors? 你把它們種在室內喔? Yeah, I thought they would enjoy the air conditioning. 對啊，我以為他們會喜歡吹冷氣。Well, at least you were comfortable! 至少你滿舒服的!",
+          "time": null
+        }
+      ],
+      "postscript": "你常常看到蜜蜂嗎? 來跟我讀單字。flower花朵 vegetable蔬菜 fruit水果 plant種植"
+    },
+    "quiz": [
+      {
+        "question": "1. Why are bees important?",
+        "options": [
+          "a. They get metal.",
+          "b. They help fruit grow.",
+          "c. They eat other bugs."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why do bumblebees have more metal than honeybees?",
+        "options": [
+          "a. They fly faster.",
+          "b. They find fewer kinds of flowers.",
+          "c. They live in trees."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How can we help bees?",
+        "options": [
+          "a. Plant flowers",
+          "b. Eat less honey",
+          "c. Take care of baby bees"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
