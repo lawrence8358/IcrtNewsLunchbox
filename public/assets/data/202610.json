@@ -1,0 +1,99 @@
+ [
+  {
+    "id": "20261001-01",
+    "type": "國小",
+    "tag": [
+      "台北車站",
+      "Taipei Main Station",
+      "交通"
+    ],
+    "title": "Goodbye to Taipei Main Station’s Famous Floor",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20260930NK.mp3",
+    "content": [
+      {
+        "en": "Taiwan has some busy train stations. But the busiest one is Taipei Main Station. Every day, hundreds of thousands of people use it!",
+        "tw": "台灣有好幾個繁忙的車站，其中又以台北車站進出的旅客最多。",
+        "time": null
+      },
+      {
+        "en": "The station has a famous floor. Many people love it. It has big black and white squares. It has ten big emojis! They show smiling and laughing faces. The word \"smile\" is on the floor too. It is in ten languages! People walk on this floor. They sit on it. They meet friends there. They take photos on it! They take photos OF it!",
+        "tw": "台北車站的地板是黑白格子圖案，有很大的表情符號，也有用不同語言表達「微笑」這個詞！朋友們約在這裡見面，甚至跟地板合照！",
+        "time": null
+      },
+      {
+        "en": "But now the station is getting many changes. One big change is the floor. There will be no more black and white squares or emojis. Some people feel a little sad about this change. Some are saying goodbye to the black and white floor.",
+        "tw": "車站即將大改造，棋盤格子地板會被拆掉。有些人對這個改變感到很難過。",
+        "time": null
+      },
+      {
+        "en": "The new floor may have smaller gray squares and light gray rectangles. This is a big change, but people may like it. The new floor can make the station look brighter!",
+        "tw": "新地板則由小的灰色方格和淺灰色長方形組成，希望能讓車站空間看起來更明亮！",
+        "time": null
+      },
+      {
+        "en": "The station is getting new things too. A giant screen will show pictures of Taiwan. It might show sports games with Taiwanese players too. People can cheer for their favorite players! And the station will get new elevators and a big clock.",
+        "tw": "車站還會新增一個超大的螢幕，讓人們可以一起看運動賽事，為台灣選手加油。另外，車站中央還要放個大時鐘，做為新的地標。",
+        "time": null
+      },
+      {
+        "en": "The changes will be done in two years and eight months. Taipei Main Station will be better for everyone!",
+        "tw": "這些工程將會在兩年八個月內完工。台北車站將會變得更好！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台北車站即將改頭換面，讓它更方便，但是舊的東西也隨之而去。",
+      "content": [
+        {
+          "text": "1. change 改變。\nDo you like change? 你喜歡改變嗎?\nYou mean having sandwiches today and pizza tomorrow? 你是說今天吃三明治明天吃披薩?\nNo. I mean real change.不,我是說真正的改變。",
+          "time": null
+        },
+        {
+          "text": "2. say goodbye 道別。\nI don’t know. I sure like old friends.不知。我喜歡老朋友。\nOh, so you don’t like saying goodbye. 所以你不喜歡道別。",
+          "time": null
+        },
+        {
+          "text": "3. friend 朋友。\nOf course not, do you? 當然不，你喜歡嗎?\nWell, I like making new friends. 我喜歡交新朋友。",
+          "time": null
+        },
+        {
+          "text": "4. black 黑色，white 白色。\nIt’s not a black-and-white thing. 那又不是非黑即白的事情。You can have both old and new friends. 你可以有老朋友和新朋友。\nTrue. 確實是。",
+          "time": null
+        }
+      ],
+      "postscript": "來讀今天的單字。change改變 say goodbye道別 friend朋友 black黑色 white白色"
+    },
+    "quiz": [
+      {
+        "question": "1. How many people use Taipei Main Station every day?",
+        "options": [
+          "a. Hundreds of thousands",
+          "b. Millions",
+          "c. Hundreds of millions"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What does the famous floor have?",
+        "options": [
+          "a. Black and white squares",
+          "b. Black and white circles",
+          "c. Black and white triangles"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What will show pictures of Taiwan?",
+        "options": [
+          "a. A big clock",
+          "b. An elevator",
+          "c. A giant screen"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  }
+]
