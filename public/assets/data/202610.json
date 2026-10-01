@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20261001-01",
     "type": "國小",
@@ -90,6 +90,108 @@
           "a. A big clock",
           "b. An elevator",
           "c. A giant screen"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  },
+  {
+    "id": "20261002-01",
+    "type": "國小",
+    "tag": [
+      "機場",
+      "夜市",
+      "桃園機場"
+    ],
+    "title": "An Inside Night Market Open During the Day",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261001NK.mp3",
+    "content": [
+      {
+        "en": "Do you like night markets? They are loud. They have a lot of people. But they also have a lot of tasty food. You can have popcorn chicken, egg cake, and much more! There is food everywhere you go at night markets!",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "Taoyuan Airport is the biggest airport in Taiwan. It is loud too. It also has a lot of people. About seventy thousand people get on planes here every day! Many of them are from other countries. They love visiting Taiwan. And they love Taiwan's night markets!",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "Now there is a night market inside this airport. It is open during the day too. People can go to it and then get on their plane! It makes waiting at the airport fun!",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "But wait…how can a night market be inside an airport? Night markets are outside. And they are open at night. They are not open during the day!",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "Well, this night market is not a real one. But people have a good time there! They take pictures with a very big chicken leg, grilled corn, or bubble tea. But they cannot eat or drink them. These are also not real! But people CAN eat a real egg cake... for free!",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "This night market has games too. One game has pictures of some night market foods. It shows people where they can buy these foods in the airport. People can also make art about night markets... for free!",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "This fun night market ends on the eighteenth. It is making people leave Taiwan with a big smile!",
+        "tw": "這個有趣的夜市將在十八號結束。它讓離開台灣的人們都帶著燦爛的笑容！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "夜市熱鬧非凡，台灣人喜歡，也吸引眾多外國遊客。",
+      "content": [
+        {
+          "text": "1. plane 飛機。\nI can't believe you're getting on that plane and just leaving!\n我不敢相信你就那樣上飛機走了!\nHey, I'm coming back next month! 我下個月就回來了!",
+          "time": null
+        },
+        {
+          "text": "2. at night 在晚上。\nI know, but who would hang out with me at night? 我知道，但是誰來晚上陪我玩?\nCome on, you can go to the night market by yourself. 少來，你可以自己去逛夜市啊。",
+          "time": null
+        },
+        {
+          "text": "3. fun 好玩的。\nIt’s no fun without you! 沒有妳不好玩!\nYou’re right. 你說得對。We eat too much and laugh too loud.我們吃太多，笑得太大聲。",
+          "time": null
+        },
+        {
+          "text": "4. eat 吃，drink 喝。\nSo will you come back next week? 所以你會下星期回來嗎? We can eat and drink together again.我們又可以一起吃吃喝喝。\nMaybe.也許吧。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字很簡單plane飛機 at night在晚上 fun好玩的 eat吃 drink喝"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is this night market?",
+        "options": [
+          "a. Inside an airport",
+          "b. Inside a plane",
+          "c. Outside an airport"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What can people eat at this night market?",
+        "options": [
+          "a. An egg cake",
+          "b. A chicken leg",
+          "c. Grilled corn"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What can people make at this night market?",
+        "options": [
+          "a. Books",
+          "b. Food",
+          "c. Art"
         ],
         "time": null,
         "answer": "c"
