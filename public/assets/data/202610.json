@@ -197,5 +197,100 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20261005-01",
+    "type": "國小",
+    "tag": [
+      "Character Education"
+    ],
+    "title": "A Big Pizza Surprise",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261002NK.mp3",
+    "content": [
+      {
+        "en": "A pizza shop was having a busy day. But it was going to get busier! Someone called the shop. The person ordered 18 pizzas! That is a lot of pizzas!",
+        "tw": "美國一家忙碌的披薩店接到電話訂單，竟然點了18個大披薩！",
+        "time": null
+      },
+      {
+        "en": "The workers had so much to do then! So the pizza shop stopped taking orders. The workers worked and worked and worked. Forty minutes later, all of the pizzas were ready. But… nobody came to pick them up!",
+        "tw": "店員努力製作披薩，終於在40分鐘之後完成了訂單，卻沒有任何人來領。",
+        "time": null
+      },
+      {
+        "en": "A worker called the phone number for the order. The person on the phone said, \"I did not order those pizzas!\" Who ordered the pizzas? No one knows. It was a prank! A prank is a trick. Pranks can be fun. But some pranks are not nice. This one was not nice! Those 18 pizzas cost about 9,500 Taiwan dollars!",
+        "tw": "原來這是一場惡作劇，但是一點也不好玩，因為18個披薩要價約9500元台幣！",
+        "time": null
+      },
+      {
+        "en": "The pizzas had nowhere to go. Then the pizza shop owner had a great idea. He wanted to do something nice. His friend helped him.",
+        "tw": "這些披薩無處可去，於是披薩店老闆想到了一個好主意，他請朋友來幫忙。",
+        "time": null
+      },
+      {
+        "en": "His friend put the pizzas in his car. He drove to a hospital. He gave the pizzas to the doctors and nurses. The doctors and nurses were very happy! The pizzas were a big, delicious surprise!",
+        "tw": "朋友開車把披薩送到附近的醫院，分給醫生和護士們，讓他們非常開心。惡作劇變成了一個溫暖的驚喜。",
+        "time": null
+      },
+      {
+        "en": "The 18 pizzas were ordered for a prank. That was not nice. But the pizza shop made a bad prank into something kind. It shared with others!",
+        "tw": "這18個披薩是為了惡作劇而訂購的。那樣很不友善。但這家披薩店把一個糟糕的惡作劇變成了一件好事，與他人分享了！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "雖然是惡作劇，結局卻讓人很開心。",
+      "content": [
+        {
+          "text": "1. order 訂購。\nI’m hungry, but I really don’t feel like cooking.我餓了，可是我不想做飯。Easy. Let’s order pizza. 很簡單，我們叫披薩。",
+          "time": null
+        },
+        {
+          "text": "2. cost 花費。\nGreat idea! I can even drive over and pick it up.好主意，我甚至可以開車去拿。\nGood! Then it’ll cost less. 真好，那比較省錢。And can you get some drinks on your way back? 你在回來的路上買飲料好吧?\nSure.當然。",
+          "time": null
+        },
+        {
+          "text": "3. nice 很好。\nIt’s so nice of you! 你人真好!\nYeah, yeah. Just remember I’ll have the last slice. 好啦，只要記得我想要吃最後一片。",
+          "time": null
+        },
+        {
+          "text": "4. phone number 電話號碼。\nNobody makes pizza better than Pizza Heaven! 沒有人做得比披薩天堂好! Wow, I’ll keep their phone number. 哇，我會保留他們的電話號碼。",
+          "time": null
+        }
+      ],
+      "postscript": "你有訂過披薩嗎? order訂購 cost花費 nice很好 phone number電話號碼"
+    },
+    "quiz": [
+      {
+        "question": "1. How many pizzas did someone order?",
+        "options": [
+          "a. 9",
+          "b. 18",
+          "c. 40"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What is a prank?",
+        "options": [
+          "a. A pizza",
+          "b. A nice thing",
+          "c. A trick"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did the pizza shop owner do with the pizzas?",
+        "options": [
+          "a. He gave them to doctors and nurses.",
+          "b. He gave them to his workers.",
+          "c. He ate all of them."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
