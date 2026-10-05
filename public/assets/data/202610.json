@@ -292,5 +292,106 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20261006-01",
+    "type": "國小",
+    "tag": [
+      "Aura Farming",
+      "Trends"
+    ],
+    "title": "These Cool Farmers Battle Each Other",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261005NK.mp3",
+    "content": [
+      {
+        "en": "In many places around the world, young people are farming. But they are not growing plants. They are aura farming. Aura is coolness. People say you can grow aura. That is why they call it \"aura farming.\"",
+        "tw": "現在年輕人的新流行叫做 “aura farming”，就是透過耍酷來製造氣場。",
+        "time": null
+      },
+      {
+        "en": "An 11-year-old boy in Indonesia showed the world what aura is. He danced at the front of a fast boat. He did cool moves again and again.",
+        "tw": "印尼的11歲男孩為全世界示範如何耍酷。他站在一艘快速前進的船上，重複做動作。",
+        "time": null
+      },
+      {
+        "en": "Now there are aura battles. They are a new way to farm aura. In aura battles, no one fights. No one says bad things. No one touches the other person. So how do people battle? They dance. They do cool moves again and again.",
+        "tw": "現在還有耍酷大賽。比賽過程不互相對罵，也沒有肢體接觸，而是比誰的舞步更有魅力。",
+        "time": null
+      },
+      {
+        "en": "On a beach in Peru, young people are dressed like their favorite characters. Music plays. Two people battle. They dance. They do cool moves! Many people cheer! Who gets the loudest cheers? That is the winner!",
+        "tw": "在祕魯的海灘上，年輕人打扮成自己最愛的角色，跟著音樂跳舞。誰得到最多歡呼聲，誰就是贏家！",
+        "time": null
+      },
+      {
+        "en": "Many people watch aura battle videos online. Then some have aura battles. Now there are aura battles in Mexico, Brazil, Ecuador, Argentina, and Spain!",
+        "tw": "很多人也在線上觀看耍酷大賽。在巴西、墨西哥、厄瓜多、阿根廷和西班牙都有舉辦這個比賽！",
+        "time": null
+      },
+      {
+        "en": "Aura battles are fun. Young people make their own dances. They cheer for each other. They are cool!",
+        "tw": "耍酷大賽很好玩，年輕人可以展示自己的舞步，並且互相加油打氣！",
+        "time": null
+      },
+      {
+        "en": "How about you? Do you want to try an aura battle?",
+        "tw": "那你呢？你想試試耍酷大賽嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "最新流行的耍酷大賽，已經有許多國家參加。",
+      "content": [
+        {
+          "text": "1. dance 跳舞。\nWant to go to a movie tonight? 今晚要不要去看電影?\nNo. I have to dance tonight. 不去，我今晚要跳舞。\nThat’s your jazz dance lesson? 是你的爵士舞課嗎?\nYeah! 對。",
+          "time": null
+        },
+        {
+          "text": "2. move 動作。\nOur teacher plays the music, 老師放音樂，and shows us some really cool moves. 做很酷的動作給我們看。And we try our best to follow.我們就努力跟上。",
+          "time": null
+        },
+        {
+          "text": "3. each other 互相。\nDo you cheer for each other? 你們會不會互相加油?\nNo, we laugh at each other! 不會，我們互相嘲笑!",
+          "time": null
+        },
+        {
+          "text": "4. who 誰。\nWho’s the best dancer in your class? 誰是你班上跳得最好的?\nIt’s certainly not me! 一定不是我!",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我一起讀單字。\ndance跳舞 move動作 each other互相 who誰"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the 11-year-old boy do?",
+        "options": [
+          "a. Showed the world what aura is",
+          "b. Went to an aura battle",
+          "c. Made the loudest cheer"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Where was the aura battle at the beach?",
+        "options": [
+          "a. Argentina",
+          "b. Mexico",
+          "c. Peru"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What do people do in aura battles?",
+        "options": [
+          "a. Dance",
+          "b. Say bad things",
+          "c. Fight"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
