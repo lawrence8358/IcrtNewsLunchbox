@@ -393,5 +393,106 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20261007-01",
+    "type": "國小",
+    "tag": [
+      "節慶",
+      "文化"
+    ],
+    "title": "This Temple in Taiwan Rains Money",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261006NK.mp3",
+    "content": [
+      {
+        "en": "What can fall on you like rain and snow? At a temple in Gukeng in Yunlin, money can!",
+        "tw": "除了下雪和下雨，還能下什麼呢？在雲林古坑鄉的一間宮廟，會下鈔票雨！",
+        "time": null
+      },
+      {
+        "en": "This temple makes money fall on people once a year. During Ghost Month, bags of red paper money are taken up to the roof. What money is red in Taiwan? Yes, the $100 bill is!",
+        "tw": "每年農曆七月，這座宮廟的工作人員都會從屋頂撒下紅色的百元鈔票。",
+        "time": null
+      },
+      {
+        "en": "This year, the temple had $80,000 to throw. Wow! How many $100 bills is that? Yes, that is 800 bills!",
+        "tw": "今年，他們準備了八萬元的百元鈔票，總共800張鈔票！",
+        "time": null
+      },
+      {
+        "en": "The people up on the roof opened the bags. The people below were ready to catch some bills! Many held their hands high. Some stayed close to the ground. Maybe some bills would fall there!",
+        "tw": "人們在宮廟屋簷下，雙手高舉或者蹲下來等著，期待鈔票落到面前。",
+        "time": null
+      },
+      {
+        "en": "The people on the roof threw the 800 bills! It rained money! The people below jumped and yelled. They were excited! They tried their best to catch the bills. Some got $1,000 or more! Then in one minute, all the money was gone!",
+        "tw": "鈔票雨開始了! 大家又叫又跳，興奮地開搶！不到一分鐘所有的錢都搶光了。",
+        "time": null
+      },
+      {
+        "en": "Why does the temple throw money? A woman from Vietnam started this temple. Temples in Vietnam have thrown money for hundreds of years. It is a way to share good luck!",
+        "tw": "一位越南女性來台灣之後建了這座宮廟，而撒鈔票是越南傳統習俗。幾百年來，當地宮廟都會這麼做來分享福氣。",
+        "time": null
+      },
+      {
+        "en": "More people from Vietnam are living in Taiwan. Something that has been done in Vietnam for a long time is now done in Taiwan too. That is great!",
+        "tw": "有越來越多的越南人居住在台灣。在越南行之有年的習俗，現在台灣也看得到了。這真的很棒！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這座宮廟撒錢的習俗，是希望帶給大家好運。",
+      "content": [
+        {
+          "text": "1. excited 興奮的。\nHey, your favorite K-pop group is coming! 你最喜歡的韓團要來!\nWhen? 什麼時候?\nIn March next year. 明年三月。\nI’m so excited!!! 我太興奮了!",
+          "time": null
+        },
+        {
+          "text": "2. jump 跳。\nWill you stop jumping around? 你不要跳來跳去行不行?\nYeah, I should find out how to get the tickets.對，我應該來看看怎麼買票。",
+          "time": null
+        },
+        {
+          "text": "3. gone 走了，或是沒有了。\nI bet the tickets will be gone in seconds! 我敢打賭那些票一定秒殺!\nThen I have to be quick! 那我一定要動作快!",
+          "time": null
+        },
+        {
+          "text": "4. How many 有多少。\nHow many computers and cellphones do you have? 你有幾台電腦跟手機?\nFive altogether! 一共五個!\nGreat! 好極了!",
+          "time": null
+        }
+      ],
+      "postscript": "你記住了今天的單字嗎?\nexcited興奮的 jump跳 gone走了，或是沒有了 how many有多少"
+    },
+    "quiz": [
+      {
+        "question": "1. When does it rain money at this temple?",
+        "options": [
+          "a. Lunar New Year",
+          "b. Ghost Month",
+          "c. Mid-Autumn Festival"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many $100 bills did the temple throw this year?",
+        "options": [
+          "a. 80 bills",
+          "b. 800 bills",
+          "c. 8,000 bills"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Where have temples thrown money for hundreds of years?",
+        "options": [
+          "a. Taiwan",
+          "b. Vietnam",
+          "c. South Korea"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
