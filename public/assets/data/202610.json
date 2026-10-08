@@ -494,5 +494,107 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20261009-01",
+    "type": "國小",
+    "tag": [
+      "Snake",
+      "Fire",
+      "School"
+    ],
+    "title": "Did This Snake Start a Fire?",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261008NK.mp3",
+    "content": [
+      {
+        "en": "At a junior high school in the U.S., teachers teach. Kids learn. Everyone eats lunch. Later, everyone goes home. At the end of the day, no one is at the school.",
+        "tw": "在美國的一所國中，老師教書、孩子學習。大家吃午餐。隨後，每個人都回家了。在一天結束時，學校裡沒有人。",
+        "time": null
+      },
+      {
+        "en": "But one night, people were at the school. It was very noisy! The school was on fire! Oh no! Firefighters hurried to the school. They fought the fire. And they found... a snake? It was under a desk. It was almost two and a half meters long!",
+        "tw": "但有一晚，有人在學校。現場非常吵鬧！學校著火了！喔不！消防員趕往學校。他們撲滅了火災，然後發現了……一條蛇？就在課桌底下。這條蛇將近兩公尺半長！",
+        "time": null
+      },
+      {
+        "en": "This snake was a pet! It did not live under the desk. It lived in a tank in a classroom. But that night, it opened the tank for the first time! The firefighters say it broke a lamp then. That started the fire. And then the snake left the classroom.",
+        "tw": "這條蛇是一隻寵物！牠平時不住在課桌下。牠住在教室的水族缸裡。但那晚，牠第一次打開了水族缸！消防員說牠弄壞了一盞燈，進而引起火災。接著這條蛇離開了教室。",
+        "time": null
+      },
+      {
+        "en": "The firefighters think the snake started the fire! But wait! A teacher owns the snake. She does not think it started the fire. She says it opened the tank after the fire started. The classroom was very hot!",
+        "tw": "消防員認為是蛇引起了火災！但等等！一位老師擁有這條蛇。她不認為是蛇引起火災的。她說蛇是在火災發生後才打開水族缸的。當時教室非常熱！",
+        "time": null
+      },
+      {
+        "en": "Why was the snake living in the classroom? Well, the teacher teaches kids about living things. A tortoise was living in the classroom too.",
+        "tw": "為什麼蛇會住在教室裡呢？因為老師教導孩子們關於生物的知識。一隻烏龜也住在教室裡。",
+        "time": null
+      },
+      {
+        "en": "The teacher lost the tortoise and some books in the fire. But the school is safe now. It was cleaned after the fire. But the snake does not live there now. It lives at the teacher's home.",
+        "tw": "老師在火災中失去了一隻烏龜和一些書，但現在學校安全了。火災後學校進行了清理。但蛇現在不住在那裡，牠住在老師的家。",
+        "time": null
+      },
+      {
+        "en": "No one knows how the fire started. Maybe it was the snake. Maybe it was not. But everyone says the snake was not trying to start the fire!",
+        "tw": "沒有人知道火災是如何開始的。也許是那條蛇，也許不是。但大家都說那條蛇並非故意要放火！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "一條蛇跑出了籠子，引起不小的誤會。",
+      "content": [
+        {
+          "text": "1. classroom 教室。\nMy son brought home a classroom pet yesterday. 我兒子昨天把一隻教室寵物帶回家。\nA stick insect.一隻竹節蟲。\nThat sounds interesting! 聽起來真有趣!",
+          "time": null
+        },
+        {
+          "text": "2. first time 第一次。\nYeah, and it’s his first time taking care of a living thing. 沒錯，這是他第一次照顧活的生物。\nSo is the bug staying with you? 所以竹節蟲待在你家?\nJust for one week. 只待一個星期。",
+          "time": null
+        },
+        {
+          "text": "3. school 學校。\nHe’ll take it back to school afterwards. 之後他就要把蟲蟲送回學校。\nThat’s not a long time.時間不算長。",
+          "time": null
+        },
+        {
+          "text": "4. learn 學習。\nNo. But I think he can still learn a lot.不長，不過我想他還是會學到不少。\nI'm just hoping we can find it when it's time to go! 我只希望到了該走的時候找得到那隻蟲。",
+          "time": null
+        }
+      ],
+      "postscript": "你有養過寵物嗎? 來讀單字。\nclassroom教室 first time第一次 school學校 learn學習"
+    },
+    "quiz": [
+      {
+        "question": "1. Where was the fire?",
+        "options": [
+          "a. A junior high school",
+          "b. A high school",
+          "c. A fire station"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. Who thinks the snake started the fire?",
+        "options": [
+          "a. The teacher",
+          "b. The tortoise",
+          "c. The firefighters"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Where does the snake live now?",
+        "options": [
+          "a. At the school",
+          "b. At the teacher's home",
+          "c. At a firefighter's home"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
