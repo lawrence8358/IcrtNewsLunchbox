@@ -596,5 +596,96 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20261012-01",
+    "type": "國小",
+    "tag": [
+      "Robots",
+      "Pizza"
+    ],
+    "title": "Pizza Shop Robots",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261009NK.mp3",
+    "content": [
+      {
+        "en": "Robots are everywhere. They build cars. They clean floors. They help doctors. And they can work all day and night! Some pizza shop owners want robots. They do not want them to sell pizza. They do not want them to deliver it. They want robots to make it!",
+        "tw": "機器人會做很多事，並且不會累。有些披薩店老闆也想雇用機器人來做披薩。",
+        "time": null
+      },
+      {
+        "en": "Making good pizzas is easy for pizza shop workers. But it is very hard for many robots. Sometimes they drop pizzas. Sometimes they put cheese in the wrong place. Many things can go wrong!",
+        "tw": "跟披薩店員工相比，做披薩對機器人來說困難許多。他們會把披薩弄掉地，放錯各種配料，什麼都有可能出錯！",
+        "time": null
+      },
+      {
+        "en": "Some robots can help make pizza. But other things can go wrong. A pizza shop owner bought two robots. They put tomato sauce and cheese on pizzas. They put pepperoni on them. And now the robots need to be fixed. But the robot company is closed! Nobody can fix them!",
+        "tw": "一家披薩店老闆買了兩個機器人來幫忙，需要維修的時候，卻發現機器人公司倒閉了！",
+        "time": null
+      },
+      {
+        "en": "This pizza shop owner is not giving up on robots. He is trying to make one! He says it will work like a 3D printer! Some robot companies are making pizza robots too. They want their robots to make pizza better than pizza shop workers or other robots.",
+        "tw": "但這位老闆不放棄，他想要自己設計披薩機器人。有些公司正在這麼做，希望他們創造的披薩機器人比真人還好用！",
+        "time": null
+      },
+      {
+        "en": "Will robots make good pizzas one day? Maybe they will. But for now, pizza shop workers make better pizzas than robots!",
+        "tw": "有一天機器人會做出美味的披薩嗎？或許吧。但就目前而言，披薩店員工做的披薩比機器人做的更好！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "到目前為止，披薩機器人比不上店員親自做披薩。",
+      "content": [
+        {
+          "text": "1) shop 商店。\nI’m starving! Let’s order pizza.我餓死了，來點披薩吧。\nThat’s always a good idea! 那永遠是個好主意! There’s a new pizza shop down the street. 這條街過去新開了一家披薩店。",
+          "time": null
+        },
+        {
+          "text": "2) tomato 番茄。\nYeah, I saw it. 我有看到。Have you tried it? 你吃過了嗎?\nI have. They make their own tomato sauce, 吃過，他們自製番茄醬，and they use a stone oven. 並且用石頭烤箱。",
+          "time": null
+        },
+        {
+          "text": "3) deliver 送貨。\nSounds like my kind of place! 聽起來就是我喜歡的店! Do they deliver? 他們有外送嗎?\nI believe so.我相信有。",
+          "time": null
+        },
+        {
+          "text": "4) put 放。\nThen what are we waiting for? 那我們還在等什麼?\nWhat do you want them to put on the pizza? 你要他們在披薩上放什麼料? Stinky tofu…? Just kidding. 臭豆腐...? 開玩笑的。",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。 shop商店 tomato番茄 deliver送貨 put放"
+    },
+    "quiz": [
+      {
+        "question": "1. What do pizza shop owners want robots to do?",
+        "options": [
+          "a. Sell pizza",
+          "b. Deliver pizza",
+          "c. Make pizza"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Why can nobody fix the two robots?",
+        "options": [
+          "a. The robots are old.",
+          "b. The robot company is closed.",
+          "c. The pizza shop owner has given up."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What is the pizza shop owner doing now?",
+        "options": [
+          "a. Buying robots",
+          "b. Fixing robots",
+          "c. Making a robot"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
