@@ -687,5 +687,103 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20261013-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Lost Dog Goes to the Police",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261012NK.mp3",
+    "content": [
+      {
+        "en": "A woman in Kaohsiung has a small dog. The woman and her family often told him not to go outside. They worried that he would get lost. So the dog stayed inside.",
+        "tw": "高雄有位女子養了一隻小狗。因為怕小狗走丟，平時都讓牠待在家裡。",
+        "time": null
+      },
+      {
+        "en": "But one day, the dog saw an open door. He ran outside! And very soon, he was lost! Where was his home? He walked and walked. He got more and more lost. But he knew where to go for help!",
+        "tw": "有一天，小狗趁主人不在家，從開著的門溜了出去，結果很快就迷路了。但是牠知道要去哪裡找人幫忙。",
+        "time": null
+      },
+      {
+        "en": "The dog went to a police station! He slowly looked inside. The police officers looked down. They saw a small dog. The dog looked lost. The police officers let the dog stay at the police station. He was safe there. The police and the dog waited. Maybe someone would come and get him.",
+        "tw": "小狗去了警察局，警察就讓牠在那裏待著，或許主人會來接牠。",
+        "time": null
+      },
+      {
+        "en": "Back at home, the woman could not find her dog. She looked everywhere! He was missing! She was very worried.",
+        "tw": "女子回到家之後，發現小狗不見了，她擔心地四處尋找。",
+        "time": null
+      },
+      {
+        "en": "Then she thought of a place to look. It was the police station! She ran there. And... she saw her dog! He was sitting and waiting for her!",
+        "tw": "她想到可以去警察局試試看，發現小狗就坐在裡面！",
+        "time": null
+      },
+      {
+        "en": "The woman hugged her dog. She was very happy. She cried happy tears. Her dog was happy too! The woman was also surprised. How did her dog know to go to the police station?",
+        "tw": "她用力擁抱小狗，喜極而泣，同時也覺得非常驚訝，小狗怎麼會知道要來警察局呢？",
+        "time": null
+      },
+      {
+        "en": "In 30 minutes, this dog got lost and then found his way back to the woman!",
+        "tw": "在 30 分鐘內，這隻小狗迷路了，隨後又回到了女主人身邊！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "聰明小狗找警察幫忙，真是找對了人!",
+      "content": [
+        {
+          "text": "1. lost 迷途的。\nJane, are we lost? 我們迷路了嗎?\nNo way, I know exactly where we are! 沒有，我完全知道我們在哪兒。",
+          "time": null
+        },
+        {
+          "text": "2. police station 警察局。\nReally? Where are we? 真的嗎，在哪兒?\nSomewhere with many trees.在有很多樹的地方。\nThat’s very helpful. 還真有用。\nDon’t worry. I saw a police station on our way up the mountain.別擔心，我們爬上山時我有看到警察局。",
+          "time": null
+        },
+        {
+          "text": "3. help 協助。\nSo you want to go back down to get help? 所以你要下去求助?\nYeah, and you just stay here and wait for me, okay? 對，你就留在這裡等我好嗎?",
+          "time": null
+        },
+        {
+          "text": "4. missing 失蹤。\nOkay, I don’t want to go missing in these mountains. 好，我可不想在這個山區失蹤。",
+          "time": null
+        }
+      ],
+      "postscript": "你有沒有迷路過? lost迷途的 police station警察局 help協助 missing失蹤的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where do the woman and the dog live?",
+        "options": [
+          "a. Taipei",
+          "b. Taichung",
+          "c. Kaohsiung"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did the dog do when he went to the police station?",
+        "options": [
+          "a. He jumped happily.",
+          "b. He looked inside.",
+          "c. He barked loudly."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. How long did it take the dog to find his way to the woman?",
+        "options": [
+          "a. 30 minutes",
+          "b. 30 hours",
+          "c. 30 days"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
