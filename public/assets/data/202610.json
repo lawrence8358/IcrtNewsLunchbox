@@ -785,5 +785,109 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20261014-01",
+    "type": "國小",
+    "tag": [
+      "Indigenous people",
+      "Taiwan",
+      "Tao people",
+      "Lanyu",
+      "Philippines"
+    ],
+    "title": "The First Boat Trip In 300 Years",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261013NK.mp3",
+    "content": [
+      {
+        "en": "Indigenous people have lived in Taiwan for thousands of years. But not all of them stayed here! About four thousand years ago, some Tao people built boats. These boats were for long trips.",
+        "tw": "原住民在台灣生活了幾千年，但並不是一直定居在這裡。大約四千年前，達悟族人建造了可以航向遠方的船。",
+        "time": null
+      },
+      {
+        "en": "Some Tao people started new lives on other islands. They brought yams, taro, and animals like pigs to eat. Some brought things to trade.",
+        "tw": "他們帶著食物，以及可以交易的物品，到別的海島上生活。",
+        "time": null
+      },
+      {
+        "en": "The Tao people often went to an island in the Philippines. They looked at the stars to find the way there. The trip is about one hundred eighty kilometers!",
+        "tw": "他們通常前往菲律賓的小島，茫茫大海中只能依靠星星辨認方向。",
+        "time": null
+      },
+      {
+        "en": "The Tao people and this island's people were friends for a long time. But three hundred years ago, they became unfriendly! There were no more trips to the island!",
+        "tw": "達悟族人和小島居民往來了很長一段時間，但是後來中斷了。",
+        "time": null
+      },
+      {
+        "en": "But now the people are friends again. So three years ago, the Tao people planned a boat trip to the island. More than two hundred Tao people built a new boat. Its name means \"golden friendship.\" It is 12 meters long. It does not have nails! That is how Tao boats were made long ago.",
+        "tw": "現在兩邊重建友誼，兩百多位達悟族人一起用古老的方法，建造了一艘黃金友誼號，沒有用任何鐵釘！",
+        "time": null
+      },
+      {
+        "en": "Then the boat was ready. Twenty people rowed it. They took turns with forty people on other boats. The waves were strong! Some were four meters tall!",
+        "tw": "20名族人划著這條船，跟另外一艘船上的40位族人輪流換手。經過24小時的努力，他們終於跟小島居民見面了！",
+        "time": null
+      },
+      {
+        "en": "But 24 hours later, the people on the island said hello to the Tao people. They called the Tao their \"family from Lanyu\"!",
+        "tw": "但24小時後，島上的居民跟達悟族人打招呼。他們稱呼達悟族人為「來自蘭嶼的家人」！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "蘭嶼的達悟族人，跟菲律賓很有淵源。",
+      "content": [
+        {
+          "text": "1. star 恆星。\nI haven't camped out since high school. 我高中之後就沒有露營過了。\nYeah? You’ll love it. 是嗎? 你會喜歡的。\nWe can look at the stars and tell ghost stories…我們可以看星星，講鬼故事...",
+          "time": null
+        },
+        {
+          "text": "2. take turns 輪流。\nGhost stories? Maybe I’ll sleep in the car.鬼故事? 也許我會去睡在車上。\nOr we can take turns keeping the fire going. 我們也可以輪流讓火不要熄滅。",
+          "time": null
+        },
+        {
+          "text": "3. animal 動物。\nWhy do we need a fire?! 為什麼需要火?\nTo keep the wild animals away. 讓野生動物不要靠近。\nAnimals?! 動物?!",
+          "time": null
+        },
+        {
+          "text": "4. stay 留下。\nThat’s it. I’m not staying here.夠了，我不要待在這裡了。\nWhere are you going? 你要去哪裡?\nHome. You can send me pictures.回家。你可以寄照片給我。",
+          "time": null
+        }
+      ],
+      "postscript": "這些字常常用到。star恆星 take turns輪流 animal動物 stay留下"
+    },
+    "quiz": [
+      {
+        "question": "1. When did Taiwan's Indigenous people build boats for long trips?",
+        "options": [
+          "a. Two hundred years ago",
+          "b. Four thousand years ago",
+          "c. Six thousand years ago"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Who made the new boat?",
+        "options": [
+          "a. The Bunun",
+          "b. The Amis",
+          "c. The Tao"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What does the new boat's name mean?",
+        "options": [
+          "a. Silver sharing",
+          "b. Golden friendship",
+          "c. Friends from Taiwan"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
