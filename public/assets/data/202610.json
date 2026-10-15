@@ -889,5 +889,116 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20261016-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Health and Physical Education"
+    ],
+    "title": "Soccer School Kids Save a Team",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261015NK.mp3",
+    "content": [
+      {
+        "en": "Barcelona is one of the most famous soccer teams in the world. It is in Spain. Some of the world’s best soccer players have played on this team.",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "Barcelona has a soccer school. It looks for young soccer players around the world. It asks these kids to come to the school. This school is free!",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "Some kids go to this school from six years old! All of the kids there learn the best ways to play soccer. After playing for years, they are very, very good at soccer! Many want to play for Barcelona.",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "But for a long time, Barcelona had no room for these kids. It had famous players! They were older. They were not from the soccer school. And they cost a lot of money.",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "Then Barcelona spent too much money. Now it does not have money for famous players. It needs very good soccer players who are not famous.",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "Wait! The soccer school has very good players! These kids are not famous. They do not cost a lot of money. But can they play soccer as well as famous players? Yes, they can!",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "This year, the team has many players from the soccer school. They are all young. Some are teenagers! And they are exciting to watch!",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "Barcelona has played nine matches since August. And the team has won all nine matches! Wow! This is the first time the team has done this!",
+        "tw": "",
+        "time": null
+      },
+      {
+        "en": "These young players are making sure Barcelona is still one of the best soccer teams in the world! The soccer school kids saved the team!",
+        "tw": "這些年輕球員確保了巴塞隆納仍是世界上最好的足球隊之一！足球學校的孩子們拯救了球隊！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "巴塞隆納擁有舉世聞名的足球隊，也努力培養小足球員。",
+      "content": [
+        {
+          "text": "1. around the world 全世界。\nGuess what’s the most popular sport around the world. 猜猜看全世界最受歡迎的運動項目是哪個?\nHmmm, running? 是跑步嗎?\nNope. 不對。\nThen…Baseball? 那麼是棒球?\nWrong again. It’s soccer! 又錯啦，是足球!",
+          "time": null
+        },
+        {
+          "text": "2. young 年輕的。\nOh, I should have known that! 我應該猜到的! I played soccer when I was young, you know. 我小時候會踢足球。",
+          "time": null
+        },
+        {
+          "text": "3. older 比較年長的。\nWell, now that you’re older, you should be a better player! 你現在大多了，應該踢得更好了。\nI doubt that very much.我很懷疑。",
+          "time": null
+        },
+        {
+          "text": "4. famous 著名的。\nNow I just watch soccer on TV. 我現在在電視上看足球。Those famous players are so handsome! 那些有名的足球員好帥!",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡哪一種運動? around the world全世界 young年輕的 older比較年長的 famous著名的"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is Barcelona's team?",
+        "options": [
+          "a. Italy",
+          "b. Spain",
+          "c. France"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why did the team need players who were not famous?",
+        "options": [
+          "a. It did not have money for famous players.",
+          "b. It did not have a school.",
+          "c. It did not have good players."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. Why is the team so good now?",
+        "options": [
+          "a. It has lots of players.",
+          "b. It is famous.",
+          "c. It has a school."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
