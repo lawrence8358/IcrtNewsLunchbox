@@ -1000,5 +1000,93 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20261019-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Good Things from Bad Tomatoes",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261016NK.mp3",
+    "content": [
+      {
+        "en": "In Uganda, a young girl helped in her family’s shop. She picked out tomatoes that were no good anymore. No one could eat them. She had to throw them away. Every morning, the girl did this. Lots of tomatoes went bad. It made her sad.",
+        "tw": "烏干達一個年輕女孩在自家的店裡幫忙，她每天都要丟掉好多爛番茄。",
+        "time": null
+      },
+      {
+        "en": "The girl became a woman. She went to university. She studied how to fix big problems. She kept thinking about the tomatoes. The woman had an idea. Cold air helps keep food fresh! She made a cold room. To stay cold, it uses solar power. That is energy from the sun!",
+        "tw": "女孩上大學後想到辦法，她決定蓋冷藏室來保存番茄。冷藏室的電力用太陽能。",
+        "time": null
+      },
+      {
+        "en": "She tried the cold room at her family's home. Before, tomatoes were good for a few days. Now, they are good for up to 21 days! The woman makes cold rooms for small farms now. They throw away less food. They have more food to sell!",
+        "tw": "她先在自己家裡測試冷藏室，後來也替別的小農場建造這個設備，不光是保存番茄，也有別的食物，大為減少浪費。",
+        "time": null
+      },
+      {
+        "en": "The woman is fixing more problems on small farms too. She uses solar power and AI. Solar power helps farms share water. AI tells them when to use it and how much to use. Farmers can grow more food!",
+        "tw": "另外，她也用人工智慧來幫助農場解決灌溉的問題，讓農夫收穫更多食物！",
+        "time": null
+      },
+      {
+        "en": "This woman made good things from bad tomatoes!",
+        "tw": "這位女性從爛番茄中創造了美好的事物！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這名女孩動腦筋解決番茄容易壞的問題。",
+      "content": [
+        {
+          "text": "1. problem 問題。\nI'm trying to grow tomatoes, 我正在試著種番茄，but I've got some problems. 但是遇到一些問題。\nOh no, what’s wrong? 糟糕，怎麼啦?\nThere are very few tomatoes on the plants. 番茄樹上果子非常少。",
+          "time": null
+        },
+        {
+          "text": "2. fix 處理。\nIt must be the weather. It’s just too hot. 一定是天氣的關係，太熱了。\nSo how can I fix it? 所以我該怎麼處理?\nTry giving them some shade during the day. 你可以試試看白天時給它遮蔭。",
+          "time": null
+        },
+        {
+          "text": "3. not anymore 不再。\nGood idea! 好主意! I thought I knew a lot about tomatoes. 我以為我很懂番茄。Not anymore.我不那麼想了。",
+          "time": null
+        },
+        {
+          "text": "4. grow 種植。\nWell, I’m happy to help.我很樂意幫忙。\nNext I’m planning to grow green beans. 我還想種四季豆。",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我讀單字。problem問題 fix處理 not anymore不再 grow種植"
+    },
+    "quiz": [
+      {
+        "question": "1. Why did the girl throw away tomatoes?",
+        "options": [
+          "a. They were no good anymore.",
+          "b. They were expensive.",
+          "c. They were not cold anymore."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What did the woman study?",
+        "options": [
+          "a. Farming tomatoes",
+          "b. Cooking with solar power",
+          "c. Fixing problems"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How does the cold room stay cold?",
+        "options": [
+          "a. Wind power",
+          "b. Solar power",
+          "c. Gas"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
