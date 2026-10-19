@@ -1088,5 +1088,92 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20261020-01",
+    "type": "國小",
+    "tag": [
+      "Japan",
+      "Castle",
+      "History"
+    ],
+    "title": "Pulling a Castle",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261019NK.mp3",
+    "content": [
+      {
+        "en": "Long ago, some important people lived in a big castle. It is in Japan. It is made of wood and stone. It is VERY heavy.",
+        "tw": "在很久以前的日本，一座用木材和石材建造的城堡不只很重，還住了很多重要人物。",
+        "time": null
+      },
+      {
+        "en": "Some stones under the castle were broken. So the castle was moved eleven years ago. Workers fixed the stones. It took a looooong time. This summer, it was time to move the castle back. But how do you move something so big and heavy?",
+        "tw": "因為城堡底部受損，所以在十一年前被移到其他的地方修復。過了很久，工匠終於修復完成，但要怎麼將城堡移回原處呢？",
+        "time": null
+      },
+      {
+        "en": "People used a very old way. They used long ropes. Eighty people held the ropes. And everyone pulled at the same time! They shouted together! They pulled together! They were one big team. And little by little, the old castle moved!",
+        "tw": "人們決定採用古老的方法，八十個人同時拉動長長的繩索，城堡真的一點一點移動了。",
+        "time": null
+      },
+      {
+        "en": "Four thousand people took turns pulling. One was 82! Some people came from other countries to help pull. It was very hard. It was like pulling a mountain! It took FIVE DAYS to pull the castle five METERS. Machines will move it all the way back. But people are happy they got to pull the castle in this old, old way.",
+        "tw": "總共四千人輪流拉動城堡，也有其他國家的人參與。拉動城堡很困難，就像在拉整座山一樣，花了五天才前進五公尺，但人們依然覺得十分快樂。機器將會把它一路移回原位，但人們很高興能用這種古老的方式參與其中。",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "用古老的方式拖拉一座城堡，雖然辛苦但是也值得。",
+      "content": [
+        {
+          "text": "1. rope 繩索。\nYou're coming to tomorrow's tug-of-war contest, right? 你明天會來拔河比賽吧?\nTo watch you guys pull on a rope? 去看你們拉一條繩子嗎? Yeah, why not? 會吧，為什麼不?",
+          "time": null
+        },
+        {
+          "text": "2. important 重要的。\nAnd you'll yell \"Pull! Pull!\" for us, okay? 你會替我們大喊「用力拉」，對吧? Why is that so important?那有什麼重要? You'll pull hard anyway! 你們怎麼樣都會用力拉。",
+          "time": null
+        },
+        {
+          "text": "3. everyone 每個人。\nSure, but your cheering will help us win! 當然，但是你加油我們會贏。Everyone will be cheering for you! 每個人都會幫你們加油!",
+          "time": null
+        },
+        {
+          "text": "4. other 另一個。\nBut half of them will be cheering for the other team! 但是一半的人會替另一隊加油。\nOkay, okay! I’ll cheer twice as loud! 好啦，我會叫得加倍大聲!",
+          "time": null
+        }
+      ],
+      "postscript": "來讀今天的單字。rope繩索 important重要的 everyone每個人 other另一個"
+    },
+    "quiz": [
+      {
+        "question": "1. Why was the castle moved 11 years ago?",
+        "options": [
+          "a. Some wood on it was burned.",
+          "b. Some stones under it were broken.",
+          "c. Stones and wood were falling off of it."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What did people use to pull the castle?",
+        "options": [
+          "a. Stones",
+          "b. Wood",
+          "c. Ropes"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. How far did people pull the castle in five days?",
+        "options": [
+          "a. Five meters",
+          "b. Fifty meters",
+          "c. Five kilometers"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
