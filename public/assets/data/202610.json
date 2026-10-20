@@ -1175,5 +1175,100 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20261021-01",
+    "type": "國小",
+    "tag": [
+      "Social Studies"
+    ],
+    "title": "A New Way to Pay Less",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261020NK.mp3",
+    "content": [
+      {
+        "en": "What can you do to pay less for something? You can look at the prices in two or three stores. You can wait for a big sale. And at one place, you can dance to pay less!",
+        "tw": "怎麼樣用比較少的錢買到東西？可以貨比三家、等待大減價，或是用跳舞來打折！",
+        "time": null
+      },
+      {
+        "en": "A gas station in the U.S. started a fun way to save money. Customers dance for fifteen seconds. Some shake their bodies! Some move left to right! Some wave their arms!",
+        "tw": "美國有一間加油站，顧客跳舞15秒就可以打折。有些人晃動身體，有些人擺動手臂。",
+        "time": null
+      },
+      {
+        "en": "Do they like a dance they see online? They can do it! Do they like dancing to Kpop music? They can do it! Do they like to dance ballet? They can do it! Any dance is okay. Then they can pay twenty percent less for almost everything!",
+        "tw": "無論是流行舞蹈或是芭蕾都行。只要跳舞，加油站幾乎所有商品都能打八折。",
+        "time": null
+      },
+      {
+        "en": "Dancing makes customers happy. The gas station workers post videos of dancing customers online. One video got millions of views!",
+        "tw": "顧客跳得很開心，加油站員工也把錄下來的影片發到網路上，有的甚至得到幾百萬次點閱！",
+        "time": null
+      },
+      {
+        "en": "Why is the gas station doing this? Well, gas prices are high. But many people need to buy gas. The gas station wants to help them. Dancing makes their wallets and hearts happier!",
+        "tw": "現在汽油很貴，但開車必須有汽油，所以加油站希望提供幫助，跳舞打折讓他們又省錢又快樂！",
+        "time": null
+      },
+      {
+        "en": "Would you dance to pay less for something? Yes? Well, show us!",
+        "tw": "你會為了少付點錢而跳舞嗎？會嗎？跳給我們看吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "跳舞十五秒，汽油錢就可以打八折，這是不是很吸引人?",
+      "content": [
+        {
+          "text": "1. shake 搖晃。\nI learned a new dance yesterday. 我昨天學了一支新舞。Want me to show you? 要我跳給你看嗎？\nSure. 當然。\nFirst, shake your body like this…and then kick.你先這樣搖晃身體，然後踢。",
+          "time": null
+        },
+        {
+          "text": "2. left 左邊，right 右邊。\nHey, that looks easy! 看起來很簡單。I just go from left to right and then back.我就這樣從左到右再回來。\nYeah, you’re almost there! 你幾乎做對了！",
+          "time": null
+        },
+        {
+          "text": "3. need 需要。\nThis is a fun way to exercise! 這種方式做運動很好玩！\nI know, right? And you don’t need to work hard.對，並且不用很辛苦。",
+          "time": null
+        },
+        {
+          "text": "4. arm 手臂。\nOkay, what’s the next move? 好，下一步怎麼跳?\nPut your arms up and wave! 舉起手臂來揮舞!",
+          "time": null
+        }
+      ],
+      "postscript": "你是愛跳舞的人嗎? 請來讀單字。shake搖晃 left左邊 right右邊 need需要 arm手臂"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the gas station?",
+        "options": [
+          "a. Taiwan",
+          "b. The U.S.",
+          "c. Japan"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How long do customers have to dance?",
+        "options": [
+          "a. Fifteen seconds",
+          "b. Fifteen minutes",
+          "c. Fifteen hours"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How much less do customers pay when they dance?",
+        "options": [
+          "a. Twenty cents",
+          "b. Twenty percent",
+          "c. Twenty dollars"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
