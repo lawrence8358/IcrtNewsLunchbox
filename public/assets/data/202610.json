@@ -1270,5 +1270,102 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20261022-01",
+    "type": "國小",
+    "tag": [
+      "Robots",
+      "Sidewalks",
+      "Technology"
+    ],
+    "title": "Robots Look for Broken Sidewalks",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261021NK.mp3",
+    "content": [
+      {
+        "en": "Taiwan has robots in some restaurants. But it does not have them on sidewalks. In five cities in the U.S., new robots are moving on sidewalks.",
+        "tw": "台灣有些餐廳會僱用機器人，而在美國五座城市，新式的機器人卻出現在人行道上。",
+        "time": null
+      },
+      {
+        "en": "These robots are about 90 centimeters tall. They move about as fast as a person walks. They are white. They wear a yellow safety vest so cars can see them. And they are cute! Kids love taking pictures with them.",
+        "tw": "這些機器人大約 90 公分高，走路的速度跟行人差不多。他們的身體白色，穿著黃色的安全背心，看起來非常可愛，小孩子超愛跟它們合照。",
+        "time": null
+      },
+      {
+        "en": "But these robots have a big job. They look at sidewalks very carefully. They look for cracks and bumps. They look at how flat and wide the sidewalks are.",
+        "tw": "這些機器人任務重大，不但要仔細檢查人行道上有沒有裂縫或是凸起，也要看看它的寬度和平坦的程度。",
+        "time": null
+      },
+      {
+        "en": "In one day, one robot can look at almost 10 kilometers of sidewalks! The robots send all they find to city workers. Then the workers fix the broken sidewalks.",
+        "tw": "每個機器人一天可以檢查將近10公里的人行道！如果發現損壞，機器人會傳送通知給維修人員。",
+        "time": null
+      },
+      {
+        "en": "Fixing these sidewalks is important. Sidewalks help keep people safe from cars. Broken sidewalks can hurt people. They can make people fall. They can also make people walk on streets. That is not safe at all!",
+        "tw": "人行道維護非常重要，因為受損的人行道可能會絆倒行人，或者讓行人被迫走到馬路上，非常危險。",
+        "time": null
+      },
+      {
+        "en": "There are many sidewalks that need to be fixed here. Ouch! We need these robots!",
+        "tw": "這裡有很多需要修理的人行道。哎呦！我們需要這些機器人！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "美國大城市人行道上的機器人，主要功能是檢查路面是否平整好走。",
+      "content": [
+        {
+          "text": "1. cute 可愛的。Look! A robot is delivering our food! 你看，機器人在送我們的餐點。Uh...I'm not sure I like that. 我不確定是不是喜歡。And it's wearing a cute apron! 它還穿著可愛的圍裙!",
+          "time": null
+        },
+        {
+          "text": "2. take a picture 照相。Here it comes! 來了! Want to take a picture with it? 想跟它合照一張嗎? Absolutely not! 絕對不要!",
+          "time": null
+        },
+        {
+          "text": "3. hurt 傷害。You don’t like robots, do you? 你不喜歡機器人對吧? No, I don’t. 是不喜歡。I often think they may hurt people.我常常覺得它們可能會傷害人類。",
+          "time": null
+        },
+        {
+          "text": "4. street 街道。What if you see one on the street? 要是你在街上看到機器人呢? I will run away as fast as I can. 我會儘快跑開。",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字還記得嗎？ cute可愛的 take a picture拍照 hurt傷害 street街道"
+    },
+    "quiz": [
+      {
+        "question": "1. How many cities are these robots in?",
+        "options": [
+          "a. 3",
+          "b. 4",
+          "c. 5"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Why do the robots wear yellow safety vests?",
+        "options": [
+          "a. So kids will take pictures of them",
+          "b. So cars can see them",
+          "c. So they can stay warm in winter"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Who fixes the broken sidewalks?",
+        "options": [
+          "a. Restaurant workers",
+          "b. City workers",
+          "c. The robots"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
