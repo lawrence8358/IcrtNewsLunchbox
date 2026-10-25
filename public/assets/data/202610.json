@@ -1367,5 +1367,111 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20261026-01",
+    "type": "國小",
+    "tag": [
+      "Good Health and Well-Being",
+      "Safety Education"
+    ],
+    "title": "The Mold Shop",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261023NK.mp3",
+    "content": [
+      {
+        "en": "In September, it rained... and rained... and rained. It was very wet in Kaohsiung!",
+        "tw": "九月的高雄下雨下個不停，整個城市都變得非常潮濕！",
+        "time": null
+      },
+      {
+        "en": "When it rains so much, the air in homes can get wet. That makes things in homes wet. When things stay wet, mold can grow.",
+        "tw": "一旦房屋裡的空氣和物品充滿濕氣，就可能造成發霉。",
+        "time": null
+      },
+      {
+        "en": "Mold looks fuzzy. It can be white or green or black. It does not smell good!",
+        "tw": "黴菌毛絨絨的，顏色有綠有白 or 黑色，而且有霉味！",
+        "time": null
+      },
+      {
+        "en": "In Kaohsiung, people had moldy shoes. They had moldy bags and jackets! Many people went to a shop. This shop knows how to clean mold. The people brought lots of moldy shoes, bags, and jackets.",
+        "tw": "在高雄，很多人帶著發霉的鞋子、包包和夾克到一家商店，希望店家能幫忙清除黴菌。",
+        "time": null
+      },
+      {
+        "en": "Workers at the shop were very, very busy. They needed to clean everything fast. Mold grows and grows! It gets worse fast.",
+        "tw": "店裡的員工超級忙碌，因為黴菌不停地長，他們需要盡快把黴菌清掉。",
+        "time": null
+      },
+      {
+        "en": "Mold is not good for health. The workers wore masks and gloves to clean things safely. They washed the moldy things by hand. They made sure all the mold was gone!",
+        "tw": "黴菌對身體有害，所以員工都會戴著口罩和手套工作，並且確保黴菌完全清掉。",
+        "time": null
+      },
+      {
+        "en": "So how can you keep mold away? Do not leave wet shoes or bags in a closed box. Fresh air helps keep mold away.",
+        "tw": "讓濕掉的鞋子和包包接觸新鮮空氣，就能減少發霉。",
+        "time": null
+      },
+      {
+        "en": "The next time it rains a lot, try to keep your things dry! Or you might find mold on your things too...",
+        "tw": "下次下大雨時，試著保持物品乾燥！否則你可能也會發現你的東西發霉了...",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "發霉的衣物，可以交給專業的店家清除。",
+      "content": [
+        {
+          "text": "1. jacket 夾克。\nYuck! There’s mold on my jacket! 我的夾克上面長黴了!\nEww, that’s gross! 有夠噁心! You need to take it out and air it. 你得把它拿到外面讓它透氣。",
+          "time": null
+        },
+        {
+          "text": "2. wet 潮濕的。\nWhy is there mold? 為什麼會發霉?\nIt’s this wet weather. 都是這個濕答答的天氣。You’d better check your shoes.你最好檢查一下鞋子。",
+          "time": null
+        },
+        {
+          "text": "3. rain 下雨。\nOh no! Mold is on my favorite shoes, too! 糟了，我最喜歡的鞋子也有黴!\nDid you wear them in the rain? 你下雨時穿著它嗎?\nYeah, but that was weeks ago! 對，可是那好幾個星期之前了!",
+          "time": null
+        },
+        {
+          "text": "4. dry 乾的。\nWell, if you didn’t keep them dry, 要是沒有保持乾燥，mold could start to grow. 就可能開始發霉。",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字你記住了嗎? jacket夾克 wet潮濕的 rain下雨 dry乾的"
+    },
+    "quiz": [
+      {
+        "question": "1. Why did workers need to clean things fast?",
+        "options": [
+          "a. There were too many customers.",
+          "b. They wanted to go home early.",
+          "c. Mold grows and grows."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did the shop workers wear to clean?",
+        "options": [
+          "a. Jackets",
+          "b. Mold",
+          "c. Gloves"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What should you do to keep mold away?",
+        "options": [
+          "a. Keep things dry.",
+          "b. Keep things in a closed box.",
+          "c. Buy clean things."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
