@@ -1473,5 +1473,107 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20261027-01",
+    "type": "國小",
+    "tag": [
+      "新加坡",
+      "閱讀",
+      "習慣"
+    ],
+    "title": "Money for Reading Books",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261026NK.mp3",
+    "content": [
+      {
+        "en": "People spend A LOT of time scrolling on their phones. They scroll up... and down. They look at pictures. They scroll left... and right. They watch short videos. Scrolling can be fun. But too much scrolling can also make people feel sad.",
+        "tw": "人們花很多時間滑手機，看照片或是短影音，但是太投入也可能影響心情。",
+        "time": null
+      },
+      {
+        "en": "Singapore wants its people to spend less time scrolling. It wants them to read more books. So now it has a fun new plan!",
+        "tw": "新加坡希望人民少滑手機、多看書，於是推出了一個有趣的計畫。",
+        "time": null
+      },
+      {
+        "en": "People read a book for fifteen minutes. Then they get points. They can get points once a day. When they have many points, they can get a little money!",
+        "tw": "只要閱讀 15 分鐘，就能獲得點數，每天可以領一次。累積很多點數後，就能換錢。",
+        "time": null
+      },
+      {
+        "en": "Reading for fifteen minutes is easy. People can read on the bus. They can read before bed! Poof! Fifteen minutes goes by fast!",
+        "tw": "閱讀15 分鐘很容易，在公車上或是睡前都可以做，15 分鐘一下子就到了。",
+        "time": null
+      },
+      {
+        "en": "Reading a little every day can make it a habit. A habit is something people do again and again. They do it almost without thinking. Reading books is a good habit!",
+        "tw": "每天少量閱讀會養成習慣，而看書是個好習慣！",
+        "time": null
+      },
+      {
+        "en": "Maybe more people in Singapore will read books now. Maybe they will spend less time scrolling. And maybe some people will feel happier!",
+        "tw": "或許會有更多新加坡人開始讀書，減少滑手機的時間。有些人也可能因此變得更快樂！",
+        "time": null
+      },
+      {
+        "en": "Do you want to try reading for fifteen minutes a day too? Go for it!",
+        "tw": "你也想嘗試每天讀書 15 分鐘嗎？放手去做吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "新加坡鼓勵大家多看書，可以換成錢呢!",
+      "content": [
+        {
+          "text": "1. plan 計畫。\nI’ve got a new plan! 我有一個新計畫! I’m going to get points for walking! 我要用走路來拿點數。\nOkay. But what are the points for? 好，但是點數有什麼用?\nFor prizes like smart watches! 可以拿獎品，比如說智慧手錶!",
+          "time": null
+        },
+        {
+          "text": "2. less 較少的。\nThat sounds nice! 聽起來真不錯!\nAnd, it’ll get me to spend less time watching TV! 而且會讓我少看一點電視。",
+          "time": null
+        },
+        {
+          "text": "3. point 點數。\nNow that sounds great! 聽起來更棒! So how many points do you need? 那你需要幾點?\nAt least one thousand.至少一千點。",
+          "time": null
+        },
+        {
+          "text": "4. minute 分鐘。\nHow much walking is that? 那要走多少路?\nJust 30 minutes a day for one month. 只要一天三十分鐘，走一個月。\nHmm…Can you get points for walking to the fridge? 走到冰箱可以得到點數嗎?",
+          "time": null
+        }
+      ],
+      "postscript": "你有參加過這一類的計畫嗎? plan計畫 less較少的 point點數 minute分鐘"
+    },
+    "quiz": [
+      {
+        "question": "1. What do many people do a lot on their phones?",
+        "options": [
+          "a. Talk",
+          "b. Scroll",
+          "c. Study"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What does Singapore want its people to do?",
+        "options": [
+          "a. Read more books",
+          "b. Earn more money",
+          "c. Ride more buses"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. How long do people read to get points?",
+        "options": [
+          "a. Five minutes",
+          "b. Ten minutes",
+          "c. Fifteen minutes"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
