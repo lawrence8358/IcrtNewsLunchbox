@@ -1575,5 +1575,102 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20261028-01",
+    "type": "國小",
+    "tag": [
+      "Kaohsiung",
+      "Park",
+      "Taiwan"
+    ],
+    "title": "Taiwan's Big New Park",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261027NK.mp3",
+    "content": [
+      {
+        "en": "There is a new big park in Taiwan! It's in a very big old building in Kaohsiung! Yes, it is indoors! And it is the size of two soccer fields. Wow!",
+        "tw": "高雄一棟老建築裡，一座室內遊樂園最近開幕了，占地有兩個足球場那麼大！",
+        "time": null
+      },
+      {
+        "en": "The park has many fun things to do! You can climb on all kinds of walls. You can climb high on a very big rope net! You can run and roll on big gray blocks. You can jump on a big white cloud. You can ride your bike on a track with big bumps and curves!",
+        "tw": "這裡好玩的東西可多了！你可以爬牆攀岩，在障礙方塊上跑，在雲朵彈跳床上跳，還可以在不平整的坡道騎腳踏車！",
+        "time": null
+      },
+      {
+        "en": "The park has train cars too. Why? A long time ago, trains were fixed in this building. People said it was a train hospital! You can learn all about it at the park.",
+        "tw": "園區裡有火車廂，因為很久以前，火車都在這裡維修，園區裡也有這段歷史的介紹。",
+        "time": null
+      },
+      {
+        "en": "The building is open to the outdoors. That makes the air in the park nice and fresh. And when Kaohsiung is hot, you can have fun cooling down here. The park sprays mist! Whoooo! You can also cool down in the water play area!",
+        "tw": "園區是半開放式，讓空氣保持清新。大熱天的時候可以來這裡乘涼，或到親水區玩耍。",
+        "time": null
+      },
+      {
+        "en": "The park is for people of all ages. And moms and dads with baby strollers and people in wheelchairs can move easily here. And this park is free!",
+        "tw": "園區不限年齡，也完全免費！推娃娃車的爸媽和坐輪椅的人都能到處移動。",
+        "time": null
+      },
+      {
+        "en": "So come and take a look... and play!",
+        "tw": "所以來這裡看看...一起玩吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "高雄最大的親子樂園，有許多種遊樂設施。",
+      "content": [
+        {
+          "text": "1. children 兒童。\nWhat should we do this weekend? 我們這周末做什麼好? I need to relax. 我需要放鬆。\nLet's go to the children’s amusement park! 我們去兒童樂園吧!",
+          "time": null
+        },
+        {
+          "text": "2. climb 攀爬。\nWhat? I’m not a kid any more. 什麼? 我已經不是小孩了。\nCome on, we can ride bikes and do rock climbing! 去啦，我們可以騎車或是攀岩! It'll be fun!\n會很好玩的!",
+          "time": null
+        },
+        {
+          "text": "3. ride 騎車。\nI can’t climb rocks.我不會攀岩。I’ll fall right off! 會摔下來! And riding a bike isn’t\nmy thing.我也不喜歡騎車。",
+          "time": null
+        },
+        {
+          "text": "4. play 玩耍。\nYou’re no fun! 你真無趣! Don't you ever play? 你都不玩耍嗎?\nI do! I play cards every night! 我會啊，我每天晚上都玩牌。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡兒童樂園嗎? children兒童 climb攀爬 ride騎車 play玩耍"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the new park?",
+        "options": [
+          "a. Taipei",
+          "b. Tainan",
+          "c. Kaohsiung"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What did people say the building was a long time ago?",
+        "options": [
+          "a. A train hospital",
+          "b. A train museum",
+          "c. A train station"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What does the park spray?",
+        "options": [
+          "a. Paint",
+          "b. Mist",
+          "c. Trains"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
