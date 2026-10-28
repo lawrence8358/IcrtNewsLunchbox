@@ -1672,5 +1672,98 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20261029-01",
+    "type": "國小",
+    "tag": [],
+    "title": "A Robot for the Ocean",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261028NK.mp3",
+    "content": [
+      {
+        "en": "We do not know a lot about the ocean and its plants and animals. To learn more, scientists in the U.S. made a robot that can fly! It can also dive into water and swim. All of these are very hard for robots to do.",
+        "tw": "為了多多了解海洋和海洋生物，美國的科學家造了一個能飛行，潛水和游泳的機器人。",
+        "time": null
+      },
+      {
+        "en": "The scientists studied some birds first. These birds fly. But they can also dive deep into water and swim. The scientists studied how the birds move their wings in the air and in water.",
+        "tw": "為了造這個機器人，科學家先研究會飛也會潛水的鳥，看牠們的翅膀如何在空氣和水中運作。",
+        "time": null
+      },
+      {
+        "en": "Then the scientists made the robot. It weighs 250 grams. They tried many wing sizes. In the end, they made each wing 44 centimeters wide. The wings are made of strong, light cloth.",
+        "tw": "做出來的機器人只有250公克重，每個翅膀寬44公分，使用強韌但輕薄的布料。",
+        "time": null
+      },
+      {
+        "en": "The wings move fast in the air. In the water, they help the robot swim like a fish. Then they push the robot off the water and into the air!",
+        "tw": "翅膀在空中會快速拍動，在水裡則幫助機器人游泳，並推動機器人衝破水面，飛到空中。",
+        "time": null
+      },
+      {
+        "en": "The scientists tested the robot in a big tank of water and in a lake. It can fly! It can dive! It can swim!",
+        "tw": "科學家在水缸和湖中進行測試，成功讓機器人在空中飛、水裡游。這個機器人在了解海洋生物方面，也許真的可以幫上忙！",
+        "time": null
+      },
+      {
+        "en": "Maybe this robot can study ocean plants and animals one day. Then we can understand the ocean more!",
+        "tw": "也許有一天這個機器人可以研究海洋動植物。那我們就能對海洋有更多的了解！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家寄望有多種本領的機器人，能帶我們多認識海洋動植物。",
+      "content": [
+        {
+          "text": "1. dive 潛水。\nI'm thinking of taking diving lessons. 我在想去上潛水課。\nDiving? You can hardly swim! 潛水? 你連游泳都不大會耶!\nOf course I can! 我當然會!",
+          "time": null
+        },
+        {
+          "text": "2. swim 游泳。\nDidn’t you see me in the pool yesterday? 你昨天不是看到我在游泳池裡?\nYou were floating, not swimming. 你是在漂浮，不是游泳。",
+          "time": null
+        },
+        {
+          "text": "3. fly 飛行。\nDiving in the ocean would be much more exciting! 在海裡潛水會刺激得多!\nI have a better idea! 我有個更好的主意。How about learning to fly first? 你先學飛行如何?",
+          "time": null
+        },
+        {
+          "text": "4. in the air 在空中。\nYou mean like flying an airplane? 你是說開飛機嗎? Great idea! 真棒的主意!\nRight? You’ll be in the air instead of underwater! 是不是? 你會在空中而不是在水底!",
+          "time": null
+        }
+      ],
+      "postscript": "今天學會三個動詞。dive潛水 swim游泳 fly飛行 in the air在空中"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of animal did the scientists study?",
+        "options": [
+          "a. Frogs",
+          "b. Fish",
+          "c. Birds"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What can the robot do?",
+        "options": [
+          "a. Fly",
+          "b. Drive",
+          "c. Speak"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What pushes the robot off the water and into the air?",
+        "options": [
+          "a. Its legs",
+          "b. Its wings",
+          "c. Its arms"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
