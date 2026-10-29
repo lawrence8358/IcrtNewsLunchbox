@@ -1765,5 +1765,103 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20261030-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Formosan Flying Foxes Find New Home",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261029NK.mp3",
+    "content": [
+      {
+        "en": "Bats fly at night. Many hang upside down. There are many kinds of bats. Taiwan has more than thirty kinds! Its biggest one is about 20 centimeters long. This bat's open wings are up to one meter wide!",
+        "tw": "蝙蝠在晚上飛行。許多倒掛著。有很多種蝙蝠。台灣有三十多種！最大的一種長約20公分。這隻蝙蝠張開翅膀可達一公尺寬！",
+        "time": null
+      },
+      {
+        "en": "This is the Formosan flying fox. They are NOT foxes. They are bats! Their noses look like fox noses! They can smell fruit and flowers from far away. They have big eyes. They can see trees and some fruits and flowers… in the dark!",
+        "tw": "這是台灣狐蝠。牠們不是狐狸。牠們是蝙蝠！牠們的鼻子看起來像狐狸的鼻子！牠們可以從很遠的地方聞到水果和花朵的味道。牠們有大眼睛。牠們可以在黑暗中看到樹木、水果和花朵！",
+        "time": null
+      },
+      {
+        "en": "Formosan flying foxes lived on Green Island. They lived away from people. But people hunted too many. Then nobody saw any of these bats. Some people worried that there were no more!",
+        "tw": "台灣狐蝠曾經住在綠島。牠們遠離人群生活。但人們獵捕了太多。接著就沒人再見過這些蝙蝠了。有些人擔心牠們已經絕種了！",
+        "time": null
+      },
+      {
+        "en": "Then some Formosan flying foxes found a new home in Hualien! There are about one hundred fifty there. Why are they living in a city? Well, they are fruit bats. They live in trees and eat fruit. Hualien has many old fruit trees.",
+        "tw": "後來，一些台灣狐蝠在花蓮找到了新家！那裡大約有一百五十隻。為什麼牠們住在城市裡？嗯，牠們是果蝠。牠們住在樹上並吃水果。花蓮有很多老果樹。",
+        "time": null
+      },
+      {
+        "en": "But Formosan flying foxes are in danger. Every year there are fewer fruit trees in Hualien. The weather is getting warmer too. So these trees have less fruit for the bats.",
+        "tw": "但台灣狐蝠正處於危險之中。花蓮的果樹每年都在減少。天氣也變得越來越暖。所以這些樹給蝙蝠提供的水果也變少了。",
+        "time": null
+      },
+      {
+        "en": "Before, farmers thought Formosan flying foxes hurt their fruit. Now scientists know the bats spread pollen from flowers. This helps fruit grow! The bats also take seeds to different places.",
+        "tw": "以前，農民認為台灣狐蝠會損害他們的水果。現在科學家知道蝙蝠會傳播花粉。這有助於水果生長！蝙蝠還會將種子帶到不同的地方。",
+        "time": null
+      },
+      {
+        "en": "Formosan flying foxes are important for fruit…and us. Let's hope they can live safely in Hualien!",
+        "tw": "台灣狐蝠對水果和我們都很重要。讓我們希望牠們能在花蓮安全地生活！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台灣狐蝠的數量越來越少，因為牠們的棲息地遭到破壞。",
+      "content": [
+        {
+          "text": "1. at night 在晚上。\nI’m going to Green Island this weekend.我這周末要去綠島。\nTo see the butterflies? 去看蝴蝶嗎?\nYep, and we’ll be looking for bats at night, too.我們也要晚上去找蝙蝠。",
+          "time": null
+        },
+        {
+          "text": "2. fox 狐狸。\nBats are scary! 蝙蝠很可怕!\nNot these. 這些不會。They are called flying foxes, and they’re cute. 牠們叫做狐蝠，很可愛的。\nWhat a funny name! 好奇怪的名字!\nThat’s because their faces look like foxes.因為牠們的臉長得像狐狸。",
+          "time": null
+        },
+        {
+          "text": "3. danger 危險。\nWe’ll be very lucky to spot even one. 我們能看到一隻就很幸運了。They’re very much in danger. 牠們有絕種的危險。",
+          "time": null
+        },
+        {
+          "text": "4. island 島嶼。\nSo Green Island is the only place to see them? 綠島是唯一能看到牠們的地方嗎?\nYeah, pretty much.大致是那樣。",
+          "time": null
+        }
+      ],
+      "postscript": "來複習單字。at night在晚上 fox狐狸 danger危險 island島嶼"
+    },
+    "quiz": [
+      {
+        "question": "1. What are Formosan flying foxes?",
+        "options": [
+          "a. Birds",
+          "b. Foxes",
+          "c. Bats"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where is the new home of Formosan flying foxes?",
+        "options": [
+          "a. A small island",
+          "b. A city",
+          "c. The dark"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do Formosan flying foxes eat?",
+        "options": [
+          "a. Fruit",
+          "b. People",
+          "c. Bat wings"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
