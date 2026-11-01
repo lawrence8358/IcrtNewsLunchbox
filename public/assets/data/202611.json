@@ -1,0 +1,100 @@
+ [
+  {
+    "id": "20261102-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Pulling to Win",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261030NK.mp3",
+    "content": [
+      {
+        "en": "Have you played tug of war? Two teams hold a big rope. There is a line between the teams. Both teams pull and pull! The team that pulls the other team across the line wins!",
+        "tw": "拔河是有趣的比賽，兩支隊伍握著繩子兩端，用力向後拉，把對方拉過中線就獲勝。",
+        "time": null
+      },
+      {
+        "en": "Every year, there is a big tug-of-war contest. This year, it was in South Africa. Teams came from many countries. Many teams came from Taiwan.",
+        "tw": "今年的大型拔河比賽在南非舉辦。參賽隊伍來自世界各地，包括台灣。",
+        "time": null
+      },
+      {
+        "en": "Taiwan's senior women's team played against Germany's team. It was the big final match. The winner had to win two out of three pulls.",
+        "tw": "女子組的決賽由台灣對上德國，三戰兩勝的隊伍就是贏家。",
+        "time": null
+      },
+      {
+        "en": "At first, the ground was hard. Pulling was easy. But then the ground got soft. The teams tried not to fall! Pulling got much harder.",
+        "tw": "一開始，地面硬度夠很好施力，但之後土地變得鬆軟，增加了拔河的難度。",
+        "time": null
+      },
+      {
+        "en": "Taiwan's team almost lost the first pull. But the German team made three mistakes. That let Taiwan win the pull. The team was excited. It pulled harder for the second pull. It won the pull! And it won the match!",
+        "tw": "台灣隊差點輸掉第一局，但因為德國隊出現三次犯規，台灣隊還是贏了。士氣大振之下，台灣隊第二局更加賣力，最終贏得這場決賽。",
+        "time": null
+      },
+      {
+        "en": "Taiwan's senior women's team won a gold medal. It was the team's fifth gold medal in five years! Other teams from Taiwan won medals too. Taiwan and South Africa had the most medals!",
+        "tw": "台灣女子隊奪得金牌，也是這支隊伍的第五面金牌！其他台灣隊伍也有得牌，台灣和南非成為贏得最多獎牌的國家！",
+        "time": null
+      },
+      {
+        "en": "Keep pulling hard, Taiwan!",
+        "tw": "台灣加油，繼續努力拔河吧！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台灣的拔河代表隊，經常在國際大賽中勝出。",
+      "content": [
+        {
+          "text": "1. winner 贏家。\nDid you watch yesterday’s badminton match? 你有沒有看昨天的羽球賽?\nYes! What a match! 有，好精采!\nI thought the winner was going to lose! 我以為那個贏家會輸掉!",
+          "time": null
+        },
+        {
+          "text": "2. mistake 錯誤。\nMe too! 我也是。\nBut the American player made more mistakes.不過那個美國球員犯的錯更多。\nRight, mistakes are often key. 對，犯錯經常是關鍵。",
+          "time": null
+        },
+        {
+          "text": "3. hard 用力地。\nSometimes it’s better to play it safe, not play it hard. 有時候打安全球比用力打要好。\nHey, you’re becoming very smart! 你變得很聰明了!",
+          "time": null
+        },
+        {
+          "text": "4. many 很多的。\nI’ve learned something after losing many games. 我輸了很多比賽之後終於學到了一點。\nGood for you! 很好!",
+          "time": null
+        }
+      ],
+      "postscript": "來一起讀單字。\nwinner贏家 mistake錯誤 hard用力地 many很多的"
+    },
+    "quiz": [
+      {
+        "question": "1. What does a team need to pull the other team across to win?",
+        "options": [
+          "a. A line",
+          "b. A rope",
+          "c. A mistake"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What team did Taiwan's senior women's team play against in the final match?",
+        "options": [
+          "a. South Africa",
+          "b. Germany",
+          "c. Another Taiwanese team"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What happened to the ground during the first pull?",
+        "options": [
+          "a. It got wet.",
+          "b. It got hard.",
+          "c. It got soft."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
+  }
+]
