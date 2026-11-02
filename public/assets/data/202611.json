@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "20261102-01",
     "type": "國小",
@@ -94,6 +94,98 @@
         ],
         "time": null,
         "answer": "c"
+      }
+    ]
+  },
+  {
+    "id": "20261103-01",
+    "type": "國小",
+    "tag": [
+      "Drones",
+      "Hualien",
+      "Environment"
+    ],
+    "title": "Drones Help Mountains",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261102NK.mp3",
+    "content": [
+      {
+        "en": "Last year, big typhoons came to Hualien. The heavy rain caused landslides. Rocks and dirt fell down the mountains. The landslides took away many trees and other plants. This is bad for the mountains. Trees and plants help hold dirt. They keep the mountains strong.",
+        "tw": "去年，一場很大颱風在花蓮造成土石流，帶走很多樹木和植物。山坡上的樹木和植物對水土保持很重要，要怎麼辦呢?",
+        "time": null
+      },
+      {
+        "en": "Taiwan wanted to help the mountains. It wanted to plant new trees and plants. But the mountains are very high. Going there is very dangerous. So… nobody went. What? Drones, not people, went! Drones are small flying robots.",
+        "tw": "想重新修復山坡，但工人在高山上工作太危險了， 台灣於是出動了現代高科技產物 - 無人機幫忙。你覺得會成功嗎？",
+        "time": null
+      },
+      {
+        "en": "They can fly up the mountains. The drones carried tree and plant seeds. The seeds were wrapped with things to help them grow. They were also wrapped to keep them safe. Then away they went! The drones flew high up the mountains. Then they dropped the seeds! The drones did this many times. They planted a lot of seeds.",
+        "tw": "無人機帶著包好的樹木和植物的種子來回很多趟，飛往山坡上方，投下種子。",
+        "time": null
+      },
+      {
+        "en": "After a while, the drones went back to the mountains. Some small plants were growing!",
+        "tw": "期待有一天，大樹和植物長大，花蓮的山恢復強壯。",
+        "time": null
+      },
+      {
+        "en": "One day, they will grow into big trees and other plants. And the mountains in Hualien will be strong again!",
+        "tw": "總有一天，它們會長成大樹和其他植物。花蓮的山也會再次變得強壯！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "無人機在花蓮受山崩破壞的山坡上播種，幫助植物重新生長。",
+      "content": [
+        {
+          "text": "1. small 小的。\nI only need a small bag. 我只需要一個小袋子。\nReally? You have milk, eggs, apples… 你買了牛奶、蛋、蘋果…Oh, and a watermelon! 還有一顆西瓜！",
+          "time": null
+        },
+        {
+          "text": "2. carry 提。\nCan you carry this for me? 你可以幫我提這個嗎？\nThe watermelon? Okay. 西瓜嗎？好。\nThanks! I'll take the eggs. 謝啦！我來拿蛋。",
+          "time": null
+        },
+        {
+          "text": "3. strong 強壯的。\nWait. Why do I get the watermelon? 等等，為什麼是我拿西瓜？\nYou're strong! 你力氣大啊！\nIt's still heavy! 可是這顆還是很重耶！",
+          "time": null
+        },
+        {
+          "text": "4. again 再一次。\nNext time, let's bring your shopping cart. 下次我們帶你的買菜車吧。\nGood idea. I'm not carrying this again! 好主意，我不要再提西瓜了！",
+          "time": null
+        }
+      ],
+      "postscript": "來複習今天的單字。 small 小的、carry 提、搬、strong 強壯的、again 再一次。"
+    },
+    "quiz": [
+      {
+        "question": "1. How do trees and plants help mountains?",
+        "options": [
+          "a. They help hold dirt.",
+          "b. They grow tall.",
+          "c. They are pretty."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. What carried the seeds up to the mountains?",
+        "options": [
+          "a. Cars",
+          "b. The wind",
+          "c. Drones"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Why were the seeds wrapped?",
+        "options": [
+          "a. To help them grow",
+          "b. To help the drones",
+          "c. To help them drop"
+        ],
+        "time": null,
+        "answer": "a"
       }
     ]
   }
