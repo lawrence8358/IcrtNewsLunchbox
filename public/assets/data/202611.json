@@ -188,5 +188,92 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20261104-01",
+    "type": "國小",
+    "tag": [
+      "台北",
+      "助人",
+      "善行"
+    ],
+    "title": "Kind Kids in the Rain",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261103NK.mp3",
+    "content": [
+      {
+        "en": "What happens when it rains? Cars turn on their windshield wipers. Motorcycle riders put on raincoats. People open their umbrellas. Everyone tries to stay dry. But In Taipei, four junior high school kids got wet.",
+        "tw": "下雨天的時候，大家都不想淋雨，但在台北，卻有四名國中生在淋雨。發生了甚麼事呢？",
+        "time": null
+      },
+      {
+        "en": "Why? These kids saw an older man. He was pushing a big cart. Many cardboard boxes were on the cart. The rain made them very wet. Pushing the cart was getting hard for the man. The cardboard boxes were a lot heavier from the rain. Some of them fell off the cart.",
+        "tw": "這些學生們看到路上有一位老人，很辛苦地推著一輛上面堆滿濕漉漉的紙箱的推車。",
+        "time": null
+      },
+      {
+        "en": "The four kids ran to the man. They wanted to help! They thought the man could finish early with help. Then he could rest! Two kids held umbrellas. Two kids pushed the cart. That is good teamwork! The rain kept falling. One kid had to go. But the other three kept helping! They helped the man go to an elementary school.",
+        "tw": "老人家在雨中推著堆滿紙箱的推車，應該很辛苦吧。四位學生趕快跑過去幫忙，他們又是撐傘又是推車 ，終於推到國小。如果是你看到了需要幫忙的人，你也會這麼做嗎？",
+        "time": null
+      },
+      {
+        "en": "Helping is kind. Being kind can be easy. You can ask \"Can I help?\" Look around. Can you help someone in some way? You can be kind, too!",
+        "tw": "助人為快樂之本。行善可以很簡單。你可以問「需要幫忙嗎？」看看四周，你也能以某種方式伸出援手。你也可以是個善良的人！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "台北四名國中生冒雨幫老人家推車，想讓他早點回家休息。",
+      "content": [
+        {
+          "text": "1. rain 雨。\nListen to that rain! 聽聽那個雨聲！And we have to go out for lunch. 我們還得出去吃午餐。\nDo we? I have some cookies. 要嗎，我有餅乾耶。",
+          "time": null
+        },
+        {
+          "text": "2. umbrella 雨傘。\nCookies aren't lunch! 餅乾不能當午餐啦！\nI have an umbrella. We can share. 我有傘，可以一起撐。",
+          "time": null
+        },
+        {
+          "text": "3. wet 濕的。\nThat little umbrella? We'll get wet! 那把小傘？我們會淋到雨啦！\nOnly a little. 只會濕一點點。\nYou said that last time! 你上次也這樣說！",
+          "time": null
+        },
+        {
+          "text": "4. dry 乾的。\nFine. Let's stay dry and eat here. 好啦，我們在這裡吃飯，就不會淋濕了。So... cookies? 所以，要吃餅乾嗎？\nNo. Let's order lunch! 不要，我們叫外送！",
+          "time": null
+        }
+      ],
+      "postscript": "下雨天也可以學新單字! rain 雨、umbrella 雨傘、wet 濕的、dry 乾的。"
+    },
+    "quiz": [
+      {
+        "question": "1. How was the weather?",
+        "options": [
+          "a. Rainy",
+          "b. Windy",
+          "c. Sunny"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How many kids helped the man?",
+        "options": [
+          "a. One",
+          "b. Two",
+          "c. Four"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What did the man and the kids push?",
+        "options": [
+          "a. A cardboard box",
+          "b. A heavy truck",
+          "c. A big cart"
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
