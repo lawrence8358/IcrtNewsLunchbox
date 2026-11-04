@@ -275,5 +275,88 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20261105-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Dogs Can Understand Feelings on Our Faces",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261104NK.mp3",
+    "content": [
+      {
+        "en": "Dogs can do many things. They can play with us. They can make us happy. They can find things with their noses. And they can hear very well. Scientists found something else dogs can do. Dogs can understand the feelings we show on our faces!",
+        "tw": "你有養狗狗嗎？你的狗狗會陪你玩嗎？科學家居然發現，狗狗通人性，能讀懂我們的心情好壞！",
+        "time": null
+      },
+      {
+        "en": "The scientists put the dogs in a big machine. The machine can look at the dogs' brains. The scientists showed pictures to the dogs. People in some pictures looked happy. People in other pictures looked angry, sad, or scared. The machine looked at the dogs’ brains when they saw each face. When the dogs saw a happy face, one part of their brain started to work more. This part makes dogs feel good.",
+        "tw": "科學家給狗狗看各種表情的照片，你覺得狗狗有辦法分辨出人類的情緒嗎？",
+        "time": null
+      },
+      {
+        "en": "When the dogs saw an angry, sad, or scared face, their brains worked in a different way. That means the dogs can see different feelings on people's faces. Dogs can understand our feelings in other ways too. They can look at our body language. They can listen to our voices. They can smell us!",
+        "tw": "結果發現，看到不同表情，狗狗的腦袋會有不同的反應。其實，科學家已經證實狗狗有很多方法知道主人的心情，也許在未來我們會發現更多！",
+        "time": null
+      },
+      {
+        "en": "We have a lot more to learn about what dogs can do!",
+        "tw": "關於狗狗的能力，我們還有很多需要學習了解的地方！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "科學家發現，狗狗能分辨我們臉上的不同情緒！",
+      "content": [
+        {
+          "text": "1. happy 開心、高興\nYour dog looks happy to see me! 你的狗看到我好開心！\nYou brought his favorite toy. 你帶了牠最喜歡的玩具。",
+          "time": null
+        },
+        {
+          "text": "2. sad 難過\nHe was sad when you left yesterday. 你昨天離開時，牠很難過。\nI can stay longer today. 我今天可以待久一點。",
+          "time": null
+        },
+        {
+          "text": "3. scared 害怕的\nOh! Is he scared of that noise? 喔！牠怕那個聲音嗎？\nYes. Let’s close the window. 對，我們把窗戶關起來吧。",
+          "time": null
+        },
+        {
+          "text": "4. face 臉\nLook at his face. He wants to play! 看牠的臉，牠想玩了！\nOkay! Go get your toy! 好！去拿你的玩具吧！",
+          "time": null
+        }
+      ],
+      "postscript": "今天的單字是：happy 開心、高興 sad 難過 scared 害怕的 face 臉"
+    },
+    "quiz": [
+      {
+        "question": "1. What did the scientists study?",
+        "options": [
+          "a. People's faces",
+          "b. Dogs’ eyes",
+          "c. Dogs’ brains"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. Where did the scientists put the dogs?",
+        "options": [
+          "a. In a big machine",
+          "b. In a big box",
+          "c. In some pictures"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What happened when the dogs saw a happy face?",
+        "options": [
+          "a. A part of their brains stopped working.",
+          "b. All parts of their brains worked more.",
+          "c. A part of their brains worked more."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
