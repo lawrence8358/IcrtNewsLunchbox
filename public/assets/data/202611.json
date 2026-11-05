@@ -358,5 +358,113 @@
         "answer": "c"
       }
     ]
+  },
+  {
+    "id": "20261106-01",
+    "type": "國小",
+    "tag": [
+      "Taipei",
+      "Parade",
+      "Elephant",
+      "Puppet"
+    ],
+    "title": "A Taipei Story with Elephants",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261105NK.mp3",
+    "content": [
+      {
+        "en": "Taipei had big parades on two nights. People came from all over Taiwan and the world. Musicians played music. Dancers danced on the street.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Three big elephants walked on the street with them! The elephants' heads slowly went up and down. Their big ears slowly moved. A rider sat on each elephant!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "The elephants are not real. They are very big puppets! The parade had bird puppets too. People made these puppets move.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "Artists from France made this parade 18 years ago. The elephant puppets walked in 30 cities in 8 countries! Each time, the artists made the parade about the city.",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "The parade in Taipei was about Taipei and the Taipei Zoo! Forty years ago, the zoo moved. It moved the animals in a big parade! Twenty buses carried big elephants, tall giraffes, and more. Many people came to watch. Maybe someone you know watched too!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "And maybe some people watching the elephant puppets remembered Lin Wang. This elephant was in the zoo parade. Everyone loved him!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "People loved the elephant and bird puppets from France too. They loved the music and the dancing. The second night was the 100th time the parade was done! People sang a birthday song!",
+        "tw": null,
+        "time": null
+      },
+      {
+        "en": "The artists made a Taipei story with their elephant puppets. Taipei will remember these parades for a long, long time!",
+        "tw": "藝術家們用他們的大象木偶創造了一個台北故事。台北將會長久地記住這些遊行！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "你有看到機械大象走上台北街頭嗎?",
+      "content": [
+        {
+          "text": "1. night 晚上\nIt’s a nice night. Let’s go for a walk. 今晚天氣真好。我們去散步吧。\nSure. I want to buy some fruit, too. 好啊。我也想買點水果。",
+          "time": null
+        },
+        {
+          "text": "2. street 街道\nThere’s a fruit shop on this street. 這條街上有一家水果店。\nOh, look! 你看！Why are all those people here? 怎麼有那麼多人？",
+          "time": null
+        },
+        {
+          "text": "3. music 音樂\nThere’s a band! 有樂團耶！I love this music. 我喜歡這個音樂。\nMe too. 我也是。And people are dancing! 而且還有人在跳舞！",
+          "time": null
+        },
+        {
+          "text": "4. watch 看；觀看\nLet’s watch them for a few minutes. 我們看幾分鐘吧。\nOkay. We can buy fruit later. 好啊。我們可以晚點再買水果。",
+          "time": null
+        }
+      ],
+      "postscript": "我們再念一次：night 晚上 street 街道 music 音樂 watch 看；觀看。"
+    },
+    "quiz": [
+      {
+        "question": "1. What kind of puppets were in the parade?",
+        "options": [
+          "a. Musician and dancer puppets",
+          "b. Elephant and bird puppets",
+          "c. Tall giraffe puppets"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. How many cities did this parade go to?",
+        "options": [
+          "a. Eight",
+          "b. Eighteen",
+          "c. Thirty"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. What was the parade about?",
+        "options": [
+          "a. Taipei Zoo",
+          "b. France",
+          "c. Lin Wang"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
