@@ -466,5 +466,92 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20261109-01",
+    "type": "國小",
+    "tag": [
+      "Rwanda",
+      "Health",
+      "Food"
+    ],
+    "title": "Rwanda Helps Its Kids Grow",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261106NK.mp3",
+    "content": [
+      {
+        "en": "In one part of Rwanda, many kids need healthy food. But eggs and vegetables cost a lot of money. One woman was very worried. Her young child was too thin. Rwanda has a food program. But it does not give food. It gives four chickens to families! It teaches families how to take care of them.",
+        "tw": "在非洲盧安達，許多孩童吃的東西營養都不夠。政府的計畫竟然是發給每個家庭四隻雞。蛤？為什麼？",
+        "time": null
+      },
+      {
+        "en": "This program helped her family! Soon they ate eggs every day. And the child grew little by little! But kids need different kinds of food so they can grow well. So the program teaches families how to grow food. Now some grow spinach, carrots, or sweet potatoes in their gardens. Some grow mushrooms.",
+        "tw": "孩子除了有雞蛋可以吃，為了讓營養更均衡，他們也要學習怎麼種東西，像是菠菜、胡蘿蔔、地瓜還有香菇。",
+        "time": null
+      },
+      {
+        "en": "Families share or sell food they do not need. They can get different kinds of food from each other. The program also teaches families how to cook healthy dishes. Each dish has different kinds of food in it.",
+        "tw": "盧安達的這項計畫很棒， 不僅讓家庭可以互相交換作物，也學習到如何煮出營養的料理，幫助孩子健康長大！",
+        "time": null
+      },
+      {
+        "en": "This program helps families give their kids healthy food. And the kids are growing well!",
+        "tw": "這項計畫幫助家庭提供孩子健康的食物，而孩子們也長得很健康！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "盧安達計畫教每個家庭如何養雞，種菜。",
+      "content": [
+        {
+          "text": "1. food 食物\nWhat can we make for dinner? 我們晚餐可以做什麼？\nLet’s see what food we have in the fridge. 我們看看冰箱裡有什麼食物吧。",
+          "time": null
+        },
+        {
+          "text": "2. egg 雞蛋\nWe have eggs. 我們有蛋。How about an egg sandwich? 吃雞蛋三明治怎麼樣？\nHmm...I want something hot. 我想吃熱的。Let’s make noodles! 我們煮麵吧。",
+          "time": null
+        },
+        {
+          "text": "3. vegetable 蔬菜\nLet’s put some vegetables in, too. 我們也加一些蔬菜吧。\nHere’s a carrot. 這裡有一根胡蘿蔔。Can you wash it? 你可以洗一下嗎？",
+          "time": null
+        },
+        {
+          "text": "4. cook 煮；烹調\nSure. Can you cook the noodles? 好啊。你可以煮麵嗎？I’ll cut the carrot. 我來切胡蘿蔔。\nOkay. I’ll add an egg for each of us. 我幫我們各加一顆蛋。",
+          "time": null
+        }
+      ],
+      "postscript": "Let’s review! Food 食物 egg 雞蛋 vegetable 蔬菜 cook 煮；烹調。"
+    },
+    "quiz": [
+      {
+        "question": "1. Why was the woman worried?",
+        "options": [
+          "a. She did not have mushrooms.",
+          "b. She had too many eggs.",
+          "c. Her child was too thin."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. What does Rwanda's program give many families?",
+        "options": [
+          "a. Cows",
+          "b. Chickens",
+          "c. Pigs"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. What do kids need so they can grow well?",
+        "options": [
+          "a. Different kinds of food",
+          "b. One kind of food",
+          "c. Different kinds of animals"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
