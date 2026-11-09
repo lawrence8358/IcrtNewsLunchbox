@@ -553,5 +553,96 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20261110-01",
+    "type": "國小",
+    "tag": [
+      "消防員",
+      "英雄"
+    ],
+    "title": "These Kind Heroes Put Out Fires Too",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261109NK.mp3",
+    "content": [
+      {
+        "en": "We call firefighters to put out fires and help with other emergencies. In Taiwan, we call 119!",
+        "tw": "我們打電話給消防員來滅火並協助處理其他緊急情況。在台灣，我們撥打 119！",
+        "time": null
+      },
+      {
+        "en": "In the U.S., a man was cutting the grass in front of his house. But he got very sick. Firefighters came and helped him. The man went to the hospital.",
+        "tw": "緊急狀況的時候，消防隊可以幫上大忙。一名美國男子正在院子裡除草，忽然覺得很不舒服，消防隊把他送進了醫院。",
+        "time": null
+      },
+      {
+        "en": "The firefighters were ready to leave the man's house. But then they looked at the grass. Half was not cut! It did not look nice. So the firefighters helped! They cut the rest of the grass! The firefighters put a video online. It showed them cutting the grass. Many people saw it. Some shared stories about other kind firefighters!",
+        "tw": "但是沒有除完的雜草很難看，消防隊員於是完成了這個工作。影片傳上網之後，很多人也分享消防隊員如何提供協助。",
+        "time": null
+      },
+      {
+        "en": "One time, a man was clearing snow. But he got sick. Firefighters came and helped him. Then they cleared the rest of the snow! Another time, a woman was cooking. But she got burned. Firefighters came and helped her. Then they did the rest of the cooking!",
+        "tw": "清掃雪堆的男子突然病倒，女子飯煮了一半被燙傷，都是消防隊員幫忙做完事情。他們是熱心助人的英雄!",
+        "time": null
+      },
+      {
+        "en": "Firefighters help in emergencies. And sometimes they help in other ways. They are kind heroes!",
+        "tw": "消防員在緊急情況下提供協助。有時他們也會以其他方式幫忙。他們是仁慈的英雄！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "這些消防人員不但能救火，還會做很多其他的事。",
+      "content": [
+        {
+          "text": "1. call 打電話。\nIf you see smoke coming from your kitchen, 假如你看到廚房冒煙，\nwhat would you do? 你會怎麼辦?\nI’d call the fire department right away. 馬上打電話給消防隊。",
+          "time": null
+        },
+        {
+          "text": "2. fire 火。\nAnd what would you tell them? 你會怎麼說?\n“Help! My dinner is on fire!” 救命啊，我的晚飯燒起來了!",
+          "time": null
+        },
+        {
+          "text": "3. firefighter 救火員。\nWhat? You should say your kitchen is on fire! 什麼? 你應該說廚房起火了!\nYou don’t expect the firefighters to bring you dinner, do you? 你不會期待救火員幫你帶晚餐來吧?",
+          "time": null
+        },
+        {
+          "text": "4. story 故事。\nWhy not? They’re coming anyway. 為什麼不行? 他們反正就要來了。\nYou’d make a good news story, you know. 你會成為很好的新聞。",
+          "time": null
+        }
+      ],
+      "postscript": "這些單字很有用喔。\ncall打電話 fire火 firefighter救火員 story故事"
+    },
+    "quiz": [
+      {
+        "question": "1. What happened when the man cut his grass?",
+        "options": [
+          "a. A fire started.",
+          "b. The man got very sick.",
+          "c. It snowed."
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. Why didn’t the grass look nice?",
+        "options": [
+          "a. Half was not cut.",
+          "b. It was not green.",
+          "c. All of it was cut."
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did the video show the firefighters doing?",
+        "options": [
+          "a. Putting out a fire",
+          "b. Cutting grass",
+          "c. Helping a woman"
+        ],
+        "time": null,
+        "answer": "b"
+      }
+    ]
   }
 ]
