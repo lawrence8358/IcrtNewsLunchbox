@@ -644,5 +644,88 @@
         "answer": "b"
       }
     ]
+  },
+  {
+    "id": "20261111-01",
+    "type": "國小",
+    "tag": [],
+    "title": "Monkeys Go to University",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261110NK.mp3",
+    "content": [
+      {
+        "en": "After high school, students may go to university. Many students move into dorms at their university. Dorms are buildings with many bedrooms. One university in Kaohsiung had twenty to thirty visitors. They tried to move into a dorm. But they did not tell the university. And they were not students!",
+        "tw": "高雄有一所大學的學生宿舍來了二三十位訪客。牠們是誰呢？",
+        "time": null
+      },
+      {
+        "en": "They were monkeys! They lived nearby on a mountain. One found an open window in the dorm. It went back to the mountain. Then it came back to the dorm. It came with many friends! The monkeys ran into the dorm. They found snacks. They ate them! They found drinks. They drank them! And they made big messes everywhere!",
+        "tw": "原來是猴子！呼朋引伴的猴子們跑進宿舍房間裡搜括所有的食物飲料，把宿舍弄得一團亂！",
+        "time": null
+      },
+      {
+        "en": "Then... whoops! One monkey inside dropped food outside. It fell onto the ground. All the monkeys raced to it! They started sliding and climbing down the front of the dorm! One student said these monkeys were scary. One said they were cool. Some put videos of them online.",
+        "tw": "這些小賊還把食物丟到窗外，猴群跟著往下衝。學生對這些猴子的反應不一，有人覺得很恐怖，有人覺得很酷。如果是你碰到這群猴子，會不會害怕？",
+        "time": null
+      },
+      {
+        "en": "What do you think? Are many monkeys climbing down a building scary?",
+        "tw": "你覺得呢？許多猴子從建築物爬下來很可怕嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "大群猴子跑進了宿舍，讓學生有點不知所措。",
+      "content": [
+        {
+          "text": "1. run 跑。\nI can’t imagine walking into my room and finding a monkey there!\n我不能想像走進房間，裡面有隻猴子!\nMe neither. I’d run away as fast as I could. 我也不能，我會儘快逃走。",
+          "time": null
+        },
+        {
+          "text": "2. window 窗戶。\nNot me. 我不會。I’d chase it out the window. 我一定要把牠從窗戶趕出去。\nHow? 怎麼趕?\nI’ve got a broom.我有掃把。",
+          "time": null
+        },
+        {
+          "text": "3. outside 外面。\nYou want to hit the animal?! 你要打那隻動物?!\nWell, I just want it to go outside. 我只要牠到外面去。",
+          "time": null
+        },
+        {
+          "text": "4. ground 地上。\nWhat if it falls to the ground? 要是牠掉到地上怎麼辦?\nOh, you’re right. I think I’d call for help. 說得也是。我想還是求救吧。",
+          "time": null
+        }
+      ],
+      "postscript": "請跟我一起讀今天的單字。\nrun跑 window窗戶 outside外面 ground地上"
+    },
+    "quiz": [
+      {
+        "question": "1. Where is the university?",
+        "options": [
+          "a. Taitung",
+          "b. Nantou",
+          "c. Kaohsiung"
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "2. How many monkeys were there?",
+        "options": [
+          "a. One",
+          "b. Twenty to thirty",
+          "c. More than fifty"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "3. Why did all the monkeys race down the building?",
+        "options": [
+          "a. They wanted to get the food on the ground.",
+          "b. They wanted to look cool.",
+          "c. They wanted to scare students."
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
