@@ -727,5 +727,92 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20261112-01",
+    "type": "國小",
+    "tag": [
+      "公益",
+      "玩具",
+      "幫助他人"
+    ],
+    "title": "Girl Fixes Stuffed Animals to Help Kids",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261111NK.mp3",
+    "content": [
+      {
+        "en": "In the U.S., a 12-year-old girl and her mom save old stuffed animals. They save them from being thrown away. These stuffed animals do not look good. But they looked good before. The girl and her mom wash the stuffed animals. Then they fix them. They make them look good again!",
+        "tw": "你會洗你舊的填充玩偶嗎？美國有一對母女不但收留舊的填充玩偶，還會把他們清洗乾淨。",
+        "time": null
+      },
+      {
+        "en": "This year, the girl learned something sad. Families can lose everything in fires and other disasters. They can lose their homes. They can lose money and other important things. And kids can lose all their toys! So now the girl helps kids. Some of the kids lost toys in fires. Some lost toys in earthquakes, floods, or typhoons. These kids get the stuffed animals she fixed. They help the kids feel better.",
+        "tw": "這名12歲的女孩想要安慰在災害中失去一切的孩子，於是把整理好的玩偶送給他們，讓玩偶陪伴他們。",
+        "time": null
+      },
+      {
+        "en": "The girl gave 114 stuffed animals to kids this year. Wow! And she and her mom are fixing more to give to kids. This girl was shy about sharing her story. But now she is sharing it. She hopes kids will hear her story and try to help people too!",
+        "tw": "這個小女孩今年送出了114隻填充玩偶，她希望把消息傳出去，讓更多人也來幫忙！你會怎麼幫助其他人呢？",
+        "time": null
+      },
+      {
+        "en": "Will you help?",
+        "tw": "你願意幫忙嗎？",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "舊的動物玩偶經常沒用了，整理好之後卻可以分享給小朋友。",
+      "content": [
+        {
+          "text": "1. family 家人，家庭。\nAre all these toys yours? 這些玩具全部是你的?\nSure, they are gifts from family and friends. 當然，是家人跟朋友給我的禮物。",
+          "time": null
+        },
+        {
+          "text": "2. throw away 扔掉。\nAnd you’ve kept them for years. 你多年來就一直保留著。\nYeah, I don’t want to throw any of them away. 對，我一個都不想扔掉。",
+          "time": null
+        },
+        {
+          "text": "3. feel 感覺。\nYou have enough stuffed animals to open a store! 你的玩偶多到可以開玩具店了。\nIsn’t it great? I feel safe with them around. 可不是很棒? 有他們在我覺得很安全。",
+          "time": null
+        },
+        {
+          "text": "4. fix 修理。\nBut your teddy bear is missing an ear. 但是你的泰迪熊一隻耳朵沒了。\nOh, I want to fix it, but I don’t know how to sew. 我要修它的，但是我不會縫紉。",
+          "time": null
+        }
+      ],
+      "postscript": "你喜歡怎樣的玩具? 來讀單字。\nfamily家人 throw away扔掉 feel感覺 fix修理"
+    },
+    "quiz": [
+      {
+        "question": "1. How old is the girl?",
+        "options": [
+          "a. 7 years old",
+          "b. 12 years old",
+          "c. 14 years old"
+        ],
+        "time": null,
+        "answer": "b"
+      },
+      {
+        "question": "2. What did the girl learn this year?",
+        "options": [
+          "a. Old stuffed animals are thrown away.",
+          "b. Her mom can fix stuffed animals.",
+          "c. Kids can lose all their toys in disasters."
+        ],
+        "time": null,
+        "answer": "c"
+      },
+      {
+        "question": "3. Why does the girl fix stuffed animals now?",
+        "options": [
+          "a. To help kids feel better",
+          "b. To get more toys",
+          "c. To sell to kids"
+        ],
+        "time": null,
+        "answer": "a"
+      }
+    ]
   }
 ]
