@@ -814,5 +814,117 @@
         "answer": "a"
       }
     ]
+  },
+  {
+    "id": "20261113-01",
+    "type": "國小",
+    "tag": [
+      "彰化",
+      "山羊",
+      "噪音"
+    ],
+    "title": "Noisy Goats Do Not Let People Sleep",
+    "audio": "https://www.icrt.com.tw//en/ext/rss/LunchBox/20261112NK.mp3",
+    "content": [
+      {
+        "en": "A farmer in Changhua has 95 goats. They make many kinds of noises. Some noises are high. Some are low. Some are short. Some are long.",
+        "tw": "彰化有一位農民養了 95 隻山羊。牠們會發出各種聲音。有些聲音很高，有些很低。有些很短，有些很長。",
+        "time": null
+      },
+      {
+        "en": "The goats make noise during the day. They make A LOT of noise at night. And... they live outside a home. And... the home is near other homes! Oh no!",
+        "tw": "山羊在白天會發出聲音。牠們在晚上會發出大量的噪音。而且... 牠們住在房子外面。而且... 那個房子靠近其他住家！噢不！",
+        "time": null
+      },
+      {
+        "en": "The people living near the goats were NOT happy. They wanted to sleep at night. They wanted to sleep ALL night. But the goats made too much noise!",
+        "tw": "住在那群山羊附近的居民一點也不開心。他們想在晚上睡覺。他們想睡一整晚。但是山羊發出的噪音太大了！",
+        "time": null
+      },
+      {
+        "en": "The people called the police last winter. The police told the farmer the goats had to be quieter. The farmer tried. But nothing worked!",
+        "tw": "去年冬天，人們報了警。警察告訴農民，山羊必須安靜一點。農民努力嘗試了。但沒有任何效果！",
+        "time": null
+      },
+      {
+        "en": "In the spring, the goats were VERY loud. And they were loud together! The people called the police again. The police said the farmer had to pay $1,000 Taiwan dollars.",
+        "tw": "春天時，山羊非常大聲。而且牠們一起發出巨響！人們再次報警。警察說農民必須支付 1,000 元台幣。",
+        "time": null
+      },
+      {
+        "en": "The farmer did not want to pay. So in the fall, he had to go to a judge. Judges can say someone has to pay. Or they can say someone does not have to pay. But first, they listen.",
+        "tw": "農民不想付錢。所以在秋天，他必須去見法官。法官可以決定某人是否必須付錢，或者決定某人不必付錢。但首先，他們會先聽取陳述。",
+        "time": null
+      },
+      {
+        "en": "The farmer said he tried to make the goats quieter. He said they were not too loud. He said they were quieter than birds!",
+        "tw": "農民說他努力讓山羊變得更安靜。他說牠們並沒有太大聲。他說牠們比鳥類還要安靜！",
+        "time": null
+      },
+      {
+        "en": "The judge said maybe the goats were not very loud. But their noises woke up people at night. These people did not sleep well.",
+        "tw": "法官說也許山羊不是很大聲。但牠們的叫聲在晚上吵醒了人們。這些人睡得不好。",
+        "time": null
+      },
+      {
+        "en": "The judge said the farmer had to pay. Loud or quiet, noise is noise. And the goats made noise!",
+        "tw": "法官說農民必須付錢。不論是大聲還是小聲，噪音就是噪音。而這些山羊確實製造了噪音！",
+        "time": null
+      }
+    ],
+    "vocabulary": {
+      "preface": "白天晚上都吵鬧的山羊讓鄰居非常頭痛。",
+      "content": [
+        {
+          "text": "1. well 好的。\nI've got dark circles under my eyes today. 我今天有黑眼圈。\nDidn't you sleep well? 你沒睡好?\nNo, I slept terribly! 我睡得糟透了!",
+          "time": null
+        },
+        {
+          "text": "2. quiet 安靜的。\nMy neighbors were making noise until midnight. 鄰居一直吵到半夜。\nJust knock on their door and tell them to be quiet. 去敲他們的門要他們安靜。",
+          "time": null
+        },
+        {
+          "text": "3. police 警察。\nI didn’t want to go out. 我不想出去。\nThen call the police. 那叫警察。\nI did, but it was useless. 我有叫，但是沒用。",
+          "time": null
+        },
+        {
+          "text": "4. have to 必須。\nThey ignored the police.他們不理會警察。\nYou have to try something else. 你得試試別的。\nLike playing loud music early in the morning! 比如說一早就大聲放音樂!\nWhat if they call the police? 要是他們叫警察呢?",
+          "time": null
+        }
+      ],
+      "postscript": "今天你學到哪些單字?\nwell好的 quiet安靜的 police警察 have to必須"
+    },
+    "quiz": [
+      {
+        "question": "1. Where does the farmer live?",
+        "options": [
+          "a. Changhua",
+          "b. Yunlin",
+          "c. Pingtung"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "2. How many goats does the farmer have?",
+        "options": [
+          "a. 95",
+          "b. 99",
+          "c. 900"
+        ],
+        "time": null,
+        "answer": "a"
+      },
+      {
+        "question": "3. What did the farmer say about his goats?",
+        "options": [
+          "a. They were too loud.",
+          "b. They woke up people.",
+          "c. They were quieter than birds."
+        ],
+        "time": null,
+        "answer": "c"
+      }
+    ]
   }
 ]
